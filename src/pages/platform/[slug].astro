@@ -1,0 +1,140 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import EmailCapture from '../../components/EmailCapture.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const policies = await getCollection('policies');
+  return policies.map(policy => ({
+    params: { slug: policy.slug },
+    props: { policy },
+  }));
+}
+
+const { policy } = Astro.props;
+const { Content } = await policy.render();
+---
+
+<Layout title={policy.data.title} description={policy.data.summary}>
+  <article class="section">
+    <div class="container container--narrow">
+      <a href="/platform" class="back-link" data-en="← Back to Platform" data-es="← Volver a la Plataforma">
+        ← Back to Platform
+      </a>
+
+      <header class="policy-header">
+        <span class="policy-header__icon">{policy.data.icon}</span>
+        <span class="policy-header__category">{policy.data.category}</span>
+        <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{policy.data.title}</h1>
+        <p class="policy-header__summary" data-en={policy.data.summary} data-es={policy.data.summaryEs}>
+          {policy.data.summary}
+        </p>
+      </header>
+
+      <div class="policy-content">
+        <Content />
+      </div>
+
+      <footer class="policy-footer">
+        <div class="policy-share">
+          <h3 data-en="Share This Proposal" data-es="Comparte Esta Propuesta">Share This Proposal</h3>
+          <div class="policy-share__links">
+            <a
+              href={`https://www.reddit.com/submit?url=https://denverforall.org/platform/${policy.slug}&title=${encodeURIComponent(policy.data.title)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+            >
+              Reddit
+            </a>
+            <button class="btn btn--secondary" id="copy-link" data-en="Copy Link" data-es="Copiar Enlace">
+              Copy Link
+            </button>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </article>
+
+  <section class="section section--alt">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .back-link {
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    color: var(--color-text-muted);
+  }
+
+  .back-link:hover {
+    color: var(--color-primary);
+  }
+
+  .policy-header {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  .policy-header__icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .policy-header__category {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-primary);
+  }
+
+  .policy-header h1 {
+    margin: 0.5rem 0 1rem;
+  }
+
+  .policy-header__summary {
+    font-size: 1.15rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  .policy-footer {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--color-border);
+  }
+
+  .policy-share {
+    text-align: center;
+  }
+
+  .policy-share h3 {
+    margin-bottom: 1rem;
+  }
+
+  .policy-share__links {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+</style>
+
+<script>
+  document.getElementById('copy-link')?.addEventListener('click', async () => {
+    await navigator.clipboard.writeText(window.location.href);
+    const btn = document.getElementById('copy-link');
+    if (btn) {
+      const orig = btn.textContent;
+      btn.textContent = '✓ Copied!';
+      setTimeout(() => { btn.textContent = orig; }, 2000);
+    }
+  });
+</script>

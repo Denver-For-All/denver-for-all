@@ -1,0 +1,79 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Eviction Tracker" description="Live dashboard of eviction filings in Denver by landlord and neighborhood.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Denver Eviction Tracker" data-es="Rastreador de Desalojos de Denver">Denver Eviction Tracker</h1>
+      <p data-en="Real-time eviction filing data from Denver County Court. Updated daily." data-es="Datos de demandas de desalojo en tiempo real del Tribunal del Condado de Denver. Actualizado diariamente.">
+        Real-time eviction filing data from Denver County Court. Updated daily.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="tool-placeholder" id="eviction-tracker-app">
+        <div class="tool-placeholder__inner">
+          <h2 data-en="Coming Soon" data-es="Próximamente">Coming Soon</h2>
+          <p data-en="The eviction tracker is currently being built. It will include:" data-es="El rastreador de desalojos está actualmente en construcción. Incluirá:">
+            The eviction tracker is currently being built. It will include:
+          </p>
+          <ul>
+            <li data-en="Interactive map of eviction filings by neighborhood" data-es="Mapa interactivo de demandas de desalojo por vecindario">Interactive map of eviction filings by neighborhood</li>
+            <li data-en="Top evicting landlords ranked by filing volume" data-es="Principales propietarios desalojadores clasificados por volumen de demandas">Top evicting landlords ranked by filing volume</li>
+            <li data-en="Trend charts showing eviction rates over time" data-es="Gráficos de tendencias mostrando tasas de desalojo a lo largo del tiempo">Trend charts showing eviction rates over time</li>
+            <li data-en="Downloadable data for researchers and journalists" data-es="Datos descargables para investigadores y periodistas">Downloadable data for researchers and journalists</li>
+            <li data-en="Alerts for spikes in specific neighborhoods" data-es="Alertas para aumentos repentinos en vecindarios específicos">Alerts for spikes in specific neighborhoods</li>
+          </ul>
+          <p data-en="Data source: Denver County Court public records, scraped and processed daily via Cloudflare Workers." data-es="Fuente de datos: Registros públicos del Tribunal del Condado de Denver, obtenidos y procesados diariamente a través de Cloudflare Workers.">
+            Data source: Denver County Court public records, scraped and processed daily via Cloudflare Workers.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
+
+  .tool-placeholder {
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .tool-placeholder__inner {
+    max-width: 600px;
+    text-align: center;
+    padding: 3rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 2px dashed var(--color-border);
+  }
+
+  .tool-placeholder__inner h2 {
+    color: var(--color-primary);
+    margin-bottom: 1rem;
+  }
+
+  .tool-placeholder__inner ul {
+    text-align: left;
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+  }
+
+  .tool-placeholder__inner li {
+    margin-bottom: 0.5rem;
+    color: var(--color-text-muted);
+  }
+</style>

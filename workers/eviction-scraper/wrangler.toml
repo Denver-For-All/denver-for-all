@@ -1,0 +1,15 @@
+name = "dfa-eviction-scraper"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[triggers]
+# Run daily at 6 AM UTC (midnight MT)
+crons = ["0 6 * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "eviction-data"
+database_id = "" # Set after creating D1 database via: wrangler d1 create eviction-data
+
+[vars]
+CORS_ORIGIN = "https://denverforall.org"

@@ -1,0 +1,149 @@
+---
+import Layout from '../layouts/Layout.astro';
+import EmailCapture from '../components/EmailCapture.astro';
+---
+
+<Layout title="Take Action" description="Join the fight for a Denver that works for everyone. Here's how you can help right now.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Take Action" data-es="Actúa">Take Action</h1>
+      <p data-en="This movement only works if people show up. Here's how you can fight for Denver right now." data-es="Este movimiento solo funciona si la gente participa. Así puedes luchar por Denver ahora mismo.">
+        This movement only works if people show up. Here's how you can fight for Denver right now.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <div class="action-list">
+        <div class="action-item">
+          <span class="action-item__number">1</span>
+          <div>
+            <h3 data-en="Sign Up for Updates" data-es="Suscríbete para Recibir Actualizaciones">Sign Up for Updates</h3>
+            <p data-en="Join our email list. We'll send you policy updates, action alerts, and ways to get involved. No spam, just organizing." data-es="Únete a nuestra lista de correo. Te enviaremos actualizaciones de políticas, alertas de acción y formas de participar. Sin spam, solo organización.">
+              Join our email list. We'll send you policy updates, action alerts, and ways to get involved. No spam, just organizing.
+            </p>
+          </div>
+        </div>
+
+        <div class="action-item">
+          <span class="action-item__number">2</span>
+          <div>
+            <h3 data-en="Join the Signal Group" data-es="Únete al Grupo de Signal">Join the Signal Group</h3>
+            <p data-en="Our real-time organizing happens on Signal. Coordinate actions, share resources, connect with other Denver organizers. Encrypted and secure." data-es="Nuestra organización en tiempo real sucede en Signal. Coordina acciones, comparte recursos, conéctate con otros organizadores de Denver. Encriptado y seguro.">
+              Our real-time organizing happens on Signal. Coordinate actions, share resources, connect with other Denver organizers. Encrypted and secure.
+            </p>
+            <a href="#" class="btn btn--secondary" data-en="Join Signal Group" data-es="Únete al Grupo de Signal">Join Signal Group</a>
+          </div>
+        </div>
+
+        <div class="action-item">
+          <span class="action-item__number">3</span>
+          <div>
+            <h3 data-en="Call Your Councilmember" data-es="Llama a Tu Concejal">Call Your Councilmember</h3>
+            <p data-en="Pick an issue from our platform. Call your district's councilmember. Tell them what you want. It takes 2 minutes and it works - they track every call." data-es="Elige un tema de nuestra plataforma. Llama al concejal de tu distrito. Diles lo que quieres. Toma 2 minutos y funciona - registran cada llamada.">
+              Pick an issue from our platform. Call your district's councilmember. Tell them what you want. It takes 2 minutes and it works - they track every call.
+            </p>
+            <a href="https://www.denvergov.org/Government/Denver-City-Council/Council-Members" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Find Your Councilmember" data-es="Encuentra a Tu Concejal">Find Your Councilmember</a>
+          </div>
+        </div>
+
+        <div class="action-item">
+          <span class="action-item__number">4</span>
+          <div>
+            <h3 data-en="Show Up to City Council" data-es="Asiste al Concejo Municipal">Show Up to City Council</h3>
+            <p data-en="Denver City Council meets every Monday at 5:30 PM. Public comment is open. Show up. Speak. Record it. Post it. When 20 people show up demanding rent control, they notice." data-es="El Concejo Municipal de Denver se reúne cada lunes a las 5:30 PM. Los comentarios públicos están abiertos. Asiste. Habla. Grábalo. Publícalo. Cuando 20 personas se presentan exigiendo control de alquileres, lo notan.">
+              Denver City Council meets every Monday at 5:30 PM. Public comment is open. Show up. Speak. Record it. Post it. When 20 people show up demanding rent control, they notice.
+            </p>
+          </div>
+        </div>
+
+        <div class="action-item">
+          <span class="action-item__number">5</span>
+          <div>
+            <h3 data-en="Share Our Policy Proposals" data-es="Comparte Nuestras Propuestas Políticas">Share Our Policy Proposals</h3>
+            <p data-en="Read a policy you like? Share it on Reddit, social media, group chats, your neighborhood Nextdoor. Every share reaches someone new." data-es="¿Leíste una política que te gusta? Compártela en Reddit, redes sociales, chats grupales, el Nextdoor de tu vecindario. Cada vez que la compartes, llega a alguien nuevo.">
+              Read a policy you like? Share it on Reddit, social media, group chats, your neighborhood Nextdoor. Every share reaches someone new.
+            </p>
+            <a href="/platform" class="btn btn--secondary" data-en="Browse the Platform" data-es="Explora la Plataforma">Browse the Platform</a>
+          </div>
+        </div>
+
+        <div class="action-item">
+          <span class="action-item__number">6</span>
+          <div>
+            <h3 data-en="Volunteer Your Skills" data-es="Ofrece Tus Habilidades como Voluntario">Volunteer Your Skills</h3>
+            <p data-en="We need: translators (especially Spanish), data analysts, graphic designers, writers, canvassers, legal expertise, social media managers, and anyone willing to knock on doors." data-es="Necesitamos: traductores (especialmente español), analistas de datos, diseñadores gráficos, escritores, promotores, experiencia legal, gestores de redes sociales y cualquiera dispuesto a tocar puertas.">
+              We need: translators (especially Spanish), data analysts, graphic designers, writers, canvassers, legal expertise, social media managers, and anyone willing to knock on doors.
+            </p>
+            <a href="https://forms.gle/PLACEHOLDER-VOLUNTEER" target="_blank" rel="noopener" class="btn btn--primary" data-en="Volunteer Sign-Up" data-es="Inscripción de Voluntarios">Volunteer Sign-Up</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .action-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .action-item {
+    display: flex;
+    gap: 1.5rem;
+    padding: 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .action-item__number {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-primary);
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 800;
+    border-radius: 50%;
+  }
+
+  .action-item h3 {
+    font-size: 1.15rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .action-item p {
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+    margin-bottom: 0.75rem;
+  }
+
+  @media (max-width: 480px) {
+    .action-item {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>

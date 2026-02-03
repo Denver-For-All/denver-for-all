@@ -1,0 +1,255 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Rent Control Calculator" description="See how much you'd save under Denver For All's rent stabilization plan.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Rent Control Calculator" data-es="Calculadora de Control de Alquiler">Rent Control Calculator</h1>
+      <p data-en="See how much you'd save if Denver had real rent stabilization." data-es="Mira cuánto ahorrarías si Denver tuviera una verdadera estabilización de alquileres.">
+        See how much you'd save if Denver had real rent stabilization.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <div class="calculator" id="rent-calculator-app">
+        <div class="calc-form">
+          <div class="calc-field">
+            <label for="current-rent" data-en="Your current monthly rent" data-es="Tu alquiler mensual actual">Your current monthly rent</label>
+            <div class="calc-input-group">
+              <span class="calc-prefix">$</span>
+              <input type="number" id="current-rent" value="1800" min="0" step="50" />
+            </div>
+          </div>
+
+          <div class="calc-field">
+            <label for="years" data-en="Years into the future" data-es="Años en el futuro">Years into the future</label>
+            <input type="range" id="years" min="1" max="10" value="5" />
+            <span class="calc-range-label" id="years-label">5 years</span>
+          </div>
+
+          <div class="calc-field">
+            <label for="market-increase" data-en="Expected annual market rent increase" data-es="Aumento anual esperado del alquiler de mercado">Expected annual market rent increase</label>
+            <input type="range" id="market-increase" min="3" max="15" value="8" />
+            <span class="calc-range-label" id="market-label">8%</span>
+          </div>
+        </div>
+
+        <div class="calc-results" id="calc-results">
+          <h2 data-en="Your Savings" data-es="Tus Ahorros">Your Savings</h2>
+
+          <div class="calc-comparison">
+            <div class="calc-column calc-column--bad">
+              <h3 data-en="Without Rent Control" data-es="Sin Control de Alquiler">Without Rent Control</h3>
+              <p class="calc-amount" id="no-control-rent">$2,645/mo</p>
+              <p class="calc-note" data-en="in 5 years at 8% annual increases" data-es="en 5 años con aumentos anuales del 8%">in 5 years at 8% annual increases</p>
+            </div>
+
+            <div class="calc-column calc-column--good">
+              <h3 data-en="With Denver For All Plan" data-es="Con el Plan Denver Para Todos">With Denver For All Plan</h3>
+              <p class="calc-amount" id="with-control-rent">$1,969/mo</p>
+              <p class="calc-note" data-en="capped at CPI or 3%, whichever is lower" data-es="limitado al IPC o 3%, lo que sea menor">capped at CPI or 3%, whichever is lower</p>
+            </div>
+          </div>
+
+          <div class="calc-savings">
+            <p data-en="You save" data-es="Ahorras"><strong>You save</strong></p>
+            <p class="calc-savings__amount" id="monthly-savings">$676/month</p>
+            <p class="calc-savings__total" id="total-savings" data-en="That's $40,560 over 5 years" data-es="Eso es $40,560 en 5 años">
+              That's <strong>$40,560</strong> over 5 years
+            </p>
+          </div>
+
+          <button class="btn btn--primary" id="share-btn" data-en="Share Your Results" data-es="Comparte Tus Resultados">
+            Share Your Results
+          </button>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
+
+  .calculator {
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+  }
+
+  .calc-form {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .calc-field label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+  }
+
+  .calc-input-group {
+    display: flex;
+    align-items: center;
+    border: 2px solid var(--color-border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+
+  .calc-prefix {
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-alt);
+    font-weight: 700;
+    color: var(--color-text-muted);
+    border-right: 2px solid var(--color-border);
+  }
+
+  .calc-input-group input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border: none;
+    font-family: var(--font-sans);
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+
+  .calc-input-group input:focus { outline: none; }
+
+  input[type="range"] {
+    width: 100%;
+    accent-color: var(--color-primary);
+  }
+
+  .calc-range-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  .calc-results {
+    padding: 2rem;
+    background: var(--color-bg-alt);
+    text-align: center;
+  }
+
+  .calc-results h2 { margin-bottom: 1.5rem; }
+
+  .calc-comparison {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .calc-column {
+    padding: 1.5rem;
+    border-radius: var(--radius);
+  }
+
+  .calc-column--bad {
+    background: rgba(192, 57, 43, 0.08);
+    border: 2px solid rgba(192, 57, 43, 0.2);
+  }
+
+  .calc-column--good {
+    background: rgba(13, 115, 119, 0.08);
+    border: 2px solid rgba(13, 115, 119, 0.2);
+  }
+
+  .calc-column h3 { font-size: 0.9rem; margin-bottom: 0.5rem; }
+
+  .calc-amount {
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin-bottom: 0.25rem;
+  }
+
+  .calc-column--bad .calc-amount { color: var(--color-danger); }
+  .calc-column--good .calc-amount { color: var(--color-primary); }
+
+  .calc-note {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0;
+  }
+
+  .calc-savings {
+    margin-bottom: 1.5rem;
+  }
+
+  .calc-savings__amount {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--color-primary);
+    line-height: 1;
+    margin: 0.25rem 0;
+  }
+
+  .calc-savings__total {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+  }
+</style>
+
+<script>
+  const rentInput = document.getElementById('current-rent') as HTMLInputElement;
+  const yearsInput = document.getElementById('years') as HTMLInputElement;
+  const marketInput = document.getElementById('market-increase') as HTMLInputElement;
+
+  function calculate() {
+    const rent = parseFloat(rentInput.value) || 0;
+    const years = parseInt(yearsInput.value);
+    const marketRate = parseInt(marketInput.value) / 100;
+    const capRate = 0.03; // CPI or 3%, whichever lower - assume 3% cap
+
+    document.getElementById('years-label')!.textContent = `${years} year${years > 1 ? 's' : ''}`;
+    document.getElementById('market-label')!.textContent = `${marketInput.value}%`;
+
+    const noControl = rent * Math.pow(1 + marketRate, years);
+    const withControl = rent * Math.pow(1 + capRate, years);
+    const monthlySavings = noControl - withControl;
+
+    let totalSavings = 0;
+    for (let y = 1; y <= years; y++) {
+      totalSavings += 12 * (rent * Math.pow(1 + marketRate, y) - rent * Math.pow(1 + capRate, y));
+    }
+
+    const fmt = (n: number) => '$' + Math.round(n).toLocaleString();
+
+    document.getElementById('no-control-rent')!.textContent = `${fmt(noControl)}/mo`;
+    document.getElementById('with-control-rent')!.textContent = `${fmt(withControl)}/mo`;
+    document.getElementById('monthly-savings')!.textContent = `${fmt(monthlySavings)}/month`;
+    document.getElementById('total-savings')!.innerHTML =
+      `That's <strong>${fmt(totalSavings)}</strong> over ${years} year${years > 1 ? 's' : ''}`;
+  }
+
+  rentInput.addEventListener('input', calculate);
+  yearsInput.addEventListener('input', calculate);
+  marketInput.addEventListener('input', calculate);
+  calculate();
+
+  document.getElementById('share-btn')?.addEventListener('click', async () => {
+    const text = `If Denver had rent control, I'd save ${document.getElementById('monthly-savings')!.textContent} on rent. ${document.getElementById('total-savings')!.textContent?.replace(/<[^>]*>/g, '')}. See your savings: https://denverforall.org/tools/rent-calculator`;
+    if (navigator.share) {
+      await navigator.share({ text });
+    } else {
+      await navigator.clipboard.writeText(text);
+      const btn = document.getElementById('share-btn')!;
+      btn.textContent = '✓ Copied to clipboard!';
+      setTimeout(() => { btn.textContent = 'Share Your Results'; }, 2000);
+    }
+  });
+</script>

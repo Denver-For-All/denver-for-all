@@ -1,0 +1,159 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Know Your Rights" description="24/7 AI-powered tenant rights assistant in English and Spanish.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</h1>
+      <p data-en="Free 24/7 tenant rights assistant. Chat or call. English and Spanish." data-es="Asistente gratuito de derechos del inquilino 24/7. Chat o llamada. Inglés y español.">
+        Free 24/7 tenant rights assistant. Chat or call. English and Spanish.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <!-- vAPI Chat Widget will be injected here -->
+      <div class="chatbot-container" id="chatbot-app">
+        <div class="chatbot-placeholder">
+          <h2 data-en="Tenant Rights Assistant" data-es="Asistente de Derechos del Inquilino">Tenant Rights Assistant</h2>
+          <p data-en="Ask about eviction, repairs, deposits, discrimination, lease issues, and more. Powered by Colorado tenant law and Denver municipal code." data-es="Pregunta sobre desalojos, reparaciones, depósitos, discriminación, problemas de arrendamiento y más. Basado en la ley de inquilinos de Colorado y el código municipal de Denver.">
+            Ask about eviction, repairs, deposits, discrimination, lease issues, and more.
+            Powered by Colorado tenant law and Denver municipal code.
+          </p>
+
+          <div class="chatbot-options">
+            <button class="btn btn--primary btn--large" id="start-chat" data-en="Start Chat" data-es="Iniciar Chat">
+              Start Chat
+            </button>
+            <button class="btn btn--secondary btn--large" id="start-call" data-en="Call Now (English)" data-es="Llamar Ahora (Inglés)">
+              Call Now (English)
+            </button>
+            <button class="btn btn--secondary btn--large" id="start-call-es" data-en="Llamar (Español)" data-es="Llamar (Español)">
+              Llamar (Español)
+            </button>
+          </div>
+
+          <div class="chatbot-topics">
+            <h3 data-en="Common Questions" data-es="Preguntas Frecuentes">Common Questions</h3>
+            <div class="topic-chips">
+              <button class="topic-chip" data-en="My landlord is trying to evict me" data-es="Mi arrendador está tratando de desalojarme">My landlord is trying to evict me</button>
+              <button class="topic-chip" data-en="My apartment needs repairs" data-es="Mi apartamento necesita reparaciones">My apartment needs repairs</button>
+              <button class="topic-chip" data-en="I didn't get my deposit back" data-es="No me devolvieron mi depósito">I didn't get my deposit back</button>
+              <button class="topic-chip" data-en="My rent was raised unfairly" data-es="Me subieron el alquiler injustamente">My rent was raised unfairly</button>
+              <button class="topic-chip" data-en="I'm being discriminated against" data-es="Estoy siendo discriminado/a">I'm being discriminated against</button>
+              <button class="topic-chip" data-en="I need a lawyer" data-es="Necesito un abogado">I need a lawyer</button>
+            </div>
+          </div>
+
+          <p class="chatbot-disclaimer" data-en="This tool provides general information, not legal advice. For urgent legal help, contact Colorado Legal Services at (303) 837-1321." data-es="Esta herramienta proporciona información general, no asesoramiento legal. Para ayuda legal urgente, contacta a Colorado Legal Services al (303) 837-1321.">
+            This tool provides general information, not legal advice. For urgent legal help,
+            contact Colorado Legal Services at (303) 837-1321.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
+
+  .chatbot-container {
+    min-height: 600px;
+  }
+
+  .chatbot-placeholder {
+    text-align: center;
+    padding: 3rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .chatbot-placeholder h2 {
+    margin-bottom: 0.75rem;
+  }
+
+  .chatbot-placeholder > p {
+    color: var(--color-text-muted);
+    max-width: 500px;
+    margin: 0 auto 2rem;
+  }
+
+  .chatbot-options {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2.5rem;
+  }
+
+  .chatbot-topics {
+    margin-bottom: 2rem;
+  }
+
+  .chatbot-topics h3 {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    color: var(--color-text-muted);
+  }
+
+  .topic-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .topic-chip {
+    background: var(--color-bg-alt);
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+    font-family: var(--font-sans);
+    cursor: pointer;
+    transition: all 0.2s;
+    color: var(--color-text-muted);
+  }
+
+  .topic-chip:hover {
+    background: var(--color-primary);
+    color: white;
+    border-color: var(--color-primary);
+  }
+
+  .chatbot-disclaimer {
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+    max-width: 500px;
+    margin: 0 auto;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+</style>
+
+<!-- vAPI integration point - replace ASSISTANT_ID with actual vAPI assistant ID -->
+<script>
+  // vAPI Web SDK will be loaded here when assistant is configured
+  // See /vapi/assistant-config.json for setup details
+  //
+  // import Vapi from '@vapi-ai/web';
+  // const vapi = new Vapi('YOUR_PUBLIC_KEY');
+  //
+  // document.getElementById('start-call')?.addEventListener('click', () => {
+  //   vapi.start('ENGLISH_ASSISTANT_ID');
+  // });
+  //
+  // document.getElementById('start-call-es')?.addEventListener('click', () => {
+  //   vapi.start('SPANISH_ASSISTANT_ID');
+  // });
+</script>

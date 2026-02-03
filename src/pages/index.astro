@@ -1,0 +1,304 @@
+---
+import Layout from '../layouts/Layout.astro';
+import EmailCapture from '../components/EmailCapture.astro';
+import PolicyCard from '../components/PolicyCard.astro';
+import { getCollection } from 'astro:content';
+
+const policies = (await getCollection('policies'))
+  .filter(p => p.data.status === 'published' || p.data.status === 'draft')
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 6);
+---
+
+<Layout>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero__content">
+        <h1 class="hero__headline" data-en="Denver Belongs to All of Us" data-es="Denver Nos Pertenece a Todos">
+          Denver Belongs to All of Us
+        </h1>
+        <p class="hero__sub" data-en="Not just developers. Not just landlords. Not just corporations. All of us." data-es="No solo a los desarrolladores. No solo a los dueños. No solo a las corporaciones. A todos nosotros.">
+          Not just developers. Not just landlords. Not just corporations. All of us.
+        </p>
+        <p class="hero__body" data-en="7,500 of our neighbors are homeless. Rents have doubled in a decade. Wages haven't kept up. We have a plan to fix it - and we're building the movement to make it happen." data-es="7,500 de nuestros vecinos no tienen hogar. Los alquileres se han duplicado en una década. Los salarios no han seguido el ritmo. Tenemos un plan para arreglarlo - y estamos construyendo el movimiento para hacerlo realidad.">
+          7,500 of our neighbors are homeless. Rents have doubled in a decade. Wages haven't kept up.
+          We have a plan to fix it - and we're building the movement to make it happen.
+        </p>
+        <div class="hero__actions">
+          <a href="/platform" class="btn btn--primary btn--large" data-en="Read the Platform" data-es="Lee la Plataforma">
+            Read the Platform
+          </a>
+          <a href="#join" class="btn btn--secondary btn--large" data-en="Join the Movement" data-es="Únete al Movimiento">
+            Join the Movement
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Section -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="stats">
+        <div class="stat">
+          <span class="stat__number">7,500+</span>
+          <span class="stat__label" data-en="People experiencing homelessness in Denver" data-es="Personas sin hogar en Denver">
+            People experiencing homelessness in Denver
+          </span>
+        </div>
+        <div class="stat">
+          <span class="stat__number">98%</span>
+          <span class="stat__label" data-en="Rent increase since 2010 in Denver metro" data-es="Aumento del alquiler desde 2010 en el área metropolitana de Denver">
+            Rent increase since 2010 in Denver metro
+          </span>
+        </div>
+        <div class="stat">
+          <span class="stat__number">$25/hr</span>
+          <span class="stat__label" data-en="What a family of 4 needs to survive in Denver" data-es="Lo que una familia de 4 necesita para sobrevivir en Denver">
+            What a family of 4 needs to survive in Denver
+          </span>
+        </div>
+        <div class="stat">
+          <span class="stat__number">0</span>
+          <span class="stat__label" data-en="Rent control protections for Denver tenants" data-es="Protecciones de control de alquiler para inquilinos de Denver">
+            Rent control protections for Denver tenants
+          </span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Policies -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="The Platform" data-es="La Plataforma">The Platform</h2>
+        <p data-en="Comprehensive, data-driven policies for a just Denver." data-es="Políticas integrales basadas en datos para un Denver justo.">
+          Comprehensive, data-driven policies for a just Denver.
+        </p>
+      </div>
+      <div class="grid grid--3">
+        {policies.map(policy => (
+          <PolicyCard
+            slug={policy.slug}
+            title={policy.data.title}
+            titleEs={policy.data.titleEs}
+            summary={policy.data.summary}
+            summaryEs={policy.data.summaryEs}
+            category={policy.data.category}
+            icon={policy.data.icon}
+          />
+        ))}
+      </div>
+      <div class="section-footer">
+        <a href="/platform" class="btn btn--secondary" data-en="View All Proposals" data-es="Ver Todas las Propuestas">
+          View All Proposals
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tools Preview -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="Tools for the People" data-es="Herramientas para el Pueblo">Tools for the People</h2>
+        <p data-en="Free, open-source tools to hold power accountable." data-es="Herramientas gratuitas y de código abierto para exigir rendición de cuentas.">
+          Free, open-source tools to hold power accountable.
+        </p>
+      </div>
+      <div class="grid grid--2">
+        <a href="/tools/eviction-tracker" class="card tool-card">
+          <span class="tool-card__icon">📊</span>
+          <h3 data-en="Denver Eviction Tracker" data-es="Rastreador de Desalojos de Denver">Denver Eviction Tracker</h3>
+          <p data-en="Live dashboard of eviction filings by landlord and neighborhood. See who's displacing your community." data-es="Panel en vivo de demandas de desalojo por propietario y vecindario. Mira quién está desplazando a tu comunidad.">
+            Live dashboard of eviction filings by landlord and neighborhood. See who's displacing your community.
+          </p>
+        </a>
+        <a href="/tools/rent-calculator" class="card tool-card">
+          <span class="tool-card__icon">🧮</span>
+          <h3 data-en="Rent Control Calculator" data-es="Calculadora de Control de Alquiler">Rent Control Calculator</h3>
+          <p data-en="See how much you'd save under our rent stabilization plan. Shareable results for social media." data-es="Mira cuánto ahorrarías con nuestro plan de estabilización de alquiler. Resultados compartibles en redes sociales.">
+            See how much you'd save under our rent stabilization plan. Shareable results for social media.
+          </p>
+        </a>
+        <a href="/tools/campaign-finance" class="card tool-card">
+          <span class="tool-card__icon">💰</span>
+          <h3 data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</h3>
+          <p data-en="Visualize who funds your councilmembers and how they vote. Expose corporate influence." data-es="Visualiza quién financia a tus concejales y cómo votan. Expón la influencia corporativa.">
+            Visualize who funds your councilmembers and how they vote. Expose corporate influence.
+          </p>
+        </a>
+        <a href="/tools/know-your-rights" class="card tool-card">
+          <span class="tool-card__icon">⚖️</span>
+          <h3 data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</h3>
+          <p data-en="24/7 tenant rights assistant in English and Spanish. Voice and chat. Free legal guidance when you need it." data-es="Asistente de derechos del inquilino 24/7 en inglés y español. Voz y chat. Orientación legal gratuita cuando la necesites.">
+            24/7 tenant rights assistant in English and Spanish. Voice and chat. Free legal guidance when you need it.
+          </p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Run For Denver CTA -->
+  <section class="section">
+    <div class="container">
+      <div class="cta-banner">
+        <h2 data-en="Are You Ready to Run?" data-es="¿Estás Listo para Postularte?">
+          Are You Ready to Run?
+        </h2>
+        <p data-en="We're building a movement for economic justice in Denver. We have the platform, the policy, and the people. We need a candidate who will fight for it." data-es="Estamos construyendo un movimiento por la justicia económica en Denver. Tenemos la plataforma, la política y la gente. Necesitamos un candidato que luche por esto.">
+          We're building a movement for economic justice in Denver. We have the platform, the policy, and the people. We need a candidate who will fight for it.
+        </p>
+        <a href="/run-for-denver" class="btn btn--accent btn--large" data-en="Learn More" data-es="Conoce Más">
+          Learn More
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Email Capture -->
+  <section id="join" class="section section--alt">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero {
+    padding: 6rem 0 4rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+
+  .hero__content {
+    max-width: 720px;
+  }
+
+  .hero__headline {
+    color: white;
+    margin-bottom: 1rem;
+    font-size: clamp(2.5rem, 6vw, 4rem);
+  }
+
+  .hero__sub {
+    font-size: 1.25rem;
+    opacity: 0.9;
+    margin-bottom: 1rem;
+    font-weight: 500;
+  }
+
+  .hero__body {
+    font-size: 1.1rem;
+    opacity: 0.85;
+    margin-bottom: 2rem;
+    line-height: 1.7;
+  }
+
+  .hero__actions {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .hero .btn--primary {
+    background: white;
+    color: var(--color-primary);
+  }
+
+  .hero .btn--primary:hover {
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+  }
+
+  .hero .btn--secondary {
+    border-color: white;
+    color: white;
+  }
+
+  .hero .btn--secondary:hover {
+    background: white;
+    color: var(--color-primary);
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    text-align: center;
+  }
+
+  .stat__number {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--color-primary);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+
+  .stat__label {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+
+  .section-header p {
+    color: var(--color-text-muted);
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0.5rem auto 0;
+  }
+
+  .section-footer {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .tool-card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+
+  .tool-card__icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .tool-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .tool-card p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 0;
+  }
+
+  .cta-banner {
+    text-align: center;
+    padding: 3rem;
+    background: linear-gradient(135deg, var(--color-bg-alt) 0%, white 100%);
+    border-radius: var(--radius-lg);
+    border: 2px solid var(--color-border);
+  }
+
+  .cta-banner h2 {
+    margin-bottom: 0.75rem;
+  }
+
+  .cta-banner p {
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+    color: var(--color-text-muted);
+  }
+</style>

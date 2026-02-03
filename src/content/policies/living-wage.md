@@ -1,8 +1,8 @@
 ---
 title: "$25 Minimum Wage"
 titleEs: "Salario Mínimo de $25"
-summary: "A real living wage for a real city. $25/hr is what a family of four needs to survive in Denver — and it's still not enough for single parents."
-summaryEs: "Un salario digno real para una ciudad real. $25/hora es lo que una familia de cuatro necesita para sobrevivir en Denver — y aún no es suficiente para madres y padres solteros."
+summary: "A real living wage for a real city. $25/hr is what a family of four needs to survive in Denver - and it's still not enough for single parents."
+summaryEs: "Un salario digno real para una ciudad real. $25/hora es lo que una familia de cuatro necesita para sobrevivir en Denver - y aún no es suficiente para madres y padres solteros."
 category: "labor"
 icon: "💵"
 order: 10
@@ -19,7 +19,7 @@ Denver's current minimum wage (~$18.29/hr in 2025) is marketed as progressive. I
 
 The current minimum wage does not allow a single adult to live in Denver without a second job or roommates. For families, it's a poverty wage dressed up as progress.
 
-Meanwhile, Denver's economy generates enormous wealth. The question is not whether the money exists — it's who gets it.
+Meanwhile, Denver's economy generates enormous wealth. The question is not whether the money exists - it's who gets it.
 
 ## Our Solution
 
@@ -51,10 +51,10 @@ Meanwhile, Denver's economy generates enormous wealth. The question is not wheth
 | **France** | $13.80/hr (SMIC) | Indexed to inflation automatically + periodic government increases | Low-wage workers have purchasing power. Restaurant industry thrives. |
 | **UK** | $14.20/hr (£11.44, National Living Wage) | Independent Low Pay Commission recommends, considers economic data | Introduced at $5.50 in 1999. Raised steadily to $14+ with zero detectable negative employment effects (studies by Arindrajit Dube, internationally recognized). |
 | **Germany** | $14.50/hr (€12.41) | Minimum Wage Commission + sectoral agreements push far higher | Introduced in 2015. Employment INCREASED after implementation, contrary to every conservative prediction. |
-| **Denmark** | ~$22/hr (no statutory minimum — set by sectoral agreements) | Union-employer negotiations | McDonald's workers earn $22/hr + 6 weeks vacation. The Big Mac costs $0.35 more than in the US. |
+| **Denmark** | ~$22/hr (no statutory minimum - set by sectoral agreements) | Union-employer negotiations | McDonald's workers earn $22/hr + 6 weeks vacation. The Big Mac costs $0.35 more than in the US. |
 | **USA** | **$7.25/hr** (federal, unchanged since 2009) | Congressional action required (politically gridlocked) | **Lowest minimum wage relative to median income of any OECD country.** The federal minimum wage in real dollars is lower today than it was in 1968. |
 
-$25/hr in Denver is not radical — it's what basic cost-of-living arithmetic demands, and it's in line with what workers earn in countries with stronger economies and lower poverty rates.
+$25/hr in Denver is not radical - it's what basic cost-of-living arithmetic demands, and it's in line with what workers earn in countries with stronger economies and lower poverty rates.
 
 ### Economic Impact
 
@@ -66,13 +66,13 @@ The evidence says no. Comprehensive studies of minimum wage increases in Seattle
 - Increased consumer spending in local economy
 - Reduced reliance on public assistance programs
 
-The workers who earn $25/hr spend that money in Denver — at Denver businesses. This is economic stimulus that flows directly into the local economy, not into offshore bank accounts.
+The workers who earn $25/hr spend that money in Denver - at Denver businesses. This is economic stimulus that flows directly into the local economy, not into offshore bank accounts.
 
 **What $25/hr means for a Denver worker:**
 - Annual income: $52,000 (full-time)
-- Can afford rent at $1,300/month (30% of income) — currently below Denver's median, but livable with roommate or partner
+- Can afford rent at $1,300/month (30% of income) - currently below Denver's median, but livable with roommate or partner
 - Can afford health insurance, food, and transportation
-- Reduced reliance on SNAP, Medicaid, and other public assistance — saving taxpayers money
+- Reduced reliance on SNAP, Medicaid, and other public assistance - saving taxpayers money
 
 ## How We Pay For It
 
@@ -92,4 +92,4 @@ Automation is happening regardless of the minimum wage. The question is whether 
 See: One Fair Wage. Restaurants in states that eliminated the tipped minimum wage (California, Washington, Oregon, Montana, Alaska, Minnesota, Nevada) have not collapsed. In fact, restaurant employment in those states grew faster than in tipped-wage states.
 
 **"This will cause inflation."**
-Labor costs are typically 25-35% of a restaurant's expenses and less for other businesses. A 30% wage increase translates to roughly 7-10% price increases in the most labor-intensive industries — far less than the 30%+ wage gain for workers. Workers come out ahead.
+Labor costs are typically 25-35% of a restaurant's expenses and less for other businesses. A 30% wage increase translates to roughly 7-10% price increases in the most labor-intensive industries - far less than the 30%+ wage gain for workers. Workers come out ahead.

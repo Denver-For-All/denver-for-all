@@ -11,11 +11,11 @@ status: "draft"
 
 ## The Problem
 
-Denver has over 7,500 people experiencing homelessness on any given night. The waitlist for Section 8 housing vouchers is years long — and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
+Denver has over 7,500 people experiencing homelessness on any given night. The waitlist for Section 8 housing vouchers is years long - and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
 
-Meanwhile, Denver's median rent has nearly doubled since 2010. A one-bedroom apartment averages over $1,600/month. A family earning median income spends over 35% of their earnings on rent — above the federal affordability threshold. For low-income families, it's 50-70%.
+Meanwhile, Denver's median rent has nearly doubled since 2010. A one-bedroom apartment averages over $1,600/month. A family earning median income spends over 35% of their earnings on rent - above the federal affordability threshold. For low-income families, it's 50-70%.
 
-The city's current approach — tax incentives for developers who include a handful of "affordable" units in luxury buildings — has produced a fraction of the housing needed, at costs per unit that are obscene, and with affordability restrictions that expire after 15-30 years.
+The city's current approach - tax incentives for developers who include a handful of "affordable" units in luxury buildings - has produced a fraction of the housing needed, at costs per unit that are obscene, and with affordability restrictions that expire after 15-30 years.
 
 We need a fundamentally different approach.
 
@@ -23,7 +23,7 @@ We need a fundamentally different approach.
 
 ### The Denver Social Housing Authority
 
-Create a new city agency — the Denver Social Housing Authority (DSHA) — with the mandate and funding to build, acquire, and operate 10,000 permanently affordable housing units over 10 years.
+Create a new city agency - the Denver Social Housing Authority (DSHA) - with the mandate and funding to build, acquire, and operate 10,000 permanently affordable housing units over 10 years.
 
 **Key Principles:**
 
@@ -53,11 +53,11 @@ Vienna, Austria houses 60% of its population in publicly owned or subsidized hou
 
 We adapt this for Denver's context: smaller initial scale, but the same principles.
 
-### International Evidence: Public Housing Works — When It's Designed To
+### International Evidence: Public Housing Works - When It's Designed To
 
 | Country/City | Public Housing Stock | Key Feature | Result |
 |-------------|---------------------|-------------|--------|
-| **Vienna, Austria** | 220,000 municipal apartments. 60% of residents in public/subsidized housing. | Mixed-income, architecturally excellent, democratic governance | Named "most livable city" repeatedly. Average rent: €5-7/sqm. No housing affordability crisis. No stigma — public housing is desirable. |
+| **Vienna, Austria** | 220,000 municipal apartments. 60% of residents in public/subsidized housing. | Mixed-income, architecturally excellent, democratic governance | Named "most livable city" repeatedly. Average rent: €5-7/sqm. No housing affordability crisis. No stigma - public housing is desirable. |
 | **Singapore** | 80% of residents in government HDB flats | Home ownership model: 99-year leases, resale market exists | Home ownership: 90%. Mixed-income, mixed-ethnicity by design. Housing is not a source of financial precarity. |
 | **Finland** | Comprehensive social housing + Housing First | Converted shelters to permanent housing | **Only EU country where homelessness is declining.** Down 35% since 2008. |
 | **Denmark** | 20% of housing is *almene boliger* (non-profit) | Tenant-governed housing associations, rents set at cost | High quality, mixed-income, zero profit extraction. Democratically managed. |
@@ -73,9 +73,9 @@ Total estimated cost: $3-4 billion over 10 years. This is achievable without rai
 
 1. **Revenue bonds** backed by rental income from DSHA properties ($1.5B). Social housing is self-sustaining because rent revenue covers operating costs and debt service.
 2. **Tax Increment Financing (TIF) districts** in gentrifying neighborhoods ($500M). Capture increased property tax revenue from surrounding development.
-3. **Vacancy tax revenue** (see: Vacancy Tax proposal) — estimated $50-80M/year once implemented.
+3. **Vacancy tax revenue** (see: Vacancy Tax proposal) - estimated $50-80M/year once implemented.
 4. **Federal matching funds.** HUD programs, Low-Income Housing Tax Credits, and federal affordable housing grants ($500M estimated).
-5. **Denver's Affordable Housing Fund** — redirect existing fund toward DSHA acquisitions instead of developer subsidies ($200M).
+5. **Denver's Affordable Housing Fund** - redirect existing fund toward DSHA acquisitions instead of developer subsidies ($200M).
 6. **City-owned land.** Denver owns hundreds of vacant parcels. Dedicate them to social housing instead of selling to developers at below-market rates.
 
 **Cost per unit**: $200-350K for new construction, $150-250K for acquisition/renovation. Dramatically cheaper than the $400-600K per unit Denver currently spends subsidizing "affordable" units in private luxury buildings.

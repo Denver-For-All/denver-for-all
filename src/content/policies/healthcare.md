@@ -14,7 +14,7 @@ status: "draft"
 A single hospital stay in Denver can produce a bill exceeding $1 million. Medical debt is the leading cause of bankruptcy in America. Denver Health, a public hospital, still sends patients to collections and places liens on homes. The system generates debt, not health.
 
 Meanwhile:
-- Denver has insufficient mental health crisis services — police respond to mental health emergencies they're not trained for, with predictable results
+- Denver has insufficient mental health crisis services - police respond to mental health emergencies they're not trained for, with predictable results
 - Entire neighborhoods lack accessible primary care
 - Prescription drugs cost 2-10x what they cost in other countries
 - Uninsured and underinsured residents delay care until emergencies, which costs everyone more
@@ -23,14 +23,14 @@ Meanwhile:
 
 ### 1. Denver Medical Debt Forgiveness Program
 - City purchases medical debt portfolios at pennies on the dollar (debt buyers typically pay 1-5 cents per dollar of debt)
-- Cancel all purchased debt — no strings attached
+- Cancel all purchased debt - no strings attached
 - Estimated cost: $5M in city funds can forgive $100-500M in medical debt
 - Partner with RIP Medical Debt (now Undue Medical Debt) for execution
 - Ongoing program funded by hospital impact fees
 
 ### 2. Hospital Cost Transparency Act
 - All Denver hospitals must publish real prices (not chargemaster fiction) for the 200 most common procedures
-- Itemized bills required within 30 days — no more surprise charges appearing months later
+- Itemized bills required within 30 days - no more surprise charges appearing months later
 - Price variation reports published by the city quarterly
 - Penalties for price gouging: defined as charging uninsured patients more than 200% of Medicare rates
 
@@ -46,7 +46,7 @@ Denver already has a nascent STAR program. We expand it dramatically:
 - Federally Qualified Health Center in every Denver neighborhood (currently significant gaps in low-income areas)
 - Sliding-scale fees based on income
 - Primary care, dental, vision, mental health, and substance use treatment
-- Prescription drug purchasing cooperative — Denver negotiates drug prices collectively for uninsured residents
+- Prescription drug purchasing cooperative - Denver negotiates drug prices collectively for uninsured residents
 
 ### 5. Reproductive Healthcare Protection
 - Denver as a sanctuary city for reproductive healthcare access
@@ -58,7 +58,7 @@ Denver already has a nascent STAR program. We expand it dramatically:
 
 | Country | Model | Cost per Capita | Life Expectancy | Medical Bankruptcies |
 |---------|-------|-----------------|-----------------|---------------------|
-| **Germany** | All-payer rate setting — all insurers pay same negotiated rates. No surprise billing. | $7,383 | 81.4 years | 0 |
+| **Germany** | All-payer rate setting - all insurers pay same negotiated rates. No surprise billing. | $7,383 | 81.4 years | 0 |
 | **Japan** | Government reference pricing for all procedures. | $4,691 | 84.8 years | 0 |
 | **Taiwan** | Single-payer since 1995. Smart card system. | $3,047 | 80.9 years | 0 |
 | **UK (NHS)** | Government-run. Free at point of use. | $5,138 | 81.4 years | 0 |
@@ -69,7 +69,7 @@ Denver already has a nascent STAR program. We expand it dramatically:
 
 Denver can't implement single-payer unilaterally, but Denver CAN model what humane healthcare looks like: forgive debt, create transparency, expand community health, and replace police crisis response with medical professionals.
 
-**Denver For All also supports Colorado state legislation for all-payer rate setting** (the German model) — requiring all insurers and hospitals to negotiate standard rates, eliminating surprise billing and the administrative waste that consumes 30% of US healthcare spending.
+**Denver For All also supports Colorado state legislation for all-payer rate setting** (the German model) - requiring all insurers and hospitals to negotiate standard rates, eliminating surprise billing and the administrative waste that consumes 30% of US healthcare spending.
 
 ## How We Pay For It
 
@@ -81,7 +81,7 @@ Denver can't implement single-payer unilaterally, but Denver CAN model what huma
 ## Frequently Asked Questions
 
 **"Why should the city forgive medical debt? People chose to go to the hospital."**
-People don't choose to get sick or injured. A child's cancer treatment shouldn't bankrupt a family. And the debt is sold to collectors for pennies anyway — the hospital has already written it off. This program costs the city very little and changes thousands of lives.
+People don't choose to get sick or injured. A child's cancer treatment shouldn't bankrupt a family. And the debt is sold to collectors for pennies anyway - the hospital has already written it off. This program costs the city very little and changes thousands of lives.
 
 **"Isn't healthcare a federal issue?"**
-Federal solutions aren't coming soon enough. Cities can act now — on mental health crisis response, on debt forgiveness, on community health centers, on drug pricing. We don't wait for Congress to stop our neighbors from dying.
+Federal solutions aren't coming soon enough. Cities can act now - on mental health crisis response, on debt forgiveness, on community health centers, on drug pricing. We don't wait for Congress to stop our neighbors from dying.

@@ -11,7 +11,7 @@ status: "draft"
 
 ## The Problem
 
-Thousands of housing units in Denver sit vacant — held by speculators waiting for prices to rise, by investors treating housing as a financial asset, or simply abandoned by negligent owners. Meanwhile, 7,500 people are homeless and thousands more are one rent increase away from displacement.
+Thousands of housing units in Denver sit vacant - held by speculators waiting for prices to rise, by investors treating housing as a financial asset, or simply abandoned by negligent owners. Meanwhile, 7,500 people are homeless and thousands more are one rent increase away from displacement.
 
 Empty homes in occupied neighborhoods attract crime, reduce property values for neighbors, and represent a moral obscenity in a city with a housing crisis.
 
@@ -54,6 +54,18 @@ This makes speculation increasingly expensive while giving owners reasonable tim
 
 **Estimated revenue:** $50-80M/year (based on estimated 5,000-8,000 vacant units and escalating rates)
 
+### International Evidence: Vacancy Taxes Work
+
+| City/Country | Model | Result |
+|-------------|-------|--------|
+| **Vancouver, Canada** | 1% Empty Homes Tax (2017), increased to 3% (2023). | Vacancy rate dropped 25% in first year. Generated $86M CAD in revenue. Thousands of units returned to rental market. |
+| **Melbourne, Australia** | 1% Vacant Residential Land Tax on properties vacant 6+ months. | Revenue dedicated to affordable housing. Vacant properties decreased measurably. |
+| **Paris, France** | *Taxe sur les logements vacants* - progressive tax on homes vacant 1+ years. | Vacancies in Paris decreased. Revenue funds social housing construction. |
+| **UK (various councils)** | Council tax surcharge of up to 300% on long-term empty properties. | Thousands of empty homes brought back into use. |
+| **Washington, DC** | Vacant property tax at 5x the standard rate. | One of the highest vacancy tax rates in the US. Discourages speculation and land banking. |
+
+**The pattern is clear:** every city that taxes vacant properties sees vacancies decrease and housing supply increase. It is one of the simplest, most proven housing policy tools available.
+
 ## How We Pay For It
 
 This is a revenue generator, not a cost. Administration costs ($1-2M/year) are covered many times over by revenue generated.
@@ -67,4 +79,4 @@ You have the right to own property. You do not have the right to hoard housing d
 Utility data doesn't lie. A unit using zero water and minimal electricity for 6 months is vacant. Combined with physical inspections and neighbor reporting, evasion is difficult and penalties for false reporting are severe.
 
 **"This will hurt people who are renovating."**
-The 12-month renovation exemption with valid permits covers legitimate renovations. If your "renovation" takes 3 years with no permits, it's not a renovation — it's speculation.
+The 12-month renovation exemption with valid permits covers legitimate renovations. If your "renovation" takes 3 years with no permits, it's not a renovation - it's speculation.

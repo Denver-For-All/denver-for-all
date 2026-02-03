@@ -19,7 +19,7 @@
         "model": "nova-2",
         "language": "en"
       },
-      "endCallMessage": "Thank you for calling Denver For All. Remember, if you need urgent legal help, call Colorado Legal Services at 303-837-1321. Stay strong — and check out denverforall.org for more resources.",
+      "endCallMessage": "Thank you for calling Denver For All. Remember, if you need urgent legal help, call Colorado Legal Services at 303-837-1321. Stay strong - and check out denverforall.org for more resources.",
       "maxDurationSeconds": 600,
       "silenceTimeoutSeconds": 30
     },
@@ -42,7 +42,7 @@
         "model": "nova-2",
         "language": "es"
       },
-      "endCallMessage": "Gracias por llamar a Denver Para Todos. Recuerda, si necesitas ayuda legal urgente, llama a Colorado Legal Services al 303-837-1321. Mantente fuerte — y visita denverforall.org para más recursos.",
+      "endCallMessage": "Gracias por llamar a Denver Para Todos. Recuerda, si necesitas ayuda legal urgente, llama a Colorado Legal Services al 303-837-1321. Mantente fuerte - y visita denverforall.org para más recursos.",
       "maxDurationSeconds": 600,
       "silenceTimeoutSeconds": 30
     }

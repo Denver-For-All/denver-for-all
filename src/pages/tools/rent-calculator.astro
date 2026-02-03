@@ -213,7 +213,7 @@ import Layout from '../../layouts/Layout.astro';
     const rent = parseFloat(rentInput.value) || 0;
     const years = parseInt(yearsInput.value);
     const marketRate = parseInt(marketInput.value) / 100;
-    const capRate = 0.03; // CPI or 3%, whichever lower — assume 3% cap
+    const capRate = 0.03; // CPI or 3%, whichever lower - assume 3% cap
 
     document.getElementById('years-label')!.textContent = `${years} year${years > 1 ? 's' : ''}`;
     document.getElementById('market-label')!.textContent = `${marketInput.value}%`;

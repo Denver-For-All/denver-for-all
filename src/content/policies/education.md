@@ -22,7 +22,7 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 
 ### 1. Universal Pre-K (City-Funded)
 - Free, full-day pre-K for every Denver 3- and 4-year-old
-- No income qualification — universal access
+- No income qualification - universal access
 - Located in public schools and community centers
 - Living wage for pre-K teachers (at parity with K-12)
 - Curriculum: play-based, developmentally appropriate, bilingual options
@@ -35,7 +35,7 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 
 ### 3. After-School Programs in Every Neighborhood
 - City-funded after-school programs at every DPS elementary and middle school
-- Arts, sports, tutoring, coding, music — not just test prep
+- Arts, sports, tutoring, coding, music - not just test prep
 - Free for all students, operating until 6 PM
 - Staffed by trained youth workers at living wages
 
@@ -69,7 +69,7 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 
 **The pattern:** Every country with great education has: (1) equal funding, (2) well-paid teachers, (3) universal free meals, (4) strong pre-K, and (5) no privatization of the public system. Zero of the top-performing education systems rely on charter schools or market competition. The American experiment with school privatization has no international evidence supporting it.
 
-**Finland's lesson for Denver:** Finland's education revolution started with a simple principle: *every child deserves a great school in their neighborhood*. They didn't create "school choice" — they made every school excellent. That's our model.
+**Finland's lesson for Denver:** Finland's education revolution started with a simple principle: *every child deserves a great school in their neighborhood*. They didn't create "school choice" - they made every school excellent. That's our model.
 
 ## How We Pay For It
 
@@ -78,7 +78,7 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 - After-school: $20-25M/year
 - Teacher housing: Integrated into Social Housing Authority budget
 - Community schools: $10-15M/year (with federal Community Schools grants)
-- Total: $85-110M/year — significant, but Denver's budget is $1.6B+
+- Total: $85-110M/year - significant, but Denver's budget is $1.6B+
 
 ## Frequently Asked Questions
 

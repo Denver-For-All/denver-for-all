@@ -13,7 +13,7 @@ status: "draft"
 
 Technology was supposed to give us more free time. Instead, it erased the boundary between work and life. Denver workers are expected to answer emails at 10 PM, respond to Slack messages on vacation, and be "available" 24/7. The result: burnout is an epidemic, mental health is deteriorating, and productivity is actually declining because exhausted people don't do good work.
 
-Americans work 400+ more hours per year than German workers. That's 10 extra weeks. We are not 10 weeks more productive — we're just 10 weeks more tired.
+Americans work 400+ more hours per year than German workers. That's 10 extra weeks. We are not 10 weeks more productive - we're just 10 weeks more tired.
 
 ## Our Solution
 
@@ -23,7 +23,7 @@ Adapted from France's *Droit à la déconnexion* (law since 2017):
 
 - **After-hours protection:** Employers with 20+ employees must establish clear "disconnect" hours. Outside those hours, employees have no obligation to respond to work communications.
 - **No retaliation:** Employees cannot be disciplined, passed over for promotion, or terminated for not responding during disconnect hours.
-- **Emergency exception:** Genuine, defined emergencies only — not "the client wants an update."
+- **Emergency exception:** Genuine, defined emergencies only - not "the client wants an update."
 - **Negotiated implementation:** Employers work with workers (and works councils where they exist) to define disconnect policies appropriate to their industry.
 - **City employees first:** Denver implements right to disconnect for all 12,000+ city employees immediately as a model.
 
@@ -69,7 +69,7 @@ For physical labor: reduced hours mean fewer injuries, lower absenteeism, and hi
 
 **For private employers:** This is a regulation, not a spending program. Small business exemptions during phase-in. The evidence consistently shows that productivity per dollar of labor cost does not decrease.
 
-**Overtime threshold change:** Moving the overtime threshold from 40 to 32 hours means workers who do work longer weeks earn premium pay — incentivizing employers to hire more people or reduce hours.
+**Overtime threshold change:** Moving the overtime threshold from 40 to 32 hours means workers who do work longer weeks earn premium pay - incentivizing employers to hire more people or reduce hours.
 
 ## Frequently Asked Questions
 
@@ -77,7 +77,7 @@ For physical labor: reduced hours mean fewer injuries, lower absenteeism, and hi
 Denver can set the work week for 12,000+ city employees, all city contractors, and establish local overtime thresholds. Federal FLSA sets a floor (40 hours before overtime), but states and cities can set lower thresholds. Several states are considering 32-hour work week legislation right now.
 
 **"Service businesses can't do this."**
-They hire more people. If a restaurant needs 7-day coverage, it hires for 4-day shifts instead of 5-day shifts. This increases total employment — which is a benefit, not a cost.
+They hire more people. If a restaurant needs 7-day coverage, it hires for 4-day shifts instead of 5-day shifts. This increases total employment - which is a benefit, not a cost.
 
 **"This is unrealistic."**
 It was the standard work week 100 years ago. The 40-hour week was considered radical when it was introduced. Before that, 60-80 hour weeks were "normal." Progress means working smarter, not longer. Every country with shorter work weeks has a higher quality of life than the US.

@@ -1,6 +1,6 @@
 ---
-title: "Housing First — End Homelessness in Denver"
-titleEs: "Vivienda Primero — Acabar con la Falta de Vivienda en Denver"
+title: "Housing First - End Homelessness in Denver"
+titleEs: "Vivienda Primero - Acabar con la Falta de Vivienda en Denver"
 summary: "Give people homes first, then address everything else. Finland did it and is the only EU country where homelessness is declining. It's cheaper than shelters. It works."
 summaryEs: "Dar vivienda primero, luego abordar todo lo demás. Finlandia lo hizo y es el único país de la UE donde la falta de vivienda está disminuyendo. Es más barato que los refugios. Funciona."
 category: "housing"
@@ -48,9 +48,9 @@ Finland's breakthrough was converting emergency shelters into permanent apartmen
 - Integrated with Denver Social Housing Authority (see: Social Housing Act)
 - Wrap-around services: healthcare, mental health, addiction treatment, job training, life skills
 
-**4. Coordinated Entry — No Wrong Door**
+**4. Coordinated Entry - No Wrong Door**
 - Single point of entry for all homelessness services
-- Anyone — police, hospitals, schools, faith organizations — can connect someone to the system
+- Anyone - police, hospitals, schools, faith organizations - can connect someone to the system
 - Real-time database of available units, services, and capacity
 - No one gets turned away. No one "falls through the cracks."
 
@@ -67,7 +67,7 @@ Finland's breakthrough was converting emergency shelters into permanent apartmen
 Finland adopted Housing First as national policy in 2008. Results:
 - **Homelessness decreased by 35%** (the only EU country where it's going down)
 - **Long-term homelessness decreased by over 50%**
-- Shelters converted to apartments — Helsinki closed its last large shelter
+- Shelters converted to apartments - Helsinki closed its last large shelter
 - **Cost savings: €15,000/year in reduced emergency, police, and healthcare costs per person housed**
 - 80% of Housing First residents maintain their housing after 1 year
 - Finland is on track to **eliminate homelessness entirely**
@@ -91,7 +91,7 @@ The traditional "treatment first" approach requires people to be sober, medicate
 
 - Housing First retention rates: **80-90%**
 - Treatment First retention rates: **30-50%**
-- Housing First participants show GREATER improvements in substance use and mental health than Treatment First participants — because stability is a prerequisite for recovery, not the other way around.
+- Housing First participants show GREATER improvements in substance use and mental health than Treatment First participants - because stability is a prerequisite for recovery, not the other way around.
 
 Sam Tsemberis at Pathways to Housing (New York) pioneered Housing First in the US and demonstrated conclusively: **housing is healthcare.**
 
@@ -109,20 +109,20 @@ Sam Tsemberis at Pathways to Housing (New York) pioneered Housing First in the U
 
 **Savings per person housed: $36,000-62,000/year.**
 
-For 7,500 homeless individuals, that's $270M-465M/year in savings — money currently being spent on emergency responses to homelessness instead of ending it.
+For 7,500 homeless individuals, that's $270M-465M/year in savings - money currently being spent on emergency responses to homelessness instead of ending it.
 
 **Startup investment:** $200-300M for unit acquisition and conversion (funded through Social Housing Authority bonds + federal HUD matching).
 
 ## Frequently Asked Questions
 
 **"Don't people need to be ready for housing?"**
-No. The evidence definitively shows they don't. Housing First works BETTER than treatment-first approaches, with higher retention rates and better health outcomes. Stability creates the conditions for recovery — not the other way around.
+No. The evidence definitively shows they don't. Housing First works BETTER than treatment-first approaches, with higher retention rates and better health outcomes. Stability creates the conditions for recovery - not the other way around.
 
 **"This is just giving people free homes."**
-It's giving people homes and support services. Most Housing First residents eventually contribute to their own housing costs. And the alternative — paying $80K/year per person for emergency services — is a far more expensive form of "free." We're already paying. We're just paying for failure.
+It's giving people homes and support services. Most Housing First residents eventually contribute to their own housing costs. And the alternative - paying $80K/year per person for emergency services - is a far more expensive form of "free." We're already paying. We're just paying for failure.
 
 **"What about the homeless people who don't want housing?"**
 This is largely a myth. Studies show 95%+ of people experiencing homelessness want housing. When offered a permanent, unconditional home (not a shelter cot with a curfew and sobriety rules), acceptance rates are extremely high.
 
 **"Doesn't this attract homeless people from other cities?"**
-Data from cities that implemented Housing First (Houston, Finland, Medicine Hat) does not show significant "magnet effects." People experiencing homelessness typically became homeless in the place where they live — they're our neighbors, not outsiders.
+Data from cities that implemented Housing First (Houston, Finland, Medicine Hat) does not show significant "magnet effects." People experiencing homelessness typically became homeless in the place where they live - they're our neighbors, not outsiders.

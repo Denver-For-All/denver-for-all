@@ -13,9 +13,9 @@ status: "draft"
 
 Denver renters have no protection against arbitrary rent increases. A landlord can raise your rent by $200, $500, or $1,000/month with nothing more than 60 days notice. There is no limit, no justification required, and no recourse.
 
-The result: Denver rents have increased 95%+ since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver — teachers, nurses, restaurant workers, bus drivers — can't afford to live here.
+The result: Denver rents have increased 95%+ since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - can't afford to live here.
 
-Colorado state law previously prohibited local rent control (preemption), but this is changing. Denver must be ready to act the moment preemption is lifted — or pursue a ballot initiative to establish it directly.
+Colorado state law previously prohibited local rent control (preemption), but this is changing. Denver must be ready to act the moment preemption is lifted - or pursue a ballot initiative to establish it directly.
 
 ## Our Solution
 
@@ -38,7 +38,7 @@ Colorado state law previously prohibited local rent control (preemption), but th
 
 **Enforcement.** Create a dedicated Rent Stabilization Office within the city, staffed with investigators who respond to tenant complaints, audit landlord filings, and impose penalties for violations. Penalties: $1,000-$10,000 per violation, treble damages to affected tenants.
 
-**Commercial rent stabilization.** Extend protections to small business leases under 3,000 sq ft. Denver's small businesses — restaurants, bodegas, barbershops — are being displaced by the same forces displacing residents.
+**Commercial rent stabilization.** Extend protections to small business leases under 3,000 sq ft. Denver's small businesses - restaurants, bodegas, barbershops - are being displaced by the same forces displacing residents.
 
 ### International Evidence: This Works
 
@@ -47,10 +47,10 @@ Colorado state law previously prohibited local rent control (preemption), but th
 | **Vienna, Austria** | Rent caps on 60% of housing stock. No vacancy decontrol. | Average rent: €5-7/sqm. Virtually no homelessness. Housing is not a financial crisis for any Viennese resident. |
 | **Germany (*Mietpreisbremse*)** | New rents cannot exceed 10% above local reference rent (*Mietspiegel*). Annual increases capped at 15-20% over 3 years. | Slowed rent increases in Berlin, Hamburg, and Munich. Challenges remain with enforcement but model is sound. |
 | **Sweden (*Hyreslagen*)** | All rents negotiated between tenant unions and landlord associations. No individual rent-setting. | Rents are 40-60% below what market rates would be. Quality remains high. Waitlists exist (demand for affordable housing is infinite). |
-| **Netherlands** | Point-based rent system — rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum. | Transparent, objective rent-setting. No landlord discretion. |
+| **Netherlands** | Point-based rent system - rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum. | Transparent, objective rent-setting. No landlord discretion. |
 | **Paris, France (*Encadrement des loyers*)** | Rent caps based on neighborhood reference rents. | Slowed rapid gentrification in central Paris. |
 
-**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment — and it's failed. Every city that relies purely on the market has a housing affordability crisis. Every city with strong rent regulation doesn't.
+**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment - and it's failed. Every city that relies purely on the market has a housing affordability crisis. Every city with strong rent regulation doesn't.
 
 ### Why No Vacancy Decontrol Matters
 
@@ -77,18 +77,18 @@ Every city that has implemented rent control with vacancy decontrol has seen it 
 Rent stabilization **costs the city almost nothing** to implement. It's a regulation, not a spending program.
 
 - **Rent Stabilization Office:** $3-5M/year for staff, enforcement, and administration
-- **Funded by:** Registration fees ($50-100/unit/year) paid by landlords. At 150,000+ rental units in Denver, this generates $7.5-15M/year — more than enough.
+- **Funded by:** Registration fees ($50-100/unit/year) paid by landlords. At 150,000+ rental units in Denver, this generates $7.5-15M/year - more than enough.
 
 ## Frequently Asked Questions
 
 **"Won't rent control reduce housing supply?"**
-The Stanford study that rent control opponents love to cite (Diamond et al., 2019) studied San Francisco's rent control *with vacancy decontrol*. Landlords converted rentals to condos to escape the cap. Our plan has no vacancy decontrol — removing that incentive entirely. Additionally, the most comprehensive meta-analyses show that well-designed rent control reduces displacement without reducing supply when paired with construction incentives.
+The Stanford study that rent control opponents love to cite (Diamond et al., 2019) studied San Francisco's rent control *with vacancy decontrol*. Landlords converted rentals to condos to escape the cap. Our plan has no vacancy decontrol - removing that incentive entirely. Additionally, the most comprehensive meta-analyses show that well-designed rent control reduces displacement without reducing supply when paired with construction incentives.
 
 **"Landlords will stop maintaining buildings."**
-The act includes habitability enforcement and allows landlords to petition for above-cap increases specifically for capital improvements (new roof, new plumbing, etc.) — but not cosmetic upgrades. This is standard in functioning rent control systems worldwide.
+The act includes habitability enforcement and allows landlords to petition for above-cap increases specifically for capital improvements (new roof, new plumbing, etc.) - but not cosmetic upgrades. This is standard in functioning rent control systems worldwide.
 
 **"This will hurt small landlords."**
-A 3% annual increase is sustainable for any competently run rental property. If a landlord's business model requires 8-15% annual rent increases to work, that's not a sustainable business — it's speculation at tenants' expense. Additionally, the registration fee is minimal.
+A 3% annual increase is sustainable for any competently run rental property. If a landlord's business model requires 8-15% annual rent increases to work, that's not a sustainable business - it's speculation at tenants' expense. Additionally, the registration fee is minimal.
 
 **"The state won't allow it."**
 Colorado's rent control preemption is a political choice, not a constitutional one. We push for repeal at the state level while building the local coalition to implement immediately when preemption lifts. If necessary, we pursue a state ballot initiative.

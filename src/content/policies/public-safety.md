@@ -13,7 +13,7 @@ status: "draft"
 
 Denver police have killed residents, brutalized protesters (2020 George Floyd protests), and operated with minimal accountability. The current oversight structure lacks independence, subpoena power, or the ability to impose discipline. Officers who commit misconduct are rarely held accountable, and qualified immunity shields them from civil liability.
 
-Meanwhile, police are dispatched to situations they're not trained for — mental health crises, homelessness, substance use — because the city has failed to invest in alternatives. The result: people in crisis encounter armed officers instead of mental health professionals.
+Meanwhile, police are dispatched to situations they're not trained for - mental health crises, homelessness, substance use - because the city has failed to invest in alternatives. The result: people in crisis encounter armed officers instead of mental health professionals.
 
 Denver's police budget is approximately $300M/year. The STAR program (unarmed mental health response) receives a fraction of that.
 
@@ -28,7 +28,7 @@ Denver's police budget is approximately $300M/year. The STAR program (unarmed me
 
 ### 2. STAR Program Expansion (Non-Police Crisis Response)
 - 24/7 citywide coverage for mental health, substance use, and homelessness calls
-- Mental health professionals + paramedics — no police
+- Mental health professionals + paramedics - no police
 - Target: 40% of current 911 calls rerouted to non-police responders
 - 911 dispatchers retrained to triage calls appropriately
 - (See: Healthcare proposal for full STAR details)
@@ -49,11 +49,11 @@ Over 4 years, redirect 25% of police budget ($75M/year) to:
 - Officers carry personal liability insurance (similar to doctors' malpractice insurance)
 
 ### 5. Use of Force Reforms
-- Ban chokeholds and carotid restraints — permanently
+- Ban chokeholds and carotid restraints - permanently
 - Duty to intervene: officers must stop other officers' excessive force or face equal discipline
 - Duty to report: failure to report excessive force is a firing offense
 - De-escalation required before any use of force
-- Body cameras mandatory and always on during encounters — footage publicly accessible within 72 hours of any use-of-force incident
+- Body cameras mandatory and always on during encounters - footage publicly accessible within 72 hours of any use-of-force incident
 
 ### 6. Community Violence Intervention
 - Fund evidence-based violence intervention programs (Cure Violence model)
@@ -67,11 +67,11 @@ Over 4 years, redirect 25% of police budget ($75M/year) to:
 |---------|-------|-------------------|------------|--------|
 | **Norway** | Rehabilitation-focused. Prisons resemble college campuses. Focus on reintegration: job training, education, therapy. Maximum sentence: 21 years. | 54 per 100K | **20%** | One of the lowest crime rates in the world. Prisoners come out as functioning citizens, not hardened criminals. |
 | **Finland** | Open prisons where inmates work, attend school, go home on weekends. Focus on normality and skill-building. | 51 per 100K | **36%** | Crime has been declining for decades. Society saves money because fewer people return to prison. |
-| **Germany** | Prisons run like vocational schools. Inmates learn trades, earn certifications, maintain family relationships. | 69 per 100K | **35-40%** | The goal is explicitly rehabilitation, not punishment. And it works — for public safety, not just for inmates. |
+| **Germany** | Prisons run like vocational schools. Inmates learn trades, earn certifications, maintain family relationships. | 69 per 100K | **35-40%** | The goal is explicitly rehabilitation, not punishment. And it works - for public safety, not just for inmates. |
 | **Netherlands** | Closing prisons due to falling crime rates. Focus on electronic monitoring, community service, and rehabilitation. | 59 per 100K | **45%** | So few prisoners that they've actually shut down prisons and rented empty cells to Belgium and Norway. |
-| **USA** | Punishment-focused. Overcrowded, violent, minimal rehabilitation. Private prison industry profits from incarceration. | **531 per 100K** (highest in the world) | **76%** | We lock up 10x more people than Norway, spend vastly more, and get vastly worse outcomes. Three-quarters of released prisoners return. The system does not produce safety — it produces repeat offenders. |
+| **USA** | Punishment-focused. Overcrowded, violent, minimal rehabilitation. Private prison industry profits from incarceration. | **531 per 100K** (highest in the world) | **76%** | We lock up 10x more people than Norway, spend vastly more, and get vastly worse outcomes. Three-quarters of released prisoners return. The system does not produce safety - it produces repeat offenders. |
 
-**The US incarceration rate is the highest on Earth** — higher than Russia, China, or any authoritarian regime. And our recidivism rate proves it doesn't work. Norway rehabilitates 80% of its prisoners. We rehabilitate 24%.
+**The US incarceration rate is the highest on Earth** - higher than Russia, China, or any authoritarian regime. And our recidivism rate proves it doesn't work. Norway rehabilitates 80% of its prisoners. We rehabilitate 24%.
 
 Denver can't reform the state prison system alone, but Denver CAN:
 - Redirect police budget to prevention and intervention
@@ -91,7 +91,7 @@ Civilian oversight board: $3-5M/year from general fund.
 Studies show no correlation between police spending and crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. We're investing in what works.
 
 **"Who responds to violent crime?"**
-Police. This plan doesn't eliminate police — it refocuses them on violent crime and removes responsibilities they're not trained for. A smaller, better-trained, better-supervised police force focused on actual public safety threats.
+Police. This plan doesn't eliminate police - it refocuses them on violent crime and removes responsibilities they're not trained for. A smaller, better-trained, better-supervised police force focused on actual public safety threats.
 
 **"Isn't ending qualified immunity too extreme?"**
-Doctors carry malpractice insurance. Lawyers can be disbarred. Every profession except policing faces personal accountability for professional misconduct. This is not extreme — it's the baseline that every other profession already meets.
+Doctors carry malpractice insurance. Lawyers can be disbarred. Every profession except policing faces personal accountability for professional misconduct. This is not extreme - it's the baseline that every other profession already meets.

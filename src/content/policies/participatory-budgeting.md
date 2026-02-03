@@ -1,9 +1,9 @@
 ---
 title: "Participatory Budgeting & Citizens' Assemblies"
 titleEs: "Presupuesto Participativo y Asambleas Ciudadanas"
-summary: "You decide how $100M+ of Denver's budget is spent — directly. Plus randomly selected citizens' assemblies to tackle the big questions. Real democracy, not just voting every 4 years."
-summaryEs: "Tú decides cómo se gastan $100M+ del presupuesto de Denver — directamente. Además, asambleas ciudadanas seleccionadas al azar para abordar las grandes preguntas. Democracia real, no solo votar cada 4 años."
-category: "infrastructure"
+summary: "You decide how $100M+ of Denver's budget is spent - directly. Plus randomly selected citizens' assemblies to tackle the big questions. Real democracy, not just voting every 4 years."
+summaryEs: "Tú decides cómo se gastan $100M+ del presupuesto de Denver - directamente. Además, asambleas ciudadanas seleccionadas al azar para abordar las grandes preguntas. Democracia real, no solo votar cada 4 años."
+category: "democracy"
 icon: "🗳️"
 order: 55
 status: "draft"
@@ -11,9 +11,9 @@ status: "draft"
 
 ## The Problem
 
-Denver's annual budget exceeds $1.6 billion. Residents have almost no say in how it's spent. City Council holds public hearings that few attend, and the mayor's office drives priorities. The result: budgets reflect the interests of developers, lobbyists, and politically connected groups — not ordinary Denver residents.
+Denver's annual budget exceeds $1.6 billion. Residents have almost no say in how it's spent. City Council holds public hearings that few attend, and the mayor's office drives priorities. The result: budgets reflect the interests of developers, lobbyists, and politically connected groups - not ordinary Denver residents.
 
-Meanwhile, trust in local government is low and declining. People feel — correctly — that their voice doesn't matter. Voter turnout in Denver municipal elections is often below 30%. The system is technically democratic but functionally unresponsive.
+Meanwhile, trust in local government is low and declining. People feel - correctly - that their voice doesn't matter. Voter turnout in Denver municipal elections is often below 30%. The system is technically democratic but functionally unresponsive.
 
 ## Our Solution
 
@@ -23,9 +23,9 @@ Pioneered in Porto Alegre, Brazil in 1989 and now used in over 7,000 cities worl
 
 **Denver's PB Program:**
 - **10% of the city's capital budget** (~$100-150M/year) is allocated through participatory budgeting
-- **Every Denver resident** 14+ can participate (including non-citizens — you don't need to be a voter to have a say in your neighborhood)
+- **Every Denver resident** 14+ can participate (including non-citizens - you don't need to be a voter to have a say in your neighborhood)
 - **Neighborhood assemblies** propose projects: parks, street improvements, community centers, safety infrastructure, environmental remediation
-- **Resident vote** selects winning projects — online + in-person, with multilingual ballots
+- **Resident vote** selects winning projects - online + in-person, with multilingual ballots
 - **Budget delegates** (elected from neighborhoods) develop proposals into implementable projects with city staff support
 
 **Process (annual cycle):**
@@ -93,15 +93,15 @@ Adapted from Ireland's Citizens' Assembly model, which resolved the country's mo
 - **Citizens' assemblies:** $1-2M per assembly (participant stipends, facilitation, expert testimony, venue)
 - **Total:** $4-5M/year for dramatically improved democratic participation
 
-This is a rounding error in a $1.6B budget — and the evidence shows PB produces more efficient spending than bureaucratic allocation.
+This is a rounding error in a $1.6B budget - and the evidence shows PB produces more efficient spending than bureaucratic allocation.
 
 ## Frequently Asked Questions
 
 **"Ordinary people can't make budget decisions."**
-They make them better than you'd expect. Porto Alegre's PB program produced more equitable infrastructure than decades of expert-driven budgeting. And citizens' assemblies consistently produce well-reasoned, evidence-based recommendations — because participants actually listen to evidence, unlike most politicians.
+They make them better than you'd expect. Porto Alegre's PB program produced more equitable infrastructure than decades of expert-driven budgeting. And citizens' assemblies consistently produce well-reasoned, evidence-based recommendations - because participants actually listen to evidence, unlike most politicians.
 
 **"This will slow down government."**
-The PB cycle runs parallel to the regular budget process. Citizens' assemblies are convened for specific questions on specific timelines. Neither replaces existing governance — they supplement it with democratic legitimacy.
+The PB cycle runs parallel to the regular budget process. Citizens' assemblies are convened for specific questions on specific timelines. Neither replaces existing governance - they supplement it with democratic legitimacy.
 
 **"What about people who don't participate?"**
 More people participate in PB than vote in municipal elections. And the random selection for citizens' assemblies ensures representation even without self-selection. These tools reach people that elections don't.

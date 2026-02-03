@@ -18,11 +18,11 @@ Denver residents pay $80-120/month for internet that is slower, less reliable, a
 - Lobbying against any competition, including municipal broadband
 - Redlining: underinvestment in low-income and minority neighborhoods
 
-Internet access is essential infrastructure — required for school, work, healthcare, and civic participation. Treating it as a luxury product controlled by monopolies is a policy failure.
+Internet access is essential infrastructure - required for school, work, healthcare, and civic participation. Treating it as a luxury product controlled by monopolies is a policy failure.
 
 ## Our Solution
 
-### Denver Fiber — City-Owned Broadband
+### Denver Fiber - City-Owned Broadband
 
 **Infrastructure:**
 - City-owned fiber optic network reaching every address in Denver
@@ -41,7 +41,7 @@ Internet access is essential infrastructure — required for school, work, healt
 Compare to Comcast: $80-120/month for comparable speeds with data caps and annual price increases.
 
 **Key features:**
-- **Net neutrality guaranteed** — no content blocking, throttling, or paid prioritization. Written into the charter.
+- **Net neutrality guaranteed** - no content blocking, throttling, or paid prioritization. Written into the charter.
 - **No data caps.** Ever.
 - **Privacy by default.** Denver Fiber does not sell, share, or monetize customer browsing data.
 - **Free tier** for households at or below 200% federal poverty level
@@ -53,6 +53,19 @@ Compare to Comcast: $80-120/month for comparable speeds with data caps and annua
 - Year 3-4: Expand to 50% of Denver addresses
 - Year 5-7: Complete citywide buildout
 - Revenue from early subscribers funds continued expansion
+
+### International Evidence: Public Internet Is Normal
+
+| Country/City | Model | Speed | Price | Result |
+|-------------|-------|-------|-------|--------|
+| **South Korea** | Government-led broadband infrastructure investment. | 1 Gbps+ standard | ~$30/month | Fastest internet in the world. 98% penetration. |
+| **Romania** | Small local ISPs built fiber with minimal regulation. | 1 Gbps standard | ~$10/month | Faster and cheaper than US broadband at 1/4 the GDP per capita. Proof that competition drives prices down. |
+| **Finland** | Legal right to broadband access (2010). Government investment in underserved areas. | 100 Mbps minimum guaranteed | Varies | Broadband declared a legal right. Universal access regardless of location or income. |
+| **Chattanooga, TN** | City-owned EPB Fiber. First gigabit in Western Hemisphere (2010). | 10 Gbps available | $68/month gig | Profitable. Attracts tech businesses. Economic development engine. |
+| **Longmont, CO** | NextLight municipal broadband. 30 miles from Denver. | 1 Gbps | $50/month | Profitable within 5 years. 90%+ customer satisfaction. Proof of concept in Denver's backyard. |
+| **Fort Collins, CO** | Connexion municipal broadband. | 1 Gbps | $60/month | On track for profitability. Residents voted 57% in favor despite $150M Comcast-funded opposition campaign. |
+
+**The US pays more for worse internet than most of the developed world** because we let monopolies control infrastructure. Municipal broadband breaks the monopoly, and the evidence from every city that's done it shows better speeds, lower prices, and community benefit.
 
 ## How We Pay For It
 

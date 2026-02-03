@@ -11,13 +11,13 @@ status: "draft"
 
 ## The Problem
 
-The United States is the only wealthy country in the world — and one of only 6 countries total — with no federal paid parental leave. Zero. A worker in Denver who has a baby, adopts a child, or has a critically ill family member must choose between their income and their family.
+The United States is the only wealthy country in the world - and one of only 6 countries total - with no federal paid parental leave. Zero. A worker in Denver who has a baby, adopts a child, or has a critically ill family member must choose between their income and their family.
 
-- **Parental leave:** US federal law (FMLA) provides 12 weeks of UNPAID leave — and only for companies with 50+ employees. Most workers can't afford 12 weeks without pay.
+- **Parental leave:** US federal law (FMLA) provides 12 weeks of UNPAID leave - and only for companies with 50+ employees. Most workers can't afford 12 weeks without pay.
 - **Sick leave:** No federal guarantee. Colorado has 6 days. Workers go to work sick because they can't afford not to.
 - **Vacation:** No federal guarantee. The average American gets 10 days. Europeans get 20-30. One in four American workers has ZERO paid vacation days.
 
-The human cost: parents return to work days after birth. Cancer patients work through chemotherapy. Workers spread illness because calling in sick means not making rent. This is not freedom — it's coercion.
+The human cost: parents return to work days after birth. Cancer patients work through chemotherapy. Workers spread illness because calling in sick means not making rent. This is not freedom - it's coercion.
 
 ## Our Solution
 
@@ -26,10 +26,10 @@ The human cost: parents return to work days after birth. Cancer patients work th
 **1. Paid Parental Leave: 26 Weeks**
 - 26 weeks (6 months) paid leave for birth, adoption, or foster placement
 - Available to ALL parents regardless of gender
-- 8 weeks reserved for each parent (non-transferable "daddy/mommy quota" — modeled on Sweden and Norway, which found that reserved leave dramatically increases fathers' participation)
+- 8 weeks reserved for each parent (non-transferable "daddy/mommy quota" - modeled on Sweden and Norway, which found that reserved leave dramatically increases fathers' participation)
 - At 100% pay for workers earning up to $75K; 80% for earnings above that
 - Job protection: guaranteed return to same or equivalent position
-- Available from day one of employment — no waiting period
+- Available from day one of employment - no waiting period
 
 **2. Paid Sick Leave: Unlimited**
 - No cap on paid sick days for illness or medical appointments
@@ -41,7 +41,7 @@ The human cost: parents return to work days after birth. Cancer patients work th
 **3. Paid Vacation: 4 Weeks Minimum**
 - 20 days (4 weeks) paid vacation minimum for all Denver workers
 - Increases to 25 days after 5 years, 30 days after 10 years
-- Employers cannot buy back unused vacation — time off must be taken
+- Employers cannot buy back unused vacation - time off must be taken
 - Pro-rated for part-time workers
 
 **4. Paid Family/Medical Leave**
@@ -66,9 +66,9 @@ The US is the extreme global outlier. Here's what normal looks like:
 
 **The correlation is clear:** Countries with generous paid leave have STRONGER economies, higher productivity, lower healthcare costs, lower infant mortality, and happier populations.
 
-### The "Daddy Quota" — Why Reserved Leave Matters
+### The "Daddy Quota" - Why Reserved Leave Matters
 
-Sweden introduced the first "daddy quota" in 1995 — 30 days of parental leave reserved exclusively for fathers (use it or lose it). Before the quota, 10% of fathers took leave. After: 90%.
+Sweden introduced the first "daddy quota" in 1995 - 30 days of parental leave reserved exclusively for fathers (use it or lose it). Before the quota, 10% of fathers took leave. After: 90%.
 
 Norway, Iceland, Germany, and others followed. The result:
 - More equal distribution of childcare labor
@@ -106,7 +106,7 @@ Denver's program uses an insurance model (similar to Colorado's state FAMLI prog
 Businesses in every other wealthy country afford this. The 0.5% employer payroll tax is a rounding error compared to health insurance premiums. And the evidence from every US state that has implemented paid leave shows zero negative employment effects.
 
 **"People will abuse unlimited sick leave."**
-Studies from countries with unlimited sick leave show average usage of 8-12 days/year — barely more than where it's limited. Most people want to work. What changes is that sick people stay home instead of infecting the office.
+Studies from countries with unlimited sick leave show average usage of 8-12 days/year - barely more than where it's limited. Most people want to work. What changes is that sick people stay home instead of infecting the office.
 
 **"26 weeks of parental leave is too generous."**
 It's HALF of what Sweden provides. It's HALF of what Denmark provides. And the research is unequivocal: the first 6 months of a child's life are critical for bonding, breastfeeding, and development. Six months is a minimum, not a luxury.

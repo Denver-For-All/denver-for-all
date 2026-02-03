@@ -41,6 +41,23 @@ This is how it works in Germany, Scandinavia, France, and most developed democra
 - Eliminates the employer incentive to bust individual unions
 - Creates industry-wide standards that improve conditions for everyone
 
+### International Evidence: The Dominant Model Worldwide
+
+Sectoral bargaining is not experimental. It is the standard labor model in most wealthy democracies:
+
+| Country | Model | Coverage | Result |
+|---------|-------|----------|--------|
+| **Germany** | Sector-wide *Tarifverträge* between employer associations and unions. Government can extend agreements to cover entire sectors. | ~50% directly, spillover raises most wages | Largest economy in Europe. Manufacturing powerhouse. Higher wages for comparable work than US. |
+| **Sweden** | Centralized bargaining. No statutory minimum wage — sector agreements set floors. | 90%+ | Among lowest inequality in the world. Fast food workers earn $20+/hr with benefits. |
+| **Denmark** | No minimum wage law. Sector agreements cover virtually all workers. "Flexicurity" pairs with generous unemployment. | 84% | McDonald's workers earn $22/hr with 6 weeks paid vacation. Lowest poverty in Europe. |
+| **France** | Sector agreements extended by government to all workers in the sector, even non-union firms. | **98%** (highest in the world) | 8% union membership but 98% coverage. This is the model: low union density doesn't prevent broad coverage. |
+| **Australia** | Fair Work Commission "Modern Awards" — tripartite body sets industry minimums. | Universal | Minimum wage ~$23 AUD/hr. 30 years without recession before COVID. |
+| **New Zealand** | Reintroduced "Fair Pay Agreements" in 2022. | Growing | Direct response to enterprise-only bargaining driving up inequality. |
+
+**The US enterprise-only model is the global outlier.** It produces the lowest union coverage, lowest wages relative to productivity, and highest inequality of any wealthy democracy.
+
+**Key insight from France:** You don't need high union membership. France has 8% union membership but 98% bargaining coverage — because government extends negotiated agreements to entire sectors. Denver's wage boards replicate this: set standards for all employers regardless of unionization.
+
 ## How We Pay For It
 
 This is a regulatory framework, not a spending program. Wage Board administration: $2-3M/year, funded by employer assessments proportional to sector size.

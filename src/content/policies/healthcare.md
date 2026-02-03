@@ -54,6 +54,23 @@ Denver already has a nascent STAR program. We expand it dramatically:
 - Buffer zones around clinics
 - Non-cooperation with states criminalizing reproductive healthcare
 
+### International Evidence: We Pay More and Get Less
+
+| Country | Model | Cost per Capita | Life Expectancy | Medical Bankruptcies |
+|---------|-------|-----------------|-----------------|---------------------|
+| **Germany** | All-payer rate setting — all insurers pay same negotiated rates. No surprise billing. | $7,383 | 81.4 years | 0 |
+| **Japan** | Government reference pricing for all procedures. | $4,691 | 84.8 years | 0 |
+| **Taiwan** | Single-payer since 1995. Smart card system. | $3,047 | 80.9 years | 0 |
+| **UK (NHS)** | Government-run. Free at point of use. | $5,138 | 81.4 years | 0 |
+| **France** | Universal multi-payer. Government covers 70-100% of costs. | $5,564 | 82.5 years | 0 |
+| **USA** | Market-based. Unregulated pricing. | **$12,555** | **77.5 years** | **530,000/year** |
+
+**We pay the most and live the shortest.** The US spends twice what Germany spends per person and gets 4 fewer years of life expectancy and half a million bankruptcies. A child's NICU stay costs a family $0 in Germany. In Denver, it can cost millions.
+
+Denver can't implement single-payer unilaterally, but Denver CAN model what humane healthcare looks like: forgive debt, create transparency, expand community health, and replace police crisis response with medical professionals.
+
+**Denver For All also supports Colorado state legislation for all-payer rate setting** (the German model) — requiring all insurers and hospitals to negotiate standard rates, eliminating surprise billing and the administrative waste that consumes 30% of US healthcare spending.
+
 ## How We Pay For It
 
 - Medical Debt Program: $5M/year (forgives $100-500M)

@@ -61,6 +61,24 @@ Over 4 years, redirect 25% of police budget ($75M/year) to:
 - Targeted intervention in highest-violence neighborhoods
 - Hospital-based intervention for gunshot victims (prevent retaliation cycles)
 
+### International Evidence: Punishment Doesn't Work. Investment Does.
+
+| Country | Model | Incarceration Rate | Recidivism | Result |
+|---------|-------|-------------------|------------|--------|
+| **Norway** | Rehabilitation-focused. Prisons resemble college campuses. Focus on reintegration: job training, education, therapy. Maximum sentence: 21 years. | 54 per 100K | **20%** | One of the lowest crime rates in the world. Prisoners come out as functioning citizens, not hardened criminals. |
+| **Finland** | Open prisons where inmates work, attend school, go home on weekends. Focus on normality and skill-building. | 51 per 100K | **36%** | Crime has been declining for decades. Society saves money because fewer people return to prison. |
+| **Germany** | Prisons run like vocational schools. Inmates learn trades, earn certifications, maintain family relationships. | 69 per 100K | **35-40%** | The goal is explicitly rehabilitation, not punishment. And it works — for public safety, not just for inmates. |
+| **Netherlands** | Closing prisons due to falling crime rates. Focus on electronic monitoring, community service, and rehabilitation. | 59 per 100K | **45%** | So few prisoners that they've actually shut down prisons and rented empty cells to Belgium and Norway. |
+| **USA** | Punishment-focused. Overcrowded, violent, minimal rehabilitation. Private prison industry profits from incarceration. | **531 per 100K** (highest in the world) | **76%** | We lock up 10x more people than Norway, spend vastly more, and get vastly worse outcomes. Three-quarters of released prisoners return. The system does not produce safety — it produces repeat offenders. |
+
+**The US incarceration rate is the highest on Earth** — higher than Russia, China, or any authoritarian regime. And our recidivism rate proves it doesn't work. Norway rehabilitates 80% of its prisoners. We rehabilitate 24%.
+
+Denver can't reform the state prison system alone, but Denver CAN:
+- Redirect police budget to prevention and intervention
+- Implement restorative justice that reduces incarceration
+- End the police-to-prison pipeline for mental health crises and substance use
+- Model what evidence-based public safety looks like
+
 ## How We Pay For It
 
 This is primarily a budget reallocation, not new spending. Moving $75M from police to services that address root causes costs the city $0 net.

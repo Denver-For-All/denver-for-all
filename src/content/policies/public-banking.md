@@ -47,6 +47,19 @@ A publicly owned, city-chartered bank modeled on the Bank of North Dakota (opera
 - Transparent lending data published quarterly
 - Community advisory committee with seats reserved for underserved populations
 
+### International Evidence: Public Banking Is Normal
+
+| Institution | Country | Founded | Assets | Result |
+|------------|---------|---------|--------|--------|
+| **Germany's Sparkassen** (400+ public savings banks) | Germany | 1800s | €1.4 trillion total | Serve 50 million customers. Largest banking sector in Germany. Legally required to serve the public interest. Profits reinvested locally. Credit to small businesses at rates Wall Street won't match. |
+| **Bank of North Dakota** | USA | 1919 | $10B+ | Only public bank in the US. 100+ years, zero losses, returned $100M+/year to state. ND has lowest bank failure rate nationally. Survived Depression, 2008, COVID. |
+| **KfW (Kreditanstalt für Wiederaufbau)** | Germany | 1948 | €546 billion | Government development bank. Funds green energy, affordable housing, SMEs. Key driver of Germany's Energiewende (energy transition). |
+| **Japan Post Bank** | Japan | 2006 (restructured) | ¥224 trillion | Largest deposit holder in the world. Universal access — branch in every community. Financial inclusion for rural and underserved populations. |
+| **Costa Rica's Banco Nacional** | Costa Rica | 1914 | Public/mixed | Largest bank in Central America. Public bank finances development while private banks serve elites. |
+| **India's State Bank of India** | India | 1955 | $635 billion | Financial inclusion for 450M+ account holders. Reaches rural communities that private banks ignore. |
+
+**Public banking is the global norm.** Private banking dominance is the American aberration. In Germany alone, public and cooperative banks control more assets than private banks. They serve communities instead of extracting from them.
+
 ## How We Pay For It
 
 **Startup:** $50-100M in initial capitalization from city reserves and bonds. This is not spending — it's moving money from Wall Street banks to a city-owned bank. The money still exists.

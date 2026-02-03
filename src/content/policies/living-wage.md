@@ -43,6 +43,19 @@ Meanwhile, Denver's economy generates enormous wealth. The question is not wheth
 - **Annual indexing:** After reaching $25/hr, the minimum wage increases automatically with Denver CPI. No more years-long fights to adjust for inflation.
 - **Wage theft enforcement:** Dedicated wage theft investigators in the city attorney's office. Triple damages for violations. Public naming of violators. Criminal prosecution for repeat offenders.
 
+### International Context: America's Wage Floor is the Outlier
+
+| Country | Minimum Wage (USD equiv.) | How It's Set | Result |
+|---------|--------------------------|-------------|--------|
+| **Australia** | $15.50/hr (23.23 AUD) | Independent Fair Work Commission reviews annually, considers cost of living | 30 years without recession before COVID. No mass unemployment from high minimum wage. |
+| **France** | $13.80/hr (SMIC) | Indexed to inflation automatically + periodic government increases | Low-wage workers have purchasing power. Restaurant industry thrives. |
+| **UK** | $14.20/hr (£11.44, National Living Wage) | Independent Low Pay Commission recommends, considers economic data | Introduced at $5.50 in 1999. Raised steadily to $14+ with zero detectable negative employment effects (studies by Arindrajit Dube, internationally recognized). |
+| **Germany** | $14.50/hr (€12.41) | Minimum Wage Commission + sectoral agreements push far higher | Introduced in 2015. Employment INCREASED after implementation, contrary to every conservative prediction. |
+| **Denmark** | ~$22/hr (no statutory minimum — set by sectoral agreements) | Union-employer negotiations | McDonald's workers earn $22/hr + 6 weeks vacation. The Big Mac costs $0.35 more than in the US. |
+| **USA** | **$7.25/hr** (federal, unchanged since 2009) | Congressional action required (politically gridlocked) | **Lowest minimum wage relative to median income of any OECD country.** The federal minimum wage in real dollars is lower today than it was in 1968. |
+
+$25/hr in Denver is not radical — it's what basic cost-of-living arithmetic demands, and it's in line with what workers earn in countries with stronger economies and lower poverty rates.
+
 ### Economic Impact
 
 **"But won't businesses close?"**

@@ -57,6 +57,20 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 - Wrap-around services on-site: health clinic, food pantry, parent education, legal aid, social workers
 - Schools as community hubs, not just test-taking factories
 
+### International Evidence: What Great Education Looks Like
+
+| Country | Key Features | Result |
+|---------|-------------|--------|
+| **Finland** | No standardized testing until age 16. Equal funding across all schools. Teachers are highly paid, highly trained (Master's required), and trusted with autonomy. Free meals for all students. No private schools of significance. | Consistently top-ranked globally in reading, math, and science. Smallest gap between highest and lowest performing students in the world. Teachers are as respected as doctors. |
+| **France** | Free universal *école maternelle* from age 3. Free school meals. Centralized equal funding. | 99% enrollment in pre-school. Strong early childhood development outcomes. |
+| **Sweden** | Free education from pre-school through university. Free school meals. Teacher salaries competitive. Maximum class sizes enforced. | High educational attainment, low inequality in outcomes. |
+| **Estonia** | Radical equal funding model. Free school meals. Strong early childhood programs. Teacher autonomy. | Top-performing European country on PISA. Rose from Soviet-era system to world-class in one generation through public investment. |
+| **South Korea** | Massive public investment in education. Teacher salaries among highest in the world (comparable to engineers). Free school meals. | Highest literacy rate in the world. Dramatic economic transformation driven by education investment. |
+
+**The pattern:** Every country with great education has: (1) equal funding, (2) well-paid teachers, (3) universal free meals, (4) strong pre-K, and (5) no privatization of the public system. Zero of the top-performing education systems rely on charter schools or market competition. The American experiment with school privatization has no international evidence supporting it.
+
+**Finland's lesson for Denver:** Finland's education revolution started with a simple principle: *every child deserves a great school in their neighborhood*. They didn't create "school choice" — they made every school excellent. That's our model.
+
 ## How We Pay For It
 
 - Universal Pre-K: $40-50M/year (city bonds + federal Pre-K funds)

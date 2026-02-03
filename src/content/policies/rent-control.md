@@ -40,6 +40,18 @@ Colorado state law previously prohibited local rent control (preemption), but th
 
 **Commercial rent stabilization.** Extend protections to small business leases under 3,000 sq ft. Denver's small businesses — restaurants, bodegas, barbershops — are being displaced by the same forces displacing residents.
 
+### International Evidence: This Works
+
+| Country/City | Rent Control Model | Result |
+|-------------|-------------------|--------|
+| **Vienna, Austria** | Rent caps on 60% of housing stock. No vacancy decontrol. | Average rent: €5-7/sqm. Virtually no homelessness. Housing is not a financial crisis for any Viennese resident. |
+| **Germany (*Mietpreisbremse*)** | New rents cannot exceed 10% above local reference rent (*Mietspiegel*). Annual increases capped at 15-20% over 3 years. | Slowed rent increases in Berlin, Hamburg, and Munich. Challenges remain with enforcement but model is sound. |
+| **Sweden (*Hyreslagen*)** | All rents negotiated between tenant unions and landlord associations. No individual rent-setting. | Rents are 40-60% below what market rates would be. Quality remains high. Waitlists exist (demand for affordable housing is infinite). |
+| **Netherlands** | Point-based rent system — rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum. | Transparent, objective rent-setting. No landlord discretion. |
+| **Paris, France (*Encadrement des loyers*)** | Rent caps based on neighborhood reference rents. | Slowed rapid gentrification in central Paris. |
+
+**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment — and it's failed. Every city that relies purely on the market has a housing affordability crisis. Every city with strong rent regulation doesn't.
+
 ### Why No Vacancy Decontrol Matters
 
 This is the policy detail that makes or breaks rent control. Here's why:

@@ -74,6 +74,19 @@ Denver specifically faces an opioid/fentanyl crisis that law enforcement cannot 
 
 **Portugal's results after decriminalization (2001):** HIV infections among drug users dropped 95%. Overdose deaths dropped by 80%. Drug use rates are below the European average. This works.
 
+### International Evidence: Every Approach Works Better Than Criminalization
+
+| Country | Model | Result |
+|---------|-------|--------|
+| **Portugal** (2001) | Decriminalized all drugs. Redirected enforcement budget to treatment. Dissuasion commissions (health professionals, not judges) meet with people caught using. | HIV infections among drug users dropped **95%**. Overdose deaths dropped **80%**. Drug use rates below EU average. Incarceration for drug offenses dropped dramatically. |
+| **Switzerland** (1994) | Heroin-assisted treatment (HAT) — prescribed pharmaceutical heroin for severe addiction. Safe consumption sites in every major city. | Overdose deaths dropped **50%**. HIV transmission dropped **65%**. Crime associated with drug use dropped dramatically. Public support for the program exceeds 70%. |
+| **Netherlands** | Pragmatic tolerance. Coffee shops sell cannabis legally. Safe consumption sites. Treatment emphasis. | Drug use rates comparable to strict-prohibition countries. Overdose deaths among lowest in Europe. System costs less than criminalization. |
+| **Czech Republic** (2010) | Decriminalized personal possession of all drugs. Health-focused approach. | No increase in drug use. Reduced stigma. Better health outcomes for drug users. |
+| **Canada** (Vancouver) | Insite supervised consumption site operating since 2003. Legal challenge reached Supreme Court (upheld). | 1,500+ overdose interventions. Zero deaths. 33% increase in detox program enrollment by nearby residents. Reduced public injection by 65%. |
+| **USA** (Drug War, 1971-present) | Criminalization. $1 trillion+ spent on enforcement. Mass incarceration. | **Highest overdose death rate in the world. Highest incarceration rate on Earth. Drug use has not decreased.** The most expensive and least effective approach ever attempted. |
+
+**Every single alternative approach — Portuguese decriminalization, Swiss harm reduction, Dutch pragmatism — produces better outcomes than American criminalization.** The evidence is not ambiguous. The war on drugs is the single most thoroughly disproven policy in modern history.
+
 ## Frequently Asked Questions
 
 **"Won't this encourage drug use?"**

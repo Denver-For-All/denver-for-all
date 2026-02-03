@@ -53,6 +53,18 @@ Vienna, Austria houses 60% of its population in publicly owned or subsidized hou
 
 We adapt this for Denver's context: smaller initial scale, but the same principles.
 
+### International Evidence: Public Housing Works — When It's Designed To
+
+| Country/City | Public Housing Stock | Key Feature | Result |
+|-------------|---------------------|-------------|--------|
+| **Vienna, Austria** | 220,000 municipal apartments. 60% of residents in public/subsidized housing. | Mixed-income, architecturally excellent, democratic governance | Named "most livable city" repeatedly. Average rent: €5-7/sqm. No housing affordability crisis. No stigma — public housing is desirable. |
+| **Singapore** | 80% of residents in government HDB flats | Home ownership model: 99-year leases, resale market exists | Home ownership: 90%. Mixed-income, mixed-ethnicity by design. Housing is not a source of financial precarity. |
+| **Finland** | Comprehensive social housing + Housing First | Converted shelters to permanent housing | **Only EU country where homelessness is declining.** Down 35% since 2008. |
+| **Denmark** | 20% of housing is *almene boliger* (non-profit) | Tenant-governed housing associations, rents set at cost | High quality, mixed-income, zero profit extraction. Democratically managed. |
+| **Red Vienna (1919-1934)** | 65,000 apartments built in 15 years during economic crisis | Municipal construction at massive scale | Created the template for modern social housing. Proved that bold public investment works even in hard times. |
+
+**The American failure was deliberate.** US public housing was underfunded by Congress, racially segregated by policy (Rothstein, *The Color of Law*), concentrated in poverty by design, and then defunded further when it predictably struggled. Every other country's public housing works because it was designed to succeed. Denver follows the models that work.
+
 ## How We Pay For It
 
 Total estimated cost: $3-4 billion over 10 years. This is achievable without raising property taxes on primary homeowners.

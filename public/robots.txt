@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://denverforall.org/sitemap-index.xml

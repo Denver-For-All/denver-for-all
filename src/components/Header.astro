@@ -1,0 +1,189 @@
+---
+const currentPath = Astro.url.pathname;
+
+const navItems = [
+  { href: '/platform', en: 'Platform', es: 'Plataforma' },
+  { href: '/run-for-denver', en: 'Run For Denver', es: 'Postularse' },
+  { href: '/tools', en: 'Tools', es: 'Herramientas' },
+  { href: '/take-action', en: 'Take Action', es: 'Actúa' },
+  { href: '/about', en: 'About', es: 'Quiénes Somos' },
+];
+---
+
+<header class="header">
+  <div class="container header__inner">
+    <a href="/" class="header__logo">
+      <span class="header__logo-icon">
+        <img src="/favicon.svg" alt="" width="36" height="36" />
+      </span>
+      <span class="header__logo-text" data-en="Denver For All" data-es="Denver Para Todos">Denver For All</span>
+    </a>
+
+    <nav class="header__nav" id="main-nav">
+      {navItems.map(item => (
+        <a
+          href={item.href}
+          class:list={['header__link', { 'header__link--active': currentPath.startsWith(item.href) }]}
+          data-en={item.en}
+          data-es={item.es}
+        >
+          {item.en}
+        </a>
+      ))}
+      <button
+        class="header__lang-toggle"
+        id="lang-toggle"
+        aria-label="Toggle language"
+      >
+        <span data-en="ES" data-es="EN">ES</span>
+      </button>
+    </nav>
+
+    <button class="header__menu-btn" id="menu-toggle" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--color-border);
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+  }
+
+  .header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .header__logo {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+
+  .header__logo-text {
+    font-weight: 800;
+    font-size: 1.25rem;
+    letter-spacing: -0.02em;
+  }
+
+  .header__nav {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .header__link {
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text-muted);
+    transition: all 0.2s;
+  }
+
+  .header__link:hover {
+    color: var(--color-primary);
+    background: var(--color-bg-alt);
+  }
+
+  .header__link--active {
+    color: var(--color-primary);
+    background: var(--color-bg-alt);
+  }
+
+  .header__lang-toggle {
+    margin-left: 0.5rem;
+    padding: 0.4rem 0.75rem;
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius);
+    background: transparent;
+    color: var(--color-primary);
+    font-weight: 700;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .header__lang-toggle:hover {
+    background: var(--color-primary);
+    color: white;
+  }
+
+  .header__menu-btn {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+
+  .header__menu-btn span {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: var(--color-text);
+    transition: all 0.2s;
+  }
+
+  @media (max-width: 768px) {
+    .header__nav {
+      display: none;
+      position: absolute;
+      top: var(--header-height);
+      left: 0;
+      right: 0;
+      background: white;
+      flex-direction: column;
+      padding: 1rem;
+      border-bottom: 1px solid var(--color-border);
+      box-shadow: var(--shadow-md);
+    }
+
+    .header__nav.open {
+      display: flex;
+    }
+
+    .header__link {
+      width: 100%;
+      padding: 0.75rem 1rem;
+    }
+
+    .header__menu-btn {
+      display: flex;
+    }
+  }
+</style>
+
+<script>
+  const toggle = document.getElementById('menu-toggle');
+  const nav = document.getElementById('main-nav');
+  toggle?.addEventListener('click', () => nav?.classList.toggle('open'));
+
+  const langToggle = document.getElementById('lang-toggle');
+  langToggle?.addEventListener('click', () => {
+    const current = localStorage.getItem('dfa-locale') || 'en';
+    const next = current === 'en' ? 'es' : 'en';
+    localStorage.setItem('dfa-locale', next);
+    document.documentElement.lang = next;
+    document.querySelectorAll('[data-en]').forEach(el => {
+      const text = el.getAttribute(`data-${next}`);
+      if (text) el.textContent = text;
+    });
+  });
+</script>

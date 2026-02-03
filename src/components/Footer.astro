@@ -1,0 +1,112 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand">
+        <h3 class="footer__logo" data-en="Denver For All" data-es="Denver Para Todos">Denver For All</h3>
+        <p class="footer__tagline" data-en="Built by the people, for the people." data-es="Hecho por el pueblo, para el pueblo.">
+          Built by the people, for the people.
+        </p>
+      </div>
+
+      <div class="footer__links">
+        <h4 data-en="Platform" data-es="Plataforma">Platform</h4>
+        <a href="/platform" data-en="All Proposals" data-es="Todas las Propuestas">All Proposals</a>
+        <a href="/run-for-denver" data-en="Run For Denver" data-es="Postularse por Denver">Run For Denver</a>
+        <a href="/take-action" data-en="Take Action" data-es="Actúa">Take Action</a>
+      </div>
+
+      <div class="footer__links">
+        <h4 data-en="Tools" data-es="Herramientas">Tools</h4>
+        <a href="/tools/eviction-tracker" data-en="Eviction Tracker" data-es="Rastreador de Desalojos">Eviction Tracker</a>
+        <a href="/tools/rent-calculator" data-en="Rent Calculator" data-es="Calculadora de Alquiler">Rent Calculator</a>
+        <a href="/tools/campaign-finance" data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</a>
+      </div>
+
+      <div class="footer__links">
+        <h4 data-en="Connect" data-es="Conectar">Connect</h4>
+        <a href="mailto:info@denverforall.org" data-en="Email Us" data-es="Escríbenos">Email Us</a>
+        <a href="https://reddit.com/r/Denver" target="_blank" rel="noopener">Reddit</a>
+        <a href="#" data-en="Signal Group" data-es="Grupo de Signal">Signal Group</a>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <p>
+        <span data-en="This site is open source." data-es="Este sitio es de código abierto.">This site is open source.</span>
+        &copy; {year} Denver For All.
+        <span data-en="Built with solidarity and open-source tools." data-es="Construido con solidaridad y herramientas de código abierto.">
+          Built with solidarity and open-source tools.
+        </span>
+      </p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    background: var(--color-text);
+    color: white;
+    padding: 3rem 0 1.5rem;
+    margin-top: 4rem;
+  }
+
+  .footer a {
+    color: var(--color-primary-light);
+  }
+
+  .footer a:hover {
+    color: white;
+  }
+
+  .footer__grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .footer__logo {
+    font-size: 1.25rem;
+    color: white;
+    margin-bottom: 0.5rem;
+  }
+
+  .footer__tagline {
+    color: var(--color-text-light);
+    font-size: 0.9rem;
+  }
+
+  .footer__links h4 {
+    color: white;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+
+  .footer__links a {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .footer__bottom {
+    border-top: 1px solid rgba(255,255,255,0.1);
+    padding-top: 1.5rem;
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+  }
+
+  @media (max-width: 768px) {
+    .footer__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+    .footer__brand {
+      grid-column: 1 / -1;
+    }
+  }
+</style>

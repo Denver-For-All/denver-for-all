@@ -1,0 +1,86 @@
+---
+import Layout from '../layouts/Layout.astro';
+import EmailCapture from '../components/EmailCapture.astro';
+---
+
+<Layout title="About" description="Denver For All is a grassroots movement building political power for working people in Denver.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="About Denver For All" data-es="Acerca de Denver Para Todos">About Denver For All</h1>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 data-en="Who We Are" data-es="Quiénes Somos">Who We Are</h2>
+      <p data-en="Denver For All is a grassroots political organization building power for working people in Denver. We are tenants, workers, parents, organizers, and neighbors who believe that Denver should work for everyone — not just the wealthy." data-es="Denver Para Todos es una organización política popular que construye poder para las personas trabajadoras de Denver. Somos inquilinos, trabajadores, padres, organizadores y vecinos que creemos que Denver debe funcionar para todos — no solo para los ricos.">
+        Denver For All is a grassroots political organization building power for working people in Denver. We are tenants, workers, parents, organizers, and neighbors who believe that Denver should work for everyone — not just the wealthy.
+      </p>
+
+      <h2 data-en="What We Believe" data-es="En Lo Que Creemos">What We Believe</h2>
+      <ul class="beliefs">
+        <li data-en="Housing is a human right, not a commodity." data-es="La vivienda es un derecho humano, no una mercancía.">Housing is a human right, not a commodity.</li>
+        <li data-en="Every worker deserves a living wage — no exceptions, no tipped minimums." data-es="Todo trabajador merece un salario digno — sin excepciones, sin salarios mínimos con propinas.">Every worker deserves a living wage — no exceptions, no tipped minimums.</li>
+        <li data-en="Healthcare should not bankrupt you." data-es="La atención médica no debería llevarte a la bancarrota.">Healthcare should not bankrupt you.</li>
+        <li data-en="People experiencing addiction need treatment, not prison." data-es="Las personas con adicciones necesitan tratamiento, no prisión.">People experiencing addiction need treatment, not prison.</li>
+        <li data-en="Immigrants are our neighbors and they deserve protection, not persecution." data-es="Los inmigrantes son nuestros vecinos y merecen protección, no persecución.">Immigrants are our neighbors and they deserve protection, not persecution.</li>
+        <li data-en="Public money should serve the public — not corporations." data-es="El dinero público debe servir al público — no a las corporaciones.">Public money should serve the public — not corporations.</li>
+        <li data-en="Democracy means more than voting every four years. It means power in the hands of the people." data-es="La democracia significa más que votar cada cuatro años. Significa poder en manos del pueblo.">Democracy means more than voting every four years. It means power in the hands of the people.</li>
+      </ul>
+
+      <h2 data-en="What We Do" data-es="Lo Que Hacemos">What We Do</h2>
+      <p data-en="We develop detailed, data-driven policy proposals. We build free tools that hold power accountable. We organize tenants, workers, and communities. We recruit and support candidates who share our vision. And when the system won't listen, we take it directly to the ballot." data-es="Desarrollamos propuestas políticas detalladas basadas en datos. Construimos herramientas gratuitas que exigen rendición de cuentas. Organizamos inquilinos, trabajadores y comunidades. Reclutamos y apoyamos candidatos que compartan nuestra visión. Y cuando el sistema no escucha, lo llevamos directamente a la boleta.">
+        We develop detailed, data-driven policy proposals. We build free tools that hold power accountable.
+        We organize tenants, workers, and communities. We recruit and support candidates who share our vision.
+        And when the system won't listen, we take it directly to the ballot.
+      </p>
+
+      <h2 data-en="Transparency" data-es="Transparencia">Transparency</h2>
+      <p data-en="This entire website is open source. Our policy proposals are public. Our tools are free. We don't take corporate money. We believe in radical transparency because the people we're fighting against thrive in darkness." data-es="Todo este sitio web es de código abierto. Nuestras propuestas políticas son públicas. Nuestras herramientas son gratuitas. No aceptamos dinero corporativo. Creemos en la transparencia radical porque aquellos contra quienes luchamos prosperan en la oscuridad.">
+        This entire website is open source. Our policy proposals are public. Our tools are free.
+        We don't take corporate money. We believe in radical transparency because the people we're fighting against thrive in darkness.
+      </p>
+
+      <h2 data-en="Contact" data-es="Contacto">Contact</h2>
+      <p>
+        <span data-en="Email:" data-es="Correo:">Email:</span> <a href="mailto:info@denverforall.org">info@denverforall.org</a><br/>
+        <span data-en="Reddit:" data-es="Reddit:">Reddit:</span> <a href="https://reddit.com/r/Denver" target="_blank" rel="noopener">r/Denver</a><br/>
+        <span data-en="Signal: Coming soon" data-es="Signal: Próximamente">Signal: Coming soon</span>
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; }
+
+  .beliefs {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 2rem;
+  }
+
+  .beliefs li {
+    padding: 0.75rem 0 0.75rem 2rem;
+    position: relative;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 1.05rem;
+  }
+
+  .beliefs li::before {
+    content: '✊';
+    position: absolute;
+    left: 0;
+  }
+</style>

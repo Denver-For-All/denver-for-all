@@ -1,0 +1,121 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Tools" description="Free, open-source tools to hold power accountable and protect your rights.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Tools for the People" data-es="Herramientas para el Pueblo">Tools for the People</h1>
+      <p data-en="Free, open-source tools to hold power accountable and protect your rights. Built by the community, for the community." data-es="Herramientas gratuitas y de código abierto para exigir rendición de cuentas y proteger tus derechos. Hechas por la comunidad, para la comunidad.">
+        Free, open-source tools to hold power accountable and protect your rights.
+        Built by the community, for the community.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="grid grid--2">
+        <a href="/tools/eviction-tracker" class="card tool-card">
+          <div class="tool-card__badge" data-en="Live Data" data-es="Datos en Vivo">Live Data</div>
+          <span class="tool-card__icon">📊</span>
+          <h2 data-en="Denver Eviction Tracker" data-es="Rastreador de Desalojos de Denver">Denver Eviction Tracker</h2>
+          <p data-en="Real-time dashboard of eviction filings scraped from Denver County Court records. See which landlords file the most evictions, which neighborhoods are hit hardest, and track trends over time." data-es="Panel en tiempo real de demandas de desalojo obtenidas de los registros del Tribunal del Condado de Denver. Mira qué propietarios presentan más desalojos, qué vecindarios son los más afectados y rastrea las tendencias a lo largo del tiempo.">
+            Real-time dashboard of eviction filings scraped from Denver County Court records.
+            See which landlords file the most evictions, which neighborhoods are hit hardest, and track trends over time.
+          </p>
+          <span class="tool-card__link">Launch Tool →</span>
+        </a>
+
+        <a href="/tools/rent-calculator" class="card tool-card">
+          <div class="tool-card__badge" data-en="Interactive" data-es="Interactivo">Interactive</div>
+          <span class="tool-card__icon">🧮</span>
+          <h2 data-en="Rent Control Calculator" data-es="Calculadora de Control de Alquiler">Rent Control Calculator</h2>
+          <p data-en="Enter your current rent and see how much you'd save under Denver For All's rent stabilization plan. Compare with and without vacancy decontrol. Generate a shareable graphic for social media." data-es="Ingresa tu alquiler actual y mira cuánto ahorrarías con el plan de estabilización de alquileres de Denver Para Todos. Compara con y sin descontrol de vacantes. Genera un gráfico compartible para redes sociales.">
+            Enter your current rent and see how much you'd save under Denver For All's rent stabilization plan.
+            Compare with and without vacancy decontrol. Generate a shareable graphic for social media.
+          </p>
+          <span class="tool-card__link">Launch Tool →</span>
+        </a>
+
+        <a href="/tools/campaign-finance" class="card tool-card">
+          <div class="tool-card__badge" data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</div>
+          <span class="tool-card__icon">💰</span>
+          <h2 data-en="Campaign Finance Tracker" data-es="Rastreador de Finanzas de Campaña">Campaign Finance Tracker</h2>
+          <p data-en="Interactive visualization of campaign contributions to Denver City Council members and mayoral candidates. See which developers, landlords, and corporations fund which politicians — and how those politicians vote." data-es="Visualización interactiva de las contribuciones de campaña a los miembros del Concejo Municipal de Denver y candidatos a la alcaldía. Mira qué desarrolladores, propietarios y corporaciones financian a qué políticos — y cómo votan esos políticos.">
+            Interactive visualization of campaign contributions to Denver City Council members and mayoral candidates.
+            See which developers, landlords, and corporations fund which politicians — and how those politicians vote.
+          </p>
+          <span class="tool-card__link">Launch Tool →</span>
+        </a>
+
+        <a href="/tools/know-your-rights" class="card tool-card">
+          <div class="tool-card__badge" data-en="AI-Powered" data-es="Impulsado por IA">AI-Powered</div>
+          <span class="tool-card__icon">⚖️</span>
+          <h2 data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</h2>
+          <p data-en="AI-powered tenant rights assistant available 24/7 in English and Spanish. Ask questions about eviction, repairs, deposits, discrimination, and more. Chat or call — powered by real legal knowledge, not generic AI." data-es="Asistente de derechos del inquilino impulsado por IA disponible 24/7 en inglés y español. Haz preguntas sobre desalojos, reparaciones, depósitos, discriminación y más. Chat o llamada — impulsado por conocimiento legal real, no IA genérica.">
+            AI-powered tenant rights assistant available 24/7 in English and Spanish.
+            Ask questions about eviction, repairs, deposits, discrimination, and more.
+            Chat or call — powered by real legal knowledge, not generic AI.
+          </p>
+          <span class="tool-card__link">Launch Tool →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .tool-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+  }
+
+  .tool-card__badge {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    letter-spacing: 0.03em;
+  }
+
+  .tool-card__icon {
+    font-size: 2.5rem;
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  .tool-card h2 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .tool-card p {
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+  }
+
+  .tool-card__link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+  }
+</style>

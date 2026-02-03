@@ -1,0 +1,101 @@
+---
+interface Props {
+  variant?: 'default' | 'hero' | 'inline';
+}
+
+const { variant = 'default' } = Astro.props;
+---
+
+<section class:list={['email-capture', `email-capture--${variant}`]}>
+  <div class="email-capture__inner">
+    <h2 class="email-capture__heading" data-en="Join the Movement" data-es="Únete al Movimiento">
+      Join the Movement
+    </h2>
+    <p class="email-capture__text" data-en="Get updates on policy proposals, actions, and how to fight for a Denver that works for everyone." data-es="Recibe actualizaciones sobre propuestas políticas, acciones y cómo luchar por un Denver que funcione para todos.">
+      Get updates on policy proposals, actions, and how to fight for a Denver that works for everyone.
+    </p>
+    <form class="email-capture__form" action="#" method="POST" id="email-form">
+      <input
+        type="email"
+        name="email"
+        required
+        class="email-capture__input"
+        placeholder="your@email.com"
+        data-en-placeholder="your@email.com"
+        data-es-placeholder="tu@correo.com"
+        aria-label="Email address"
+      />
+      <button type="submit" class="btn btn--primary email-capture__btn">
+        <span data-en="Sign Up" data-es="Suscribirse">Sign Up</span>
+      </button>
+    </form>
+    <p class="email-capture__privacy" data-en="We respect your privacy. Unsubscribe anytime." data-es="Respetamos tu privacidad. Cancela cuando quieras.">
+      We respect your privacy. Unsubscribe anytime.
+    </p>
+  </div>
+</section>
+
+<style>
+  .email-capture {
+    padding: 3rem 0;
+  }
+
+  .email-capture--hero {
+    padding: 0;
+  }
+
+  .email-capture__inner {
+    max-width: 560px;
+  }
+
+  .email-capture--default .email-capture__inner {
+    margin: 0 auto;
+    text-align: center;
+    padding: 3rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+  }
+
+  .email-capture__heading {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .email-capture__text {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .email-capture__form {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .email-capture__input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--color-border);
+    border-radius: var(--radius);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    transition: border-color 0.2s;
+  }
+
+  .email-capture__input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+  }
+
+  .email-capture__privacy {
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 480px) {
+    .email-capture__form {
+      flex-direction: column;
+    }
+  }
+</style>

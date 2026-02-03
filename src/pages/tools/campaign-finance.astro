@@ -1,0 +1,67 @@
+---
+import Layout from '../../layouts/Layout.astro';
+---
+
+<Layout title="Follow the Money" description="See who funds Denver's politicians and how they vote.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</h1>
+      <p data-en="See who funds Denver's politicians — and how they vote." data-es="Mira quién financia a los políticos de Denver — y cómo votan.">
+        See who funds Denver's politicians — and how they vote.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="tool-placeholder" id="campaign-finance-app">
+        <div class="tool-placeholder__inner">
+          <h2 data-en="Coming Soon" data-es="Próximamente">Coming Soon</h2>
+          <p data-en="The campaign finance tracker is currently being built. It will include:" data-es="El rastreador de finanzas de campaña está actualmente en construcción. Incluirá:">
+            The campaign finance tracker is currently being built. It will include:
+          </p>
+          <ul>
+            <li data-en="Interactive visualization of contributions to all 13 council districts + at-large + mayor" data-es="Visualización interactiva de contribuciones a los 13 distritos del concejo + general + alcalde">Interactive visualization of contributions to all 13 council districts + at-large + mayor</li>
+            <li data-en="Filter by donor type: developers, landlords, PACs, corporations, individuals" data-es="Filtrar por tipo de donante: desarrolladores, propietarios, PACs, corporaciones, individuos">Filter by donor type: developers, landlords, PACs, corporations, individuals</li>
+            <li data-en="Cross-reference donations with voting records on housing and labor issues" data-es="Cruzar donaciones con registros de votación en temas de vivienda y trabajo">Cross-reference donations with voting records on housing and labor issues</li>
+            <li data-en="Councilmember scorecards on progressive priorities" data-es="Tarjetas de puntuación de concejales en prioridades progresistas">Councilmember scorecards on progressive priorities</li>
+            <li data-en="Downloadable datasets for journalists and researchers" data-es="Conjuntos de datos descargables para periodistas e investigadores">Downloadable datasets for journalists and researchers</li>
+          </ul>
+          <p data-en="Data source: Denver Campaign Finance public filings, scraped and normalized via Cloudflare Workers." data-es="Fuente de datos: Declaraciones públicas de Finanzas de Campaña de Denver, obtenidas y normalizadas a través de Cloudflare Workers.">
+            Data source: Denver Campaign Finance public filings, scraped and normalized via Cloudflare Workers.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
+
+  .tool-placeholder {
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .tool-placeholder__inner {
+    max-width: 600px;
+    text-align: center;
+    padding: 3rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 2px dashed var(--color-border);
+  }
+
+  .tool-placeholder__inner h2 { color: var(--color-primary); margin-bottom: 1rem; }
+  .tool-placeholder__inner ul { text-align: left; margin: 1rem 0; padding-left: 1.5rem; }
+  .tool-placeholder__inner li { margin-bottom: 0.5rem; color: var(--color-text-muted); }
+</style>

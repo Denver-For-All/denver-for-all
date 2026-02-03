@@ -1,0 +1,45 @@
+---
+interface Props {
+  slug: string;
+  title: string;
+  titleEs: string;
+  summary: string;
+  summaryEs: string;
+  category: string;
+  icon: string;
+}
+
+const { slug, title, titleEs, summary, summaryEs, category, icon } = Astro.props;
+---
+
+<a href={`/platform/${slug}`} class="card policy-card">
+  <span class="policy-card__icon">{icon}</span>
+  <span class="card__category" data-en={category} data-es={category}>{category}</span>
+  <h3 class="card__title" data-en={title} data-es={titleEs}>{title}</h3>
+  <p class="card__summary" data-en={summary} data-es={summaryEs}>{summary}</p>
+  <span class="policy-card__link" data-en="Read Full Proposal →" data-es="Leer Propuesta Completa →">
+    Read Full Proposal →
+  </span>
+</a>
+
+<style>
+  .policy-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .policy-card__icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.75rem;
+  }
+
+  .policy-card__link {
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+  }
+</style>

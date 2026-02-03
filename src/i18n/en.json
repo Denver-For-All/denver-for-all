@@ -1,0 +1,78 @@
+{
+  "site": {
+    "title": "Denver For All",
+    "tagline": "A Movement for Economic Justice in Denver",
+    "description": "Building a Denver where everyone can afford to live, work, and thrive."
+  },
+  "nav": {
+    "home": "Home",
+    "platform": "Platform",
+    "runForDenver": "Run For Denver",
+    "takeAction": "Take Action",
+    "tools": "Tools",
+    "about": "About",
+    "language": "Espa\u00f1ol"
+  },
+  "hero": {
+    "headline": "Denver Belongs to All of Us",
+    "subheadline": "Not just developers. Not just landlords. Not just corporations. All of us.",
+    "cta": "Read the Platform",
+    "ctaSecondary": "Join the Movement"
+  },
+  "email": {
+    "heading": "Join the Movement",
+    "subheading": "Get updates on policy proposals, actions, and how to fight for a Denver that works for everyone.",
+    "placeholder": "your@email.com",
+    "button": "Sign Up",
+    "privacy": "We respect your privacy. Unsubscribe anytime."
+  },
+  "platform": {
+    "heading": "The Platform",
+    "subheading": "Comprehensive, data-driven policies for a just Denver. Every proposal includes the problem, the solution, and how we pay for it.",
+    "readMore": "Read Full Proposal",
+    "categories": {
+      "housing": "Housing & Homelessness",
+      "labor": "Workers & Wages",
+      "climate": "Climate & Environment",
+      "health": "Healthcare",
+      "safety": "Public Safety",
+      "education": "Education",
+      "immigration": "Immigration",
+      "infrastructure": "Infrastructure & Services",
+      "justice": "Criminal Justice"
+    }
+  },
+  "runForDenver": {
+    "heading": "Run For Denver",
+    "subheading": "We have the platform, the volunteers, and the energy. We need a candidate who will fight for it.",
+    "criteria": "What We're Looking For",
+    "applyHeading": "Ready to Run?",
+    "applyButton": "Tell Us About Yourself"
+  },
+  "tools": {
+    "heading": "Tools for the People",
+    "subheading": "Free, open-source tools to hold power accountable and protect your rights.",
+    "evictionTracker": "Denver Eviction Tracker",
+    "evictionDesc": "Live dashboard of eviction filings by landlord and neighborhood.",
+    "rentCalculator": "Rent Control Calculator",
+    "rentCalcDesc": "See how much you'd save under our rent stabilization plan.",
+    "campaignFinance": "Follow the Money",
+    "campaignFinanceDesc": "See who funds your councilmembers and how they vote.",
+    "chatbot": "Know Your Rights",
+    "chatbotDesc": "24/7 tenant rights assistant in English and Spanish."
+  },
+  "footer": {
+    "tagline": "Built by the people, for the people.",
+    "openSource": "This site is open source.",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "builtWith": "Built with solidarity and open-source tools."
+  },
+  "policy": {
+    "problem": "The Problem",
+    "solution": "Our Solution",
+    "funding": "How We Pay For It",
+    "faq": "Frequently Asked Questions",
+    "backToPlatform": "Back to Platform"
+  }
+}

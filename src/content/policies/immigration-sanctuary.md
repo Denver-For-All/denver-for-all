@@ -20,7 +20,17 @@ Current Denver sanctuary policies have gaps:
 - Workers face wage theft and exploitation because employers know they can't complain without risking deportation
 - Language access in city services is inconsistent
 
-Denver's Latino community is over 30% of the city population. Our immigrant communities are not an afterthought - they are Denver.
+Denver's Latino community is over 30% of the city population (U.S. Census Bureau, ACS 2023). Our immigrant communities are not an afterthought - they are Denver.
+
+### What Denver Currently Does
+
+Denver has an existing sanctuary ordinance (Executive Order 136), but it contains gaps. Police can still cooperate with ICE in certain circumstances involving serious felony warrants. ICE has conducted enforcement operations near Denver schools and courthouses.
+
+**The migrant spending question:** In 2023-2024, Denver spent over $100M on services for newly arrived migrants, including shelter, food, medical care, and work authorization assistance (Denver Department of Finance, 2024). This strained city resources and became a political flashpoint. Let's address this directly: the cost was driven by federal policy failure -- lack of work authorization, an overwhelmed asylum system, and zero federal reimbursement. Denver For All's approach -- municipal ID, rapid work authorization support, and language access -- gets people working and paying taxes faster, reducing the cost curve. The alternative (refusing to help and pushing people into homelessness) costs more in emergency services and produces worse outcomes for everyone. Cities without sanctuary policies that received migrants spent comparable amounts because the cost driver was federal inaction, not local policy.
+
+### Who Opposes This (and Why)
+
+Anti-immigration groups and some fiscal conservatives will cite the $100M migrant spending as evidence that sanctuary policies are unsustainable. Some business groups quietly benefit from exploitable undocumented labor and oppose protections that give workers bargaining power. Counter: the fastest way to reduce costs is to get people working, which requires IDs, language access, and legal support, not enforcement cooperation.
 
 ## Our Solution
 
@@ -93,4 +103,19 @@ People don't move to Denver because of sanctuary policies. They move for work, f
 Study after study shows that sanctuary cities are safer than non-sanctuary cities. When immigrants can report crimes without fear, police get more tips, more cooperation, and more convictions. ICE operations make communities LESS safe by driving people underground.
 
 **"Aren't cities required to cooperate with ICE?"**
-No. The 10th Amendment prevents the federal government from commandeering local resources for federal enforcement. Multiple federal courts have confirmed this. Denver has no obligation to do ICE's job.
+No. The 10th Amendment prevents the federal government from commandeering local resources for federal enforcement. The Supreme Court confirmed this in Printz v. United States (1997), and multiple circuit courts have upheld sanctuary policies, including City of Chicago v. Sessions (7th Cir., 2018) and City and County of San Francisco v. Sessions (9th Cir., 2018). Denver has no obligation to do ICE's job.
+
+**"What about Denver's $100M+ migrant spending? Can we afford more sanctuary?"**
+Denver's migrant costs were driven by federal failure to process asylum claims and issue work authorizations -- not by sanctuary policy. Cities without sanctuary policies that received migrants (like El Paso, TX) spent comparable per-capita amounts. Our proposals -- municipal ID, legal defense, language access -- get people working and paying taxes faster, which is how you reduce the cost. The alternative is people without IDs or work authorization cycling through emergency services at higher cost.
+
+**"What about federal funding threats?"**
+The Trump administration threatened to withhold federal funds from sanctuary cities. Federal courts have consistently blocked these attempts as unconstitutional (see: City of Chicago v. Sessions). The actual amount of funding at risk has historically been a fraction of what enforcement cooperation would cost the city in community trust and public safety.
+
+## References
+
+- U.S. Census Bureau. American Community Survey (ACS), 2023. (Denver Latino population.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
+- Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
+- IDNYC Annual Report. (1.3M+ municipal IDs issued data.)

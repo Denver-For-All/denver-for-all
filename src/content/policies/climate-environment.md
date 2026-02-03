@@ -22,7 +22,13 @@ Denver's water supply and the health of residents downwind and downstream of Roc
 Independent soil sampling throughout the Front Range has found elevated lead levels - in residential areas, near waterways, and above reservoir watersheds. Dam maintenance and construction projects in the area have been impacted by contamination concerns. This is a public health emergency that receives almost no attention.
 
 ### Climate Change
-Denver's air quality regularly exceeds EPA limits. Urban heat islands make low-income neighborhoods 10-15°F hotter than wealthy areas with tree cover. Wildfire smoke increasingly blankets the metro area. Water supply faces long-term threats from reduced snowpack.
+Denver's air quality regularly exceeds EPA limits -- Denver had 18 "unhealthy" or worse ozone days in 2023 (Colorado DPHE Air Quality Control Commission). Urban heat islands make low-income neighborhoods 10-15°F hotter than wealthy areas with tree cover (Trust for Public Land heat mapping, 2023). Wildfire smoke increasingly blankets the metro area. Water supply faces long-term threats from reduced snowpack.
+
+### What Denver Currently Does
+
+Denver adopted the 80x50 Climate Action Plan in 2018, targeting 80% greenhouse gas reduction by 2050. The city passed a green building ordinance and has expanded some EV infrastructure. Denver has a Climate Protection Fund (funded by a 2020 ballot measure) providing ~$40M/year. Xcel Energy, Denver's electricity provider, has committed to 80% carbon reduction by 2030 and net-zero by 2050.
+
+However: Denver's climate action has focused heavily on building efficiency and less on environmental justice, contamination remediation, and frontline community investment. The 80x50 plan does not address Rocky Flats or lead contamination. Tree canopy coverage remains at approximately 19.7% (Denver Parks & Recreation, 2023), well below the 30% target, with the lowest coverage in the neighborhoods that need it most.
 
 ## Our Solution
 
@@ -89,4 +95,21 @@ Denver's air quality regularly exceeds EPA limits. Urban heat islands make low-i
 The DOE declared it cleaned up. Independent scientists disagree. Plutonium has a half-life of 24,000 years. The cleanup addressed surface contamination but left subsurface contamination in place, covered with soil. Wind erosion, flooding, and wildfire can re-expose this material. Denver residents deserve an independent assessment, not the word of the agency that created the contamination.
 
 **"100% renewable by 2030 is too aggressive."**
-Burlington, VT achieved 100% renewable electricity in 2014. Other cities have followed. Denver has more solar potential than almost any major US city. The technology exists. What's missing is political will.
+Burlington, VT achieved 100% renewable electricity in 2014. Other cities have followed. Denver has more solar potential than almost any major US city -- 5.5+ peak sun hours per day (NREL Solar Resource Data). The technology exists. What's missing is political will.
+
+**"What about Xcel Energy's monopoly?"**
+Xcel provides Denver's electricity under a franchise agreement. The city negotiates franchise terms and can impose requirements on renewable energy sourcing, grid access for distributed solar, and rate structures. The franchise renewal is the single biggest leverage point Denver has on energy policy. We must use it.
+
+**"What about the economic impact on fossil fuel workers?"**
+Colorado's energy transition is already happening. The question is whether displaced workers get support or get abandoned. Our proposal includes green job training, priority hiring for clean energy projects, and partnerships with labor unions to ensure transition jobs are good jobs. Germany's Energiewende included explicit provisions for coal region workers -- Denver can do the same.
+
+## References
+
+- Colorado DPHE Air Quality Control Commission. (2023). Annual ozone monitoring data. (18 unhealthy+ days.)
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
+- Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
+- NREL (National Renewable Energy Laboratory). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. Community health data and independent sampling results.
+- DOE Office of Legacy Management. Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)

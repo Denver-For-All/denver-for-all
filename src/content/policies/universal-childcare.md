@@ -21,6 +21,10 @@ The result:
 
 The American childcare system is a market failure. It's too expensive for parents, pays poverty wages to workers, and produces worse outcomes than public systems in other countries. The market cannot solve this - every country that has solved childcare has done it publicly.
 
+### What Denver Currently Does
+
+Colorado provides childcare subsidies through the Colorado Child Care Assistance Program (CCCAP), which helps low-income families afford licensed care. The state also launched Universal Pre-K for 4-year-olds through CDEC. But CCCAP has income cutoffs that exclude many working families, waitlists are common, reimbursement rates are too low for providers to sustain quality, and neither program addresses the 6-month to 3-year gap. Denver's Preschool Program (DPP) provides tuition credits for 4-year-olds, supplementing state Pre-K. None of these programs approach universal access, and childcare worker wages remain at poverty level ($14.50/hr median in Denver, BLS 2024).
+
 ## Our Solution
 
 ### The Denver Universal Childcare Act
@@ -101,3 +105,18 @@ For the same reason taxpayers fund K-12 education: an educated, healthy populati
 
 **"Won't this put private childcare centers out of business?"**
 No. Licensed private providers can participate in the system and receive public funding for serving families. This is how France, Sweden, and Denmark operate - a mix of public and licensed private providers, all meeting quality standards, all affordable for families.
+
+**"Doesn't Colorado already have CCCAP and Universal Pre-K?"**
+CCCAP has income cutoffs that exclude many working families, waitlists, and reimbursement rates too low for quality care. Universal Pre-K covers 4-year-olds for 15 hours/week. Neither addresses the 6-month to 3-year gap, and neither is universal. We build on what exists and close the gaps.
+
+**"Where will the workers come from?"**
+This is a real challenge. The childcare industry faces massive staffing shortages -- because it pays poverty wages. Our proposal starts workers at $25/hr with full benefits. When you pay living wages, people come. Quebec's universal childcare program resolved its staffing shortage by raising wages and offering professional development.
+
+## References
+
+- Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
+- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
+- Colorado CCCAP program data and eligibility thresholds.
+- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
+- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
+- CU Boulder in-state tuition (2024-2025): $13,590/year. (Comparison to childcare costs.)

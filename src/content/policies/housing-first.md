@@ -15,6 +15,14 @@ Denver has approximately 7,500 people experiencing homelessness on any given nig
 
 This model has failed everywhere it's been tried. It costs more than housing people, produces worse outcomes, and treats a housing problem as a character flaw.
 
+### What Denver Currently Does
+
+Denver's approach to homelessness centers on the Department of Housing Stability (HOST), which coordinates shelter, rapid rehousing, and permanent supportive housing (PSH). Denver had approximately 1,300 PSH units as of 2024 -- far below the need. The city has spent heavily on emergency shelter, including converting hotels during the pandemic, and on encampment management (sweeps), which the ACLU of Colorado has repeatedly challenged.
+
+Mayor Johnston's "All In Mile High" initiative pledged to house 1,000 people and move them from encampments. While some have been housed, the approach relies heavily on temporary shelter placements rather than permanent housing, and encampment sweeps continue to displace people without resolving their homelessness. The 2024 Metro Denver Point-in-Time Count identified approximately 9,065 people experiencing homelessness in the metro area (MDHI, 2024).
+
+**The math is damning:** Denver spends an estimated $40,000-60,000 per person per year managing homelessness through emergency services. Permanent supportive housing costs $15,000-25,000 per person per year. The savings calculation in our proposal should be understood as applying primarily to the chronically homeless population (approximately 2,000-3,000 individuals), not the full 9,000+ count, but the cost savings for that population alone exceed $50-100M/year.
+
 - Emergency shelter bed: ~$30,000-50,000/year per person
 - Chronic homelessness (emergency room visits, jail, police contact): $40,000-80,000/year per person
 - Supportive housing apartment: $15,000-25,000/year per person
@@ -126,3 +134,17 @@ This is largely a myth. Studies show 95%+ of people experiencing homelessness wa
 
 **"Doesn't this attract homeless people from other cities?"**
 Data from cities that implemented Housing First (Houston, Finland, Medicine Hat) does not show significant "magnet effects." People experiencing homelessness typically became homeless in the place where they live - they're our neighbors, not outsiders.
+
+**"What about encampment sweeps? Don't we need to clear encampments?"**
+Sweeps without housing placements do not reduce homelessness -- they relocate it. The ACLU of Colorado has documented the destruction of personal belongings, medications, and identification documents during Denver sweeps. Each sweep costs the city $30,000-50,000 in police, sanitation, and social services time (Denver HOST data). Housing First eliminates the need for sweeps by eliminating the encampments through permanent placements.
+
+## References
+
+- Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Denver Department of Housing Stability (HOST). Budget and program data.
+- Y-Foundation (Finland). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
+- Coalition for the Homeless, Houston/Harris County. Housing First outcomes data. (25,000+ housed since 2012.)
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing foundational evidence.)
+- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Cost savings evidence.)
+- ARA (Housing Finance and Development Centre of Finland). National homelessness statistics.
+- Medicine Hat Community Housing Society. Functional zero homelessness data.

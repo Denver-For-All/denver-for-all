@@ -17,6 +17,12 @@ In Denver, thousands of gig workers earn below minimum wage after accounting for
 
 This is not innovation. It's wage theft at scale.
 
+### What Denver/Colorado Currently Does
+
+Colorado passed SB 22-161 in 2022, establishing minimum pay requirements for transportation network company (TNC) drivers (Uber/Lyft). The law requires a minimum per-mile and per-minute rate. However, it applies only to rideshare -- not to delivery workers (DoorDash, Instacart) or other gig platforms. It also does not reclassify workers as employees.
+
+Nationally, there are an estimated 55-60 million gig workers (McKinsey Global Institute, 2022). Denver's gig workforce is estimated at 30,000-50,000 workers across rideshare, delivery, care work, and other platforms.
+
 ## Our Solution
 
 ### Denver Gig Worker Protection Act
@@ -75,3 +81,20 @@ The gig economy functions in California, which has similar protections (AB5). Ub
 
 **"Some gig workers like being independent contractors."**
 Some do. Those workers can still contract independently - they just have to pass the ABC test, meaning they're genuinely independent (set their own prices, work for multiple clients, have their own business). An Uber driver who can't set their fare is not independent.
+
+**"What about gig workers who work across city lines?"**
+Denver's ordinance applies to work performed within Denver city limits. For rideshare, the trip's origin determines jurisdiction (a ride starting in Denver is covered regardless of destination). For delivery, the delivery location determines jurisdiction. This is the same framework used for minimum wage enforcement and sales tax collection -- cities already manage cross-jurisdictional economic activity.
+
+## Who Opposes This (and Why)
+
+- **Uber, Lyft, DoorDash, Instacart** and other gig platforms spend hundreds of millions fighting worker classification (Uber/Lyft/DoorDash spent $200M on California's Prop 22 alone).
+- **Platform lobbyists** argue that reclassification will destroy "flexibility" -- but the ABC test doesn't prevent flexible work, it just requires fair compensation.
+
+## References
+
+- Colorado SB 22-161, *Transportation Network Company (TNC) Minimum Pay*, 2022
+- California Assembly Bill 5 (AB5), 2019
+- European Parliament, *Platform Work Directive*, 2024
+- UK Supreme Court, *Uber BV v. Aslam* [2021] UKSC 5
+- Spain, *Ley Rider* (Royal Decree-Law 9/2021)
+- McKinsey Global Institute, *Independent Work: Choice, Necessity, and the Gig Economy*, 2022 update

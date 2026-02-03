@@ -18,7 +18,11 @@ Denver deposits hundreds of millions of taxpayer dollars in Wall Street banks - 
 - Have been repeatedly fined for fraud, market manipulation, and consumer abuse
 - Extract wealth from Denver and send it to shareholders in New York
 
-Meanwhile, 6% of Denver households are unbanked and 18% are underbanked. Check-cashing services and payday lenders prey on low-income communities, charging fees that trap people in cycles of debt.
+Meanwhile, 6% of Denver households are unbanked and 18% are underbanked (FDIC National Survey of Unbanked and Underbanked Households, 2023). Check-cashing services and payday lenders prey on low-income communities, charging fees that trap people in cycles of debt.
+
+### What Denver Currently Does
+
+Denver deposits its operating funds in commercial banks under treasury management contracts. The city has not publicly disclosed the specific terms, interest rates, or total deposits held with each bank. No Denver councilmember has formally introduced public banking legislation, though Los Angeles, San Francisco, and Philadelphia have all advanced public banking proposals in recent years. California passed AB 857 in 2019 enabling the creation of public banks. Colorado has no equivalent enabling legislation, but Denver's home rule charter provides broad authority over city financial management.
 
 ## Our Solution
 
@@ -78,3 +82,17 @@ North Dakota does. Germany has over 400 public savings banks (Sparkassen) servin
 
 **"Will this hurt local banks and credit unions?"**
 The Bank of Denver partners with local credit unions, not against them. It provides them with low-cost capital for community lending. It competes with Wall Street, not with community financial institutions.
+
+**"What about FDIC insurance?"**
+The Bank of Denver would seek FDIC insurance like any other bank. The Bank of North Dakota is FDIC-insured. Alternatively, the bank could operate under state-level deposit insurance or city-backed guarantees during the startup period. This is a regulatory requirement, not a barrier.
+
+**"What if the bank makes bad loans?"**
+The Bank of North Dakota has a 100+ year track record with zero loss years. Public banks are structurally more conservative than private banks because they don't face shareholder pressure to maximize short-term returns. BND survived the Great Depression, the 2008 financial crisis, and COVID without losses.
+
+## References
+
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). Denver metro data. (6% unbanked, 18% underbanked.)
+- Bank of North Dakota. Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- California AB 857. (2019). Public Banking Act enabling legislation.
+- German Sparkassen (Savings Banks Association). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. Research and analysis on municipal public banking.

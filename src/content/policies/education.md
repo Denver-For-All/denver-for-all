@@ -16,7 +16,13 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 - Denver teachers' average salary: ~$58K. Denver median rent requires ~$55K just for housing. Teachers are leaving.
 - DPS has pushed aggressive charter expansion, diverting per-pupil funding from traditional public schools
 - After-school programs are concentrated in wealthy neighborhoods
-- Food insecurity affects 1 in 4 Denver children
+- Food insecurity affects 1 in 4 Denver children (Hunger Free Colorado, 2023)
+
+### What Denver Currently Does
+
+Colorado passed Proposition EE (2020) and created the Colorado Department of Early Childhood (CDEC), which now provides Universal Pre-K for 4-year-olds (15 hours/week, with additional hours for qualifying families). This is a significant start, but it covers 4-year-olds only, is part-day for most families, and does not address the full-day, full-year need of working parents. Our proposal expands to include 3-year-olds and provides full-day coverage.
+
+DPS enrolls approximately 90,000 students across 200+ schools, including approximately 60 charter schools (DPS Annual Report, 2024). The district has pursued aggressive portfolio management, closing underperforming schools and expanding charters, with mixed results. Teacher turnover in DPS remains high -- a 2023 Denver Classroom Teachers Association survey found 40%+ of teachers considered leaving within 2 years, with housing costs as the primary reason.
 
 ## Our Solution
 
@@ -87,3 +93,16 @@ Denver is a consolidated city-county, and DPS operates within it. The city can f
 
 **"Charter schools give parents choice."**
 Choice without equity is just sorting. When charter schools can reject difficult students and traditional public schools cannot, the comparison is rigged. Fund all schools equally first, then talk about choice.
+
+**"Doesn't Colorado already have Universal Pre-K?"**
+Yes -- Colorado's CDEC provides 15 hours/week of Pre-K for 4-year-olds, which is a strong foundation. Our proposal builds on it: extending to 3-year-olds, providing full-day coverage (not just 15 hours/week), and ensuring Pre-K teachers earn living wages at parity with K-12. The state program is a start. We finish the job.
+
+## References
+
+- Colorado Department of Early Childhood (CDEC). Universal Pre-K enrollment and program data.
+- DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
+- Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
+- Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
+- National Center for Education Statistics. DPS salary and staffing data.
+- OECD PISA Rankings. International education comparison data.
+- Sahlberg, P. "Finnish Lessons." (Finland education reform evidence.)

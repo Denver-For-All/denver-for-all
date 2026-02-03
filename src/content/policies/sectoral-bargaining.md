@@ -15,6 +15,12 @@ The American model of labor organizing - union elections at individual workplace
 
 The result: wages have stagnated for 40 years while productivity and corporate profits have soared. The problem isn't that workers don't want unions - it's that the system is rigged against them.
 
+### What Denver Currently Does
+
+Denver has **no sectoral bargaining framework**. Colorado's union membership rate is approximately 7.2% (BLS, 2023), below the national average of 10%. Denver workers in hospitality, food service, and home care -- the sectors with the worst wages and conditions -- have near-zero collective bargaining coverage.
+
+California's Fast Food Council (AB 1228, 2023) is the closest US precedent: a state-level wage board that set a $20/hr minimum for fast food workers. While it faced political challenges and was modified through compromise, it demonstrated that sectoral wage-setting is legally and practically feasible in the US context.
+
 ## Our Solution
 
 ### Denver Sectoral Wage Boards
@@ -72,3 +78,20 @@ Restaurants, hotels, and home care providers serve Denver customers in Denver. T
 
 **"This sounds like socialism."**
 It's how Germany works - a country with a stronger economy, lower unemployment, and a larger manufacturing sector than the US. It's how Scandinavia works - consistently ranked as the best places in the world to live and do business. Sectoral bargaining is mainstream economics everywhere except the US.
+
+**"Doesn't federal labor law (NLRA) preempt city-level labor regulation?"**
+The NLRA preempts laws that directly regulate the collective bargaining process between unions and employers. But wage boards are not collective bargaining -- they are government bodies setting minimum standards, similar to minimum wage laws. Cities and states have broad authority to set wage and working condition minimums. California's Fast Food Council, New York's wage boards, and numerous local prevailing wage laws all operate within NLRA parameters. The city contractor requirement is even clearer: Denver has unquestioned authority to set conditions for its own contracts.
+
+## Who Opposes This (and Why)
+
+- **National Restaurant Association** opposes any form of sectoral standard-setting.
+- **Hotel and lodging industry** groups resist sector-wide labor standards.
+- **Employer-side labor attorneys** argue NLRA preemption (addressed in FAQ).
+
+## References
+
+- Bureau of Labor Statistics, *Union Members Summary*, Denver-Aurora-Lakewood MSA, 2023
+- Economic Policy Institute, *The Productivity-Pay Gap*, updated 2024
+- California AB 1228 (Fast Food Council), 2023
+- OECD, *Negotiating Our Way Up: Collective Bargaining in a Changing World of Work*, 2019
+- International Labour Organization (ILO), *Sectoral Bargaining Coverage by Country*, 2023

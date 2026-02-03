@@ -19,6 +19,12 @@ The city's current approach - tax incentives for developers who include a handfu
 
 We need a fundamentally different approach.
 
+### What Denver Currently Does
+
+Denver's current affordable housing apparatus centers on the Department of Housing Stability (HOST), which had a budget of approximately $200M in 2024 (boosted by the Proposition 123 affordable housing fund). The Expanding Housing Affordability (EHA) ordinance, overhauled in 2022, requires developers of projects with 10+ units to include affordable units or pay a fee-in-lieu. The city has also invested in the Denver Affordable Housing Fund and partners with the Denver Housing Authority (DHA), which manages approximately 4,100 public housing units and 6,700 Housing Choice Vouchers.
+
+Despite this infrastructure, Denver produces approximately 500-800 affordable units per year through LIHTC and other programs -- at per-unit subsidy costs of $400,000-600,000. Thousands of LIHTC units are approaching the end of their 15-30 year affordability periods and will revert to market rate. The current system is not keeping pace with demand, and the units it produces are temporary. Our proposal scales permanently affordable housing through public ownership, at dramatically lower per-unit costs.
+
 ## Our Solution
 
 ### The Denver Social Housing Authority

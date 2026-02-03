@@ -19,6 +19,10 @@ Meanwhile:
 - Prescription drugs cost 2-10x what they cost in other countries
 - Uninsured and underinsured residents delay care until emergencies, which costs everyone more
 
+### What Denver Currently Does
+
+Denver Health is a public safety-net hospital, but it still sends patients to collections and places liens on homes. The STAR program (Support Team Assisted Response) launched in 2020 as a non-police mental health crisis response -- it has handled 10,000+ calls with zero incidents requiring police backup (STAR Annual Report, 2023), but operates limited hours in limited areas with approximately $6M in funding. Denver has 9 Federally Qualified Health Centers (Clinica Tepeyac, Salud Family Health, Denver Health community centers, etc.) but significant coverage gaps remain in Montbello, Green Valley Ranch, and other underserved areas. Colorado expanded Medicaid under the ACA and has ~7.5% uninsured (Census ACS, 2023), but underinsurance remains a major issue.
+
 ## Our Solution
 
 ### 1. Denver Medical Debt Forgiveness Program
@@ -85,3 +89,20 @@ People don't choose to get sick or injured. A child's cancer treatment shouldn't
 
 **"Isn't healthcare a federal issue?"**
 Federal solutions aren't coming soon enough. Cities can act now - on mental health crisis response, on debt forgiveness, on community health centers, on drug pricing. We don't wait for Congress to stop our neighbors from dying.
+
+**"How does this interact with the ACA and Medicaid expansion?"**
+Colorado expanded Medicaid and runs Connect for Health Colorado, its ACA marketplace. These programs help the insured access care. Our proposals address what they don't: medical debt for the insured (high deductibles and copays still bankrupt people), non-police crisis response, community health center gaps, and drug pricing for the uninsured and underinsured. This supplements state and federal programs, not duplicates them.
+
+**"Is medical debt really the leading cause of bankruptcy?"**
+The commonly cited claim (Himmelstein et al., 2009, American Journal of Medicine: 62% of bankruptcies) has been debated. A 2019 NEJM study (Dobkin et al.) found the effect was smaller but still substantial: a hospital admission increases the probability of bankruptcy by 26%, concentrated among lower-income and uninsured populations. Either way, medical debt is a leading contributor to financial catastrophe, and the US is the only wealthy country where this happens at all.
+
+## References
+
+- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
+- Dobkin, C., et al. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review. (Hospital admission increases bankruptcy probability by 26%.)
+- Undue Medical Debt (formerly RIP Medical Debt). Program data and city partnership outcomes.
+- STAR Program Annual Report. (2023). Denver Department of Public Health and Environment.
+- OECD Health Statistics. (2024). Health spending per capita comparisons.
+- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
+- HRSA Data Warehouse. FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. Uninsured rate data.

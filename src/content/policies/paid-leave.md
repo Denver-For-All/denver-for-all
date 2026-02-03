@@ -19,6 +19,22 @@ The United States is the only wealthy country in the world - and one of only 6 c
 
 The human cost: parents return to work days after birth. Cancer patients work through chemotherapy. Workers spread illness because calling in sick means not making rent. This is not freedom - it's coercion.
 
+### What Denver/Colorado Currently Does
+
+**Colorado's FAMLI program** (Family and Medical Leave Insurance, C.R.S. 8-13.3-501 et seq.) took effect January 1, 2024. It provides up to 12 weeks of paid family and medical leave (16 weeks for pregnancy/childbirth complications) at 90% of pay up to $1,100/week, funded by a 0.9% payroll premium split between employer and employee.
+
+FAMLI is a significant step forward. Our proposal builds on it:
+
+| Feature | Colorado FAMLI | Denver For All |
+|---------|---------------|----------------|
+| Parental leave | 12 weeks | **26 weeks** (6 months) |
+| Pay replacement | 90% up to $1,100/week | **100% up to $75K salary** |
+| Sick leave | Not covered (separate Colorado HFWA provides 48 hrs) | **Unlimited** |
+| Vacation minimum | Not addressed | **4 weeks minimum** |
+| Reserved parental leave ("daddy/mommy quota") | No | **8 weeks per parent** |
+
+Denver's program supplements FAMLI -- it does not duplicate it. The first 12 weeks would be paid through FAMLI; Denver's program extends coverage beyond FAMLI's limits and adds provisions FAMLI does not cover (unlimited sick leave, minimum vacation, reserved parental leave quotas).
+
 ## Our Solution
 
 ### The Denver Universal Paid Leave Act
@@ -113,3 +129,21 @@ It's HALF of what Sweden provides. It's HALF of what Denmark provides. And the r
 
 **"What about the parent of a critically ill child who needs more than 26 weeks?"**
 The family/medical leave provision provides an additional 12 weeks. Beyond that, Denver's social safety net (healthcare, housing support, community health) catches families in crisis. No parent should have to choose between keeping their job and saving their child's life.
+
+**"Doesn't Colorado's FAMLI program already cover this?"**
+FAMLI provides 12 weeks at 90% pay -- a meaningful improvement over nothing. But 12 weeks is still half of what Sweden, Denmark, and Norway provide. Our proposal extends leave to 26 weeks for new parents, adds unlimited paid sick leave, and establishes a 4-week vacation minimum. FAMLI is a floor. Denver raises the ceiling.
+
+## Who Opposes This (and Why)
+
+- **Colorado Chamber of Commerce** opposed FAMLI and would oppose expanding it.
+- **Small business groups** worry about the additional payroll tax, though the insurance model shields individual businesses from direct leave costs.
+- **Some employers** in hospitality and retail with high turnover resist any leave mandates.
+
+## References
+
+- Colorado Revised Statutes, Section 8-13.3-501 et seq. (FAMLI Act)
+- Colorado FAMLI Division, *Program Implementation Report*, 2024
+- Colorado Healthy Families and Workplaces Act (HFWA), C.R.S. 8-13.3-401 et seq.
+- Swedish Social Insurance Agency (*Forsakringskassan*), *Parental Leave Statistics*, 2023
+- OECD, *Family Database: Parental Leave Systems*, 2023
+- Norway Ministry of Labour and Social Inclusion, *Parental Leave Regulations*, 2023

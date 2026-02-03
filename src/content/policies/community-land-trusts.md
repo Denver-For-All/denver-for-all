@@ -15,6 +15,12 @@ Denver's current "affordable housing" is temporary. Tax credit projects expire a
 
 We need permanently affordable housing controlled by the community, not by developers or the market.
 
+### What Denver Currently Does
+
+Denver already has a community land trust: **Elevation Community Land Trust** (formerly Colorado Community Land Trust), which has operated since 2003. Elevation CLT currently holds approximately 300 permanently affordable homes in the Denver metro area. Denver's Department of Housing Stability (HOST) has provided some funding for Elevation CLT acquisitions.
+
+However, the scale is far below what is needed. Elevation CLT adds approximately 20-40 homes per year. At that rate, it would take over 50 years to reach our 2,500-unit target. Our proposal dramatically scales what already works by providing dedicated city funding, connecting CLTs to the vacancy tax revenue stream, and integrating CLTs with the corporate landlord divestiture pipeline.
+
 ## Our Solution
 
 ### Denver Community Land Trust Initiative

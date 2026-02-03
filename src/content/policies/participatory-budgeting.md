@@ -13,7 +13,13 @@ status: "draft"
 
 Denver's annual budget exceeds $1.6 billion. Residents have almost no say in how it's spent. City Council holds public hearings that few attend, and the mayor's office drives priorities. The result: budgets reflect the interests of developers, lobbyists, and politically connected groups - not ordinary Denver residents.
 
-Meanwhile, trust in local government is low and declining. People feel - correctly - that their voice doesn't matter. Voter turnout in Denver municipal elections is often below 30%. The system is technically democratic but functionally unresponsive.
+Meanwhile, trust in local government is low and declining. People feel -- correctly -- that their voice doesn't matter. Voter turnout in Denver's 2023 municipal election was 38% (Denver Elections Division) -- better than some years, but still means 62% of registered voters stayed home. The system is technically democratic but functionally unresponsive.
+
+### What Denver Currently Does
+
+Denver has a Neighborhood Engagement division and holds public hearings on the budget, but these are largely performative. The budget is drafted by the mayor's office, presented to council, and public comment periods are limited. Denver has never experimented with participatory budgeting at any scale. Some Denver neighborhoods have informal priority-setting through Registered Neighborhood Organizations (RNOs), but these have no binding authority over budget allocation and tend to be dominated by homeowners and older, wealthier residents.
+
+The contrast with Mike Johnston's approach is instructive: major decisions like the Flock Safety surveillance contract were pushed through without meaningful public engagement. The democratic deficit is not abstract -- it is how the city operates on a routine basis.
 
 ## Our Solution
 
@@ -108,3 +114,16 @@ More people participate in PB than vote in municipal elections. And the random s
 
 **"Won't this be captured by special interests?"**
 Harder to capture than elections. PB uses one-person-one-vote (no campaign donations). Citizens' assemblies use random selection (no lobbying). Both are structurally more resistant to special interest capture than the current system.
+
+**"What prevents wealthy neighborhoods from dominating the process?"**
+PB programs that work use equity-weighted allocation: districts with higher poverty rates receive larger per-capita allocations. Outreach to underrepresented communities is built into the process. NYC's PB program has higher participation rates among low-income residents and people of color than standard elections. The random selection for citizens' assemblies is stratified by demographics, guaranteeing representation.
+
+## References
+
+- Denver Elections Division. (2023). Municipal election turnout data. (38% turnout.)
+- City of Denver Annual Budget. (2024). Total budget and capital budget figures.
+- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
+- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
+- PBNYC (Participatory Budgeting New York City). Annual reports and participation data.
+- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
+- Irish Citizens' Assembly. Reports on the Eighth Amendment (2017) and Marriage Equality (2014).

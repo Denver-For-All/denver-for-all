@@ -134,3 +134,17 @@ This is largely a myth. Studies show 95%+ of people experiencing homelessness wa
 
 **"Doesn't this attract homeless people from other cities?"**
 Data from cities that implemented Housing First (Houston, Finland, Medicine Hat) does not show significant "magnet effects." People experiencing homelessness typically became homeless in the place where they live - they're our neighbors, not outsiders.
+
+**"What about encampment sweeps? Don't we need to clear encampments?"**
+Sweeps without housing placements do not reduce homelessness -- they relocate it. The ACLU of Colorado has documented the destruction of personal belongings, medications, and identification documents during Denver sweeps. Each sweep costs the city $30,000-50,000 in police, sanitation, and social services time (Denver HOST data). Housing First eliminates the need for sweeps by eliminating the encampments through permanent placements.
+
+## References
+
+- Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Denver Department of Housing Stability (HOST). Budget and program data.
+- Y-Foundation (Finland). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
+- Coalition for the Homeless, Houston/Harris County. Housing First outcomes data. (25,000+ housed since 2012.)
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing foundational evidence.)
+- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Cost savings evidence.)
+- ARA (Housing Finance and Development Centre of Finland). National homelessness statistics.
+- Medicine Hat Community Housing Society. Functional zero homelessness data.

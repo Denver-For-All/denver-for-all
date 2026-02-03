@@ -15,7 +15,17 @@ Denver police have killed residents, brutalized protesters (2020 George Floyd pr
 
 Meanwhile, police are dispatched to situations they're not trained for - mental health crises, homelessness, substance use - because the city has failed to invest in alternatives. The result: people in crisis encounter armed officers instead of mental health professionals.
 
-Denver's police budget is approximately $300M/year. The STAR program (unarmed mental health response) receives a fraction of that.
+Denver's police budget is approximately $300M/year (Denver Budget, 2024). The STAR program receives approximately $6M -- 2% of the police budget.
+
+### What Denver Currently Does
+
+Denver already has the Office of the Independent Monitor (OIM), created in 2004, which reviews police complaints and monitors investigations. However, the OIM cannot independently investigate, lacks subpoena power, cannot impose discipline, and serves in an advisory role. The Citizen Oversight Board exists but is appointed by the mayor -- not independently elected -- and also lacks enforcement authority. This structure has not prevented persistent misconduct: Denver paid $16.5M in police misconduct settlements from 2019-2023 (Denver City Attorney records).
+
+The STAR program launched in 2020 and has handled 10,000+ calls with zero incidents requiring police backup (STAR Program Annual Report, 2023). It currently operates limited hours in limited areas. This is the most successful public safety innovation Denver has made in decades, and it is chronically underfunded.
+
+### Who Opposes This (and Why)
+
+The Denver Police Protective Association (DPPA) is the primary opponent. Police unions consistently oppose oversight with teeth, budget reductions, and qualified immunity reform. The DPPA donates to city council candidates and mayoral campaigns. The Downtown Denver Partnership and some business improvement districts will raise concerns about perceived safety impacts. Counter: the evidence from every city that has invested in non-police crisis response shows equal or better outcomes. STAR's own track record proves this.
 
 ## Our Solution
 
@@ -95,3 +105,20 @@ Police. This plan doesn't eliminate police - it refocuses them on violent crime 
 
 **"Isn't ending qualified immunity too extreme?"**
 Doctors carry malpractice insurance. Lawyers can be disbarred. Every profession except policing faces personal accountability for professional misconduct. This is not extreme - it's the baseline that every other profession already meets.
+
+**"What about Denver's current crime trends?"**
+Denver's crime data is mixed. Violent crime peaked in 2022 and has been declining. Property crime remains elevated. Neither trend correlates with police budget levels -- Denver's police budget has increased consistently while crime rates have fluctuated independently. What does correlate with crime: housing instability, poverty, substance use, and lack of mental health services. That is exactly where we propose redirecting resources.
+
+**"Doesn't Denver already have civilian oversight?"**
+Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen Oversight Board. Neither can independently investigate, subpoena records, or impose discipline. They are advisory bodies that review police self-investigations. This is not oversight -- it is observation. Our proposal creates an elected board with actual enforcement power.
+
+## References
+
+- Denver Annual Budget. (2024). Department of Safety appropriation. ($300M+ police budget.)
+- STAR Program Annual Report. (2023). Call volume, outcomes, zero police backup incidents.
+- Denver Office of the Independent Monitor. Annual reports. (Structure and limitations.)
+- Denver City Attorney's Office. Police misconduct settlement data, 2019-2023.
+- Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
+- World Prison Brief. International incarceration rate comparisons.
+- Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)
+- Cure Violence Global. Program evaluation data. (Community violence intervention outcomes.)

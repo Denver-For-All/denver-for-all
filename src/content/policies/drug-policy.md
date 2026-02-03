@@ -20,6 +20,16 @@ The war on drugs has failed. Fifty years of criminalization have not reduced dru
 
 Denver specifically faces an opioid/fentanyl crisis that law enforcement cannot arrest its way out of. Every dollar spent on arresting drug users is a dollar not spent on treatment beds, recovery programs, and harm reduction.
 
+### What Denver Currently Does
+
+Denver has some harm reduction infrastructure but treats drug use primarily as a criminal matter. The city decriminalized psilocybin via Proposition 301 in 2019, and Colorado passed Proposition 122 in 2022 legalizing therapeutic psychedelics. But for the substances driving the actual crisis -- fentanyl, methamphetamine, heroin -- the approach remains enforcement-first.
+
+Denver reported 827 unintentional drug poisoning deaths in 2023 (Denver Office of the Medical Examiner, 2024). Fentanyl was involved in 64% of those deaths. Denver Police made 2,800+ drug-related arrests in 2023, but overdose deaths have continued to rise year over year. The enforcement approach is not producing results.
+
+### Who Opposes This (and Why)
+
+The Denver Police Protective Association and Denver District Attorney's office are the primary opponents. Law enforcement budgets and headcount are directly tied to drug enforcement, creating institutional incentives to maintain criminalization regardless of outcomes. The Colorado Restaurant Association and Downtown Denver Partnership will raise "quality of life" concerns about safe consumption sites. Counter: every city with supervised consumption sites has seen reductions in public drug use and discarded needles, not increases.
+
 ## Our Solution
 
 ### Denver Decriminalization & Harm Reduction Act
@@ -97,3 +107,22 @@ There are over 200 supervised consumption sites operating in 14 countries. Zero 
 
 **"What about dealers and traffickers?"**
 This proposal decriminalizes personal use, not distribution. Manufacturing and trafficking remain criminal offenses. The distinction is simple: if you're sick, you need a doctor; if you're selling poison, you face consequences.
+
+**"What about Oregon? They tried decriminalization and reversed it."**
+Oregon's Measure 110 is the most common counterargument, so let's address it directly. Oregon decriminalized possession in 2020 and partially re-criminalized in 2024, citing rising overdose deaths. What actually happened: Oregon's overdose spike tracked the national fentanyl wave and began *before* Measure 110 took effect. States that did NOT decriminalize saw similar or worse increases. More critically, Oregon failed to build treatment infrastructure -- only 10% of allocated treatment funds were spent in the first two years (Oregon Health Authority, 2023). The failure was implementation, not the concept. Our proposal differs: we redirect enforcement budget directly to treatment (not waiting for cannabis tax revenue), mandate treatment on demand within 24 hours, and establish safe consumption sites. Oregon did none of these.
+
+**"What about the impact on neighborhoods near safe consumption sites?"**
+Studies from Vancouver's Insite (operating since 2003), Sydney's MSIC, and European facilities consistently show: public drug use decreases near supervised consumption sites, discarded needles decrease, and crime does not increase (Potier et al., Drug and Alcohol Dependence, 2014). Community opposition is typically highest before sites open and drops sharply after residents see actual results.
+
+## References
+
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- CDC WONDER Database. Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

@@ -20,6 +20,20 @@ Denver residents pay $80-120/month for internet that is slower, less reliable, a
 
 Internet access is essential infrastructure - required for school, work, healthcare, and civic participation. Treating it as a luxury product controlled by monopolies is a policy failure.
 
+### What Denver Currently Does -- And What Voters Already Approved
+
+**In 2018, Denver voters passed Ballot Measure 2J with 85% support, authorizing the city to provide municipal broadband.** That was seven years ago. Denver has not built a municipal broadband network.
+
+Colorado previously had SB 05-152, which restricted municipalities from offering broadband services. Cities had to hold a ballot measure to opt out. Denver voters did exactly that -- overwhelmingly. Since then, the city has conducted feasibility studies and small pilot programs but has not committed to a citywide fiber buildout.
+
+Meanwhile, Longmont (30 miles north) built NextLight, which offers gigabit for $50/month, achieved profitability within 5 years, and has 90%+ customer satisfaction (NextLight Annual Report, 2023). Fort Collins built Connexion despite a $150M Comcast-funded opposition campaign, and is on track for profitability.
+
+**Denver voters said yes. The mandate exists. The question is why city hall has not acted on it.**
+
+### Who Opposes This (and Why)
+
+Comcast and CenturyLink/Lumen are the primary opponents. They spent $150M trying to defeat Fort Collins' broadband ballot measure and have lobbied heavily at the state level against municipal broadband. The telecom industry donates to Denver city council candidates and to state legislators. Follow the money: trace campaign contributions from telecom PACs to the officials who have delayed implementation of Measure 2J.
+
 ## Our Solution
 
 ### Denver Fiber - City-Owned Broadband
@@ -87,3 +101,16 @@ Comcast and CenturyLink have had decades to provide good, affordable service. Th
 
 **"Won't this cost too much?"**
 Longmont's fiber network was profitable within 5 years. Fort Collins is on track for the same. The infrastructure pays for itself through subscriber fees. This is an investment, not an expense.
+
+**"Didn't Denver voters already approve this? What happened?"**
+Yes. In 2018, 85% of Denver voters approved Ballot Measure 2J authorizing municipal broadband. The city has conducted feasibility studies but not committed to a buildout. We intend to hold the city to the mandate voters already gave it.
+
+## References
+
+- Denver Ballot Measure 2J (2018). 85.34% yes vote. (Denver Elections Division.)
+- Colorado SB 05-152. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- FCC Broadband Deployment Report. (Speed and availability data.)
+- Institute for Local Self-Reliance. "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

@@ -15,6 +15,12 @@ Every time Denver builds a new transit station, nearby rents spike, longtime res
 
 The same happens with major development projects, rezoning, and "revitalization" efforts. The benefits flow to developers and new arrivals. The costs fall on existing residents.
 
+### What Denver Currently Does
+
+Denver has limited anti-displacement tools. The Expanding Housing Affordability (EHA) ordinance requires 8-15% affordable units (depending on area) in new developments -- well below the 30% our proposal mandates. RTD transit-oriented development (TOD) guidelines are voluntary, not mandatory. Neighborhoods like RiNo, the 38th and Blake corridor, and areas near the University of Colorado A Line stations have seen dramatic rent increases and resident displacement following transit investment.
+
+A 2019 study by the Federal Reserve Bank of Philadelphia found that Denver light rail expansion was associated with significant rent increases within one-half mile of new stations, with displacement concentrated among lower-income residents and communities of color. The pattern is clear and documented: Denver builds transit, and the people it was meant to serve can no longer afford to live near it.
+
 ## Our Solution
 
 ### Anti-Displacement Zone Ordinance

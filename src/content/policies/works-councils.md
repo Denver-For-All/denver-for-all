@@ -15,6 +15,12 @@ American workers have no structural voice in the companies they build. Managemen
 
 The result: American workers are more productive than ever but have no say in how that productivity is shared. CEO-to-worker pay ratios have gone from 20:1 in 1965 to over 350:1 today. Meanwhile, mass layoffs happen via email, schedules change with 24 hours notice, and workplace safety depends entirely on management's goodwill.
 
+### What Denver Currently Does
+
+Denver has **no works council framework or codetermination requirements**. No US city or state currently mandates works councils, though some German-owned companies (BMW, Volkswagen, Siemens) maintain informal consultative structures at their US facilities.
+
+Denver's city government employs approximately 12,000 workers. City contractors employ tens of thousands more. The city has direct authority over labor relations for its own workforce and can set conditions for its contractors -- making city operations the natural starting point for this model.
+
 ## Our Solution
 
 ### The Denver Workplace Democracy Act
@@ -98,3 +104,11 @@ Works councils complement unions - they don't replace them. In Germany, unions n
 
 **"Can a city legally do this?"**
 For city contractors and city-owned enterprises: unquestionably yes. For private businesses: the path is through state legislation and voluntary adoption incentives. Denver's role is to prove the model works locally, then push for statewide adoption.
+
+## References
+
+- German Works Constitution Act (*Betriebsverfassungsgesetz*), 1972 (amended 2001)
+- German Codetermination Act (*Mitbestimmungsgesetz*), 1976
+- Economic Policy Institute, "CEO Pay Has Skyrocketed 1,460% Since 1978," *Report*, 2024
+- International Labour Organization (ILO), *Worker Participation in Enterprise Governance*, 2022
+- Swedish Codetermination at Work Act (*Medbestammandelagen*, MBL), 1976

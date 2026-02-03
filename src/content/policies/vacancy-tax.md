@@ -15,6 +15,12 @@ Thousands of housing units in Denver sit vacant - held by speculators waiting fo
 
 Empty homes in occupied neighborhoods attract crime, reduce property values for neighbors, and represent a moral obscenity in a city with a housing crisis.
 
+### What Denver Currently Does
+
+Denver currently has **no vacancy tax or penalty for empty residential properties**. The U.S. Census Bureau's American Community Survey (2022) estimates Denver's residential vacancy rate at approximately 5-7%, implying 5,000-8,000 vacant units. Some of these are in the normal "for sale" or "for rent" pipeline, but a significant number are held vacant for speculation or are simply abandoned.
+
+**Critical legal note: TABOR.** Colorado's Taxpayer Bill of Rights (Article X, Section 20 of the Colorado Constitution) requires voter approval for any new tax. A vacancy tax in Denver would need to go to voters as a ballot measure. This is not a barrier -- it is a democratic process. Denver voters have repeatedly approved ballot measures for progressive causes (municipal broadband in 2018, Proposition 123 for housing in 2022). A vacancy tax with revenue dedicated to affordable housing is a strong ballot proposition.
+
 ## Our Solution
 
 ### Progressive Vacancy Tax

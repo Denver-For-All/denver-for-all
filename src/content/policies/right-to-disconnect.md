@@ -15,6 +15,12 @@ Technology was supposed to give us more free time. Instead, it erased the bounda
 
 Americans work 400+ more hours per year than German workers. That's 10 extra weeks. We are not 10 weeks more productive - we're just 10 weeks more tired.
 
+### What Denver Currently Does
+
+Denver has **no right-to-disconnect protections or reduced work week provisions**. Colorado does not regulate after-hours work communications. Denver city employees work a standard 40-hour week.
+
+The OECD reports that US workers average 1,811 hours/year compared to Germany's 1,349 hours/year -- a difference of 462 hours, or more than 11 standard 40-hour work weeks (OECD, *Hours Worked* indicator, 2023).
+
 ## Our Solution
 
 ### 1. Denver Right to Disconnect Ordinance
@@ -84,3 +90,17 @@ It was the standard work week 100 years ago. The 40-hour week was considered rad
 
 **"Workers will just get second jobs."**
 Some might, and that's their choice. The goal is ensuring that one full-time job provides a living wage (see: $25 Minimum Wage) so that no one NEEDS a second job. If people want additional income, a 4-day week gives them that flexibility.
+
+**"What about salaried/exempt workers?"**
+The 32-hour overtime threshold primarily affects hourly workers under the FLSA. For salaried exempt workers, the Right to Disconnect ordinance is the key protection -- establishing clear boundaries between work and personal time. Additionally, Denver can set its own exemption thresholds: workers earning below a specified salary level would be reclassified as non-exempt under the 32-hour standard, extending overtime protections to more workers.
+
+**"What about healthcare, emergency services, and 24/7 operations?"**
+Essential services operate on shift schedules, not standard work weeks. A 32-hour standard means four 8-hour shifts instead of five -- with staffing adjusted accordingly. Healthcare workers, firefighters, and police already work compressed schedules in many jurisdictions. The right to disconnect includes defined emergency exceptions for roles requiring on-call availability.
+
+## References
+
+- OECD, *Hours Worked* indicator (data.oecd.org), 2023
+- France, *Code du travail*, Article L2242-17 (Right to Disconnect, enacted 2017)
+- Autonomy Research, *The Results Are In: The UK's Four-Day Week Pilot*, 2023
+- Iceland, *Association for Sustainability and Democracy (ALDA)*, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
+- Microsoft Japan, *Work-Life Choice Challenge Summer 2019* results

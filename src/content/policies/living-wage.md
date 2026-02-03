@@ -21,6 +21,10 @@ The current minimum wage does not allow a single adult to live in Denver without
 
 Meanwhile, Denver's economy generates enormous wealth. The question is not whether the money exists - it's who gets it.
 
+### What Denver Currently Does
+
+Denver's minimum wage is $18.29/hr as of January 2025, following annual increases that began with a 2019 voter-approved ordinance. Denver's minimum wage is among the highest municipal rates in the country but still falls $6-7/hr short of what MIT's Living Wage Calculator identifies as necessary for a family of four (livingwage.mit.edu, accessed 2024). Approximately 20-25% of Denver workers earn between $18 and $25/hr (Bureau of Labor Statistics, Occupational Employment and Wage Statistics, Denver-Aurora-Lakewood MSA, 2023).
+
 ## Our Solution
 
 ### The Denver Living Wage Act
@@ -93,3 +97,24 @@ See: One Fair Wage. Restaurants in states that eliminated the tipped minimum wag
 
 **"This will cause inflation."**
 Labor costs are typically 25-35% of a restaurant's expenses and less for other businesses. A 30% wage increase translates to roughly 7-10% price increases in the most labor-intensive industries - far less than the 30%+ wage gain for workers. Workers come out ahead.
+
+**"What about Denver businesses competing with businesses in Aurora, Lakewood, and other surrounding cities?"**
+This is the "border effect" argument, and it's been studied extensively. Research by Arindrajit Dube, T. William Lester, and Michael Reich (2010, "Minimum Wage Effects Across State Borders") found minimal to zero cross-border employment effects from minimum wage differentials between adjacent counties. Workers spend where they live, and location-dependent businesses (restaurants, retail, services) can't relocate to serve Denver customers from Aurora. Denver already has a $2-3/hr wage premium over Colorado's statewide minimum, and employment has not migrated to surrounding cities.
+
+## Who Opposes This (and Why)
+
+- **Colorado Restaurant Association** and **National Restaurant Association** are the primary lobby against wage increases, particularly for tipped workers.
+- **Denver Metro Chamber of Commerce** has historically opposed city-level minimum wage increases.
+- **National Federation of Independent Business (NFIB)** opposes mandated wage increases as a matter of policy.
+
+Their argument: "It will cost jobs and hurt small businesses." Our response: Every major minimum wage increase -- Seattle, San Francisco, Denver's own increases since 2020 -- has been followed by predictions of job losses that never materialized. The empirical evidence from Dube, Lester, and Reich (2010), Cengiz et al. (2019), and the UK's Low Pay Commission (2023 annual report) consistently finds minimal negative employment effects.
+
+## References
+
+- MIT Living Wage Calculator, Denver County, livingwage.mit.edu (accessed 2024)
+- Bureau of Labor Statistics, *Occupational Employment and Wage Statistics*, Denver-Aurora-Lakewood MSA, May 2023
+- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," *Review of Economics and Statistics* 92(4): 945-964 (2010)
+- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," *Quarterly Journal of Economics* 134(3): 1405-1454 (2019)
+- UK Low Pay Commission, *National Minimum Wage Annual Report*, 2023
+- Denver Department of Finance, *Minimum Wage Ordinance Annual Report*, 2024
+- University of Washington, *Seattle Minimum Wage Study*, various publications (2017-2023)

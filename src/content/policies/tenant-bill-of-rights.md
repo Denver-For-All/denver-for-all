@@ -20,6 +20,12 @@ Beyond eviction, tenants face:
 - Discrimination based on source of income, immigration status, or family status
 - No meaningful voice in decisions that affect their homes
 
+### What Denver Currently Does
+
+Denver's current tenant protections are minimal. Colorado law provides for a 10-day notice to cure for nonpayment (C.R.S. 13-40-104) and a 21-day notice for month-to-month lease changes. Denver passed limited renter protections in 2023-2024, including a right to an attorney in certain eviction cases for income-qualified tenants. However, coverage remains partial -- not universal.
+
+Denver County Court processed approximately 10,000+ eviction filings in 2023 (Colorado Judicial Branch data). The legal representation disparity is stark: a 2022 National Coalition for a Civil Right to Counsel analysis found landlords have attorneys in over 90% of eviction cases nationally, while fewer than 10% of tenants do -- a figure consistent with Denver County Court observations.
+
 ## Our Solution
 
 ### The Denver Tenant Bill of Rights Ordinance

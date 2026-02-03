@@ -20,6 +20,10 @@ In Colorado, the tipped minimum is $15.27/hr (2025) - $3+/hr less than the stand
 - Tipped workers experience poverty at 2x the rate of non-tipped workers
 - The system is racist: tipped workers of color earn 56% less in tips than white workers for the same work
 
+### What Denver Currently Does
+
+Colorado's tipped minimum wage is $15.27/hr in 2025 (Colorado Department of Labor and Employment). Colorado already has a smaller tip credit ($3.02/hr) than the federal level ($5.12/hr), but the gap still forces tipped workers to rely on customer generosity for a significant portion of their income. Denver has an estimated 35,000-40,000 tipped workers, concentrated in restaurants, bars, hotels, and personal services (BLS, 2023).
+
 ## Our Solution
 
 ### Eliminate the tipped minimum wage in Denver
@@ -64,3 +68,21 @@ Then their business model is subsidized by worker poverty. If a restaurant can o
 
 **"What about fine dining servers who make $60K+ in tips?"**
 They'll still make that. They'll just ALSO make a guaranteed base wage. The people this helps most are the workers at Denny's and Applebee's, not the sommelier at the steakhouse.
+
+**"Won't this hurt small, independent restaurants more than chains?"**
+The 2-year tax credit for small businesses specifically addresses this. But the evidence from One Fair Wage states shows independent restaurants thrive -- because their workers can actually afford to eat at other local restaurants. Higher wages create a virtuous cycle of local spending. And the playing field is level: when every restaurant pays the same base wage, no one has a competitive disadvantage.
+
+## Who Opposes This (and Why)
+
+- **Colorado Restaurant Association** is the primary organized opposition to eliminating the tipped minimum.
+- **National Restaurant Association** (nicknamed "the other NRA") has spent millions nationally fighting One Fair Wage.
+- **Some high-earning servers** at fine dining establishments worry about tip reduction (though evidence shows tips remain strong in One Fair Wage states).
+
+## References
+
+- Colorado Department of Labor and Employment, *2025 Minimum Wage Rates*
+- One Fair Wage, *Tipped Worker Research and Policy Center* reports (onefairwage.org)
+- Economic Policy Institute, "Subminimum Wages in the States," *Policy Brief*, 2023
+- Bureau of Labor Statistics, *Occupational Employment and Wage Statistics*, Denver-Aurora-Lakewood MSA, 2023
+- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," *Industrial Relations* 54(4): 622-647 (2015)
+- National Women's Law Center, *The Tipped Minimum Wage and Its Impact on Women*, 2023

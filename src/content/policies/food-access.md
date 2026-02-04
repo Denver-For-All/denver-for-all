@@ -4,7 +4,7 @@ titleEs: "Acceso a Alimentos y Agricultura Urbana"
 summary: "Eliminate food deserts in Denver by 2030. Healthy corner store initiative. Urban farm expansion on city land. Free school meals for all DPS students. Community food hubs in every food desert. Protect and expand community gardens."
 summaryEs: "Eliminar los desiertos alimentarios en Denver para 2030. Iniciativa de tiendas de esquina saludables. Expansión de granjas urbanas en terrenos municipales. Comidas escolares gratuitas para todos los estudiantes de DPS. Centros comunitarios de alimentos en cada desierto alimentario. Proteger y expandir los jardines comunitarios."
 category: "health"
-icon: "🥕"
+icon: "carrot"
 order: 22
 status: "draft"
 ---

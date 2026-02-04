@@ -4,7 +4,7 @@ titleEs: "Parques, Recreación y Espacio Público"
 summary: "Equitable park access for every neighborhood. Free recreation center programs for youth and seniors. Community gardens in every food desert. Trail connectivity across the city. Parks as public health infrastructure."
 summaryEs: "Acceso equitativo a parques para cada vecindario. Programas gratuitos en centros de recreación para jóvenes y adultos mayores. Jardines comunitarios en cada desierto alimentario. Conectividad de senderos en toda la ciudad. Parques como infraestructura de salud pública."
 category: "community"
-icon: "🌳"
+icon: "tree-deciduous"
 order: 80
 status: "draft"
 ---

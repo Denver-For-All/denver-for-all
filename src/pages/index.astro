@@ -5,10 +5,15 @@ import PolicyCard from '../components/PolicyCard.astro';
 import { Icon } from 'astro-icon/components';
 import { getCollection } from 'astro:content';
 
-const policies = (await getCollection('policies'))
+const allPolicies = (await getCollection('policies'))
   .filter(p => p.data.status === 'published' || p.data.status === 'draft')
-  .sort((a, b) => a.data.order - b.data.order)
-  .slice(0, 6);
+  .sort((a, b) => a.data.order - b.data.order);
+
+// Select one policy per category for a diverse homepage showcase
+const featuredCategories = ['housing', 'labor', 'health', 'climate', 'safety', 'education'];
+const policies = featuredCategories
+  .map(cat => allPolicies.find(p => p.data.category === cat))
+  .filter((p): p is NonNullable<typeof p> => p != null);
 ---
 
 <Layout>
@@ -22,8 +27,8 @@ const policies = (await getCollection('policies'))
         <p class="hero__sub" data-en="Not just developers. Not just landlords. Not just corporations. All of us." data-es="No solo a los desarrolladores. No solo a los dueños. No solo a las corporaciones. A todos nosotros.">
           Not just developers. Not just landlords. Not just corporations. All of us.
         </p>
-        <p class="hero__body" data-en="7,500 of our neighbors are homeless. Rents have doubled in a decade. Wages haven't kept up. We have a plan to fix it - and we're building the movement to make it happen." data-es="7,500 de nuestros vecinos no tienen hogar. Los alquileres se han duplicado en una década. Los salarios no han seguido el ritmo. Tenemos un plan para arreglarlo - y estamos construyendo el movimiento para hacerlo realidad.">
-          7,500 of our neighbors are homeless. Rents have doubled in a decade. Wages haven't kept up.
+        <p class="hero__body" data-en="Over 7,000 of our neighbors are homeless. Rents have surged 85% in a decade. Wages haven't kept up. We have a plan to fix it - and we're building the movement to make it happen." data-es="Más de 7,000 de nuestros vecinos no tienen hogar. Los alquileres han aumentado un 85% en una década. Los salarios no han seguido el ritmo. Tenemos un plan para arreglarlo - y estamos construyendo el movimiento para hacerlo realidad.">
+          Over 7,000 of our neighbors are homeless. Rents have surged 85% in a decade. Wages haven't kept up.
           We have a plan to fix it - and we're building the movement to make it happen.
         </p>
         <div class="hero__actions">
@@ -43,21 +48,21 @@ const policies = (await getCollection('policies'))
     <div class="container">
       <div class="stats">
         <div class="stat">
-          <span class="stat__number">7,500+</span>
-          <span class="stat__label" data-en="People experiencing homelessness in Denver" data-es="Personas sin hogar en Denver">
-            People experiencing homelessness in Denver
+          <span class="stat__number">7,300+</span>
+          <span class="stat__label" data-en="People experiencing homelessness in Denver (2025 PIT count)" data-es="Personas sin hogar en Denver (conteo PIT 2025)">
+            People experiencing homelessness in Denver (2025 PIT count)
           </span>
         </div>
         <div class="stat">
-          <span class="stat__number">98%</span>
+          <span class="stat__number">85%</span>
           <span class="stat__label" data-en="Rent increase since 2010 in Denver metro" data-es="Aumento del alquiler desde 2010 en el área metropolitana de Denver">
             Rent increase since 2010 in Denver metro
           </span>
         </div>
         <div class="stat">
-          <span class="stat__number">$25/hr</span>
-          <span class="stat__label" data-en="What a family of 4 needs to survive in Denver" data-es="Lo que una familia de 4 necesita para sobrevivir en Denver">
-            What a family of 4 needs to survive in Denver
+          <span class="stat__number">$26/hr</span>
+          <span class="stat__label" data-en="Living wage for one adult in Denver (MIT)" data-es="Salario digno para un adulto en Denver (MIT)">
+            Living wage for one adult in Denver (MIT)
           </span>
         </div>
         <div class="stat">

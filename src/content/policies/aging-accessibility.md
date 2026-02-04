@@ -4,7 +4,7 @@ titleEs: "Envejecimiento, Discapacidad y Accesibilidad"
 summary: "Age-friendly city design for Denver's fastest-growing demographic. Universal accessibility beyond ADA minimums. Senior services expansion. Caregiver support. Social isolation prevention."
 summaryEs: "Diseño de ciudad amigable con la edad para el grupo demográfico de más rápido crecimiento de Denver. Accesibilidad universal más allá de los mínimos de ADA. Expansión de servicios para adultos mayores. Apoyo a cuidadores. Prevención del aislamiento social."
 category: "health"
-icon: "♿"
+icon: "accessibility"
 order: 21
 status: "draft"
 ---

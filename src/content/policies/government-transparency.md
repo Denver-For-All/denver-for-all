@@ -4,7 +4,7 @@ titleEs: "Transparencia Gubernamental y Derechos Digitales"
 summary: "Surveillance technology oversight ordinance. Open data for all city operations. Publicly financed elections. Lobbyist disclosure and revolving door restrictions. Algorithmic accountability for city AI systems."
 summaryEs: "Ordenanza de supervisión de tecnología de vigilancia. Datos abiertos para todas las operaciones municipales. Elecciones financiadas públicamente. Divulgación de cabilderos y restricciones de puertas giratorias. Responsabilidad algorítmica para sistemas de IA municipales."
 category: "democracy"
-icon: "🔍"
+icon: "search"
 order: 56
 status: "draft"
 ---

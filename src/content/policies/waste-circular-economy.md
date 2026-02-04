@@ -4,7 +4,7 @@ titleEs: "Reducción de Residuos y Economía Circular"
 summary: "Universal curbside composting. 90% waste diversion by 2035. Plastic bag and polystyrene bans. Right to repair. Producer responsibility for packaging waste. Zero-waste city operations."
 summaryEs: "Compostaje universal en la acera. 90% de desvío de residuos para 2035. Prohibición de bolsas plásticas y poliestireno. Derecho a reparar. Responsabilidad del productor por residuos de empaques. Operaciones municipales de cero residuos."
 category: "climate"
-icon: "♻️"
+icon: "recycle"
 order: 31
 status: "draft"
 ---

@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import EmailCapture from '../../components/EmailCapture.astro';
+import { Icon } from 'astro-icon/components';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -23,7 +24,9 @@ const { Content } = await policy.render();
       </a>
 
       <header class="policy-header">
-        <span class="policy-header__icon">{policy.data.icon}</span>
+        <div class="policy-header__icon">
+          <Icon name={`lucide:${policy.data.icon}`} size={32} />
+        </div>
         <span class="policy-header__category">{policy.data.category}</span>
         <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{policy.data.title}</h1>
         <p class="policy-header__summary" data-en={policy.data.summary} data-es={policy.data.summaryEs}>
@@ -82,8 +85,14 @@ const { Content } = await policy.render();
   }
 
   .policy-header__icon {
-    font-size: 3rem;
-    display: block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
     margin-bottom: 1rem;
   }
 

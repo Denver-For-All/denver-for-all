@@ -4,7 +4,7 @@ titleEs: "Banco de Denver - Banca Pública"
 summary: "A city-owned bank that keeps Denver's money in Denver. Low-interest loans for housing, small businesses, and green energy. Financial services for the unbanked."
 summaryEs: "Un banco de propiedad municipal que mantiene el dinero de Denver en Denver. Préstamos a bajo interés para vivienda, pequeños negocios y energía verde. Servicios financieros para los no bancarizados."
 category: "infrastructure"
-icon: "🏦"
+icon: "piggy-bank"
 order: 60
 status: "draft"
 ---

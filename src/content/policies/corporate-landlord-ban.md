@@ -4,7 +4,7 @@ titleEs: "Prohibición de Arrendadores Corporativos"
 summary: "Denver is for humans. Ban institutional investors from buying residential property. Homes are for living, not for hedge fund portfolios."
 summaryEs: "Denver es para humanos. Prohibir a los inversionistas institucionales comprar propiedades residenciales. Los hogares son para vivir, no para portafolios de fondos de cobertura."
 category: "housing"
-icon: "🚫"
+icon: "ban"
 order: 5
 status: "draft"
 ---

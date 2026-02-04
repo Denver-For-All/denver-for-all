@@ -1,4 +1,6 @@
 ---
+import { Icon } from 'astro-icon/components';
+
 interface Props {
   slug: string;
   title: string;
@@ -13,7 +15,9 @@ const { slug, title, titleEs, summary, summaryEs, category, icon } = Astro.props
 ---
 
 <a href={`/platform/${slug}`} class="card policy-card">
-  <span class="policy-card__icon">{icon}</span>
+  <div class="policy-card__icon">
+    <Icon name={`lucide:${icon}`} size={24} />
+  </div>
   <span class="card__category" data-en={category} data-es={category}>{category}</span>
   <h3 class="card__title" data-en={title} data-es={titleEs}>{title}</h3>
   <p class="card__summary" data-en={summary} data-es={summaryEs}>{summary}</p>
@@ -30,8 +34,14 @@ const { slug, title, titleEs, summary, summaryEs, category, icon } = Astro.props
   }
 
   .policy-card__icon {
-    font-size: 2rem;
-    display: block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
     margin-bottom: 0.75rem;
   }
 

@@ -4,7 +4,7 @@ titleEs: "Un Salario Justo - Eliminar el Salario Mínimo con Propinas"
 summary: "Tips are a bonus, not a wage. Every worker gets the full minimum wage. No more subsidizing restaurants with your server's rent money."
 summaryEs: "Las propinas son un extra, no un salario. Todo trabajador recibe el salario mínimo completo. No más subsidiar restaurantes con el dinero del alquiler de tu mesero."
 category: "labor"
-icon: "🍽️"
+icon: "utensils"
 order: 11
 status: "draft"
 ---

@@ -4,7 +4,7 @@ titleEs: "Presupuesto Participativo y Asambleas Ciudadanas"
 summary: "You decide how $100M+ of Denver's budget is spent - directly. Plus randomly selected citizens' assemblies to tackle the big questions. Real democracy, not just voting every 4 years."
 summaryEs: "Tú decides cómo se gastan $100M+ del presupuesto de Denver - directamente. Además, asambleas ciudadanas seleccionadas al azar para abordar las grandes preguntas. Democracia real, no solo votar cada 4 años."
 category: "democracy"
-icon: "🗳️"
+icon: "vote"
 order: 55
 status: "draft"
 ---

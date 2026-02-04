@@ -4,7 +4,7 @@ titleEs: "Ley de Estabilización de Alquileres de Denver"
 summary: "Hard cap on rent increases at CPI or 3%, whichever is lower. No vacancy decontrol. No loopholes. Real protection for every Denver renter."
 summaryEs: "Límite estricto en aumentos de alquiler al IPC o 3%, lo que sea menor. Sin descontrol por vacancia. Sin lagunas. Protección real para cada inquilino de Denver."
 category: "housing"
-icon: "🔒"
+icon: "shield-check"
 order: 2
 status: "draft"
 ---

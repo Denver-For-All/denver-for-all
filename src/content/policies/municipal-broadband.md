@@ -4,7 +4,7 @@ titleEs: "Internet Municipal"
 summary: "City-owned fiber network. $30/month gigabit. Free tier for low-income households. Net neutrality guaranteed. No more Comcast monopoly."
 summaryEs: "Red de fibra óptica de propiedad municipal. Gigabit por $30/mes. Nivel gratuito para hogares de bajos ingresos. Neutralidad de red garantizada. No más monopolio de Comcast."
 category: "infrastructure"
-icon: "🌐"
+icon: "wifi"
 order: 61
 status: "draft"
 ---

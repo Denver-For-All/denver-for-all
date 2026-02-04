@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import EmailCapture from '../components/EmailCapture.astro';
 import PolicyCard from '../components/PolicyCard.astro';
+import { Icon } from 'astro-icon/components';
 import { getCollection } from 'astro:content';
 
 const policies = (await getCollection('policies'))
@@ -110,28 +111,28 @@ const policies = (await getCollection('policies'))
       </div>
       <div class="grid grid--2">
         <a href="/tools/eviction-tracker" class="card tool-card">
-          <span class="tool-card__icon">📊</span>
+          <div class="tool-card__icon"><Icon name="lucide:bar-chart-3" size={24} /></div>
           <h3 data-en="Denver Eviction Tracker" data-es="Rastreador de Desalojos de Denver">Denver Eviction Tracker</h3>
           <p data-en="Live dashboard of eviction filings by landlord and neighborhood. See who's displacing your community." data-es="Panel en vivo de demandas de desalojo por propietario y vecindario. Mira quién está desplazando a tu comunidad.">
             Live dashboard of eviction filings by landlord and neighborhood. See who's displacing your community.
           </p>
         </a>
         <a href="/tools/rent-calculator" class="card tool-card">
-          <span class="tool-card__icon">🧮</span>
+          <div class="tool-card__icon"><Icon name="lucide:calculator" size={24} /></div>
           <h3 data-en="Rent Control Calculator" data-es="Calculadora de Control de Alquiler">Rent Control Calculator</h3>
           <p data-en="See how much you'd save under our rent stabilization plan. Shareable results for social media." data-es="Mira cuánto ahorrarías con nuestro plan de estabilización de alquiler. Resultados compartibles en redes sociales.">
             See how much you'd save under our rent stabilization plan. Shareable results for social media.
           </p>
         </a>
         <a href="/tools/campaign-finance" class="card tool-card">
-          <span class="tool-card__icon">💰</span>
+          <div class="tool-card__icon"><Icon name="lucide:coins" size={24} /></div>
           <h3 data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</h3>
           <p data-en="Visualize who funds your councilmembers and how they vote. Expose corporate influence." data-es="Visualiza quién financia a tus concejales y cómo votan. Expón la influencia corporativa.">
             Visualize who funds your councilmembers and how they vote. Expose corporate influence.
           </p>
         </a>
         <a href="/tools/know-your-rights" class="card tool-card">
-          <span class="tool-card__icon">⚖️</span>
+          <div class="tool-card__icon"><Icon name="lucide:gavel" size={24} /></div>
           <h3 data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</h3>
           <p data-en="24/7 tenant rights assistant in English and Spanish. Voice and chat. Free legal guidance when you need it." data-es="Asistente de derechos del inquilino 24/7 en inglés y español. Voz y chat. Orientación legal gratuita cuando la necesites.">
             24/7 tenant rights assistant in English and Spanish. Voice and chat. Free legal guidance when you need it.
@@ -268,9 +269,15 @@ const policies = (await getCollection('policies'))
   }
 
   .tool-card__icon {
-    font-size: 2rem;
-    display: block;
-    margin-bottom: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
+    margin-bottom: 0.75rem;
   }
 
   .tool-card h3 {

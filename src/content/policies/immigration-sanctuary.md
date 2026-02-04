@@ -4,7 +4,7 @@ titleEs: "Ciudad Santuario Completa"
 summary: "Zero cooperation with ICE. Municipal ID for all. City-funded deportation defense. Language access in every service. Our neighbors are not criminals."
 summaryEs: "Cero cooperación con ICE. Identificación municipal para todos. Defensa contra deportación financiada por la ciudad. Acceso lingüístico en cada servicio. Nuestros vecinos no son criminales."
 category: "immigration"
-icon: "🏛️"
+icon: "landmark"
 order: 40
 status: "draft"
 ---

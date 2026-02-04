@@ -4,7 +4,7 @@ titleEs: "Negociación Sectorial y Juntas de Salarios"
 summary: "Industry-wide wage negotiations instead of company-by-company unionizing. Every restaurant worker covered. Every hotel worker protected. The European model, adapted for Denver."
 summaryEs: "Negociaciones salariales a nivel de industria en lugar de sindicalización empresa por empresa. Cada trabajador de restaurante cubierto. Cada trabajador de hotel protegido. El modelo europeo, adaptado para Denver."
 category: "labor"
-icon: "🤝"
+icon: "users"
 order: 13
 status: "draft"
 ---

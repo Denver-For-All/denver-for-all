@@ -4,7 +4,7 @@ titleEs: "Vivienda Primero - Acabar con la Falta de Vivienda en Denver"
 summary: "Give people homes first, then address everything else. Finland did it and is the only EU country where homelessness is declining. It's cheaper than shelters. It works."
 summaryEs: "Dar vivienda primero, luego abordar todo lo demás. Finlandia lo hizo y es el único país de la UE donde la falta de vivienda está disminuyendo. Es más barato que los refugios. Funciona."
 category: "housing"
-icon: "🏡"
+icon: "heart-handshake"
 order: 8
 status: "draft"
 ---

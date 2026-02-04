@@ -4,7 +4,7 @@ titleEs: "Clima y Justicia Ambiental"
 summary: "Investigate radioactive contamination from Rocky Flats. Remediate lead in Front Range soil and water. 100% renewable city operations by 2030. Environmental justice for frontline communities."
 summaryEs: "Investigar la contaminación radioactiva de Rocky Flats. Remediar el plomo en el suelo y agua del Front Range. Operaciones municipales 100% renovables para 2030. Justicia ambiental para comunidades en primera línea."
 category: "climate"
-icon: "🌍"
+icon: "leaf"
 order: 30
 status: "draft"
 ---

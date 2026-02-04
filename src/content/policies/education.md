@@ -4,7 +4,7 @@ titleEs: "Educación para Cada Niño"
 summary: "Universal Pre-K, free school meals, after-school programs in every neighborhood, teacher housing assistance, and no more privatization."
 summaryEs: "Pre-K universal, comidas escolares gratuitas, programas extracurriculares en cada vecindario, asistencia de vivienda para maestros y no más privatización."
 category: "education"
-icon: "📚"
+icon: "book-open"
 order: 50
 status: "draft"
 ---

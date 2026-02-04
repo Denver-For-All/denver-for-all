@@ -4,7 +4,7 @@ titleEs: "Declaración de Derechos del Inquilino de Denver"
 summary: "Universal right to counsel, 90-day notice for rent increases, anti-retaliation protections, and the right to organize. Every renter deserves dignity."
 summaryEs: "Derecho universal a representación legal, aviso de 90 días para aumentos de alquiler, protecciones contra represalias y el derecho a organizarse. Todo inquilino merece dignidad."
 category: "housing"
-icon: "⚖️"
+icon: "scale"
 order: 3
 status: "draft"
 ---

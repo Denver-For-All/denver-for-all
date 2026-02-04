@@ -117,7 +117,7 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - Denver Annual Budget. (2024). Department of Safety appropriation. ($300M+ police budget.)
 - STAR Program Annual Report. (2023). Call volume, outcomes, zero police backup incidents.
 - Denver Office of the Independent Monitor. Annual reports. (Structure and limitations.)
-- Denver City Attorney's Office. Police misconduct settlement data, 2019-2023.
+- Denver City Attorney's Office. Law enforcement settlement data, 2017-2023. Denver Post analysis, 2024.
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
 - World Prison Brief. International incarceration rate comparisons.
 - Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)

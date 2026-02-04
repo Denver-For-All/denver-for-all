@@ -73,7 +73,7 @@ However: Denver's climate action has focused heavily on building efficiency and 
 
 | Country/City | Model | Result |
 |-------------|-------|--------|
-| **Germany (*Energiewende*)** | National energy transition: massive solar and wind investment. Feed-in tariffs guarantee prices for renewable producers. Community-owned energy cooperatives. | 46% electricity from renewables (2022). 1.7M energy jobs created. Citizen cooperatives own 40% of renewable capacity. |
+| **Germany (*Energiewende*)** | National energy transition: massive solar and wind investment. Feed-in tariffs guarantee prices for renewable producers. Community-owned energy cooperatives. | 52% electricity from renewables (2023, crossing 50% for the first time). 1.7M energy jobs created. Citizen cooperatives own 40% of renewable capacity. |
 | **Denmark** | 80%+ electricity from renewables. Community ownership of wind farms. | On track for 100% renewable by 2030. Created an entire export industry (Vestas). Reduced emissions while growing the economy. |
 | **Costa Rica** | 98%+ electricity from renewables for 7+ consecutive years. | Proves 100% renewable is achievable today, not a future aspiration. |
 | **Burlington, VT** | First US city to achieve 100% renewable electricity (2014). City-owned utility. | If Burlington can do it, Denver can do it. |

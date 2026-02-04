@@ -19,7 +19,7 @@ Denver's police budget is approximately $300M/year (Denver Budget, 2024). The ST
 
 ### What Denver Currently Does
 
-Denver already has the Office of the Independent Monitor (OIM), created in 2004, which reviews police complaints and monitors investigations. However, the OIM cannot independently investigate, lacks subpoena power, cannot impose discipline, and serves in an advisory role. The Citizen Oversight Board exists but is appointed by the mayor -- not independently elected -- and also lacks enforcement authority. This structure has not prevented persistent misconduct: Denver paid $16.5M in police misconduct settlements from 2019-2023 (Denver City Attorney records).
+Denver already has the Office of the Independent Monitor (OIM), created in 2004, which reviews police complaints and monitors investigations. However, the OIM cannot independently investigate, lacks subpoena power, cannot impose discipline, and serves in an advisory role. The Citizen Oversight Board exists but is appointed by the mayor -- not independently elected -- and also lacks enforcement authority. This structure has not prevented persistent misconduct: Denver paid $35.3M in law enforcement settlements from 2017-2023, with $17.3M in 2023 alone (Denver City Attorney records; Denver Post analysis, 2024).
 
 The STAR program launched in 2020 and has handled 10,000+ calls with zero incidents requiring police backup (STAR Program Annual Report, 2023). It currently operates limited hours in limited areas. This is the most successful public safety innovation Denver has made in decades, and it is chronically underfunded.
 
@@ -117,7 +117,7 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - Denver Annual Budget. (2024). Department of Safety appropriation. ($300M+ police budget.)
 - STAR Program Annual Report. (2023). Call volume, outcomes, zero police backup incidents.
 - Denver Office of the Independent Monitor. Annual reports. (Structure and limitations.)
-- Denver City Attorney's Office. Police misconduct settlement data, 2019-2023.
+- Denver City Attorney's Office. Law enforcement settlement data, 2017-2023. Denver Post analysis, 2024.
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
 - World Prison Brief. International incarceration rate comparisons.
 - Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)

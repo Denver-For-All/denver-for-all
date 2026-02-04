@@ -13,15 +13,15 @@ status: "draft"
 
 Denver renters have no protection against arbitrary rent increases. A landlord can raise your rent by $200, $500, or $1,000/month with nothing more than 60 days notice. There is no limit, no justification required, and no recourse.
 
-The result: Denver rents have increased 95%+ since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - can't afford to live here.
+The result: Denver rents have increased roughly 85% since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - can't afford to live here.
 
 Colorado state law previously prohibited local rent control (preemption), but this is changing. Denver must be ready to act the moment preemption is lifted - or pursue a ballot initiative to establish it directly.
 
 ### What Denver Currently Does
 
-Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes Section 38-12-301 preempts all local rent control ordinances. Multiple attempts to repeal this preemption have been introduced in the Colorado General Assembly -- including HB 2019-1309 and subsequent bills -- but have failed to pass. In 2024, Colorado legislators introduced another rent stabilization bill that did not advance past committee.
+Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes Section 38-12-301 preempts all local rent control ordinances. Multiple attempts to repeal this preemption have been introduced in the Colorado General Assembly -- including SB 19-225, HB 23-1115, and subsequent bills -- but have failed to pass. In 2024, Colorado legislators introduced another rent stabilization bill that did not advance past committee.
 
-Denver rents rose approximately 95% between 2010 and 2023 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA. The average one-bedroom rent in Denver reached approximately $1,600/month by 2024 (ApartmentList National Rent Report, 2024). Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
+Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA and apartment market reports. The average one-bedroom rent in Denver reached approximately $1,600/month by 2024 (ApartmentList National Rent Report, 2024). Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
 
 ## Our Solution
 

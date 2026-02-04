@@ -94,12 +94,12 @@ Federal solutions aren't coming soon enough. Cities can act now - on mental heal
 Colorado expanded Medicaid and runs Connect for Health Colorado, its ACA marketplace. These programs help the insured access care. Our proposals address what they don't: medical debt for the insured (high deductibles and copays still bankrupt people), non-police crisis response, community health center gaps, and drug pricing for the uninsured and underinsured. This supplements state and federal programs, not duplicates them.
 
 **"Is medical debt really the leading cause of bankruptcy?"**
-The commonly cited claim (Himmelstein et al., 2009, American Journal of Medicine: 62% of bankruptcies) has been debated. A 2019 NEJM study (Dobkin et al.) found the effect was smaller but still substantial: a hospital admission increases the probability of bankruptcy by 26%, concentrated among lower-income and uninsured populations. Either way, medical debt is a leading contributor to financial catastrophe, and the US is the only wealthy country where this happens at all.
+The commonly cited claim (Himmelstein et al., 2009, American Journal of Medicine: 62% of bankruptcies) has been debated. A 2018 study by Dobkin et al. in the American Economic Review found the effect was smaller but still significant: hospital admissions increase unpaid medical bills, reduce earnings by 20%, and raise bankruptcy risk — with uninsured non-elderly adults experiencing a 1.4 percentage point increase in bankruptcy over four years. Either way, medical debt is a leading contributor to financial catastrophe, and the US is the only wealthy country where this happens at all.
 
 ## References
 
 - Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
-- Dobkin, C., et al. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review. (Hospital admission increases bankruptcy probability by 26%.)
+- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
 - Undue Medical Debt (formerly RIP Medical Debt). Program data and city partnership outcomes.
 - STAR Program Annual Report. (2023). Denver Department of Public Health and Environment.
 - OECD Health Statistics. (2024). Health spending per capita comparisons.

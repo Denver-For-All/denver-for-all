@@ -13,7 +13,7 @@ status: "draft"
 
 The tipped minimum wage is a legacy of post-slavery economics. After emancipation, restaurants hired Black workers and told them to earn their wages from customer tips - allowing employers to pay nothing. This system persists today.
 
-In Colorado, the tipped minimum is $15.27/hr (2025) - $3+/hr less than the standard minimum. Employers are supposed to make up the difference if tips don't reach the full minimum. In practice:
+In Colorado, the tipped minimum is $15.79/hr (2025) - $3+/hr less than the standard minimum. Employers are supposed to make up the difference if tips don't reach the full minimum. In practice:
 - Wage theft in tipped industries is rampant - employers routinely fail to make up shortfalls
 - Income is unpredictable and volatile - one slow Tuesday means rent is short
 - Workers are forced to tolerate harassment from customers because their income depends on it
@@ -22,7 +22,7 @@ In Colorado, the tipped minimum is $15.27/hr (2025) - $3+/hr less than the stand
 
 ### What Denver Currently Does
 
-Colorado's tipped minimum wage is $15.27/hr in 2025 (Colorado Department of Labor and Employment). Colorado already has a smaller tip credit ($3.02/hr) than the federal level ($5.12/hr), but the gap still forces tipped workers to rely on customer generosity for a significant portion of their income. Denver has an estimated 35,000-40,000 tipped workers, concentrated in restaurants, bars, hotels, and personal services (BLS, 2023).
+Colorado's tipped minimum wage is $15.79/hr in 2025 (Colorado Department of Labor and Employment). Colorado already has a smaller tip credit ($3.02/hr) than the federal level ($5.12/hr), but the gap still forces tipped workers to rely on customer generosity for a significant portion of their income. Denver has an estimated 35,000-40,000 tipped workers, concentrated in restaurants, bars, hotels, and personal services (BLS, 2023).
 
 ## Our Solution
 

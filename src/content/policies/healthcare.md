@@ -94,7 +94,7 @@ Federal solutions aren't coming soon enough. Cities can act now - on mental heal
 Colorado expanded Medicaid and runs Connect for Health Colorado, its ACA marketplace. These programs help the insured access care. Our proposals address what they don't: medical debt for the insured (high deductibles and copays still bankrupt people), non-police crisis response, community health center gaps, and drug pricing for the uninsured and underinsured. This supplements state and federal programs, not duplicates them.
 
 **"Is medical debt really the leading cause of bankruptcy?"**
-The commonly cited claim (Himmelstein et al., 2009, American Journal of Medicine: 62% of bankruptcies) has been debated. A 2018 study by Dobkin et al. in the American Economic Review found the effect was smaller but still significant: hospital admissions increase unpaid medical bills, reduce earnings by 20%, and raise bankruptcy risk — with uninsured non-elderly adults experiencing a 1.4 percentage point increase in bankruptcy over four years. Either way, medical debt is a leading contributor to financial catastrophe, and the US is the only wealthy country where this happens at all.
+The commonly cited claim (Himmelstein et al., 2009, American Journal of Medicine: 62% of bankruptcies) has been debated. A 2018 study by Dobkin et al. in the American Economic Review found the effect was smaller but still significant: hospital admissions increase unpaid medical bills, reduce earnings by 20%, and raise bankruptcy risk, with uninsured non-elderly adults experiencing a 1.4 percentage point increase in bankruptcy over four years. Either way, medical debt is a leading contributor to financial catastrophe, and the US is the only wealthy country where this happens at all.
 
 ## References
 

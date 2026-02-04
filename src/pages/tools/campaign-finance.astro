@@ -1,36 +1,167 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
 ---
 
-<Layout title="Follow the Money" description="See who funds Denver's politicians and how they vote.">
+<Layout title="Follow the Money" description="Council scorecard on progressive priorities and campaign finance transparency.">
   <section class="hero-mini">
     <div class="container">
       <h1 data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</h1>
-      <p data-en="See who funds Denver's politicians - and how they vote." data-es="Mira quién financia a los políticos de Denver - y cómo votan.">
-        See who funds Denver's politicians - and how they vote.
+      <p data-en="How does Denver City Council vote on the issues that matter? Track votes, follow the money, and hold power accountable." data-es="¿Cómo vota el Concejo Municipal de Denver en los temas que importan? Rastrea votos, sigue el dinero y exige rendición de cuentas.">
+        How does Denver City Council vote on the issues that matter? Track votes, follow the money, and hold power accountable.
       </p>
     </div>
   </section>
 
+  <!-- Council Scorecard -->
   <section class="section">
     <div class="container">
-      <div class="tool-placeholder" id="campaign-finance-app">
-        <div class="tool-placeholder__inner">
-          <h2 data-en="Coming Soon" data-es="Próximamente">Coming Soon</h2>
-          <p data-en="The campaign finance tracker is currently being built. It will include:" data-es="El rastreador de finanzas de campaña está actualmente en construcción. Incluirá:">
-            The campaign finance tracker is currently being built. It will include:
+      <div class="section-header">
+        <h2 data-en="Council Scorecard" data-es="Tarjeta de Puntuación del Concejo">Council Scorecard</h2>
+        <p data-en="Key votes tracked against Denver For All's platform. Did your council member stand with residents, or with the status quo?" data-es="Votos clave rastreados contra la plataforma de Denver Para Todos. ¿Tu concejal se puso del lado de los residentes o del statu quo?">
+          Key votes tracked against Denver For All's platform. Did your council member stand with residents, or with the status quo?
+        </p>
+      </div>
+
+      <!-- Key Votes -->
+      <div class="votes-list">
+        <div class="vote-card vote-card--good">
+          <div class="vote-card__header">
+            <div class="vote-card__result">
+              <span class="vote-result vote-result--pass" data-en="12-0 AGAINST renewal" data-es="12-0 EN CONTRA de la renovación">12-0 AGAINST renewal</span>
+            </div>
+            <span class="vote-card__date">May 2025</span>
+          </div>
+          <h3 data-en="Flock Surveillance Camera Contract Renewal ($666K, 2 years)" data-es="Renovación del Contrato de Cámaras de Vigilancia Flock ($666K, 2 años)">Flock Surveillance Camera Contract Renewal ($666K, 2 years)</h3>
+          <p data-en="City Council unanimously rejected the Flock ALPR camera contract extension. Every council member voted against renewing the $666,000 contract after community members testified about ICE data sharing and mass vehicle tracking. Mayor Johnston then bypassed the vote by signing a $498,509 contract below the council approval threshold." data-es="El Concejo Municipal rechazó unánimemente la extensión del contrato de cámaras Flock. Cada concejal votó en contra después de que miembros de la comunidad testificaran sobre el intercambio de datos con ICE y el rastreo masivo de vehículos. El alcalde Johnston luego eludió el voto firmando un contrato de $498,509 por debajo del umbral de aprobación del concejo.">
+            City Council unanimously rejected the Flock ALPR camera contract extension. Every council member voted against renewing the $666,000 contract after community members testified about ICE data sharing and mass vehicle tracking. Mayor Johnston then bypassed the vote by signing a $498,509 contract below the council approval threshold.
           </p>
-          <ul>
-            <li data-en="Interactive visualization of contributions to all 13 council districts + at-large + mayor" data-es="Visualización interactiva de contribuciones a los 13 distritos del concejo + general + alcalde">Interactive visualization of contributions to all 13 council districts + at-large + mayor</li>
-            <li data-en="Filter by donor type: developers, landlords, PACs, corporations, individuals" data-es="Filtrar por tipo de donante: desarrolladores, propietarios, PACs, corporaciones, individuos">Filter by donor type: developers, landlords, PACs, corporations, individuals</li>
-            <li data-en="Cross-reference donations with voting records on housing and labor issues" data-es="Cruzar donaciones con registros de votación en temas de vivienda y trabajo">Cross-reference donations with voting records on housing and labor issues</li>
-            <li data-en="Councilmember scorecards on progressive priorities" data-es="Tarjetas de puntuación de concejales en prioridades progresistas">Councilmember scorecards on progressive priorities</li>
-            <li data-en="Downloadable datasets for journalists and researchers" data-es="Conjuntos de datos descargables para periodistas e investigadores">Downloadable datasets for journalists and researchers</li>
-          </ul>
-          <p data-en="Data source: Denver Campaign Finance public filings, scraped and normalized via Cloudflare Workers." data-es="Fuente de datos: Declaraciones públicas de Finanzas de Campaña de Denver, obtenidas y normalizadas a través de Cloudflare Workers.">
-            Data source: Denver Campaign Finance public filings, scraped and normalized via Cloudflare Workers.
-          </p>
+          <div class="vote-card__tags">
+            <span class="tag tag--safety" data-en="Public Safety" data-es="Seguridad Pública">Public Safety</span>
+            <span class="tag tag--democracy" data-en="Democracy" data-es="Democracia">Democracy</span>
+            <span class="tag tag--immigration" data-en="Immigration" data-es="Inmigración">Immigration</span>
+          </div>
+          <div class="vote-card__platform">
+            <span data-en="Denver For All position: AGAINST renewal" data-es="Posición de Denver Para Todos: EN CONTRA de la renovación"><strong>Denver For All position:</strong> AGAINST renewal</span>
+            <span class="vote-match vote-match--yes" data-en="Council aligned" data-es="Concejo alineado">Council aligned</span>
+          </div>
         </div>
+
+        <div class="vote-card vote-card--bad">
+          <div class="vote-card__header">
+            <div class="vote-card__result">
+              <span class="vote-result vote-result--fail" data-en="VETOED by Mayor (override failed 7-6, needed 9)" data-es="VETADO por el Alcalde (anulación fallida 7-6, necesitaba 9)">VETOED by Mayor (override failed 7-6, needed 9)</span>
+            </div>
+            <span class="vote-card__date">Feb 2024</span>
+          </div>
+          <h3 data-en="Encampment Sweeps Moratorium During Freezing Temperatures" data-es="Moratoria de Barridos de Campamentos Durante Temperaturas Bajo Cero">Encampment Sweeps Moratorium During Freezing Temperatures</h3>
+          <p data-en="Council passed a bill to prohibit encampment sweeps when temperatures drop below freezing. Mayor Johnston vetoed it. The override attempt got 7 votes -- a majority of council -- but fell 2 votes short of the 9-of-13 supermajority required by Denver's charter. A standard two-thirds threshold (8 votes) would have overridden the veto." data-es="El Concejo aprobó un proyecto de ley para prohibir barridos de campamentos cuando las temperaturas bajan de cero. El alcalde Johnston lo vetó. El intento de anulación obtuvo 7 votos -- una mayoría del concejo -- pero quedó 2 votos cortos de la supermayoría de 9 de 13 requerida por la carta de Denver.">
+            Council passed a bill to prohibit encampment sweeps when temperatures drop below freezing. Mayor Johnston vetoed it. The override attempt got 7 votes -- a majority of council -- but fell 2 votes short of the 9-of-13 supermajority required by Denver's charter. A standard two-thirds threshold (8 votes) would have overridden the veto.
+          </p>
+          <div class="vote-card__tags">
+            <span class="tag tag--housing" data-en="Housing" data-es="Vivienda">Housing</span>
+            <span class="tag tag--safety" data-en="Public Safety" data-es="Seguridad Pública">Public Safety</span>
+          </div>
+          <div class="vote-card__platform">
+            <span data-en="Denver For All position: FOR moratorium" data-es="Posición de Denver Para Todos: A FAVOR de la moratoria"><strong>Denver For All position:</strong> FOR moratorium</span>
+            <span class="vote-match vote-match--partial" data-en="Council majority aligned, vetoed" data-es="Mayoría del concejo alineada, vetada">Council majority aligned, vetoed</span>
+          </div>
+        </div>
+
+        <div class="vote-card vote-card--good">
+          <div class="vote-card__header">
+            <div class="vote-card__result">
+              <span class="vote-result vote-result--pass" data-en="PASSED unanimously" data-es="APROBADO por unanimidad">PASSED unanimously</span>
+            </div>
+            <span class="vote-card__date">Feb 2025</span>
+          </div>
+          <h3 data-en="Fair Elections Fund Reforms (CB24-1676)" data-es="Reformas del Fondo de Elecciones Justas (CB24-1676)">Fair Elections Fund Reforms (CB24-1676)</h3>
+          <p data-en="Council unanimously approved reforms to Denver's Fair Elections Fund: banning anonymous donations, requiring neutral debate participation for recipients, enabling campaign finance investigations, and equalizing contribution limits. Strengthens small-donor democracy." data-es="El Concejo aprobó por unanimidad reformas al Fondo de Elecciones Justas de Denver: prohibir donaciones anónimas, requerir participación en debates neutrales, habilitar investigaciones de finanzas de campaña e igualar límites de contribución.">
+            Council unanimously approved reforms to Denver's Fair Elections Fund: banning anonymous donations, requiring neutral debate participation for recipients, enabling campaign finance investigations, and equalizing contribution limits. Strengthens small-donor democracy.
+          </p>
+          <div class="vote-card__tags">
+            <span class="tag tag--democracy" data-en="Democracy" data-es="Democracia">Democracy</span>
+          </div>
+          <div class="vote-card__platform">
+            <span data-en="Denver For All position: FOR reforms" data-es="Posición de Denver Para Todos: A FAVOR de las reformas"><strong>Denver For All position:</strong> FOR reforms</span>
+            <span class="vote-match vote-match--yes" data-en="Council aligned" data-es="Concejo alineado">Council aligned</span>
+          </div>
+        </div>
+
+        <div class="vote-card vote-card--bad">
+          <div class="vote-card__header">
+            <div class="vote-card__result">
+              <span class="vote-result vote-result--fail" data-en="PASSED 10-1" data-es="APROBADO 10-1">PASSED 10-1</span>
+            </div>
+            <span class="vote-card__date">2022</span>
+          </div>
+          <h3 data-en="ShotSpotter Acoustic Surveillance Contract Renewal ($4.7M)" data-es="Renovación del Contrato de Vigilancia Acústica ShotSpotter ($4.7M)">ShotSpotter Acoustic Surveillance Contract Renewal ($4.7M)</h3>
+          <p data-en="Council approved a $4.7 million ShotSpotter contract extension despite testimony from nearly two dozen community members opposing it. Sensors are concentrated in low-income neighborhoods and communities of color -- Montbello, East Colfax, North Park Hill, Five Points, and Lincoln Park. Independent studies have found no consistent evidence that acoustic surveillance reduces gun violence." data-es="El Concejo aprobó una extensión de contrato de ShotSpotter de $4.7 millones a pesar del testimonio de casi dos docenas de miembros de la comunidad oponiéndose. Los sensores están concentrados en vecindarios de bajos ingresos y comunidades de color.">
+            Council approved a $4.7 million ShotSpotter contract extension despite testimony from nearly two dozen community members opposing it. Sensors are concentrated in low-income neighborhoods and communities of color -- Montbello, East Colfax, North Park Hill, Five Points, and Lincoln Park. Independent studies have found no consistent evidence that acoustic surveillance reduces gun violence.
+          </p>
+          <div class="vote-card__tags">
+            <span class="tag tag--safety" data-en="Public Safety" data-es="Seguridad Pública">Public Safety</span>
+          </div>
+          <div class="vote-card__platform">
+            <span data-en="Denver For All position: AGAINST renewal" data-es="Posición de Denver Para Todos: EN CONTRA de la renovación"><strong>Denver For All position:</strong> AGAINST renewal</span>
+            <span class="vote-match vote-match--no" data-en="Council misaligned" data-es="Concejo desalineado">Council misaligned</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="scorecard-note">
+        <p data-en="This scorecard tracks verified council votes on issues aligned with the Denver For All platform. It will expand as more votes are documented. The council_votes database schema is ready -- contribute data or corrections on GitHub." data-es="Esta tarjeta de puntuación rastrea votos verificados del concejo en temas alineados con la plataforma de Denver Para Todos. Se expandirá a medida que se documenten más votos. El esquema de base de datos council_votes está listo -- contribuye datos o correcciones en GitHub.">
+          This scorecard tracks verified council votes on issues aligned with the Denver For All platform. It will expand as more votes are documented. The <code>council_votes</code> database schema is ready -- contribute data or corrections on GitHub.
+        </p>
+      </div>
+
+      <!-- The Pattern -->
+      <div class="pattern-box">
+        <h3 data-en="The Pattern" data-es="El Patrón">The Pattern</h3>
+        <p data-en="When the council votes progressively, the mayor overrides them. When the council votes regressively, the mayor signs." data-es="Cuando el concejo vota progresivamente, el alcalde los anula. Cuando el concejo vota regresivamente, el alcalde firma.">
+          When the council votes progressively, the mayor overrides them. When the council votes regressively, the mayor signs.
+        </p>
+        <div class="pattern-items">
+          <div class="pattern-item">
+            <span class="pattern-icon">12-0</span>
+            <span data-en="Council votes against Flock cameras → Mayor bypasses with below-threshold contract" data-es="Concejo vota contra cámaras Flock → Alcalde elude con contrato bajo el umbral">Council votes against Flock cameras → Mayor bypasses with below-threshold contract</span>
+          </div>
+          <div class="pattern-item">
+            <span class="pattern-icon">7-6</span>
+            <span data-en="Council majority passes freezing sweeps ban → Mayor vetoes, override threshold too high" data-es="Mayoría del concejo aprueba prohibición de barridos en heladas → Alcalde veta, umbral de anulación demasiado alto">Council majority passes freezing sweeps ban → Mayor vetoes, override threshold too high</span>
+          </div>
+          <div class="pattern-item">
+            <span class="pattern-icon">10-1</span>
+            <span data-en="Council approves $4.7M ShotSpotter in communities of color → Mayor signs" data-es="Concejo aprueba $4.7M de ShotSpotter en comunidades de color → Alcalde firma">Council approves $4.7M ShotSpotter in communities of color → Mayor signs</span>
+          </div>
+        </div>
+        <p class="pattern-conclusion" data-en="This is why Denver For All supports charter reform: lowering the veto threshold, requiring council approval for surveillance contracts, and reducing the $500K contract review threshold." data-es="Por esto Denver Para Todos apoya la reforma de la carta: bajar el umbral de veto, requerir aprobación del concejo para contratos de vigilancia y reducir el umbral de revisión de contratos de $500K.">
+          This is why Denver For All supports <a href="/platform/government-transparency">charter reform</a>: lowering the veto threshold, requiring council approval for surveillance contracts, and reducing the $500K contract review threshold.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Campaign Finance (Coming Soon) -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="Campaign Finance Tracker" data-es="Rastreador de Finanzas de Campaña">Campaign Finance Tracker</h2>
+        <p data-en="Interactive visualization of who funds Denver's politicians. Coming soon." data-es="Visualización interactiva de quién financia a los políticos de Denver. Próximamente.">
+          Interactive visualization of who funds Denver's politicians. Coming soon.
+        </p>
+      </div>
+      <div class="finance-placeholder">
+        <h3 data-en="In Development" data-es="En Desarrollo">In Development</h3>
+        <ul>
+          <li data-en="Contribution data for all 13 council districts + at-large + mayor" data-es="Datos de contribuciones para los 13 distritos del concejo + general + alcalde">Contribution data for all 13 council districts + at-large + mayor</li>
+          <li data-en="Filter by donor type: developers, landlords, PACs, corporations, individuals" data-es="Filtrar por tipo de donante: desarrolladores, propietarios, PACs, corporaciones, individuos">Filter by donor type: developers, landlords, PACs, corporations, individuals</li>
+          <li data-en="Cross-reference donations with voting records" data-es="Cruzar donaciones con registros de votación">Cross-reference donations with voting records</li>
+          <li data-en="Downloadable datasets for journalists and researchers" data-es="Conjuntos de datos descargables para periodistas e investigadores">Downloadable datasets for journalists and researchers</li>
+        </ul>
+        <p class="finance-source" data-en="Data source: Colorado TRACER campaign finance system + Denver Clerk & Recorder public filings" data-es="Fuente de datos: Sistema TRACER de finanzas de campaña de Colorado + Registros públicos del Secretario de Denver">
+          Data source: Colorado TRACER campaign finance system + Denver Clerk & Recorder public filings
+        </p>
       </div>
     </div>
   </section>
@@ -45,23 +176,220 @@ import Layout from '../../layouts/Layout.astro';
   .hero-mini h1 { color: white; margin-bottom: 1rem; }
   .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
 
-  .tool-placeholder {
-    min-height: 500px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  .section-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+  .section-header p {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 640px;
+    margin: 0.5rem auto 0;
   }
 
-  .tool-placeholder__inner {
-    max-width: 600px;
+  .votes-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .vote-card {
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    border-left: 4px solid var(--color-border);
+  }
+
+  .vote-card--good { border-left-color: #2d7a2d; }
+  .vote-card--bad { border-left-color: #c53030; }
+
+  .vote-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .vote-result {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+  }
+
+  .vote-result--pass {
+    background: #e8f8e8;
+    color: #2d7a2d;
+  }
+
+  .vote-result--fail {
+    background: #fde8e8;
+    color: #c53030;
+  }
+
+  .vote-card__date {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+
+  .vote-card h3 {
+    font-size: 1.05rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .vote-card > p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.6;
+  }
+
+  .vote-card__tags {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    letter-spacing: 0.03em;
+  }
+
+  .tag--housing { background: #e8f0fe; color: #1a4fa0; }
+  .tag--safety { background: #fde8e8; color: #a02020; }
+  .tag--democracy { background: #f0e8fe; color: #5a20a0; }
+  .tag--immigration { background: #e8fef0; color: #1a7a40; }
+
+  .vote-card__platform {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--color-border);
+    font-size: 0.85rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .vote-match {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+  }
+
+  .vote-match--yes { background: #e8f8e8; color: #2d7a2d; }
+  .vote-match--no { background: #fde8e8; color: #c53030; }
+  .vote-match--partial { background: #fff3e0; color: #b06000; }
+
+  .scorecard-note {
     text-align: center;
-    padding: 3rem;
+    padding: 1.25rem;
     background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    margin-bottom: 2rem;
+  }
+
+  .scorecard-note p {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    margin: 0;
+  }
+
+  .scorecard-note code {
+    background: var(--color-bg-card);
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.8rem;
+  }
+
+  .pattern-box {
+    padding: 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 2px solid var(--color-primary);
+  }
+
+  .pattern-box h3 {
+    text-align: center;
+    margin-bottom: 0.75rem;
+    color: var(--color-primary);
+  }
+
+  .pattern-box > p {
+    text-align: center;
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .pattern-items {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .pattern-item {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-md);
+    font-size: 0.9rem;
+  }
+
+  .pattern-icon {
+    flex-shrink: 0;
+    font-weight: 800;
+    font-size: 1.1rem;
+    color: var(--color-primary);
+    width: 40px;
+    text-align: center;
+  }
+
+  .pattern-conclusion {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  .pattern-conclusion a {
+    color: var(--color-primary);
+    font-weight: 600;
+  }
+
+  .finance-placeholder {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2.5rem;
+    background: var(--color-bg-card);
     border-radius: var(--radius-lg);
     border: 2px dashed var(--color-border);
   }
 
-  .tool-placeholder__inner h2 { color: var(--color-primary); margin-bottom: 1rem; }
-  .tool-placeholder__inner ul { text-align: left; margin: 1rem 0; padding-left: 1.5rem; }
-  .tool-placeholder__inner li { margin-bottom: 0.5rem; color: var(--color-text-muted); }
+  .finance-placeholder h3 { color: var(--color-primary); margin-bottom: 1rem; }
+  .finance-placeholder ul { text-align: left; margin: 1rem 0; padding-left: 1.5rem; }
+  .finance-placeholder li { margin-bottom: 0.5rem; color: var(--color-text-muted); font-size: 0.9rem; }
+
+  .finance-source {
+    font-size: 0.8rem;
+    color: var(--color-text-light);
+    margin-top: 1rem;
+  }
 </style>

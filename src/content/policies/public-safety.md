@@ -71,6 +71,29 @@ Over 4 years, redirect 25% of police budget ($75M/year) to:
 - Targeted intervention in highest-violence neighborhoods
 - Hospital-based intervention for gunshot victims (prevent retaliation cycles)
 
+### 7. End Mass Surveillance Without Democratic Oversight
+
+Denver's police department operates 111 Flock Safety automatic license plate reader (ALPR) cameras across nearly 70 intersections, photographing over 2 million vehicles per month. This mass surveillance infrastructure was deployed without a council vote, and when democratic accountability was finally exercised, it was overridden.
+
+**What happened with Flock:**
+
+- **May 2025:** Denver City Council voted **12-0** to reject a $666,000 two-year Flock contract extension, responding to massive community opposition.
+- **August 2025:** Mayor Johnston bypassed the council by signing a **$498,509 contract** -- structured deliberately to fall just under the $500,000 threshold that would require council approval. This was not an accident. It was a calculated end-run around democratic oversight.
+- **October 2025:** The mayor extended the contract again through March 2026, this time at no cost to the city -- another mechanism to avoid council review. Close to 700 people packed a town hall to protest. The majority of council members sent a letter to the city auditor asking him not to sign the agreement.
+- **ICE data sharing:** Audit logs obtained through Colorado Open Records Act requests -- which DPD and the mayor's office delayed releasing for over three months -- revealed that Denver's Flock camera data had been searched **more than 1,400 times by ICE** since June 2024. This happened despite repeated assurances from the Johnston administration that no data was shared with immigration enforcement. Nationally, Flock's systems have been used by U.S. Border Patrol across over 82,000 cameras, and in one documented case a Texas sheriff's department used Flock to search across 83,000 cameras to locate a woman who had an abortion.
+- **Councilwoman Flor Alvidrez** stated publicly: "I'm tired of seeing major public safety decisions made behind council's back."
+- **At-large Councilmember Sarah Parady** called Flock "dishonest" and said she was "stunned" by the negotiations conducted without council involvement.
+
+The Flock situation demonstrates exactly why Denver needs a surveillance technology oversight ordinance. When the mayor can deploy mass tracking systems without a vote, structure contracts to dodge review thresholds, and withhold audit logs showing federal immigration access to local data, the city's oversight structure has failed. (See: [Government Transparency & Digital Rights](/platform/government-transparency) for our full surveillance oversight proposal.)
+
+Our demands:
+- **Immediately deactivate** all Flock cameras until a full council vote authorizes their use with binding privacy safeguards
+- **City council approval required** before any surveillance technology is acquired or deployed -- no exceptions, no threshold manipulation
+- **No ICE access** to any Denver surveillance data, with automatic contract termination and criminal referral for violations
+- **ALPR data retention limited to 30 days** -- not indefinite mass tracking of Denver residents' movements
+- **Public audit logs** for all surveillance data access, published monthly, with no three-month delays
+- **Annual public hearings** on all active surveillance systems with community testimony
+
 ### International Evidence: Punishment Doesn't Work. Investment Does.
 
 | Country | Model | Incarceration Rate | Recidivism | Result |
@@ -109,6 +132,12 @@ Doctors carry malpractice insurance. Lawyers can be disbarred. Every profession 
 **"What about Denver's current crime trends?"**
 Denver's crime data is mixed. Violent crime peaked in 2022 and has been declining. Property crime remains elevated. Neither trend correlates with police budget levels -- Denver's police budget has increased consistently while crime rates have fluctuated independently. What does correlate with crime: housing instability, poverty, substance use, and lack of mental health services. That is exactly where we propose redirecting resources.
 
+**"Don't Flock cameras reduce crime and recover stolen vehicles?"**
+Denver attributed 352 arrests and 250 recovered vehicles to Flock cameras, but auto thefts dropped from 12,000 to 8,550 during a period when auto thefts declined nationally regardless of camera presence. Independent research finds no consistent evidence that ALPR camera networks reduce crime (Forbes, 2024). What Flock cameras verifiably do: photograph 2 million vehicles per month, create a mass tracking database of Denver residents' movements, and share that data with ICE over 1,400 times without public knowledge. The question is whether the marginal enforcement benefit justifies a surveillance system the city council unanimously rejected, the mayor imposed unilaterally, and ICE exploited for immigration enforcement in a sanctuary city.
+
+**"Didn't Mayor Johnston add safeguards to the new Flock contract?"**
+The October 2025 contract includes a $100,000 damages clause for Flock data breaches and memoranda of understanding restricting federal immigration access. But a legal expert flagged that the damages clause only applies when Flock is responsible for the breach -- not when another agency misuses the data. More fundamentally: these safeguards were negotiated by the mayor's office behind closed doors, without council involvement, after the council voted 12-0 against the contract. The safeguards themselves are a concession that the surveillance was problematic from the start. The democratic failure is the process, not just the product.
+
 **"Doesn't Denver already have civilian oversight?"**
 Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen Oversight Board. Neither can independently investigate, subpoena records, or impose discipline. They are advisory bodies that review police self-investigations. This is not oversight -- it is observation. Our proposal creates an elected board with actual enforcement power.
 
@@ -122,3 +151,9 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - World Prison Brief. International incarceration rate comparisons.
 - Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)
 - Cure Violence Global. Program evaluation data. (Community violence intervention outcomes.)
+- Denverite. (2025). "Denver extends Flock surveillance cameras despite pushback from city council." Mayor extended contract through March 2026; council rejection; community town hall.
+- ACLU of Colorado. (2025). "Community Organizations and City Leaders Call for Denver Mayor Mike Johnston to Immediately Turn off Flock Cameras." 1,400+ ICE searches; coalition of 15+ civil rights organizations.
+- CBS Colorado. (2025). "Denver extends contract for Flock cameras with new safeguards against sharing with immigration enforcement." New contract terms; $100,000 damages clause; MOU requirements.
+- Colorado Politics. (2025). "Denver mayor extends Flock camera contract against council's wishes." $498,509 contract below $500,000 council threshold; 12-0 council vote against renewal.
+- Denver Gazette. (2025). "As Flock camera network grows, so do privacy and data concerns." Audit logs delayed three months; ICE access documented.
+- Forbes. (2024). "No consistent evidence that ALPR camera networks reduce crime." Independent research on Flock effectiveness claims.

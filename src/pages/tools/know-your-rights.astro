@@ -35,6 +35,10 @@ import Layout from '../../layouts/Layout.astro';
             </button>
           </div>
 
+          <div class="call-status" id="call-status" style="display:none;">
+            <p id="call-status-text"></p>
+          </div>
+
           <div class="chatbot-topics">
             <h3 data-en="Common Questions" data-es="Preguntas Frecuentes">Common Questions</h3>
             <div class="topic-chips">
@@ -139,21 +143,141 @@ import Layout from '../../layouts/Layout.astro';
     padding-top: 1rem;
     border-top: 1px solid var(--color-border);
   }
+
+  .call-status {
+    padding: 1rem;
+    border-radius: var(--radius-lg);
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+  }
+
+  .call-status.status--connecting {
+    background: #e8f4f8;
+    color: var(--color-secondary);
+    border: 1px solid var(--color-secondary);
+  }
+
+  .call-status.status--active {
+    background: #e8f8e8;
+    color: #2d7a2d;
+    border: 1px solid #2d7a2d;
+  }
+
+  .call-status.status--error {
+    background: #fde8e8;
+    color: #c53030;
+    border: 1px solid #c53030;
+  }
+
+  .btn--call-active {
+    background: #c53030 !important;
+    border-color: #c53030 !important;
+    color: white !important;
+  }
 </style>
 
-<!-- vAPI integration point - replace ASSISTANT_ID with actual vAPI assistant ID -->
+<!-- VAPI Tenant Rights Assistant Integration -->
 <script>
-  // vAPI Web SDK will be loaded here when assistant is configured
-  // See /vapi/assistant-config.json for setup details
-  //
-  // import Vapi from '@vapi-ai/web';
-  // const vapi = new Vapi('YOUR_PUBLIC_KEY');
-  //
-  // document.getElementById('start-call')?.addEventListener('click', () => {
-  //   vapi.start('ENGLISH_ASSISTANT_ID');
-  // });
-  //
-  // document.getElementById('start-call-es')?.addEventListener('click', () => {
-  //   vapi.start('SPANISH_ASSISTANT_ID');
-  // });
+  (function() {
+    var ASSISTANT_ID = 'cc8bd3ab-fa8e-4f15-b327-fc8e8098405a';
+    var vapiInstance = null;
+    var callActive = false;
+
+    // Load VAPI SDK from CDN
+    var script = document.createElement('script');
+    script.src = 'https://cdn.jsdelivr.net/gh/VapiAI/html-script-tag@latest/dist/assets/index.js';
+    script.defer = true;
+    script.async = true;
+    document.head.appendChild(script);
+
+    script.onload = function() {
+      if (window.vapiSDK) {
+        vapiInstance = window.vapiSDK.run({
+          apiKey: '681f6772-b3b2-4ab1-a90b-81670bc5ed31',
+          assistant: ASSISTANT_ID,
+          config: {
+            position: 'bottom-right',
+            offset: '40px',
+            width: '50px',
+            height: '50px',
+            idle: {
+              color: 'rgb(13, 115, 119)',
+              type: 'pill',
+              title: 'Tenant Rights',
+              subtitle: 'Tap to talk',
+              icon: 'https://unpkg.com/lucide-static@0.321.0/icons/phone.svg',
+            },
+            loading: {
+              color: 'rgb(30, 95, 166)',
+              type: 'pill',
+              title: 'Connecting...',
+              subtitle: 'Please wait',
+              icon: 'https://unpkg.com/lucide-static@0.321.0/icons/loader-2.svg',
+            },
+            active: {
+              color: 'rgb(220, 60, 60)',
+              type: 'pill',
+              title: 'Call Active',
+              subtitle: 'Tap to end',
+              icon: 'https://unpkg.com/lucide-static@0.321.0/icons/phone-off.svg',
+            },
+          },
+        });
+      }
+    };
+
+    // Helper: find and click the VAPI widget button
+    function triggerVapiCall() {
+      // Try to find the VAPI floating button and click it
+      var vapiBtn = document.querySelector('.vapi-btn') ||
+                    document.querySelector('[id*="vapi"]') ||
+                    document.querySelector('button[style*="position: fixed"]');
+      if (vapiBtn) {
+        vapiBtn.click();
+        showStatus('Connecting to tenant rights assistant...', 'connecting');
+        return true;
+      }
+      return false;
+    }
+
+    function showStatus(msg, type) {
+      var statusEl = document.getElementById('call-status');
+      var textEl = document.getElementById('call-status-text');
+      if (statusEl && textEl) {
+        textEl.textContent = msg;
+        statusEl.className = 'call-status status--' + type;
+        statusEl.style.display = msg ? 'block' : 'none';
+      }
+    }
+
+    // Button handlers
+    function handleCallClick(e) {
+      e.preventDefault();
+      if (!triggerVapiCall()) {
+        // Fallback if VAPI widget hasn't loaded
+        showStatus(
+          'Voice assistant is loading. If it does not connect, call Colorado Legal Services at (303) 837-1321 for immediate tenant rights help.',
+          'connecting'
+        );
+        // Retry after a short delay for SDK to load
+        setTimeout(function() {
+          if (!triggerVapiCall()) {
+            showStatus(
+              'For immediate tenant rights help, call Colorado Legal Services at (303) 837-1321. You can also call Denver 311 for city services.',
+              'error'
+            );
+          }
+        }, 3000);
+      }
+    }
+
+    document.getElementById('start-chat')?.addEventListener('click', handleCallClick);
+    document.getElementById('start-call')?.addEventListener('click', handleCallClick);
+    document.getElementById('start-call-es')?.addEventListener('click', handleCallClick);
+
+    // Topic chips trigger a call
+    document.querySelectorAll('.topic-chip').forEach(function(chip) {
+      chip.addEventListener('click', handleCallClick);
+    });
+  })();
 </script>

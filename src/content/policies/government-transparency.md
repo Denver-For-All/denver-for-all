@@ -113,6 +113,56 @@ Publishing data and requiring public input before deploying surveillance adds da
 **"Algorithmic tools are objective and remove human bias."**
 Algorithms encode the biases of their training data. Predictive policing systems trained on historical arrest data will target the same neighborhoods that were over-policed in the past -- predominantly Black and Latino communities -- regardless of where crime actually occurs. The Chicago Police Department's "Strategic Subject List" and the LAPD's PredPol system were both abandoned after evidence showed they reinforced racial disparities without improving public safety (MIT Technology Review, 2019). Denver deploys ShotSpotter sensors overwhelmingly in communities of color. Without independent audits and bias testing, algorithmic systems launder human prejudice through a veneer of technological objectivity.
 
+## State-Level Strategy: Levers Beyond City Hall
+
+Denver is a home rule municipality under Article XX of the Colorado Constitution, which means the state generally cannot dictate Denver's internal governance structure. But the state can -- and should -- act on issues that rise to statewide concern: civil rights, privacy, campaign finance, and democratic accountability. Here are the state-level levers that would directly strengthen Denver's ability to implement the reforms above.
+
+### Lift the Rent Control Preemption
+
+Colorado Revised Statutes Section 38-12-301 (the Rental Housing Act of 1981) prohibits all local rent control ordinances statewide. Denver cannot implement rent stabilization until this preemption is lifted.
+
+- **HB 23-1115** passed the Colorado House but died in the Senate Local Government & Housing Committee by a vote of 3-4. A single Democratic senator (Dylan Roberts) voted with three Republicans to kill it.
+- Governor Polis has publicly opposed rent control and threatened to veto any repeal.
+- **Ballot initiative strategy:** A voter-initiated measure to repeal C.R.S. 38-12-301 would bypass the governor entirely. Colorado allows citizen-initiated statutes with sufficient petition signatures. This is the most viable path given gubernatorial opposition.
+- **Interim protections that have passed (2025):** HB25-1004 (banning algorithmic rent coordination like RealPage), HB25-1090 (junk fee transparency), HB25-1249 (security deposit return), SB25-020 (landlord-tenant enforcement).
+
+### Pass a State Surveillance Oversight Law
+
+Colorado has no law requiring city council approval before police departments acquire surveillance technology. This is the structural gap that allowed Mayor Johnston to deploy Flock cameras without a vote and bypass the council after they voted 12-0 against renewal.
+
+- **California's AB 481** (enacted 2021) requires legislative body approval for all law enforcement surveillance and military-grade equipment acquisitions. Annual reporting, public comment periods, and use policies are mandatory. 26 jurisdictions nationwide have adopted similar CCOPS (Community Control Over Police Surveillance) ordinances.
+- Colorado has existing precedent: **SB 22-113** already requires city council notification for facial recognition. **HB 24-1130** regulates biometric data. A comprehensive surveillance oversight bill framed as a civil rights and privacy measure (statewide concern) would likely survive home rule challenges.
+- **The Flock situation is the case study:** If a state law had required council approval for ALPR acquisitions, Mayor Johnston could not have deployed the cameras unilaterally, and the $498,509 threshold-dodging contract would have been illegal.
+
+### Reintroduce Dark Money and Lobbyist Reform (SB25-148)
+
+Senator Mike Weissman's **SB25-148** would have banned year-round lobbyist contributions (currently only banned during session), required 24-hour reporting of independent expenditures over $1,000, and mandated that federal PACs contributing to Colorado elections disclose their top donors. It failed 3-2 in the Senate State, Veterans, & Military Affairs Committee -- a single Democratic defection killed it.
+
+- Colorado lobbyists self-reported nearly $500,000 in contributions to statehouse candidates during the 2024 cycle.
+- In November 2025, the Independent Ethics Commission unanimously advanced ethics complaints against 17 Democratic state legislators for allegedly accepting luxury resort expenses at an October gathering with lobbyists in Vail ($32,671.15 total).
+- Reintroduction in 2026 with broader coalition support is viable. The ethics complaints against sitting legislators have created public momentum for reform.
+
+### Denver Charter Amendment Targets
+
+These changes require a ballot measure approved by Denver voters, not state legislation. But state-level advocacy organizations and a grassroots campaign can build support.
+
+1. **Lower the veto override threshold** from 9-of-13 (69%) to 8-of-13 (62%, a standard two-thirds). The current threshold means the mayor only needs 5 allies to sustain any veto -- making the council structurally weak.
+2. **Require council approval for all surveillance and AI technology contracts** regardless of dollar amount. No threshold manipulation.
+3. **Lower the general contract approval threshold** from $500,000. The current threshold is what Johnston exploited to sign the $498,509 Flock contract.
+4. **Require council confirmation** of key mayoral cabinet appointments (Chief of Police, Director of Public Safety, Manager of Public Works).
+
+### What Denver Can Already Do Without the State
+
+Not everything requires state permission. Denver's home rule authority already allows:
+
+- **Surveillance oversight ordinance:** Denver can require council approval for surveillance tech acquisitions right now. No state law prevents this.
+- **Minimum wage increases:** HB 19-1210 (2019) repealed the state preemption on local minimum wages. Denver can raise to $25/hr with phased annual increases.
+- **Fair Elections Fund expansion:** Denver can add democracy vouchers, lower contribution limits further, and ban corporate contributions for all candidates (not just Fair Elections Fund participants).
+- **Ethics reform:** Denver can close the $25 "trivial value" gift loophole, impose aggregate caps, and strengthen the two-year revolving door restriction.
+- **Paid leave and labor protections:** No state preemption exists on most local labor ordinances. Sectoral bargaining, right to disconnect, gig worker protections, and works councils are all within Denver's authority.
+
+The barrier is not legal authority -- it is political will and the concentration of executive power in the mayor's office. That is why charter reform and state-level structural changes matter.
+
 ## References
 
 - Denver Gazette. (2025). "As Flock camera network grows, so do privacy and data concerns." Flock audit logs showed 1,400+ ICE searches of Denver data since June 2024; Mayor Johnston signed $498,509 contract below council approval threshold.
@@ -123,3 +173,12 @@ Algorithms encode the biases of their training data. Predictive policing systems
 - Denver Board of Ethics. (2024). Denver Code of Ethics, revised April 2024. Gift exceptions for items of "trivial value" ($25 or less); coffee loophole established 2017.
 - Brennan Center for Justice. (2024). "New York State's Public Campaign Financing Program Empowers Constituent Small Donors." Small donor participation doubled; large donations dropped from 70% to 38% of funding.
 - Georgetown University McCabe Center. (2023). "Vouching for Democracy: New Report Examines the Seattle Program Fighting Big Money's Influence on Politics." 106,000+ voucher users; fivefold increase in donor participation; demographics mirror city population.
+- Colorado General Assembly. HB 23-1115. "Repeal Prohibition Local Residential Rent Control." Passed House; killed 3-4 in Senate Local Government & Housing Committee. One Democratic defection.
+- Colorado General Assembly. SB25-148. "Modifications to Campaign Finance Requirements." Postponed indefinitely 3-2 in Senate State, Veterans, & Military Affairs Committee, March 2025.
+- Colorado General Assembly. SB 22-113. "Artificial Intelligence Facial Recognition." Enacted 2022. Requires legislative body notification for facial recognition use.
+- Colorado General Assembly. HB 24-1130. "Privacy of Biometric Identifiers & Data." Signed May 2024; effective July 2025. Written consent required for biometric data collection.
+- Colorado General Assembly. HB 19-1210. "Local Government Minimum Wage." Signed 2019. Repealed state preemption of local minimum wage laws.
+- California Legislature. AB 481. "Law Enforcement and State Agencies: Military Equipment: Funding, Acquisition, and Use." Enacted 2021. Model for statewide surveillance oversight.
+- ACLU. "Community Control Over Police Surveillance." 26 jurisdictions with CCOPS ordinances as of 2025.
+- Colorado Independent Ethics Commission. (2025). Ethics complaints against 17 legislators advanced for investigation; lobbyist gift allegations at Vail resort.
+- Denver City Charter. Article II (Mayor), Article III (City Council). Veto override threshold: 9-of-13 (69%). Contract approval threshold: $500,000.

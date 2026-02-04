@@ -18,6 +18,8 @@ const policies = defineCollection({
       'infrastructure',
       'justice',
       'democracy',
+      'economy',
+      'community',
     ]),
     icon: z.string(),
     order: z.number(),

@@ -64,7 +64,7 @@ This makes speculation increasingly expensive while giving owners reasonable tim
 
 | City/Country | Model | Result |
 |-------------|-------|--------|
-| **Vancouver, Canada** | 1% Empty Homes Tax (2017), increased to 3% (2023). | Vacancy rate dropped 25% in first year. Generated $86M CAD in revenue. Thousands of units returned to rental market. |
+| **Vancouver, Canada** | 1% Empty Homes Tax (2017), increased to 3% (2021). | Vacancy rate dropped 25% in first year. Generated $170M+ CAD in cumulative revenue (2017-2023). Thousands of units returned to rental market. |
 | **Melbourne, Australia** | 1% Vacant Residential Land Tax on properties vacant 6+ months. | Revenue dedicated to affordable housing. Vacant properties decreased measurably. |
 | **Paris, France** | *Taxe sur les logements vacants* - progressive tax on homes vacant 1+ years. | Vacancies in Paris decreased. Revenue funds social housing construction. |
 | **UK (various councils)** | Council tax surcharge of up to 300% on long-term empty properties. | Thousands of empty homes brought back into use. |

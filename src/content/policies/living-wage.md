@@ -11,7 +11,7 @@ status: "draft"
 
 ## The Problem
 
-Denver's current minimum wage (~$18.29/hr in 2025) is marketed as progressive. It isn't. The MIT Living Wage Calculator for Denver County shows:
+Denver's current minimum wage (~$18.81/hr in 2025) is marketed as progressive. It isn't. The MIT Living Wage Calculator for Denver County shows:
 
 - **1 adult, 0 children:** $21-22/hr needed
 - **2 adults (both working), 2 children:** $25-26/hr needed
@@ -23,7 +23,7 @@ Meanwhile, Denver's economy generates enormous wealth. The question is not wheth
 
 ### What Denver Currently Does
 
-Denver's minimum wage is $18.29/hr as of January 2025, following annual increases that began with a 2019 voter-approved ordinance. Denver's minimum wage is among the highest municipal rates in the country but still falls $6-7/hr short of what MIT's Living Wage Calculator identifies as necessary for a family of four (livingwage.mit.edu, accessed 2024). Approximately 20-25% of Denver workers earn between $18 and $25/hr (Bureau of Labor Statistics, Occupational Employment and Wage Statistics, Denver-Aurora-Lakewood MSA, 2023).
+Denver's minimum wage is $18.81/hr as of January 2025, following annual increases that began with a 2019 voter-approved ordinance. Denver's minimum wage is among the highest municipal rates in the country but still falls $6-7/hr short of what MIT's Living Wage Calculator identifies as necessary for a family of four (livingwage.mit.edu, accessed 2024). Approximately 20-25% of Denver workers earn between $18 and $25/hr (Bureau of Labor Statistics, Occupational Employment and Wage Statistics, Denver-Aurora-Lakewood MSA, 2023).
 
 ## Our Solution
 

@@ -18,7 +18,7 @@ Denver deposits hundreds of millions of taxpayer dollars in Wall Street banks - 
 - Have been repeatedly fined for fraud, market manipulation, and consumer abuse
 - Extract wealth from Denver and send it to shareholders in New York
 
-Meanwhile, 6% of Denver households are unbanked and 18% are underbanked (FDIC National Survey of Unbanked and Underbanked Households, 2023). Check-cashing services and payday lenders prey on low-income communities, charging fees that trap people in cycles of debt.
+Meanwhile, 4.2% of US households are unbanked and 14.2% are underbanked (FDIC National Survey of Unbanked and Underbanked Households, 2023), with higher rates in communities of color. Check-cashing services and payday lenders prey on low-income communities, charging fees that trap people in cycles of debt.
 
 ### What Denver Currently Does
 
@@ -56,7 +56,7 @@ A publicly owned, city-chartered bank modeled on the Bank of North Dakota (opera
 | Institution | Country | Founded | Assets | Result |
 |------------|---------|---------|--------|--------|
 | **Germany's Sparkassen** (400+ public savings banks) | Germany | 1800s | €1.4 trillion total | Serve 50 million customers. Largest banking sector in Germany. Legally required to serve the public interest. Profits reinvested locally. Credit to small businesses at rates Wall Street won't match. |
-| **Bank of North Dakota** | USA | 1919 | $10B+ | Only public bank in the US. 100+ years, zero losses, returned $100M+/year to state. ND has lowest bank failure rate nationally. Survived Depression, 2008, COVID. |
+| **Bank of North Dakota** | USA | 1919 | ~$7B+ | Only public bank in the US. 100+ years, zero losses, returned $100M+/year to state. ND has lowest bank failure rate nationally. Survived Depression, 2008, COVID. |
 | **KfW (Kreditanstalt für Wiederaufbau)** | Germany | 1948 | €546 billion | Government development bank. Funds green energy, affordable housing, SMEs. Key driver of Germany's Energiewende (energy transition). |
 | **Japan Post Bank** | Japan | 2006 (restructured) | ¥224 trillion | Largest deposit holder in the world. Universal access - branch in every community. Financial inclusion for rural and underserved populations. |
 | **Costa Rica's Banco Nacional** | Costa Rica | 1914 | Public/mixed | Largest bank in Central America. Public bank finances development while private banks serve elites. |
@@ -91,7 +91,7 @@ The Bank of North Dakota has a 100+ year track record with zero loss years. Publ
 
 ## References
 
-- FDIC National Survey of Unbanked and Underbanked Households. (2023). Denver metro data. (6% unbanked, 18% underbanked.)
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
 - Bank of North Dakota. Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
 - California AB 857. (2019). Public Banking Act enabling legislation.
 - German Sparkassen (Savings Banks Association). Financial reports. (€1.4 trillion assets, 50M customers.)

@@ -24,9 +24,9 @@ When Blackstone, Invitation Homes, or Progress Residential buys a home in your n
 
 ### What Denver Currently Does
 
-Denver has **no restrictions on institutional ownership of residential property**. Nationally, institutional investors purchased approximately 26% of single-family homes sold in 2023 (Redfin data). In Denver specifically, Invitation Homes (owned by Blackstone) is one of the largest single-family landlords, with hundreds of properties in the metro area. Progress Residential and American Homes 4 Rent also maintain significant Denver portfolios.
+Denver has **no restrictions on institutional ownership of residential property**. Nationally, investors purchased approximately 26% of low-priced single-family homes sold in 2023, and about 18.5% of all homes sold (Redfin data). In Denver specifically, Invitation Homes (owned by Blackstone) is one of the largest single-family landlords, with hundreds of properties in the metro area. Progress Residential and American Homes 4 Rent also maintain significant Denver portfolios.
 
-In October 2022, the U.S. Department of Justice filed a civil antitrust lawsuit against RealPage, alleging its algorithmic pricing software enabled landlords to coordinate above-market rent increases -- effectively constituting price-fixing. Multiple Denver-area property management companies have been identified as RealPage clients.
+In August 2024, the U.S. Department of Justice filed a civil antitrust lawsuit against RealPage, alleging its algorithmic pricing software enabled landlords to coordinate above-market rent increases -- effectively constituting price-fixing. (Private class-action lawsuits were filed beginning in late 2022.) Multiple Denver-area property management companies have been identified as RealPage clients.
 
 ## Our Solution
 

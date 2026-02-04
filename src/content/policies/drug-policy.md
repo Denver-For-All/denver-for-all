@@ -22,7 +22,7 @@ Denver specifically faces an opioid/fentanyl crisis that law enforcement cannot 
 
 ### What Denver Currently Does
 
-Denver has some harm reduction infrastructure but treats drug use primarily as a criminal matter. The city decriminalized psilocybin via Proposition 301 in 2019, and Colorado passed Proposition 122 in 2022 legalizing therapeutic psychedelics. But for the substances driving the actual crisis -- fentanyl, methamphetamine, heroin -- the approach remains enforcement-first.
+Denver has some harm reduction infrastructure but treats drug use primarily as a criminal matter. The city decriminalized psilocybin via Initiated Ordinance 301 in 2019, and Colorado passed Proposition 122 in 2022 legalizing therapeutic psychedelics. But for the substances driving the actual crisis -- fentanyl, methamphetamine, heroin -- the approach remains enforcement-first.
 
 Denver reported 827 unintentional drug poisoning deaths in 2023 (Denver Office of the Medical Examiner, 2024). Fentanyl was involved in 64% of those deaths. Denver Police made 2,800+ drug-related arrests in 2023, but overdose deaths have continued to rise year over year. The enforcement approach is not producing results.
 

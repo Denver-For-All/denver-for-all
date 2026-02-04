@@ -39,7 +39,10 @@
       "education": "Education",
       "immigration": "Immigration",
       "infrastructure": "Infrastructure & Services",
-      "justice": "Criminal Justice"
+      "justice": "Criminal Justice",
+      "democracy": "Democracy & Governance",
+      "economy": "Small Business & Economy",
+      "community": "Community & Culture"
     }
   },
   "runForDenver": {

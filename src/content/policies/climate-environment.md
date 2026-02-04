@@ -1,8 +1,8 @@
 ---
 title: "Climate & Environmental Justice"
 titleEs: "Clima y Justicia Ambiental"
-summary: "Investigate radioactive contamination from Rocky Flats. Remediate lead in Front Range soil and water. 100% renewable city operations by 2030. Environmental justice for frontline communities."
-summaryEs: "Investigar la contaminación radioactiva de Rocky Flats. Remediar el plomo en el suelo y agua del Front Range. Operaciones municipales 100% renovables para 2030. Justicia ambiental para comunidades en primera línea."
+summary: "Investigate radioactive contamination from Rocky Flats affecting Denver. Remediate lead in Denver soil and water. 100% renewable city operations by 2030. Environmental justice for frontline communities."
+summaryEs: "Investigar la contaminación radioactiva de Rocky Flats que afecta a Denver. Remediar el plomo en el suelo y agua de Denver. Operaciones municipales 100% renovables para 2030. Justicia ambiental para comunidades en primera línea."
 category: "climate"
 icon: "leaf"
 order: 30
@@ -19,7 +19,7 @@ The "cleanup" was completed in 2005 and the site was converted to a wildlife ref
 Denver's water supply and the health of residents downwind and downstream of Rocky Flats remain at risk. The federal government has declared the cleanup "complete." It is not.
 
 ### Lead Contamination
-Independent soil sampling throughout the Front Range has found elevated lead levels - in residential areas, near waterways, and above reservoir watersheds. Dam maintenance and construction projects in the area have been impacted by contamination concerns. This is a public health emergency that receives almost no attention.
+Independent soil sampling in Denver neighborhoods and surrounding areas has found elevated lead levels - in residential yards, near waterways, and in watersheds feeding Denver's water supply. Dam maintenance and construction projects upstream of Denver have been impacted by contamination concerns. This is a public health emergency that receives almost no attention.
 
 ### Climate Change
 Denver's air quality regularly exceeds EPA limits -- Denver had 18 "unhealthy" or worse ozone days in 2023 (Colorado DPHE Air Quality Control Commission). Urban heat islands make low-income neighborhoods 10-15°F hotter than wealthy areas with tree cover (Trust for Public Land heat mapping, 2023). Wildfire smoke increasingly blankets the metro area. Water supply faces long-term threats from reduced snowpack.
@@ -34,18 +34,18 @@ However: Denver's climate action has focused heavily on building efficiency and 
 
 ### 1. Rocky Flats Independent Investigation
 - City-funded independent environmental assessment of Rocky Flats contamination pathways - not relying on DOE's self-assessment
-- Comprehensive soil, water, and air sampling in Denver and the downwind/downstream corridor
+- Comprehensive soil, water, and air sampling within Denver, with advocacy for corridor-wide assessment in partnership with neighboring jurisdictions
 - Public health study of cancer rates in affected communities
 - Legal action against the federal government if contamination exceeds safe levels
 - Demand: No public access to Rocky Flats National Wildlife Refuge until independent assessment confirms safety
 - Community health screenings for residents in affected areas
 
-### 2. Front Range Lead Remediation
+### 2. Denver Lead Remediation
 - Comprehensive soil testing program - free testing for any Denver resident's yard
-- Remediation of contaminated public lands and waterways
+- Remediation of contaminated public lands and waterways within Denver
 - Childhood lead screening mandate for all Denver children
 - Drinking water testing and lead pipe replacement (complete within 5 years)
-- Dam and reservoir contamination assessment with public reporting
+- Contamination assessment of watersheds feeding Denver's water supply, with public reporting
 
 ### 3. 100% Renewable City Operations by 2030
 - All city buildings, vehicles, and operations powered by renewable energy

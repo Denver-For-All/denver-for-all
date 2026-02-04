@@ -4,7 +4,7 @@ titleEs: "Comités de Empresa y Codeterminación Laboral"
 summary: "Workers elect councils in every workplace with real power over scheduling, safety, and layoffs. Workers sit on company boards. This is how Germany became an industrial powerhouse - by treating workers as partners, not costs."
 summaryEs: "Los trabajadores eligen comités en cada lugar de trabajo con poder real sobre horarios, seguridad y despidos. Los trabajadores forman parte de las juntas directivas. Así es como Alemania se convirtió en una potencia industrial - tratando a los trabajadores como socios, no como costos."
 category: "labor"
-icon: "🏭"
+icon: "hard-hat"
 order: 14
 status: "draft"
 ---

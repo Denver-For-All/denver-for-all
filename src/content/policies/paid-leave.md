@@ -4,7 +4,7 @@ titleEs: "Licencia Universal con Goce de Sueldo"
 summary: "6 months paid parental leave. 4 weeks paid vacation minimum. Unlimited paid sick days. Every other wealthy country does this. America is the only one that doesn't."
 summaryEs: "6 meses de licencia parental pagada. 4 semanas mínimas de vacaciones pagadas. Días de enfermedad pagados ilimitados. Todos los demás países ricos hacen esto. Estados Unidos es el único que no."
 category: "labor"
-icon: "👶"
+icon: "calendar-check"
 order: 16
 status: "draft"
 ---

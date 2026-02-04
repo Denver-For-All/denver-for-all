@@ -4,7 +4,7 @@ titleEs: "Salario Mínimo de $25"
 summary: "A real living wage for a real city. $25/hr is what a family of four needs to survive in Denver - and it's still not enough for single parents."
 summaryEs: "Un salario digno real para una ciudad real. $25/hora es lo que una familia de cuatro necesita para sobrevivir en Denver - y aún no es suficiente para madres y padres solteros."
 category: "labor"
-icon: "💵"
+icon: "dollar-sign"
 order: 10
 status: "draft"
 ---

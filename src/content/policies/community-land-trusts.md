@@ -4,7 +4,7 @@ titleEs: "Fideicomisos de Tierras Comunitarios Financiados por la Ciudad"
 summary: "Permanently affordable homeownership through community-controlled land. Housing that stays affordable forever, not just until the tax credit expires."
 summaryEs: "Propiedad de vivienda permanentemente asequible a través de tierras controladas por la comunidad. Vivienda que permanece asequible para siempre, no solo hasta que expire el crédito fiscal."
 category: "housing"
-icon: "🌱"
+icon: "sprout"
 order: 6
 status: "draft"
 ---

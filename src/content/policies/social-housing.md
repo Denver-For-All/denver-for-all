@@ -4,7 +4,7 @@ titleEs: "La Ley de Vivienda Social de Denver"
 summary: "10,000 publicly owned, permanently affordable homes. Mixed-income, democratically governed, and funded without raising your taxes."
 summaryEs: "10,000 viviendas de propiedad pública, permanentemente asequibles. De ingresos mixtos, gobernadas democráticamente y financiadas sin aumentar tus impuestos."
 category: "housing"
-icon: "🏠"
+icon: "home"
 order: 1
 status: "draft"
 ---

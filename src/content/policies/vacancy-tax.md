@@ -4,7 +4,7 @@ titleEs: "Impuesto a la Vacancia de Unidades Vacías"
 summary: "Progressive tax on vacant residential properties. You don't get to sit on empty homes while people sleep on the street."
 summaryEs: "Impuesto progresivo sobre propiedades residenciales vacantes. No puedes dejar casas vacías mientras la gente duerme en la calle."
 category: "housing"
-icon: "🏚️"
+icon: "key"
 order: 4
 status: "draft"
 ---

@@ -4,7 +4,7 @@ titleEs: "Derecho a Desconectarse y Semana Laboral de 32 Horas"
 summary: "Your boss can't text you at midnight. Your weekend is yours. And the evidence shows we can work 4 days and produce the same output. France, Iceland, Belgium, and Spain already did it."
 summaryEs: "Tu jefe no puede enviarte mensajes a medianoche. Tu fin de semana es tuyo. Y la evidencia muestra que podemos trabajar 4 días y producir lo mismo. Francia, Islandia, Bélgica y España ya lo hicieron."
 category: "labor"
-icon: "📵"
+icon: "phone-off"
 order: 15
 status: "draft"
 ---

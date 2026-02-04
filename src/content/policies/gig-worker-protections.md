@@ -4,7 +4,7 @@ titleEs: "Protecciones para Trabajadores de Plataformas"
 summary: "If you work in Denver, you deserve Denver's protections. Reclassify gig workers as employees with the ABC test. End the exploitation loophole."
 summaryEs: "Si trabajas en Denver, mereces las protecciones de Denver. Reclasificar a los trabajadores de plataformas como empleados con la prueba ABC. Terminar con la laguna de explotación."
 category: "labor"
-icon: "📱"
+icon: "smartphone"
 order: 12
 status: "draft"
 ---

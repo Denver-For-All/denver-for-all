@@ -4,7 +4,7 @@ titleEs: "Despenalizar y Sanar"
 summary: "Decriminalize all substances for personal use. Redirect enforcement budgets to treatment and recovery. Safe consumption sites. Expunge prior convictions. Harm reduction saves lives."
 summaryEs: "Despenalizar todas las sustancias para uso personal. Redirigir presupuestos de aplicación de la ley a tratamiento y recuperación. Sitios de consumo seguro. Borrar condenas previas. La reducción de daños salva vidas."
 category: "justice"
-icon: "💊"
+icon: "hand-heart"
 order: 70
 status: "draft"
 ---

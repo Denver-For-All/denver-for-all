@@ -4,7 +4,7 @@ titleEs: "Zonas Anti-Desplazamiento"
 summary: "Protect communities around transit stations and development areas. No more building light rail to gentrify neighborhoods."
 summaryEs: "Proteger comunidades alrededor de estaciones de tránsito y áreas de desarrollo. No más construcción de tren ligero para gentrificar vecindarios."
 category: "housing"
-icon: "🛡️"
+icon: "map-pin"
 order: 7
 status: "draft"
 ---

@@ -4,7 +4,7 @@ titleEs: "Cuidado Infantil Universal"
 summary: "Publicly funded childcare from 6 months. Capped at $200/month for any family. Free for low-income. Because no parent should have to choose between working and raising their children."
 summaryEs: "Cuidado infantil financiado públicamente desde los 6 meses. Tope de $200/mes para cualquier familia. Gratis para familias de bajos ingresos. Porque ningún padre debería tener que elegir entre trabajar y criar a sus hijos."
 category: "education"
-icon: "🧒"
+icon: "baby"
 order: 48
 status: "draft"
 ---

@@ -4,7 +4,7 @@ titleEs: "La Salud como un Derecho"
 summary: "Medical debt forgiveness, hospital cost transparency, non-police mental health crisis response, and community health centers in every neighborhood."
 summaryEs: "Condonación de deuda médica, transparencia en costos hospitalarios, respuesta a crisis de salud mental sin policía y centros de salud comunitarios en cada vecindario."
 category: "health"
-icon: "🏥"
+icon: "heart-pulse"
 order: 20
 status: "draft"
 ---

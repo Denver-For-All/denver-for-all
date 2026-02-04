@@ -4,7 +4,7 @@ titleEs: "Seguridad Comunitaria y Reforma Policial"
 summary: "Civilian oversight with subpoena power. Mental health crisis teams, not armed officers. Redirect 25% of police budget to social services. End qualified immunity."
 summaryEs: "Supervisión civil con poder de citación. Equipos de crisis de salud mental, no oficiales armados. Redirigir el 25% del presupuesto policial a servicios sociales. Terminar con la inmunidad calificada."
 category: "safety"
-icon: "🕊️"
+icon: "shield"
 order: 41
 status: "draft"
 ---

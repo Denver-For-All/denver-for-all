@@ -4,7 +4,7 @@ titleEs: "Arte, Cultura y Economía Creativa"
 summary: "Protect artists from displacement. Percent-for-art on new development. Affordable studio and performance space. Cultural district designations. Invest in Denver's creative economy as economic engine."
 summaryEs: "Proteger a los artistas del desplazamiento. Porcentaje para arte en nuevos desarrollos. Espacios de estudio y presentación asequibles. Designaciones de distritos culturales. Invertir en la economía creativa de Denver como motor económico."
 category: "community"
-icon: "🎭"
+icon: "drama"
 order: 81
 status: "draft"
 ---

@@ -4,7 +4,7 @@ titleEs: "Pequeñas Empresas y Economía Local"
 summary: "Streamlined permitting for small businesses. Commercial rent stabilization. Worker cooperative incubator. Local-first city procurement. Micro-loans for BIPOC entrepreneurs. Anti-monopoly enforcement."
 summaryEs: "Permisos simplificados para pequeñas empresas. Estabilización de alquileres comerciales. Incubadora de cooperativas de trabajadores. Adquisiciones municipales con prioridad local. Micropréstamos para emprendedores BIPOC. Aplicación antimonopolio."
 category: "economy"
-icon: "🏪"
+icon: "store"
 order: 75
 status: "draft"
 ---

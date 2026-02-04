@@ -4,7 +4,7 @@ titleEs: "Transporte y Tránsito Público"
 summary: "Free RTD transit for low-income residents. Protected bike lanes on every major corridor. Vision Zero with real enforcement. Parking reform to reduce housing costs. Transit equity for underserved neighborhoods."
 summaryEs: "Tránsito RTD gratuito para residentes de bajos ingresos. Ciclovías protegidas en cada corredor principal. Visión Cero con aplicación real. Reforma de estacionamiento para reducir costos de vivienda. Equidad de tránsito para vecindarios desatendidos."
 category: "infrastructure"
-icon: "🚎"
+icon: "bus"
 order: 62
 status: "draft"
 ---

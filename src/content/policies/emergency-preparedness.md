@@ -4,7 +4,7 @@ titleEs: "Preparación para Emergencias y Resiliencia Climática"
 summary: "Wildfire smoke response plan with clean air shelters in every neighborhood. Extreme heat action plan with cooling centers. Flood preparedness and green stormwater infrastructure. Community resilience hubs. Equitable disaster response."
 summaryEs: "Plan de respuesta al humo de incendios forestales con refugios de aire limpio en cada vecindario. Plan de acción contra calor extremo con centros de enfriamiento. Preparación contra inundaciones e infraestructura verde de aguas pluviales. Centros comunitarios de resiliencia. Respuesta equitativa a desastres."
 category: "safety"
-icon: "🚨"
+icon: "siren"
 order: 42
 status: "draft"
 ---

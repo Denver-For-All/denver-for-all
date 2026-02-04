@@ -4,7 +4,7 @@ titleEs: "Servicios y Oportunidades para Jóvenes"
 summary: "Guaranteed summer jobs for all Denver teens. Year-round youth centers in every district. Youth advisory council with real budget authority. Mental health counselors in every school. Violence intervention programs."
 summaryEs: "Empleos de verano garantizados para todos los adolescentes de Denver. Centros juveniles durante todo el año en cada distrito. Consejo asesor juvenil con autoridad presupuestaria real. Consejeros de salud mental en cada escuela. Programas de intervención contra la violencia."
 category: "education"
-icon: "👦"
+icon: "baby"
 order: 49
 status: "draft"
 ---

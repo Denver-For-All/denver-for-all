@@ -182,3 +182,12 @@ The barrier is not legal authority -- it is political will and the concentration
 - ACLU. "Community Control Over Police Surveillance." 26 jurisdictions with CCOPS ordinances as of 2025.
 - Colorado Independent Ethics Commission. (2025). Ethics complaints against 17 legislators advanced for investigation; lobbyist gift allegations at Vail resort.
 - Denver City Charter. Article II (Mayor), Article III (City Council). Veto override threshold: 9-of-13 (69%). Contract approval threshold: $500,000.
+
+---
+
+**Take action now:** Sign the petitions that advance these reforms -- every signature sends a personalized letter to your own elected officials:
+- [Pass a state surveillance oversight law](https://resist.bot/petitions/PPGCFY) (text "sign PPGCFY" to 50409)
+- [Ban dark money in Colorado elections](https://resist.bot/petitions/PMPSFP) (text "sign PMPSFP" to 50409)
+- [Demand Denver charter reform](https://resist.bot/petitions/PYLQBT) (text "sign PYLQBT" to 50409)
+
+[See all campaigns and letter templates →](/tools/resistbot)

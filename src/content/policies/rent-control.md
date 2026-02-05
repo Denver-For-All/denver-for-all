@@ -98,3 +98,7 @@ A 3% annual increase is sustainable for any competently run rental property. If 
 
 **"The state won't allow it."**
 Colorado's rent control preemption is a political choice, not a constitutional one. We push for repeal at the state level while building the local coalition to implement immediately when preemption lifts. If necessary, we pursue a state ballot initiative.
+
+---
+
+**Take action now:** [Sign the petition to repeal Colorado's rent control ban](https://resist.bot/petitions/PJZTYT) -- or text "sign PJZTYT" to 50409. Every signature sends a personalized letter to your governor and state legislators. [See all campaigns →](/tools/resistbot)

@@ -94,6 +94,8 @@ Our demands:
 - **Public audit logs** for all surveillance data access, published monthly, with no three-month delays
 - **Annual public hearings** on all active surveillance systems with community testimony
 
+**Take action now:** [Sign the petition to turn off Flock cameras](https://resist.bot/petitions/PYOELO) | [Sign the petition for a state surveillance oversight law](https://resist.bot/petitions/PPGCFY) -- or text "sign PYOELO" or "sign PPGCFY" to 50409. Every signature sends a personalized letter to your own elected officials. [See all campaigns →](/tools/resistbot)
+
 ### International Evidence: Punishment Doesn't Work. Investment Does.
 
 | Country | Model | Incarceration Rate | Recidivism | Result |

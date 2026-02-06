@@ -22,7 +22,7 @@ Denver's education system reproduces inequality instead of addressing it. Low-in
 
 Colorado passed Proposition EE (2020) and created the Colorado Department of Early Childhood (CDEC), which now provides Universal Pre-K for 4-year-olds (15 hours/week, with additional hours for qualifying families). This is a significant start, but it covers 4-year-olds only, is part-day for most families, and does not address the full-day, full-year need of working parents. Our proposal expands to include 3-year-olds and provides full-day coverage.
 
-DPS enrolls approximately 90,000 students across 200+ schools, including approximately 60 charter schools (DPS Annual Report, 2024). The district has pursued aggressive portfolio management, closing underperforming schools and expanding charters, with mixed results. Teacher turnover in DPS remains high -- a 2023 Denver Classroom Teachers Association survey found 40%+ of teachers considered leaving within 2 years, with housing costs as the primary reason.
+DPS enrolls approximately 90,000 students across 200+ schools, including approximately 60 charter schools (DPS Annual Report, 2024). The district has pursued aggressive portfolio management, closing underperforming schools and expanding charters, with mixed results. Teacher turnover in DPS remains high. A 2023 Denver Classroom Teachers Association survey found 40%+ of teachers considered leaving within 2 years, with housing costs as the primary reason.
 
 ## Our Solution
 
@@ -41,7 +41,7 @@ DPS enrolls approximately 90,000 students across 200+ schools, including approxi
 
 ### 3. After-School Programs in Every Neighborhood
 - City-funded after-school programs at every DPS elementary and middle school
-- Arts, sports, tutoring, coding, music - not just test prep
+- Arts, sports, tutoring, coding, and music: well-rounded enrichment, well beyond test prep
 - Free for all students, operating until 6 PM
 - Staffed by trained youth workers at living wages
 
@@ -61,7 +61,7 @@ DPS enrolls approximately 90,000 students across 200+ schools, including approxi
 ### 6. Community Schools Model
 - Convert 20 high-need schools to full-service community schools
 - Wrap-around services on-site: health clinic, food pantry, parent education, legal aid, social workers
-- Schools as community hubs, not just test-taking factories
+- Schools that serve as community hubs for the whole neighborhood
 
 ### International Evidence: What Great Education Looks Like
 
@@ -84,7 +84,7 @@ DPS enrolls approximately 90,000 students across 200+ schools, including approxi
 - After-school: $20-25M/year
 - Teacher housing: Integrated into Social Housing Authority budget
 - Community schools: $10-15M/year (with federal Community Schools grants)
-- Total: $85-110M/year - significant, but Denver's budget is $1.6B+
+- Total: $85-110M/year. Significant, but Denver's budget is $1.6B+
 
 ## Frequently Asked Questions
 
@@ -95,7 +95,7 @@ Denver is a consolidated city-county, and DPS operates within it. The city can f
 Choice without equity is just sorting. When charter schools can reject difficult students and traditional public schools cannot, the comparison is rigged. Fund all schools equally first, then talk about choice.
 
 **"Doesn't Colorado already have Universal Pre-K?"**
-Yes -- Colorado's CDEC provides 15 hours/week of Pre-K for 4-year-olds, which is a strong foundation. Our proposal builds on it: extending to 3-year-olds, providing full-day coverage (not just 15 hours/week), and ensuring Pre-K teachers earn living wages at parity with K-12. The state program is a start. We finish the job.
+Yes. Colorado's CDEC provides 15 hours/week of Pre-K for 4-year-olds, which is a strong foundation. Our proposal builds on it: extending to 3-year-olds, providing full-day coverage (beyond the current 15 hours/week), and ensuring Pre-K teachers earn living wages at parity with K-12. The state program is a start. We finish the job.
 
 ## References
 

@@ -13,13 +13,13 @@ status: "draft"
 
 Denver's annual budget exceeds $1.6 billion. Residents have almost no say in how it's spent. City Council holds public hearings that few attend, and the mayor's office drives priorities. The result: budgets reflect the interests of developers, lobbyists, and politically connected groups - not ordinary Denver residents.
 
-Meanwhile, trust in local government is low and declining. People feel -- correctly -- that their voice doesn't matter. Voter turnout in Denver's 2023 municipal election was 38% (Denver Elections Division) -- better than some years, but still means 62% of registered voters stayed home. The system is technically democratic but functionally unresponsive.
+Meanwhile, trust in local government is low and declining. People feel, correctly, that their voice doesn't matter. Voter turnout in Denver's 2023 municipal election was 38% (Denver Elections Division). That is better than some years, but it still means 62% of registered voters stayed home. The system is technically democratic but functionally unresponsive.
 
 ### What Denver Currently Does
 
 Denver has a Neighborhood Engagement division and holds public hearings on the budget, but these are largely performative. The budget is drafted by the mayor's office, presented to council, and public comment periods are limited. Denver has never experimented with participatory budgeting at any scale. Some Denver neighborhoods have informal priority-setting through Registered Neighborhood Organizations (RNOs), but these have no binding authority over budget allocation and tend to be dominated by homeowners and older, wealthier residents.
 
-The contrast with Mike Johnston's approach is instructive: major decisions like the Flock Safety surveillance contract were pushed through without meaningful public engagement. The democratic deficit is not abstract -- it is how the city operates on a routine basis.
+The contrast with Mike Johnston's approach is instructive: major decisions like the Flock Safety surveillance contract were pushed through without meaningful public engagement. The democratic deficit is not abstract; it is how the city operates on a routine basis.
 
 ## Our Solution
 

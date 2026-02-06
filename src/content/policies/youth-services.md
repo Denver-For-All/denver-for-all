@@ -11,11 +11,11 @@ status: "draft"
 
 ## The Problem
 
-Colorado has one of the highest youth suicide rates in the nation -- suicide is the leading cause of death for Colorado youth ages 10-24, with rates 58% above the national average (Colorado Department of Public Health and Environment, 2023). In Denver Public Schools, chronic absenteeism reached 38% in the 2022-23 school year, meaning more than one in three students missed 10% or more of school days (DPS Accountability Reports). The counselor-to-student ratio in DPS is approximately 1:350, well above the American School Counselor Association's recommended 1:250 maximum. For many Denver youth, the adults tasked with supporting their mental health and academic success are stretched impossibly thin.
+Colorado has one of the highest youth suicide rates in the nation. Suicide is the leading cause of death for Colorado youth ages 10-24, with rates 58% above the national average (Colorado Department of Public Health and Environment, 2023). In Denver Public Schools, chronic absenteeism reached 38% in the 2022-23 school year, meaning more than one in three students missed 10% or more of school days (DPS Accountability Reports). The counselor-to-student ratio in DPS is approximately 1:350, well above the American School Counselor Association's recommended 1:250 maximum. For many Denver youth, the adults tasked with supporting their mental health and academic success are stretched impossibly thin.
 
-Youth violence remains a crisis. Denver saw 75 juvenile victims of gun violence in 2023 (Denver Police Department crime data). Black youth are disproportionately affected -- while Black residents make up approximately 9% of Denver's population, Black youth represent a dramatically higher share of both victims and contacts with the juvenile justice system. Latino youth face similar disproportionate contact. The school-to-prison pipeline remains intact: Denver schools referred hundreds of students to law enforcement annually, disproportionately students of color, for offenses that could be handled through restorative practices.
+Youth violence remains a crisis. Denver saw 75 juvenile victims of gun violence in 2023 (Denver Police Department crime data). Black youth are disproportionately affected: while Black residents make up approximately 9% of Denver's population, Black youth represent a dramatically higher share of both victims and contacts with the juvenile justice system. Latino youth face similar disproportionate contact. The school-to-prison pipeline remains intact: Denver schools referred hundreds of students to law enforcement annually, disproportionately students of color, for offenses that could be handled through restorative practices.
 
-An estimated 12-15% of Denver youth ages 16-24 are "disconnected" -- neither in school nor employed (Measure of America, Youth Disconnection series). These are young people falling through every crack in every system. Summer job programs exist but reach a fraction of demand -- Denver's youth employment programs serve roughly 2,000-3,000 teens per summer in a city with over 40,000 high school age residents. After-school programming is concentrated in wealthier neighborhoods, and many rec center youth programs have fees or waitlists that put them out of reach for the families that need them most.
+An estimated 12-15% of Denver youth ages 16-24 are "disconnected," neither in school nor employed (Measure of America, Youth Disconnection series). These are young people falling through every crack in every system. Summer job programs exist but reach a fraction of demand. Denver's youth employment programs serve roughly 2,000-3,000 teens per summer in a city with over 40,000 high school age residents. After-school programming is concentrated in wealthier neighborhoods, and many rec center youth programs have fees or waitlists that put them out of reach for the families that need them most.
 
 ### What Denver Currently Does
 
@@ -38,7 +38,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 
 ### 2. Year-Round Youth Centers
 - Dedicated youth center in every council district (11 centers)
-- Open after school, evenings, and weekends -- hours designed around when youth actually need safe spaces
+- Open after school, evenings, and weekends, with hours designed around when youth actually need safe spaces
 - Programming: homework help, arts, music production, sports, coding, career exploration, cooking
 - Free meals and snacks at every center
 - Mental health counselors on-site
@@ -103,7 +103,7 @@ Investing in youth is the single highest-return public investment a city can mak
 ## Frequently Asked Questions
 
 **"This is DPS's responsibility, not the city's."**
-Youth spend more waking hours outside school than in it. The city has a direct interest in youth outcomes -- youth violence, homelessness, unemployment, and mental health are city problems regardless of who runs the schools. DPS funding alone is insufficient, and the city can supplement where schools cannot reach.
+Youth spend more waking hours outside school than in it. The city has a direct interest in youth outcomes. Youth violence, homelessness, unemployment, and mental health are city problems regardless of who runs the schools. DPS funding alone is insufficient, and the city can supplement where schools cannot reach.
 
 **"Summer jobs programs are make-work."**
 Decades of rigorous evidence disagree. Boston's SuccessLink program shows summer employment reduces violent crime arrests by 35% among participants. NYC's SYEP serves 100,000+ youth and demonstrates improved academic outcomes and work readiness. These are real jobs building real skills with measurable public safety benefits.
@@ -112,7 +112,7 @@ Decades of rigorous evidence disagree. Boston's SuccessLink program shows summer
 Demand for existing Denver youth employment programs exceeds supply every year. When programs are high-quality and youth-designed, participation is overwhelming. The barrier is access and availability, not interest.
 
 **"Youth advisory councils are performative."**
-Most are -- because they have no power. Ours has $5M/year in real budget authority through participatory budgeting. When young people control real resources, they engage meaningfully. The difference between a photo op and genuine youth power is whether the budget is real.
+Most are, because they have no power. Ours has $5M/year in real budget authority through participatory budgeting. When young people control real resources, they engage meaningfully. The difference between a photo op and genuine youth power is whether the budget is real.
 
 **"Violence intervention is soft on crime."**
 Community-based violence intervention reduces violent crime more effectively than incarceration, which has 70%+ recidivism rates for juveniles. Credible messenger programs in cities like New York and Chicago have reduced shootings by 30-60% in target areas. Being smart on crime means investing in what actually works, not what sounds tough.

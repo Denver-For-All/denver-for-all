@@ -11,21 +11,21 @@ status: "draft"
 
 ## The Problem
 
-Nearly one in four Denver households is cost-burdened -- spending more than 30% of income on housing alone. Denver's median household income is approximately $85,000, but the median masks enormous disparity: 12.4% of Denver residents live below the federal poverty line ($31,200 for a family of four), and another 15-20% hover just above it, one emergency away from financial crisis (U.S. Census Bureau, 2023). In neighborhoods like Montbello, Westwood, Sun Valley, and Globeville-Elyria-Swansea, poverty rates exceed 30%. These are working families. They have jobs -- often multiple jobs. They simply do not earn enough in a city where the cost of living has outpaced wages for two decades.
+Nearly one in four Denver households is cost-burdened, spending more than 30% of income on housing alone. Denver's median household income is approximately $85,000, but the median masks enormous disparity: 12.4% of Denver residents live below the federal poverty line ($31,200 for a family of four), and another 15-20% hover just above it, one emergency away from financial crisis (U.S. Census Bureau, 2023). In neighborhoods like Montbello, Westwood, Sun Valley, and Globeville-Elyria-Swansea, poverty rates exceed 30%. These are working families. They have jobs -- often multiple jobs. They simply do not earn enough in a city where the cost of living has outpaced wages for two decades.
 
-The consequences of poverty are not just individual -- they are municipal. Denver spends hundreds of millions per year on emergency responses to the symptoms of poverty: homelessness, emergency room visits for uninsured residents, child welfare interventions, and criminal justice contact driven by economic desperation. The city patches crises one at a time. Guaranteed income addresses the root cause: people do not have enough money.
+The consequences of poverty fall on the entire municipality. Denver spends hundreds of millions per year on emergency responses to the symptoms of poverty: homelessness, emergency room visits for uninsured residents, child welfare interventions, and criminal justice contact driven by economic desperation. The city patches crises one at a time. Guaranteed income addresses the root cause: people do not have enough money.
 
 ### What Denver Currently Does
 
 Denver does not have a guaranteed income program. The closest analogs are:
 
-- **RTD Zero Fare for Youth:** Free transit for ages 19 and under -- effective but narrow.
+- **RTD Zero Fare for Youth:** Free transit for ages 19 and under (effective but narrow).
 - **LiVE Transit Discount:** 50% fare reduction for individuals below 250% FPL.
 - **Colorado Child Tax Credit:** Starting in 2025, $1,200 per child for families earning under $25,000, phasing out at $75,000. A state program, not a Denver initiative.
 - **Emergency rental assistance through HOST:** Reactive, not proactive. Helps after crisis hits, not before.
 - **SNAP, WIC, and TANF:** Federal programs with means-testing, bureaucratic barriers, and spending restrictions that reduce their effectiveness and dignity.
 
-Meanwhile, **Boulder** -- 25 miles northwest -- ran its own guaranteed income pilot in 2023-2025: 200 residents facing extreme poverty received $500/month for two years. The results were mixed on employment but clear on basic needs: recipients used the money for food, housing, utilities, and debt repayment. Nearly one-third pursued additional education or training (Smart Cities Dive, 2025). Denver, with ten times Boulder's population and far deeper poverty, has done nothing comparable.
+Meanwhile, **Boulder**, 25 miles northwest, ran its own guaranteed income pilot in 2023-2025: 200 residents facing extreme poverty received $500/month for two years. The results were mixed on employment but clear on basic needs: recipients used the money for food, housing, utilities, and debt repayment. Nearly one-third pursued additional education or training (Smart Cities Dive, 2025). Denver, with ten times Boulder's population and far deeper poverty, has done nothing comparable.
 
 ## Our Solution
 
@@ -42,14 +42,14 @@ Direct, unconditional cash payments to Denver's lowest-income residents. No work
 **2. Scale-Up to Permanent Program**
 - **Phase 1 (Years 1-2):** 2,000 participants, $24M/year. Rigorous evaluation with a randomized control group, conducted by an independent academic partner (University of Denver, CU Denver, or comparable institution).
 - **Phase 2 (Years 3-5):** Expand to 5,000 participants based on Phase 1 results. Integrate with existing city services: housing navigation, workforce development, childcare subsidies.
-- **Phase 3 (Year 5+):** Make the program permanent, modeled on Cook County, Illinois -- the first U.S. county to establish permanent guaranteed income funding after its $42 million pilot provided $500/month to 3,250 residents.
+- **Phase 3 (Year 5+):** Make the program permanent, modeled on Cook County, Illinois, the first U.S. county to establish permanent guaranteed income funding after its $42 million pilot provided $500/month to 3,250 residents.
 
 **3. Integration with Existing Platform**
 - Guaranteed income is not a replacement for other policies. It is the floor beneath them:
-  - Pair with [Social Housing](/platform/social-housing) -- cash stability helps residents maintain housing
-  - Pair with [Universal Childcare](/platform/universal-childcare) -- parents can afford to work when childcare is covered AND they have cash for emergencies
-  - Pair with [$25 Minimum Wage](/platform/living-wage) -- guaranteed income fills the gap during job transitions, training, or caregiving
-  - Pair with [Housing First](/platform/housing-first) -- cash payments are the most effective tool to prevent returns to homelessness after permanent placement
+  - Pair with [Social Housing](/platform/social-housing): cash stability helps residents maintain housing
+  - Pair with [Universal Childcare](/platform/universal-childcare): parents can afford to work when childcare is covered AND they have cash for emergencies
+  - Pair with [$25 Minimum Wage](/platform/living-wage): guaranteed income fills the gap during job transitions, training, or caregiving
+  - Pair with [Housing First](/platform/housing-first): cash payments are the most effective tool to prevent returns to homelessness after permanent placement
 
 ## The Evidence: 150+ Cities, Zero Decreased Employment
 
@@ -73,7 +73,7 @@ This is no longer experimental. More than 150 U.S. cities have run guaranteed in
 | **St. Louis, MO** | Low-income families, monthly payments over 12 months. | Fewer missed rent and utility payments. Credit scores increased by average of 12 points. Families reported better support for children's education and health. |
 | **Newark, NJ** | 400 residents, $12,000 over two years. | Greater financial resilience, increased housing and food security, better mental health, more family time. |
 | **Minneapolis, MN** | 200 residents, $500/month, 24 months. | Recipients addressed food, housing, and utility needs; paid down debt; built savings; improved mental health. |
-| **Boulder, CO** | 200 residents, $500/month, 24 months. | Nearly one-third pursued additional education or training. Helped with food, housing, utilities, and debt. No clear effect on employment status -- recipients were already working. |
+| **Boulder, CO** | 200 residents, $500/month, 24 months. | Nearly one-third pursued additional education or training. Helped with food, housing, utilities, and debt. No clear effect on employment status; recipients were already working. |
 
 ### The Employment Myth
 
@@ -94,7 +94,7 @@ The most common objection to guaranteed income is that people will stop working.
 - **Federal and philanthropic matching:** The Stanford Basic Income Lab and Mayors for a Guaranteed Income have facilitated philanthropic funding for dozens of pilots. Federal matching through the American Rescue Plan and successor programs is a realistic supplement.
 - **Bank of Denver interest income** (see [Public Banking](/platform/public-banking)): Once established, the public bank generates returns that can partially fund social programs.
 
-**Return on investment:** Every dollar in guaranteed income generates an estimated $1.50-2.00 in reduced emergency spending and increased economic activity. Cash goes directly into local economies -- rent, groceries, childcare, small businesses. The local spending multiplier for low-income households is the highest of any income group because every dollar is spent, not saved offshore.
+**Return on investment:** Every dollar in guaranteed income generates an estimated $1.50-2.00 in reduced emergency spending and increased economic activity. Cash goes directly into local economies: rent, groceries, childcare, small businesses. The local spending multiplier for low-income households is the highest of any income group because every dollar is spent, not saved offshore.
 
 ## Frequently Asked Questions
 
@@ -102,13 +102,13 @@ The most common objection to guaranteed income is that people will stop working.
 They don't. Across all 150+ pilots, spending data consistently shows recipients use cash for housing, food, utilities, transportation, and childcare. A World Bank meta-analysis of 19 studies across multiple countries found that cash transfers either reduced or had no effect on spending on alcohol and tobacco. This objection says more about the assumptions of the objector than the behavior of the recipients.
 
 **"This is socialism / wealth redistribution."**
-Alaska has distributed oil revenue checks to every resident since 1982 through the Permanent Dividend Fund -- $1,312 per person in 2024. No one calls it socialism. Guaranteed income is a dividend on our shared economy, recognizing that productive capacity depends on public infrastructure, public education, and public health that everyone contributes to. It is also the most efficient anti-poverty tool available: no bureaucracy deciding what you're allowed to buy, no case workers monitoring compliance, no fraud investigation apparatus. Just money to people who need it.
+Alaska has distributed oil revenue checks to every resident since 1982 through the Permanent Dividend Fund, paying $1,312 per person in 2024. No one calls it socialism. Guaranteed income is a dividend on our shared economy, recognizing that productive capacity depends on public infrastructure, public education, and public health that everyone contributes to. It is also the most efficient anti-poverty tool available: no bureaucracy deciding what you're allowed to buy, no case workers monitoring compliance, no fraud investigation apparatus. Just money to people who need it.
 
 **"We can't afford it."**
 Denver's general fund budget exceeds $1.8 billion. Phase 1 costs $24 million -- 1.3% of the budget. The city spent $1.3 billion on the I-70 expansion. RTD has over $1 billion in reserves while cutting service. We can afford anything we prioritize. The question is whether we prioritize people or infrastructure for cars.
 
 **"Why not just create jobs?"**
-Jobs are necessary but not sufficient. Many guaranteed income recipients already have jobs -- often multiple jobs. The problem is that wages have not kept pace with the cost of living. A guaranteed income supplements wages, bridges gaps between jobs, supports caregivers doing unpaid work, and helps people invest in education and training that leads to better employment. It is not an alternative to job creation. It is the foundation that makes job creation effective.
+Jobs are necessary but not sufficient. Many guaranteed income recipients already have jobs, often multiple jobs. The problem is that wages have not kept pace with the cost of living. A guaranteed income supplements wages, bridges gaps between jobs, supports caregivers doing unpaid work, and helps people invest in education and training that leads to better employment. It is not an alternative to job creation. It is the foundation that makes job creation effective.
 
 **"This has never been done permanently."**
 Cook County, Illinois established permanent guaranteed income funding in 2025 after its $42 million pilot. Alaska has paid permanent dividends for over 40 years. The Bolsa Familia program in Brazil lifted 36 million people out of poverty over two decades. Permanent guaranteed income exists. The question is whether Denver joins the growing list of jurisdictions that recognize cash transfers as essential infrastructure.

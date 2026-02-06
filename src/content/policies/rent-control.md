@@ -19,7 +19,7 @@ Colorado state law previously prohibited local rent control (preemption), but th
 
 ### What Denver Currently Does
 
-Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes Section 38-12-301 preempts all local rent control ordinances. Multiple attempts to repeal this preemption have been introduced in the Colorado General Assembly -- including SB 19-225, HB 23-1115, and subsequent bills -- but have failed to pass. In 2024, Colorado legislators introduced another rent stabilization bill that did not advance past committee.
+Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes Section 38-12-301 preempts all local rent control ordinances. Multiple attempts to repeal this preemption have been introduced in the Colorado General Assembly (including SB 19-225, HB 23-1115, and subsequent bills) but have failed to pass. In 2024, Colorado legislators introduced another rent stabilization bill that did not advance past committee.
 
 Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA and apartment market reports. The average one-bedroom rent in Denver reached approximately $1,600/month by 2024 (ApartmentList National Rent Report, 2024). Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
 
@@ -101,4 +101,4 @@ Colorado's rent control preemption is a political choice, not a constitutional o
 
 ---
 
-**Take action now:** [Sign the petition to repeal Colorado's rent control ban](https://resist.bot/petitions/PJZTYT) -- or text "sign PJZTYT" to 50409. Every signature sends a personalized letter to your governor and state legislators. [See all campaigns →](/tools/resistbot)
+**Take action now:** [Sign the petition to repeal Colorado's rent control ban](https://resist.bot/petitions/PJZTYT), or text "sign PJZTYT" to 50409. Every signature sends a personalized letter to your governor and state legislators. [See all campaigns →](/tools/resistbot)

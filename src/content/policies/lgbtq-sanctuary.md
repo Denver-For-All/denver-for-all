@@ -11,13 +11,13 @@ status: "draft"
 
 ## The Problem
 
-The federal government is actively dismantling LGBTQ+ protections. Project 2025 -- now being implemented -- seeks to restrict the application of the Supreme Court's *Bostock v. Clayton County* decision, rescind regulations prohibiting discrimination based on sexual orientation and gender identity, and eliminate trans-inclusive healthcare from federal programs. The Department of Education has withdrawn Title IX guidance protecting trans students. The Department of Health and Human Services has reversed protections for LGBTQ+ patients under Section 1557 of the Affordable Care Act. The military has reinstated its ban on transgender service members. Federal agencies have been instructed to define sex as binary and immutable, erasing nonbinary and transgender identities from official recognition (GLAAD Project 2025 Tracker, 2025).
+The federal government is actively dismantling LGBTQ+ protections. Project 2025, now being implemented, seeks to restrict the application of the Supreme Court's *Bostock v. Clayton County* decision, rescind regulations prohibiting discrimination based on sexual orientation and gender identity, and eliminate trans-inclusive healthcare from federal programs. The Department of Education has withdrawn Title IX guidance protecting trans students. The Department of Health and Human Services has reversed protections for LGBTQ+ patients under Section 1557 of the Affordable Care Act. The military has reinstated its ban on transgender service members. Federal agencies have been instructed to define sex as binary and immutable, erasing nonbinary and transgender identities from official recognition (GLAAD Project 2025 Tracker, 2025).
 
 This is not hypothetical. It is happening now. And it creates an urgent need for municipal-level protections that cannot be stripped by executive order.
 
-Colorado has strong state-level LGBTQ+ protections -- the Colorado Anti-Discrimination Act (CADA) prohibits discrimination in employment, housing, and public accommodations based on sexual orientation and gender identity. But state law alone is insufficient when federal agencies are weaponizing funding, regulatory power, and enforcement mechanisms against LGBTQ+ people. Cities must act as the last line of defense.
+Colorado has strong state-level LGBTQ+ protections: the Colorado Anti-Discrimination Act (CADA) prohibits discrimination in employment, housing, and public accommodations based on sexual orientation and gender identity. But state law alone is insufficient when federal agencies are weaponizing funding, regulatory power, and enforcement mechanisms against LGBTQ+ people. Cities must act as the last line of defense.
 
-Denver is home to an estimated 60,000-80,000 LGBTQ+ residents -- approximately 8-10% of the population, higher than the national average (Williams Institute, UCLA School of Law, 2023). The city hosts one of the largest Pride festivals in the country and has a vibrant LGBTQ+ community anchored in Capitol Hill, Colfax, and increasingly across all neighborhoods. But community and celebration are not the same as legal protection. Denver has no comprehensive LGBTQ+ sanctuary ordinance, no dedicated municipal anti-discrimination enforcement mechanism independent of state CADA complaints, and no explicit policy protecting residents from federal overreach targeting their identities.
+Denver is home to an estimated 60,000-80,000 LGBTQ+ residents, approximately 8-10% of the population, higher than the national average (Williams Institute, UCLA School of Law, 2023). The city hosts one of the largest Pride festivals in the country and has a vibrant LGBTQ+ community anchored in Capitol Hill, Colfax, and increasingly across all neighborhoods. But community and celebration are not the same as legal protection. Denver has no comprehensive LGBTQ+ sanctuary ordinance, no dedicated municipal anti-discrimination enforcement mechanism independent of state CADA complaints, and no explicit policy protecting residents from federal overreach targeting their identities.
 
 ### What Denver Currently Does
 
@@ -37,7 +37,7 @@ Denver should not rely solely on state law when the political landscape can shif
 - City-level enforcement through the Agency for Human Rights and Community Partnerships, with dedicated investigators and complaint resolution timelines (90-day maximum for initial determination)
 - Civil penalties for violations: fines of $5,000-$25,000 per incident, with escalating penalties for repeat offenders
 - Private right of action: allow individuals to bring discrimination claims in Denver County Court without exhausting administrative remedies first
-- Explicit coverage of nonbinary, Two-Spirit, and intersex identities -- going beyond Colorado's existing statutory language
+- Explicit coverage of nonbinary, Two-Spirit, and intersex identities, going beyond Colorado's existing statutory language
 
 ### 2. Trans Healthcare Sanctuary
 
@@ -46,14 +46,14 @@ Trans people are under attack at the federal level and in dozens of state legisl
 - **Sanctuary ordinance:** Denver will not cooperate with any federal or state investigation, prosecution, or enforcement action targeting transgender people for receiving gender-affirming healthcare, or targeting healthcare providers for delivering it
 - **Non-cooperation directive:** City employees, including Denver Health staff, are prohibited from disclosing patient information to federal agencies investigating gender-affirming care. Violations are grounds for termination.
 - **Travel and extradition:** Denver will not honor extradition requests or arrest warrants from other states related to providing or receiving gender-affirming healthcare
-- **Denver Health protections:** Ensure Denver Health continues providing gender-affirming care -- including hormone therapy, surgical referrals, and mental health support -- regardless of changes in federal Medicaid/Medicare coverage policies
+- **Denver Health protections:** Ensure Denver Health continues providing gender-affirming care, including hormone therapy, surgical referrals, and mental health support, regardless of changes in federal Medicaid/Medicare coverage policies
 - **Provider recruitment:** Establish Denver as a destination for trans healthcare providers displaced from hostile states, with relocation assistance and streamlined credentialing
 
 ### 3. Conversion Therapy Ban (Expanded)
 
 Colorado bans conversion therapy for minors by licensed practitioners. Denver should close the gaps.
 
-- Extend the ban to all ages -- conversion therapy is harmful regardless of the victim's age
+- Extend the ban to all ages: conversion therapy is harmful regardless of the victim's age
 - Cover unlicensed practitioners: religious counselors, life coaches, and other non-licensed individuals who perform conversion therapy
 - Commercial penalties: any business or organization advertising or providing conversion therapy within Denver city limits faces fines and potential license revocation
 - Consumer protection framing: conversion therapy is a fraudulent practice that causes documented psychological harm, including elevated rates of depression, anxiety, and suicidality (American Psychological Association, 2009)
@@ -63,17 +63,17 @@ Colorado bans conversion therapy for minors by licensed practitioners. Denver sh
 LGBTQ+ youth face disproportionate rates of homelessness, bullying, and mental health crises. Denver must intervene at the municipal level.
 
 - **LGBTQ+ youth shelter beds:** Dedicated beds in Denver's youth shelter system specifically for LGBTQ+ youth, with staff trained in affirming care. LGBTQ+ youth represent up to 40% of homeless youth nationally (True Colors United, 2023).
-- **School liaison program:** City-funded LGBTQ+ liaisons embedded in DPS schools to support students, train staff, and ensure policy compliance -- independent of federal Title IX enforcement
+- **School liaison program:** City-funded LGBTQ+ liaisons embedded in DPS schools to support students, train staff, and ensure policy compliance, independent of federal Title IX enforcement
 - **Mental health services:** Free, affirming mental health services for LGBTQ+ youth through Denver Health and community health centers, with no parental consent required for youth ages 12+ (consistent with Colorado's existing minor consent laws)
 - **Anti-bullying enforcement:** City-funded reporting mechanism and response team for LGBTQ+ bullying incidents in DPS schools, with annual public reporting on incident rates and resolution outcomes
 - Cross-reference: [Youth Services & Opportunity](/platform/youth-services)
 
 ### 5. LGBTQ+ Inclusive City Operations
 
-- **All-gender restrooms** in every city-owned facility -- mandatory within 2 years
+- **All-gender restrooms** in every city-owned facility, mandatory within 2 years
 - **Name and gender marker changes:** Free, streamlined process for updating name and gender on all city records, with self-attestation (no medical documentation required)
 - **City employee benefits:** Ensure all city employee health plans cover gender-affirming care, including surgical procedures, without exclusions or excessive prior authorization requirements
-- **Data collection:** Collect voluntary SOGIE (sexual orientation, gender identity, and expression) data in city services to identify disparities and target resources -- with strong privacy protections and no sharing with federal agencies
+- **Data collection:** Collect voluntary SOGIE (sexual orientation, gender identity, and expression) data in city services to identify disparities and target resources, with strong privacy protections and no sharing with federal agencies
 - **Vendor requirements:** City contractors must demonstrate LGBTQ+ nondiscrimination policies as a condition of contract award
 
 ### 6. LGBTQ+ Economic Equity
@@ -100,18 +100,18 @@ The pattern is clear: cities and municipalities have been the leaders on LGBTQ+ 
 - **Trans healthcare sanctuary:** Administrative costs only ($200-500K/year for legal coordination and non-cooperation enforcement)
 - **Youth services:** $2-3M/year for shelter beds, school liaisons, and mental health services
 - **City operations (restrooms, records, data):** $1-2M/year capital investment, declining to maintenance costs
-- **Total: $5-8M/year** -- less than 0.3% of Denver's general fund budget. Less than the cost of a single Flock camera contract renewal. The cost of not acting -- in lives lost to suicide, homelessness, and discrimination -- is incalculably higher.
+- **Total: $5-8M/year**, less than 0.3% of Denver's general fund budget. Less than the cost of a single Flock camera contract renewal. The cost of not acting -- in lives lost to suicide, homelessness, and discrimination -- is incalculably higher.
 
 ## Frequently Asked Questions
 
-**"Colorado already has strong LGBTQ+ protections -- why does Denver need its own?"**
-Because state protections can be weakened, and federal protections are being dismantled right now. A municipal ordinance provides an independent enforcement mechanism that does not depend on the political direction of state or federal government. New York City's local human rights law has been the primary protection for its LGBTQ+ residents for decades -- often stronger and faster than state or federal alternatives. Denver should have the same.
+**"If Colorado already has strong LGBTQ+ protections, why does Denver need its own?"**
+Because state protections can be weakened, and federal protections are being dismantled right now. A municipal ordinance provides an independent enforcement mechanism that does not depend on the political direction of state or federal government. New York City's local human rights law has been the primary protection for its LGBTQ+ residents for decades, often stronger and faster than state or federal alternatives. Denver should have the same.
 
 **"Trans sanctuary policies conflict with federal law."**
 Denver's immigration sanctuary policy (see [Immigration & Sanctuary City](/platform/immigration-sanctuary)) operates on the same principle: the city directs its employees not to cooperate with federal enforcement actions that target our residents. The Tenth Amendment prohibits the federal government from commandeering local officials to enforce federal directives. Denver has the legal authority to refuse cooperation, just as it does with ICE.
 
 **"Conversion therapy bans violate religious freedom."**
-Conversion therapy is a discredited practice that the American Psychological Association, the American Medical Association, the American Academy of Pediatrics, and every major medical and mental health organization has condemned as harmful. It is associated with elevated rates of depression, anxiety, self-harm, and suicide. Banning a fraudulent, harmful commercial practice is a consumer protection measure, not a restriction on religious belief. Religious leaders remain free to counsel congregants -- but not to market a harmful pseudoscientific practice.
+Conversion therapy is a discredited practice that the American Psychological Association, the American Medical Association, the American Academy of Pediatrics, and every major medical and mental health organization has condemned as harmful. It is associated with elevated rates of depression, anxiety, self-harm, and suicide. Banning a fraudulent, harmful commercial practice is a consumer protection measure, not a restriction on religious belief. Religious leaders remain free to counsel congregants, but not to market a harmful pseudoscientific practice.
 
 **"All-gender restrooms are controversial."**
 They are restrooms. Single-occupancy all-gender restrooms are already standard in most homes, airplanes, and small businesses. Multi-stall all-gender restrooms have been successfully implemented in hundreds of universities, corporations, and public buildings. Surveys consistently show that after implementation, opposition drops dramatically because the predicted problems never materialize. Denver should lead, not wait for controversy to resolve itself.

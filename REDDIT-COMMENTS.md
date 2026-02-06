@@ -1,4 +1,4 @@
-# Reddit Comments -- Denver For All Contrast Messaging
+# Reddit Comments: Denver For All Contrast Messaging
 
 Short comments for r/Denver, r/denverhousing, and similar. Tone: real person who's done their research. Frustrated but not unhinged. Light swearing, tight arguments, a source when it hits harder.
 
@@ -16,7 +16,7 @@ Short comments for r/Denver, r/denverhousing, and similar. Tone: real person who
 
 **Context:** Thread about Mike Johnston / Flock Safety deal
 
-> The surveillance cameras are one thing -- you can argue about whether ALPRs reduce crime (the evidence is mixed at best). But the way Mike pushed through a mass surveillance contract with Flock without a real public process? That's the part that's bullshit. Council barely had time to review it. Voters weren't consulted. We now have a private company's license plate readers across the city and nobody got to weigh in. If you're confident this is good policy, put it to a damn vote. The fact that he didn't tells you everything about how this administration treats democratic accountability.
+> The surveillance cameras are one thing. You can argue about whether ALPRs reduce crime (the evidence is mixed at best). But the way Mike pushed through a mass surveillance contract with Flock without a real public process? That's the part that's bullshit. Council barely had time to review it. Voters weren't consulted. We now have a private company's license plate readers across the city and nobody got to weigh in. If you're confident this is good policy, put it to a damn vote. The fact that he didn't tells you everything about how this administration treats democratic accountability.
 
 ---
 
@@ -24,7 +24,7 @@ Short comments for r/Denver, r/denverhousing, and similar. Tone: real person who
 
 **Context:** Thread comparing Lisa and Mike on housing
 
-> Denver spends $400-600K per unit subsidizing private developers to build "affordable" housing that expires in 15-30 years. Vienna builds permanently affordable public housing for a fraction of that. Neither Lisa nor Mike has proposed anything that breaks this cycle -- Lisa won't build, Mike builds sweetheart deals for developers with public money. There are cities and countries where housing actually works. We just refuse to learn from them.
+> Denver spends $400-600K per unit subsidizing private developers to build "affordable" housing that expires in 15-30 years. Vienna builds permanently affordable public housing for a fraction of that. Neither Lisa nor Mike has proposed anything that breaks this cycle. Lisa won't build, and Mike builds sweetheart deals for developers with public money. There are cities and countries where housing actually works. We just refuse to learn from them.
 
 ---
 
@@ -32,11 +32,11 @@ Short comments for r/Denver, r/denverhousing, and similar. Tone: real person who
 
 **Context:** Thread about encampments / homelessness
 
-> Sweeps cost more and accomplish less than just giving people housing. That's not some radical theory -- Finland literally did this, cut homelessness by 35%, and is the only EU country where the numbers are going down (Y-Foundation data). Houston housed 25,000+ people with Housing First. Meanwhile Denver keeps spending $40-60K per person per year on the emergency services merry-go-round when permanent supportive housing costs $15-25K. We are spending more money to get worse outcomes. How is that not insane.
+> Sweeps cost more and accomplish less than just giving people housing. That's not some radical theory. Finland literally did this, cut homelessness by 35%, and is the only EU country where the numbers are going down (Y-Foundation data). Houston housed 25,000+ people with Housing First. Meanwhile Denver keeps spending $40-60K per person per year on the emergency services merry-go-round when permanent supportive housing costs $15-25K. We are spending more money to get worse outcomes. How is that not insane.
 
 ---
 
-## Comment 5: Broadband -- We Already Voted Yes
+## Comment 5: Broadband (We Already Voted Yes)
 
 **Context:** Thread about Comcast / internet costs
 
@@ -56,6 +56,6 @@ Short comments for r/Denver, r/denverhousing, and similar. Tone: real person who
 
 - Post organically in existing threads, not as standalone posts
 - One comment per thread max (multiple = astroturfed)
-- Adjust tone to match -- some threads are angrier, some more wonky
+- Adjust tone to match the thread; some are angrier, some more wonky
 - If someone engages, link to denverforall.org for full policy details
 - These are individual opinions informed by policy research, not campaign messaging

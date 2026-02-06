@@ -22,7 +22,7 @@ Denver's water supply and the health of residents downwind and downstream of Roc
 Independent soil sampling in Denver neighborhoods and surrounding areas has found elevated lead levels - in residential yards, near waterways, and in watersheds feeding Denver's water supply. Dam maintenance and construction projects upstream of Denver have been impacted by contamination concerns. This is a public health emergency that receives almost no attention.
 
 ### Climate Change
-Denver's air quality regularly exceeds EPA limits -- Denver had 18 "unhealthy" or worse ozone days in 2023 (Colorado DPHE Air Quality Control Commission). Urban heat islands make low-income neighborhoods 10-15°F hotter than wealthy areas with tree cover (Trust for Public Land heat mapping, 2023). Wildfire smoke increasingly blankets the metro area. Water supply faces long-term threats from reduced snowpack.
+Denver's air quality regularly exceeds EPA limits. Denver had 18 "unhealthy" or worse ozone days in 2023 (Colorado DPHE Air Quality Control Commission). Urban heat islands make low-income neighborhoods 10-15°F hotter than wealthy areas with tree cover (Trust for Public Land heat mapping, 2023). Wildfire smoke increasingly blankets the metro area. Water supply faces long-term threats from reduced snowpack.
 
 ### What Denver Currently Does
 
@@ -95,7 +95,7 @@ However: Denver's climate action has focused heavily on building efficiency and 
 The DOE declared it cleaned up. Independent scientists disagree. Plutonium has a half-life of 24,000 years. The cleanup addressed surface contamination but left subsurface contamination in place, covered with soil. Wind erosion, flooding, and wildfire can re-expose this material. Denver residents deserve an independent assessment, not the word of the agency that created the contamination.
 
 **"100% renewable by 2030 is too aggressive."**
-Burlington, VT achieved 100% renewable electricity in 2014. Other cities have followed. Denver has more solar potential than almost any major US city -- 5.5+ peak sun hours per day (NREL Solar Resource Data). The technology exists. What's missing is political will.
+Burlington, VT achieved 100% renewable electricity in 2014. Other cities have followed. Denver has more solar potential than almost any major US city, with 5.5+ peak sun hours per day (NREL Solar Resource Data). The technology exists. What's missing is political will.
 
 **"What about Xcel Energy's monopoly?"**
 Xcel provides Denver's electricity under a franchise agreement. The city negotiates franchise terms and can impose requirements on renewable energy sourcing, grid access for distributed solar, and rate structures. The franchise renewal is the single biggest leverage point Denver has on energy policy. We must use it.

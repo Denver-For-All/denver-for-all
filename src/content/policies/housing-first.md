@@ -17,7 +17,7 @@ This model has failed everywhere it's been tried. It costs more than housing peo
 
 ### What Denver Currently Does
 
-Denver's approach to homelessness centers on the Department of Housing Stability (HOST), which coordinates shelter, rapid rehousing, and permanent supportive housing (PSH). Denver had approximately 1,300 PSH units as of 2024 -- far below the need. The city has spent heavily on emergency shelter, including converting hotels during the pandemic, and on encampment management (sweeps), which the ACLU of Colorado has repeatedly challenged.
+Denver's approach to homelessness centers on the Department of Housing Stability (HOST), which coordinates shelter, rapid rehousing, and permanent supportive housing (PSH). Denver had approximately 1,300 PSH units as of 2024, far below the need. The city has spent heavily on emergency shelter, including converting hotels during the pandemic, and on encampment management (sweeps), which the ACLU of Colorado has repeatedly challenged.
 
 Mayor Johnston's "All In Mile High" initiative pledged to house 1,000 people and move them from encampments. While some have been housed, the approach relies heavily on temporary shelter placements rather than permanent housing, and encampment sweeps continue to displace people without resolving their homelessness. The 2024 Metro Denver Point-in-Time Count identified approximately 9,065 people experiencing homelessness in the metro area (MDHI, 2024).
 
@@ -35,7 +35,7 @@ Mayor Johnston's "All In Mile High" initiative pledged to house 1,000 people and
 
 Adapted from Finland's Y-Foundation model (the only country in Europe where homelessness is declining) and Houston's successful Housing First implementation.
 
-**Core principle: Give people homes first. No preconditions.** Not "get sober first." Not "get a job first." Not "prove you deserve it." A home. Then support services. Because you can't address addiction, mental health, or employment instability while sleeping in a tent.
+**Core principle: Give people homes first. No preconditions.** No sobriety requirement. No employment requirement. No proving you "deserve it." A home, then support services. Because you can't address addiction, mental health, or employment instability while sleeping in a tent.
 
 **1. Convert Shelters to Permanent Housing**
 Finland's breakthrough was converting emergency shelters into permanent apartments. We follow the same model:
@@ -136,7 +136,7 @@ This is largely a myth. Studies show 95%+ of people experiencing homelessness wa
 Data from cities that implemented Housing First (Houston, Finland, Medicine Hat) does not show significant "magnet effects." People experiencing homelessness typically became homeless in the place where they live - they're our neighbors, not outsiders.
 
 **"What about encampment sweeps? Don't we need to clear encampments?"**
-Sweeps without housing placements do not reduce homelessness -- they relocate it. The ACLU of Colorado has documented the destruction of personal belongings, medications, and identification documents during Denver sweeps. Each sweep costs the city $30,000-50,000 in police, sanitation, and social services time (Denver HOST data). Housing First eliminates the need for sweeps by eliminating the encampments through permanent placements.
+Sweeps without housing placements do not reduce homelessness; they relocate it. The ACLU of Colorado has documented the destruction of personal belongings, medications, and identification documents during Denver sweeps. Each sweep costs the city $30,000-50,000 in police, sanitation, and social services time (Denver HOST data). Housing First eliminates the need for sweeps by eliminating the encampments through permanent placements.
 
 ## References
 

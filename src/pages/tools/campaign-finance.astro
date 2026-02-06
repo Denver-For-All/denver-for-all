@@ -110,8 +110,8 @@ import { Icon } from 'astro-icon/components';
       </div>
 
       <div class="scorecard-note">
-        <p data-en="This scorecard tracks verified council votes on issues aligned with the Denver For All platform. It will expand as more votes are documented. The council_votes database schema is ready -- contribute data or corrections on GitHub." data-es="Esta tarjeta de puntuación rastrea votos verificados del concejo en temas alineados con la plataforma de Denver Para Todos. Se expandirá a medida que se documenten más votos. El esquema de base de datos council_votes está listo -- contribuye datos o correcciones en GitHub.">
-          This scorecard tracks verified council votes on issues aligned with the Denver For All platform. It will expand as more votes are documented. The <code>council_votes</code> database schema is ready -- contribute data or corrections on GitHub.
+        <p data-en="This scorecard tracks verified council votes on issues aligned with the Denver For All platform. We add new votes as they happen -- know about one we're missing? Email us or open an issue on GitHub." data-es="Esta tarjeta de puntuación rastrea votos verificados del concejo en temas alineados con la plataforma de Denver Para Todos. Agregamos nuevos votos a medida que ocurren -- ¿conoces alguno que nos falta? Envíanos un correo o abre un issue en GitHub.">
+          This scorecard tracks verified council votes on issues aligned with the Denver For All platform. We add new votes as they happen -- know about one we're missing? Email us or open an issue on GitHub.
         </p>
       </div>
 
@@ -142,26 +142,73 @@ import { Icon } from 'astro-icon/components';
     </div>
   </section>
 
-  <!-- Campaign Finance (Coming Soon) -->
+  <!-- Look Up Campaign Finance Data -->
   <section class="section section--alt">
     <div class="container">
       <div class="section-header">
-        <h2 data-en="Campaign Finance Tracker" data-es="Rastreador de Finanzas de Campaña">Campaign Finance Tracker</h2>
-        <p data-en="Interactive visualization of who funds Denver's politicians. Coming soon." data-es="Visualización interactiva de quién financia a los políticos de Denver. Próximamente.">
-          Interactive visualization of who funds Denver's politicians. Coming soon.
+        <h2 data-en="Look Up the Money Yourself" data-es="Busca el Dinero Tú Mismo">Look Up the Money Yourself</h2>
+        <p data-en="Campaign finance data is public. These official sources let you search contributions to Denver politicians right now." data-es="Los datos de finanzas de campaña son públicos. Estas fuentes oficiales te permiten buscar contribuciones a los políticos de Denver ahora mismo.">
+          Campaign finance data is public. These official sources let you search contributions to Denver politicians right now.
         </p>
       </div>
-      <div class="finance-placeholder">
-        <h3 data-en="In Development" data-es="En Desarrollo">In Development</h3>
-        <ul>
-          <li data-en="Contribution data for all 13 council districts + at-large + mayor" data-es="Datos de contribuciones para los 13 distritos del concejo + general + alcalde">Contribution data for all 13 council districts + at-large + mayor</li>
-          <li data-en="Filter by donor type: developers, landlords, PACs, corporations, individuals" data-es="Filtrar por tipo de donante: desarrolladores, propietarios, PACs, corporaciones, individuos">Filter by donor type: developers, landlords, PACs, corporations, individuals</li>
-          <li data-en="Cross-reference donations with voting records" data-es="Cruzar donaciones con registros de votación">Cross-reference donations with voting records</li>
-          <li data-en="Downloadable datasets for journalists and researchers" data-es="Conjuntos de datos descargables para periodistas e investigadores">Downloadable datasets for journalists and researchers</li>
-        </ul>
-        <p class="finance-source" data-en="Data source: Colorado TRACER campaign finance system + Denver Clerk & Recorder public filings" data-es="Fuente de datos: Sistema TRACER de finanzas de campaña de Colorado + Registros públicos del Secretario de Denver">
-          Data source: Colorado TRACER campaign finance system + Denver Clerk & Recorder public filings
+      <div class="finance-sources">
+        <a href="https://denver.maplight.com/public/transaction-search" target="_blank" rel="noopener" class="finance-card">
+          <div class="finance-card__header">
+            <Icon name="lucide:search" size={22} />
+            <span class="finance-card__badge" data-en="Denver Municipal" data-es="Municipal de Denver">Denver Municipal</span>
+          </div>
+          <h3 data-en="SearchLight Denver" data-es="SearchLight Denver">SearchLight Denver</h3>
+          <p data-en="Official Denver campaign finance search. Look up contributions to any council member, mayor, or candidate. Search by donor name, amount, or date. All filings since 2012." data-es="Búsqueda oficial de finanzas de campaña de Denver. Busca contribuciones a cualquier concejal, alcalde o candidato. Busca por nombre de donante, monto o fecha. Todos los informes desde 2012.">Official Denver campaign finance search. Look up contributions to any council member, mayor, or candidate. Search by donor name, amount, or date. All filings since 2012.</p>
+          <span class="finance-card__link">Search Contributions →</span>
+        </a>
+        <a href="https://tracer.sos.colorado.gov/PublicSite/SearchPages/DataDownload.aspx" target="_blank" rel="noopener" class="finance-card">
+          <div class="finance-card__header">
+            <Icon name="lucide:download" size={22} />
+            <span class="finance-card__badge" data-en="State Level" data-es="Nivel Estatal">State Level</span>
+          </div>
+          <h3 data-en="Colorado TRACER — Bulk Data" data-es="Colorado TRACER — Datos en Masa">Colorado TRACER — Bulk Data</h3>
+          <p data-en="Colorado Secretary of State's campaign finance database. Download contribution and expenditure data for state legislators, governor, and other state-level races. CSV format for researchers." data-es="Base de datos de finanzas de campaña del Secretario de Estado de Colorado. Descarga datos de contribuciones y gastos para legisladores estatales, gobernador y otras carreras estatales. Formato CSV para investigadores.">Colorado Secretary of State's campaign finance database. Download contribution and expenditure data for state legislators, governor, and other state-level races. CSV format for researchers.</p>
+          <span class="finance-card__link">Download Data →</span>
+        </a>
+        <a href="https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Denver-Clerk-and-Recorder/Campaign-Finance" target="_blank" rel="noopener" class="finance-card">
+          <div class="finance-card__header">
+            <Icon name="lucide:file-text" size={22} />
+            <span class="finance-card__badge" data-en="Official Filings" data-es="Informes Oficiales">Official Filings</span>
+          </div>
+          <h3 data-en="Denver Clerk & Recorder" data-es="Secretario de Denver">Denver Clerk & Recorder</h3>
+          <p data-en="Official campaign finance filing requirements and records from Denver's Clerk & Recorder. Contact campaignfinance@denvergov.org for CORA requests on bulk data." data-es="Requisitos oficiales de informes de finanzas de campaña y registros del Secretario de Denver. Contacta campaignfinance@denvergov.org para solicitudes CORA de datos en masa.">Official campaign finance filing requirements and records from Denver's Clerk & Recorder. Contact campaignfinance@denvergov.org for CORA requests on bulk data.</p>
+          <span class="finance-card__link">View Filings →</span>
+        </a>
+      </div>
+
+      <div class="finance-note">
+        <h3 data-en="Why This Matters" data-es="Por Qué Esto Importa">Why This Matters</h3>
+        <p data-en="Denver is a home-rule city, meaning municipal campaign finance data is managed by the Denver Clerk & Recorder -- not the state TRACER system. SearchLight Denver is the best tool for looking up who funds your council member. TRACER covers state-level races (your state representative, state senator, governor). We're working to aggregate this data into a single searchable tool with donor categorization." data-es="Denver es una ciudad de autogobierno, lo que significa que los datos de finanzas de campaña municipales son administrados por el Secretario de Denver -- no el sistema estatal TRACER. SearchLight Denver es la mejor herramienta para buscar quién financia a tu concejal. TRACER cubre carreras a nivel estatal. Estamos trabajando para agregar estos datos en una sola herramienta con categorización de donantes.">
+          Denver is a home-rule city, meaning municipal campaign finance data is managed by the Denver Clerk & Recorder -- not the state TRACER system. SearchLight Denver is the best tool for looking up who funds your council member. TRACER covers state-level races (your state representative, state senator, governor). We're working to aggregate this data into a single searchable tool with donor categorization.
         </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Take Action -->
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="Take Action" data-es="Toma Acción">Take Action</h2>
+      <div class="actions-grid">
+        <a href="/tools/resistbot#campaign-darkmoney" class="action-card">
+          <Icon name="lucide:send" size={20} />
+          <div>
+            <strong data-en="Send a letter to ban dark money in Colorado elections" data-es="Envía una carta para prohibir el dinero oscuro en las elecciones de Colorado">Send a letter to ban dark money in Colorado elections</strong>
+            <span data-en="Via Resistbot →" data-es="Vía Resistbot →">Via Resistbot →</span>
+          </div>
+        </a>
+        <a href="/tools/resistbot#campaign-charter" class="action-card">
+          <Icon name="lucide:send" size={20} />
+          <div>
+            <strong data-en="Demand Denver charter reform for democratic accountability" data-es="Exige reforma de la carta de Denver para rendición de cuentas democrática">Demand Denver charter reform for democratic accountability</strong>
+            <span data-en="Via Resistbot →" data-es="Vía Resistbot →">Via Resistbot →</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
@@ -373,23 +420,124 @@ import { Icon } from 'astro-icon/components';
     font-weight: 600;
   }
 
-  .finance-placeholder {
-    max-width: 600px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 2.5rem;
-    background: var(--color-bg-card);
-    border-radius: var(--radius-lg);
-    border: 2px dashed var(--color-border);
+  .finance-sources {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2rem;
   }
 
-  .finance-placeholder h3 { color: var(--color-primary); margin-bottom: 1rem; }
-  .finance-placeholder ul { text-align: left; margin: 1rem 0; padding-left: 1.5rem; }
-  .finance-placeholder li { margin-bottom: 0.5rem; color: var(--color-text-muted); font-size: 0.9rem; }
+  .finance-card {
+    display: block;
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
 
-  .finance-source {
+  .finance-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .finance-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    color: var(--color-primary);
+  }
+
+  .finance-card__badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.15rem 0.45rem;
+    border-radius: 3px;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    letter-spacing: 0.04em;
+  }
+
+  .finance-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .finance-card p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin-bottom: 0.75rem;
+  }
+
+  .finance-card__link {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  .finance-note {
+    padding: 1.5rem 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .finance-note h3 {
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
+
+  .finance-note p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .section-title { text-align: center; margin-bottom: 0.5rem; }
+
+  .actions-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .action-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s;
+  }
+
+  .action-card:hover {
+    border-color: var(--color-primary);
+  }
+
+  .action-card [data-icon] {
+    flex-shrink: 0;
+    color: var(--color-primary);
+  }
+
+  .action-card strong {
+    display: block;
+    font-size: 0.95rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .action-card span {
     font-size: 0.8rem;
-    color: var(--color-text-light);
-    margin-top: 1rem;
+    color: var(--color-primary);
+    font-weight: 600;
   }
 </style>

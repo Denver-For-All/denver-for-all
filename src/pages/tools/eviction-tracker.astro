@@ -1,36 +1,193 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
 ---
 
-<Layout title="Eviction Tracker" description="Live dashboard of eviction filings in Denver by landlord and neighborhood.">
+<Layout title="Denver Eviction Tracker" description="Eviction data, trends, and defense resources for Denver County. Know the numbers. Know your rights.">
   <section class="hero-mini">
     <div class="container">
       <h1 data-en="Denver Eviction Tracker" data-es="Rastreador de Desalojos de Denver">Denver Eviction Tracker</h1>
-      <p data-en="Real-time eviction filing data from Denver County Court. Updated daily." data-es="Datos de demandas de desalojo en tiempo real del Tribunal del Condado de Denver. Actualizado diariamente.">
-        Real-time eviction filing data from Denver County Court. Updated daily.
+      <p data-en="Eviction data, trends, and defense resources for Denver County. Knowledge is power -- especially when you're fighting to keep your home." data-es="Datos de desalojos, tendencias y recursos de defensa para el Condado de Denver. El conocimiento es poder -- especialmente cuando luchas por mantener tu hogar.">
+        Eviction data, trends, and defense resources for Denver County. Knowledge is power -- especially when you're fighting to keep your home.
       </p>
     </div>
   </section>
 
+  <!-- Key Stats -->
   <section class="section">
     <div class="container">
-      <div class="tool-placeholder" id="eviction-tracker-app">
-        <div class="tool-placeholder__inner">
-          <h2 data-en="Coming Soon" data-es="Próximamente">Coming Soon</h2>
-          <p data-en="The eviction tracker is currently being built. It will include:" data-es="El rastreador de desalojos está actualmente en construcción. Incluirá:">
-            The eviction tracker is currently being built. It will include:
-          </p>
-          <ul>
-            <li data-en="Interactive map of eviction filings by neighborhood" data-es="Mapa interactivo de demandas de desalojo por vecindario">Interactive map of eviction filings by neighborhood</li>
-            <li data-en="Top evicting landlords ranked by filing volume" data-es="Principales propietarios desalojadores clasificados por volumen de demandas">Top evicting landlords ranked by filing volume</li>
-            <li data-en="Trend charts showing eviction rates over time" data-es="Gráficos de tendencias mostrando tasas de desalojo a lo largo del tiempo">Trend charts showing eviction rates over time</li>
-            <li data-en="Downloadable data for researchers and journalists" data-es="Datos descargables para investigadores y periodistas">Downloadable data for researchers and journalists</li>
-            <li data-en="Alerts for spikes in specific neighborhoods" data-es="Alertas para aumentos repentinos en vecindarios específicos">Alerts for spikes in specific neighborhoods</li>
-          </ul>
-          <p data-en="Data source: Denver County Court public records, scraped and processed daily via Cloudflare Workers." data-es="Fuente de datos: Registros públicos del Tribunal del Condado de Denver, obtenidos y procesados diariamente a través de Cloudflare Workers.">
-            Data source: Denver County Court public records, scraped and processed daily via Cloudflare Workers.
-          </p>
+      <h2 class="section-title" data-en="Denver's Eviction Crisis by the Numbers" data-es="La Crisis de Desalojos de Denver en Números">Denver's Eviction Crisis by the Numbers</h2>
+      <p class="section-subtitle" data-en="Historical data from the Princeton Eviction Lab (2000-2018). Denver For All is working to bring real-time tracking online." data-es="Datos históricos del Laboratorio de Desalojos de Princeton (2000-2018). Denver Para Todos está trabajando para poner en línea el rastreo en tiempo real.">
+        Historical data from the Princeton Eviction Lab (2000-2018). Denver For All is working to bring real-time tracking online.
+      </p>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-card__number">85%</div>
+          <div class="stat-card__label" data-en="Rent increase in Denver since 2010" data-es="Aumento de alquiler en Denver desde 2010">Rent increase in Denver since 2010</div>
         </div>
+        <div class="stat-card">
+          <div class="stat-card__number">7,300+</div>
+          <div class="stat-card__label" data-en="Denver residents currently experiencing homelessness" data-es="Residentes de Denver actualmente sin hogar">Denver residents currently experiencing homelessness</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card__number">52%</div>
+          <div class="stat-card__label" data-en="Of Denver households are renters" data-es="De los hogares de Denver son inquilinos">Of Denver households are renters</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card__number">$0</div>
+          <div class="stat-card__label" data-en="Rent stabilization protections in Colorado (state preemption)" data-es="Protecciones de estabilización de alquiler en Colorado (preemción estatal)">Rent stabilization protections in Colorado (state preemption)</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Live Data Sources -->
+  <section class="section section--alt">
+    <div class="container">
+      <h2 class="section-title" data-en="Track Evictions Now" data-es="Rastrea Desalojos Ahora">Track Evictions Now</h2>
+      <p class="section-subtitle" data-en="While we build a Denver-specific interactive tracker, these public data sources provide current eviction information." data-es="Mientras construimos un rastreador interactivo específico de Denver, estas fuentes de datos públicos proporcionan información actual sobre desalojos.">
+        While we build a Denver-specific interactive tracker, these public data sources provide current eviction information.
+      </p>
+      <div class="sources-grid">
+        <a href="https://www.coloradojudicial.gov/eviction-filings" target="_blank" rel="noopener" class="source-card">
+          <div class="source-card__header">
+            <Icon name="lucide:landmark" size={22} />
+            <span class="source-card__badge" data-en="Official" data-es="Oficial">Official</span>
+          </div>
+          <h3 data-en="Colorado Judicial Branch Eviction Dashboard" data-es="Panel de Desalojos de la Rama Judicial de Colorado">Colorado Judicial Branch Eviction Dashboard</h3>
+          <p data-en="Official statewide eviction filing data published monthly. Filter by county to see Denver numbers. Required by SB24-064." data-es="Datos oficiales de demandas de desalojo a nivel estatal publicados mensualmente. Filtra por condado para ver los números de Denver. Requerido por SB24-064.">Official statewide eviction filing data published monthly. Filter by county to see Denver numbers. Required by SB24-064.</p>
+          <span class="source-card__link">View Dashboard →</span>
+        </a>
+        <a href="https://evictionlab.org/map/?m=modeled&c=p&b=efr&s=all&r=counties&y=2018&z=8.29&lat=39.73&lon=-104.50&lang=en&l=08031_-104.86_39.76" target="_blank" rel="noopener" class="source-card">
+          <div class="source-card__header">
+            <Icon name="lucide:map" size={22} />
+            <span class="source-card__badge" data-en="Research" data-es="Investigación">Research</span>
+          </div>
+          <h3 data-en="Princeton Eviction Lab — Denver County" data-es="Laboratorio de Desalojos de Princeton — Condado de Denver">Princeton Eviction Lab — Denver County</h3>
+          <p data-en="Historical eviction data (2000-2018) with filing rates, demographic data, and Census/ACS context. Downloadable for research." data-es="Datos históricos de desalojos (2000-2018) con tasas de demandas, datos demográficos y contexto Census/ACS. Descargable para investigación.">Historical eviction data (2000-2018) with filing rates, demographic data, and Census/ACS context. Downloadable for research.</p>
+          <span class="source-card__link">Explore Map →</span>
+        </a>
+        <a href="https://civilcourtdata.lsc.gov/data/eviction/colorado/" target="_blank" rel="noopener" class="source-card">
+          <div class="source-card__header">
+            <Icon name="lucide:bar-chart-3" size={22} />
+            <span class="source-card__badge" data-en="Comparative" data-es="Comparativo">Comparative</span>
+          </div>
+          <h3 data-en="LSC Civil Court Data — Colorado" data-es="Datos de Tribunales Civiles LSC — Colorado">LSC Civil Court Data — Colorado</h3>
+          <p data-en="Compare Denver's eviction filing rates with other Colorado counties. Includes poverty rates, rent burden, and filing trends." data-es="Compara las tasas de demandas de desalojo de Denver con otros condados de Colorado. Incluye tasas de pobreza, carga de alquiler y tendencias de demandas.">Compare Denver's eviction filing rates with other Colorado counties. Includes poverty rates, rent burden, and filing trends.</p>
+          <span class="source-card__link">View Data →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- What the Data Shows -->
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="What the Data Shows" data-es="Lo que Muestran los Datos">What the Data Shows</h2>
+      <div class="findings">
+        <div class="finding">
+          <div class="finding__icon"><Icon name="lucide:trending-up" size={20} /></div>
+          <div>
+            <strong data-en="Eviction filings have surged post-pandemic" data-es="Las demandas de desalojo han aumentado después de la pandemia">Eviction filings have surged post-pandemic</strong>
+            <p data-en="After federal and state moratoriums expired, Colorado saw a sharp rise in eviction filings. An Enterprise Community Partners study documented roughly 150,000 evictions filed across Colorado from 2017-2021." data-es="Después de que expiraron las moratorias federales y estatales, Colorado vio un fuerte aumento en las demandas de desalojo. Un estudio de Enterprise Community Partners documentó aproximadamente 150,000 desalojos presentados en todo Colorado de 2017-2021.">After federal and state moratoriums expired, Colorado saw a sharp rise in eviction filings. An Enterprise Community Partners study documented roughly 150,000 evictions filed across Colorado from 2017-2021.</p>
+          </div>
+        </div>
+        <div class="finding">
+          <div class="finding__icon"><Icon name="lucide:map-pin" size={20} /></div>
+          <div>
+            <strong data-en="Evictions concentrate in low-income neighborhoods" data-es="Los desalojos se concentran en vecindarios de bajos ingresos">Evictions concentrate in low-income neighborhoods</strong>
+            <p data-en="Neighborhoods like Montbello, East Colfax, and North Park Hill -- the same communities targeted by ShotSpotter surveillance -- face disproportionately high eviction rates." data-es="Vecindarios como Montbello, East Colfax y North Park Hill -- las mismas comunidades objetivo de la vigilancia ShotSpotter -- enfrentan tasas de desalojo desproporcionadamente altas.">Neighborhoods like Montbello, East Colfax, and North Park Hill -- the same communities targeted by ShotSpotter surveillance -- face disproportionately high eviction rates.</p>
+          </div>
+        </div>
+        <div class="finding">
+          <div class="finding__icon"><Icon name="lucide:building" size={20} /></div>
+          <div>
+            <strong data-en="Corporate landlords file the most evictions" data-es="Los propietarios corporativos presentan la mayoría de los desalojos">Corporate landlords file the most evictions</strong>
+            <p data-en="Across Colorado, a small number of large property management companies are responsible for a disproportionate share of eviction filings. Denver's case-level data is needed to identify the worst offenders here." data-es="En todo Colorado, un pequeño número de grandes empresas de administración de propiedades son responsables de una parte desproporcionada de las demandas de desalojo. Se necesitan datos a nivel de caso de Denver para identificar a los peores infractores aquí.">Across Colorado, a small number of large property management companies are responsible for a disproportionate share of eviction filings. Denver's case-level data is needed to identify the worst offenders here.</p>
+          </div>
+        </div>
+        <div class="finding">
+          <div class="finding__icon"><Icon name="lucide:ban" size={20} /></div>
+          <div>
+            <strong data-en="Colorado bans cities from enacting rent stabilization" data-es="Colorado prohíbe a las ciudades implementar estabilización de alquiler">Colorado bans cities from enacting rent stabilization</strong>
+            <p data-en="C.R.S. 38-12-301 prevents Denver from enacting any form of rent control. HB 23-1115 to repeal this ban passed the House but died in the Senate by one vote. Without rent stabilization, tenants have no protection against the price increases driving evictions." data-es="C.R.S. 38-12-301 impide que Denver implemente cualquier forma de control de alquileres. HB 23-1115 para derogar esta prohibición pasó la Cámara pero murió en el Senado por un voto. Sin estabilización de alquileres, los inquilinos no tienen protección contra los aumentos de precios que impulsan los desalojos.">C.R.S. 38-12-301 prevents Denver from enacting any form of rent control. HB 23-1115 to repeal this ban passed the House but died in the Senate by one vote. Without rent stabilization, tenants have no protection against the price increases driving evictions.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Facing Eviction -->
+  <section class="section section--alt">
+    <div class="container container--narrow">
+      <div class="emergency-box">
+        <h2 data-en="Facing Eviction?" data-es="¿Enfrentando un Desalojo?">Facing Eviction?</h2>
+        <p data-en="If you've received an eviction notice, you have rights. Don't wait -- get help now." data-es="Si has recibido un aviso de desalojo, tienes derechos. No esperes -- obtén ayuda ahora.">
+          If you've received an eviction notice, you have rights. Don't wait -- get help now.
+        </p>
+        <div class="emergency-resources">
+          <a href="/tools/know-your-rights" class="resource-link">
+            <Icon name="lucide:message-circle" size={18} />
+            <span data-en="Talk to our AI tenant rights assistant (24/7)" data-es="Habla con nuestro asistente de derechos del inquilino con IA (24/7)">Talk to our AI tenant rights assistant (24/7)</span>
+          </a>
+          <a href="tel:3038371321" class="resource-link">
+            <Icon name="lucide:phone" size={18} />
+            <span data-en="Colorado Legal Services: (303) 837-1321" data-es="Servicios Legales de Colorado: (303) 837-1321">Colorado Legal Services: (303) 837-1321</span>
+          </a>
+          <a href="https://www.coloradolegalservices.org/node/1/tenant-rights" target="_blank" rel="noopener" class="resource-link">
+            <Icon name="lucide:external-link" size={18} />
+            <span data-en="Colorado Legal Services — Tenant Rights" data-es="Servicios Legales de Colorado — Derechos del Inquilino">Colorado Legal Services — Tenant Rights</span>
+          </a>
+          <a href="https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Housing-Stability" target="_blank" rel="noopener" class="resource-link">
+            <Icon name="lucide:external-link" size={18} />
+            <span data-en="Denver Dept. of Housing Stability (HOST)" data-es="Departamento de Estabilidad de Vivienda de Denver (HOST)">Denver Dept. of Housing Stability (HOST)</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Take Action -->
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="Take Action" data-es="Toma Acción">Take Action</h2>
+      <div class="actions-grid">
+        <a href="/tools/resistbot#campaign-rent" class="action-card">
+          <Icon name="lucide:send" size={20} />
+          <div>
+            <strong data-en="Send a letter to repeal Colorado's rent control ban" data-es="Envía una carta para derogar la prohibición de control de alquiler de Colorado">Send a letter to repeal Colorado's rent control ban</strong>
+            <span data-en="Via Resistbot →" data-es="Vía Resistbot →">Via Resistbot →</span>
+          </div>
+        </a>
+        <a href="/tools/rent-calculator" class="action-card">
+          <Icon name="lucide:calculator" size={20} />
+          <div>
+            <strong data-en="Calculate how much you'd save with rent stabilization" data-es="Calcula cuánto ahorrarías con estabilización de alquiler">Calculate how much you'd save with rent stabilization</strong>
+            <span data-en="Rent Calculator →" data-es="Calculadora de Alquiler →">Rent Calculator →</span>
+          </div>
+        </a>
+        <a href="/platform/housing-first" class="action-card">
+          <Icon name="lucide:book-open" size={20} />
+          <div>
+            <strong data-en="Read our full housing platform" data-es="Lee nuestra plataforma completa de vivienda">Read our full housing platform</strong>
+            <span data-en="Housing First Policy →" data-es="Política de Vivienda Primero →">Housing First Policy →</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Data Note -->
+  <section class="section section--alt">
+    <div class="container container--narrow">
+      <div class="data-note">
+        <h3 data-en="About This Data" data-es="Sobre Estos Datos">About This Data</h3>
+        <p data-en="Historical eviction statistics come from the Princeton Eviction Lab's research dataset for Denver County (FIPS 08031), covering 2000-2018. Current aggregate filing data is published by the Colorado Judicial Branch under SB24-064. Case-level data (landlord names, addresses, neighborhoods) requires a CORA request to Denver County Court. We are actively working to obtain and publish this data in an interactive format." data-es="Las estadísticas históricas de desalojos provienen del conjunto de datos de investigación del Laboratorio de Desalojos de Princeton para el Condado de Denver (FIPS 08031), cubriendo 2000-2018. Los datos agregados actuales de demandas son publicados por la Rama Judicial de Colorado bajo SB24-064. Los datos a nivel de caso (nombres de propietarios, direcciones, vecindarios) requieren una solicitud CORA al Tribunal del Condado de Denver. Estamos trabajando activamente para obtener y publicar estos datos en un formato interactivo.">
+          Historical eviction statistics come from the Princeton Eviction Lab's research dataset for Denver County (FIPS 08031), covering 2000-2018. Current aggregate filing data is published by the Colorado Judicial Branch under SB24-064. Case-level data (landlord names, addresses, neighborhoods) requires a CORA request to Denver County Court. We are actively working to obtain and publish this data in an interactive format.
+        </p>
+        <p class="data-note__contact" data-en="Have eviction data to contribute? Email info@denverforall.org" data-es="¿Tienes datos de desalojos para contribuir? Envía un correo a info@denverforall.org">
+          Have eviction data to contribute? Email info@denverforall.org
+        </p>
       </div>
     </div>
   </section>
@@ -43,37 +200,266 @@ import Layout from '../../layouts/Layout.astro';
     color: white;
   }
   .hero-mini h1 { color: white; margin-bottom: 1rem; }
-  .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
 
-  .tool-placeholder {
-    min-height: 500px;
+  .section-title { text-align: center; margin-bottom: 0.5rem; }
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-muted);
+    max-width: 640px;
+    margin: 0.5rem auto 2.5rem;
+  }
+
+  /* Stats Grid */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .stat-card {
+    text-align: center;
+    padding: 2rem 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .stat-card__number {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--color-primary);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+
+  .stat-card__label {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.4;
+  }
+
+  /* Source Cards */
+  .sources-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .source-card {
+    display: block;
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .source-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .source-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    color: var(--color-primary);
+  }
+
+  .source-card__badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.15rem 0.45rem;
+    border-radius: 3px;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    letter-spacing: 0.04em;
+  }
+
+  .source-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .source-card p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin-bottom: 0.75rem;
+  }
+
+  .source-card__link {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  /* Findings */
+  .findings {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .finding {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .finding__icon {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-
-  .tool-placeholder__inner {
-    max-width: 600px;
-    text-align: center;
-    padding: 3rem;
+    border-radius: 10px;
     background: var(--color-bg-alt);
-    border-radius: var(--radius-lg);
-    border: 2px dashed var(--color-border);
-  }
-
-  .tool-placeholder__inner h2 {
     color: var(--color-primary);
-    margin-bottom: 1rem;
   }
 
-  .tool-placeholder__inner ul {
-    text-align: left;
-    margin: 1rem 0;
-    padding-left: 1.5rem;
+  .finding strong {
+    display: block;
+    margin-bottom: 0.25rem;
+    font-size: 0.95rem;
   }
 
-  .tool-placeholder__inner li {
-    margin-bottom: 0.5rem;
+  .finding p {
     color: var(--color-text-muted);
+    font-size: 0.85rem;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Emergency Box */
+  .emergency-box {
+    padding: 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 2px solid #c53030;
+    text-align: center;
+  }
+
+  .emergency-box h2 {
+    color: #c53030;
+    margin-bottom: 0.5rem;
+  }
+
+  .emergency-box > p {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .emergency-resources {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .resource-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: background 0.2s;
+  }
+
+  .resource-link:hover {
+    background: var(--color-border);
+  }
+
+  .resource-link [data-icon] {
+    flex-shrink: 0;
+    color: var(--color-primary);
+  }
+
+  /* Action Cards */
+  .actions-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .action-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s;
+  }
+
+  .action-card:hover {
+    border-color: var(--color-primary);
+  }
+
+  .action-card [data-icon] {
+    flex-shrink: 0;
+    color: var(--color-primary);
+  }
+
+  .action-card strong {
+    display: block;
+    font-size: 0.95rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .action-card span {
+    font-size: 0.8rem;
+    color: var(--color-primary);
+    font-weight: 600;
+  }
+
+  /* Data Note */
+  .data-note {
+    padding: 1.5rem 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .data-note h3 {
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
+
+  .data-note p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .data-note__contact {
+    margin-top: 0.75rem !important;
+    font-weight: 600;
+    color: var(--color-text) !important;
+  }
+
+  @media (max-width: 480px) {
+    .finding { flex-direction: column; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
   }
 </style>

@@ -57,35 +57,54 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 - 911 dispatchers retrained to triage calls appropriately
 - (See: Healthcare proposal for full STAR details)
 
-### 3. Budget Reallocation: 25% Redirect
+### 3. Law Enforcement Assisted Diversion (LEAD) Expansion
+
+STAR handles calls where police don't need to respond at all. But what about when officers *do* encounter someone committing a low-level offense — drug possession, sex work, trespassing, shoplifting driven by addiction? Right now, the default is arrest, booking, prosecution, and the revolving door of incarceration that solves nothing.
+
+Denver piloted the LEAD program under Chief Paul Pazen, operating in DPD Districts 1, 2, and 6 with case management through Addiction Research and Treatment Services (ARTS) and the Empowerment Program. LEAD-trained officers redirect people to services instead of arresting them — voluntary, harm-reduction-based case management including housing, job training, substance use treatment, and mental health support. The pilot was funded at approximately $560K/year through state marijuana tax revenue, a fraction of what's needed for citywide impact.
+
+The evidence is strong. Seattle's LEAD program — the original, launched in 2011 — showed participants had **58-60% lower odds of arrest** compared to controls, along with significant improvements in housing stability and employment (Collins et al., *Evaluation and Program Planning*, 2017). LEAD now operates in over 80 cities nationally. The National Institute of Justice rates it as an evidence-based program.
+
+**Expand LEAD citywide:**
+- LEAD-trained officers in every DPD district, not just Districts 1, 2, and 6
+- Funding for dedicated LEAD case managers through community-based organizations (not DPD)
+- Eligibility expanded beyond drug and prostitution offenses to include all low-level, nonviolent offenses driven by poverty, addiction, or mental health
+- Data tracking: require demographic data on all LEAD referrals and declinations to monitor for racial disparities in who gets offered diversion vs. who gets arrested
+- Target: 2,000+ annual diversions from arrest to services within 3 years
+
+**Community-based referral pathways:** LEAD's national network has evolved — now branded "Let Everyone Advance with Dignity" — recognizing that police should not be the sole gatekeepers to diversion. Denver should develop parallel community referral pathways where outreach workers, business owners, and community members can connect people to LEAD case management directly, without police contact. This reduces the discretion gap where officer bias determines who gets a second chance and who gets a criminal record.
+
+- Cross-reference: [Decriminalize & Heal](/platform/drug-policy) (LEAD is the operational bridge to full decriminalization — it works under current law, right now)
+
+### 4. Budget Reallocation: 25% Redirect
 Over 4 years, redirect 25% of police budget ($75M/year) to:
 - STAR program expansion ($20M)
 - Community violence intervention programs ($15M)
 - Youth services and after-school programs ($15M)
 - Substance use treatment and recovery ($10M)
-- Restorative justice programs ($10M)
+- Restorative justice and LEAD diversion programs ($10M)
 - Affordable housing (contributes to root cause reduction) ($5M)
 
-### 4. End Qualified Immunity (City Level)
+### 5. End Qualified Immunity (City Level)
 - Denver waives qualified immunity defense for all city employees, including police officers
 - Officers can be held personally liable in civil suits for constitutional violations
 - City provides legal defense only when officer followed policy and training
 - Officers carry personal liability insurance (similar to doctors' malpractice insurance)
 
-### 5. Use of Force Reforms
+### 6. Use of Force Reforms
 - Ban chokeholds and carotid restraints permanently
 - Duty to intervene: officers must stop other officers' excessive force or face equal discipline
 - Duty to report: failure to report excessive force is a firing offense
 - De-escalation required before any use of force
 - Body cameras mandatory and always on during encounters. Footage publicly accessible within 72 hours of any use-of-force incident
 
-### 6. Community Violence Intervention
+### 7. Community Violence Intervention
 - Fund evidence-based violence intervention programs (Cure Violence model)
 - Credible messengers from affected communities, not police
 - Targeted intervention in highest-violence neighborhoods
 - Hospital-based intervention for gunshot victims (prevent retaliation cycles)
 
-### 7. Root-Cause Crime Reduction: The Denver Community Safety Investment
+### 8. Root-Cause Crime Reduction: The Denver Community Safety Investment
 
 The single most effective crime reduction strategy is addressing the conditions that produce crime. This is not soft-on-crime idealism — it is what the evidence consistently shows works better than any policing strategy alone.
 
@@ -118,7 +137,7 @@ The single most effective crime reduction strategy is addressing the conditions 
 - Oakland's Ceasefire program reduced homicides by 50%. Boston's original Ceasefire cut youth homicides by 63%. The evidence is among the strongest in all of criminology
 - Denver should implement GVI through a partnership between the city, community organizations, and (reformed) law enforcement — with community organizations leading, not police
 
-### 8. End Mass Surveillance Without Democratic Oversight
+### 9. End Mass Surveillance Without Democratic Oversight
 
 Denver's police department operates 111 Flock Safety automatic license plate reader (ALPR) cameras across nearly 70 intersections, photographing over 2 million vehicles per month. This mass surveillance infrastructure was deployed without a council vote, and when democratic accountability was finally exercised, it was overridden.
 
@@ -181,6 +200,7 @@ This is primarily a budget reallocation, not new spending. Moving $75M from poli
 - Expanded after-school/evening programming: $10M/year (from police budget reallocation + federal grants)
 - On-demand substance use treatment: $8-12M/year (Medicaid reimbursement covers ~60%; city funds remainder)
 - Environmental design (lighting, vacant lots, greening): $5-8M/year capital investment
+- LEAD diversion program (citywide expansion): $3-5M/year (case managers, program coordination; partially offset by reduced booking/prosecution/incarceration costs)
 - Group Violence Intervention program: $3-5M/year
 - Returning citizen housing support: $5-8M/year (cross-funded with housing budget)
 
@@ -224,6 +244,10 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
 - World Prison Brief. International incarceration rate comparisons.
 - Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)
+- Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." *Evaluation and Program Planning*, 64, 49-56. (58-60% lower odds of arrest for LEAD participants vs. controls.)
+- Colorado Behavioral Health Administration. Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Denver pilot outcomes in DPD Districts 1, 2, and 6.)
+- Denver District Attorney's Office. (2018). Denver Pilot Program launch announcement. LEAD partnership with ARTS and the Empowerment Program.
+- LEAD National Support Bureau. (2024). LEAD program replication data. (80+ cities operating LEAD programs nationally.)
 - Cure Violence Global. Program evaluation data. (Community violence intervention outcomes.)
 - University of Chicago Crime Lab. READI Chicago evaluation. (Youth employment and violence reduction.)
 - Brookings Institution. (2022). After-school programming and youth crime timing data.

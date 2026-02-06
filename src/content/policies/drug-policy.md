@@ -71,6 +71,7 @@ The Denver Police Protective Association and Denver District Attorney's office a
 - Close the Drug Enforcement unit within Denver Police
 - Redirect $15-20M/year to treatment, harm reduction, and recovery services
 - Police focus on violent crime and trafficking - not users
+- Cross-reference: [Community Safety & Police Reform — LEAD Expansion](/platform/public-safety) (Until full decriminalization, Denver's LEAD program provides an immediate operational mechanism: trained officers divert people to case management instead of arrest for low-level drug offenses. LEAD works under current law and bridges today's system to the decriminalized future this policy envisions.)
 
 ## How We Pay For It
 

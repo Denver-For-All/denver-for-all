@@ -70,7 +70,7 @@ This makes speculation increasingly expensive while giving owners reasonable tim
 | **UK (various councils)** | Council tax surcharge of up to 300% on long-term empty properties. | Thousands of empty homes brought back into use. |
 | **Washington, DC** | Vacant property tax at 5x the standard rate. | One of the highest vacancy tax rates in the US. Discourages speculation and land banking. |
 
-**The pattern is clear:** every city that taxes vacant properties sees vacancies decrease and housing supply increase. It is one of the simplest, most proven housing policy tools available.
+**The pattern is clear:** cities that tax vacant properties consistently see vacancies decrease and housing supply increase. It is one of the simplest, most proven housing policy tools available.
 
 ## How We Pay For It
 

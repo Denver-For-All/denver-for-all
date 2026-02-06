@@ -77,7 +77,7 @@ Yes. Several US cities and states have created sector-specific wage boards. Cali
 Restaurants, hotels, and home care providers serve Denver customers in Denver. They can't relocate to Aurora and still serve downtown hotel guests. Location-dependent businesses can't flee - and the evidence from cities with higher labor standards shows they don't.
 
 **"This sounds like socialism."**
-It's how Germany works - a country with a stronger economy, lower unemployment, and a larger manufacturing sector than the US. It's how Scandinavia works - consistently ranked as the best places in the world to live and do business. Sectoral bargaining is mainstream economics everywhere except the US.
+It's how Germany works - a country with a stronger economy, lower unemployment, and a larger manufacturing sector than the US. It's how Scandinavia works - consistently ranked as the best places in the world to live and do business. Sectoral bargaining is mainstream in most wealthy democracies -- the US is the outlier among OECD nations (OECD, *Negotiating Our Way Up*, 2019).
 
 **"Doesn't federal labor law (NLRA) preempt city-level labor regulation?"**
 The NLRA preempts laws that directly regulate the collective bargaining process between unions and employers. But wage boards are not collective bargaining. They are government bodies setting minimum standards, similar to minimum wage laws. Cities and states have broad authority to set wage and working condition minimums. California's Fast Food Council, New York's wage boards, and numerous local prevailing wage laws all operate within NLRA parameters. The city contractor requirement is even clearer: Denver has unquestioned authority to set conditions for its own contracts.

@@ -11,9 +11,9 @@ status: "draft"
 
 ## The Problem
 
-Denver has over 7,500 people experiencing homelessness on any given night. The waitlist for Section 8 housing vouchers is years long - and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
+Denver has over 7,500 people experiencing homelessness on any given night (MDHI Point-in-Time Count, 2024). The waitlist for Section 8 housing vouchers is years long (Denver Housing Authority) - and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
 
-Meanwhile, Denver's median rent has nearly doubled since 2010. A one-bedroom apartment averages over $1,600/month. A family earning median income spends over 35% of their earnings on rent - above the federal affordability threshold. For low-income families, it's 50-70%.
+Meanwhile, Denver's median rent has nearly doubled since 2010 (Zillow Observed Rent Index, Denver-Aurora-Lakewood MSA). A one-bedroom apartment averages over $1,600/month (ApartmentList, 2024). A family earning median income spends over 35% of their earnings on rent (U.S. Census Bureau ACS, 2023) - above the federal affordability threshold. For low-income families, it's 50-70%.
 
 The city's current approach - tax incentives for developers who include a handful of "affordable" units in luxury buildings - has produced a fraction of the housing needed, at costs per unit that are obscene, and with affordability restrictions that expire after 15-30 years.
 
@@ -50,7 +50,7 @@ Create a new city agency - the Denver Social Housing Authority (DSHA) - with the
 
 ### The Vienna Model, Adapted for Denver
 
-Vienna, Austria houses 60% of its population in publicly owned or subsidized housing. Rents average €5-7/sqm. There are no ghettos because public housing is everywhere, well-maintained, and desirable. The model works because:
+Vienna, Austria houses 60% of its population in publicly owned or subsidized housing. Rents average €5-7/sqm (Wiener Wohnen / City of Vienna Housing Department, 2023). There are no ghettos because public housing is everywhere, well-maintained, and desirable. The model works because:
 
 1. Scale creates leverage over the private market
 2. Mixed-income prevents stigma

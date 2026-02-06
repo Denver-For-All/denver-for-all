@@ -100,7 +100,7 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 People don't move to Denver because of sanctuary policies. They move for work, family, and safety. Sanctuary policies don't increase immigration - they determine whether immigrant residents live in fear or participate in civic life. When people are afraid to report crimes, everyone is less safe.
 
 **"What about public safety?"**
-Study after study shows that sanctuary cities are safer than non-sanctuary cities. When immigrants can report crimes without fear, police get more tips, more cooperation, and more convictions. ICE operations make communities LESS safe by driving people underground.
+Peer-reviewed research consistently shows that sanctuary cities are safer than non-sanctuary cities (Wong, 2017; Martinez-Schuldt & Martinez, 2019). When immigrants can report crimes without fear, police get more tips, more cooperation, and more convictions. ICE operations make communities LESS safe by driving people underground.
 
 **"Aren't cities required to cooperate with ICE?"**
 No. The 10th Amendment prevents the federal government from commandeering local resources for federal enforcement. The Supreme Court confirmed this in Printz v. United States (1997), and multiple circuit courts have upheld sanctuary policies, including City of Chicago v. Sessions (7th Cir., 2018) and City and County of San Francisco v. Sessions (9th Cir., 2018). Denver has no obligation to do ICE's job.

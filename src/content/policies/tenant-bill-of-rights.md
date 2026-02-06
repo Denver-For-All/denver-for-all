@@ -36,7 +36,7 @@ Every tenant facing eviction in Denver is entitled to a city-funded attorney, re
 - Funded through dedicated eviction defense fund
 - Attorneys provided through contracts with legal aid organizations and the public defender's office
 - Available from the moment of eviction filing through resolution
-- Studies show right to counsel prevents 70-85% of evictions and saves cities money (reduced shelter costs, emergency services, school disruption)
+- New York City's right to counsel program prevented eviction in 84% of represented cases (NYC Office of Civil Justice, 2023), and similar programs show prevention rates of 70-85%, saving cities money through reduced shelter costs, emergency services, and school disruption
 
 **2. 90-Day Notice for Rent Increases**
 Any rent increase requires 90 days written notice (currently 21 days for month-to-month in Colorado). This gives tenants real time to budget, negotiate, or find alternatives - not a scramble.

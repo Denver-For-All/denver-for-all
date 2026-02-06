@@ -82,7 +82,7 @@ Denver should build a full cooperative ecosystem, modeled on the most successful
 ### 5. Micro-Loan & Capital Access
 - City-backed micro-loan fund for businesses under $250K revenue, offering 0-3% interest loans, because 77% of small businesses are rejected by big banks
 - Priority access for BIPOC, immigrant, and women-owned businesses, closing the startup capital gap where Black entrepreneurs start with one-third the capital of white entrepreneurs
-- Technical assistance paired with every loan: business planning, accounting, marketing, and legal support, because capital alone is not enough (SBA data shows failure rates drop dramatically with mentorship and support)
+- Technical assistance paired with every loan: business planning, accounting, marketing, and legal support, because capital alone is not enough (SBA Office of Advocacy and SCORE (2024 Mentoring Impact Report) data shows failure rates drop dramatically with mentorship and support)
 - Shared commercial kitchen, maker space, and co-working facilities in underserved neighborhoods: Montbello, Westwood, Sun Valley, and Globeville-Elyria-Swansea
 - Community Development Financial Institution (CDFI) partnerships to leverage federal funds and private capital alongside city investment
 

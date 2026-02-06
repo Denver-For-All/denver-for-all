@@ -11,12 +11,12 @@ status: "draft"
 
 ## The Problem
 
-A single hospital stay in Denver can produce a bill exceeding $1 million. Medical debt is the leading cause of bankruptcy in America. Denver Health, a public hospital, still sends patients to collections and places liens on homes. The system generates debt, not health.
+A single hospital stay in Denver can produce a bill of hundreds of thousands of dollars. Medical debt is a leading contributor to bankruptcy in America (Himmelstein et al., 2009; Dobkin et al., 2018 -- see FAQ for discussion of methodology). Denver Health, a public hospital, still sends patients to collections and places liens on homes. The system generates debt, not health.
 
 Meanwhile:
 - Denver has insufficient mental health crisis services - police respond to mental health emergencies they're not trained for, with predictable results
 - Entire neighborhoods lack accessible primary care
-- Prescription drugs cost 2-10x what they cost in other countries
+- Prescription drugs cost 2-10x what they cost in other countries (RAND Corporation, 2021)
 - Uninsured and underinsured residents delay care until emergencies, which costs everyone more
 
 ### What Denver Currently Does

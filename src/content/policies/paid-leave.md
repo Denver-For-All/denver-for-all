@@ -89,7 +89,7 @@ Sweden introduced the first "daddy quota" in 1995 - 30 days of parental leave re
 Norway, Iceland, Germany, and others followed. The result:
 - More equal distribution of childcare labor
 - Higher female workforce participation (women aren't penalized for being "the ones who take leave")
-- Stronger father-child bonds (long-term studies show lasting positive effects)
+- Stronger father-child bonds (Petts, Knoester & Waldfogel, 2020, *Journal of Marriage and Family*)
 - Reduced gender pay gap
 
 **Denver's parental leave includes 8 weeks reserved for each parent specifically because the evidence shows this is what changes cultural norms.**
@@ -122,7 +122,7 @@ Denver's program uses an insurance model (similar to Colorado's state FAMLI prog
 Businesses in every other wealthy country afford this. The 0.5% employer payroll tax is a rounding error compared to health insurance premiums. And the evidence from every US state that has implemented paid leave shows zero negative employment effects.
 
 **"People will abuse unlimited sick leave."**
-Studies from countries with unlimited sick leave show average usage of 8-12 days/year - barely more than where it's limited. Most people want to work. What changes is that sick people stay home instead of infecting the office.
+Data from OECD countries with unlimited sick leave show average usage of 8-12 days/year (OECD Health at a Glance, 2023) - barely more than where it's limited. Most people want to work. What changes is that sick people stay home instead of infecting the office.
 
 **"26 weeks of parental leave is too generous."**
 It's HALF of what Sweden provides. It's HALF of what Denmark provides. And the research is unequivocal: the first 6 months of a child's life are critical for bonding, breastfeeding, and development. Six months is a minimum, not a luxury.

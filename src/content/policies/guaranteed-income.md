@@ -94,7 +94,7 @@ The most common objection to guaranteed income is that people will stop working.
 - **Federal and philanthropic matching:** The Stanford Basic Income Lab and Mayors for a Guaranteed Income have facilitated philanthropic funding for dozens of pilots. Federal matching through the American Rescue Plan and successor programs is a realistic supplement.
 - **Bank of Denver interest income** (see [Public Banking](/platform/public-banking)): Once established, the public bank generates returns that can partially fund social programs.
 
-**Return on investment:** Every dollar in guaranteed income generates an estimated $1.50-2.00 in reduced emergency spending and increased economic activity. Cash goes directly into local economies: rent, groceries, childcare, small businesses. The local spending multiplier for low-income households is the highest of any income group because every dollar is spent, not saved offshore.
+**Return on investment:** Every dollar in guaranteed income generates an estimated $1.50-2.00 in reduced emergency spending and increased economic activity (Mayors for a Guaranteed Income, 2024; Stanford Basic Income Lab analysis). Cash goes directly into local economies: rent, groceries, childcare, small businesses. The local spending multiplier for low-income households is the highest of any income group because every dollar is spent, not saved offshore.
 
 ## Frequently Asked Questions
 

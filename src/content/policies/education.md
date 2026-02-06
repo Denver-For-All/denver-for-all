@@ -73,7 +73,7 @@ DPS enrolls approximately 90,000 students across 200+ schools, including approxi
 | **Estonia** | Radical equal funding model. Free school meals. Strong early childhood programs. Teacher autonomy. | Top-performing European country on PISA. Rose from Soviet-era system to world-class in one generation through public investment. |
 | **South Korea** | Massive public investment in education. Teacher salaries among highest in the world (comparable to engineers). Free school meals. | Highest literacy rate in the world. Dramatic economic transformation driven by education investment. |
 
-**The pattern:** Every country with great education has: (1) equal funding, (2) well-paid teachers, (3) universal free meals, (4) strong pre-K, and (5) no privatization of the public system. Zero of the top-performing education systems rely on charter schools or market competition. The American experiment with school privatization has no international evidence supporting it.
+**The pattern:** Every country with great education has: (1) equal funding, (2) well-paid teachers, (3) universal free meals, (4) strong pre-K, and (5) no privatization of the public system. None of the top-performing education systems on international assessments (OECD PISA, TIMSS) are built on charter school or market competition models. The American experiment with school privatization has no international evidence supporting it.
 
 **Finland's lesson for Denver:** Finland's education revolution started with a simple principle: *every child deserves a great school in their neighborhood*. They didn't create "school choice" - they made every school excellent. That's our model.
 

@@ -56,7 +56,7 @@ However, the scale is far below what is needed. Elevation CLT adds approximately
 | **Dudley Street Neighborhood Initiative (Boston)** | Community-organized CLT in historically redlined neighborhood. Used eminent domain to acquire vacant land. | Prevented gentrification. Built 225+ affordable homes. Community controls its own land. National model for anti-displacement. |
 | **Kenya** | Community Land Act (2016) formalized communal land tenure. | Protects community land rights from speculative acquisition. Different context but same principle: land held in trust for community benefit. |
 
-**The CLT model has been proven over 50+ years, on every continent, at every scale.** It works because it separates the value of the home (which the owner keeps) from the value of the land (which the community holds). This removes speculation while preserving genuine homeownership.
+**The CLT model has been proven over 50+ years, across multiple countries and continents, at every scale.** It works because it separates the value of the home (which the owner keeps) from the value of the land (which the community holds). This removes speculation while preserving genuine homeownership.
 
 ## How We Pay For It
 

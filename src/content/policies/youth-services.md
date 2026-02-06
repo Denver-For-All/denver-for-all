@@ -87,7 +87,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 | **Medellín, Colombia** | Massive youth investment in the most violent neighborhoods: education, arts, libraries, job training, public spaces. Youth programming was central to the city's transformation strategy. | Went from the murder capital of the world to a global model of urban renewal. Youth programs were the foundation of the turnaround. |
 | **Scotland** | Whole-system approach to youth justice: community-based alternatives, early intervention, restorative justice, age of criminal responsibility raised to 12. | Youth imprisonment down 83% since 2008. Youth crime dropped dramatically. Proves that investing in alternatives works better than punishment. |
 
-Investing in youth is the single highest-return public investment a city can make. Every dollar spent on quality youth programs returns $7-10 in reduced incarceration ($60,000+/year per juvenile in Colorado), reduced healthcare costs, increased lifetime earnings, and increased tax revenue. Punishment is expensive and doesn't work. Prevention is cheaper and does.
+Investing in youth is the single highest-return public investment a city can make. Every dollar spent on quality youth programs returns $7-10 in reduced incarceration (Heckman & Masterov, 2007; Fight Crime: Invest in Kids, 2020) ($60,000+/year per juvenile in Colorado), reduced healthcare costs, increased lifetime earnings, and increased tax revenue. Punishment is expensive and doesn't work. Prevention is cheaper and does.
 
 ## How We Pay For It
 

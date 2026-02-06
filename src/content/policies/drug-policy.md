@@ -11,10 +11,10 @@ status: "draft"
 
 ## The Problem
 
-The war on drugs has failed. Fifty years of criminalization have not reduced drug use - they've produced:
+The war on drugs has failed. Fifty years of criminalization have not reduced drug use (National Research Council, 2001; Drug Policy Alliance, 2024) - they've produced:
 - Mass incarceration, disproportionately of Black and Latino men
 - Overdose deaths at record levels (fentanyl is now the leading cause of death for Americans 18-45)
-- A trillion dollars wasted on enforcement that doesn't work
+- Over a trillion dollars wasted on enforcement that doesn't work (NDIC, 2011)
 - Stigma that prevents people from seeking help
 - Criminal records that make recovery nearly impossible (can't get a job, can't get housing, can't get student loans)
 

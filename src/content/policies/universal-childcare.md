@@ -19,7 +19,7 @@ The result:
 - Childcare workers - who are responsible for human development at its most critical stage - earn $13-16/hr (poverty wages)
 - Employers lose productive workers and spend billions on turnover
 
-The American childcare system is a market failure. It's too expensive for parents, pays poverty wages to workers, and produces worse outcomes than public systems in other countries. The market cannot solve this - every country that has solved childcare has done it publicly.
+The American childcare system is a market failure. It's too expensive for parents, pays poverty wages to workers, and produces worse outcomes than public systems in other countries. The market cannot solve this - every country with universal, affordable childcare has achieved it through substantial public investment and a publicly structured system.
 
 ### What Denver Currently Does
 

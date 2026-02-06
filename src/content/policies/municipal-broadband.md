@@ -79,7 +79,7 @@ Compare to Comcast: $80-120/month for comparable speeds with data caps and annua
 | **Longmont, CO** | NextLight municipal broadband. 30 miles from Denver. | 1 Gbps | $50/month | Profitable within 5 years. 90%+ customer satisfaction. Proof of concept in Denver's backyard. |
 | **Fort Collins, CO** | Connexion municipal broadband. | 1 Gbps | $60/month | On track for profitability. Residents voted 57% in favor despite $150M Comcast-funded opposition campaign. |
 
-**The US pays more for worse internet than most of the developed world** because we let monopolies control infrastructure. Municipal broadband breaks the monopoly, and the evidence from every city that's done it shows better speeds, lower prices, and community benefit.
+**The US pays more for worse internet than most of the developed world** because we let monopolies control infrastructure. Municipal broadband breaks the monopoly, and the evidence from cities that have done it consistently shows better speeds, lower prices, and community benefit (Institute for Local Self-Reliance, Community Broadband Networks database, 2025).
 
 ## How We Pay For It
 

@@ -11,7 +11,7 @@ status: "draft"
 
 ## The Problem
 
-American workers have no structural voice in the companies they build. Management makes all decisions - scheduling, safety, layoffs, plant closures, outsourcing - unilaterally. The only formal avenue for worker input is unionization, which covers just 6% of private-sector workers and faces relentless employer opposition.
+American workers have no structural voice in the companies they build. Management makes all decisions - scheduling, safety, layoffs, plant closures, outsourcing - unilaterally. The only formal avenue for worker input is unionization, which covers just 6% of private-sector workers (Bureau of Labor Statistics, 2024) and faces relentless employer opposition.
 
 The result: American workers are more productive than ever but have no say in how that productivity is shared. CEO-to-worker pay ratios have gone from 20:1 in 1965 to over 350:1 today. Meanwhile, mass layoffs happen via email, schedules change with 24 hours notice, and workplace safety depends entirely on management's goodwill.
 
@@ -89,7 +89,7 @@ Since federal labor law preempts some workplace regulation, Denver implements th
 This is a regulatory framework, not a spending program.
 - Administration of works council elections and dispute resolution: $1-2M/year
 - Tax incentives for voluntary adoption: $3-5M/year
-- Net cost to employers: Studies show works councils REDUCE costs through lower turnover, fewer workplace accidents, and higher productivity. German firms with works councils outperform those without.
+- Net cost to employers: Research shows works councils REDUCE costs through lower turnover, fewer workplace accidents, and higher productivity (Addison, Schnabel & Wagner, 2001; Jirjahn & Smith, 2018). German firms with works councils outperform those without.
 
 ## Frequently Asked Questions
 

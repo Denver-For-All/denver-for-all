@@ -11,9 +11,9 @@ status: "draft"
 
 ## The Problem
 
-Denver has approximately 7,500 people experiencing homelessness on any given night. The city's approach has been the traditional American model: shelters as triage, conditional housing (you must be sober, employed, or "housing ready" to qualify), and criminalization of sleeping outdoors.
+Denver has approximately 7,500 people experiencing homelessness on any given night (MDHI Point-in-Time Count, 2024; Denver HOST estimates). The city's approach has been the traditional American model: shelters as triage, conditional housing (you must be sober, employed, or "housing ready" to qualify), and criminalization of sleeping outdoors.
 
-This model has failed everywhere it's been tried. It costs more than housing people, produces worse outcomes, and treats a housing problem as a character flaw.
+This model has consistently produced worse outcomes and higher costs than Housing First approaches in every rigorous comparison. It costs more than housing people, produces worse outcomes, and treats a housing problem as a character flaw.
 
 ### What Denver Currently Does
 
@@ -117,7 +117,7 @@ Sam Tsemberis at Pathways to Housing (New York) pioneered Housing First in the U
 
 **Savings per person housed: $36,000-62,000/year.**
 
-For 7,500 homeless individuals, that's $270M-465M/year in savings - money currently being spent on emergency responses to homelessness instead of ending it.
+For the approximately 2,000-3,000 chronically homeless individuals who incur the highest emergency costs, that represents $72M-186M/year in savings -- money currently being spent on emergency responses to homelessness instead of ending it (Culhane, Metraux & Hadley, 2002).
 
 **Startup investment:** $200-300M for unit acquisition and conversion (funded through Social Housing Authority bonds + federal HUD matching).
 
@@ -130,7 +130,7 @@ No. The evidence definitively shows they don't. Housing First works BETTER than 
 It's giving people homes and support services. Most Housing First residents eventually contribute to their own housing costs. And the alternative - paying $80K/year per person for emergency services - is a far more expensive form of "free." We're already paying. We're just paying for failure.
 
 **"What about the homeless people who don't want housing?"**
-This is largely a myth. Studies show 95%+ of people experiencing homelessness want housing. When offered a permanent, unconditional home (not a shelter cot with a curfew and sobriety rules), acceptance rates are extremely high.
+This is largely a myth. Research by Tsemberis and Pathways to Housing consistently finds that 95%+ of people experiencing homelessness want housing (Tsemberis, 2004). When offered a permanent, unconditional home (not a shelter cot with a curfew and sobriety rules), acceptance rates are extremely high.
 
 **"Doesn't this attract homeless people from other cities?"**
 Data from cities that implemented Housing First (Houston, Finland, Medicine Hat) does not show significant "magnet effects." People experiencing homelessness typically became homeless in the place where they live - they're our neighbors, not outsiders.

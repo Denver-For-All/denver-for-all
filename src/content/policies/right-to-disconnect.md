@@ -86,7 +86,7 @@ Denver can set the work week for 12,000+ city employees, all city contractors, a
 They hire more people. If a restaurant needs 7-day coverage, it hires for 4-day shifts instead of 5-day shifts. This increases total employment - which is a benefit, not a cost.
 
 **"This is unrealistic."**
-It was the standard work week 100 years ago. The 40-hour week was considered radical when it was introduced. Before that, 60-80 hour weeks were "normal." Progress means working smarter, not longer. Every country with shorter work weeks has a higher quality of life than the US.
+It was the standard work week 100 years ago. The 40-hour week was considered radical when it was introduced. Before that, 60-80 hour weeks were "normal." Progress means working smarter, not longer. OECD countries with shorter average work weeks -- including Germany, Denmark, the Netherlands, and Norway -- consistently rank above the US on quality-of-life indices (OECD Better Life Index, 2024).
 
 **"Workers will just get second jobs."**
 Some might, and that's their choice. The goal is ensuring that one full-time job provides a living wage (see: $25 Minimum Wage) so that no one NEEDS a second job. If people want additional income, a 4-day week gives them that flexibility.

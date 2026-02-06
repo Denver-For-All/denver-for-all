@@ -56,7 +56,7 @@ Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow
 | **Netherlands** | Point-based rent system - rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum. | Transparent, objective rent-setting. No landlord discretion. |
 | **Paris, France (*Encadrement des loyers*)** | Rent caps based on neighborhood reference rents. | Slowed rapid gentrification in central Paris. |
 
-**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment - and it's failed. Every city that relies purely on the market has a housing affordability crisis. Every city with strong rent regulation doesn't.
+**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment - and it's failed. Cities that rely purely on the market consistently develop housing affordability crises. Cities with strong rent regulation have more stable, affordable housing -- though regulation alone is not sufficient without supply investment.
 
 ### Why No Vacancy Decontrol Matters
 

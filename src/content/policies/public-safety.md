@@ -123,7 +123,7 @@ Civilian oversight board: $3-5M/year from general fund.
 ## Frequently Asked Questions
 
 **"Won't reducing police funding increase crime?"**
-Studies show no correlation between police spending and crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. We're investing in what works.
+Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. We're investing in what works.
 
 **"Who responds to violent crime?"**
 Police. This plan doesn't eliminate police. It refocuses them on violent crime and removes responsibilities they're not trained for. A smaller, better-trained, better-supervised police force focused on actual public safety threats.

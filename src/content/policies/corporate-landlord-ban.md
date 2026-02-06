@@ -69,7 +69,7 @@ Property owners and management companies are prohibited from using algorithmic p
 | **Berlin, Germany** | 2021 referendum: 59% voted to expropriate 240,000 apartments from large corporate landlords (Deutsche Wohnen, Vonovia). Implementation ongoing. | Democratic mandate to take housing back from corporate landlords. The movement is global. |
 | **Spain** | Catalonia's new housing law (2023) forces large landlords to rent vacant properties in high-demand areas or face expropriation. | Directly addresses corporate vacancy and speculation. |
 
-**The US is one of the only countries that treats residential housing primarily as an investment vehicle.** Most countries regulate who can buy housing and how it can be used because they recognize that shelter is a human need, not an asset class.
+**The US, along with a handful of other Anglosphere nations, has uniquely financialized residential housing** -- treating it primarily as an investment vehicle rather than shelter (OECD Housing Policy Dashboard, 2024). Most countries regulate who can buy housing and how it can be used because they recognize that shelter is a human need, not an asset class.
 
 ## How We Pay For It
 

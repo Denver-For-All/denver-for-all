@@ -62,7 +62,7 @@ A publicly owned, city-chartered bank modeled on the Bank of North Dakota (opera
 | **Costa Rica's Banco Nacional** | Costa Rica | 1914 | Public/mixed | Largest bank in Central America. Public bank finances development while private banks serve elites. |
 | **India's State Bank of India** | India | 1955 | $635 billion | Financial inclusion for 450M+ account holders. Reaches rural communities that private banks ignore. |
 
-**Public banking is the global norm.** Private banking dominance is the American aberration. In Germany alone, public and cooperative banks control more assets than private banks. They serve communities instead of extracting from them.
+**Public banking is widespread globally** -- Germany, Japan, India, Costa Rica, and dozens of other nations rely on public banks as core financial infrastructure. The near-total absence of public banking in the US is unusual among large economies. In Germany alone, public and cooperative banks control more assets than private banks. They serve communities instead of extracting from them.
 
 ## How We Pay For It
 

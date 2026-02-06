@@ -1,8 +1,8 @@
 ---
 title: "Transportation & Public Transit"
 titleEs: "Transporte y Tránsito Público"
-summary: "Free RTD transit for low-income residents. Protected bike lanes on every major corridor. Vision Zero with real enforcement. Parking reform to reduce housing costs. Transit equity for underserved neighborhoods."
-summaryEs: "Tránsito RTD gratuito para residentes de bajos ingresos. Ciclovías protegidas en cada corredor principal. Visión Cero con aplicación real. Reforma de estacionamiento para reducir costos de vivienda. Equidad de tránsito para vecindarios desatendidos."
+summary: "Free RTD transit for low-income residents. Protected bike lanes on every major corridor. Vision Zero with real enforcement. Parking reform to reduce housing costs. Transit equity for underserved neighborhoods. 15-minute city framework so every Denverite can reach daily needs on foot or bike."
+summaryEs: "Tránsito RTD gratuito para residentes de bajos ingresos. Ciclovías protegidas en cada corredor principal. Visión Cero con aplicación real. Reforma de estacionamiento para reducir costos de vivienda. Equidad de tránsito para vecindarios desatendidos. Marco de ciudad de 15 minutos para que cada residente de Denver pueda llegar a sus necesidades diarias a pie o en bicicleta."
 category: "infrastructure"
 icon: "bus"
 order: 62
@@ -87,6 +87,34 @@ RTD is a regional agency. Denver cannot control it directly. But Denver is RTD's
 - **Service restoration to pre-2020 levels as a minimum baseline.** RTD should not be cutting service with $1 billion in reserves. Riders in Montbello, Westwood, and Far Northeast deserve the routes that were promised.
 - **Dedicated city liaison to RTD** for service advocacy -- a senior city official whose job is to fight for Denver riders at every RTD board meeting.
 
+### 7. 15-Minute City Framework
+
+The 15-minute city concept is simple: every resident should be able to reach daily essentials -- grocery stores, schools, parks, healthcare, transit, and employment -- within a 15-minute walk or bike ride. This is not a utopian vision. It is how cities were built before car-centric planning dismantled walkable neighborhoods. Denver should adopt this as an explicit planning framework, not just aspiration.
+
+**The Gap in Denver**
+Denver's neighborhoods are deeply unequal in access to daily essentials. Residents of Capitol Hill, Wash Park, and Highlands live in walkable, mixed-use neighborhoods with abundant transit, retail, and services. Residents of Montbello, Green Valley Ranch, Far Northeast, and Westwood face food deserts, transit deserts, and a car-dependent built environment with no viable alternative. The 15-minute city framework makes this inequality visible and measurable -- and commits to closing the gap.
+
+**What Denver Should Do**
+
+- **15-minute city audit:** Map every Denver neighborhood against a 15-minute walkability/bikeability standard for six essential categories: grocery/food, schools/childcare, parks/recreation, healthcare, transit, and employment centers. Publish the results as a public dashboard with equity metrics by race and income.
+- **Infill and mixed-use zoning in underserved areas:** Allow neighborhood-scale commercial uses (grocery, pharmacy, cafe, childcare) in currently residential-only zones in Far Northeast, Montbello, Green Valley Ranch, and Westwood. Residents should not need a car to buy groceries.
+- **Complete streets in every neighborhood:** Every street redesign or repaving project must include pedestrian and cycling improvements. No more rebuilding car-only infrastructure.
+- **Neighborhood service hubs:** Co-locate city services (library, rec center, health clinic, transit stop) in walkable neighborhood centers -- not isolated single-use facilities surrounded by parking. Cross-reference: [Food Access & Urban Agriculture](/platform/food-access), [Parks, Recreation & Public Space](/platform/parks-recreation), [Healthcare as a Right](/platform/healthcare).
+- **Pedestrian-first street design:** Widen sidewalks, add street trees, and create pedestrian plazas in commercial corridors -- especially in neighborhoods where walking is currently hostile due to wide, fast-moving streets.
+
+**International Evidence for the 15-Minute Framework**
+
+| City | Initiative | Result |
+|------|-----------|--------|
+| **Paris, France** | Mayor Anne Hidalgo's "ville du quart d'heure" -- converting car lanes to bike lanes, creating neighborhood plazas, planting 170,000 trees, and decentralizing city services to local neighborhoods. | Car traffic in Paris dropped 60% since 2001. Cycling trips tripled between 2019-2024. Air quality improved significantly. Hidalgo won re-election on the platform. |
+| **Shanghai, China** | Added 50 km of new routes connecting 4.8 million residents to public spaces along the Huangpu River within a 15-minute bike ride. | Massive increase in waterfront access for residents previously cut off by car infrastructure. |
+| **Sydney, Australia** | Redesigned George Street -- once the city's most congested street -- as a people-centered public space. | Now moves 8,000 transit riders per hour. Pedestrian traffic increased dramatically. Retail on the street thrived. |
+| **Indianapolis, USA** | Invested $27 million in downtown biking infrastructure. | Catalyzed $170 million in private housing and commercial development. 70% of residents report more exercise. Downtown revenue increased by two-thirds. |
+| **Melbourne, Australia** | 20-minute neighborhood policy: explicit planning framework requiring all new development to meet walkability standards for essential services. | Adopted as official metropolitan planning strategy. Neighborhoods assessed and rated on 20-minute access. Public dashboard tracks progress. |
+| **Buenos Aires, Argentina** | Upgraded 27 public spaces in the city's largest informal settlement to create walkable neighborhoods. Introduced infill housing and pedestrian corridors. | Transformed access to services in the city's most underserved community. Model for equity-focused 15-minute design. |
+
+The 15-minute city is not about restricting movement. It is about ensuring that no one is forced to own a car to live a functional life. In Denver, where 81% of commuters drive alone and low-income residents in transit deserts face the highest transportation cost burdens, this framework is an equity imperative.
+
 ### International Evidence: Cars Are Not The Answer
 
 | Country/City | Model | Result |
@@ -105,7 +133,8 @@ Denver has every advantage these cities had -- and then some. The metro area alr
 - **Bike infrastructure: $10-15M/year from DOTI capital budget.** Denver added 137 miles of bike lanes over five years for $13.4 million total. Protected lanes cost more, but the city's own Denver Moves plan already envisions this level of investment. Federal grants through the IIJA and Safe Streets for All program can supplement city funds.
 - **Parking reform: Revenue-neutral.** Eliminating minimums reduces development costs, not city revenue. Demand-based parking pricing downtown generates new revenue while improving access for businesses.
 - **Vision Zero: $5-10M/year for intersection redesign.** Federal Highway Safety Improvement Program (HSIP) grants and Safe Streets for All funding are specifically designed for this work. Denver has been leaving federal safety money on the table.
-- **Total: $50-65M/year**, offset by reduced road maintenance costs, reduced healthcare spending from crashes and air pollution, climate benefits, and increased economic activity from transit-accessible development. Denver's annual general fund budget exceeds $1.8 billion. This is a 3% investment in a transportation system that serves everyone, not just those who can afford a car.
+- **15-minute city infrastructure: $5-8M/year** for the neighborhood audit, infill zoning implementation, complete streets, and pedestrian improvements. This is largely embedded in existing DOTI capital budgets -- the 15-minute framework is a planning lens that redirects existing spending, not primarily new spending.
+- **Total: $55-73M/year**, offset by reduced road maintenance costs, reduced healthcare spending from crashes and air pollution, climate benefits, and increased economic activity from transit-accessible development. Denver's annual general fund budget exceeds $1.8 billion. This is a 3% investment in a transportation system that serves everyone, not just those who can afford a car.
 
 ## Frequently Asked Questions
 
@@ -134,3 +163,5 @@ Denver cannot control RTD, but it can exert enormous influence. Denver is RTD's 
 - Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (Structured parking adds average $50,000 per unit.)
 - University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (24% ridership above peer cities; 17% new riders.)
 - Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 vouchers redeemed; 64% to lower/moderate income.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghai (50 km of routes connecting 4.8M residents), Sydney (George Street redesign, 8,000 riders/hour), Indianapolis ($27M bike investment catalyzed $170M private development).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." 15-minute city and climate-aligned urbanism trends.

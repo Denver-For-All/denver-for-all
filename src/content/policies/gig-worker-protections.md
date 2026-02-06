@@ -19,7 +19,7 @@ This is not innovation. It's wage theft at scale.
 
 ### What Denver/Colorado Currently Does
 
-Colorado passed SB 22-161 in 2022, establishing minimum pay requirements for transportation network company (TNC) drivers (Uber/Lyft). The law requires a minimum per-mile and per-minute rate. However, it applies only to rideshare -- not to delivery workers (DoorDash, Instacart) or other gig platforms. It also does not reclassify workers as employees.
+Colorado passed SB 22-161 in 2022, establishing minimum pay requirements for transportation network company (TNC) drivers (Uber/Lyft). The law requires a minimum per-mile and per-minute rate. However, it applies only to rideshare, not to delivery workers (DoorDash, Instacart) or other gig platforms. It also does not reclassify workers as employees.
 
 Nationally, there are an estimated 55-60 million gig workers (McKinsey Global Institute, 2022). Denver's gig workforce is estimated at 30,000-50,000 workers across rideshare, delivery, care work, and other platforms.
 
@@ -83,7 +83,7 @@ The gig economy functions in California, which has similar protections (AB5). Ub
 Some do. Those workers can still contract independently - they just have to pass the ABC test, meaning they're genuinely independent (set their own prices, work for multiple clients, have their own business). An Uber driver who can't set their fare is not independent.
 
 **"What about gig workers who work across city lines?"**
-Denver's ordinance applies to work performed within Denver city limits. For rideshare, the trip's origin determines jurisdiction (a ride starting in Denver is covered regardless of destination). For delivery, the delivery location determines jurisdiction. This is the same framework used for minimum wage enforcement and sales tax collection -- cities already manage cross-jurisdictional economic activity.
+Denver's ordinance applies to work performed within Denver city limits. For rideshare, the trip's origin determines jurisdiction (a ride starting in Denver is covered regardless of destination). For delivery, the delivery location determines jurisdiction. This is the same framework used for minimum wage enforcement and sales tax collection; cities already manage cross-jurisdictional economic activity.
 
 ## Who Opposes This (and Why)
 

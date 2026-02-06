@@ -33,7 +33,7 @@ FAMLI is a significant step forward. Our proposal builds on it:
 | Vacation minimum | Not addressed | **4 weeks minimum** |
 | Reserved parental leave ("daddy/mommy quota") | No | **8 weeks per parent** |
 
-Denver's program supplements FAMLI -- it does not duplicate it. The first 12 weeks would be paid through FAMLI; Denver's program extends coverage beyond FAMLI's limits and adds provisions FAMLI does not cover (unlimited sick leave, minimum vacation, reserved parental leave quotas).
+Denver's program supplements FAMLI; it does not duplicate it. The first 12 weeks would be paid through FAMLI; Denver's program extends coverage beyond FAMLI's limits and adds provisions FAMLI does not cover (unlimited sick leave, minimum vacation, reserved parental leave quotas).
 
 ## Our Solution
 

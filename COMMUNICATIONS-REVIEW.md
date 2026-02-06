@@ -1,4 +1,4 @@
-# Denver For All -- Communications Strategy Review
+# Denver For All: Communications Strategy Review
 
 ## Executive Summary
 
@@ -25,7 +25,7 @@ Not a single policy document includes a footnote, endnote, URL, or academic cita
 | Rent Control | "Denver rents increased 95%+ since 2010" | Zillow ZORI, ApartmentList, or Census ACS |
 | Tenant Rights | "90%+ of landlords have attorneys, <10% of tenants do" | NYC Right to Counsel evaluation or NLADA |
 | Corporate Landlord Ban | "Evict at 2-3x the rate of individual landlords" | ACCE Institute or Private Equity Stakeholder Project report |
-| Living Wage | MIT Living Wage Calculator figures | livingwage.mit.edu (need date stamp -- updates annually) |
+| Living Wage | MIT Living Wage Calculator figures | livingwage.mit.edu (need date stamp; updates annually) |
 | Drug Policy | "Zero deaths in supervised consumption sites worldwide" | Potier et al. systematic review or EMCDDA data |
 | Healthcare | "Medical debt is leading cause of bankruptcy" | Himmelstein et al. (note: 2019 NEJM study challenged this) |
 | Climate | "Elevated radioactive isotopes near Rocky Flats" | Name the independent study and who conducted it |
@@ -36,7 +36,7 @@ Multiple statistics will age quickly without dates. Denver's minimum wage, rent 
 
 ### 1.3 Overstated Calculations
 
-The Housing First page estimates "$270M-465M/year in savings" by multiplying per-person savings by the full 7,500 homeless population. But not all 7,500 people cost $55K-95K in the current model -- many are not chronically homeless and do not cycle through emergency services at that rate. This calculation is likely overstated and will be challenged. Recalculate using the chronically homeless subset or provide the methodology transparently.
+The Housing First page estimates "$270M-465M/year in savings" by multiplying per-person savings by the full 7,500 homeless population. But not all 7,500 people cost $55K-95K in the current model. Many are not chronically homeless and do not cycle through emergency services at that rate. This calculation is likely overstated and will be challenged. Recalculate using the chronically homeless subset or provide the methodology transparently.
 
 ---
 
@@ -50,14 +50,14 @@ Several policies propose things Denver already partially does without acknowledg
 |--------|--------------------------------------------------|
 | Community Land Trusts | **Elevation Community Land Trust** (Denver's existing CLT) |
 | Paid Leave | **Colorado FAMLI** (12 weeks paid leave, took effect 2024) |
-| Municipal Broadband | **Denver Measure 2J (2018)** -- voters already approved municipal broadband. Why hasn't it been built? |
+| Municipal Broadband | **Denver Measure 2J (2018)**: voters already approved municipal broadband. Why hasn't it been built? |
 | Drug Policy | **Denver Proposition 301 (2019)** psilocybin decriminalization + **Colorado Prop 122 (2022)** |
 | Public Safety | **Office of the Independent Monitor** (existing civilian oversight) |
 | Education | **Colorado Universal Pre-K** (CDEC, Proposition EE) |
 | Childcare | **Colorado Child Care Assistance Program (CCCAP)** |
 | Climate | **Denver 80x50 Climate Action Plan**, Xcel Energy timeline |
 
-**Fix:** Each policy should have a "What Denver Currently Does" section that names the existing program, states its scale and limitations, and explains how our proposal goes further. This is essential framing -- it shows we are building on what exists rather than ignoring it.
+**Fix:** Each policy should have a "What Denver Currently Does" section that names the existing program, states its scale and limitations, and explains how our proposal goes further. This is essential framing. It shows we are building on what exists rather than ignoring it.
 
 The municipal broadband gap is especially striking. Denver voters already approved this in 2018. The story should be: "Why hasn't Denver built what voters demanded?" That is a much more powerful argument than proposing it as new.
 
@@ -87,16 +87,16 @@ Several proposals face legal challenges under Colorado or federal law that are e
 
 | Policy | Legal Issue Not Addressed |
 |--------|--------------------------|
-| Vacancy Tax | **TABOR** -- any new Denver tax requires voter approval |
-| Rent Control | **CRS 38-12-301** -- Colorado state preemption of rent control (name the statute) |
+| Vacancy Tax | **TABOR**: any new Denver tax requires voter approval |
+| Rent Control | **CRS 38-12-301**: Colorado state preemption of rent control (name the statute) |
 | Corporate Landlord Ban | **Takings clause** (5th/14th Amendment) implications of mandatory divestiture |
 | Works Councils | **NLRA federal preemption** of city-level labor relations law |
-| 32-Hour Work Week | **FLSA** -- can cities actually set lower overtime thresholds? Which have done so? |
-| Sectoral Bargaining | **NLRA preemption** -- the FAQ should address this head-on |
+| 32-Hour Work Week | **FLSA**: can cities actually set lower overtime thresholds? Which have done so? |
+| Sectoral Bargaining | **NLRA preemption**: the FAQ should address this head-on |
 
 ---
 
-## 3. FAQ Blind Spots -- Missing Counter-Arguments
+## 3. FAQ Blind Spots: Missing Counter-Arguments
 
 Each policy has 2-4 FAQ items, but several miss the single most predictable objection. An opponent or skeptical voter will immediately ask these questions, and silence reads as evasion:
 
@@ -113,7 +113,7 @@ Each policy has 2-4 FAQ items, but several miss the single most predictable obje
 | Living Wage | "What about border effects with Aurora, Lakewood, and other surrounding cities?" |
 | Participatory Budgeting | "What prevents wealthy neighborhoods from dominating the process?" |
 | Education | "Doesn't Colorado already have Universal Pre-K?" |
-| Municipal Broadband | "Voters approved this in 2018 -- what happened?" (Turn this into offense) |
+| Municipal Broadband | "Voters approved this in 2018. What happened?" (Turn this into offense) |
 
 ---
 

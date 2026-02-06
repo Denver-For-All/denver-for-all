@@ -22,16 +22,16 @@ Beyond eviction, tenants face:
 
 ### What Denver Currently Does
 
-Denver's current tenant protections are minimal. Colorado law provides for a 10-day notice to cure for nonpayment (C.R.S. 13-40-104) and a 21-day notice for month-to-month lease changes. Denver passed limited renter protections in 2023-2024, including a right to an attorney in certain eviction cases for income-qualified tenants. However, coverage remains partial -- not universal.
+Denver's current tenant protections are minimal. Colorado law provides for a 10-day notice to cure for nonpayment (C.R.S. 13-40-104) and a 21-day notice for month-to-month lease changes. Denver passed limited renter protections in 2023-2024, including a right to an attorney in certain eviction cases for income-qualified tenants. However, coverage remains partial, not universal.
 
-Denver County Court processed approximately 10,000+ eviction filings in 2023 (Colorado Judicial Branch data). The legal representation disparity is stark: a 2022 National Coalition for a Civil Right to Counsel analysis found landlords have attorneys in over 90% of eviction cases nationally, while fewer than 10% of tenants do -- a figure consistent with Denver County Court observations.
+Denver County Court processed approximately 10,000+ eviction filings in 2023 (Colorado Judicial Branch data). The legal representation disparity is stark: a 2022 National Coalition for a Civil Right to Counsel analysis found landlords have attorneys in over 90% of eviction cases nationally, while fewer than 10% of tenants do, a figure consistent with Denver County Court observations.
 
 ## Our Solution
 
 ### The Denver Tenant Bill of Rights Ordinance
 
 **1. Universal Right to Counsel**
-Every tenant facing eviction in Denver is entitled to a city-funded attorney, regardless of income. Not income-qualified - universal. Because losing your home is losing your home whether you make $30K or $60K.
+Every tenant facing eviction in Denver is entitled to a city-funded attorney, regardless of income. Fully universal, with no income qualification. Because losing your home is losing your home whether you make $30K or $60K.
 
 - Funded through dedicated eviction defense fund
 - Attorneys provided through contracts with legal aid organizations and the public defender's office
@@ -94,7 +94,7 @@ Landlords cannot categorically deny housing based on criminal history. Individua
 |---------|-------|--------|
 | **Germany** | Lifetime tenure by default; landlords can only terminate for narrow "just cause." *Mietervereine* (tenant associations) represent 3+ million members in housing disputes. Rent increases capped and regulated by local rent indexes (*Mietspiegel*). | One of the strongest tenant protection regimes in the world. Over 50% of Germans rent, and most consider it a stable, dignified way to live - not a stepping stone to ownership. |
 | **France** | Standard residential leases are 3 years minimum (6 years for corporate landlords). Winter eviction ban (November-March) - no one is put on the street in winter, period. Landlords must provide relocation assistance for any eviction. | Strong protections create housing stability. Tenants can plan their lives. The idea of a 30-day eviction would be considered barbaric. |
-| **Netherlands** | Rent tribunals (*Huurcommissie*) adjudicate disputes. Government sets maximum rents for most housing based on a points system. Tenants can challenge excessive rents retroactively. | Formal system ensures fairness. Tenants have institutional backing, not just a landlord's goodwill. |
+| **Netherlands** | Rent tribunals (*Huurcommissie*) adjudicate disputes. Government sets maximum rents for most housing based on a points system. Tenants can challenge excessive rents retroactively. | Formal system ensures fairness. Tenants have real institutional backing beyond any individual landlord's goodwill. |
 | **Sweden** | Tenant unions (*Hyresgastforeningen*) collectively bargain rents with landlords on behalf of all tenants in a building or area. Over 500,000 members. Rents are negotiated, not dictated. | Collective bargaining for housing - tenants negotiate as a bloc. Keeps rents reasonable and gives tenants real power. |
 | **New York City, US** | Universal right to counsel enacted 2017. City-funded attorneys for all tenants in eviction court in covered zip codes. | Evictions dropped 30%+ in covered areas. 84% of tenants with counsel kept their homes. Program saves the city $320M/year in avoided shelter costs. |
 

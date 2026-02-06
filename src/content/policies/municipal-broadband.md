@@ -20,11 +20,11 @@ Denver residents pay $80-120/month for internet that is slower, less reliable, a
 
 Internet access is essential infrastructure - required for school, work, healthcare, and civic participation. Treating it as a luxury product controlled by monopolies is a policy failure.
 
-### What Denver Currently Does -- And What Voters Already Approved
+### What Denver Currently Does (And What Voters Already Approved)
 
 **In 2018, Denver voters passed Ballot Measure 2J with 85% support, authorizing the city to provide municipal broadband.** That was seven years ago. Denver has not built a municipal broadband network.
 
-Colorado previously had SB 05-152, which restricted municipalities from offering broadband services. Cities had to hold a ballot measure to opt out. Denver voters did exactly that -- overwhelmingly. Since then, the city has conducted feasibility studies and small pilot programs but has not committed to a citywide fiber buildout.
+Colorado previously had SB 05-152, which restricted municipalities from offering broadband services. Cities had to hold a ballot measure to opt out. Denver voters did exactly that, overwhelmingly. Since then, the city has conducted feasibility studies and small pilot programs but has not committed to a citywide fiber buildout.
 
 Meanwhile, Longmont (30 miles north) built NextLight, which offers gigabit for $50/month, achieved profitability within 5 years, and has 90%+ customer satisfaction (NextLight Annual Report, 2023). Fort Collins built Connexion despite a $150M Comcast-funded opposition campaign, and is on track for profitability.
 

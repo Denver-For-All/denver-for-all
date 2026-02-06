@@ -82,7 +82,7 @@ Investing in age-friendly infrastructure is not a niche concern for today's seni
 - **Senior services expansion** (centers, transit passes, meals, employment): $8-12M/year from general fund, with Older Americans Act federal matching funds through DRCOG
 - **Caregiver support** (respite, resource centers, home modifications): $3-5M/year, with significant Medicaid offset through Colorado's Elderly, Blind and Disabled Waiver and the new Community First Choice program (launched July 2025)
 - **Social isolation prevention** (community health workers, intergenerational programs, transportation): $2-3M/year, largely volunteer-powered with city coordination staff and AmeriCorps partnerships
-- **Total: $25-35M/year**, with significant healthcare cost savings. Aging in place with community support costs a fraction of institutional care: home-based support averages $2,000-4,000/month versus $10,600+/month for a nursing home in Colorado. Every senior who avoids or delays nursing home placement saves the Medicaid system tens of thousands of dollars annually. This is not just compassionate policy. It is fiscally responsible policy.
+- **Total: $25-35M/year**, with significant healthcare cost savings. Aging in place with community support costs a fraction of institutional care: home-based support averages $2,000-4,000/month versus $10,600+/month for a nursing home in Colorado. Every senior who avoids or delays nursing home placement saves the Medicaid system tens of thousands of dollars annually. This is sound fiscal policy as much as compassionate policy.
 
 ## Frequently Asked Questions
 

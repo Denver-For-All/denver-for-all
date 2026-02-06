@@ -1,8 +1,8 @@
 ---
 title: "Government Transparency & Digital Rights"
 titleEs: "Transparencia Gubernamental y Derechos Digitales"
-summary: "Surveillance technology oversight ordinance. Open data for all city operations. Publicly financed elections. Lobbyist disclosure and revolving door restrictions. Algorithmic accountability for city AI systems."
-summaryEs: "Ordenanza de supervisión de tecnología de vigilancia. Datos abiertos para todas las operaciones municipales. Elecciones financiadas públicamente. Divulgación de cabilderos y restricciones de puertas giratorias. Responsabilidad algorítmica para sistemas de IA municipales."
+summary: "Surveillance technology oversight ordinance. Open data for all city operations. Publicly financed elections. Lobbyist disclosure and revolving door restrictions. Algorithmic accountability for city AI systems. Data sovereignty and digital public infrastructure."
+summaryEs: "Ordenanza de supervisión de tecnología de vigilancia. Datos abiertos para todas las operaciones municipales. Elecciones financiadas públicamente. Divulgación de cabilderos y restricciones de puertas giratorias. Responsabilidad algorítmica para sistemas de IA municipales. Soberanía de datos e infraestructura digital pública."
 category: "democracy"
 icon: "search"
 order: 56
@@ -75,13 +75,24 @@ Denver's Fair Elections Fund is a strong start -- it doubled donor participation
 - Right to human review: any Denver resident can request a human review of an algorithmic decision affecting them, with a response within 30 days
 - Ban predictive policing algorithms that reinforce racial disparities -- studies consistently show these systems target Black and Latino neighborhoods based on biased historical data, not actual crime patterns (MIT Technology Review, 2019)
 
+### 6. Data Sovereignty & Digital Public Infrastructure
+
+Barcelona treats data as public infrastructure -- alongside roads, water, and electricity. Denver should do the same. The current model, where private corporations extract data from city operations and residents with no public benefit, is the digital equivalent of privatizing water.
+
+- **Municipal data commons:** Establish a Denver Data Trust -- a publicly governed entity that manages city-generated data as a shared resource. Anonymized transit ridership data, energy usage patterns, housing market trends, and service utilization data should be available to researchers, community organizations, and residents -- not locked behind vendor contracts or sold to private data brokers.
+- **Data sovereignty for residents:** Denver residents should control their own data. Adopt Barcelona's DECODE framework: residents can selectively share personal data with city services using privacy-preserving technology, and revoke access at any time. No city service should require residents to surrender data to private third parties as a condition of access.
+- **Vendor data requirements:** Any company contracting with Denver must: (1) return all data generated through city operations to the city upon contract termination; (2) provide data in open, interoperable formats; (3) not sell, share, or monetize city-generated data without explicit council approval. No more vendor lock-in through data hostage-taking.
+- **Join the Cities Coalition for Digital Rights:** Barcelona, Amsterdam, and New York City launched this global coalition in 2018. Member cities commit to protecting digital rights including privacy, data sovereignty, and algorithmic transparency. Denver should join and adopt the coalition's principles as binding policy.
+- **Open-source city technology:** Expand the open-source requirement (Section 2) to mandate that all new city software contracts include open-source licensing where feasible. Barcelona's Decidim platform -- used for participatory budgeting in 80+ cities worldwide -- was built as open-source by design. Denver's digital infrastructure should be a public good, not proprietary vendor property.
+- **Digital equity:** Pair data sovereignty with the [Municipal Broadband](/platform/municipal-broadband) initiative to ensure that digital public infrastructure serves all residents, not just those who can afford commercial internet. Free municipal broadband + data sovereignty + algorithmic accountability = a digital infrastructure that works for people, not corporations.
+
 ### International Evidence: Transparency Strengthens Democracy
 
 | Country/City | Model | Result |
 |-------------|-------|--------|
 | **Estonia** | E-government and digital transparency. 99% of government services online. Citizens use a "Data Tracker" to see exactly who accesses their personal data. Unauthorized access is a criminal offense. | Saves the equivalent of 2% of GDP annually. 95% of citizens trust the government with their data. In 2020, a police officer was fined for accessing his fiancee's data without authorization. |
 | **Taiwan** | vTaiwan digital democracy platform using Pol.is for consensus-building on complex policy issues. Surfaced agreement rather than division. | 200,000 participants. 80% of issues discussed led to decisive government action. Resolved the six-year deadlock over Uber regulation through structured public deliberation. |
-| **Barcelona, Spain** | Decidim open-source participatory democracy platform. Digital participatory budgeting, urban planning, and collaborative legislation. | 39,000 participants submitted 11,000 proposals; 8,000 were accepted and monitored. Platform adopted by 80+ governments worldwide including Helsinki and Mexico City. |
+| **Barcelona, Spain** | Decidim open-source participatory democracy platform. DECODE project for citizen data sovereignty using decentralized encryption. Data treated as public infrastructure alongside roads, water, and electricity. | 39,000 participants submitted 11,000 proposals; 8,000 were accepted and monitored. Platform adopted by 80+ governments worldwide including Helsinki and Mexico City. DECODE project with Amsterdam pioneered privacy-preserving citizen data control. |
 | **Seattle, USA** | Democracy vouchers: four $25 vouchers sent to every eligible resident for municipal campaigns. Candidates must accept spending limits. | Over 106,000 residents have contributed vouchers, distributing $10M+ to campaigns. Donor participation increased fivefold. Voucher users closely mirror city demographics by race, income, and age. Program renewed by voters in 2025. |
 | **New York City, USA** | 8:1 small donor matching program. First $250 of individual contributions matched at 8-to-1 with public funds. | 94% of candidates participated in 2021. 90% of census blocks had at least one small donor to city council races vs. 30% for unmatched state races. Donor pool dramatically more diverse by race and income. |
 
@@ -94,7 +105,8 @@ These examples share a common lesson: transparency and democratic participation 
 - **Democracy vouchers:** $3-5M/year amortized across each election cycle -- Seattle's program costs less than $3 per resident per year
 - **Ethics reform:** $500K-1M/year for enforcement staff, lobbyist registration system upgrades, and public database maintenance
 - **Algorithmic accountability:** $1-2M/year for independent audits, bias testing, and impact assessment publication
-- **Total: $8-13M/year** -- a fraction of what the city spends on the systems being overseen. Denver's Flock camera contract alone costs nearly $500K, and the ShotSpotter contract was $4.7M. The Fair Elections Fund disbursed $7.7M in a single cycle. Transparency infrastructure is cheap compared to the cost of governing in the dark.
+- **Data sovereignty & digital infrastructure:** $2-4M/year for Denver Data Trust operations, vendor data migration, open-source development, and Cities Coalition for Digital Rights membership and implementation
+- **Total: $10-17M/year** -- a fraction of what the city spends on the systems being overseen. Denver's Flock camera contract alone costs nearly $500K, and the ShotSpotter contract was $4.7M. The Fair Elections Fund disbursed $7.7M in a single cycle. Transparency infrastructure is cheap compared to the cost of governing in the dark.
 
 ## Frequently Asked Questions
 

@@ -1,8 +1,8 @@
 ---
 title: "Small Business & Local Economy"
 titleEs: "Pequeñas Empresas y Economía Local"
-summary: "Streamlined permitting for small businesses. Commercial rent stabilization. Worker cooperative incubator. Local-first city procurement. Micro-loans for BIPOC entrepreneurs. Anti-monopoly enforcement."
-summaryEs: "Permisos simplificados para pequeñas empresas. Estabilización de alquileres comerciales. Incubadora de cooperativas de trabajadores. Adquisiciones municipales con prioridad local. Micropréstamos para emprendedores BIPOC. Aplicación antimonopolio."
+summary: "Streamlined permitting for small businesses. Commercial rent stabilization. Full worker cooperative ecosystem with legacy business conversion pipeline. Local-first city procurement. Micro-loans for BIPOC entrepreneurs. Anti-monopoly enforcement."
+summaryEs: "Permisos simplificados para pequeñas empresas. Estabilización de alquileres comerciales. Ecosistema completo de cooperativas de trabajadores con programa de conversión de negocios. Adquisiciones municipales con prioridad local. Micropréstamos para emprendedores BIPOC. Aplicación antimonopolio."
 category: "economy"
 icon: "store"
 order: 75
@@ -40,12 +40,37 @@ These programs are real, but they are drastically underfunded relative to the sc
 - Relocation assistance fund for small businesses when displacement is unavoidable -- covering moving costs, lease deposits, and lost revenue during transition
 - Pair with anti-displacement housing policy for comprehensive neighborhood stabilization -- you cannot save businesses if their customers and workers are also being displaced
 
-### 3. Worker Cooperative Development
+### 3. Worker Cooperative Ecosystem
+
+Denver should not just incubate cooperatives -- it should build a full cooperative ecosystem, modeled on the most successful municipal programs in the country. The Democracy at Work Institute (DAWI) and the National League of Cities developed a [Municipal Playbook for Employee Ownership](https://institute.coop/topics/government-policy) that Denver should adopt as a framework.
+
+**Cooperative Business Incubator**
 - City-funded cooperative business incubator providing space, legal support, and startup capital for worker-owned businesses
 - Technical assistance program: legal incorporation, financial management, democratic governance training, and ongoing mentorship for worker co-ops
-- 5% bid preference on city procurement contracts for cooperatives -- putting public money behind democratic business models
-- Conversion assistance program: help retiring small business owners sell their businesses to employees rather than to chains or private equity -- preserving local ownership and jobs
+- Shared back-office services (payroll, accounting, HR) for co-ops under 25 workers -- reducing administrative burden that kills small cooperatives
 - Modeled on the Cleveland Evergreen Cooperatives (320 workers across multiple co-ops anchored by hospital and university purchasing) and the Preston Model (UK)
+
+**Legacy Business Conversion Pipeline**
+- This is the most urgent component. Nearly **50% of U.S. small businesses are owned by people at retirement age**, and 80% of them will be unable to find a buyer (DAWI, 2025). In Denver, that translates to thousands of businesses -- restaurants, shops, contractors, service providers -- at risk of closing permanently within the next decade. Employee buyouts preserve jobs, keep businesses local, and build worker wealth.
+- **Conversion assistance program:** Help retiring small business owners sell their businesses to employees rather than to chains or private equity. The city provides: legal structuring for employee ownership trusts (EOTs) and worker cooperatives, financing through the micro-loan fund, and 18 months of transition mentorship.
+- **Conversion tax incentive:** Property tax abatement for 3 years for businesses that convert to worker ownership. Revenue cost is minimal; alternative is business closure and vacant storefronts.
+- **Annual outreach to businesses with owners aged 60+:** Proactive identification and engagement, not waiting for crisis.
+- **Target: 50 legacy business conversions in the first 3 years.**
+
+**Dedicated City Cooperative Liaison**
+- A dedicated staff position within Denver Economic Development & Opportunity (DEDO) with cooperative development expertise -- modeled on Santa Ana, CA, which designated a City Liaison to remove barriers, identify incentives, and connect cooperatives to city programs
+- The liaison coordinates across city departments: procurement, permitting, workforce development, and the cooperative incubator
+- Annual cooperative economy report: number of co-ops, worker-owners, revenue, and sectors served -- published publicly
+
+**Procurement Preferences**
+- 5% bid preference on city procurement contracts for cooperatives -- putting public money behind democratic business models
+- Anchor institution strategy: partner with Denver Health, DPS, Denver International Airport, and CU Denver to direct institutional purchasing toward local cooperatives -- the Cleveland Evergreen model, adapted for Denver's anchor institutions
+- Break large institutional service contracts (laundry, food service, janitorial, landscaping) into cooperative-accessible lots
+
+**Cooperative Finance**
+- Dedicated cooperative loan fund within the [Bank of Denver](/platform/public-banking) (once established) -- cooperatives need patient capital with flexible terms that traditional banks do not provide
+- Cooperative development grants: $10,000-$50,000 startup grants for new cooperatives, funded through the micro-loan revolving fund
+- CDFI partnerships specifically for cooperative financing
 
 ### 4. Local-First City Procurement
 - 10% bid preference for Denver-based businesses on all city contracts

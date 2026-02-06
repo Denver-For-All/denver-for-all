@@ -1,8 +1,8 @@
 ---
 title: "Waste Reduction & Circular Economy"
 titleEs: "Reducción de Residuos y Economía Circular"
-summary: "Universal curbside composting. 90% waste diversion by 2035. Plastic bag and polystyrene bans. Right to repair. Producer responsibility for packaging waste. Zero-waste city operations."
-summaryEs: "Compostaje universal en la acera. 90% de desvío de residuos para 2035. Prohibición de bolsas plásticas y poliestireno. Derecho a reparar. Responsabilidad del productor por residuos de empaques. Operaciones municipales de cero residuos."
+summary: "Universal curbside composting. 90% waste diversion by 2035. Plastic bag and polystyrene bans. Right to repair. Producer responsibility for packaging waste. Zero-waste city operations. Water resilience and greywater reuse for Colorado's arid future."
+summaryEs: "Compostaje universal en la acera. 90% de desvío de residuos para 2035. Prohibición de bolsas plásticas y poliestireno. Derecho a reparar. Responsabilidad del productor por residuos de empaques. Operaciones municipales de cero residuos. Resiliencia hídrica y reutilización de aguas grises para el futuro árido de Colorado."
 category: "climate"
 icon: "recycle"
 order: 31
@@ -77,6 +77,35 @@ Denver's waste infrastructure has improved in recent years, but significant gaps
 - Annual waste audit of all city operations with results published publicly
 - Denver International Airport: expand the terminal waste diversion pilot to a full airport-wide zero-waste program
 
+### 7. Water Resilience & Circular Water Infrastructure
+
+Colorado is an arid state getting drier. The Colorado River Basin -- which supplies a significant portion of Front Range water through transmountain diversions -- faces a structural deficit that climate change is accelerating. Denver Water's supply is projected to face shortfalls by the 2040s under moderate climate scenarios (Denver Water Climate Adaptation Plan, 2023). A circular economy must include circular water. Waste reduction is not just about solid waste -- it is about treating water as the finite, precious resource it is.
+
+**Greywater Reuse**
+- Legalize and incentivize greywater reuse systems in Denver. Greywater -- wastewater from sinks, showers, and laundry (not toilets) -- can be safely reused for landscape irrigation, toilet flushing, and cooling systems, reducing household water consumption by 30-50%.
+- Colorado's greywater regulations (SB 13-181 and subsequent rules) allow limited greywater reuse, but adoption has been minimal due to permitting complexity and lack of incentives. Denver should create a streamlined permitting pathway and rebate program for residential and commercial greywater systems.
+- **Rebate:** $1,000-$3,000 per household for greywater system installation, tiered by system complexity. Funded through Denver Water efficiency program budgets.
+- **New construction mandate:** All new residential construction over 4 units and all new commercial construction must include greywater-ready plumbing (dual piping) -- adding minimal cost during construction but enabling easy future greywater reuse.
+- Cities leading on greywater: San Francisco mandates greywater-ready plumbing in new buildings; Tucson offers rebates and streamlined permits; Australia's greywater reuse programs have reduced urban water demand by 15-25% in participating municipalities.
+
+**Rainwater Harvesting**
+- Colorado legalized residential rainwater collection in 2016 (HB 16-1005), allowing up to two 55-gallon rain barrels per household. Denver should expand this with incentives and infrastructure:
+- Free rain barrel program: one 55-gallon barrel per household, funded through Denver Water partnership
+- Community-scale rainwater harvesting at parks, recreation centers, and city facilities for landscape irrigation
+- Green infrastructure requirements: all new parking lots over 20 spaces must include permeable surfaces and bioswales for stormwater capture
+
+**Water-Efficient Landscaping**
+- Expand Denver Water's Xeriscape rebate program: increase rebates from current levels to $3/sq ft for turf-to-xeriscape conversion, up to $6,000 per property
+- City-owned properties: convert all non-recreational turf to xeriscape or native plantings within 5 years
+- Developer requirements: new residential developments must limit turf to 30% of landscaped area (consistent with Denver Water's efficiency goals)
+
+**Stormwater as Resource**
+- Integrate stormwater management with the [Climate & Environmental Justice](/platform/climate-environment) green infrastructure program
+- Stormwater capture and reuse at city facilities: Denver's average annual rainfall of 15.6 inches across city-owned property surfaces represents millions of gallons of reusable water currently lost to storm drains
+- Constructed wetlands for stormwater treatment in Globeville-Elyria-Swansea, Sun Valley, and other flood-prone neighborhoods -- treating environmental justice and water management as one problem, not two
+
+**Circular Water Target:** Reduce Denver's per-capita water consumption by 30% by 2035 through greywater reuse, rainwater harvesting, xeriscaping, and efficiency improvements. Denver Water's current target is a 22% reduction. We should lead, not follow.
+
 ### International Evidence: Zero Waste Is Achievable
 
 | Country/City | Model | Result |
@@ -95,8 +124,9 @@ Zero-waste systems are not just environmentally superior -- they are job creator
 - **Waste diversion infrastructure:** $5-8M/year capital investment in sorting facilities, drop-off sites, and collection equipment
 - **Single-use bans:** Revenue-neutral. Enforcement costs are offset by reduced street and waterway cleanup expenses
 - **Repair cafes and tool libraries:** $1-2M/year, largely volunteer-powered with city providing space and coordination
-- **Total estimated cost:** $15-22M/year, with significant savings from reduced landfill disposal costs over time
-- **Revenue offsets:** Pay-as-you-throw pricing optimization generates an estimated $5-10M/year; bag fee revenue ($6.2M cumulative so far) can be redirected to Waste No More implementation; Colorado's EPR program will begin reimbursing municipalities for recycling costs starting in 2026
+- **Water resilience programs:** $3-5M/year for greywater rebates, rain barrel distribution, xeriscape conversion, and green infrastructure. Partially offset by reduced water treatment costs and deferred water infrastructure expansion.
+- **Total estimated cost:** $18-27M/year, with significant savings from reduced landfill disposal costs and deferred water infrastructure over time
+- **Revenue offsets:** Pay-as-you-throw pricing optimization generates an estimated $5-10M/year; bag fee revenue ($6.2M cumulative so far) can be redirected to Waste No More implementation; Colorado's EPR program will begin reimbursing municipalities for recycling costs starting in 2026; Denver Water efficiency program budgets can co-fund water resilience initiatives
 
 ## Frequently Asked Questions
 
@@ -125,3 +155,6 @@ Waste management is a core municipal function. Denver controls residential colle
 - Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
 - Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
 - Eco-Cycle. "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
+- Colorado General Assembly. SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

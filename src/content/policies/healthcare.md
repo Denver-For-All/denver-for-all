@@ -21,7 +21,7 @@ Meanwhile:
 
 ### What Denver Currently Does
 
-Denver Health is a public safety-net hospital, but it still sends patients to collections and places liens on homes. The STAR program (Support Team Assisted Response) launched in 2020 as a non-police mental health crisis response -- it has handled 10,000+ calls with zero incidents requiring police backup (STAR Annual Report, 2023), but operates limited hours in limited areas with approximately $6M in funding. Denver has 9 Federally Qualified Health Centers (Clinica Tepeyac, Salud Family Health, Denver Health community centers, etc.) but significant coverage gaps remain in Montbello, Green Valley Ranch, and other underserved areas. Colorado expanded Medicaid under the ACA and has ~7.5% uninsured (Census ACS, 2023), but underinsurance remains a major issue.
+Denver Health is a public safety-net hospital, but it still sends patients to collections and places liens on homes. The STAR program (Support Team Assisted Response) launched in 2020 as a non-police mental health crisis response and expanded citywide in 2022. As of September 2024, STAR van teams have responded to over 23,000 calls, and a 2026 Urban Institute evaluation found STAR reduces subsequent arrests and police contacts by 16%, with even larger impacts for people experiencing homelessness (Gillespie et al., 2026). However, STAR operates limited hours with approximately $4.4M in total annual program funding and can only respond to about 45% of STAR-eligible calls due to insufficient van units. Denver has 9 Federally Qualified Health Centers (Clinica Tepeyac, Salud Family Health, Denver Health community centers, etc.) but significant coverage gaps remain in Montbello, Green Valley Ranch, and other underserved areas. Colorado expanded Medicaid under the ACA and has ~7.5% uninsured (Census ACS, 2023), but underinsurance remains a major issue.
 
 ## Our Solution
 
@@ -39,11 +39,12 @@ Denver Health is a public safety-net hospital, but it still sends patients to co
 - Penalties for price gouging: defined as charging uninsured patients more than 200% of Medicare rates
 
 ### 3. STAR Program (Support Team Assisted Response)
-Denver already has a nascent STAR program. We expand it dramatically:
-- 24/7 coverage citywide (currently limited hours and areas)
+Denver's STAR program is already proven to work. A January 2026 Urban Institute evaluation — the first study nationwide to measure individual-level outcomes following alternative response — found that STAR clients experienced a 16% reduction in subsequent police contacts and a 16% reduction in subsequent arrests, with two to three times larger reductions for people who had experienced homelessness. The program costs $237 per van response versus $1,011 for an average arrest. We expand it to meet its full potential:
+- 24/7 coverage with sufficient van units to meet full demand (currently limited to one 12-hour shift with 6-7 van units responding to just 45% of eligible calls; 9-10 concurrent units needed per Urban Institute analysis)
 - Mental health professionals + paramedics respond to mental health crises, substance use incidents, homelessness calls, and welfare checks
+- Expand the STAR Community Partner Network, which provides culturally responsive case management and follow-up care — operating since April 2023 with over 1,200 clients served and nearly 12,000 case management encounters
 - Police are NOT dispatched for non-violent mental health calls
-- Target: 75% of current "mental health" police calls redirected to STAR
+- Address the significant underrepresentation of Hispanic and Latino/a/x communities among STAR clients through targeted outreach and culturally responsive service delivery
 - Funding: Redirect 15% of police overtime budget to STAR expansion
 
 ### 4. Community Health Centers
@@ -101,7 +102,7 @@ The commonly cited claim (Himmelstein et al., 2009, American Journal of Medicine
 - Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
 - Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
 - Undue Medical Debt (formerly RIP Medical Debt). Program data and city partnership outcomes.
-- STAR Program Annual Report. (2023). Denver Department of Public Health and Environment.
+- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
 - OECD Health Statistics. (2024). Health spending per capita comparisons.
 - Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
 - HRSA Data Warehouse. FQHC locations and service areas in Denver.

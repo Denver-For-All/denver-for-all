@@ -34,7 +34,7 @@ Denver has a fragmented foundation:
 - **RTD paratransit** (Access-a-Ride and Access-on-Demand): provides transportation to eligible disabled riders, though with the limitations noted above.
 - **Sidewalk fee** (voter-approved 2022): $75M in contracts awarded in 2025 to begin ADA sidewalk repairs, but the timeline is "decades" to completion at current pace.
 - **Aging, Disability & Accessibility policy** (this platform): covers caregiver support, senior services, and universal design for age-friendly infrastructure. The existing policy is strong on aging but thin on working-age disability rights.
-- **STAR program**: handles mental health crisis calls without police, but is not specifically trained for the full spectrum of disability-related interactions.
+- **STAR program**: handles mental health crisis calls citywide without police — a 2026 Urban Institute evaluation found it reduces subsequent arrests and police contacts by 16% — but is not specifically trained for the full spectrum of disability-related interactions.
 
 ### Who Opposes This (and Why)
 

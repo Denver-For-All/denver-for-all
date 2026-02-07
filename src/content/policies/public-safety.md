@@ -23,7 +23,7 @@ Denver's police budget is approximately $300M/year (Denver Budget, 2024) — the
 
 Denver police have killed residents, brutalized protesters (2020 George Floyd protests), and operated with minimal accountability. The current oversight structure lacks independence, subpoena power, or the ability to impose discipline. Officers who commit misconduct are rarely held accountable, and qualified immunity shields them from civil liability.
 
-Meanwhile, police are dispatched to situations they're not trained for: mental health crises, homelessness, and substance use. The city has failed to invest in alternatives, and the result is that people in crisis encounter armed officers instead of mental health professionals. The STAR program receives approximately $6M — roughly 2% of the police budget — despite handling 10,000+ calls with zero incidents requiring police backup.
+Meanwhile, police are dispatched to situations they're not trained for: mental health crises, homelessness, and substance use. The city has failed to invest in alternatives, and the result is that people in crisis encounter armed officers instead of mental health professionals. The STAR program costs approximately $4.4M/year — about 1.5% of the police budget — and has responded to over 23,000 calls since 2020. A 2026 Urban Institute evaluation found STAR reduces subsequent police contacts and arrests by 16%, with two to three times larger reductions for people experiencing homelessness (Gillespie et al., Urban Institute, 2026).
 
 ### What Actually Reduces Crime
 
@@ -35,11 +35,11 @@ This is not theory. Cities that have invested heavily in community violence inte
 
 Denver already has the Office of the Independent Monitor (OIM), created in 2004, which reviews police complaints and monitors investigations. However, the OIM cannot independently investigate, lacks subpoena power, cannot impose discipline, and serves in an advisory role. The Citizen Oversight Board exists but is appointed by the mayor (not independently elected) and also lacks enforcement authority. This structure has not prevented persistent misconduct: Denver paid $35.3M in law enforcement settlements from 2017-2023, with $17.3M in 2023 alone (Denver City Attorney records; Denver Post analysis, 2024).
 
-The STAR program launched in 2020 and has handled 10,000+ calls with zero incidents requiring police backup (STAR Program Annual Report, 2023). It currently operates limited hours in limited areas. This is the most successful public safety innovation Denver has made in decades, and it is chronically underfunded.
+The STAR program launched in 2020 and expanded citywide in 2022. As of September 2024, STAR van teams have responded to over 23,000 calls, with nearly 50,000 calls designated as STAR-eligible. A January 2026 Urban Institute evaluation — the first study to measure individual-level outcomes following alternative response anywhere in the country — found that STAR clients experienced a 16% reduction in subsequent police contacts and a 16% reduction in subsequent arrests in the year following a STAR encounter, with impacts two to three times larger for people who had experienced homelessness (Gillespie et al., Urban Institute, 2026). Denver's Co-Responder Program, which pairs mental health clinicians with police officers for calls where police involvement remains necessary, showed similarly strong results: a 15% reduction in subsequent arrests. Despite these outcomes, STAR operates limited hours and responds to only about 45% of STAR-eligible calls due to insufficient van units — the program needs 9-10 concurrent units to meet current demand but operates just 6-7. This is the most successful public safety innovation Denver has made in decades, and it is chronically underfunded.
 
 ### Who Opposes This (and Why)
 
-The Denver Police Protective Association (DPPA) is the primary opponent. Police unions consistently oppose oversight with teeth, budget reductions, and qualified immunity reform. The DPPA donates to city council candidates and mayoral campaigns. The Downtown Denver Partnership and some business improvement districts will raise concerns about perceived safety impacts. Counter: the evidence from every city that has invested in non-police crisis response shows equal or better outcomes. STAR's own track record proves this.
+The Denver Police Protective Association (DPPA) is the primary opponent. Police unions consistently oppose oversight with teeth, budget reductions, and qualified immunity reform. The DPPA donates to city council candidates and mayoral campaigns. The Downtown Denver Partnership and some business improvement districts will raise concerns about perceived safety impacts. Counter: the evidence from every city that has invested in non-police crisis response shows equal or better outcomes. STAR's own track record — including a 2026 Urban Institute evaluation showing 16% reductions in subsequent arrests and police contacts — proves this.
 
 ## Our Solution
 
@@ -51,10 +51,12 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 - Annual audit of police practices published publicly
 
 ### 2. STAR Program Expansion (Non-Police Crisis Response)
-- 24/7 citywide coverage for mental health, substance use, and homelessness calls
-- Mental health professionals and paramedics, without police
-- Target: 40% of current 911 calls rerouted to non-police responders
-- 911 dispatchers retrained to triage calls appropriately
+- 24/7 coverage with sufficient van units to meet full demand (currently 6-7 units responding to 45% of eligible calls; Urban Institute analysis shows 9-10 concurrent units needed to meet current demand)
+- Mental health professionals and paramedics, without police — STAR van teams pair paramedics or EMTs with behavioral health professionals
+- Strengthen the STAR Community Partner Network, which provides culturally responsive case management and follow-up services after the initial crisis response
+- Expand the Co-Responder Program, which pairs mental health clinicians with police officers for calls where police involvement remains necessary — both programs are proven to reduce subsequent arrests and police contacts (Urban Institute, 2026)
+- 911 dispatchers retrained to triage calls appropriately; increase the share of behavioral health calls routed to non-police responders
+- Address the significant underrepresentation of Hispanic and Latino/a/x communities among STAR clients (12% of STAR clients vs. 28% of city population per the Urban Institute evaluation) through targeted outreach and culturally responsive service delivery
 - Disability-competent responders on every STAR team: trained in autism, intellectual disability, deafness/HOH communication, and psychiatric crisis — not just general "mental health" training. STAR teams should include or have rapid access to ASL interpreters and communication specialists
 - (See: Healthcare proposal for full STAR details; [Disability Rights & Inclusion](/platform/disability-rights))
 
@@ -82,7 +84,7 @@ The evidence is strong. Seattle's LEAD program — the original, launched in 201
 Denver's police budget is approximately $300M/year. We propose a phased reallocation that starts with proven programs and scales based on demonstrated results — not ideology, but outcomes.
 
 **Phase 1 — Immediate (~8% / $25M/year):** Expand programs that are already working in Denver.
-- STAR program: citywide 24/7 coverage ($20M) — currently handling 10,000+ calls/year with zero incidents requiring police backup
+- STAR and Co-Responder programs: 24/7 coverage with sufficient van units to meet full demand ($20M) — Urban Institute evaluation shows 16% reduction in arrests and police contacts; program currently meets only 45% of eligible call demand
 - LEAD diversion: citywide expansion ($5M) — Denver pilot already operating in 3 districts; Seattle evaluation shows 58% recidivism reduction
 
 **Phase 2 — Years 2-3 (~15% / $45M/year):** Add evidence-backed prevention programs.
@@ -227,7 +229,7 @@ This is primarily a budget reallocation, not new spending. The phased approach (
 ## Frequently Asked Questions
 
 **"Won't reducing police funding increase crime?"**
-Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. Our phased approach starts with two programs already proven in Denver — STAR and LEAD — and scales based on demonstrated outcomes. We're not asking anyone to take a leap of faith. We're asking them to look at what's already working and fund it properly.
+Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. Our phased approach starts with programs already proven in Denver — STAR (16% reduction in subsequent arrests and police contacts per the 2026 Urban Institute evaluation), the Co-Responder Program (15% reduction in subsequent arrests), and LEAD — and scales based on demonstrated outcomes. We're not asking anyone to take a leap of faith. We're asking them to look at what's already working and fund it properly.
 
 **"Who responds to violent crime?"**
 Police. This plan doesn't eliminate police. It refocuses them on violent crime and removes responsibilities they're not trained for. A smaller, better-trained, better-supervised police force focused on actual public safety threats.
@@ -259,7 +261,7 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 ## References
 
 - Denver Annual Budget. (2024). Department of Safety appropriation. ($300M+ police budget.)
-- STAR Program Annual Report. (2023). Call volume, outcomes, zero police backup incidents.
+- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute. (23,000+ STAR responses; 16% reduction in subsequent arrests and police contacts; 2-3x larger impacts for people experiencing homelessness; Co-Responder Program shows 15% reduction in subsequent arrests; cost analysis: $237 per van response, $470 including Community Partner Network; scalability analysis showing 9-10 concurrent van units needed to meet demand.)
 - Denver Office of the Independent Monitor. Annual reports. (Structure and limitations.)
 - Denver City Attorney's Office. Law enforcement settlement data, 2017-2023. Denver Post analysis, 2024.
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)

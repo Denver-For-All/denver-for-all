@@ -7,6 +7,9 @@ category: "infrastructure"
 icon: "footprints"
 order: 64
 status: "draft"
+actionTarget: "mayor"
+grantProposal: "pedestrian-infrastructure-ss4a"
+hasFundingSources: true
 ---
 
 ## The Problem

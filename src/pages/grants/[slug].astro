@@ -1,0 +1,285 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const grants = await getCollection('grants');
+  return grants.map(grant => ({
+    params: { slug: grant.slug },
+    props: { grant },
+  }));
+}
+
+const { grant } = Astro.props;
+const { Content } = await grant.render();
+---
+
+<Layout title={grant.data.title} description={grant.data.summary}>
+  <article class="section">
+    <div class="container container--narrow">
+      <a href={`/platform/${grant.data.policySlug}`} class="back-link" data-en={`\u2190 Back to Policy`} data-es={`\u2190 Volver a la Política`}>
+        &larr; Back to Policy
+      </a>
+
+      <header class="grant-header">
+        <div class="grant-header__badges">
+          <span class="grant-header__badge grant-header__badge--type" data-en="Grant Proposal Template" data-es="Plantilla de Propuesta de Subvención">Grant Proposal Template</span>
+          <span class:list={['grant-header__badge', `grant-header__badge--${grant.data.status}`]}>
+            {grant.data.status === 'draft' ? 'Draft' : grant.data.status === 'ready' ? 'Ready to Submit' : 'Submitted'}
+          </span>
+        </div>
+        <h1>{grant.data.title}</h1>
+        <p class="grant-header__summary">{grant.data.summary}</p>
+
+        <div class="grant-meta">
+          <div class="grant-meta__item">
+            <span class="grant-meta__label" data-en="Funding Agency" data-es="Agencia de Financiamiento">Funding Agency</span>
+            <span class="grant-meta__value">{grant.data.fundingAgency}</span>
+          </div>
+          <div class="grant-meta__item">
+            <span class="grant-meta__label" data-en="Grant Program" data-es="Programa de Subvención">Grant Program</span>
+            <span class="grant-meta__value">{grant.data.grantProgram}</span>
+          </div>
+          <div class="grant-meta__item">
+            <span class="grant-meta__label" data-en="Estimated Amount" data-es="Monto Estimado">Estimated Amount</span>
+            <span class="grant-meta__value">{grant.data.estimatedAmount}</span>
+          </div>
+          {grant.data.deadline && (
+            <div class="grant-meta__item">
+              <span class="grant-meta__label" data-en="Deadline" data-es="Fecha Límite">Deadline</span>
+              <span class="grant-meta__value">{grant.data.deadline}</span>
+            </div>
+          )}
+        </div>
+
+        <div class="grant-actions">
+          <button class="btn btn--primary" id="download-pdf" data-en="Download as PDF" data-es="Descargar como PDF">
+            Download as PDF
+          </button>
+          <button class="btn btn--secondary" id="copy-grant" data-en="Copy Full Text" data-es="Copiar Texto Completo">
+            Copy Full Text
+          </button>
+        </div>
+      </header>
+
+      <div class="grant-notice">
+        <strong data-en="For city staff, council members, and advocates:" data-es="Para el personal de la ciudad, los miembros del concejo y los defensores:">For city staff, council members, and advocates:</strong>
+        <span data-en="This template is designed to be adapted for a specific grant application. Customize the budget figures, timelines, and local data before submitting. All data and citations are sourced from the linked policy page." data-es="Esta plantilla está diseñada para ser adaptada a una solicitud de subvención específica. Personalice las cifras del presupuesto, los cronogramas y los datos locales antes de enviar. Todos los datos y citas provienen de la página de política vinculada.">
+          This template is designed to be adapted for a specific grant application. Customize the budget figures, timelines, and local data before submitting. All data and citations are sourced from the linked policy page.
+        </span>
+      </div>
+
+      <div class="grant-content" id="grant-content">
+        <Content />
+      </div>
+    </div>
+  </article>
+</Layout>
+
+<style>
+  .back-link {
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    color: var(--color-text-muted);
+  }
+
+  .back-link:hover {
+    color: var(--color-primary);
+  }
+
+  .grant-header {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  .grant-header__badges {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .grant-header__badge {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+
+  .grant-header__badge--type {
+    background: #dbeafe;
+    color: #1e40af;
+  }
+
+  .grant-header__badge--draft {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .grant-header__badge--ready {
+    background: #d1fae5;
+    color: #065f46;
+  }
+
+  .grant-header__badge--submitted {
+    background: var(--color-primary);
+    color: white;
+  }
+
+  .grant-header h1 {
+    margin: 0.5rem 0 1rem;
+  }
+
+  .grant-header__summary {
+    font-size: 1.1rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  .grant-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+  }
+
+  .grant-meta__label {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    margin-bottom: 0.25rem;
+  }
+
+  .grant-meta__value {
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+
+  .grant-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+
+  .grant-notice {
+    padding: 1rem 1.25rem;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+  }
+
+  .grant-notice strong {
+    display: block;
+    margin-bottom: 0.25rem;
+    color: #1e40af;
+  }
+
+  .grant-content {
+    max-width: var(--max-width-narrow);
+    margin: 0 auto;
+  }
+
+  /* Reuse policy-content heading styles */
+  .grant-content :global(h2) {
+    color: var(--color-primary);
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-primary-light);
+  }
+
+  .grant-content :global(h3) {
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .grant-content :global(ul), .grant-content :global(ol) {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+  }
+
+  .grant-content :global(li) {
+    margin-bottom: 0.5rem;
+  }
+
+  .grant-content :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+  }
+
+  .grant-content :global(th),
+  .grant-content :global(td) {
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--color-border);
+    text-align: left;
+  }
+
+  .grant-content :global(th) {
+    background: var(--color-bg-alt);
+    font-weight: 600;
+  }
+
+  /* Print-specific styles for PDF download */
+  @media print {
+    .back-link,
+    .grant-actions,
+    .grant-notice {
+      display: none !important;
+    }
+
+    .grant-header {
+      border-bottom: 1px solid #ccc;
+    }
+
+    .grant-header__badge--type {
+      border: 1px solid #1e40af;
+      background: white;
+    }
+
+    .grant-meta {
+      background: #f5f5f5;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .grant-meta {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  document.getElementById('download-pdf')?.addEventListener('click', () => {
+    window.print();
+  });
+
+  document.getElementById('copy-grant')?.addEventListener('click', async () => {
+    const content = document.getElementById('grant-content');
+    if (content) {
+      await navigator.clipboard.writeText(content.innerText);
+      const btn = document.getElementById('copy-grant');
+      if (btn) {
+        const orig = btn.textContent;
+        btn.textContent = '\u2713 Copied!';
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      }
+    }
+  });
+</script>

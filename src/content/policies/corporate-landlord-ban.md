@@ -7,6 +7,8 @@ category: "housing"
 icon: "ban"
 order: 5
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

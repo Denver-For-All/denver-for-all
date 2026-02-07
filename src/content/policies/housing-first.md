@@ -7,6 +7,9 @@ category: "housing"
 icon: "heart-handshake"
 order: 8
 status: "draft"
+actionTarget: "mayor"
+grantProposal: "housing-first-hud-coc"
+hasFundingSources: true
 ---
 
 ## The Problem

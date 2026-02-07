@@ -7,6 +7,8 @@ category: "housing"
 icon: "map-pin"
 order: 7
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

@@ -7,6 +7,8 @@ category: "infrastructure"
 icon: "piggy-bank"
 order: 60
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

@@ -7,6 +7,8 @@ category: "immigration"
 icon: "heart-handshake"
 order: 41
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

@@ -7,6 +7,13 @@ category: "democracy"
 icon: "search"
 order: 56
 status: "draft"
+actionTarget: "mayor"
+petition:
+  url: "https://resist.bot/petitions/PYLQBT"
+  code: "PYLQBT"
+  title: "Demand Denver Charter Reform"
+  titleEs: "Exigir Reforma de la Carta de Denver"
+hasFundingSources: true
 ---
 
 ## The Problem

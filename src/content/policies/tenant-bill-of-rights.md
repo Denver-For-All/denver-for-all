@@ -7,6 +7,8 @@ category: "housing"
 icon: "scale"
 order: 3
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

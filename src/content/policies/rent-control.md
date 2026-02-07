@@ -7,6 +7,13 @@ category: "housing"
 icon: "shield-check"
 order: 2
 status: "draft"
+actionTarget: "state"
+petition:
+  url: "https://resist.bot/petitions/PJZTYT"
+  code: "PJZTYT"
+  title: "Repeal Colorado's Rent Control Ban"
+  titleEs: "Derogar la Prohibición de Control de Alquiler de Colorado"
+hasFundingSources: true
 ---
 
 ## The Problem

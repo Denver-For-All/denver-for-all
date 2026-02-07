@@ -7,6 +7,9 @@ category: "infrastructure"
 icon: "bus"
 order: 62
 status: "draft"
+actionTarget: "mayor"
+grantProposal: "transportation-hsip-ss4a"
+hasFundingSources: true
 ---
 
 ## The Problem

@@ -7,6 +7,8 @@ category: "justice"
 icon: "handshake"
 order: 71
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

@@ -7,6 +7,8 @@ category: "climate"
 icon: "leaf"
 order: 30
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

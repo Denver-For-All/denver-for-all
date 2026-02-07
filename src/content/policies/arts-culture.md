@@ -7,6 +7,8 @@ category: "community"
 icon: "drama"
 order: 81
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

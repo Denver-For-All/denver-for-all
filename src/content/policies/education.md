@@ -7,6 +7,8 @@ category: "education"
 icon: "book-open"
 order: 50
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

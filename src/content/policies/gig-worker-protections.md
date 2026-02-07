@@ -7,6 +7,8 @@ category: "labor"
 icon: "smartphone"
 order: 12
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: false
 ---
 
 ## The Problem

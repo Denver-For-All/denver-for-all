@@ -1,6 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import EmailCapture from '../../components/EmailCapture.astro';
+import PolicyActionScore from '../../components/PolicyActionScore.astro';
+import PolicyActionCTA from '../../components/PolicyActionCTA.astro';
 import { Icon } from 'astro-icon/components';
 import { getCollection } from 'astro:content';
 
@@ -14,6 +16,11 @@ export async function getStaticPaths() {
 
 const { policy } = Astro.props;
 const { Content } = await policy.render();
+
+const hasPetition = !!policy.data.petition;
+const hasFundingSources = policy.data.hasFundingSources;
+const hasGrantProposal = !!policy.data.grantProposal;
+const hasCouncilChampion = !!policy.data.councilChampion;
 ---
 
 <Layout title={policy.data.title} description={policy.data.summary}>
@@ -39,6 +46,25 @@ const { Content } = await policy.render();
       </div>
 
       <footer class="policy-footer">
+        <div class="policy-footer__action-grid">
+          <div class="policy-footer__cta">
+            <PolicyActionCTA
+              actionTarget={policy.data.actionTarget}
+              petition={policy.data.petition}
+              grantProposal={policy.data.grantProposal}
+              policyTitle={policy.data.title}
+            />
+          </div>
+          <div class="policy-footer__score">
+            <PolicyActionScore
+              hasPetition={hasPetition}
+              hasFundingSources={hasFundingSources}
+              hasGrantProposal={hasGrantProposal}
+              hasCouncilChampion={hasCouncilChampion}
+            />
+          </div>
+        </div>
+
         <div class="policy-share">
           <h3 data-en="Share This Proposal" data-es="Comparte Esta Propuesta">Share This Proposal</h3>
           <div class="policy-share__links">
@@ -120,8 +146,18 @@ const { Content } = await policy.render();
     border-top: 2px solid var(--color-border);
   }
 
+  .policy-footer__action-grid {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    align-items: start;
+  }
+
   .policy-share {
     text-align: center;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border);
   }
 
   .policy-share h3 {
@@ -133,6 +169,12 @@ const { Content } = await policy.render();
     gap: 0.75rem;
     justify-content: center;
     flex-wrap: wrap;
+  }
+
+  @media (max-width: 768px) {
+    .policy-footer__action-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
 

@@ -55,7 +55,8 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 - Mental health professionals and paramedics, without police
 - Target: 40% of current 911 calls rerouted to non-police responders
 - 911 dispatchers retrained to triage calls appropriately
-- (See: Healthcare proposal for full STAR details)
+- Disability-competent responders on every STAR team: trained in autism, intellectual disability, deafness/HOH communication, and psychiatric crisis — not just general "mental health" training. STAR teams should include or have rapid access to ASL interpreters and communication specialists
+- (See: Healthcare proposal for full STAR details; [Disability Rights & Inclusion](/platform/disability-rights))
 
 ### 3. Law Enforcement Assisted Diversion (LEAD) Expansion
 
@@ -109,6 +110,11 @@ Denver's police budget is approximately $300M/year. We propose a phased realloca
 - Duty to report: failure to report excessive force is a firing offense
 - De-escalation required before any use of force
 - Body cameras mandatory and always on during encounters. Footage publicly accessible within 72 hours of any use-of-force incident
+- **Disability-specific protections:** People with disabilities are [more than twice as likely](https://rudermanfoundation.org/white_papers/media-coverage-of-law-enforcement-use-of-force-and-disability/) to be killed by police (Ruderman Family Foundation, 2016). Deaf, autistic, intellectually disabled, and people experiencing psychiatric crises are disproportionately subjected to use of force when officers misread disability-related behavior as noncompliance or threat. Denver must require:
+  - Mandatory disability awareness and de-escalation training for all officers, with specific modules on autism, deafness/hard of hearing, intellectual disability, and psychiatric crisis — distinct from general mental health CIT training
+  - Officers must attempt to identify disability before escalating force. Failure to do so is a policy violation subject to discipline
+  - DPD partnership with Denver's Commission for People with Disabilities on training curriculum and annual review
+  - Cross-reference: [Disability Rights & Inclusion](/platform/disability-rights)
 
 ### 7. Community Violence Intervention
 - Fund evidence-based violence intervention programs (Cure Violence model)
@@ -244,6 +250,9 @@ Denver attributed 352 arrests and 250 recovered vehicles to Flock cameras, but a
 **"Didn't Mayor Johnston add safeguards to the new Flock contract?"**
 The October 2025 contract includes a $100,000 damages clause for Flock data breaches and memoranda of understanding restricting federal immigration access. But a legal expert flagged that the damages clause only applies when Flock is responsible for the breach, not when another agency misuses the data. More fundamentally: these safeguards were negotiated by the mayor's office behind closed doors, without council involvement, after the council voted 12-0 against the contract. The safeguards themselves are a concession that the surveillance was problematic from the start. The democratic failure lies in the process as much as the product.
 
+**"What about police interactions with disabled people?"**
+People with disabilities make up a third to half of all people killed by police nationally (Ruderman Family Foundation, 2016). Deaf people can't hear verbal commands. Autistic people may not make eye contact or may make repetitive movements that officers misread as threatening. People with intellectual disabilities may not understand instructions. People in psychiatric crisis need clinicians, not officers trained to control and restrain. Our proposal addresses this at every level: STAR teams with disability-trained responders handle crisis calls without police; use-of-force reforms require disability identification before escalation; LEAD diverts disabled people encountering the legal system to services instead of jail; and the civilian oversight board can investigate disability-related use-of-force incidents with subpoena power.
+
 **"Doesn't Denver already have civilian oversight?"**
 Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen Oversight Board. Neither can independently investigate, subpoena records, or impose discipline. They are advisory bodies that review police self-investigations. This is not oversight; it is observation. Our proposal creates an elected board with actual enforcement power.
 
@@ -260,6 +269,7 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - Colorado Behavioral Health Administration. Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Denver pilot outcomes in DPD Districts 1, 2, and 6.)
 - Denver District Attorney's Office. (2018). Denver Pilot Program launch announcement. LEAD partnership with ARTS and the Empowerment Program.
 - LEAD National Support Bureau. (2024). LEAD program replication data. (80+ cities operating LEAD programs nationally.)
+- Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (Disabled people constitute one-third to one-half of all people killed by police.)
 - Cure Violence Global. Program evaluation data. (Community violence intervention outcomes.)
 - University of Chicago Crime Lab. READI Chicago evaluation. (Youth employment and violence reduction.)
 - Brookings Institution. (2022). After-school programming and youth crime timing data.

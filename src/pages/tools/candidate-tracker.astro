@@ -1,0 +1,516 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+---
+
+<Layout title="Candidate Tracker" description="Where do your candidates stand on the issues? Standardized questionnaire responses from Denver City Council candidates.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Candidate Tracker" data-es="Rastreador de Candidatos">Candidate Tracker</h1>
+      <p data-en="Where do your candidates stand on the issues that matter? We sent every candidate the same questions. Their answers — and silences — are below." data-es="¿Dónde se posicionan tus candidatos en los temas que importan? Enviamos a cada candidato las mismas preguntas. Sus respuestas — y silencios — están abajo.">
+        Where do your candidates stand on the issues that matter? We sent every candidate the same questions. Their answers — and silences — are below.
+      </p>
+    </div>
+  </section>
+
+  <!-- The Questionnaire -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="The Questions" data-es="Las Preguntas">The Questions</h2>
+        <p data-en="Seven questions. Same for every candidate. Designed to put candidates on record about specific policies, not platitudes." data-es="Siete preguntas. Las mismas para cada candidato. Diseñadas para que los candidatos se posicionen sobre políticas específicas, no platitudes.">
+          Seven questions. Same for every candidate. Designed to put candidates on record about specific policies, not platitudes.
+        </p>
+      </div>
+
+      <div class="questions-list">
+        <div class="question-card">
+          <span class="question-number">1</span>
+          <div>
+            <h3 data-en="STAR Program Expansion" data-es="Expansión del Programa STAR">STAR Program Expansion</h3>
+            <p data-en="Denver's STAR program sends mental health professionals instead of police to certain 911 calls. It has handled 10,000+ calls with zero incidents requiring police backup. Do you support expanding STAR to 24/7 citywide coverage with $20M in funding? If not, what level of expansion would you support?" data-es="El programa STAR de Denver envía profesionales de salud mental en lugar de policía a ciertas llamadas al 911. Ha manejado más de 10,000 llamadas sin incidentes que requirieran respaldo policial. ¿Apoya expandir STAR a cobertura 24/7 en toda la ciudad con $20M en financiamiento? Si no, ¿qué nivel de expansión apoyaría?">
+              Denver's STAR program sends mental health professionals instead of police to certain 911 calls. It has handled 10,000+ calls with zero incidents requiring police backup. <strong>Do you support expanding STAR to 24/7 citywide coverage with $20M in funding?</strong> If not, what level of expansion would you support?
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">2</span>
+          <div>
+            <h3 data-en="LEAD Diversion Program" data-es="Programa de Desvío LEAD">LEAD Diversion Program</h3>
+            <p data-en="Denver piloted the LEAD program (Law Enforcement Assisted Diversion) in DPD Districts 1, 2, and 6, where trained officers redirect people to case management instead of arrest for low-level offenses. Seattle's evaluation showed 58% lower odds of arrest for participants. Do you support expanding LEAD citywide? Should community members be able to make LEAD referrals directly, without requiring police contact?" data-es="Denver pilotó el programa LEAD en los Distritos 1, 2 y 6 de DPD, donde oficiales capacitados redirigen a personas a gestión de casos en lugar de arrestarlos por delitos menores. La evaluación de Seattle mostró 58% menos probabilidades de arresto para los participantes. ¿Apoya expandir LEAD a toda la ciudad? ¿Deberían los miembros de la comunidad poder hacer referencias a LEAD directamente, sin requerir contacto policial?">
+              Denver piloted the LEAD program (Law Enforcement Assisted Diversion) in DPD Districts 1, 2, and 6, where trained officers redirect people to case management instead of arrest for low-level offenses. Seattle's evaluation showed 58% lower odds of arrest for participants. <strong>Do you support expanding LEAD citywide? Should community members be able to make LEAD referrals directly, without requiring police contact?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">3</span>
+          <div>
+            <h3 data-en="Police Budget Reallocation" data-es="Reasignación del Presupuesto Policial">Police Budget Reallocation</h3>
+            <p data-en="Denver For All proposes redirecting 25% of the police budget ($75M/year) over 4 years to STAR expansion, violence intervention, youth services, substance use treatment, restorative justice, and affordable housing. Do you support this level of reallocation? If not, what percentage would you support, and where would you direct the funds?" data-es="Denver Para Todos propone redirigir el 25% del presupuesto policial ($75M/año) durante 4 años a expansión de STAR, intervención de violencia, servicios juveniles, tratamiento de uso de sustancias, justicia restaurativa y vivienda asequible. ¿Apoya este nivel de reasignación? Si no, ¿qué porcentaje apoyaría y a dónde dirigiría los fondos?">
+              Denver For All proposes redirecting 25% of the police budget ($75M/year) over 4 years to STAR expansion, violence intervention, youth services, substance use treatment, restorative justice, and affordable housing. <strong>Do you support this level of reallocation? If not, what percentage would you support, and where would you direct the funds?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">4</span>
+          <div>
+            <h3 data-en="Civilian Oversight" data-es="Supervisión Civil">Civilian Oversight</h3>
+            <p data-en="Denver For All supports an independent civilian oversight board with subpoena power, the ability to initiate investigations, and binding disciplinary authority over officers. Do you support civilian oversight with real enforcement power? If so, what specific powers should the board have?" data-es="Denver Para Todos apoya una junta de supervisión civil independiente con poder de citación, capacidad para iniciar investigaciones y autoridad disciplinaria vinculante sobre oficiales. ¿Apoya la supervisión civil con poder real de aplicación? Si es así, ¿qué poderes específicos debería tener la junta?">
+              Denver For All supports an independent civilian oversight board with subpoena power, the ability to initiate investigations, and binding disciplinary authority over officers. <strong>Do you support civilian oversight with real enforcement power? If so, what specific powers should the board have?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">5</span>
+          <div>
+            <h3 data-en="Qualified Immunity" data-es="Inmunidad Calificada">Qualified Immunity</h3>
+            <p data-en="Colorado passed SB20-217 limiting qualified immunity for police, but Denver could go further by waiving the defense entirely for city employees. Do you support Denver waiving qualified immunity at the city level, so officers can be held personally liable for constitutional violations?" data-es="Colorado aprobó SB20-217 limitando la inmunidad calificada para la policía, pero Denver podría ir más allá renunciando a la defensa por completo para empleados de la ciudad. ¿Apoya que Denver renuncie a la inmunidad calificada a nivel municipal, para que los oficiales puedan ser responsables personalmente por violaciones constitucionales?">
+              Colorado passed SB20-217 limiting qualified immunity for police, but Denver could go further by waiving the defense entirely for city employees. <strong>Do you support Denver waiving qualified immunity at the city level, so officers can be held personally liable for constitutional violations?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">6</span>
+          <div>
+            <h3 data-en="Drug Policy" data-es="Política de Drogas">Drug Policy</h3>
+            <p data-en="Denver For All supports decriminalizing personal possession of all substances and redirecting enforcement budgets to treatment on demand, safe consumption sites, and harm reduction. Do you support decriminalizing personal possession in Denver? Do you support supervised consumption sites?" data-es="Denver Para Todos apoya la despenalización de la posesión personal de todas las sustancias y redirigir presupuestos de aplicación a tratamiento a demanda, sitios de consumo seguro y reducción de daños. ¿Apoya la despenalización de la posesión personal en Denver? ¿Apoya los sitios de consumo supervisado?">
+              Denver For All supports decriminalizing personal possession of all substances and redirecting enforcement budgets to treatment on demand, safe consumption sites, and harm reduction. <strong>Do you support decriminalizing personal possession in Denver? Do you support supervised consumption sites?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">7</span>
+          <div>
+            <h3 data-en="Root Causes" data-es="Causas Raíz">Root Causes</h3>
+            <p data-en="Research consistently shows that housing stability, youth employment, substance use treatment, and economic opportunity reduce crime more effectively than policing alone. What is your top priority for addressing the root causes of crime in District 2, and how would you fund it?" data-es="La investigación muestra consistentemente que la estabilidad de vivienda, el empleo juvenil, el tratamiento de uso de sustancias y las oportunidades económicas reducen el crimen más efectivamente que solo la policía. ¿Cuál es su prioridad principal para abordar las causas raíz del crimen en el Distrito 2, y cómo lo financiaría?">
+              Research consistently shows that housing stability, youth employment, substance use treatment, and economic opportunity reduce crime more effectively than policing alone. <strong>What is your top priority for addressing the root causes of crime in District 2, and how would you fund it?</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 2 Candidates -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 2 — Southwest Denver" data-es="Distrito 2 — Suroeste de Denver">District 2 — Southwest Denver</h2>
+        <p data-en="Kevin Flynn is term-limited. Three candidates are running to replace him. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Kevin Flynn tiene límite de mandato. Tres candidatos compiten para reemplazarlo. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Kevin Flynn is term-limited. Three candidates are running to replace him. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Paul Pazen -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Paul Pazen</h3>
+            <span class="candidate-tag" data-en="Former DPD Chief (2018–2022)" data-es="Ex Jefe de DPD (2018–2022)">Former DPD Chief (2018–2022)</span>
+          </div>
+          <span class="response-status response-status--pending" data-en="Questionnaire Sent" data-es="Cuestionario Enviado">Questionnaire Sent</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Launched both STAR and LEAD programs during his tenure as chief. DA Beth McCann credited Pazen with overseeing their creation." data-es="Lanzó los programas STAR y LEAD durante su mandato como jefe. La fiscal Beth McCann le dio crédito por supervisar su creación.">Launched both <strong>STAR and LEAD programs</strong> during his tenure as chief. DA Beth McCann credited Pazen with overseeing their creation.</li>
+            <li data-en="Named public safety, small business support, and preventing gentrification of southwest Denver as top priorities for his campaign." data-es="Nombró la seguridad pública, el apoyo a pequeños negocios y la prevención de la gentrificación del suroeste de Denver como principales prioridades de su campaña.">Named <strong>public safety, small business support, and preventing gentrification</strong> of southwest Denver as top priorities for his campaign.</li>
+            <li data-en="Banned chokeholds and marched in George Floyd protests (June 2020). However, unsealed department memos described 'leadership failure' during the protest response." data-es="Prohibió llaves de estrangulamiento y marchó en las protestas de George Floyd (junio 2020). Sin embargo, memorandos internos desclasificados describieron 'fallas de liderazgo' durante la respuesta a las protestas.">Banned chokeholds and marched in George Floyd protests (June 2020). However, unsealed department memos described <strong>"leadership failure"</strong> during the protest response.</li>
+            <li data-en="28-year DPD veteran, U.S. Marine, lived in southwest Denver for 30 years. Master's in homeland security from Naval Postgraduate School." data-es="Veterano de 28 años en DPD, Marine de EE.UU., ha vivido en el suroeste de Denver por 30 años. Maestría en seguridad nacional de la Escuela Naval de Posgrado.">28-year DPD veteran, U.S. Marine, lived in southwest Denver for 30 years. Master's in homeland security from Naval Postgraduate School.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Tran Nguyen-Wills -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Tran Nguyen-Wills</h3>
+            <span class="candidate-tag" data-en="Deputy Director of Outreach, Mayor Johnston's Office" data-es="Subdirectora de Alcance, Oficina del Alcalde Johnston">Deputy Director of Outreach, Mayor Johnston's Office</span>
+          </div>
+          <span class="response-status response-status--pending" data-en="Questionnaire Sent" data-es="Cuestionario Enviado">Questionnaire Sent</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Deputy outreach director in Mayor Johnston's office. Johnston's administration has supported STAR program funding." data-es="Subdirectora de alcance en la oficina del alcalde Johnston. La administración de Johnston ha apoyado el financiamiento del programa STAR.">Deputy outreach director in Mayor Johnston's office. Johnston's administration has <strong>supported STAR program funding</strong>.</li>
+            <li data-en="Born and raised in Denver to Vietnamese refugees. Would be the first Asian American to serve on Denver City Council." data-es="Nacida y criada en Denver por refugiados vietnamitas. Sería la primera asiático-americana en servir en el Concejo Municipal de Denver.">Born and raised in Denver to Vietnamese refugees. Would be the <strong>first Asian American</strong> to serve on Denver City Council.</li>
+            <li data-en="Organized mutual aid initiatives during COVID, including an equitable walk-in vaccine clinic for workers left out of initial rollouts. Co-founded Denver Community Fridges to address food insecurity." data-es="Organizó iniciativas de ayuda mutua durante COVID, incluyendo una clínica de vacunación equitativa para trabajadores excluidos de las primeras distribuciones. Cofundó las Heladeras Comunitarias de Denver para combatir la inseguridad alimentaria.">Organized <strong>mutual aid initiatives during COVID</strong>, including an equitable walk-in vaccine clinic for workers left out of initial rollouts. Co-founded Denver Community Fridges to address food insecurity.</li>
+            <li data-en="Planned Parenthood board member. Has advocated against gun violence alongside students and activists. Championed Lunar New Year as a state holiday." data-es="Miembro de la junta de Planned Parenthood. Ha abogado contra la violencia armada junto a estudiantes y activistas. Impulsó el Año Nuevo Lunar como feriado estatal.">Planned Parenthood board member. Has advocated <strong>against gun violence</strong> alongside students and activists. Championed Lunar New Year as a state holiday.</li>
+            <li data-en="Small business owner (Base Coat Salon, non-toxic nail salon). Campaign emphasizes community sustainability and inclusive leadership." data-es="Dueña de pequeño negocio (Base Coat Salon, salón de uñas no tóxico). La campaña enfatiza la sustentabilidad comunitaria y el liderazgo inclusivo.">Small business owner (Base Coat Salon). Campaign emphasizes <strong>community sustainability and inclusive leadership</strong>.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Antonio Martinez -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Antonio Martinez</h3>
+            <span class="candidate-tag" data-en="Candidate" data-es="Candidato">Candidate</span>
+          </div>
+          <span class="response-status response-status--pending" data-en="Questionnaire Sent" data-es="Cuestionario Enviado">Questionnaire Sent</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Filed to run for Denver City Council District 2 in the April 2027 election." data-es="Se registró para competir por el Distrito 2 del Concejo Municipal de Denver en la elección de abril de 2027.">Filed to run for Denver City Council District 2 in the April 2027 election.</li>
+            <li data-en="No campaign website or detailed platform publicly available at this time. We will update this section as information becomes available." data-es="No hay sitio web de campaña ni plataforma detallada disponible públicamente en este momento. Actualizaremos esta sección a medida que la información esté disponible.">No campaign website or detailed platform publicly available at this time. We will update this section as information becomes available.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <div class="methodology-note">
+        <h3 data-en="Our Approach" data-es="Nuestro Enfoque">Our Approach</h3>
+        <p data-en="Every candidate receives the same seven questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position." data-es="Cada candidato recibe las mismas siete preguntas. Las respuestas se publican sin editar y completas. No respaldamos candidatos. Proporcionamos información para que los votantes puedan tomar decisiones informadas. Si un candidato no responde, se nota — el silencio sobre los temas es en sí mismo una posición.">
+          Every candidate receives the same seven questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position.
+        </p>
+        <p data-en="'What We Know From the Public Record' sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue." data-es="Las secciones 'Lo Que Sabemos del Registro Público' provienen de reportajes, materiales de campaña y registros oficiales. Correcciones bienvenidas — envíanos un correo o abre un issue en GitHub.">
+          "What We Know From the Public Record" sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Coming Soon -->
+  <section class="section">
+    <div class="container container--narrow">
+      <div class="coming-soon">
+        <h2 data-en="More Districts Coming" data-es="Más Distritos Próximamente">More Districts Coming</h2>
+        <p data-en="We're sending questionnaires to candidates in every contested Denver City Council race for the April 2027 election. Want to help us identify candidates in your district?" data-es="Estamos enviando cuestionarios a candidatos en cada carrera disputada del Concejo Municipal de Denver para la elección de abril de 2027. ¿Quieres ayudarnos a identificar candidatos en tu distrito?">
+          We're sending questionnaires to candidates in every contested Denver City Council race for the April 2027 election. Want to help us identify candidates in your district?
+        </p>
+        <a href="/take-action" class="cta-button" data-en="Get Involved" data-es="Participa">Get Involved</a>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+  .section-header p {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 640px;
+    margin: 0.5rem auto 0;
+  }
+
+  /* Questions */
+  .questions-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .question-card {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .question-number {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--color-primary);
+    color: white;
+    font-weight: 800;
+    font-size: 0.9rem;
+  }
+
+  .question-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .question-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Candidate Cards */
+  .candidate-card {
+    margin-bottom: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    overflow: hidden;
+  }
+
+  .candidate-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.5rem;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .candidate-info h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .candidate-tag {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .response-status {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.3rem 0.7rem;
+    border-radius: 4px;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+  }
+
+  .response-status--pending {
+    background: #fff3e0;
+    color: #b06000;
+  }
+
+  .response-status--received {
+    background: #e8f8e8;
+    color: #2d7a2d;
+  }
+
+  .response-status--declined {
+    background: #fde8e8;
+    color: #c53030;
+  }
+
+  .candidate-context {
+    padding: 0 1.5rem 1rem;
+  }
+
+  .candidate-context h4 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+  }
+
+  .candidate-context ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .candidate-context li {
+    padding: 0.5rem 0;
+    padding-left: 1.25rem;
+    position: relative;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .candidate-context li:last-child {
+    border-bottom: none;
+  }
+
+  .candidate-context li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.85rem;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--color-primary);
+  }
+
+  .candidate-responses {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .candidate-responses summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+    user-select: none;
+    transition: background 0.15s;
+  }
+
+  .candidate-responses summary:hover {
+    background: var(--color-bg-alt);
+  }
+
+  .candidate-responses[open] summary {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .responses-pending {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1.25rem 1.5rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  .responses-pending [data-icon] {
+    flex-shrink: 0;
+    color: #b06000;
+  }
+
+  .responses-pending p {
+    margin: 0;
+  }
+
+  /* Response display (for when responses come in) */
+  .response-item {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .response-item:last-child {
+    border-bottom: none;
+  }
+
+  .response-item h4 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-primary);
+    margin-bottom: 0.5rem;
+  }
+
+  .response-item blockquote {
+    margin: 0;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-alt);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--color-text);
+  }
+
+  .methodology-note {
+    margin-top: 2rem;
+    padding: 1.5rem 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .methodology-note h3 {
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
+
+  .methodology-note p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+
+  .methodology-note p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Coming Soon */
+  .coming-soon {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 2px dashed var(--color-border);
+  }
+
+  .coming-soon h2 {
+    margin-bottom: 0.75rem;
+  }
+
+  .coming-soon p {
+    color: var(--color-text-muted);
+    max-width: 500px;
+    margin: 0 auto 1.5rem;
+    font-size: 0.95rem;
+  }
+
+  .cta-button {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background: var(--color-primary);
+    color: white;
+    font-weight: 700;
+    font-size: 0.9rem;
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+
+  .cta-button:hover {
+    background: var(--color-primary-dark);
+  }
+
+  @media (max-width: 600px) {
+    .question-card {
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .candidate-header {
+      flex-direction: column;
+    }
+  }
+</style>

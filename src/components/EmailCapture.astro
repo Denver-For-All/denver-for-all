@@ -14,7 +14,7 @@ const { variant = 'default' } = Astro.props;
     <p class="email-capture__text" data-en="Get updates on policy proposals, actions, and how to fight for a Denver that works for everyone." data-es="Recibe actualizaciones sobre propuestas políticas, acciones y cómo luchar por un Denver que funcione para todos.">
       Get updates on policy proposals, actions, and how to fight for a Denver that works for everyone.
     </p>
-    <form class="email-capture__form" action="#" method="POST" id="email-form">
+    <form class="email-capture__form" action="/api/subscribe" method="POST" id="email-form">
       <input
         type="email"
         name="email"
@@ -29,11 +29,56 @@ const { variant = 'default' } = Astro.props;
         <span data-en="Sign Up" data-es="Suscribirse">Sign Up</span>
       </button>
     </form>
+    <p class="email-capture__message email-capture__message--success" id="email-success" hidden
+      data-en="You're in! Check your inbox for a welcome email." data-es="¡Estás dentro! Revisa tu bandeja de entrada para un correo de bienvenida.">
+      You're in! Check your inbox for a welcome email.
+    </p>
+    <p class="email-capture__message email-capture__message--error" id="email-error" hidden
+      data-en="Something went wrong. Please try again." data-es="Algo salió mal. Por favor intenta de nuevo.">
+      Something went wrong. Please try again.
+    </p>
     <p class="email-capture__privacy" data-en="We respect your privacy. Unsubscribe anytime." data-es="Respetamos tu privacidad. Cancela cuando quieras.">
       We respect your privacy. Unsubscribe anytime.
     </p>
   </div>
 </section>
+
+<script>
+  const form = document.getElementById('email-form') as HTMLFormElement;
+  const successMsg = document.getElementById('email-success');
+  const errorMsg = document.getElementById('email-error');
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    successMsg?.setAttribute('hidden', '');
+    errorMsg?.setAttribute('hidden', '');
+
+    const formData = new FormData(form);
+    const btn = form.querySelector('button') as HTMLButtonElement;
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '<span>...</span>';
+    btn.disabled = true;
+
+    try {
+      const res = await fetch('/api/subscribe', {
+        method: 'POST',
+        body: formData,
+      });
+
+      if (res.ok) {
+        successMsg?.removeAttribute('hidden');
+        form.reset();
+      } else {
+        errorMsg?.removeAttribute('hidden');
+      }
+    } catch {
+      errorMsg?.removeAttribute('hidden');
+    } finally {
+      btn.innerHTML = originalText;
+      btn.disabled = false;
+    }
+  });
+</script>
 
 <style>
   .email-capture {
@@ -85,6 +130,20 @@ const { variant = 'default' } = Astro.props;
   .email-capture__input:focus {
     outline: none;
     border-color: var(--color-primary);
+  }
+
+  .email-capture__message {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .email-capture__message--success {
+    color: #2d7a2d;
+  }
+
+  .email-capture__message--error {
+    color: #c53030;
   }
 
   .email-capture__privacy {

@@ -1,0 +1,178 @@
+---
+interface Props {
+  hasPetition: boolean;
+  hasFundingSources: boolean;
+  hasGrantProposal: boolean;
+  hasCouncilChampion: boolean;
+}
+
+const { hasPetition, hasFundingSources, hasGrantProposal, hasCouncilChampion } = Astro.props;
+
+const items = [
+  { label: 'Active Petition', labelEs: 'Petición Activa', done: hasPetition },
+  { label: 'Funding Identified', labelEs: 'Financiamiento Identificado', done: hasFundingSources },
+  { label: 'Grant Proposal', labelEs: 'Propuesta de Subvención', done: hasGrantProposal },
+  { label: 'Council Champion', labelEs: 'Apoyo en el Concejo', done: hasCouncilChampion },
+];
+
+const score = items.filter(i => i.done).length;
+const total = items.length;
+const percentage = Math.round((score / total) * 100);
+---
+
+<div class="action-score">
+  <div class="action-score__header">
+    <h3 data-en="Action Readiness" data-es="Preparación para la Acción">Action Readiness</h3>
+    <span class="action-score__badge" data-score={score}>
+      {score}/{total}
+    </span>
+  </div>
+
+  <div class="action-score__bar">
+    <div class="action-score__fill" style={`width: ${percentage}%`}></div>
+  </div>
+
+  <ul class="action-score__list">
+    {items.map(item => (
+      <li class:list={['action-score__item', { 'action-score__item--done': item.done }]}>
+        <span class="action-score__icon">{item.done ? '\u2713' : '\u25CB'}</span>
+        <span data-en={item.label} data-es={item.labelEs}>{item.label}</span>
+      </li>
+    ))}
+  </ul>
+
+  {score < total && (
+    <p class="action-score__help" data-en="Want to help fill the gaps? Volunteer your skills or create a Resistbot petition." data-es="¿Quieres ayudar a cerrar las brechas? Ofrece tus habilidades o crea una petición en Resistbot.">
+      Want to help fill the gaps? <a href="/take-action">Volunteer your skills</a> or <a href="/tools/resistbot">create a Resistbot petition</a>.
+    </p>
+  )}
+</div>
+
+<style>
+  .action-score {
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .action-score__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+  }
+
+  .action-score__header h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+
+  .action-score__badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.6rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
+  }
+
+  .action-score__badge[data-score="1"] {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .action-score__badge[data-score="2"] {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .action-score__badge[data-score="3"] {
+    background: #d1fae5;
+    color: #065f46;
+  }
+
+  .action-score__badge[data-score="4"] {
+    background: #065f46;
+    color: white;
+  }
+
+  .action-score__bar {
+    height: 6px;
+    background: var(--color-bg-alt);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 1.25rem;
+  }
+
+  .action-score__fill {
+    height: 100%;
+    border-radius: 3px;
+    background: linear-gradient(90deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+    transition: width 0.6s ease;
+  }
+
+  .action-score__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+  }
+
+  .action-score__item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+
+  .action-score__item--done {
+    color: var(--color-text);
+  }
+
+  .action-score__icon {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 0.7rem;
+    font-weight: 700;
+  }
+
+  .action-score__item--done .action-score__icon {
+    background: #d1fae5;
+    color: #065f46;
+  }
+
+  .action-score__item:not(.action-score__item--done) .action-score__icon {
+    background: var(--color-bg-alt);
+    color: var(--color-text-light);
+  }
+
+  .action-score__help {
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+  }
+
+  .action-score__help a {
+    font-weight: 600;
+  }
+
+  @media (max-width: 480px) {
+    .action-score__list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

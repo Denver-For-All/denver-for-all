@@ -7,6 +7,8 @@ category: "community"
 icon: "tree-deciduous"
 order: 80
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

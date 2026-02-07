@@ -7,6 +7,8 @@ category: "infrastructure"
 icon: "wifi"
 order: 61
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

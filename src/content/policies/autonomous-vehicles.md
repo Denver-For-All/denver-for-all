@@ -7,6 +7,8 @@ category: "infrastructure"
 icon: "car"
 order: 63
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

@@ -7,6 +7,8 @@ category: "education"
 icon: "baby"
 order: 48
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

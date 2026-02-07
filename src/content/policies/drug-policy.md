@@ -7,6 +7,8 @@ category: "justice"
 icon: "hand-heart"
 order: 70
 status: "draft"
+actionTarget: "state"
+hasFundingSources: true
 ---
 
 ## The Problem

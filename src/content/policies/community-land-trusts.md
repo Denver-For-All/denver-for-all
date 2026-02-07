@@ -7,6 +7,8 @@ category: "housing"
 icon: "sprout"
 order: 6
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

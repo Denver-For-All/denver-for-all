@@ -1,0 +1,209 @@
+---
+interface Props {
+  actionTarget: 'mayor' | 'state' | 'congress' | 'all';
+  petition?: {
+    url: string;
+    code: string;
+    title: string;
+    titleEs?: string;
+  };
+  grantProposal?: string;
+  policyTitle: string;
+}
+
+const { actionTarget, petition, grantProposal, policyTitle } = Astro.props;
+
+const targetLabels: Record<string, { en: string; es: string }> = {
+  mayor: { en: 'Mayor Johnston', es: 'Alcalde Johnston' },
+  state: { en: 'your Governor & State Legislators', es: 'su Gobernador y Legisladores Estatales' },
+  congress: { en: 'your U.S. Representatives & Senators', es: 'sus Representantes y Senadores de EE.UU.' },
+  all: { en: 'all your elected officials', es: 'todos sus funcionarios electos' },
+};
+
+const target = targetLabels[actionTarget] || targetLabels.mayor;
+
+const resistbotTargetCommand: Record<string, string> = {
+  mayor: 'mayor',
+  state: 'state',
+  congress: 'congress',
+  all: 'all',
+};
+---
+
+<div class="policy-cta">
+  <h3 data-en="Take Action on This Issue" data-es="Toma Acción en Este Tema">Take Action on This Issue</h3>
+
+  {petition ? (
+    <div class="policy-cta__petition">
+      <div class="policy-cta__petition-info">
+        <span class="policy-cta__label" data-en="Active Petition" data-es="Petición Activa">Active Petition</span>
+        <p data-en={petition.title} data-es={petition.titleEs || petition.title}>{petition.title}</p>
+        <p class="policy-cta__sublabel" data-en={`Every signature sends a personalized letter to ${target.en}.`} data-es={`Cada firma envía una carta personalizada a ${target.es}.`}>
+          Every signature sends a personalized letter to {target.en}.
+        </p>
+      </div>
+      <div class="policy-cta__petition-actions">
+        <a href={petition.url} target="_blank" rel="noopener" class="btn btn--primary">
+          <span data-en="Sign the Petition" data-es="Firma la Petición">Sign the Petition</span>
+        </a>
+        <span class="policy-cta__sms" data-en={`or text "sign ${petition.code}" to 50409`} data-es={`o escribe "sign ${petition.code}" al 50409`}>
+          or text "sign {petition.code}" to 50409
+        </span>
+      </div>
+    </div>
+  ) : (
+    <div class="policy-cta__no-petition">
+      <div class="policy-cta__no-petition-info">
+        <span class="policy-cta__label policy-cta__label--pending" data-en="Petition Coming Soon" data-es="Petición Próximamente">Petition Coming Soon</span>
+        <p data-en={`We haven't yet created a Resistbot petition for this issue. In the meantime, write your own letter to ${target.en}.`} data-es={`Aún no hemos creado una petición de Resistbot para este tema. Mientras tanto, escribe tu propia carta a ${target.es}.`}>
+          We haven't yet created a Resistbot petition for this issue. In the meantime, write your own letter to {target.en}.
+        </p>
+      </div>
+      <div class="policy-cta__write-actions">
+        <a href={`sms:50409&body=resist`} class="btn btn--primary">
+          <span data-en={`Text "${resistbotTargetCommand[actionTarget]}" to Resistbot`} data-es={`Escribe "${resistbotTargetCommand[actionTarget]}" a Resistbot`}>Text "{resistbotTargetCommand[actionTarget]}" to Resistbot</span>
+        </a>
+        <a href="/tools/resistbot" class="btn btn--secondary">
+          <span data-en="Use a Letter Template" data-es="Usa una Plantilla de Carta">Use a Letter Template</span>
+        </a>
+      </div>
+    </div>
+  )}
+
+  {grantProposal && (
+    <div class="policy-cta__grant">
+      <span class="policy-cta__label policy-cta__label--grant" data-en="Funding Resource" data-es="Recurso de Financiamiento">Funding Resource</span>
+      <p data-en="A grant proposal template is available for this policy area. City staff, council members, and advocates can use it as a starting point for federal funding applications." data-es="Una plantilla de propuesta de subvención está disponible para esta área de política. El personal de la ciudad, los miembros del concejo y los defensores pueden usarla como punto de partida para solicitudes de financiamiento federal.">
+        A grant proposal template is available for this policy area. City staff, council members, and advocates can use it as a starting point for federal funding applications.
+      </p>
+      <a href={`/grants/${grantProposal}`} class="btn btn--secondary">
+        <span data-en="View Grant Proposal" data-es="Ver Propuesta de Subvención">View Grant Proposal</span>
+      </a>
+    </div>
+  )}
+
+  <div class="policy-cta__more">
+    <a href="/take-action" data-en="See all ways to take action" data-es="Ver todas las formas de tomar acción">See all ways to take action</a>
+    <span class="policy-cta__divider">|</span>
+    <a href="/tools/resistbot" data-en="All Resistbot campaigns" data-es="Todas las campañas de Resistbot">All Resistbot campaigns</a>
+  </div>
+</div>
+
+<style>
+  .policy-cta {
+    padding: 2rem;
+    background: linear-gradient(135deg, rgba(13, 115, 119, 0.04) 0%, rgba(30, 95, 166, 0.04) 100%);
+    border: 2px solid var(--color-primary);
+    border-radius: var(--radius-lg);
+  }
+
+  .policy-cta h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1.25rem;
+    color: var(--color-primary);
+  }
+
+  .policy-cta__label {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    background: #d1fae5;
+    color: #065f46;
+    margin-bottom: 0.5rem;
+  }
+
+  .policy-cta__label--pending {
+    background: #fef3c7;
+    color: #92400e;
+  }
+
+  .policy-cta__label--grant {
+    background: #dbeafe;
+    color: #1e40af;
+  }
+
+  .policy-cta__petition,
+  .policy-cta__no-petition {
+    margin-bottom: 1.25rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .policy-cta__petition-info p,
+  .policy-cta__no-petition-info p {
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+  }
+
+  .policy-cta__sublabel {
+    font-size: 0.85rem !important;
+    color: var(--color-text-muted);
+  }
+
+  .policy-cta__petition-actions,
+  .policy-cta__write-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 0.75rem;
+  }
+
+  .policy-cta__sms {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-family: var(--font-mono, monospace);
+  }
+
+  .policy-cta__grant {
+    margin-bottom: 1.25rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .policy-cta__grant p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+  }
+
+  .policy-cta__more {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    font-size: 0.85rem;
+  }
+
+  .policy-cta__divider {
+    color: var(--color-border);
+  }
+
+  .policy-cta__more a {
+    font-weight: 600;
+  }
+
+  @media (max-width: 480px) {
+    .policy-cta {
+      padding: 1.25rem;
+    }
+
+    .policy-cta__petition-actions,
+    .policy-cta__write-actions {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .policy-cta__more {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .policy-cta__divider {
+      display: none;
+    }
+  }
+</style>

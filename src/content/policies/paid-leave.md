@@ -7,6 +7,8 @@ category: "labor"
 icon: "calendar-check"
 order: 16
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

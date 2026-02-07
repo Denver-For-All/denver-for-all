@@ -7,6 +7,8 @@ category: "health"
 icon: "accessibility"
 order: 22
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

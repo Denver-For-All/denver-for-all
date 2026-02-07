@@ -7,6 +7,8 @@ category: "labor"
 icon: "users"
 order: 13
 status: "draft"
+actionTarget: "state"
+hasFundingSources: true
 ---
 
 ## The Problem

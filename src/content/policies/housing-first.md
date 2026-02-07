@@ -7,6 +7,8 @@ category: "housing"
 icon: "heart-handshake"
 order: 8
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

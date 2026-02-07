@@ -7,6 +7,8 @@ category: "safety"
 icon: "flag"
 order: 43
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

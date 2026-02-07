@@ -7,6 +7,8 @@ category: "labor"
 icon: "dollar-sign"
 order: 10
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

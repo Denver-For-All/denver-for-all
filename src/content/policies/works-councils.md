@@ -7,6 +7,8 @@ category: "labor"
 icon: "hard-hat"
 order: 14
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

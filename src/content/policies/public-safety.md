@@ -7,6 +7,13 @@ category: "safety"
 icon: "shield"
 order: 41
 status: "draft"
+actionTarget: "mayor"
+petition:
+  url: "https://resist.bot/petitions/PYOELO"
+  code: "PYOELO"
+  title: "Turn Off Flock Surveillance Cameras"
+  titleEs: "Apagar las Cámaras de Vigilancia Flock"
+hasFundingSources: true
 ---
 
 ## The Problem

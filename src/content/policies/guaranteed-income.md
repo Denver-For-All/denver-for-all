@@ -7,6 +7,8 @@ category: "economy"
 icon: "wallet"
 order: 76
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

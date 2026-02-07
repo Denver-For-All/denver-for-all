@@ -7,6 +7,8 @@ category: "health"
 icon: "heart-pulse"
 order: 20
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

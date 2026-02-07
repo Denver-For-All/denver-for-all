@@ -7,6 +7,8 @@ category: "democracy"
 icon: "vote"
 order: 55
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

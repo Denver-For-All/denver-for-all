@@ -7,6 +7,8 @@ category: "immigration"
 icon: "landmark"
 order: 40
 status: "draft"
+actionTarget: "mayor"
+hasFundingSources: true
 ---
 
 ## The Problem

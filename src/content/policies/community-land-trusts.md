@@ -8,6 +8,7 @@ icon: "sprout"
 order: 6
 status: "draft"
 actionTarget: "mayor"
+grantProposal: "community-land-trusts-hud-home"
 hasFundingSources: true
 ---
 

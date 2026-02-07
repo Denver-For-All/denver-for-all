@@ -8,6 +8,7 @@ icon: "wifi"
 order: 61
 status: "draft"
 actionTarget: "mayor"
+grantProposal: "municipal-broadband-bead"
 hasFundingSources: true
 ---
 

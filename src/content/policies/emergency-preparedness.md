@@ -8,6 +8,7 @@ icon: "siren"
 order: 42
 status: "draft"
 actionTarget: "mayor"
+grantProposal: "emergency-preparedness-fema-bric"
 hasFundingSources: true
 ---
 

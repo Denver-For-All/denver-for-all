@@ -15,13 +15,27 @@ Denver renters have no protection against arbitrary rent increases. A landlord c
 
 The result: Denver rents have increased roughly 85% since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - can't afford to live here.
 
-Colorado state law previously prohibited local rent control (preemption), but this is changing. Denver must be ready to act the moment preemption is lifted - or pursue a ballot initiative to establish it directly.
+Colorado state law (CRS § 38-12-301, enacted 1981) prohibits local rent control. Multiple repeal attempts have failed — most recently HB23-1115, which passed the House 40-24 before being killed 4-3 in a Senate committee by a single Democratic defection. Denver must be ready to act the moment preemption is lifted — or pursue a state ballot initiative to repeal it directly.
 
 ### What Denver Currently Does
 
-Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes Section 38-12-301 preempts all local rent control ordinances. Multiple attempts to repeal this preemption have been introduced in the Colorado General Assembly (including SB 19-225, HB 23-1115, and subsequent bills) but have failed to pass. In 2024, Colorado legislators introduced another rent stabilization bill that did not advance past committee.
+Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes § 38-12-301 preempts all local rent control ordinances. Four repeal attempts have been introduced since 2019 (SB19-225, HB23-1115, and bills in 2024 and 2025 sessions) — all have failed. HB23-1115 came the closest, passing the full House before dying in the Senate Local Government & Housing Committee on April 25, 2023. Governor Polis has publicly opposed rent control, but is term-limited and leaves office January 2027.
 
 Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA and apartment market reports. The average one-bedroom rent in Denver reached approximately $1,600/month by 2024 (ApartmentList National Rent Report, 2024). Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
+
+### The State-Level Roadblock
+
+The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to rent stabilization in Denver. Here's the recent legislative history:
+
+| Year | Bill | Outcome |
+|------|------|---------|
+| 2019 | SB19-225 | Failed in committee |
+| 2023 | **HB23-1115** | Passed House 40-24; killed 4-3 in Senate committee (Sen. Dylan Roberts, D-Avon, voted with 3 Republicans) |
+| 2024 | Preemption repeal | Did not advance past committee |
+| 2025 | No repeal introduced | Session focused on junk fees ban, algorithm rent-setting ban |
+| 2026 | TBD | Session underway; no repeal bill identified yet as of February 2026 |
+
+**Key allies:** Rep. Javier Mabrey (D-Denver), Rep. Jennifer Bacon (D-Denver), Sen. Sonya Jaquez Lewis, Sen. Julie Gonzales. **Key obstacle:** Governor Polis (term-limited 2027).
 
 ## Our Solution
 
@@ -97,7 +111,26 @@ The act includes habitability enforcement and allows landlords to petition for a
 A 3% annual increase is sustainable for any competently run rental property. If a landlord's business model requires 8-15% annual rent increases to work, that's not a sustainable business - it's speculation at tenants' expense. Additionally, the registration fee is minimal.
 
 **"The state won't allow it."**
-Colorado's rent control preemption is a political choice, not a constitutional one. We push for repeal at the state level while building the local coalition to implement immediately when preemption lifts. If necessary, we pursue a state ballot initiative.
+Colorado's rent control preemption is a political choice, not a constitutional one. We push for repeal at the state level while building the local coalition to implement immediately when preemption lifts. If necessary, we pursue a state ballot initiative. Governor Polis, who opposes rent control, is term-limited and leaves office in January 2027 — the political window is opening.
+
+## Our Multi-Track Strategy to Lift the State Ban
+
+The 1981 preemption (CRS § 38-12-301) is the single legal obstacle blocking Denver's Rent Stabilization Act. We're pursuing multiple paths simultaneously:
+
+### Track 1: Denver Trigger Ordinance (2026)
+Pass a Denver rent stabilization ordinance that **automatically takes effect** the moment state preemption is repealed. This demonstrates political will, creates a ready framework, and pressures state legislators.
+
+### Track 2: Amended State Bill (2026-2027)
+Work with Rep. Mabrey and Rep. Bacon to introduce a strengthened version of HB23-1115 that addresses the specific objections that killed it — mountain town spillover concerns (add population thresholds), development worries (strengthen new construction exemptions), and vacation rental conversion (add anti-conversion provisions).
+
+### Track 3: Statewide Coalition (2026-2027)
+Build a multi-city coalition with Boulder, Aurora, Colorado Springs, and mountain towns. A unified statewide demand is harder for the legislature to dismiss than a "Denver issue."
+
+### Track 4: New Governor Window (2027)
+Polis is term-limited. A new governor in January 2027 creates the most favorable window for a preemption repeal bill since 1981.
+
+### Track 5: State Ballot Initiative (2028 backup)
+If the legislature fails again, Colorado's citizen initiative process lets voters repeal the preemption directly, bypassing both the legislature and the governor.
 
 ---
 

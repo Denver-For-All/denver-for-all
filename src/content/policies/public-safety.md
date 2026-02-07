@@ -76,14 +76,26 @@ The evidence is strong. Seattle's LEAD program — the original, launched in 201
 
 - Cross-reference: [Decriminalize & Heal](/platform/drug-policy) (LEAD is the operational bridge to full decriminalization — it works under current law, right now)
 
-### 4. Budget Reallocation: 25% Redirect
-Over 4 years, redirect 25% of police budget ($75M/year) to:
-- STAR program expansion ($20M)
-- Community violence intervention programs ($15M)
-- Youth services and after-school programs ($15M)
-- Substance use treatment and recovery ($10M)
-- Restorative justice and LEAD diversion programs ($10M)
-- Affordable housing (contributes to root cause reduction) ($5M)
+### 4. Budget Reallocation: Phased Redirect to What Works
+
+Denver's police budget is approximately $300M/year. We propose a phased reallocation that starts with proven programs and scales based on demonstrated results — not ideology, but outcomes.
+
+**Phase 1 — Immediate (~8% / $25M/year):** Expand programs that are already working in Denver.
+- STAR program: citywide 24/7 coverage ($20M) — currently handling 10,000+ calls/year with zero incidents requiring police backup
+- LEAD diversion: citywide expansion ($5M) — Denver pilot already operating in 3 districts; Seattle evaluation shows 58% recidivism reduction
+
+**Phase 2 — Years 2-3 (~15% / $45M/year):** Add evidence-backed prevention programs.
+- Community violence intervention ($15M) — Cure Violence model: 50-75% reductions in targeted areas (Oakland, Richmond, Glasgow)
+- Substance use treatment on demand ($10M) — eliminate waitlists; MAT expansion; every dollar here reduces property crime driven by addiction
+- Phase 1 programs continue at full funding ($25M)
+
+**Phase 3 — Years 3-4 (~25% / $75M/year):** Full reallocation, contingent on Phase 1-2 outcomes.
+- Youth services and after-school programs ($15M) — youth employment programs reduce violent crime participation by 35-45% (University of Chicago Crime Lab)
+- Restorative justice programs ($10M)
+- Affordable housing contributions ($5M) — cross-funded with housing budget
+- Phase 1-2 programs continue at full funding ($45M)
+
+**Why phased?** "Cut the police budget by 25%" is a headline that writes attack ads. "Expand two programs that are already working in Denver, then scale based on results" is a mandate. The destination is the same — $75M redirected to community safety infrastructure — but the path builds public trust and political durability. Each phase is evaluated publicly before the next begins. If something isn't working, we adjust. If it is, we have the evidence to go further.
 
 ### 5. End Qualified Immunity (City Level)
 - Denver waives qualified immunity defense for all city employees, including police officers
@@ -193,7 +205,7 @@ Denver can't reform the state prison system alone, but Denver CAN:
 
 ## How We Pay For It
 
-This is primarily a budget reallocation, not new spending. Moving $75M from police to services that address root causes costs the city $0 net.
+This is primarily a budget reallocation, not new spending. The phased approach (Section 4) starts at $25M/year and scales to $75M over 4 years. Moving funds from police to services that address root causes costs the city $0 net.
 
 - Civilian oversight board: $3-5M/year from general fund
 - Youth employment guarantee (high-crime neighborhoods): $15M/year (from police budget reallocation)
@@ -209,7 +221,7 @@ This is primarily a budget reallocation, not new spending. Moving $75M from poli
 ## Frequently Asked Questions
 
 **"Won't reducing police funding increase crime?"**
-Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. We're investing in what works.
+Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. Our phased approach starts with two programs already proven in Denver — STAR and LEAD — and scales based on demonstrated outcomes. We're not asking anyone to take a leap of faith. We're asking them to look at what's already working and fund it properly.
 
 **"Who responds to violent crime?"**
 Police. This plan doesn't eliminate police. It refocuses them on violent crime and removes responsibilities they're not trained for. A smaller, better-trained, better-supervised police force focused on actual public safety threats.

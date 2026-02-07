@@ -24,9 +24,9 @@ These proposals can be introduced as Denver city ordinances with minimal legal r
 ### 3. STAR Program Expansion
 - **Mechanism:** Budget amendment increasing STAR funding + operational expansion
 - **Legal basis:** City budget authority; program already exists
-- **Precedent:** STAR has run successfully since 2020 with zero incidents requiring police backup
-- **Cost:** Increase from ~$6M to $20M (partially redirected from police overtime)
-- **Political risk:** Moderate. Police union will object to budget shift, but program's safety record is strong.
+- **Precedent:** STAR has operated citywide since 2022 with over 23,000 van responses. A 2026 Urban Institute evaluation found 16% reductions in subsequent arrests and police contacts, with 2-3x larger impacts for people experiencing homelessness. Urban Institute analysis shows 9-10 concurrent van units needed to meet full demand (currently 6-7 units serving 45% of eligible calls).
+- **Cost:** Increase from ~$4.4M to $20M (full program at current demand scale: ~$8.6M per Urban Institute; $20M target accounts for 24/7 coverage and expanded capacity beyond current demand, partially redirected from police overtime)
+- **Political risk:** Moderate. Police union will object to budget shift, but program's outcomes are now backed by rigorous independent evaluation showing proven reductions in criminal justice involvement.
 
 ### 4. Hospital Cost Transparency Strengthening
 - **Mechanism:** City ordinance with stronger enforcement of existing state transparency law

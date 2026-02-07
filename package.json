@@ -16,9 +16,12 @@
     "@nanostores/react": "^0.8.0",
     "astro": "^4.16.0",
     "astro-icon": "^1.1.5",
+    "intersection-observer": "^0.12.2",
     "nanostores": "^0.11.0",
     "react": "^18.3.0",
-    "react-dom": "^18.3.0"
+    "react-dom": "^18.3.0",
+    "recharts": "^3.7.0",
+    "scrollama": "^3.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.0",

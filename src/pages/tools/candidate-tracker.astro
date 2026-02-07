@@ -7,8 +7,11 @@ import { Icon } from 'astro-icon/components';
   <section class="hero-mini">
     <div class="container">
       <h1 data-en="Candidate Tracker" data-es="Rastreador de Candidatos">Candidate Tracker</h1>
-      <p data-en="Where do your candidates stand on the issues that matter? We sent every candidate the same questions. Their answers — and silences — are below." data-es="¿Dónde se posicionan tus candidatos en los temas que importan? Enviamos a cada candidato las mismas preguntas. Sus respuestas — y silencios — están abajo.">
-        Where do your candidates stand on the issues that matter? We sent every candidate the same questions. Their answers — and silences — are below.
+      <p data-en="Where do your City Council candidates stand on the issues that matter? We sent every candidate the same questions. Their answers — and silences — are below." data-es="¿Dónde se posicionan tus candidatos al Concejo Municipal en los temas que importan? Enviamos a cada candidato las mismas preguntas. Sus respuestas — y silencios — están abajo.">
+        Where do your City Council candidates stand on the issues that matter? We sent every candidate the same questions. Their answers — and silences — are below.
+      </p>
+      <p class="hero-sublink" data-en="Looking for the mayor's race? See the Mayoral Tracker." data-es="¿Buscas la carrera a la alcaldía? Consulta el Rastreador de Alcalde.">
+        Looking for the mayor's race? See the <a href="/tools/mayoral-tracker">Mayoral Tracker</a>.
       </p>
     </div>
   </section>
@@ -312,6 +315,17 @@ import { Icon } from 'astro-icon/components';
   }
   .hero-mini h1 { color: white; margin-bottom: 1rem; }
   .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .hero-sublink {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+  }
+
+  .hero-sublink a {
+    color: white;
+    text-decoration: underline;
+    font-weight: 600;
+  }
 
   .section-header {
     text-align: center;

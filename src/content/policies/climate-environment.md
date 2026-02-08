@@ -151,7 +151,7 @@ The DOE declared it cleaned up. Independent scientists disagree. Plutonium has a
 Burlington, VT achieved 100% renewable electricity in 2014. Other cities have followed. Denver has more solar potential than almost any major US city, with 5.5+ peak sun hours per day (NREL Solar Resource Data). The technology exists. What's missing is political will.
 
 **"What about Xcel Energy's monopoly?"**
-Xcel provides Denver's electricity under a franchise agreement. The city negotiates franchise terms and can impose requirements on renewable energy sourcing, grid access for distributed solar, and rate structures. The franchise renewal is the single biggest leverage point Denver has on energy policy. We must use it.
+Xcel provides Denver's electricity under a franchise agreement. The city negotiates franchise terms and can impose requirements on renewable energy sourcing, grid access for distributed solar, and rate structures. The franchise renewal is the single biggest leverage point Denver has on energy policy. We must use it. For our full proposal on power reliability, municipal energy alternatives, and life-safety protections for medically vulnerable residents, see: [Power Reliability & Municipal Energy](/platform/power-reliability).
 
 **"Can Denver actually fix its air quality given the geography?"**
 Yes. Los Angeles has the same topographic problem — a basin that traps pollutants — and reduced ozone exceedance days by over 75% through decades of sustained emission reduction policy. Denver's Brown Cloud is not destiny. It is the result of policy choices that can be changed: car-dependent development, lax industrial controls, and insufficient transit investment. Geography sets the difficulty level; policy determines the outcome.

@@ -56,7 +56,7 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 - Combined sewer overflow elimination plan with dedicated timeline and public reporting
 
 ### 4. Community Resilience Hubs
-- Solar-powered, battery-backed community centers in every council district that function during power outages
+- Solar-powered, battery-backed community centers in every council district that function during power outages (cross-reference: [Power Reliability & Municipal Energy](/platform/power-reliability) for our full grid resilience and municipal power proposal)
 - Equipped with backup power, water, first aid supplies, communications, heating/cooling, and phone charging
 - Staffed by trained Community Emergency Response Teams (CERT)
 - Dual-use: serve as community gathering spaces normally, emergency centers during crises

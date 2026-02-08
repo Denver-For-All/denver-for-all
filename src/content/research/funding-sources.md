@@ -207,34 +207,37 @@ A fiscal sponsor is a 501(c)(3) that legally receives tax-deductible donations o
 
 ---
 
-## Recommended Action Plan
+## Chosen Strategy: Open Collective + Grassroots Donations
 
-### This Month (February 2026)
-1. **Apply** to Colorado Gives Foundation 2026 Housing Grant (deadline Feb 27, $10K–$100K)
-2. **Apply** to Denver Foundation Community Grants Cycle 1 (deadline March 2, $20K–$50K)
-3. **Begin** fiscal sponsorship conversations with Tides Foundation or Movement Strategy Center
+After assessing traditional fiscal sponsors (Tides, Social Good Fund, Movement Strategy Center) and foundation grants, the chosen path is **Open Collective with Open Source Collective as fiscal host** funded by small grassroots donations.
 
-### Next 90 Days
-4. **Set up** ActBlue or Givebutter for small-dollar grassroots fundraising on DenverForAll.org
-5. **Apply** to Caring for Denver Foundation when Alternatives to Jail area opens in March ($200K–$800K)
-6. **Join** Local Progress Colorado network
-7. **Contact** Movement Voter Project about partner status
+### Why This Path
 
-### 3–6 Months
-8. **Apply** to Fund for Housing and Opportunity for housing research / eviction tracker funding ($50K–$140K)
-9. **Approach** Colorado Health Foundation for medical debt and housing-as-health work
-10. **Partner** with Undue Medical Debt for a Denver-specific campaign
-11. **Connect** with Institute for Local Self-Reliance for municipal broadband advocacy
-12. **Search** New Economy Coalition's Solidarity Economy Funding Library (350+ funders)
+- **Setup in days**, not weeks or months
+- **Public real-time ledger** of every dollar — aligns with radical transparency values
+- **10% fee** (comparable to traditional fiscal sponsors)
+- **No gatekeepers** — no 10% acceptance rate, no cohort waiting periods
+- **$200–800/month** from small donors covers all ongoing research and operations
+- **Foundation grants are not needed** at current operating scale
 
----
+### Trade-offs Accepted
 
-## Key Takeaway: Fiscal Sponsorship First
+- Donations are not tax-deductible (OSC is 501(c)(6), not 501(c)(3))
+- Not eligible for most foundation grants
+- Can always add 501(c)(3) fiscal sponsorship later if a specific grant opportunity warrants it
 
-The single most impactful step is securing fiscal sponsorship (Tides or Movement Strategy Center). This unlocks:
-- Tax-deductible individual donations via ActBlue/Givebutter
-- Eligibility for every foundation grant listed above
-- Credibility with progressive funders who already work through these sponsors
-- Legal structure without the overhead of forming a 501(c)(3)
+### Action Plan
 
-With fiscal sponsorship + a fundraising platform, DenverForAll's 600 weekly visitors become a direct funding pipeline. Even a modest 2% conversion rate at $25 average = ~$300/week in small-dollar donations, plus eligibility for $10K–$800K foundation grants.
+**Week 1:**
+1. Create Collective at opencollective.com
+2. Apply to Open Source Collective as fiscal host
+3. Add transparency statement and donate widget to DenverForAll.org
+
+**Weeks 2–4:**
+4. Join Local Progress Colorado network
+5. Contact Movement Voter Project about partner status
+6. Reach out to partnership organizations (Undue Medical Debt, ILSR)
+
+**Ongoing:**
+7. Submit all expenses with receipts to public ledger
+8. Promote via newsletter, Reddit, Resistbot campaigns, and social channels

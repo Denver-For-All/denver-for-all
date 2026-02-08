@@ -54,7 +54,7 @@ Denver has no municipal power utility. Denver has no backup power program for me
 
 ### Colorado Cities That Did It Differently
 
-The Reddit conversation your neighbors are having is correct: **municipal power works in Colorado, right now, in cities near Denver.**
+**Municipal power works in Colorado, right now, in cities near Denver.**
 
 - **Longmont Power & Communications** — city-owned electric utility serving Longmont (30 miles north of Denver). Longmont residents enjoy lower rates, higher reliability, and local democratic control over energy decisions. Longmont also built NextLight, the municipal broadband network (see: [Municipal Broadband](/platform/municipal-broadband)).
 - **Fort Collins Utilities** — city-owned electric utility serving Fort Collins. Fort Collins residents pay lower rates than Xcel customers and the utility answers to City Council, not shareholders.

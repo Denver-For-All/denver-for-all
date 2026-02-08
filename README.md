@@ -96,13 +96,23 @@ This platform is built to be adapted. To use it for a different city:
 
 ## Contributing
 
-Contributions are welcome. Areas where help is needed:
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved. Areas where help is needed:
 
 - **Spanish translations** of policy documents (currently English-only)
 - **Data sourcing** and citation verification for policy claims
 - **Accessibility** improvements
 - **New interactive tools** for civic engagement
 - **Design** and UX improvements
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+
+## Governance
+
+This project is governed by its maintainers with community input. See [GOVERNANCE.md](GOVERNANCE.md) for details on decision-making, roles, financial transparency, and succession planning.
+
+## Security
+
+To report a security vulnerability, see [SECURITY.md](SECURITY.md). Do not open a public issue for security reports.
 
 ## Annual Operating Cost
 

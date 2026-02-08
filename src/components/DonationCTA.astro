@@ -7,15 +7,17 @@
 interface Props {
   /** Short context string, e.g. "This policy analysis" or "This tool" */
   context?: string;
+  /** Spanish version of context string */
+  contextEs?: string;
 }
 
-const { context = 'This research' } = Astro.props;
+const { context = 'This research', contextEs = 'Esta investigación' } = Astro.props;
 ---
 
 <aside class="donation-cta" aria-label="Support this work">
   <div class="donation-cta__inner">
     <p class="donation-cta__text">
-      <strong data-en={`${context} was produced with grassroots donations.`} data-es={`${context} fue producido con donaciones comunitarias.`}>
+      <strong data-en={`${context} was produced with grassroots donations.`} data-es={`${contextEs} fue producido con donaciones comunitarias.`}>
         {context} was produced with grassroots donations.
       </strong>
       <span data-en="Every dollar funds AI-powered research, free civic tools, and bilingual access for Denver residents." data-es="Cada dólar financia investigación impulsada por IA, herramientas cívicas gratuitas y acceso bilingüe para los residentes de Denver.">

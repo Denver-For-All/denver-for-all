@@ -27,7 +27,7 @@ import Layout from '../../layouts/Layout.astro';
           <div class="calc-field">
             <label for="years" data-en="Years into the future" data-es="Años en el futuro">Years into the future</label>
             <input type="range" id="years" min="1" max="10" value="5" />
-            <span class="calc-range-label" id="years-label">5 years</span>
+            <span class="calc-range-label" id="years-label" data-en="5 years" data-es="5 años">5 years</span>
           </div>
 
           <div class="calc-field">
@@ -209,13 +209,21 @@ import Layout from '../../layouts/Layout.astro';
   const yearsInput = document.getElementById('years') as HTMLInputElement;
   const marketInput = document.getElementById('market-increase') as HTMLInputElement;
 
+  function getLocale() {
+    return localStorage.getItem('dfa-locale') || 'en';
+  }
+
   function calculate() {
     const rent = parseFloat(rentInput.value) || 0;
     const years = parseInt(yearsInput.value);
     const marketRate = parseInt(marketInput.value) / 100;
     const capRate = 0.03; // CPI or 3%, whichever lower - assume 3% cap
+    const locale = getLocale();
 
-    document.getElementById('years-label')!.textContent = `${years} year${years > 1 ? 's' : ''}`;
+    const yearLabel = locale === 'es'
+      ? `${years} año${years > 1 ? 's' : ''}`
+      : `${years} year${years > 1 ? 's' : ''}`;
+    document.getElementById('years-label')!.textContent = yearLabel;
     document.getElementById('market-label')!.textContent = `${marketInput.value}%`;
 
     const noControl = rent * Math.pow(1 + marketRate, years);
@@ -228,12 +236,20 @@ import Layout from '../../layouts/Layout.astro';
     }
 
     const fmt = (n: number) => '$' + Math.round(n).toLocaleString();
+    const mo = locale === 'es' ? '/mes' : '/mo';
 
-    document.getElementById('no-control-rent')!.textContent = `${fmt(noControl)}/mo`;
-    document.getElementById('with-control-rent')!.textContent = `${fmt(withControl)}/mo`;
-    document.getElementById('monthly-savings')!.textContent = `${fmt(monthlySavings)}/month`;
-    document.getElementById('total-savings')!.innerHTML =
-      `That's <strong>${fmt(totalSavings)}</strong> over ${years} year${years > 1 ? 's' : ''}`;
+    document.getElementById('no-control-rent')!.textContent = `${fmt(noControl)}${mo}`;
+    document.getElementById('with-control-rent')!.textContent = `${fmt(withControl)}${mo}`;
+    document.getElementById('monthly-savings')!.textContent = `${fmt(monthlySavings)}${mo}`;
+
+    const totalEl = document.getElementById('total-savings')!;
+    if (locale === 'es') {
+      totalEl.innerHTML = `Eso es <strong>${fmt(totalSavings)}</strong> en ${years} año${years > 1 ? 's' : ''}`;
+      totalEl.setAttribute('data-es', `Eso es ${fmt(totalSavings)} en ${years} año${years > 1 ? 's' : ''}`);
+    } else {
+      totalEl.innerHTML = `That's <strong>${fmt(totalSavings)}</strong> over ${years} year${years > 1 ? 's' : ''}`;
+      totalEl.setAttribute('data-en', `That's ${fmt(totalSavings)} over ${years} year${years > 1 ? 's' : ''}`);
+    }
   }
 
   rentInput.addEventListener('input', calculate);
@@ -242,15 +258,22 @@ import Layout from '../../layouts/Layout.astro';
   calculate();
 
   document.getElementById('share-btn')?.addEventListener('click', async () => {
-    const text = `If Denver had rent control, I'd save ${document.getElementById('monthly-savings')!.textContent} on rent. ${document.getElementById('total-savings')!.textContent?.replace(/<[^>]*>/g, '')}. See your savings: https://denverforall.org/tools/rent-calculator`;
+    const locale = getLocale();
+    const monthly = document.getElementById('monthly-savings')!.textContent;
+    const total = document.getElementById('total-savings')!.textContent?.replace(/<[^>]*>/g, '');
+    const text = locale === 'es'
+      ? `Si Denver tuviera control de alquiler, ahorraría ${monthly} en alquiler. ${total}. Calcula tus ahorros: https://denverforall.org/tools/rent-calculator`
+      : `If Denver had rent control, I'd save ${monthly} on rent. ${total}. See your savings: https://denverforall.org/tools/rent-calculator`;
     try {
       if (navigator.share) {
         await navigator.share({ text });
       } else {
         await navigator.clipboard.writeText(text);
         const btn = document.getElementById('share-btn')!;
-        btn.textContent = '\u2713 Copied to clipboard!';
-        setTimeout(() => { btn.textContent = 'Share Your Results'; }, 2000);
+        const copiedText = locale === 'es' ? '\u2713 ¡Copiado!' : '\u2713 Copied to clipboard!';
+        const restoreText = locale === 'es' ? 'Comparte Tus Resultados' : 'Share Your Results';
+        btn.textContent = copiedText;
+        setTimeout(() => { btn.textContent = restoreText; }, 2000);
       }
     } catch (_) {
       // User cancelled share or clipboard unavailable

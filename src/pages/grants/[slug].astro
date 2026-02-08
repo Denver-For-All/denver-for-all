@@ -29,8 +29,8 @@ const { Content } = await grant.render();
             {grant.data.status === 'draft' ? 'Draft' : grant.data.status === 'ready' ? 'Ready to Submit' : 'Submitted'}
           </span>
         </div>
-        <h1>{grant.data.title}</h1>
-        <p class="grant-header__summary">{grant.data.summary}</p>
+        <h1 data-en={grant.data.title} data-es={grant.data.titleEs}>{grant.data.title}</h1>
+        <p class="grant-header__summary" data-en={grant.data.summary} data-es={grant.data.summaryEs}>{grant.data.summary}</p>
 
         <div class="grant-meta">
           <div class="grant-meta__item">

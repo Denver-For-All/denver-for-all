@@ -1,0 +1,159 @@
+---
+---
+
+## El Problema
+
+En 2004, los votantes del área de Denver aprobaron FasTracks, un plan de $4.7 mil millones para construir un sistema integral de tránsito ferroviario en toda el área metropolitana. Más de veinte años después, el programa está solo un 75% completo y ya ha consumido más de $5.5 mil millones. RTD estima que necesita $1.6 mil millones adicionales para terminar los cuatro corredores restantes (el Northwest Rail a Longmont, la extensión North Metro, la extensión Southwest a Highlands Ranch y el Central Rail Gap) y ha admitido que no puede cumplir la fecha límite estatal de 2034 sin nuevo financiamiento importante (RTD Finishing FasTracks Report, 2025). Mientras tanto, RTD enfrenta un déficit de $100 millones a $400 millones por mantenimiento diferido en sus 104 millas de vía, y su junta está contemplando recortes de servicio a partir de 2027. Los votantes pagaron por un sistema de tránsito de clase mundial. Obtuvieron promesas rotas y servicio en declive.
+
+La cantidad de usuarios cuenta la historia. RTD transportó 105.8 millones de pasajeros en 2019. En 2024, ese número fue 65.2 millones, una caída del 38%. Durante la primera mitad de 2025, la cantidad de usuarios cayó otro 6.4%, ubicándola un 39% por debajo de los niveles previos a la pandemia (Denver Post, octubre 2025). Ciudades como Los Ángeles, Houston y Salt Lake City se han recuperado al 85% o más de la cantidad de usuarios pre-pandemia. Denver está estancada en aproximadamente el 62%. Cada abordaje de RTD ahora le cuesta a la agencia $17.49 en gastos operativos mientras un pase de tres horas se vende a $2.75. Las matemáticas no funcionan, y la espiral continúa: menos usuarios significa menos ingresos significa peor servicio significa menos usuarios.
+
+Denver adoptó Vision Zero en 2017, comprometiéndose a eliminar las muertes por tráfico y las lesiones graves para 2030. Las fatalidades han ido en la dirección equivocada desde entonces. En 2025, 93 personas murieron en las calles de Denver, el año más mortal desde 2013. Treinta y cinco de esas muertes fueron peatones, un aumento del 34% sobre 2024 (Denver Vision Zero Dashboard, 2025). Las calles de Denver están diseñadas para la velocidad de los autos, no para la seguridad humana. Más del 81% de los viajeros de Denver conducen solos. Los conductores perdieron un promedio de 76 horas sentados en el tráfico en 2024 (arriba de 62 horas en 2019), costando a la región $3.5 mil millones anuales en productividad perdida y combustible desperdiciado (Texas A&M Transportation Institute, 2025). En vecindarios como Montbello, Green Valley Ranch, Far Northeast y Westwood, los residentes enfrentan lo peor de ambos mundos: diseño de calles dependiente del auto con servicio de tránsito inadecuado. Cuando RTD construyó la Línea A al aeropuerto, rodeó Montbello y cortó rutas de autobús, reduciendo el vecindario de siete líneas de tránsito a tres. Montbello simultáneamente se convirtió en un desierto de tránsito y un desierto alimentario (Denver Streets Partnership).
+
+### Lo Que Denver Hace Actualmente
+
+RTD opera 65 rutas de autobús, 8 líneas de tren y los servicios de microtránsito FlexRide y Denver Connector. FasTracks ha entregado 25 millas de tren ligero, 53 millas de tren de cercanías, Denver Union Station como centro intermodal y el Flatiron Flyer BRT en la US-36. Pero cuatro corredores permanecen sin construir, y reparaciones de emergencia en las vías (incluyendo una reconstrucción del centro de $152 millones) han interrumpido el servicio por más de un año. RTD hizo permanente su programa Zero Fare for Youth en julio de 2024, proporcionando viajes gratuitos para menores de 19 años, y expandió su programa de descuento basado en ingresos LiVE para proporcionar un 50% de descuento en tarifas para individuos que ganan menos del 250% del nivel federal de pobreza.
+
+Denver adoptó su Vision Zero Action Plan en 2017 y lo actualizó en 2022. Desde su adopción, las muertes anuales por tráfico han aumentado de 51 a 93. La ciudad desarrolló una High Injury Network identificando los corredores más peligrosos pero ha sido lenta en rediseñarlos. La aplicación automatizada de velocidad sigue siendo limitada.
+
+El Department of Transportation and Infrastructure (DOTI) de Denver administra aproximadamente 254 millas de ciclovías. Bajo el alcalde Hancock, la ciudad agregó 137 millas de nuevas ciclovías entre 2018 y 2023 a un costo de $13.4 millones. La administración del alcalde Johnston está actualizando el plan Denver Moves: Bikes con un objetivo de más de 230 nuevas millas de ciclovías y una meta de colocar una ciclovía de alto confort a un cuarto de milla de cada hogar. La ciudad se comprometió a construir 50 millas de nuevas ciclovías para 2026. Los proyectos en las calles 18th, 19th y Lincoln están agregando 1.5 millas de carriles protegidos en el centro, pero quedan brechas significativas, particularmente en el este de Denver y Capitol Hill.
+
+El programa de reembolso de bicicletas eléctricas de Denver, financiado por el Climate Protection Fund aprobado por los votantes, ha invertido $8.6 millones desde su lanzamiento en 2022. Casi 8,000 residentes han canjeado cupones, con el 64% yendo a residentes de ingresos bajos y moderados. Los reembolsos van de $300 para bicicletas eléctricas estándar a $1,400 para bicicletas eléctricas adaptativas. El estado de Colorado ofrece un crédito fiscal adicional de $450 (bajando a $225 en 2026).
+
+En agosto de 2025, el Denver City Council votó para eliminar los requisitos mínimos de estacionamiento para nuevos desarrollos, siguiendo la legislación estatal (HB24-1304) que prohibió los mínimos de estacionamiento cerca del tránsito para viviendas multifamiliares. Este fue un paso significativo, pero el sistema de transporte más amplio sigue siendo fundamentalmente dependiente del automóvil.
+
+## Nuestra Solución
+
+### 1. Tránsito Gratuito y de Tarifa Reducida
+
+El programa LiVE de RTD es un comienzo. No es suficiente. Proponemos:
+
+- **RTD gratuito para todos los hogares por debajo del 200% del nivel federal de pobreza.** El programa LiVE actual cubre el 250% FPL a solo un 50% de descuento. Los residentes verdaderamente de bajos ingresos necesitan acceso de tarifa cero, no tarifas a mitad de precio que todavía no pueden pagar.
+- **Tarifa plana de $1 para todas las rutas locales**, reemplazando el pase actual de $2.75 por tres horas con una tarifa simple y asequible que elimina barreras para el uso del tránsito.
+- **Financiado a través de un subsidio de la ciudad a RTD de aproximadamente $30-40 millones por año.** Denver gasta miles de millones acomodando autos. Gastar $35 millones para hacer accesible el tránsito es un error de redondeo en comparación.
+- **Modelado según Kansas City, Missouri**, que eliminó las tarifas completamente en 2020, convirtiéndose en la ciudad más grande de EE.UU. con tránsito gratuito. La cantidad de usuarios de autobuses de Kansas City es ahora un 24% mayor que las ciudades comparables, el 17% de los usuarios son nuevos en el tránsito, y el 92% de los usuarios reportan poder comprar artículos esenciales y mantener empleos a los que de otra forma no podrían llegar (University of Kansas, 2025). Luxemburgo eliminó todas las tarifas de transporte público a nivel nacional en 2020.
+
+### 2. Red de Ciclovías Protegidas
+
+Pintura en asfalto no es infraestructura. Denver necesita ciclovías físicamente protegidas que las personas de todas las edades y habilidades se sientan seguras usando.
+
+- **Ciclovías protegidas en cada corredor principal dentro de cinco años.** Prioridad en corredores de alto siniestro identificados por la High Injury Network de Vision Zero y conexiones a estaciones de tren y centros de autobuses.
+- **Requisitos de estacionamiento para bicicletas en todos los nuevos desarrollos:** estacionamiento seguro y cubierto para bicicletas en cada nuevo edificio residencial y comercial.
+- **Expansión del reembolso de bicicletas eléctricas:** aumentar el financiamiento, elevar los reembolsos calificados por ingreso a $1,200 y asociarse con organizaciones comunitarias en vecindarios desatendidos para alcance directo. El programa actual funciona pero la demanda supera con creces la oferta, con cupones reclamados en minutos en cada ciclo de lanzamiento.
+- **Construcción completa de la red Denver Moves.** El propio plan de la ciudad contempla más de 230 nuevas millas. Financiarlo y construirlo en un cronograma acelerado, no una aspiración de 20 años.
+- **El 73% de los hogares de Denver ya están a un cuarto de milla de una ciclovía** (DOTI, 2022). Cerrar las brechas en Montbello, Far Northeast, el este de Denver y Capitol Hill para llegar al 100%.
+
+### 3. Vision Zero con Aplicación
+
+El programa Vision Zero de Denver tiene un objetivo pero no una estrategia. Noventa y tres personas murieron en las calles de Denver en 2025 mientras la ciudad debatía configuraciones de carriles en Alameda Avenue. Un Vision Zero real requiere:
+
+- **Rediseñar las 20 intersecciones con más siniestros** usando tratamientos de seguridad comprobados: extensiones de acera, intersecciones protegidas, cruces elevados y movimientos de giro restringidos. Solo el intercambiador I-70/Peoria tuvo 103 choques en 2024.
+- **Aplicación automatizada de velocidad en zonas escolares y áreas residenciales.** La velocidad mata. La aplicación automatizada funciona 24/7 sin perfilamiento racial.
+- **Límites de velocidad de 20 mph en vecindarios residenciales**, el estándar en ciudades serias sobre la seguridad peatonal.
+- **Temporización de semáforos con prioridad peatonal:** intervalos peatonales adelantados y tiempos de cruce más largos en la High Injury Network.
+- **Tolerancia cero para atropellamientos con fuga.** Establecer una unidad de investigación dedicada. Los choques con fuga matan desproporcionadamente a peatones en vecindarios de bajos ingresos.
+
+### 4. Reforma de Estacionamiento
+
+Denver eliminó los mínimos de estacionamiento en agosto de 2025. Ahora ir más lejos:
+
+- **Permitir la conversión de estacionamientos existentes a vivienda, comercio o espacio verde.** Denver está cubierta de estacionamientos de superficie que podrían ser hogares.
+- **Precios de estacionamiento basados en la demanda en el centro:** precios que se ajustan según la ocupación para reducir el circular, generar ingresos y priorizar la rotación para los negocios.
+- **Hacer cumplir las nuevas reglas.** Los mínimos de estacionamiento desaparecieron en el papel. Los prestamistas y desarrolladores frecuentemente todavía construyen exceso de estacionamiento por costumbre. La ciudad debería proporcionar datos, asistencia técnica e incentivos para ayudar a los proyectos a aprovechar la reforma.
+- La evidencia es clara: el estacionamiento estructurado agrega un promedio de $50,000 por unidad a los costos de vivienda (Brookings Institution). Un estudio de la University of Denver encontró que eliminar los mandatos de estacionamiento podría impulsar la construcción de viviendas en Denver en un 12.5%, aproximadamente 460 hogares adicionales por año. La Colorado Energy Office proyecta que la reforma aumentará el desarrollo de viviendas factible cerca del tránsito en un 180%.
+
+### 5. Desarrollo Orientado al Tránsito
+
+Denver construyó estaciones de tren. Luego rodeó muchas de ellas con estacionamientos. Eso es lo opuesto al desarrollo orientado al tránsito.
+
+- **Aumentar la zonificación de todas las áreas dentro de media milla de las estaciones de tren** para desarrollo de uso mixto y alta densidad. Sin zonificación exclusiva de vivienda unifamiliar a distancia caminable de un tren.
+- **Sin mínimos de estacionamiento dentro de un cuarto de milla de las estaciones de tránsito**, ya ampliamente logrado bajo las nuevas reglas; codificarlo y protegerlo.
+- **Requisitos de vivienda asequible en el desarrollo orientado al tránsito:** al menos el 20% de las unidades al 60% AMI en cualquier desarrollo que reciba bonificaciones de densidad cerca del tránsito.
+- **Soluciones de primera/última milla en cada estación:** estaciones de bicicletas compartidas, servicio de microtránsito Denver Connector, estacionamiento seguro para bicicletas y mejoras peatonales. El Montbello Connector demostró la demanda, alcanzando 5,200 usuarios mensuales dentro de su primer año con un presupuesto de $3.2 millones.
+
+### 6. Rendición de Cuentas de RTD
+
+RTD es una agencia regional. Denver no puede controlarlo directamente. Pero Denver es la ciudad más grande de RTD, su mayor mercado de usuarios y la fuente de financiamiento significativo. La ciudad tiene influencia y debe usarla.
+
+- **Abogar por la reforma de la junta electa de RTD.** La estructura actual de junta nombrada aísla a los directores de la rendición de cuentas de los votantes. Los usuarios merecen tener voz.
+- **Métricas de rendimiento con informes públicos:** puntualidad, usuarios por ruta, frecuencia de servicio y acumulación de mantenimiento, publicados trimestralmente en formatos accesibles.
+- **Restauración del servicio a niveles previos a 2020 como línea base mínima.** RTD no debería estar recortando servicio con $1 mil millones en reservas. Los usuarios en Montbello, Westwood y Far Northeast merecen las rutas que se les prometieron.
+- **Enlace municipal dedicado con RTD** para la defensa del servicio, un funcionario senior de la ciudad cuyo trabajo es luchar por los usuarios de Denver en cada reunión de la junta de RTD.
+
+### 7. Marco de Ciudad de 15 Minutos
+
+El concepto de ciudad de 15 minutos es simple: cada residente debería poder llegar a las necesidades diarias esenciales (tiendas de comestibles, escuelas, parques, atención médica, tránsito y empleo) dentro de una caminata o un viaje en bicicleta de 15 minutos. Esta no es una visión utópica. Es cómo se construían las ciudades antes de que la planificación centrada en el auto desmantelara los vecindarios caminables. Denver debería adoptar esto como un marco de planificación vinculante, no una mera aspiración.
+
+**La Brecha en Denver**
+Los vecindarios de Denver son profundamente desiguales en el acceso a las necesidades diarias esenciales. Los residentes de Capitol Hill, Wash Park y Highlands viven en vecindarios caminables y de uso mixto con abundante tránsito, comercio y servicios. Los residentes de Montbello, Green Valley Ranch, Far Northeast y Westwood enfrentan desiertos alimentarios, desiertos de tránsito y un entorno construido dependiente del auto sin alternativa viable. El marco de ciudad de 15 minutos hace visible y medible esta desigualdad, y se compromete a cerrar la brecha.
+
+**Lo Que Denver Debería Hacer**
+
+- **Auditoría de ciudad de 15 minutos:** Mapear cada vecindario de Denver contra un estándar de caminabilidad/ciclabilidad de 15 minutos para seis categorías esenciales: alimentos/supermercados, escuelas/guarderías, parques/recreación, atención médica, tránsito y centros de empleo. Publicar los resultados como un panel público con métricas de equidad por raza e ingreso.
+- **Zonificación de relleno y uso mixto en áreas desatendidas:** Permitir usos comerciales a escala de vecindario (supermercado, farmacia, cafetería, guardería) en zonas actualmente solo residenciales en Far Northeast, Montbello, Green Valley Ranch y Westwood. Los residentes no deberían necesitar un auto para comprar comestibles.
+- **Calles completas en cada vecindario:** Cada proyecto de rediseño o repavimentación de calles debe incluir mejoras peatonales y ciclistas. No más reconstrucción de infraestructura solo para autos.
+- **Centros de servicios vecinales:** Co-ubicar servicios de la ciudad (biblioteca, centro recreativo, clínica de salud, parada de tránsito) en centros vecinales caminables, en lugar de instalaciones aisladas de uso único rodeadas de estacionamiento. Referencia cruzada: [Acceso a Alimentos y Agricultura Urbana](/platform/food-access), [Parques, Recreación y Espacio Público](/platform/parks-recreation), [Atención Médica como Derecho](/platform/healthcare).
+- **Diseño de calles con prioridad peatonal:** Ampliar aceras, agregar árboles y crear plazas peatonales en corredores comerciales, especialmente en vecindarios donde caminar es actualmente hostil debido a calles anchas y de tráfico rápido.
+
+**Evidencia Internacional del Marco de 15 Minutos**
+
+| Ciudad | Iniciativa | Resultado |
+|--------|-----------|-----------|
+| **París, Francia** | La "ville du quart d'heure" de la alcaldesa Anne Hidalgo: convertir carriles para autos en ciclovías, crear plazas vecinales, plantar 170,000 árboles y descentralizar los servicios de la ciudad a vecindarios locales. | El tráfico de autos en París cayó un 60% desde 2001. Los viajes en bicicleta se triplicaron entre 2019-2024. La calidad del aire mejoró significativamente. Hidalgo ganó la reelección con la plataforma. |
+| **Shanghái, China** | Agregó 50 km de nuevas rutas conectando a 4.8 millones de residentes con espacios públicos a lo largo del río Huangpu dentro de un viaje en bicicleta de 15 minutos. | Aumento masivo del acceso al paseo marítimo para residentes previamente aislados por la infraestructura de autos. |
+| **Sídney, Australia** | Rediseñó George Street, antes la calle más congestionada de la ciudad, como un espacio público centrado en las personas. | Ahora mueve 8,000 usuarios de tránsito por hora. El tráfico peatonal aumentó dramáticamente. El comercio en la calle prosperó. |
+| **Indianápolis, EE.UU.** | Invirtió $27 millones en infraestructura ciclista del centro. | Catalizó $170 millones en desarrollo privado de vivienda y comercio. El 70% de los residentes reportan más ejercicio. Los ingresos del centro aumentaron en dos tercios. |
+| **Melbourne, Australia** | Política de vecindario de 20 minutos: marco de planificación explícito que requiere que todo nuevo desarrollo cumpla estándares de caminabilidad para servicios esenciales. | Adoptada como estrategia oficial de planificación metropolitana. Los vecindarios son evaluados y calificados según el acceso de 20 minutos. Un panel público rastrea el progreso. |
+| **Buenos Aires, Argentina** | Mejoró 27 espacios públicos en el asentamiento informal más grande de la ciudad para crear vecindarios caminables. Introdujo vivienda de relleno y corredores peatonales. | Transformó el acceso a servicios en la comunidad más desatendida de la ciudad. Modelo para el diseño de 15 minutos enfocado en la equidad. |
+
+La ciudad de 15 minutos no se trata de restringir el movimiento. Se trata de asegurar que nadie esté obligado a poseer un auto para vivir una vida funcional. En Denver, donde el 81% de los viajeros conducen solos y los residentes de bajos ingresos en desiertos de tránsito enfrentan las mayores cargas de costos de transporte, este marco es un imperativo de equidad.
+
+### Evidencia Internacional: Los Autos No Son la Respuesta
+
+| País/Ciudad | Modelo | Resultado |
+|-------------|--------|-----------|
+| **Copenhague, Dinamarca** | Décadas de inversión en infraestructura ciclista protegida, superautopistas ciclistas conectando suburbios, precios de estacionamiento basados en la demanda. | El 49% de todos los viajes al trabajo o escuela en bicicleta. 97% de satisfacción ciclista. La ciudad ahorra $91 millones anuales en costos de atención médica por el ciclismo. |
+| **Tokio, Japón** | La red de trenes urbanos más extensa del mundo: 158 líneas, 4,714 km de vía, 2,210 estaciones sirviendo al área metropolitana. | 40 millones de pasajeros diarios en tren. 99.8% de puntualidad. Un sistema tan preciso que se disculpó públicamente por un tren que salió 25 segundos temprano. |
+| **Kansas City, MO** | Eliminó todas las tarifas de autobús en 2020, la ciudad más grande de EE.UU. con tránsito gratuito. | Uso un 24% por encima de ciudades comparables. El 17% de los usuarios son nuevos en el tránsito. El 92% reporta mejor acceso a empleos y necesidades esenciales. |
+| **Bogotá, Colombia** | TransMilenio BRT (55 km) integrado con red de ciclovías de 550 km. Ciclovía semanal abre 121 km de calles sin autos cada domingo. | Hasta 2 millones de participantes semanales en la Ciclovía. 900,000 viajes diarios en bicicleta. Las velocidades en bicicleta (17 km/h) superan al tránsito en hora pico (13 km/h). Inspiró a cientos de ciudades en todo el mundo (8-80 Cities / Open Streets Project). |
+| **Ámsterdam, Países Bajos** | Política "autoluw" (pocas autos): eliminando 7,000-10,000 espacios de estacionamiento, límites de velocidad de 30 km/h, presupuesto de infraestructura ciclista aumentado de 5 a 70 millones de euros/año. | El 36% de todos los viajes en bicicleta (87% en el centro de la ciudad). 665,000 viajes diarios en bicicleta. Más bicicletas que personas en la ciudad. |
+
+Denver tiene cada ventaja que estas ciudades tenían, y más. El área metropolitana ya tiene 104 millas de vía ferroviaria y una red de estaciones que la mayoría de las ciudades envidiaría. Denver promedia 245 días soleados por año, más que Miami o San Diego (National Weather Service). El terreno es plano en el núcleo urbano. La población es joven, creciente y cada vez más demandante de alternativas a la dependencia del auto. Lo que a Denver le falta no es geografía ni clima ni infraestructura -- es voluntad política.
+
+## Cómo Lo Pagamos
+
+- **Subsidio de tránsito gratuito: $30-40M/año.** La participación de Denver en el proyecto de ampliación de la I-70 sola es de cientos de millones. La propuesta de expansión de la I-25 a través del centro de Denver tenía un precio de $1.5 mil millones antes de que CDOT la cancelara. El propio análisis de CDOT encontró que la ampliación de autopistas vuelve a los niveles de congestión previos a la construcción dentro de tres a cinco años. Gastar $35 millones por año en tránsito gratuito para residentes de bajos ingresos es la inversión de transporte más costo-efectiva que Denver puede hacer.
+- **Infraestructura ciclista: $10-15M/año del presupuesto de capital de DOTI.** Denver agregó 137 millas de ciclovías en cinco años por $13.4 millones en total. Los carriles protegidos cuestan más, pero el propio plan Denver Moves de la ciudad ya contempla este nivel de inversión. Las subvenciones federales a través del IIJA y el programa Safe Streets for All pueden complementar los fondos de la ciudad.
+- **Reforma de estacionamiento: Neutro en ingresos.** Eliminar los mínimos reduce los costos de desarrollo, no los ingresos de la ciudad. Los precios de estacionamiento basados en la demanda en el centro generan nuevos ingresos mientras mejoran el acceso para los negocios.
+- **Vision Zero: $5-10M/año para rediseño de intersecciones.** Las subvenciones del Federal Highway Safety Improvement Program (HSIP) y el financiamiento de Safe Streets for All están específicamente diseñados para este trabajo. Denver ha estado dejando dinero federal de seguridad sobre la mesa.
+- **Infraestructura de ciudad de 15 minutos: $5-8M/año** para la auditoría vecinal, implementación de zonificación de relleno, calles completas y mejoras peatonales. Esto está en gran medida integrado en los presupuestos de capital existentes de DOTI; el marco de 15 minutos es una lente de planificación que redirige el gasto existente, no principalmente nuevo gasto.
+- **Total: $55-73M/año**, compensado por costos reducidos de mantenimiento vial, gasto reducido en atención médica por choques y contaminación del aire, beneficios climáticos y mayor actividad económica por el desarrollo accesible al tránsito. El presupuesto anual del fondo general de Denver supera los $1.8 mil millones. Esta es una inversión del 3% en un sistema de transporte que sirve a cada residente, tenga o no un auto.
+
+## Preguntas Frecuentes
+
+**"El tránsito gratuito es muy costoso."**
+¿Para quién? Los conductores del área de Denver perdieron $3.5 mil millones por congestión en 2024 (Texas A&M Transportation Institute). CDOT propuso gastar $1.5 mil millones para ampliar un tramo de la I-25, un proyecto que luego canceló después de que su propio análisis mostró que la congestión regresaría dentro de cinco años. La ampliación de la I-70 a través del noreste de Denver cuesta $1.3 mil millones. Un subsidio anual de tránsito de $35 millones es menos del 3% de lo que gastamos acomodando autos. Kansas City financia su sistema gratuito por aproximadamente $12-15 millones por año.
+
+**"Nadie usa el autobús ni el tren."**
+La dependencia del auto es creada por políticas, no por preferencia. Cuando RTD cortó las rutas de autobús de Montbello de siete a tres, el uso cayó. Cuando Kansas City hizo el tránsito gratuito, el uso subió un 24% por encima de las ciudades comparables. Cuando Denver agregó el programa Zero Fare for Youth, los distritos escolares reportaron reducción del ausentismo. Las personas usan el tránsito cuando el tránsito es frecuente, confiable, asequible y seguro. Los propios puntajes de satisfacción del cliente de RTD aumentaron 24 puntos en 2025 incluso cuando el servicio disminuyó. Los usuarios quieren más servicio, no menos.
+
+**"Eliminar estacionamiento perjudicará a los negocios."**
+La evidencia muestra lo contrario. Noventa y tres ciudades en todo el país han eliminado los mínimos de estacionamiento a partir de 2025. El propio estudio de Denver proyecta 460 unidades de vivienda adicionales por año gracias a la reforma. Eso son 460 hogares más gastando dinero en negocios locales. El estacionamiento estructurado agrega $50,000 por unidad a los costos de vivienda, que se pasan a los inquilinos como alquiler más alto. Los mandatos de estacionamiento costosos no ayudan a los negocios. Hacen que todo sea más caro para todos.
+
+**"Denver es muy extensa para el tránsito."**
+La densidad sigue a la inversión en tránsito, no al revés. Tokio, Ámsterdam y Copenhague no siempre fueron densas; se volvieron densas porque invirtieron en infraestructura de tránsito y ciclista y dejaron de subsidiar la expansión. El núcleo urbano de Denver ya es más denso que muchas ciudades exitosas de tránsito. El problema no es que Denver sea muy extensa; es que hemos rodeado las estaciones de tren con estacionamientos en lugar de viviendas. El desarrollo orientado al tránsito soluciona esto.
+
+**"RTD es una agencia regional. Denver no puede controlarlo."**
+Denver no puede controlar a RTD, pero puede ejercer una influencia enorme. Denver es la ciudad más grande de RTD, su mayor fuente de usuarios y el anfitrión de su infraestructura más importante. Denver controla los acuerdos de franquicia, la zonificación alrededor de las estaciones, el acceso de calles para autobuses y una base tributaria significativa. La ciudad puede financiar servicio suplementario (como lo hace con el Denver Connector), abogar por la reforma de la junta y usar su peso político para exigir rendición de cuentas. Decir "es problema de RTD" es una abdicación de responsabilidad, no una evaluación realista del poder.
+
+## Referencias
+
+- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. ($1.6 mil millones necesarios; 75% de finalización del programa.)
+- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." (65.2 millones de abordajes en 2024; 38% por debajo de 2019; 6.4% de disminución en la primera mitad de 2025.)
+- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. (93 muertes por tráfico en 2025; 35 muertes de peatones, un 34% más que en 2024.)
+- Texas A&M Transportation Institute. (2025). Urban Mobility Report. (Los conductores de Denver perdieron 76 horas por congestión en 2024; costo regional de $3.5 mil millones.)
+- University of Denver / Terner Center. (2025). Estudio de reforma de estacionamiento de Denver. (Eliminar los mínimos de estacionamiento se proyecta que impulse la vivienda en un 12.5%, o 460 unidades/año.)
+- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (El estacionamiento estructurado agrega un promedio de $50,000 por unidad.)
+- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (Uso un 24% por encima de ciudades comparables; 17% de nuevos usuarios.)
+- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 cupones canjeados; 64% a ingresos bajos/moderados.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghái (50 km de rutas conectando a 4.8M de residentes), Sídney (rediseño de George Street, 8,000 usuarios/hora), Indianápolis (inversión ciclista de $27M catalizó $170M en desarrollo privado).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." Tendencias de ciudad de 15 minutos y urbanismo alineado con el clima.

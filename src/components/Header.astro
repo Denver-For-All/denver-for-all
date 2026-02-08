@@ -227,5 +227,13 @@ const navItems = [
         el.placeholder = placeholder;
       }
     });
+    const show = next;
+    const hide = next === 'es' ? 'en' : 'es';
+    document.querySelectorAll(`[data-lang="${hide}"]`).forEach(el => {
+      (el as HTMLElement).style.display = 'none';
+    });
+    document.querySelectorAll(`[data-lang="${show}"]`).forEach(el => {
+      (el as HTMLElement).style.display = '';
+    });
   });
 </script>

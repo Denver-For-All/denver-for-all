@@ -1,6 +1,8 @@
 ---
 title: "Safe Streets for All (SS4A) — Denver Sidewalk Equity & ADA Compliance Project"
+titleEs: "Calles Seguras para Todos (SS4A) — Proyecto de Equidad de Aceras y Cumplimiento ADA de Denver"
 summary: "Implementation grant proposal template for USDOT Safe Streets for All program to accelerate sidewalk construction and ADA compliance in Denver's highest-need neighborhoods."
+summaryEs: "Plantilla de propuesta de subvención de implementación del programa Calles Seguras para Todos del USDOT para acelerar la construcción de aceras y el cumplimiento ADA en los vecindarios de Denver con mayor necesidad."
 policySlug: "pedestrian-infrastructure"
 grantProgram: "Safe Streets for All (SS4A) Implementation Grant"
 fundingAgency: "U.S. Department of Transportation (USDOT)"

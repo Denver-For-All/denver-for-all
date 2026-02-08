@@ -1,0 +1,154 @@
+---
+---
+
+## El Problema
+
+Denver tiene 3,140 millas de aceras. Más de un tercio de ellas — aproximadamente 1,162 millas (34%) — son deficientes, lo que significa que tienen menos de cinco pies de ancho y no cumplen con los estándares del ADA para usuarios de sillas de ruedas, personas con ayudas de movilidad y padres con carriolas. Otras 318 millas — 9% de la red — faltan completamente. Combinado, el 43% de la red de aceras de Denver está faltante o es deficiente — aproximadamente 1,480 millas. Al menos 1,233 cuadras (5% del sistema) necesitan reparación. En los tramos donde faltan aceras, las personas caminan en la calle, en la tierra o sobre las bermas de la autopista.
+
+Esto no es una inconveniencia. Es una crisis de seguridad pública con un conteo de muertos.
+
+**Las fatalidades peatonales se concentran en vecindarios de bajos ingresos.** Las áreas de bajos ingresos en Denver tienen más del doble de la tasa de fatalidades peatonales que las comunidades más adineradas (Denver Streets Partnership, 2022). Estos mismos vecindarios son los menos propensos a tener aceras, rampas peatonales accesibles, iluminación, cruces peatonales marcados y medidas de calmado del tráfico. El patrón es consistente a nivel nacional: un estudio de AAA de 2024 encontró que los peatones en vecindarios desfavorecidos son significativamente más propensos a morir en choques de autos, impulsado por infraestructura más antigua, calles más anchas, velocidades más altas e instalaciones peatonales inadecuadas.
+
+**Las calles de Denver se están volviendo más mortales, no más seguras.** En 2025, 93 personas murieron en las calles de Denver — el año más mortal desde 2013. Treinta y cinco de esas muertes fueron peatones, un aumento del 34% sobre 2024 (Denver Vision Zero Dashboard). Los peatones constituyen aproximadamente el 5% de los viajeros de Denver pero representan casi un tercio de todas las personas muertas en choques. Las personas que caminan en Denver son aproximadamente 30 veces más propensas a morir en un choque comparado con las personas en autos.
+
+**La discapacidad y el acceso a las aceras están directamente conectados.** Menos del 5% del parque habitacional de Denver es accesible para usuarios de sillas de ruedas (Joint Center for Housing Studies of Harvard University). Cuando las aceras fuera de esa vivienda también son inaccesibles — demasiado estrechas, rotas o completamente faltantes — el resultado es aislamiento físico. El propio auditor de Denver encontró en 2020 que el programa de aceras de la ciudad estaba "décadas atrasado y no fue diseñado para el cumplimiento del ADA". Más de 70,000 residentes de Denver viven con una discapacidad. Para muchos de ellos, una acera faltante no es una brecha menor en el mapa — es un muro.
+
+**A los niveles de financiamiento anteriores, completar la red de aceras de Denver tomaría más de 400 años** (Denver Streets Partnership). Ese número no es una hipérbole. Son las matemáticas de la subinversión crónica enfrentándose a un rezago masivo.
+
+### Dónde Están las Brechas: Datos del Estado del Sistema de Enero de 2026
+
+El informe State of the System de enero de 2026 de la ciudad proporciona la imagen más detallada hasta ahora de dónde se concentran las deficiencias de aceras. Los datos fortalecen el caso de equidad y revelan cuán profundamente las fallas de aceras se superponen con el acceso al tránsito, la seguridad vial y los destinos comunitarios.
+
+Los **vecindarios prioritarios de equidad** (puntajes del Índice de Equidad de DOTI 1-3) tienen deficiencias de aceras que aproximadamente igualan o exceden las tasas de toda la ciudad: 9% faltantes (153 millas), 37% de ancho deficiente (624 millas) y 4% que necesitan reparación (527 cuadras). Las aceras faltantes en áreas de equidad se concentran en el norte y suroeste de Denver — vecindarios que son desproporcionadamente de bajos ingresos y comunidades de color.
+
+**Las paradas de tránsito están rodeadas de fallas en las aceras.** El cincuenta y cuatro por ciento de las paradas de tránsito de alto uso y prioritarias tienen aceras faltantes dentro de una caminata de dos minutos. El setenta y uno por ciento tienen aceras de ancho deficiente cercanas. El treinta y nueve por ciento tienen aceras que necesitan reparación. Estas son las paradas donde los residentes de Denver sin auto llegan — y luego enfrentan caminos faltantes o rotos hacia sus destinos. Union Station, en contraste, tiene menos del 1% de aceras faltantes o deficientes dentro de una caminata de dos minutos. La infraestructura sigue a la inversión; la inversión sigue a la riqueza.
+
+**La High Injury Network representa aproximadamente el 50% de los choques fatales de Denver pero solo el 5% de sus calles.** Dentro de estos corredores críticos para la seguridad, el 5% de las aceras faltan (16 millas) y el 17% tienen ancho deficiente (55 millas). Arterias específicas se destacan por aceras peligrosamente estrechas sin amortiguador entre peatones y tráfico vehicular: Sheridan Boulevard (43% estrechas/sin amortiguador), West 38th Avenue (55%), East Colfax Avenue al este de Colorado Boulevard (64%) y Leetsdale Drive (66%). Estas son calles donde los peatones ya están muriendo — y donde la infraestructura de aceras ofrece poca protección.
+
+**Los destinos comunitarios — escuelas, parques, tiendas de alimentos y centros de salud — están mal conectados por aceras.** El treinta y cinco por ciento de los destinos comunitarios tienen aceras faltantes dentro de una caminata de dos minutos. El cincuenta y uno por ciento tienen aceras de ancho deficiente cercanas. El veintiséis por ciento necesitan reparación de aceras. Las disparidades entre destinos individuales son marcadas: el Presbyterian/St. Luke's Hospital tiene solo el 7% de aceras faltantes o deficientes dentro de una caminata de dos minutos, mientras que Abraham Lincoln High School tiene el 64%. Un niño caminando a Abraham Lincoln High School es nueve veces más propenso a encontrar una acera faltante o por debajo del estándar que alguien caminando a un hospital importante.
+
+### Lo Que Denver Hace Actualmente
+
+Denver aprobó la **Measure 307** (Ordinance 307) en noviembre de 2022, que transfirió la responsabilidad de la construcción y reparación de aceras de los propietarios adyacentes a la ciudad — una gran victoria de equidad, ya que el sistema anterior obligaba a los vecindarios más pobres a pagar por la infraestructura que menos probabilidades tenían de tener. La medida creó el programa Denver Deserves Sidewalks. El City Council luego aprobó la **Ordinance 1076-24** en septiembre de 2024, estableciendo el mecanismo de cargo por servicio y creando el **Sidewalk Enterprise Fund** para recibir y administrar los ingresos. La recaudación de tarifas comenzó en enero de 2025:
+
+- **Tarifa base de $150/año** para todas las propiedades (a partir de enero de 2025). Sin exenciones. El programa anula las exenciones de aceras de 2007 — todas las calles históricamente exentas ahora tendrán aceras.
+- **Tarifas de impacto** para propiedades con más de 230 pies lineales de frente (escalonadas por tamaño).
+- **20% de descuento** para propiedades en áreas objetivo NEST (Neighborhood Equity & Stabilization): East Colfax, Elyria-Swansea, Globeville, Montbello, Northeast Park Hill, Sun Valley, Valverde, West Colfax y Westwood.
+- **Reembolsos basados en ingresos** disponibles pero requieren solicitud. Sin inscripción automática.
+- **$97.5 millones** esperados en ingresos por tarifas durante los primeros tres años.
+- **Los desarrolladores privados mantienen su obligación** de construir o mejorar las aceras adyacentes en nueva construcción y remodelación.
+
+En febrero de 2025, el alcalde Johnston anunció **$75 millones en contratos de construcción de aceras** — $25 millones con Milender White Construction y $50 millones con SEMA Construction — para nueva construcción y mejoras de ADA. La ciudad publicó un **Sidewalk Implementation Plan (SIP)** y un State of the System Report (enero de 2026) documentando el alcance de las deficiencias.
+
+**El cronograma del SIP se extiende hasta finales de 2026:**
+- **Otoño 2025-Invierno 2026:** Inventario, State of the System Report y participación pública sobre priorización.
+- **Primavera 2026:** Diseños conceptuales de muestra, estimación de costos, criterios de priorización y escenarios de plan de trabajo con retroalimentación pública.
+- **Verano-Invierno 2026:** Escenarios finales de plan de trabajo y Sidewalk Implementation Plan final.
+
+**Los desafíos clave de construcción identificados en el informe** incluyen: conflictos y usurpaciones de derecho de vía (cercas, jardinería, patios), servicios públicos en el derecho de vía, competencia entre aceras y árboles/franjas arboladas por espacio, "aceras Hollywood" (aceras adosadas estrechas con bordillos redondeados, frecuentemente de menos de tres pies de ancho), decisiones de preservación vs. reemplazo de piedra laja, pros y contras de aceras adosadas vs. separadas, cumplimiento ADA de rampas de acera, requisitos de bordillos y alcantarillado/aguas pluviales, calles compartidas, avenidas y bulevares designados, y aumento de superficies impermeables. Estos no son obstáculos hipotéticos — son las realidades de ingeniería y política que determinarán cuán rápido y cuán bien avanza la construcción.
+
+Este es un progreso real. También no es suficiente.
+
+### Quién Se Opone a Esto (y Por Qué)
+
+Los propietarios resisten la tarifa, particularmente los propietarios comerciales que enfrentan evaluaciones más altas. Algunos argumentan que la estructura de tarifa plana es injusta para propiedades más pequeñas. Contraargumento: el sistema anterior — donde los propietarios individuales asumían los costos completos de reparación — era mucho más regresivo, concentrando las peores condiciones de aceras en los vecindarios más pobres. La tarifa distribuye el costo en toda la ciudad porque toda la ciudad se beneficia de una red de aceras completa.
+
+Los desarrolladores inmobiliarios se oponen a los requisitos de aceras en nuevas construcciones, argumentando que aumentan los costos. Contraargumento: construir aceras durante la construcción inicial cuesta una fracción de adaptarlas después. El costo incremental de aceras que cumplan con ADA en nuevos desarrollos es insignificante comparado con los costos totales del proyecto.
+
+Algunas voces políticas argumentan que Denver debería enfocarse en calles y autos, no en aceras. Contraargumento: 93 personas murieron en las calles de Denver en 2025. Los peatones representan un tercio de esas muertes a pesar de ser el 5% de los viajeros. Las aceras no son un lujo — son la infraestructura de transporte más básica, y su ausencia mata personas.
+
+## Nuestra Solución
+
+### 1. Priorización con Equidad Primero
+
+El Sidewalk Implementation Plan debe priorizar la construcción y las reparaciones basándose en la necesidad, no en la conveniencia política.
+
+- **Máxima prioridad: corredores de la High Injury Network y vecindarios de equidad.** La HIN representa el 50% de los choques fatales de Denver en solo el 5% de las calles. Dentro de la HIN, arterias específicas tienen aceras peligrosamente estrechas sin amortiguador de amenidades: Sheridan Boulevard (43%), West 38th Avenue (55%), East Colfax Avenue al este de Colorado Boulevard (64%) y Leetsdale Drive (66%). Estas calles deberían ser las primeras en la fila. Las 153 millas de aceras faltantes y 624 millas de aceras de ancho deficiente en vecindarios prioritarios de equidad de DOTI — concentradas en el norte y suroeste de Denver — deberían financiarse simultáneamente.
+- **Segunda prioridad: rutas a paradas de tránsito, escuelas, centros de salud y supermercados.** El State of the System Report encontró que el 54% de las paradas de tránsito de alto uso tienen aceras faltantes dentro de una caminata de dos minutos, y el 35% de los destinos comunitarios (escuelas, parques, tiendas de alimentos, centros de salud) tienen aceras faltantes cercanas. Destinos específicos revelan la disparidad: Abraham Lincoln High School tiene 64% de aceras faltantes o deficientes dentro de una caminata de dos minutos, mientras que Presbyterian/St. Luke's Hospital tiene 7%. Las brechas adyacentes al tránsito y a las escuelas en vecindarios desatendidos deberían priorizarse sobre mejoras cosméticas en áreas bien servidas.
+- **Tercera prioridad: brechas de cumplimiento ADA.** Cada tramo de acera más estrecho que cinco pies debe ser ampliado para cumplir con los estándares del ADA. Cada rampa de acera faltante debe ser instalada. Cada intersección sin superficies de advertencia detectables debe ser readaptada. Estos no son extras — son requisitos federales de derechos civiles que Denver ha estado violando durante décadas.
+- **Publicar la metodología de priorización y el cronograma** en un panel público, actualizado trimestralmente. Los residentes deberían poder buscar su calle y ver cuándo está programada la construcción. La ventana de retroalimentación pública de la primavera de 2026 del SIP es la oportunidad crítica para fijar criterios de equidad primero antes de que los escenarios del plan de trabajo se finalicen.
+
+### 2. Estructura de Tarifas Progresiva
+
+La tarifa plana actual de $150 es mejor que el sistema anterior donde los propietarios pagaban individualmente. Pero una tarifa plana sigue siendo regresiva — cuesta lo mismo ya sea que poseas una casa de $200,000 en Globeville o una casa de $2 millones en Wash Park.
+
+- **Tarifa escalonada basada en el valor catastral de la propiedad.** Tarifas más bajas para propiedades de menor valor, tarifas más altas para propiedades de mayor valor. El descuento del 20% de NEST es un comienzo pero insuficiente.
+- **Inscripción automática para reembolsos basados en ingresos.** El sistema actual requiere que los residentes soliciten reembolsos. Los residentes de bajos ingresos son los menos propensos a navegar procesos burocráticos de solicitud. Vincular la elegibilidad de reembolso a la verificación de ingresos existente de la ciudad y el estado (LEAP, Medicaid, SNAP) y aplicar descuentos automáticamente.
+- **Evaluación de propiedad comercial escalonada por tamaño de lote y frente**, para que las grandes parcelas comerciales y los estacionamientos de superficie — que generan la mayor demanda peatonal y contribuyen más a la infraestructura dependiente del auto — paguen proporcionalmente más.
+
+### 3. Cronograma Acelerado
+
+Con $97.5 millones en tres años, el programa actual hará mella pero no cerrará la brecha. Denver necesita una red de aceras completa y que cumpla con ADA dentro de 15 años, no 50.
+
+- **Buscar financiamiento federal agresivamente.** El Infrastructure Investment and Jobs Act (IIJA) incluye miles de millones para infraestructura peatonal, subvenciones Safe Streets for All y cumplimiento de ADA. Denver debería tener un escritor de subvenciones dedicado enfocado en financiamiento federal para infraestructura peatonal.
+- **Coordinar con los proyectos de capital de DOTI.** Cada repavimentación de calle, reemplazo de tubería de agua y proyecto de servicios públicos debería incluir la construcción o reparación de aceras como alcance integrado. Abrir una calle y volver a ponerla sin arreglar la acera adyacente es una oportunidad perdida.
+- **Establecer hitos vinculantes de cinco años:** eliminar todas las aceras faltantes en rutas escolares y corredores de tránsito para 2030; lograr cumplimiento ADA en todas las aceras arteriales para 2032; completar la red completa para 2040.
+
+### 4. Estándares de Construcción Que Sirvan a Todos
+
+Los estándares de aceras de Denver deberían reflejar cómo las personas realmente usan las aceras — no solo adultos sin discapacidades caminando solos.
+
+- **Ancho mínimo de seis pies en todas las aceras nuevas y reconstruidas**, excediendo el mínimo ADA de cinco pies. Seis pies permite que dos usuarios de sillas de ruedas pasen entre sí, o que un padre con una carriola camine junto a un niño. Cinco pies es el mínimo legal; seis pies es el mínimo funcional. El informe identifica "aceras Hollywood" generalizadas — aceras adosadas estrechas con bordillos redondeados, frecuentemente de menos de tres pies de ancho — que deben ser reemplazadas, no simplemente parcheadas.
+- **Rampas de acera en cada intersección**, con superficies de advertencia detectables y pendiente adecuada. Denver tiene miles de intersecciones sin rampas que cumplan con ADA. El SIP identifica el cumplimiento ADA de rampas de acera como un desafío clave de construcción — esto debería tratarse como un requisito no negociable, no una variable de ahorro de costos.
+- **Zonas de amortiguamiento adecuadas** entre aceras y tráfico vehicular en arterias. Una línea pintada no es un amortiguador. Franjas arboladas, bolardos o bordillos elevados protegen a los peatones de la intrusión vehicular. Los datos del State of the System son explícitos sobre dónde faltan amortiguadores: Sheridan Boulevard, West 38th Avenue, East Colfax al este de Colorado Boulevard y Leetsdale Drive todos tienen altas proporciones de aceras estrechas sin amortiguador de amenidades en calles donde las personas están muriendo.
+- **Requisitos de mantenimiento invernal.** Una acera enterrada bajo hielo no es una acera. Requerir que la ciudad (no los propietarios individuales) limpie las rutas peatonales prioritarias dentro de las 24 horas posteriores a una nevada. El sistema actual — donde los propietarios son responsables de la remoción de nieve — resulta en un incumplimiento predecible en los vecindarios que más necesitan aceras despejadas.
+
+### 5. Integración con la Infraestructura de Derechos de Discapacidad
+
+Las aceras son infraestructura de discapacidad. La política debería estar explícitamente vinculada a los compromisos más amplios de derechos de discapacidad de Denver.
+
+- La **Office of Disability Rights de Denver** (propuesta en nuestra política de [Derechos y Inclusión de Personas con Discapacidad](/platform/disability-rights)) debería tener autoridad de revisión sobre el Sidewalk Implementation Plan, incluyendo priorización, estándares de construcción y verificación de cumplimiento ADA.
+- **Representación de la comunidad de discapacidad** en el comité asesor del SIP. Las personas que usan sillas de ruedas, andadores, bastones blancos y otras ayudas de movilidad deberían estar revisando los planes de construcción, no solo recibiéndolos.
+- **Auditorías de accesibilidad post-construcción** por inspectores de cumplimiento ADA capacitados. Construir una acera no es suficiente — debe construirse correctamente. Las pendientes, pendientes transversales, materiales de superficie, grados de rampas y advertencias detectables deben cumplir todos los estándares.
+- Referencia cruzada: [Derechos y Inclusión de Personas con Discapacidad](/platform/disability-rights), [Envejecimiento, Discapacidad y Accesibilidad](/platform/aging-accessibility), [Transporte y Tránsito Público](/platform/transportation)
+
+### Evidencia Internacional: Caminar Es Infraestructura
+
+| Ciudad/País | Modelo | Resultado |
+|---|---|---|
+| **Pontevedra, España** | Eliminó los autos del centro de la ciudad por completo. Invirtió en calles solo para peatones, aceras ampliadas y diseño de accesibilidad universal. | Cero muertes peatonales desde 2011 (más de 14 años). Emisiones de CO2 reducidas un 70%. Tráfico peatonal del centro aumentó un 80%. Nombrada mejor práctica europea por la UE. |
+| **Bogotá, Colombia** | Construyó 1,300 km de infraestructura dedicada para peatones y ciclistas, priorizando los vecindarios de bajos ingresos del sur. La Ciclovía cierra 121 km de calles a los autos cada domingo. | Fatalidades peatonales reducidas un 50% en corredores mejorados. Hasta 2 millones de participantes semanales en la Ciclovía. Caminar se convirtió en el modo de transporte más seguro en las áreas reconstruidas. |
+| **Oslo, Noruega** | Implementación de Vision Zero con infraestructura física: eliminó el estacionamiento del centro, estrechó calles, instaló bolardos y reconstruyó intersecciones con prioridad peatonal. | Cero muertes de peatones y ciclistas en 2019 — en una ciudad de 700,000. Logrado a través del diseño, no de la aplicación de la ley. |
+| **Tokio, Japón** | Las calles residenciales son "zonas de convivencia" con límites de velocidad de 30 km/h, sin necesidad de separación de aceras porque los autos ceden el paso a los peatones por diseño y ley. Las arterias tienen aceras anchas y bien mantenidas con pavimento táctil para peatones con discapacidad visual. | Entre las tasas de fatalidades peatonales más bajas de cualquier ciudad importante. El pavimento táctil, inventado en Japón en 1965, ahora es estándar en todo el mundo. |
+| **Denver, EE.UU. (actual)** | 43% de aceras faltantes o deficientes (1,480 millas). 34% de ancho deficiente, 9% faltantes. 54% de paradas de tránsito tienen aceras faltantes dentro de 2 min de caminata. Las calles HIN representan el 50% de choques fatales en el 5% de las calles. 93 muertes viales en 2025. $75M en contratos contra un rezago que tomaría 400 años al ritmo anterior. | Los peatones son el 5% de los viajeros pero un tercio de las muertes por choques. Los vecindarios de bajos ingresos tienen el doble de la tasa de fatalidad. E. Colfax al este de Colorado Blvd: 64% de aceras estrechas sin amortiguador. El auditor encontró que el programa "no fue diseñado para el cumplimiento de ADA." |
+
+## Cómo Lo Pagamos
+
+- **Ingresos actuales por tarifa de aceras: $97.5M en 3 años** (ya financiado). Nuestra propuesta reestructura la tarifa para que sea progresiva, no plana, pero mantiene el mismo objetivo de ingresos.
+- **Subvenciones federales IIJA y Safe Streets for All: $10-20M potenciales** en cinco años, con personal dedicado a la escritura de subvenciones. Denver ha subutilizado históricamente el financiamiento federal disponible para infraestructura peatonal.
+- **Construcción integrada con proyectos de capital de DOTI: $0 de costo incremental** en muchos casos. Cuando la ciudad abre una calle para trabajos de servicios públicos, agregar alcance de aceras cuesta marginalmente más que hacerlo como un proyecto independiente después.
+- **Financiamiento acelerado con bonos:** Emitir bonos de infraestructura peatonal respaldados por los ingresos de la tarifa de aceras para anticipar la construcción en las áreas de mayor necesidad. Pagar ahora, salvar vidas ahora, pagar durante 15-20 años.
+- **Total: $130-160M en 5 años** (vs. los actuales ~$97.5M en 3 años), con el financiamiento adicional proveniente de subvenciones federales, financiamiento con bonos y proyectos integrados de DOTI. El costo por hogar sigue siendo comparable o menor que la tarifa plana actual para la mayoría de los residentes debido a la reestructuración progresiva.
+
+## Preguntas Frecuentes
+
+**"La ciudad acaba de comenzar el programa de aceras. Denle tiempo."**
+El programa es un progreso real, y la Measure 307 fue una victoria genuina. Pero $75 millones en contratos contra un rezago de 400 años sigue siendo un ritmo que deja a los vecindarios más peligrosos esperando décadas. El State of the System Report de enero de 2026 muestra que el 54% de las paradas de tránsito todavía tienen aceras faltantes dentro de una caminata de dos minutos, y la High Injury Network — donde ocurre la mitad de los choques fatales de Denver — todavía tiene 16 millas de aceras faltantes y 55 millas de aceras de ancho deficiente. El Sidewalk Implementation Plan final no se espera hasta finales de 2026, con aportes públicos de priorización en la primavera de 2026. Las personas están muriendo ahora. Las violaciones de ADA están ocurriendo ahora. La pregunta no es si el programa existe — es si el ritmo y la priorización coinciden con la urgencia.
+
+**"$150 al año ya es mucho. ¿Ahora quieren subirlo?"**
+Queremos reestructurarlo para que las propiedades de menor valor paguen menos y las propiedades de mayor valor paguen más, mientras se recauda el mismo ingreso total. Si posees una casa de $300,000, tu tarifa probablemente bajaría. Si posees una casa de $2 millones, tu tarifa subiría. La tarifa plana actual cobra lo mismo a una familia en Montbello que a un propietario en Cherry Hills. Eso no es equitativo.
+
+**"Las aceras son un asunto local, no un asunto de plataforma política."**
+Noventa y tres personas murieron en las calles de Denver en 2025. Treinta y cinco fueron peatones. Los vecindarios de bajos ingresos tienen el doble de la tasa de fatalidades peatonales. Más de 70,000 residentes con discapacidades no pueden navegar sus propios vecindarios porque las aceras faltan o son demasiado estrechas para una silla de ruedas. Este es un asunto de seguridad pública, un asunto de derechos de discapacidad y un asunto de justicia económica. Pertenece a toda plataforma política.
+
+**"¿Por qué debería la ciudad mantener las aceras? Eso solía ser trabajo del propietario."**
+Y el resultado fue predecible: los vecindarios ricos tenían aceras; los vecindarios pobres no. Cuando haces que el mantenimiento de aceras sea responsabilidad de los propietarios individuales, las personas menos capaces de pagar las reparaciones viven con las peores condiciones. Los votantes de Denver reconocieron esto y aprobaron la Measure 307 para transferir la responsabilidad a la ciudad. La pregunta es si la ciudad cumplirá esa responsabilidad con financiamiento adecuado y priorización equitativa.
+
+**"¿Qué hay de la remoción de nieve?"**
+Bajo las reglas actuales, los propietarios son responsables de limpiar las aceras dentro de las 24 horas posteriores a una nevada. El cumplimiento es inconsistente, la aplicación se basa en quejas, y el resultado es que las rutas peatonales prioritarias — especialmente cerca de paradas de tránsito y escuelas — son frecuentemente intransitables durante semanas en invierno. Proponemos que la ciudad asuma la responsabilidad directa de limpiar las rutas prioritarias, financiado dentro del presupuesto existente del programa de aceras.
+
+## Referencias
+
+- City and County of Denver, DOTI. (2026, January 22). Denver Sidewalk Implementation Plan: State of the System Report. (3,140 millas totales; ~1,162 millas / 34% de ancho deficiente; 318 millas / 9% faltantes; ~1,480 millas / 43% total faltantes o deficientes; 1,233 cuadras / 5% que necesitan reparación. Áreas de equidad: 153 mi faltantes, 624 mi deficientes. 54% de paradas de tránsito con acera faltante dentro de 2 min de caminata. HIN: 50% de choques fatales en 5% de las calles.)
+- Denver Streets Partnership. (2022). Materiales de la campaña Denver Deserves Sidewalks. (400+ años para completar la red a niveles de financiamiento anteriores; vecindarios de bajos ingresos con el doble de la tasa de fatalidades peatonales.)
+- Denver Auditor's Office. (2020). Auditoría del Neighborhood Sidewalk Repair Program. ("Décadas atrasado y no fue diseñado para el cumplimiento de ADA.")
+- City and County of Denver. (2025). Vision Zero Dashboard. (93 muertes por tráfico en 2025; 35 peatones, 34% de aumento sobre 2024; peatones 30x más propensos a morir que automovilistas.)
+- CBS Colorado. (2025). "Sidewalk relief coming soon to Denver neighborhoods, set to begin with $75 million contracts." ($25M Milender White, $50M SEMA; $97.5M esperados en ingresos por tarifas en 3 años.)
+- AAA Foundation for Traffic Safety. (2024). "Pedestrians in Disadvantaged Neighborhoods More Likely to Die in Car Crashes."
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (Menos del 5% del parque habitacional accesible para usuarios de sillas de ruedas.)
+- ScienceDirect. (2024). "Complete streets meet fragmented policies: Sidewalks in 30 U.S. cities." (San Francisco, Denver y Austin son las únicas ciudades del top 30 con políticas de aceras "equitativas".)
+- Denver Gazette / City of Denver. (2022). Measure 307 (Ordinance 307) y la ordenanza Denver Deserves Sidewalks. (Tarifa de $150/año; descuento NEST; reembolsos basados en ingresos.)
+- City and County of Denver, City Council. (2024, September). Ordinance 1076-24. (Estableció el cargo por servicio de aceras y el Sidewalk Enterprise Fund; la recaudación de tarifas comenzó en enero de 2025; tarifas de impacto para >230 pies lineales de frente; anuló las exenciones de aceras de 2007.)
+- City and County of Denver. (2050). Denver Moves Everyone 2050 (plan estratégico de transporte); Complete Streets Guidelines (2020); Denver Moves: Pedestrians and Trails (2019); Transportation Standards and Details (2017). (Planes guía referenciados en el SIP.)
+- City of Pontevedra, Spain. Resultados de peatonalización urbana. (Cero muertes peatonales desde 2011.)
+- City of Oslo, Norway. Implementación de Vision Zero. (Cero muertes de peatones y ciclistas en 2019.)

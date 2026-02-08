@@ -1,6 +1,8 @@
 ---
 title: "BEAD Program — Denver Municipal Fiber Broadband Network"
+titleEs: "Programa BEAD — Red Municipal de Fibra Óptica de Denver"
 summary: "NTIA Broadband Equity, Access, and Deployment (BEAD) program grant template for building Denver's city-owned fiber network to deliver affordable gigabit internet to underserved neighborhoods."
+summaryEs: "Plantilla de subvención del programa de Equidad, Acceso y Despliegue de Banda Ancha (BEAD) de la NTIA para construir la red de fibra propiedad de la ciudad de Denver y ofrecer internet gigabit asequible a vecindarios desatendidos."
 policySlug: "municipal-broadband"
 grantProgram: "Broadband Equity, Access, and Deployment (BEAD) Program"
 fundingAgency: "National Telecommunications and Information Administration (NTIA)"

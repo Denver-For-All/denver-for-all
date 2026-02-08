@@ -1,6 +1,8 @@
 ---
 title: "HUD HOME — Denver Community Land Trust Expansion"
+titleEs: "HUD HOME — Expansión del Fideicomiso de Tierras Comunitarias de Denver"
 summary: "HUD HOME Investment Partnerships Program grant template for scaling community land trust acquisitions to create 500 permanently affordable homes in Denver's highest-displacement-risk neighborhoods."
+summaryEs: "Plantilla de subvención del Programa de Asociaciones de Inversión HOME de HUD para escalar las adquisiciones de fideicomisos de tierras comunitarias y crear 500 viviendas permanentemente asequibles en los vecindarios de Denver con mayor riesgo de desplazamiento."
 policySlug: "community-land-trusts"
 grantProgram: "HOME Investment Partnerships Program"
 fundingAgency: "U.S. Department of Housing and Urban Development (HUD)"

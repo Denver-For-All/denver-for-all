@@ -1,41 +1,55 @@
 # Funding Sources for DenverForAll.org
 
-Research into Action Funds, PACs, progressive foundations, fiscal sponsors, grassroots fundraising platforms, and Colorado-specific grant programs that could fund DenverForAll's policy research, civic tools, and organizing infrastructure.
+Research into funding sources, coalition partners, and strategic allies that support DenverForAll's policy research, civic tools, and organizing infrastructure.
+
+## Our Funding Model
+
+Denver For All is fiscally hosted by [Open Source Collective](https://www.oscollective.org/) (OSC), a 501(c)(6) trade association. This means:
+
+- **Primary funding:** Grassroots donations through [Open Collective](https://opencollective.com/denver-for-all)
+- **Donations are not tax-deductible** — OSC is a 501(c)(6), not a 501(c)(3)
+- **Not eligible for most foundation grants** — the vast majority of foundations and Colorado-specific grant programs require 501(c)(3) status or fiscal sponsorship through a 501(c)(3)
+- **No gatekeepers** — we accept donations directly without application cycles or cohort waiting periods
+- **Full transparency** — every dollar in and out is visible on the public ledger
+
+This is a deliberate trade-off. We chose speed, independence, and radical transparency over grant eligibility. At our current operating scale ($200–800/month), grassroots donations cover all costs. If a specific grant opportunity ever warrants it, we can explore adding a 501(c)(3) fiscal sponsor alongside OSC.
+
+See [open-collective-assessment.md](../../collateral/fiscal-sponsorship/open-collective-assessment.md) for implementation details and OpenCollective tier definitions.
 
 ---
 
-## Immediate Opportunities (Deadlines in Early 2026)
+## Grant Programs (Reference Only — Require 501(c)(3))
 
-### Colorado Gives Foundation — 2026 Housing Grant
-- **Amount:** $10,000 – $100,000 (general operating support)
+The following grant programs are documented for reference. They are **not currently accessible** to Denver For All under our 501(c)(6) fiscal host. If the project later adds a 501(c)(3) fiscal sponsor (e.g., Tides Foundation) for a specific opportunity, these would become relevant.
+
+### Colorado Gives Foundation — Housing Grant
+- **Amount:** $10,000 – $100,000
 - **Focus:** Organizations advancing affordable housing awareness and access
-- **Deadline:** February 27, 2026
 - **Website:** [coloradogives.org](https://www.coloradogives.org/)
-- **Fit:** Strong — directly funds housing advocacy work
+- **Requires:** 501(c)(3) status
 
 ### The Denver Foundation — Community Grants Program
 - **Amount:** $20,000 – $50,000 (~$4M awarded annually)
 - **Priority areas:** Economic opportunity, environment and climate, housing, youth well-being
-- **Cycle 1 deadline:** Opens January 15, closes March 2, 2026
-- **Cycle 2 deadline:** Opens June 16, closes August 3, 2026
-- **Info session:** January 27, 2026
 - **Contact:** 303.300.1790 or cgp@denverfoundation.org
 - **Website:** [denverfoundation.org/our-grants-program](https://denverfoundation.org/our-grants-program/)
-- **Eligibility:** Nonprofits in the 7-county Metro Denver region. Racial equity lens. Requires 501(c)(3) status or fiscal sponsorship.
+- **Requires:** 501(c)(3) status or 501(c)(3) fiscal sponsorship
 
 ### Caring for Denver Foundation — Alternatives to Jail
 - **Amount:** $200,000 – $800,000
 - **Created by:** Denver voters in 2018 (70% approval) via 0.25% sales tax
 - **Total awarded:** $228M+ since 2020
-- **Opens:** March 2026
 - **Key fact:** Primary funder of Denver's STAR program ($1.5M grant)
-- **Eligibility:** 501(c)(3) or fiscally sponsored organizations
 - **Website:** [caring4denver.org/grants](https://caring4denver.org/grants/)
-- **Fit:** Frame STAR expansion and police alternatives advocacy as mental health/substance misuse adjacent
+- **Requires:** 501(c)(3) or 501(c)(3)-fiscally-sponsored organizations
 
 ---
 
-## Action Funds & PACs
+## Coalition Partners & Organizing Allies (Accessible Now)
+
+These organizations are potential coalition partners, not direct funders. Partnerships, co-advocacy, and resource sharing do not require 501(c)(3) status.
+
+### Action Funds & PACs
 
 ### Local Progress / Local Progress Policy Action
 - **What:** 501(c)(4) network of 1,400+ local elected officials advancing racial and economic justice at the municipal level
@@ -72,27 +86,28 @@ Research into Action Funds, PACs, progressive foundations, fiscal sponsors, gras
 
 ---
 
-## Progressive Foundations
+## Progressive Foundations (Reference Only — Require 501(c)(3))
+
+These foundations fund housing justice, civic tech, and health equity work but require 501(c)(3) status or 501(c)(3) fiscal sponsorship. Listed for reference if the project later pursues a dual fiscal sponsorship arrangement.
 
 ### Fund for Housing and Opportunity (FHO)
 - **What:** Pooled fund backed by Annie E. Casey, Gates, Hilton, Ford, MacArthur, JPB, Kresge, and Oak Foundations plus Melville Charitable Trust
 - **Total awarded:** $28M+
-- **Typical range:** $50K – $140K; individual grants from $33K (Terner Center) to $300K (National Homelessness Law Center, multi-year)
+- **Typical range:** $50K – $140K
 - **Focus:** Policy advocacy, organizing, narrative change, housing research
 - **Website:** [housingisopportunity.org/funded-projects](https://www.housingisopportunity.org/funded-projects)
-- **Fit:** Strong — housing policy research, eviction tracker, tenant rights tools
+- **Requires:** 501(c)(3) status
 
 ### Knight Foundation (Civic Tech)
-- **What:** $25M+ invested in civic technologies since 2010; $9M specifically for civic tech; $2M to Code for America
+- **What:** $25M+ invested in civic technologies since 2010; $9M specifically for civic tech
 - **Programs:** Emerging City Champions fellowship ($5,000 seed grants, ages 18–35)
 - **Note:** Denver is not a Knight resident community, but general grants program accepts applications
 - **Website:** [knightfoundation.org/grants](https://knightfoundation.org/grants/)
-- **Fit:** Civic tools — eviction tracker, rent calculator, campaign finance tracker, sidewalk data explorer
+- **Requires:** 501(c)(3) status
 
 ### Trust for Civic Life
 - **What:** Funds non-partisan organizations in local civic ecosystems
 - **Program:** Civic Hubs grant program supports digital leaders and civic infrastructure organizations
-- **Timeline:** Next Civic Hub nomination cycle opens early 2026
 - **Website:** [trustforciviclife.org/grants](https://trustforciviclife.org/grants/)
 
 ### Ford Foundation
@@ -103,38 +118,31 @@ Research into Action Funds, PACs, progressive foundations, fiscal sponsors, gras
 ### Open Society Foundations
 - **What:** $24.2B in grants since 1993
 - **Relevant areas:** Democratic Practice, Equity in Governance, Rights and Dignity
-- **Note:** Most grants are proactive (they approach organizations), but some open opportunities listed
+- **Note:** Most grants are proactive (they approach organizations)
 - **Website:** [opensocietyfoundations.org/grants](https://www.opensocietyfoundations.org/grants)
 
----
+### Colorado-Specific Foundations
 
-## Colorado-Specific Foundations
-
-### The Colorado Health Foundation
-- **What:** Awards ~$100M annually in grants and investments focused on health equity and racial justice
-- **Key program:** Community-Initiated Solutions grants — priority to proposals developed "with" or "by" people of color
-- **Also does:** Program-related investments in community-led solutions
+**The Colorado Health Foundation**
+- Awards ~$100M annually focused on health equity and racial justice
 - **Website:** [coloradohealth.org/funding](https://coloradohealth.org/funding-0)
-- **Fit:** Medical debt forgiveness, housing-as-health framing, STAR program
+- **Requires:** 501(c)(3) status
 
-### The Colorado Trust
-- **What:** Private health foundation dedicated to health equity
-- **Program:** Health Equity Advocacy (HEA) strategy — funded 18 organizations doing community organizing and policy advocacy
+**The Colorado Trust**
+- Private health foundation dedicated to health equity
 - **Website:** [coloradotrust.org](https://www.coloradotrust.org/)
-- **Fit:** Medical debt, housing stability as health determinant, community safety
 
-### Caring for Colorado Foundation
-- **What:** Funds public policy and advocacy to protect benefit programs for young people and families
-- **Note:** 2025 was a closed/invite-only cycle; watch for 2026 opening
+**Caring for Colorado Foundation**
+- Funds public policy and advocacy for young people and families
 - **Website:** [caringforcolorado.org/what-we-fund](https://caringforcolorado.org/what-we-fund/public-policy-advocacy/)
 
 ---
 
-## Fiscal Sponsorship (Accept Tax-Deductible Donations Without 501(c)(3))
+## 501(c)(3) Fiscal Sponsors (If Needed Later)
 
-A fiscal sponsor is a 501(c)(3) that legally receives tax-deductible donations on behalf of a project. This lets DenverForAll accept foundation grants and tax-deductible individual contributions without incorporating as a nonprofit.
+Denver For All currently uses Open Source Collective (501(c)(6)) as its fiscal host. If a specific grant opportunity justifies it, the project could add a 501(c)(3) fiscal sponsor alongside OSC to unlock foundation grants and tax-deductible donations. This would be a significant step with added overhead and should only be pursued for a concrete, high-value opportunity.
 
-### Tides Foundation (Recommended)
+### Tides Foundation
 - **What:** One of the largest progressive fiscal sponsors; $1.4B+ in assets
 - **Provides:** Grant management, HR, legal support
 - **Fee:** ~9% of funds raised (varies by project size)
@@ -144,7 +152,6 @@ A fiscal sponsor is a 501(c)(3) that legally receives tax-deductible donations o
 ### Movement Strategy Center
 - **What:** Incubates and accelerates transformative movements through fiscal sponsorship
 - **Provides:** Strategic support alongside fiscal sponsorship — not just pass-through
-- **Why:** More hands-on movement-building support than Tides
 - **Website:** [movementstrategy.org/fiscal-sponsorship](https://movementstrategy.org/fiscal-sponsorship/)
 
 ### Social Good Fund
@@ -153,32 +160,27 @@ A fiscal sponsor is a 501(c)(3) that legally receives tax-deductible donations o
 - **Best for:** Smaller organizations getting started
 - **Website:** socialgoodfund.org
 
-### Alliance for Global Justice (AFGJ) — Use Caution
-- **What:** Offers fiscal sponsorship for grassroots projects
-- **Warning:** PayPal, Stripe, and other payment processors have dropped AFGJ; Ford Foundation and Arnold Ventures pulled funding; Congressional scrutiny over lobbying disclosure
-- **Risk:** Could create payment processing and reputational problems for DenverForAll
-
 ---
 
-## Grassroots Fundraising Platforms
+## Alternative Fundraising Platforms (Not Currently Used)
+
+Denver For All uses Open Collective exclusively. These platforms are documented for reference if the project's fundraising needs evolve beyond what OC provides.
 
 ### ActBlue
 - **What:** Dominant progressive fundraising platform; ~$1.8B raised in 2025
 - **Fee:** 3.95% processing per transaction
-- **"Raise by ActBlue":** Simplified UX built for state and local campaigns
-- **Why:** Donors already trust the platform; integrates with email, social media, organizing tools
+- **Note:** Built for political campaigns and 501(c)(4) organizations; could complement OC for election-cycle fundraising
 - **Website:** [actblue.com](https://www.actblue.com/)
 
 ### Givebutter
 - **What:** Modern fundraising with 47% donation form conversion rate (4x industry average)
 - **Ranked:** #1 on G2 for fundraising, donor management, and nonprofit CRM
-- **Best for:** Maximizing small donor conversion at DenverForAll's current scale (~600 weekly visitors)
 - **Website:** [givebutter.com](https://givebutter.com/)
 
 ### Give Lively
 - **What:** Free fundraising platform — no platform fees
 - **Includes:** Fundraising pages, text-to-donate, peer-to-peer, event ticketing
-- **Requires:** 501(c)(3) status or fiscal sponsorship
+- **Note:** Requires 501(c)(3) status or 501(c)(3) fiscal sponsorship — not currently accessible
 - **Website:** [givelively.org](https://www.givelively.org/)
 
 ---
@@ -198,7 +200,7 @@ A fiscal sponsor is a 501(c)(3) that legally receives tax-deductible donations o
 
 ### Colorado People's Alliance (COPA)
 - **What:** Statewide racial justice, climate justice, economic justice, immigrant justice organizing
-- **Role:** Coalition partner and potential co-applicant for grants
+- **Role:** Coalition partner for joint advocacy campaigns
 
 ### New Economy Coalition — Solidarity Economy Funding Library
 - **What:** Catalogs 350+ funders, non-extractive investors, and fiscal sponsors supporting solidarity economy work
@@ -207,37 +209,31 @@ A fiscal sponsor is a 501(c)(3) that legally receives tax-deductible donations o
 
 ---
 
-## Chosen Strategy: Open Collective + Grassroots Donations
+## Current Status: Open Collective + Grassroots Donations
 
-After assessing traditional fiscal sponsors (Tides, Social Good Fund, Movement Strategy Center) and foundation grants, the chosen path is **Open Collective with Open Source Collective as fiscal host** funded by small grassroots donations.
+Denver For All is live on [Open Collective](https://opencollective.com/denver-for-all) with [Open Source Collective](https://www.oscollective.org/) as fiscal host.
 
-### Why This Path
+### Why This Model Works
 
-- **Setup in days**, not weeks or months
 - **Public real-time ledger** of every dollar — aligns with radical transparency values
 - **10% fee** (comparable to traditional fiscal sponsors)
-- **No gatekeepers** — no 10% acceptance rate, no cohort waiting periods
+- **No gatekeepers** — no application cycles, no cohort waiting periods
 - **$200–800/month** from small donors covers all ongoing research and operations
-- **Foundation grants are not needed** at current operating scale
+- **Independence** — no funder priorities to navigate, no reporting requirements beyond public transparency
 
 ### Trade-offs Accepted
 
 - Donations are not tax-deductible (OSC is 501(c)(6), not 501(c)(3))
-- Not eligible for most foundation grants
-- Can always add 501(c)(3) fiscal sponsorship later if a specific grant opportunity warrants it
+- Not eligible for most foundation grants (see reference sections above)
+- Can add a 501(c)(3) fiscal sponsor later if a specific high-value grant opportunity justifies the overhead
 
-### Action Plan
+### OpenCollective Tier Definitions
 
-**Week 1:**
-1. Create Collective at opencollective.com
-2. Apply to Open Source Collective as fiscal host
-3. Add transparency statement and donate widget to DenverForAll.org
+See the [Open Collective Assessment](../../collateral/fiscal-sponsorship/open-collective-assessment.md) for the full tier structure to configure in the OpenCollective dashboard.
 
-**Weeks 2–4:**
-4. Join Local Progress Colorado network
-5. Contact Movement Voter Project about partner status
-6. Reach out to partnership organizations (Undue Medical Debt, ILSR)
+### Ongoing Operations
 
-**Ongoing:**
-7. Submit all expenses with receipts to public ledger
-8. Promote via newsletter, Reddit, Resistbot campaigns, and social channels
+1. Submit all expenses with receipts to the public ledger
+2. Promote via newsletter, Reddit, Resistbot campaigns, and social channels
+3. Build coalition relationships with partner organizations (no fiscal status required)
+4. Publish monthly impact reports referencing the public ledger

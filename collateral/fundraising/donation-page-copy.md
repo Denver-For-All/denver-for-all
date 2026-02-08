@@ -63,12 +63,20 @@ Every dollar counts. Even $5 funds real research that supports real policy chang
 
 A monthly donation keeps Denver For All's research and tools running year-round:
 
-- **$10/month** — Keeps the tenant rights chatbot answering calls in English and Spanish, 24/7
-- **$25/month** — Funds continuous policy research and civic tool development
-- **$50/month** — Covers core AI research costs and bilingual translations
-- **$100/month** — Makes you a founding sustainer of Denver's grassroots policy infrastructure
+- **$10/month — Keep the Lights On** — Keeps the tenant rights chatbot answering calls in English and Spanish, 24/7
+- **$25/month — Research Sustainer** — Funds continuous policy research and civic tool development
+- **$50/month — Core Supporter** — Covers core AI research costs and bilingual translations
+- **$100/month — Founding Sustainer** — Makes you a founding sustainer of Denver's grassroots policy infrastructure
 
-Monthly donors ensure we can plan ahead — developing tools, expanding research, and organizing communities without gaps in capacity.
+### Annual Giving
+
+Prefer a single yearly contribution? Annual tiers match the monthly equivalents:
+
+- **$120/year — Annual Supporter** — Equivalent to $10/month for a full year
+- **$300/year — Annual Builder** — Equivalent to $25/month for a full year
+- **$600/year — Annual Partner** — Equivalent to $50/month for a full year
+
+Monthly and annual donors ensure we can plan ahead — developing tools, expanding research, and organizing communities without gaps in capacity.
 
 ---
 

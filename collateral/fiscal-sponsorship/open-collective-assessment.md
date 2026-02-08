@@ -78,18 +78,46 @@ The public ledger actually makes compliance easier:
 3. Approval typically takes a few days
 4. Once approved, you can accept donations immediately
 
-### Step 3: Configure Donation Tiers (Day 3–5)
+### Step 3: Configure Donation Tiers in OpenCollective Dashboard
 
-| Type | Amount | Label |
-|------|--------|-------|
-| One-time | $10 | Sidewalk Fixer |
-| One-time | $25 | Tenant Defender |
-| One-time | $50 | Policy Builder |
-| One-time | $100 | Democracy Maker |
-| Monthly | $10/mo | Keep the Lights On |
-| Monthly | $25/mo | Research Sustainer |
-| Monthly | $50/mo | Core Supporter |
-| Custom | Any | Every dollar counts |
+Create the following tiers in the OpenCollective dashboard under **Collective Settings → Tiers**. Each tier should include the name, amount, frequency, description, and (where noted) a fundraising goal.
+
+#### One-Time Donation Tiers
+
+| Name | Amount | Description | Goal |
+|------|--------|-------------|------|
+| **Sidewalk Fixer** | $10 | Funds one detailed policy analysis on a Denver issue — from problem statement through evidence review to implementation pathway. | — |
+| **Tenant Defender** | $25 | Funds a full day of AI-powered research and civic tool development. Supports the eviction tracker, rent calculator, and tenant rights chatbot. | — |
+| **Policy Builder** | $50 | Funds professional Spanish translation of a flagship policy proposal, ensuring bilingual access for all Denver residents. | — |
+| **Democracy Maker** | $100 | Funds a week of expanded research, tool development, and community outreach — candidate trackers, campaign finance analysis, and Resistbot campaigns. | — |
+| **Movement Starter** | $250 | Funds a month of full-capacity policy research, civic tool development, bilingual translations, and grassroots organizing infrastructure. | — |
+| **City Changer** | $500 | Funds comprehensive research on a major policy area — deep, evidence-based analysis that gives council members and state legislators the confidence to act. | — |
+| **Custom Amount** | Any | Every dollar counts. Even $5 funds real research that supports real policy change. | — |
+
+#### Monthly (Recurring) Donation Tiers
+
+| Name | Amount | Description | Goal |
+|------|--------|-------------|------|
+| **Keep the Lights On** | $10/mo | Keeps the tenant rights chatbot answering calls in English and Spanish, 24/7. | 20 supporters |
+| **Research Sustainer** | $25/mo | Funds continuous policy research and civic tool development every month. | 10 supporters |
+| **Core Supporter** | $50/mo | Covers core AI research costs and bilingual translations. Ensures the platform runs at full capacity. | 5 supporters |
+| **Founding Sustainer** | $100/mo | Makes you a founding sustainer of Denver's grassroots policy infrastructure. Covers a full month of operations. | 3 supporters |
+
+#### Yearly Donation Tiers
+
+| Name | Amount | Description | Goal |
+|------|--------|-------------|------|
+| **Annual Supporter** | $120/yr | Equivalent to $10/month — sustain the platform for a full year with one contribution. | — |
+| **Annual Builder** | $300/yr | Equivalent to $25/month — a year of continuous research and tool development. | — |
+| **Annual Partner** | $600/yr | Equivalent to $50/month — a full year at core capacity. | — |
+
+#### Dashboard Configuration Notes
+
+- **Default tier:** Set "Tenant Defender" ($25 one-time) as the default/highlighted tier — it maps to a tangible output (one full day of research) at an accessible price point
+- **Custom amounts:** Enable custom amount donations with no minimum
+- **Tier images:** Use policy-relevant Denver photos (skyline, neighborhoods, civic tools screenshots)
+- **Goals:** Monthly tier goals are aspirational targets to show potential supporters how close the project is to sustainable recurring funding. 20 × $10 + 10 × $25 + 5 × $50 + 3 × $100 = $1,000/month, which exceeds the $200–800 operating range and provides a buffer for growth
+- **Thank-you message:** Customize the post-donation message (see `fundraising/donation-page-copy.md` for copy)
 
 ### Step 4: Add to DenverForAll.org
 

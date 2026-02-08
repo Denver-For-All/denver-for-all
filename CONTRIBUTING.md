@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Denver For All. This project is a
 
 ### Reporting Issues
 
-If you find a bug, factual error in policy content, broken link, or accessibility problem, please [open an issue](https://github.com/denver-for-all/denver-for-all/issues) with:
+If you find a bug, factual error in policy content, broken link, or accessibility problem, please [open an issue](https://github.com/Denver-For-All/denver-for-all/issues) with:
 
 - A clear description of the problem
 - Steps to reproduce (for bugs)
@@ -55,7 +55,7 @@ If you are a native Spanish speaker or professional translator and want to help 
 
 ```bash
 # Clone the repo
-git clone https://github.com/denver-for-all/denver-for-all.git
+git clone https://github.com/Denver-For-All/denver-for-all.git
 cd denver-for-all
 
 # Install dependencies

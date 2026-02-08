@@ -8,17 +8,18 @@ interface Props {
   summary: string;
   summaryEs: string;
   category: string;
+  categoryEs?: string;
   icon: string;
 }
 
-const { slug, title, titleEs, summary, summaryEs, category, icon } = Astro.props;
+const { slug, title, titleEs, summary, summaryEs, category, categoryEs, icon } = Astro.props;
 ---
 
 <a href={`/platform/${slug}`} class="card policy-card">
   <div class="policy-card__icon">
     <Icon name={`lucide:${icon}`} size={24} />
   </div>
-  <span class="card__category" data-en={category} data-es={category}>{category}</span>
+  <span class="card__category" data-en={category} data-es={categoryEs || category}>{category}</span>
   <h3 class="card__title" data-en={title} data-es={titleEs}>{title}</h3>
   <p class="card__summary" data-en={summary} data-es={summaryEs}>{summary}</p>
   <span class="policy-card__link" data-en="Read Full Proposal →" data-es="Leer Propuesta Completa →">

@@ -34,7 +34,7 @@ const steps = [
     heading: 'The Housing Math',
     headingEs: 'Las Matem\u00e1ticas de la Vivienda',
     body: 'Rents are declining. Vacancy is rising. Yet evictions haven\u2019t slowed. Because eviction is not just about rent levels \u2014 it\u2019s about the gap between rent and income. 52% of Denver households are renters. Rent has risen 85% since 2010. And Colorado is one of the few states that preempts cities from enacting any rent stabilization. The protection is zero.',
-    bodyEs: 'Las rentas est\u00e1n bajando. Las vacantes est\u00e1n subiendo. Sin embargo, los desalojos no han disminuido. Porque el desalojo no se trata solo del nivel de renta \u2014 se trata de la brecha entre renta e ingreso. El 52% de los hogares de Denver son inquilinos. La renta ha subido 85% desde 2010. Y Colorado es uno de los pocos estados que proh\u00edbe a las ciudades establecer cualquier estabilizaci\u00f3n de renta.',
+    bodyEs: 'Las rentas est\u00e1n bajando. Las vacantes est\u00e1n subiendo. Sin embargo, los desalojos no han disminuido. Porque el desalojo no se trata solo del nivel de renta \u2014 se trata de la brecha entre renta e ingreso. El 52% de los hogares de Denver son inquilinos. La renta ha subido 85% desde 2010. Y Colorado es uno de los pocos estados que proh\u00edbe a las ciudades establecer cualquier estabilizaci\u00f3n de renta. La protecci\u00f3n es cero.',
   },
   {
     heading: 'Against the National Trend',

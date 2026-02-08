@@ -14,6 +14,21 @@ const featuredCategories = ['housing', 'labor', 'health', 'climate', 'safety', '
 const policies = featuredCategories
   .map(cat => allPolicies.find(p => p.data.category === cat))
   .filter((p): p is NonNullable<typeof p> => p != null);
+
+const categoryMap: Record<string, { en: string; es: string }> = {
+  housing: { en: 'Housing & Homelessness', es: 'Vivienda y Personas sin Hogar' },
+  labor: { en: 'Workers & Wages', es: 'Trabajadores y Salarios' },
+  health: { en: 'Healthcare', es: 'Salud' },
+  climate: { en: 'Climate & Environment', es: 'Clima y Medio Ambiente' },
+  safety: { en: 'Public Safety', es: 'Seguridad Pública' },
+  education: { en: 'Education', es: 'Educación' },
+  immigration: { en: 'Immigration', es: 'Inmigración' },
+  infrastructure: { en: 'Infrastructure & Services', es: 'Infraestructura y Servicios' },
+  justice: { en: 'Criminal Justice', es: 'Justicia Penal' },
+  democracy: { en: 'Democracy & Governance', es: 'Democracia y Gobernanza' },
+  economy: { en: 'Small Business & Economy', es: 'Pequeñas Empresas y Economía' },
+  community: { en: 'Community & Culture', es: 'Comunidad y Cultura' },
+};
 ---
 
 <Layout>
@@ -60,7 +75,7 @@ const policies = featuredCategories
           </span>
         </div>
         <div class="stat">
-          <span class="stat__number">$26/hr</span>
+          <span class="stat__number" data-en="$26/hr" data-es="$26/hora">$26/hr</span>
           <span class="stat__label" data-en="Living wage for one adult in Denver (MIT)" data-es="Salario digno para un adulto en Denver (MIT)">
             Living wage for one adult in Denver (MIT)
           </span>
@@ -92,7 +107,8 @@ const policies = featuredCategories
             titleEs={policy.data.titleEs}
             summary={policy.data.summary}
             summaryEs={policy.data.summaryEs}
-            category={policy.data.category}
+            category={categoryMap[policy.data.category]?.en || policy.data.category}
+            categoryEs={categoryMap[policy.data.category]?.es}
             icon={policy.data.icon}
           />
         ))}

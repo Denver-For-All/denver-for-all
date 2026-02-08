@@ -22,6 +22,22 @@ const hasPetition = !!policy.data.petition;
 const hasFundingSources = policy.data.hasFundingSources;
 const hasGrantProposal = !!policy.data.grantProposal;
 const hasCouncilChampion = !!policy.data.councilChampion;
+
+const categoryMap: Record<string, string> = {
+  housing: 'Vivienda y Personas sin Hogar',
+  labor: 'Trabajadores y Salarios',
+  health: 'Salud',
+  climate: 'Clima y Medio Ambiente',
+  safety: 'Seguridad Pública',
+  immigration: 'Inmigración',
+  education: 'Educación',
+  infrastructure: 'Infraestructura y Servicios',
+  justice: 'Justicia Penal',
+  democracy: 'Democracia y Gobernanza',
+  economy: 'Pequeñas Empresas y Economía',
+  community: 'Comunidad y Cultura',
+};
+const categoryEs = categoryMap[policy.data.category] || policy.data.category;
 ---
 
 <Layout title={policy.data.title} description={policy.data.summary}>
@@ -35,7 +51,7 @@ const hasCouncilChampion = !!policy.data.councilChampion;
         <div class="policy-header__icon">
           <Icon name={`lucide:${policy.data.icon}`} size={32} />
         </div>
-        <span class="policy-header__category">{policy.data.category}</span>
+        <span class="policy-header__category" data-en={policy.data.category} data-es={categoryEs}>{policy.data.category}</span>
         <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{policy.data.title}</h1>
         <p class="policy-header__summary" data-en={policy.data.summary} data-es={policy.data.summaryEs}>
           {policy.data.summary}
@@ -46,7 +62,7 @@ const hasCouncilChampion = !!policy.data.councilChampion;
         <Content />
       </div>
 
-      <DonationCTA context="This policy analysis" />
+      <DonationCTA context="This policy analysis" contextEs="Este análisis de política" />
 
       <footer class="policy-footer">
         <div class="policy-footer__action-grid">
@@ -187,9 +203,11 @@ const hasCouncilChampion = !!policy.data.councilChampion;
       await navigator.clipboard.writeText(window.location.href);
       const btn = document.getElementById('copy-link');
       if (btn) {
-        const orig = btn.textContent;
-        btn.textContent = '\u2713 Copied!';
-        setTimeout(() => { btn.textContent = orig; }, 2000);
+        const locale = localStorage.getItem('dfa-locale') || 'en';
+        const copiedText = locale === 'es' ? '\u2713 ¡Copiado!' : '\u2713 Copied!';
+        const restoreText = locale === 'es' ? (btn.getAttribute('data-es') || 'Copiar Enlace') : (btn.getAttribute('data-en') || 'Copy Link');
+        btn.textContent = copiedText;
+        setTimeout(() => { btn.textContent = restoreText; }, 2000);
       }
     } catch (_) {
       // Clipboard unavailable

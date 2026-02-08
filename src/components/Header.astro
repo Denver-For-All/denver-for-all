@@ -213,7 +213,19 @@ const navItems = [
     document.documentElement.lang = next;
     document.querySelectorAll('[data-en]').forEach(el => {
       const text = el.getAttribute(`data-${next}`);
-      if (text) el.textContent = text;
+      if (text) {
+        if (el.children.length > 0) {
+          el.innerHTML = text;
+        } else {
+          el.textContent = text;
+        }
+      }
+    });
+    document.querySelectorAll(`[data-${next}-placeholder]`).forEach(el => {
+      const placeholder = el.getAttribute(`data-${next}-placeholder`);
+      if (placeholder && el instanceof HTMLInputElement) {
+        el.placeholder = placeholder;
+      }
     });
   });
 </script>

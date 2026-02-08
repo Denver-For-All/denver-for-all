@@ -5,7 +5,8 @@ import {
 } from 'recharts';
 import {
   outsideSpending, mayoralPACs2023, totalRaised2023,
-  councilVotes, schoolBoard2025,
+  councilVotes, schoolBoard2025, ballotMeasures2025,
+  earlyFundraising2027,
 } from '../../data/campaign-finance-stats';
 
 const C = {
@@ -53,12 +54,12 @@ function MoneyExplosion({ locale }: { locale: string }) {
       <ResponsiveContainer width="100%" height={260}>
         <BarChart data={data} margin={{ left: 10, right: 30, top: 10, bottom: 10 }}>
           <XAxis dataKey="name" tick={{ fontSize: 12, fill: C.textMuted }} />
-          <YAxis tickFormatter={v => `$${v}M`} tick={{ fontSize: 12, fill: C.textMuted }} domain={[0, 6]} />
+          <YAxis tickFormatter={v => `$${v}M`} tick={{ fontSize: 12, fill: C.textMuted }} domain={[0, 10]} />
           <Tooltip formatter={(v: number) => `$${v}M`}
             contentStyle={{ borderRadius: 8, border: `1px solid ${C.border}`, fontFamily: 'Inter, system-ui, sans-serif' }} />
-          <Bar dataKey="amount" radius={[4, 4, 0, 0]} barSize={60}>
+          <Bar dataKey="amount" radius={[4, 4, 0, 0]} barSize={50}>
             {data.map((_, i) => (
-              <Cell key={i} fill={i === 0 ? C.muted : i === 1 ? C.danger : C.accent} />
+              <Cell key={i} fill={[C.muted, C.danger, C.accent, C.danger][i] || C.danger} />
             ))}
             <LabelList dataKey="label" position="top" fill={C.text} fontSize={14} fontWeight={700} />
           </Bar>
@@ -68,8 +69,8 @@ function MoneyExplosion({ locale }: { locale: string }) {
         textAlign: 'center', marginTop: '0.5rem', fontSize: '0.9rem', color: C.textMuted,
       }}>
         {locale === 'es'
-          ? 'De <$1M en 2019 a $4.8M en 2023 — un aumento de 380%'
-          : 'From <$1M in 2019 to $4.8M in 2023 — a 380% increase'}
+          ? 'De <$1M en 2019 a $8.5M en medidas electorales 2025 — un aumento de 750%'
+          : 'From <$1M in 2019 to $8.5M on 2025 ballot measures — a 750% increase'}
       </div>
     </div>
   );
@@ -283,6 +284,77 @@ function SchoolBoardLesson({ locale }: { locale: string }) {
   );
 }
 
+function BallotWars2025({ locale }: { locale: string }) {
+  const ref310 = ballotMeasures2025.ref310Summary;
+  const bondData = ballotMeasures2025.vibrantDenverBond;
+
+  const sides = [
+    {
+      label: locale === 'es' ? 'Anti-Tabaco (Bloomberg)' : 'Anti-Tobacco (Bloomberg)',
+      amount: `$${(ref310.antiTobaccoTotal / 1e6).toFixed(1)}M`,
+      sub: locale === 'es'
+        ? `Bloomberg: $${(ref310.bloombergShare / 1e6).toFixed(1)}M (76%)`
+        : `Bloomberg: $${(ref310.bloombergShare / 1e6).toFixed(1)}M (76%)`,
+      color: C.secondary,
+      bg: '#EBF2FA',
+    },
+    {
+      label: locale === 'es' ? 'Pro-Tabaco (Industria)' : 'Pro-Tobacco (Industry)',
+      amount: `$${(ref310.proTobaccoTotal / 1e3).toFixed(0)}K`,
+      sub: locale === 'es'
+        ? '90% de la industria tabacalera'
+        : '90% from tobacco industry',
+      color: C.danger,
+      bg: '#FDF2F2',
+    },
+  ];
+
+  return (
+    <div>
+      <ChartTitle>
+        {locale === 'es' ? 'Guerras Electorales 2025: Referéndum 310' : '2025 Ballot Wars: Referendum 310'}
+      </ChartTitle>
+      <div style={{ display: 'flex', gap: '1.25rem', marginTop: '1rem', flexWrap: 'wrap' }}>
+        {sides.map((s, i) => (
+          <div key={i} style={{
+            flex: '1 1 180px', textAlign: 'center', padding: '1.25rem',
+            background: s.bg, borderRadius: 16, border: `2px solid ${s.color}`,
+          }}>
+            <div style={{
+              fontSize: '2.25rem', fontWeight: 800, color: s.color,
+              lineHeight: 1, fontFamily: 'Inter, system-ui, sans-serif',
+            }}>
+              {s.amount}
+            </div>
+            <div style={{ fontSize: '0.85rem', color: C.text, fontWeight: 600, marginTop: '0.5rem' }}>
+              {s.label}
+            </div>
+            <div style={{ fontSize: '0.75rem', color: C.textMuted, marginTop: '0.3rem' }}>
+              {s.sub}
+            </div>
+          </div>
+        ))}
+      </div>
+      <div style={{
+        textAlign: 'center', marginTop: '1rem', padding: '0.75rem',
+        background: C.bgAlt, borderRadius: 8, fontSize: '0.85rem', color: C.text,
+      }}>
+        <strong>{locale === 'es' ? 'Ratio de gasto' : 'Spending ratio'}: {ref310.spendingRatio}:1</strong>
+        <span style={{ color: C.textMuted, marginLeft: '0.5rem' }}>
+          {locale === 'es' ? '— La medida anti-tabaco ganó' : '— The anti-tobacco measure won'}
+        </span>
+      </div>
+      <div style={{
+        textAlign: 'center', marginTop: '0.75rem', fontSize: '0.8rem', color: C.textMuted,
+      }}>
+        {locale === 'es'
+          ? `También: Bono Vibrant Denver recaudó $${(bondData.totalRaised / 1e6).toFixed(1)}M (${bondData.corporatePercent}% corporativo)`
+          : `Also: Vibrant Denver Bond raised $${(bondData.totalRaised / 1e6).toFixed(1)}M (${bondData.corporatePercent}% corporate)`}
+      </div>
+    </div>
+  );
+}
+
 function Outlook2027({ locale }: { locale: string }) {
   const items = [
     {
@@ -307,33 +379,49 @@ function Outlook2027({ locale }: { locale: string }) {
     },
   ];
 
+  const fefCandidates = earlyFundraising2027.filter(c => c.fefTotal > 0);
+  const totalFef = fefCandidates.reduce((sum, c) => sum + c.fefTotal, 0);
+
   return (
     <div>
       <ChartTitle>
-        {locale === 'es' ? 'Reglas para 2027: Lo Que Cambi\u00f3 (y Lo Que No)' : '2027 Rules: What Changed (and What Didn\'t)'}
+        {locale === 'es' ? '2027: Nuevas Reglas y Primeros Candidatos' : '2027: New Rules & Early Candidates'}
       </ChartTitle>
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', marginTop: '1rem' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '0.75rem' }}>
         {items.map((item, i) => (
           <div key={i} style={{
             display: 'flex', alignItems: 'baseline', gap: '1rem',
-            padding: '1rem', background: i === 3 ? '#FDF2F2' : C.bgAlt,
+            padding: '0.75rem 1rem', background: i === 3 ? '#FDF2F2' : C.bgAlt,
             borderRadius: 10, borderLeft: `4px solid ${item.color}`,
           }}>
             <span style={{
-              fontSize: '1.5rem', fontWeight: 800, color: item.color,
+              fontSize: '1.3rem', fontWeight: 800, color: item.color,
               lineHeight: 1, fontFamily: 'Inter, system-ui, sans-serif', flexShrink: 0,
-              minWidth: 90, textAlign: 'center',
+              minWidth: 80, textAlign: 'center',
             }}>
               {item.value}
             </span>
-            <span style={{ fontSize: '0.95rem', color: C.text, fontWeight: 500 }}>
+            <span style={{ fontSize: '0.9rem', color: C.text, fontWeight: 500 }}>
               {item.label}
             </span>
           </div>
         ))}
       </div>
       <div style={{
-        textAlign: 'center', marginTop: '1.25rem', fontSize: '0.85rem', color: C.textMuted,
+        marginTop: '1rem', padding: '0.75rem', background: C.bgAlt,
+        borderRadius: 10, borderLeft: `4px solid ${C.primary}`,
+      }}>
+        <div style={{ fontSize: '0.8rem', fontWeight: 700, color: C.primary, textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+          {locale === 'es' ? 'Recaudación Temprana' : 'Early Fundraising'}
+        </div>
+        <div style={{ fontSize: '0.85rem', color: C.text, marginTop: '0.3rem' }}>
+          {locale === 'es'
+            ? `${earlyFundraising2027.length} candidatos registrados — ${fefCandidates.length} usando el Fondo de Elecciones Justas ($${(totalFef / 1e3).toFixed(1)}K en donaciones FEF)`
+            : `${earlyFundraising2027.length} candidates filed — ${fefCandidates.length} using Fair Elections Fund ($${(totalFef / 1e3).toFixed(1)}K in FEF donations)`}
+        </div>
+      </div>
+      <div style={{
+        textAlign: 'center', marginTop: '0.75rem', fontSize: '0.85rem', color: C.textMuted,
       }}>
         {locale === 'es'
           ? 'Calderon anunci\u00f3 contra Johnston. Sigue el dinero.'
@@ -355,7 +443,8 @@ export default function StickyVisualization({ step, locale }: Props) {
         {step === 2 && <FEFvsPACs locale={locale} />}
         {step === 3 && <VoteScorecard locale={locale} />}
         {step === 4 && <SchoolBoardLesson locale={locale} />}
-        {step === 5 && <Outlook2027 locale={locale} />}
+        {step === 5 && <BallotWars2025 locale={locale} />}
+        {step === 6 && <Outlook2027 locale={locale} />}
       </div>
     </div>
   );

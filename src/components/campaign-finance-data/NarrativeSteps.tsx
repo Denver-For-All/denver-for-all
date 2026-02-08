@@ -9,8 +9,8 @@ const steps = [
   {
     heading: 'The Money Explosion',
     headingEs: 'La Explosi\u00f3n de Dinero',
-    body: 'Outside spending in Denver elections went from less than $1 million in 2019 to nearly $5 million in 2023. Super PACs funded by billionaires and industry groups now outspend most candidates. The 2025 school board race was the most expensive in Denver history \u2014 $2.4 million, most of it from outside groups.',
-    bodyEs: 'El gasto externo en elecciones de Denver pas\u00f3 de menos de $1 mill\u00f3n en 2019 a casi $5 millones en 2023. Los Super PACs financiados por multimillonarios y grupos industriales ahora gastan m\u00e1s que la mayor\u00eda de los candidatos. La elecci\u00f3n escolar 2025 fue la m\u00e1s cara en la historia de Denver \u2014 $2.4 millones, la mayor\u00eda de grupos externos.',
+    body: 'Outside spending in Denver elections went from less than $1 million in 2019 to nearly $5 million in 2023 — then exploded to $8.5 million on 2025 ballot measures alone. Super PACs funded by billionaires, corporations, and industry groups now dominate Denver elections. The 2025 school board race added another $2.4 million in outside money.',
+    bodyEs: 'El gasto externo en elecciones de Denver pasó de menos de $1 millón en 2019 a casi $5 millones en 2023 — y luego explotó a $8.5 millones solo en medidas electorales de 2025. Los Super PACs financiados por multimillonarios, corporaciones y grupos industriales ahora dominan las elecciones de Denver. La elección escolar 2025 agregó otros $2.4 millones en dinero externo.',
   },
   {
     heading: 'Who Pays for Denver Politics',
@@ -37,10 +37,16 @@ const steps = [
     bodyEs: 'En 2025, los defensores de escuelas charter superaron en gasto a los aliados del sindicato de maestros 5 a 1 en la elecci\u00f3n escolar m\u00e1s cara de Denver \u2014 $1.5 millones vs. $286,500. Los cuatro candidatos pro-charter perdieron. Los cuatro candidatos sindicales ganaron. El dinero no siempre gana. Pero siempre lo intenta.',
   },
   {
+    heading: 'The 2025 Ballot Wars',
+    headingEs: 'Las Guerras Electorales de 2025',
+    body: 'Denver\u2019s 2025 ballot measures drew $8.5 million in spending. The biggest battle: Referendum 310 on tobacco regulation. Michael Bloomberg personally contributed $4.85 million to the anti-tobacco side, which spent $6.4 million total. The tobacco industry spent $665,000 fighting it \u2014 outspent 10-to-1, and they lost. Meanwhile, the Vibrant Denver Bond raised $1.8 million \u2014 85% from corporate donors including construction firms, engineering companies, and real estate interests who stand to benefit from the infrastructure projects.',
+    bodyEs: 'Las medidas electorales de Denver 2025 atrajeron $8.5 millones en gastos. La mayor batalla: Referéndum 310 sobre regulación del tabaco. Michael Bloomberg personalmente contribuyó $4.85 millones al lado anti-tabaco, que gastó $6.4 millones en total. La industria tabacalera gastó $665,000 combatiéndolo \u2014 superada 10 a 1, y perdieron. Mientras tanto, el Bono Vibrant Denver recaudó $1.8 millones \u2014 85% de donantes corporativos incluyendo empresas de construcción, ingeniería e intereses inmobiliarios que se beneficiarían de los proyectos de infraestructura.',
+  },
+  {
     heading: 'What\u2019s Coming in 2027',
     headingEs: 'Lo Que Viene en 2027',
-    body: 'New rules for 2027: anonymous donations banned, contribution limits tightened to $500 for Fair Elections Fund participants. But super PAC spending remains unlimited. Lisa Calderon has announced against Mayor Johnston. The money is about to start flowing. Track it at SearchLight Denver and Colorado TRACER.',
-    bodyEs: 'Nuevas reglas para 2027: donaciones an\u00f3nimas prohibidas, l\u00edmites de contribuci\u00f3n reducidos a $500 para participantes del Fondo de Elecciones Justas. Pero el gasto de Super PACs sigue sin l\u00edmite. Lisa Calderon anunci\u00f3 contra el Alcalde Johnston. El dinero est\u00e1 por empezar a fluir. Rastr\u00e9alo en SearchLight Denver y Colorado TRACER.',
+    body: 'New rules for 2027: anonymous donations banned, contribution limits tightened to $500 for Fair Elections Fund participants. But super PAC spending remains unlimited. Five candidates have already filed for city council and the mayor\u2019s office. Three of them are already using the Fair Elections Fund, with strong small-dollar participation. Lisa Calderon has announced against Mayor Johnston. The money is about to start flowing. Track it at SearchLight Denver and Colorado TRACER.',
+    bodyEs: 'Nuevas reglas para 2027: donaciones anónimas prohibidas, límites de contribución reducidos a $500 para participantes del Fondo de Elecciones Justas. Pero el gasto de Super PACs sigue sin límite. Cinco candidatos ya se han registrado para el concejo municipal y la alcaldía. Tres de ellos ya están usando el Fondo de Elecciones Justas, con fuerte participación de pequeñas donaciones. Lisa Calderon anunció contra el Alcalde Johnston. El dinero está por empezar a fluir. Rastréalo en SearchLight Denver y Colorado TRACER.',
   },
 ];
 

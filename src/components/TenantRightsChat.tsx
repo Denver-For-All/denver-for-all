@@ -14,7 +14,7 @@ export default function TenantRightsChat() {
       borderRadius="large"
       accentColor="#0D7377"
       title="Tenant Rights Assistant"
-      chatFirstMessage="Hi! I'm the Denver For All tenant rights assistant. I can help you understand your rights as a Denver renter. Ask me about eviction, repairs, deposits, discrimination, or anything else."
+      chatFirstMessage="Hi, I'm the Denver For All tenant rights assistant. I can help you understand your rights as a renter in Denver, whether it's about eviction, repairs, deposits, discrimination, or lease issues. What's going on?"
       chatPlaceholder="Type your question..."
       startButtonText="Call to Talk"
       endButtonText="End Call"

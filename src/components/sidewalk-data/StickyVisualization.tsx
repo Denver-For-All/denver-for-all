@@ -185,6 +185,7 @@ function TransitChart({ locale }: { locale: string }) {
 
 function CorridorsChart({ locale }: { locale: string }) {
   const data = [...dangerousCorridors].sort((a, b) => a.pct - b.pct);
+  const tooltipLabel = locale === 'es' ? '% sin zona de protección' : '% with no buffer';
 
   return (
     <div>
@@ -193,13 +194,24 @@ function CorridorsChart({ locale }: { locale: string }) {
           ? 'Aceras Estrechas sin Zona de Protección'
           : 'Narrow Sidewalks with No Amenity Buffer'}
       </ChartTitle>
+      <div style={{
+        textAlign: 'center',
+        fontSize: '0.8rem',
+        color: C.textMuted,
+        marginBottom: '0.5rem',
+        marginTop: '-0.5rem',
+      }}>
+        {locale === 'es'
+          ? '% de aceras del corredor sin zona de protección entre peatones y tráfico'
+          : '% of corridor sidewalk segments with no buffer between pedestrians and traffic'}
+      </div>
       <ResponsiveContainer width="100%" height={260}>
         <BarChart data={data} layout="vertical" margin={{ left: 10, right: 50, top: 10, bottom: 10 }}>
           <XAxis type="number" domain={[0, 80]} tickFormatter={v => `${v}%`}
             tick={{ fontSize: 12, fill: C.textMuted }} />
           <YAxis type="category" dataKey="name" width={130}
             tick={{ fontSize: 13, fill: C.text, fontWeight: 600 }} />
-          <Tooltip formatter={(v: number) => `${v}%`}
+          <Tooltip formatter={(v: number) => [`${v}%`, tooltipLabel]}
             contentStyle={{ borderRadius: 8, border: `1px solid ${C.border}`, fontFamily: 'Inter, system-ui, sans-serif' }} />
           <Bar dataKey="pct" radius={[0, 4, 4, 0]} barSize={28}>
             {data.map((entry, i) => (

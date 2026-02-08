@@ -1,0 +1,136 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+import EvictionScrollytelling from '../../components/eviction-data/EvictionScrollytelling';
+---
+
+<Layout title="Denver's Eviction Crisis" description="Scroll-based data story: Denver eviction filings nearly doubled since the pandemic. 15,953 families faced eviction in 2025. Explore the data.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Denver's Eviction Crisis" data-es="La Crisis de Desalojos de Denver">Denver's Eviction Crisis</h1>
+      <p data-en="15,953 families faced eviction in Denver in 2025 — 72% above pre-pandemic levels. Scroll to explore where it's happening, who it hurts, and why the safety net is failing." data-es="15,953 familias enfrentaron desalojo en Denver en 2025 — 72% por encima de los niveles pre-pandemia. Desplázate para explorar dónde está pasando, a quién afecta, y por qué la red de seguridad está fallando.">
+        15,953 families faced eviction in Denver in 2025 — 72% above pre-pandemic levels. Scroll to explore where it's happening, who it hurts, and why the safety net is failing.
+      </p>
+      <div class="hero-mini__source">
+        <span data-en="Sources: Denver County Court, Denverite, Denver7, 9News, Princeton Eviction Lab" data-es="Fuentes: Corte del Condado de Denver, Denverite, Denver7, 9News, Laboratorio de Desalojos de Princeton">
+          Sources: Denver County Court, Denverite, Denver7, 9News, Princeton Eviction Lab
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--wide">
+      <EvictionScrollytelling client:visible />
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <h2 class="section-title" data-en="What You Can Do" data-es="Qué Puedes Hacer">What You Can Do</h2>
+      <div class="action-grid">
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:shield" size={24} /></div>
+          <h3 data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</h3>
+          <p data-en="If you're facing eviction, free legal help is available. Colorado law requires proper notice and court process. You have rights — and representation dramatically improves outcomes." data-es="Si enfrentas desalojo, hay ayuda legal gratuita disponible. La ley de Colorado requiere aviso adecuado y proceso judicial. Tienes derechos — y la representación mejora dramáticamente los resultados.">
+            If you're facing eviction, free legal help is available. Colorado law requires proper notice and court process. You have rights — and representation dramatically improves outcomes.
+          </p>
+          <a href="/tools/know-your-rights" class="action-card__link" data-en="Talk to Our Rights Assistant →" data-es="Habla con Nuestro Asistente de Derechos →">Talk to Our Rights Assistant →</a>
+        </div>
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:file-text" size={24} /></div>
+          <h3 data-en="Read the Policy" data-es="Lee la Política">Read the Policy</h3>
+          <p data-en="Our platform includes proposals for rent stabilization, right to counsel, just-cause eviction protections, and emergency rental assistance funding. Colorado's state preemption of rent control must end." data-es="Nuestra plataforma incluye propuestas para estabilización de renta, derecho a abogado, protecciones de desalojo por causa justa, y financiamiento de asistencia de alquiler de emergencia.">
+            Our platform includes proposals for rent stabilization, right to counsel, just-cause eviction protections, and emergency rental assistance funding. Colorado's state preemption of rent control must end.
+          </p>
+          <a href="/tools/eviction-tracker" class="action-card__link" data-en="See Eviction Resources →" data-es="Ver Recursos de Desalojo →">See Eviction Resources →</a>
+        </div>
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:share-2" size={24} /></div>
+          <h3 data-en="Share This Data" data-es="Comparte Estos Datos">Share This Data</h3>
+          <p data-en="Copy the link to this page and share it. 15,953 eviction filings in a year isn't a housing market — it's a crisis. The data is from public court records. The crisis should be public too." data-es="Copia el enlace a esta página y compártelo. 15,953 demandas de desalojo en un año no es un mercado de vivienda — es una crisis. Los datos son de registros judiciales públicos.">
+            Copy the link to this page and share it. 15,953 eviction filings in a year isn't a housing market — it's a crisis. The data is from public court records. The crisis should be public too.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="Data Sources" data-es="Fuentes de Datos">Data Sources</h2>
+      <ul class="sources-list">
+        <li>
+          <strong>Denver County Court / Colorado Judicial Branch.</strong>
+          <span data-en="Eviction filing data via SB24-064 dashboard (2024-2025). Annual totals reported by Denverite (Jan 2026), Denver7 (Jan 2025), 9News (Jul 2025)." data-es="Datos de demandas de desalojo via panel SB24-064 (2024-2025). Totales anuales reportados por Denverite (Ene 2026), Denver7 (Ene 2025), 9News (Jul 2025).">
+            Eviction filing data via SB24-064 dashboard (2024-2025). Annual totals reported by Denverite (Jan 2026), Denver7 (Jan 2025), 9News (Jul 2025).
+          </span>
+        </li>
+        <li>
+          <strong>Princeton Eviction Lab.</strong>
+          <span data-en="Historical eviction data, Denver County (2000-2018). National tracking system comparison (2025)." data-es="Datos históricos de desalojos, Condado de Denver (2000-2018). Comparación del sistema de rastreo nacional (2025).">
+            Historical eviction data, Denver County (2000-2018). National tracking system comparison (2025).
+          </span>
+        </li>
+        <li>
+          <strong>Denverite.</strong>
+          <span data-en="Rental assistance budget reporting (Sep 2025, Aug 2025). Court outcomes data (Sep 2024). Neighborhood breakdowns." data-es="Reportes de presupuesto de asistencia de alquiler (Sep 2025, Ago 2025). Datos de resultados judiciales (Sep 2024). Desgloses por vecindario.">
+            Rental assistance budget reporting (Sep 2025, Aug 2025). Court outcomes data (Sep 2024). Neighborhood breakdowns.
+          </span>
+        </li>
+      </ul>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, #C0392B 0%, #922B21 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+  .hero-mini__source {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.7;
+  }
+
+  .container--wide { max-width: 1100px; }
+  .section-title { font-size: clamp(1.5rem, 3vw, 2rem); margin-bottom: 1.5rem; }
+
+  .action-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+  .action-card {
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    padding: 2rem;
+    box-shadow: var(--shadow);
+  }
+  .action-card__icon {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 48px; height: 48px; border-radius: 12px;
+    background: var(--color-bg-alt); color: var(--color-danger);
+    margin-bottom: 1rem;
+  }
+  .action-card h3 { font-size: 1.1rem; margin-bottom: 0.75rem; }
+  .action-card p { color: var(--color-text-muted); font-size: 0.9rem; line-height: 1.6; }
+  .action-card__link {
+    display: inline-block; margin-top: 0.5rem;
+    font-weight: 600; font-size: 0.9rem; color: var(--color-primary);
+  }
+
+  .sources-list { list-style: none; padding: 0; }
+  .sources-list li {
+    padding: 1rem 0; border-bottom: 1px solid var(--color-border);
+    font-size: 0.9rem; color: var(--color-text-muted); line-height: 1.5;
+  }
+  .sources-list li:last-child { border-bottom: none; }
+  .sources-list strong { color: var(--color-text); display: block; margin-bottom: 0.25rem; }
+
+  @media (max-width: 768px) { .action-card { padding: 1.5rem; } }
+</style>

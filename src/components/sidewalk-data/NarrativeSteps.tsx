@@ -34,8 +34,8 @@ const steps: Step[] = [
   {
     heading: 'The Streets Where People Die',
     headingEs: 'Las Calles Donde la Gente Muere',
-    body: 'These four arterials have some of the narrowest sidewalks in Denver \u2014 with no buffer between pedestrians and traffic. They are all part of the High Injury Network, where 50% of fatal crashes happen on just 5% of streets. 93 people died on Denver streets in 2025. 35 were pedestrians.',
-    bodyEs: 'Estas cuatro arterias tienen algunas de las aceras m\u00e1s estrechas de Denver \u2014 sin zona de protecci\u00f3n entre peatones y tr\u00e1fico. Todas son parte de la Red de Alto Riesgo, donde el 50% de los choques fatales ocurren en solo el 5% de las calles. 93 personas murieron en las calles de Denver en 2025.',
+    body: 'These four arterials have some of the narrowest sidewalks in Denver. The percentages show how much of each corridor\u2019s sidewalks lack any buffer between pedestrians and traffic \u2014 on Leetsdale Dr, that\u2019s two-thirds. They are all part of the High Injury Network, where 50% of fatal crashes happen on just 5% of streets. 93 people died on Denver streets in 2025. 35 were pedestrians.',
+    bodyEs: 'Estas cuatro arterias tienen algunas de las aceras m\u00e1s estrechas de Denver. Los porcentajes muestran cu\u00e1nto de las aceras de cada corredor carecen de zona de protecci\u00f3n entre peatones y tr\u00e1fico \u2014 en Leetsdale Dr, son dos tercios. Todas son parte de la Red de Alto Riesgo, donde el 50% de los choques fatales ocurren en solo el 5% de las calles. 93 personas murieron en las calles de Denver en 2025.',
   },
   {
     heading: 'Where Kids Walk to School',

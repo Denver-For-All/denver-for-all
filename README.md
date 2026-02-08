@@ -6,7 +6,7 @@ A grassroots political platform and organizing toolkit for economic justice in D
 
 Denver For All is an open-source campaign framework that combines:
 
-- **40 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
+- **48 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
 - **Interactive tools** for holding power accountable (eviction tracker, campaign finance transparency, rent calculator, tenant rights chatbot)
 - **Organizing infrastructure** (volunteer signup, candidate recruitment, newsletter, Signal group, Resistbot petitions)
 - **Bilingual support** (English/Spanish)
@@ -47,7 +47,7 @@ Requires Node.js 18+.
 src/
   components/        Reusable UI components
   content/
-    policies/        40 policy documents (Markdown)
+    policies/        48 policy documents (Markdown)
     config.ts        Content collection schema
   i18n/              Translation strings (en.json, es.json)
   layouts/           Page layouts
@@ -116,6 +116,10 @@ Contributions are welcome. Areas where help is needed:
 | vAPI chatbot (est. 100 calls/month) | $300-720 |
 | **Total** | **$310-840/year** |
 
+## Support
+
+Denver For All is funded entirely by grassroots donations. No corporate money. See exactly where every dollar goes on our [Open Collective](https://opencollective.com/denver-for-all).
+
 ## License
 
-This project is open source. Policy content is public domain. Code is available for reuse by other movements and organizations.
+This project is licensed under the [MIT License](LICENSE). Policy content is public domain. Code and content are available for reuse by other movements and organizations.

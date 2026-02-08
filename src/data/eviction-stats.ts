@@ -36,6 +36,46 @@ export const courtOutcomes = {
   selfEvictionsPerCase: 2,
 };
 
+/**
+ * SB24-064 Dashboard Data (Colorado Judicial Branch)
+ * Data as of: 2/6/2026
+ * Source: app.powerbigov.us - Residential Eviction Data by Closure Date
+ */
+export const sb24064Data = {
+  dataAsOf: '2/6/2026',
+  closedCases: {
+    2024: 8028,
+    2025: 14653,
+  },
+  filingReasons: {
+    2024: { nonPayment: 21, leaseViolation: 8007 },
+    2025: { nonPayment: 58, leaseViolation: 14595 },
+  },
+  defendantAnswerFiled: {
+    2024: { yes: 1431, no: 6597 },
+    2025: { yes: 104, no: 14549 },
+  },
+  attorneyRepresentation: {
+    2024: {
+      plaintiff: { yes: 7768, no: 260, yesPct: 96.76 },
+      defendant: { yes: 7769, no: 259, yesPct: 96.77 },
+    },
+    2025: {
+      plaintiff: { yes: 14217, no: 436, yesPct: 97.02 },
+      defendant: { yes: 14221, no: 432, yesPct: 97.05 },
+    },
+  },
+  // Combined outcomes across 2024-2026 (~23,998 cases)
+  outcomes: {
+    stipulation: { yes: 25, no: 23973 },
+    dismissed: { yes: 12233, no: 11765 },
+    defaultJudgment: { yes: 6734, no: 17264 },
+    writOfRestitution: { yes: 12111, no: 11887 },
+    judgmentForPossession: { yes: 14781, no: 9217 },
+    total: 23998,
+  },
+};
+
 export const rentalAssistanceBudget = [
   { year: '2024', amount: 31.3, label: '$31.3M' },
   { year: '2025 (initial)', amount: 25.5, label: '$25.5M' },

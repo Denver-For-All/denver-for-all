@@ -21,8 +21,8 @@ const steps = [
   {
     heading: 'What Happens in Court',
     headingEs: 'Qu\u00e9 Pasa en la Corte',
-    body: 'When tenants get legal help, more than half avoid a judgment. Legal representation works. But in 2024, only 3,331 households received city-funded legal assistance \u2014 a fraction of the nearly 16,000 cases filed. On a single busy day, 230 households appeared in court. For every court case, an estimated 2 additional households self-evict before a hearing.',
-    bodyEs: 'Cuando los inquilinos reciben ayuda legal, m\u00e1s de la mitad evitan una sentencia. La representaci\u00f3n legal funciona. Pero en 2024, solo 3,331 hogares recibieron asistencia legal financiada por la ciudad \u2014 una fracci\u00f3n de los casi 16,000 casos presentados. En un solo d\u00eda ocupado, 230 hogares aparecieron en corte.',
+    body: 'Colorado\u2019s SB24-064 dashboard now tracks every eviction outcome. The numbers are stark: 62% of cases end with judgment for possession. 28% are default judgments \u2014 the tenant never showed up. In 2025, only 104 out of 14,653 defendants (0.7%) even filed an answer. Half of all cases result in a writ of restitution \u2014 a court order for the sheriff to physically remove the tenant. And 99.6% of filings are classified as \u201clease violation,\u201d not non-payment.',
+    bodyEs: 'El panel SB24-064 de Colorado ahora rastrea cada resultado de desalojo. Los n\u00fameros son contundentes: el 62% de los casos terminan con sentencia de posesi\u00f3n. El 28% son sentencias en rebeld\u00eda \u2014 el inquilino nunca se present\u00f3. En 2025, solo 104 de 14,653 demandados (0.7%) presentaron respuesta. La mitad de los casos resultan en una orden de restituci\u00f3n \u2014 una orden judicial para que el sheriff desaloje f\u00edsicamente al inquilino. Y el 99.6% de las demandas se clasifican como \u201cviolaci\u00f3n de contrato,\u201d no falta de pago.',
   },
   {
     heading: 'The Safety Net Collapses',

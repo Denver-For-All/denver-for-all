@@ -3,6 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import EmailCapture from '../../components/EmailCapture.astro';
 import PolicyActionScore from '../../components/PolicyActionScore.astro';
 import PolicyActionCTA from '../../components/PolicyActionCTA.astro';
+import DonationCTA from '../../components/DonationCTA.astro';
 import { Icon } from 'astro-icon/components';
 import { getCollection } from 'astro:content';
 
@@ -44,6 +45,8 @@ const hasCouncilChampion = !!policy.data.councilChampion;
       <div class="policy-content">
         <Content />
       </div>
+
+      <DonationCTA context="This policy analysis" />
 
       <footer class="policy-footer">
         <div class="policy-footer__action-grid">

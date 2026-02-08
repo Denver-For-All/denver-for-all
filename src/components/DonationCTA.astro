@@ -1,0 +1,102 @@
+---
+/**
+ * DonationCTA — contextual donation ask embedded on policy and tool pages.
+ * Shows a short message tying the page content to the cost of producing it,
+ * with a link to the Open Collective page.
+ */
+interface Props {
+  /** Short context string, e.g. "This policy analysis" or "This tool" */
+  context?: string;
+}
+
+const { context = 'This research' } = Astro.props;
+---
+
+<aside class="donation-cta" aria-label="Support this work">
+  <div class="donation-cta__inner">
+    <p class="donation-cta__text">
+      <strong data-en={`${context} was produced with grassroots donations.`} data-es={`${context} fue producido con donaciones comunitarias.`}>
+        {context} was produced with grassroots donations.
+      </strong>
+      <span data-en="Every dollar funds AI-powered research, free civic tools, and bilingual access for Denver residents." data-es="Cada dólar financia investigación impulsada por IA, herramientas cívicas gratuitas y acceso bilingüe para los residentes de Denver.">
+        Every dollar funds AI-powered research, free civic tools, and bilingual access for Denver residents.
+      </span>
+    </p>
+    <div class="donation-cta__actions">
+      <a href="https://opencollective.com/denver-for-all" target="_blank" rel="noopener" class="btn btn--primary btn--sm">
+        <span data-en="Support This Work" data-es="Apoya Este Trabajo">Support This Work</span>
+      </a>
+      <a href="https://opencollective.com/denver-for-all" target="_blank" rel="noopener" class="donation-cta__ledger">
+        <span data-en="See our public ledger →" data-es="Ver nuestro registro público →">See our public ledger →</span>
+      </a>
+    </div>
+  </div>
+</aside>
+
+<style>
+  .donation-cta {
+    margin-top: 2rem;
+    padding: 1.25rem 1.5rem;
+    background: linear-gradient(135deg, rgba(13, 115, 119, 0.06) 0%, rgba(30, 95, 166, 0.06) 100%);
+    border: 1px solid var(--color-border);
+    border-left: 4px solid var(--color-primary);
+    border-radius: var(--radius);
+  }
+
+  .donation-cta__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+
+  .donation-cta__text {
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .donation-cta__text strong {
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  .donation-cta__text span {
+    color: var(--color-text-muted);
+  }
+
+  .donation-cta__actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .btn--sm {
+    padding: 0.4rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  .donation-cta__ledger {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    white-space: nowrap;
+  }
+
+  @media (max-width: 640px) {
+    .donation-cta__inner {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .donation-cta__actions {
+      width: 100%;
+    }
+
+    .donation-cta__actions .btn {
+      width: 100%;
+    }
+  }
+</style>

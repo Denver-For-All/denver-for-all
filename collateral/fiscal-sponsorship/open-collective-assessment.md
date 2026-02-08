@@ -16,7 +16,7 @@ Open Collective with Open Source Collective as fiscal host is the right fit for 
 | Expense | Monthly Cost | What It Does |
 |---------|-------------|--------------|
 | Claude API tokens | $100–400 | AI-powered policy research, analysis, tool development |
-| Resistbot amplification | $0–100 | Petition campaign promotion and outreach |
+| Resistbot amplification | $0–100 | Petition campaigns — $1 per 40 residents contacted; $537 reaches 3% of Denver |
 | Data visualization tools | $0–50 | Better charts, maps, and interactive dashboards |
 | vAPI tenant chatbot | $25–60 | 24/7 English/Spanish tenant rights assistance |
 | Hosting upgrades | $0–50 | Database, workers, and storage for civic tools |
@@ -78,18 +78,46 @@ The public ledger actually makes compliance easier:
 3. Approval typically takes a few days
 4. Once approved, you can accept donations immediately
 
-### Step 3: Configure Donation Tiers (Day 3–5)
+### Step 3: Configure Donation Tiers in OpenCollective Dashboard
 
-| Type | Amount | Label |
-|------|--------|-------|
-| One-time | $10 | Sidewalk Fixer |
-| One-time | $25 | Tenant Defender |
-| One-time | $50 | Policy Builder |
-| One-time | $100 | Democracy Maker |
-| Monthly | $10/mo | Keep the Lights On |
-| Monthly | $25/mo | Research Sustainer |
-| Monthly | $50/mo | Core Supporter |
-| Custom | Any | Every dollar counts |
+Create the following tiers in the OpenCollective dashboard under **Collective Settings → Tiers**. Each tier should include the name, amount, frequency, description, and (where noted) a fundraising goal.
+
+#### One-Time Donation Tiers
+
+| Name | Amount | Description | Goal |
+|------|--------|-------------|------|
+| **Sidewalk Fixer** | $10 | Funds one detailed policy analysis on a Denver issue — from problem statement through evidence review to implementation pathway. | — |
+| **Tenant Defender** | $25 | Funds a full day of AI-powered research and civic tool development. Supports the eviction tracker, rent calculator, and tenant rights chatbot. | — |
+| **Policy Builder** | $50 | Funds professional Spanish translation of a flagship policy proposal, ensuring bilingual access for all Denver residents. | — |
+| **Democracy Maker** | $100 | Funds a week of expanded research, tool development, and community outreach — candidate trackers, campaign finance analysis, and Resistbot campaigns. | — |
+| **Movement Starter** | $250 | Funds a month of full-capacity policy research, civic tool development, bilingual translations, and grassroots organizing infrastructure. | — |
+| **City Changer** | $500 | Reaches nearly 3% of Denver through Resistbot petitions on a specific policy issue. At $1 per 40 messages, $500 puts a targeted petition in front of ~20,000 residents — the threshold where turnout shifts policy outcomes. | — |
+| **Custom Amount** | Any | Every dollar counts. Even $5 funds real research that supports real policy change. | — |
+
+#### Monthly (Recurring) Donation Tiers
+
+| Name | Amount | Description | Goal |
+|------|--------|-------------|------|
+| **Keep the Lights On** | $10/mo | Keeps the tenant rights chatbot answering calls in English and Spanish, 24/7. | 20 supporters |
+| **Research Sustainer** | $25/mo | Funds continuous policy research and civic tool development every month. | 10 supporters |
+| **Core Supporter** | $50/mo | Covers core AI research costs and bilingual translations. Ensures the platform runs at full capacity. | 5 supporters |
+| **Founding Sustainer** | $100/mo | Makes you a founding sustainer of Denver's grassroots policy infrastructure. Covers a full month of operations. | 3 supporters |
+
+#### Yearly Donation Tiers
+
+| Name | Amount | Description | Goal |
+|------|--------|-------------|------|
+| **Annual Supporter** | $120/yr | Equivalent to $10/month — sustain the platform for a full year with one contribution. | — |
+| **Annual Builder** | $300/yr | Equivalent to $25/month — a year of continuous research and tool development. | — |
+| **Annual Partner** | $600/yr | Equivalent to $50/month — a full year at core capacity. | — |
+
+#### Dashboard Configuration Notes
+
+- **Default tier:** Set "Tenant Defender" ($25 one-time) as the default/highlighted tier — it maps to a tangible output (one full day of research) at an accessible price point
+- **Custom amounts:** Enable custom amount donations with no minimum
+- **Tier images:** Use policy-relevant Denver photos (skyline, neighborhoods, civic tools screenshots)
+- **Goals:** Monthly tier goals are aspirational targets to show potential supporters how close the project is to sustainable recurring funding. 20 × $10 + 10 × $25 + 5 × $50 + 3 × $100 = $1,000/month, which exceeds the $200–800 operating range and provides a buffer for growth
+- **Thank-you message:** Customize the post-donation message (see `fundraising/donation-page-copy.md` for copy)
 
 ### Step 4: Add to DenverForAll.org
 

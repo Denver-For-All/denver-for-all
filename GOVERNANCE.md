@@ -18,9 +18,10 @@ Denver For All is a grassroots, open-source civic platform. It is fiscally hoste
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Dan Mchale | Project Lead | @dmchaledev |
+| Dan McHale | Project Lead | @dmchaledev |
+| Boden McHale | Owner | @BodenMcHale |
 
-We are actively seeking additional maintainers. If you are a regular contributor and want to take on a maintainer role, please reach out.
+We welcome additional maintainers. If you are a regular contributor and want to take on a maintainer role, please reach out.
 
 ## Decision-Making
 

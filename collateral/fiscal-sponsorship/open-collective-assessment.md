@@ -16,7 +16,7 @@ Open Collective with Open Source Collective as fiscal host is the right fit for 
 | Expense | Monthly Cost | What It Does |
 |---------|-------------|--------------|
 | Claude API tokens | $100–400 | AI-powered policy research, analysis, tool development |
-| Resistbot amplification | $0–100 | Petition campaign promotion and outreach |
+| Resistbot amplification | $0–100 | Petition campaigns — $1 per 40 residents contacted; $537 reaches 3% of Denver |
 | Data visualization tools | $0–50 | Better charts, maps, and interactive dashboards |
 | vAPI tenant chatbot | $25–60 | 24/7 English/Spanish tenant rights assistance |
 | Hosting upgrades | $0–50 | Database, workers, and storage for civic tools |
@@ -91,7 +91,7 @@ Create the following tiers in the OpenCollective dashboard under **Collective Se
 | **Policy Builder** | $50 | Funds professional Spanish translation of a flagship policy proposal, ensuring bilingual access for all Denver residents. | — |
 | **Democracy Maker** | $100 | Funds a week of expanded research, tool development, and community outreach — candidate trackers, campaign finance analysis, and Resistbot campaigns. | — |
 | **Movement Starter** | $250 | Funds a month of full-capacity policy research, civic tool development, bilingual translations, and grassroots organizing infrastructure. | — |
-| **City Changer** | $500 | Funds comprehensive research on a major policy area — deep, evidence-based analysis that gives council members and state legislators the confidence to act. | — |
+| **City Changer** | $500 | Reaches nearly 3% of Denver through Resistbot petitions on a specific policy issue. At $1 per 40 messages, $500 puts a targeted petition in front of ~20,000 residents — the threshold where turnout shifts policy outcomes. | — |
 | **Custom Amount** | Any | Every dollar counts. Even $5 funds real research that supports real policy change. | — |
 
 #### Monthly (Recurring) Donation Tiers

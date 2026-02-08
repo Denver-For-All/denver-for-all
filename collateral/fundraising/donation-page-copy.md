@@ -32,6 +32,23 @@ We accept no corporate money. We are funded entirely by people like you.
 
 ---
 
+## The Math: What a Dollar Does
+
+Denver has ~715,000 residents. Through Resistbot, we can deliver a targeted policy petition to 40 Denver residents for $1.
+
+| Donation | Residents Reached | % of Denver |
+|----------|-------------------|-------------|
+| $1 | 40 | 0.006% |
+| $25 | 1,000 | 0.14% |
+| $100 | 4,000 | 0.56% |
+| $250 | 10,000 | 1.4% |
+| $500 | 20,000 | 2.8% |
+| $537 | 21,450 | **3%** |
+
+Civic engagement research shows that when 3% of a population actively engages on a policy issue, outcomes shift. **$537 reaches that threshold for all of Denver on a single issue.** That means one motivated donor — or a handful of neighbors splitting the cost — can put a targeted petition in front of enough people to change the outcome.
+
+---
+
 ## Suggested Donation Tiers
 
 ### $10 — Sidewalk Fixer
@@ -50,7 +67,7 @@ Funds a week of expanded research, tool development, and community outreach — 
 Funds a month of full-capacity policy research, civic tool development, bilingual translations, and grassroots organizing infrastructure.
 
 ### $500 — City Changer
-Funds comprehensive research on a major policy area — the kind of deep, evidence-based analysis that gives council members, the mayor's office, and state legislators the confidence to act.
+Reaches nearly 3% of Denver's population through Resistbot petition campaigns on a specific policy issue. At $1 per 40 messages, $500 puts a targeted petition in front of ~20,000 Denver residents — the threshold where civic engagement research shows turnout starts to shift policy outcomes.
 
 ### Custom Amount
 Every dollar counts. Even $5 funds real research that supports real policy change.
@@ -107,31 +124,33 @@ Monthly and annual donors ensure we can plan ahead — developing tools, expandi
 ## Social Sharing Copy
 
 ### Twitter/X
-Fund evidence-based policy research for Denver. 47 proposals, 8 free civic tools, $0 corporate money. denverforall.org/donate
+$1 = 40 Denver residents contacted through Resistbot. $537 reaches 3% of the city — the threshold where policy outcomes shift. 47 proposals, 8 free civic tools, $0 corporate money. denverforall.org/donate
 
 ### Facebook/Instagram
-Denver For All built 47 policy proposals, 8 free civic tools, and a complete organizing playbook on under $840/year. Your donation funds AI-powered research, bilingual access, and grassroots organizing for working people in Denver. No corporate money. 100% open source. denverforall.org/donate
+For $1, we can deliver a policy petition to 40 Denver residents through Resistbot. For $537, we reach 3% of the city — the point where civic engagement research says outcomes start to change. Denver For All has 47 evidence-based policy proposals, 8 free civic tools, and a complete organizing playbook. No corporate money. 100% open source. Your donation turns research into reach. denverforall.org/donate
 
 ### Nextdoor
-Did you know 43% of Denver's sidewalks are missing or deficient? That rents are up 85% since 2010? That 85% of voters approved municipal broadband in 2018 and it still hasn't been built? Denver For All is doing the research and building the tools to change this. Support the work: denverforall.org/donate
+Did you know 43% of Denver's sidewalks are missing or deficient? That rents are up 85% since 2010? That 85% of voters approved municipal broadband in 2018 and it still hasn't been built? For $1 we can contact 40 of your neighbors about these issues through Resistbot. $537 reaches 3% of Denver — enough to shift policy outcomes. denverforall.org/donate
 
 ---
 
 ## Email Appeal (Newsletter)
 
-**Subject:** $25 funds a full day of policy research for Denver
+**Subject:** $1 reaches 40 Denver residents. $537 reaches 3% of the city.
 
 Denver For All has built something unusual — a complete civic platform with 47 evidence-based policy proposals and 8 free tools, all on less than $840/year.
 
 Here's what we've found: rents up 85% since 2010. 9,065 people homeless on any given night. $35.3 million in law enforcement settlements paid by taxpayers. 85% voted for municipal broadband in 2018 — still not built.
 
-We've done the research. We've built the tools. Now we need to scale.
+We've done the research. We've built the tools. Now we need to turn them into reach.
 
-Your donation directly funds the AI-powered research that produces policy proposals, the civic tools that hold power accountable, and the bilingual outreach that ensures every Denver resident can engage.
+Through Resistbot, we can deliver a targeted policy petition to 40 Denver residents for $1. That means $537 reaches 3% of Denver's population on a single issue — the threshold where civic engagement research shows policy outcomes start to shift.
 
-**$25 funds a full day of research.**
-**$100 funds a full week.**
-**$250 funds a full month.**
+**$25 contacts 1,000 residents.**
+**$100 contacts 4,000 residents.**
+**$500 contacts 20,000 residents — nearly 3% of Denver.**
+
+Your donation also funds the AI-powered research behind every petition, the civic tools that hold power accountable, and the bilingual outreach that ensures every Denver resident can engage.
 
 We accept no corporate money. We're funded entirely by people who believe Denver should work for everyone.
 

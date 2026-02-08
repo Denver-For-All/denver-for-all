@@ -123,10 +123,10 @@ To report a security vulnerability, see [SECURITY.md](SECURITY.md). Do not open 
 | Cloudflare Workers (free tier) | Free |
 | Email routing | Free |
 | EmailOctopus (up to 2,500 subscribers) | Free |
-| Claude API tokens (policy research & analysis) | $1,200-4,800 |
-| Resistbot amplification (petition campaigns) | $0-1,200 |
+| Claude API tokens (policy research & analysis) | $0-4,800 |
+| Resistbot amplification (petition campaigns) | $0-4,800 |
 | vAPI tenant chatbot (est. 20 calls/month) | $60-150 |
-| **Total** | **$1,270-6,162/year** |
+| **Total** | **$70-9,762/year** |
 
 ## Support
 

@@ -1,6 +1,8 @@
 ---
 title: "FEMA BRIC — Denver Climate Resilience Hubs & Green Infrastructure"
+titleEs: "FEMA BRIC — Centros de Resiliencia Climática e Infraestructura Verde de Denver"
 summary: "FEMA Building Resilient Infrastructure and Communities grant template for solar-powered resilience hubs, green stormwater infrastructure, and climate adaptation in Denver's most vulnerable neighborhoods."
+summaryEs: "Plantilla de subvención de FEMA para Construcción de Infraestructura y Comunidades Resilientes para centros de resiliencia con energía solar, infraestructura verde de aguas pluviales y adaptación climática en los vecindarios más vulnerables de Denver."
 policySlug: "emergency-preparedness"
 grantProgram: "Building Resilient Infrastructure and Communities (BRIC)"
 fundingAgency: "Federal Emergency Management Agency (FEMA)"

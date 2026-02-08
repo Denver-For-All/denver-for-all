@@ -44,6 +44,7 @@ const grants = defineCollection({
     title: z.string(),
     titleEs: z.string().optional(),
     summary: z.string(),
+    summaryEs: z.string().optional(),
     policySlug: z.string(),
     grantProgram: z.string(),
     fundingAgency: z.string(),
@@ -53,4 +54,9 @@ const grants = defineCollection({
   }),
 });
 
-export const collections = { policies, grants };
+const policiesEs = defineCollection({
+  type: 'content',
+  schema: z.object({}),
+});
+
+export const collections = { policies, grants, 'policies-es': policiesEs };

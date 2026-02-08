@@ -5,7 +5,7 @@ import PolicyActionScore from '../../components/PolicyActionScore.astro';
 import PolicyActionCTA from '../../components/PolicyActionCTA.astro';
 import DonationCTA from '../../components/DonationCTA.astro';
 import { Icon } from 'astro-icon/components';
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const policies = await getCollection('policies');
@@ -17,6 +17,17 @@ export async function getStaticPaths() {
 
 const { policy } = Astro.props;
 const { Content } = await policy.render();
+
+let ContentEs: (typeof Content) | null = null;
+try {
+  const policyEs = await getEntry('policies-es', policy.slug);
+  if (policyEs) {
+    const rendered = await policyEs.render();
+    ContentEs = rendered.Content;
+  }
+} catch {
+  // No Spanish translation available for this policy
+}
 
 const hasPetition = !!policy.data.petition;
 const hasFundingSources = policy.data.hasFundingSources;
@@ -58,9 +69,14 @@ const categoryEs = categoryMap[policy.data.category] || policy.data.category;
         </p>
       </header>
 
-      <div class="policy-content">
+      <div class="policy-content" data-lang="en">
         <Content />
       </div>
+      {ContentEs && (
+        <div class="policy-content" data-lang="es" style="display: none;">
+          <ContentEs />
+        </div>
+      )}
 
       <DonationCTA context="This policy analysis" contextEs="Este análisis de política" />
 

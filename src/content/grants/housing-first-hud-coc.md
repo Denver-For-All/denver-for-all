@@ -1,6 +1,8 @@
 ---
 title: "HUD Continuum of Care — Denver Housing First Permanent Supportive Housing"
+titleEs: "HUD Continuum of Care — Vivienda de Apoyo Permanente de Vivienda Primero en Denver"
 summary: "HUD CoC program grant template for 500 units of permanent supportive housing and rapid rehousing services to reduce chronic homelessness in Denver using the Housing First model."
+summaryEs: "Plantilla de subvención del programa HUD CoC para 500 unidades de vivienda de apoyo permanente y servicios de realojamiento rápido para reducir la falta de vivienda crónica en Denver utilizando el modelo de Vivienda Primero."
 policySlug: "housing-first"
 grantProgram: "Continuum of Care (CoC) Program"
 fundingAgency: "U.S. Department of Housing and Urban Development (HUD)"

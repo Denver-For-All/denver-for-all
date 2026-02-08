@@ -1,6 +1,8 @@
 ---
 title: "HSIP & Safe Streets for All — Denver Vision Zero Implementation"
+titleEs: "HSIP y Calles Seguras para Todos — Implementación de Visión Cero en Denver"
 summary: "Combined HSIP/SS4A implementation grant template for intersection redesign, protected bike lanes, and automated speed enforcement on Denver's High Injury Network."
+summaryEs: "Plantilla de subvención combinada HSIP/SS4A para el rediseño de intersecciones, ciclovías protegidas y control automatizado de velocidad en la Red de Alta Lesividad de Denver."
 policySlug: "transportation"
 grantProgram: "Highway Safety Improvement Program (HSIP) + Safe Streets for All (SS4A)"
 fundingAgency: "U.S. Department of Transportation (USDOT) / Federal Highway Administration (FHWA)"

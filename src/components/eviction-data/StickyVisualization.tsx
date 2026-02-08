@@ -6,6 +6,7 @@ import {
 import {
   annualFilings, prePandemicAvg, topNeighborhoods,
   courtOutcomes, rentalAssistanceBudget, nationalComparison,
+  sb24064Data,
 } from '../../data/eviction-stats';
 
 const C = {
@@ -117,21 +118,48 @@ function NeighborhoodChart({ locale }: { locale: string }) {
 }
 
 function CourtOutcomesChart({ locale }: { locale: string }) {
+  const o = sb24064Data.outcomes;
+  const possessionPct = Math.round((o.judgmentForPossession.yes / o.total) * 100);
+  const writPct = Math.round((o.writOfRestitution.yes / o.total) * 100);
+  const defaultPct = Math.round((o.defaultJudgment.yes / o.total) * 100);
+  const answerPct2025 = ((sb24064Data.defendantAnswerFiled[2025].yes /
+    (sb24064Data.defendantAnswerFiled[2025].yes + sb24064Data.defendantAnswerFiled[2025].no)) * 100).toFixed(1);
+
   const cards = [
     {
-      value: `${courtOutcomes.sheriffEnforcement2023}%`,
-      label: locale === 'es' ? 'resultan en ejecución del sheriff' : 'result in sheriff enforcement',
-      sub: locale === 'es' ? 'de los casos de desalojo (2023)' : 'of eviction cases (2023)',
+      value: `${possessionPct}%`,
+      label: locale === 'es' ? 'sentencia de posesión otorgada' : 'judgment for possession granted',
+      sub: locale === 'es'
+        ? `${o.judgmentForPossession.yes.toLocaleString()} de ${o.total.toLocaleString()} casos (2024–2026)`
+        : `${o.judgmentForPossession.yes.toLocaleString()} of ${o.total.toLocaleString()} cases (2024–2026)`,
       color: C.danger,
       bg: '#FDF2F2',
     },
     {
-      value: `${courtOutcomes.legalHelpAvoidJudgment}%+`,
-      label: locale === 'es' ? 'evitan sentencia con ayuda legal' : 'avoid judgment with legal help',
+      value: `${answerPct2025}%`,
+      label: locale === 'es' ? 'de inquilinos presentaron respuesta en 2025' : 'of tenants filed an answer in 2025',
       sub: locale === 'es'
-        ? `Pero solo ${courtOutcomes.householdsWithLegalHelp2024.toLocaleString()} hogares recibieron ayuda (2024)`
-        : `But only ${courtOutcomes.householdsWithLegalHelp2024.toLocaleString()} households got help (2024)`,
-      color: C.primary,
+        ? `Solo ${sb24064Data.defendantAnswerFiled[2025].yes} de ${sb24064Data.closedCases[2025].toLocaleString()} demandados respondieron`
+        : `Only ${sb24064Data.defendantAnswerFiled[2025].yes} of ${sb24064Data.closedCases[2025].toLocaleString()} defendants responded`,
+      color: C.accent,
+      bg: '#FFFBF0',
+    },
+    {
+      value: `${writPct}%`,
+      label: locale === 'es' ? 'orden de restitución emitida' : 'writ of restitution issued',
+      sub: locale === 'es'
+        ? `${o.writOfRestitution.yes.toLocaleString()} casos — el sheriff ejecuta el desalojo físico`
+        : `${o.writOfRestitution.yes.toLocaleString()} cases — sheriff enforces physical removal`,
+      color: C.secondary,
+      bg: C.bgAlt,
+    },
+    {
+      value: `${defaultPct}%`,
+      label: locale === 'es' ? 'sentencia en rebeldía' : 'default judgment',
+      sub: locale === 'es'
+        ? 'El inquilino no compareció — pierde automáticamente'
+        : 'Tenant didn\'t show up — automatic loss',
+      color: C.muted,
       bg: C.bgAlt,
     },
   ];
@@ -141,32 +169,32 @@ function CourtOutcomesChart({ locale }: { locale: string }) {
       <ChartTitle>
         {locale === 'es' ? 'Qué Pasa en la Corte' : 'What Happens in Court'}
       </ChartTitle>
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '1.25rem', marginTop: '1rem' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '0.5rem' }}>
         {cards.map((c, i) => (
           <div key={i} style={{
             display: 'flex', alignItems: 'baseline', gap: '1rem',
-            padding: '1.25rem', background: c.bg, borderRadius: 12,
+            padding: '1rem', background: c.bg, borderRadius: 12,
             borderLeft: `4px solid ${c.color}`,
           }}>
             <span style={{
-              fontSize: '2.5rem', fontWeight: 800, color: c.color,
+              fontSize: '2rem', fontWeight: 800, color: c.color,
               lineHeight: 1, fontFamily: 'Inter, system-ui, sans-serif', flexShrink: 0,
             }}>
               {c.value}
             </span>
             <div>
-              <div style={{ fontSize: '0.95rem', color: C.text, fontWeight: 600 }}>{c.label}</div>
-              <div style={{ fontSize: '0.85rem', color: C.textMuted, marginTop: '0.2rem' }}>{c.sub}</div>
+              <div style={{ fontSize: '0.9rem', color: C.text, fontWeight: 600 }}>{c.label}</div>
+              <div style={{ fontSize: '0.8rem', color: C.textMuted, marginTop: '0.2rem' }}>{c.sub}</div>
             </div>
           </div>
         ))}
       </div>
       <div style={{
-        textAlign: 'center', marginTop: '1rem', fontSize: '0.85rem', color: C.textMuted,
+        textAlign: 'center', marginTop: '0.5rem', fontSize: '0.75rem', color: C.textMuted,
       }}>
         {locale === 'es'
-          ? `En un solo día ocupado: ${courtOutcomes.casesOnBusyDay} hogares en corte`
-          : `On a single busy day: ${courtOutcomes.casesOnBusyDay} households in court`}
+          ? `Fuente: Panel SB24-064, datos al ${sb24064Data.dataAsOf}`
+          : `Source: SB24-064 Dashboard, data as of ${sb24064Data.dataAsOf}`}
       </div>
     </div>
   );

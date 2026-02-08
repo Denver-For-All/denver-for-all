@@ -90,3 +90,6 @@ The 50-unit threshold specifically targets institutional investors, not the pers
 
 **"What about apartment complexes?"**
 Large multifamily buildings (50+ units) are excluded from the acquisition ban because they've always been investor-owned. The focus is on 1-4 unit residential properties - the homes that families should be able to buy.
+
+**"Won't forced divestiture cause a fire sale that crashes property values?"**
+The 5-year divestiture timeline is deliberately long enough to prevent a fire sale. At Denver's current pace of home sales (~30,000 transactions per year in the metro area), the volume of institutional divestiture would represent a small fraction of total market activity. Corporate landlords in Denver hold thousands of units, not hundreds of thousands. The requirement to sell at independently appraised fair market value — not at distressed prices — prevents undercutting. And the right of first refusal for current tenants, community land trusts, and the Social Housing Authority ensures units go to mission-aligned buyers, not to the next corporate landlord in line. Berlin's expropriation process, voted on by 59% of residents in 2021, is proceeding on a similar multi-year timeline without market disruption.

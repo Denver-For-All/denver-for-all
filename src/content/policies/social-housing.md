@@ -101,3 +101,6 @@ The current cost of homelessness to Denver taxpayers is estimated at $40,000-60,
 
 **"Why not just give developers more incentives?"**
 We've tried that for 20 years. It has produced a fraction of the needed units, at higher per-unit costs, with expiring affordability periods. The private market builds housing to maximize profit, not to maximize housing. We need a public option.
+
+**"Where will 10,000 units go? What about neighborhood opposition?"**
+Social housing will be distributed across all Denver neighborhoods — including affluent ones — not concentrated in low-income areas. That was the mistake of mid-20th century American public housing and we won't repeat it. Vienna's model works precisely because public housing is everywhere: in wealthy districts, in commercial corridors, in transit-oriented developments. Denver already has hundreds of city-owned vacant parcels in every part of the city. The DSHA site selection process will prioritize proximity to transit, jobs, and schools — and will include mandatory community engagement. But "community engagement" is not a veto. The housing crisis affects the entire city, and every neighborhood must be part of the solution.

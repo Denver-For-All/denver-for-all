@@ -128,9 +128,10 @@ Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Tr
 
 ## What Funding Supports
 
-Every dollar donated to Denver For All directly supports:
-- **AI-powered policy research and analysis** — comprehensive, evidence-based policy proposals using the latest academic research, international case studies, and Denver-specific data
-- **Civic tool development** — interactive tools that empower residents and hold power accountable
+Every dollar donated to Denver For All directly supports hard costs — visible on our [Open Collective public ledger](https://opencollective.com/denver-for-all):
+- **AI-powered policy research** — Claude API tokens producing evidence-based policy proposals
+- **Resistbot amplification** — petition campaign promotion driving grassroots engagement with elected officials
+- **Data visualizations** — better charts, maps, and interactive dashboards for civic tools
+- **Tenant rights chatbot** — 24/7 English/Spanish voice AI tenant assistance
 - **Bilingual access** — Spanish translations ensuring all Denver residents can engage
-- **Grassroots organizing infrastructure** — outreach, direct action tools, and community engagement
-- **Candidate accountability** — tracking promises, votes, and campaign finance across every race
+- **Hosting and infrastructure** — keeping 8 civic tools and 47 policy proposals online

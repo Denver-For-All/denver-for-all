@@ -14,11 +14,14 @@ We are an unincorporated group of developers and researchers. **100% of your con
 
 **What your donations fund:**
 
-- **Research & Analysis Tools** — AI-powered policy research using Claude by Anthropic, producing evidence-based proposals grounded in academic literature, international case studies, and Denver-specific data
-- **Data Infrastructure** — API access, data processing, and storage for our eviction tracker, campaign finance tracker, and sidewalk data explorer
-- **Hosting & Platform** — Server costs to keep our 8 civic tools and 47 policy proposals online and accessible 24/7
-- **Bilingual Access** — Spanish translations ensuring 30% of Denver's population can engage with our research and tools
-- **Tenant Rights Chatbot** — Voice AI service powering our 24/7 English/Spanish tenant assistance line
+| Expense | What It Does |
+|---------|--------------|
+| **AI Research & Analysis** | Claude API tokens powering evidence-based policy research, data analysis, and civic tool development |
+| **Resistbot Amplification** | Petition campaign promotion driving grassroots engagement with elected officials |
+| **Data Visualizations** | Better charts, maps, and interactive dashboards for eviction data, campaign finance, and sidewalk safety |
+| **Tenant Rights Chatbot** | 24/7 English/Spanish voice AI tenant assistance line |
+| **Hosting & Infrastructure** | Database, servers, and storage keeping 8 civic tools and 47 policy proposals online |
+| **Bilingual Access** | Spanish translations ensuring 30% of Denver's population can engage with our research |
 
 **What your donations do NOT fund:**
 

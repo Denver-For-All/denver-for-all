@@ -1,6 +1,6 @@
-# Donation Page Copy — ActBlue / Givebutter
+# Donation Page Copy — Open Collective
 
-*Set up after fiscal sponsorship is active. Both platforms require 501(c)(3) status or fiscal sponsor.*
+*For the Open Collective page and embedded widgets on DenverForAll.org.*
 
 ---
 
@@ -68,7 +68,7 @@ A monthly donation keeps Denver For All's research and tools running year-round:
 - **$50/month** — Covers core AI research costs and bilingual translations
 - **$100/month** — Makes you a founding sustainer of Denver's grassroots policy infrastructure
 
-Monthly donors ensure we can plan ahead — applying for grants, developing tools, and organizing communities without gaps in capacity.
+Monthly donors ensure we can plan ahead — developing tools, expanding research, and organizing communities without gaps in capacity.
 
 ---
 
@@ -78,12 +78,15 @@ Monthly donors ensure we can plan ahead — applying for grants, developing tool
 
 | Category | % of Budget |
 |----------|-------------|
-| AI-Powered Policy Research & Analysis | 40% |
-| Civic Tool Development & Hosting | 20% |
-| Bilingual Translations | 15% |
-| Community Outreach & Organizing | 15% |
-| Fiscal Sponsor Administrative Fee | 8% |
+| AI-Powered Policy Research & Analysis (Claude API) | 40% |
+| Resistbot Amplification & Community Outreach | 15% |
+| Data Visualizations & Civic Tools | 15% |
+| Bilingual Translations | 10% |
+| Tenant Rights Chatbot (vAPI) | 8% |
+| Open Source Collective Fee | 10% |
 | Domain & Basic Infrastructure | 2% |
+
+**See exactly where every dollar goes:** [Open Collective Public Ledger](https://opencollective.com/denver-for-all)
 
 **Our Commitment:**
 - 100% open source — you can see exactly what your donation builds

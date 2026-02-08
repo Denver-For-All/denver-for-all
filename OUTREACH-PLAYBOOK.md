@@ -236,7 +236,7 @@ A self-post presenting original analysis or a compiled dataset with a clear take
 Case study format comparing Denver to a city that's implemented a policy you advocate for. Longmont broadband, Vienna social housing, Helsinki Housing First.
 
 **Type 3: AMA / Discussion Thread**
-"We built a policy platform for Denver covering 40+ proposals. AMA." This works best after you've established credibility through Type 1 and Type 2 posts.
+"We built a policy platform for Denver covering 45 proposals. AMA." This works best after you've established credibility through Type 1 and Type 2 posts.
 
 ### Sample Post: Data Drop (r/Denver)
 
@@ -256,7 +256,7 @@ Case study format comparing Denver to a city that's implemented a policy you adv
 >
 > Denver's current model is: spend half a million dollars per unit of public money, give it to a private developer, and get a temporarily affordable apartment that becomes luxury housing in 20 years.
 >
-> I'm part of a group that put together a full policy platform for Denver (denverforall.org) — the social housing proposal is one of 40+ policies. But the numbers above are just public data. Make of them what you will.
+> I'm part of a group that put together a full policy platform for Denver (denverforall.org) — the social housing proposal is one of 45 policies. But the numbers above are just public data. Make of them what you will.
 >
 > Happy to answer questions or get told why I'm wrong.
 

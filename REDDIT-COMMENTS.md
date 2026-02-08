@@ -48,7 +48,7 @@ Short comments for r/Denver, r/denverhousing, and similar. Tone: real person who
 
 **Context:** Thread about cost of living
 
-> MIT's Living Wage Calculator says a family of four in Denver needs $25-26/hr to survive (livingwage.mit.edu). Minimum wage is $18.29. That's a $7/hr gap between what people earn and what they need. Seven states already eliminated the tipped minimum wage entirely and their restaurant industries are fine. Denmark pays fast food workers $22/hr and a Big Mac costs 80 cents more. We act like paying people enough to live is some impossible radical idea when most of the developed world already does it.
+> MIT's Living Wage Calculator says a family of four in Denver needs $25-26/hr to survive (livingwage.mit.edu). Minimum wage is $18.81. That's a $7/hr gap between what people earn and what they need. Seven states already eliminated the tipped minimum wage entirely and their restaurant industries are fine. Denmark pays fast food workers $22/hr and a Big Mac costs 80 cents more. We act like paying people enough to live is some impossible radical idea when most of the developed world already does it.
 
 ---
 

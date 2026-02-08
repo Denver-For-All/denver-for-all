@@ -1,6 +1,6 @@
 # Denver For All -- Legislation Readiness Analysis
 
-Which of our 25 proposals could be filed immediately as Denver ordinances, and which require state/federal action?
+Which of our 45 proposals could be filed immediately as Denver ordinances, and which require state/federal action?
 
 ## Tier 1: File Tomorrow (City Council Ordinance, Clear Legal Authority)
 

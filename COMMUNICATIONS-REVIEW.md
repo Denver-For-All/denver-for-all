@@ -16,14 +16,16 @@ This is the second comprehensive audit of the Denver For All communications stra
 - 6 grant proposal templates anchored to specific policies
 
 **What still needs work:**
-1. Remaining FAQ gaps (2 policies still missing their most predictable objection)
+1. ~~Remaining FAQ gaps~~ **FIXED** — NIMBYism FAQ added to Social Housing, fire sale FAQ added to Corporate Landlord Ban, mortgage burden detail added to Rent Control
 2. Tool integration (tools are siloed; no cross-linking to policies or each other)
-3. Outreach materials reference "25 policies" throughout — need updating to 45
+3. ~~Outreach materials reference "25 policies"~~ **FIXED** — updated to 45 across LEGISLATION-READY, OUTREACH-PLAYBOOK
 4. Resistbot campaigns cover only 5 of 45 policies
 5. Anti-displacement policy appears incomplete (truncated file)
-6. Bilingual parity remains unresolved
+6. Bilingual parity partially resolved (UI/navigation translated; full policy content still English-only)
 7. Audience-specific messaging still not developed
 8. Contrast messaging exists in outreach docs but not in policies themselves
+9. ~~Stale minimum wage figures~~ **FIXED** — updated $18.29 → $18.81 across candidate tracker, mayoral tracker, Reddit comments
+10. Candidate tracker expanded from 2 to 9 districts plus At-Large seats (D2, D6, D7, D8, D9, D10, D11, At-Large, At-Large Seat B)
 
 This review covers five areas:
 1. **Scorecard: original gaps and their current status**
@@ -118,11 +120,13 @@ The policy pages themselves still do not name specific politicians. However, the
 
 **Remaining gap:** The Follow the Money tool tracks council votes and campaign contributions, but this data does not feed back into policy narratives. No policy page says "Council voted X on Y" or "Denver spent $Z on this contract." The dots remain unconnected for users who only read policy pages.
 
-### 1.8 Bilingual Parity (ORIGINAL: Missing — CURRENT: Still Missing)
+### 1.8 Bilingual Parity (ORIGINAL: Missing — CURRENT: Partially Resolved)
 
-This remains the largest unresolved gap from the original review. All 45 policies have Spanish titles and summaries in frontmatter, and the site UI is bilingual. But the full policy substance — the problem statements, solutions, evidence tables, and FAQs — remains English-only. For 30%+ of Denver's population, the substantive content is inaccessible.
+The site now includes a client-side translation system with a language toggle button in the header. When toggled to Spanish, all UI elements, navigation, policy titles, summaries, category labels, calls-to-action, and form elements switch to Spanish via `data-en`/`data-es` HTML attributes (~570+ translatable elements). User language preference persists across pages via `localStorage`.
 
-The Outreach Playbook identifies this gap and proposes a phased approach (5 flagship policies first), but there is no evidence that full translations have been completed.
+However, the full policy body content — problem statements, solutions, evidence tables, international comparisons, funding sections, and FAQs — remains English-only. Only the title (`titleEs`) and summary (`summaryEs`) from each policy's frontmatter are translated. A Spanish-speaking user can navigate the site fluently and understand what each policy is about at a summary level, but cannot access the substantive arguments, data, or evidence in Spanish.
+
+This is a significant improvement over the original review (which found zero Spanish content), but the core equity gap remains for the 30%+ of Denver's population who are primarily Spanish-speaking. The Outreach Playbook proposes translating 5 flagship policies in full — this remains the right priority.
 
 ---
 

@@ -4,7 +4,7 @@ Research into funding sources, coalition partners, and strategic allies that sup
 
 ## Our Funding Model
 
-Denver For All is fiscally hosted by [Open Source Collective](https://www.oscollective.org/) (OSC), a 501(c)(6) trade association. This means:
+Denver For All has applied for fiscal hosting through [Open Source Collective](https://www.oscollective.org/) (OSC), a 501(c)(6) trade association. **We are currently awaiting manual verification** — our GitHub repository has fewer than 100 stars, so automated verification was not available. Once approved, this means:
 
 - **Primary funding:** Grassroots donations through [Open Collective](https://opencollective.com/denver-for-all)
 - **Donations are not tax-deductible** — OSC is a 501(c)(6), not a 501(c)(3)
@@ -209,9 +209,9 @@ Denver For All uses Open Collective exclusively. These platforms are documented 
 
 ---
 
-## Current Status: Open Collective + Grassroots Donations
+## Current Status: Open Collective — Pending Verification
 
-Denver For All is live on [Open Collective](https://opencollective.com/denver-for-all) with [Open Source Collective](https://www.oscollective.org/) as fiscal host.
+Denver For All has applied to [Open Collective](https://opencollective.com/denver-for-all) with [Open Source Collective](https://www.oscollective.org/) as fiscal host. **Manual verification is pending** — automated verification requires 100+ GitHub stars, so we submitted a manual application. Once verified, donations and the public ledger will be fully active.
 
 ### Why This Model Works
 

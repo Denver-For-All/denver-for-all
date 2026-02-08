@@ -243,13 +243,17 @@ import Layout from '../../layouts/Layout.astro';
 
   document.getElementById('share-btn')?.addEventListener('click', async () => {
     const text = `If Denver had rent control, I'd save ${document.getElementById('monthly-savings')!.textContent} on rent. ${document.getElementById('total-savings')!.textContent?.replace(/<[^>]*>/g, '')}. See your savings: https://denverforall.org/tools/rent-calculator`;
-    if (navigator.share) {
-      await navigator.share({ text });
-    } else {
-      await navigator.clipboard.writeText(text);
-      const btn = document.getElementById('share-btn')!;
-      btn.textContent = '✓ Copied to clipboard!';
-      setTimeout(() => { btn.textContent = 'Share Your Results'; }, 2000);
+    try {
+      if (navigator.share) {
+        await navigator.share({ text });
+      } else {
+        await navigator.clipboard.writeText(text);
+        const btn = document.getElementById('share-btn')!;
+        btn.textContent = '\u2713 Copied to clipboard!';
+        setTimeout(() => { btn.textContent = 'Share Your Results'; }, 2000);
+      }
+    } catch (_) {
+      // User cancelled share or clipboard unavailable
     }
   });
 </script>

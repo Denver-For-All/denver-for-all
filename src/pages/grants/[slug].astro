@@ -273,12 +273,16 @@ const { Content } = await grant.render();
   document.getElementById('copy-grant')?.addEventListener('click', async () => {
     const content = document.getElementById('grant-content');
     if (content) {
-      await navigator.clipboard.writeText(content.innerText);
-      const btn = document.getElementById('copy-grant');
-      if (btn) {
-        const orig = btn.textContent;
-        btn.textContent = '\u2713 Copied!';
-        setTimeout(() => { btn.textContent = orig; }, 2000);
+      try {
+        await navigator.clipboard.writeText(content.innerText);
+        const btn = document.getElementById('copy-grant');
+        if (btn) {
+          const orig = btn.textContent;
+          btn.textContent = '\u2713 Copied!';
+          setTimeout(() => { btn.textContent = orig; }, 2000);
+        }
+      } catch (_) {
+        // Clipboard unavailable
       }
     }
   });

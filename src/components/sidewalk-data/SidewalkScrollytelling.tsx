@@ -10,7 +10,7 @@ export default function SidewalkScrollytelling() {
   const locale = useLocale();
 
   useEffect(() => {
-    let scroller: any;
+    let scroller: { setup: Function; resize: Function; destroy: Function } | undefined;
 
     async function init() {
       const scrollama = (await import('scrollama')).default;

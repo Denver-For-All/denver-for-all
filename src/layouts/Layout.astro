@@ -33,11 +33,29 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
     <title>{fullTitle}</title>
   </head>
   <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <Header />
-    <main>
+    <main id="main-content">
       <slot />
     </main>
     <Footer />
+    <style>
+      .skip-link {
+        position: absolute;
+        top: -100%;
+        left: 1rem;
+        z-index: 1000;
+        padding: 0.75rem 1.5rem;
+        background: var(--color-primary, #0D7377);
+        color: white;
+        border-radius: 0 0 8px 8px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      .skip-link:focus {
+        top: 0;
+      }
+    </style>
     <script>
       const saved = localStorage.getItem('dfa-locale');
       if (saved === 'es') {

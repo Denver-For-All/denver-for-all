@@ -14,9 +14,9 @@ import Layout from '../../layouts/Layout.astro';
 
   <section class="section">
     <div class="container container--narrow">
-      <!-- vAPI Chat Widget will be injected here -->
       <div class="chatbot-container" id="chatbot-app">
-        <div class="chatbot-placeholder">
+        <!-- Initial placeholder (hidden once chat or call starts) -->
+        <div class="chatbot-placeholder" id="chatbot-placeholder">
           <h2 data-en="Tenant Rights Assistant" data-es="Asistente de Derechos del Inquilino">Tenant Rights Assistant</h2>
           <p data-en="Ask about eviction, repairs, deposits, discrimination, lease issues, and more. Powered by Colorado tenant law and Denver municipal code." data-es="Pregunta sobre desalojos, reparaciones, depósitos, discriminación, problemas de arrendamiento y más. Basado en la ley de inquilinos de Colorado y el código municipal de Denver.">
             Ask about eviction, repairs, deposits, discrimination, lease issues, and more.
@@ -24,36 +24,65 @@ import Layout from '../../layouts/Layout.astro';
           </p>
 
           <div class="chatbot-options">
-            <button class="btn btn--primary btn--large" id="start-chat" data-en="Start Chat" data-es="Iniciar Chat">
+            <button class="btn btn--primary btn--large" id="start-chat" aria-label="Start text chat with tenant rights assistant" data-en="Start Chat" data-es="Iniciar Chat">
               Start Chat
             </button>
-            <button class="btn btn--secondary btn--large" id="start-call" data-en="Call Now (English)" data-es="Llamar Ahora (Inglés)">
+            <button class="btn btn--secondary btn--large" id="start-call" aria-label="Start voice call in English" data-en="Call Now (English)" data-es="Llamar Ahora (Inglés)">
               Call Now (English)
             </button>
-            <button class="btn btn--secondary btn--large" id="start-call-es" data-en="Llamar (Español)" data-es="Llamar (Español)">
+            <button class="btn btn--secondary btn--large" id="start-call-es" aria-label="Iniciar llamada en español" data-en="Llamar (Español)" data-es="Llamar (Español)">
               Llamar (Español)
             </button>
           </div>
 
-          <div class="call-status" id="call-status" style="display:none;">
+          <div class="call-status" id="call-status" style="display:none;" role="status" aria-live="polite">
             <p id="call-status-text"></p>
           </div>
 
           <div class="chatbot-topics">
             <h3 data-en="Common Questions" data-es="Preguntas Frecuentes">Common Questions</h3>
-            <div class="topic-chips">
-              <button class="topic-chip" data-en="My landlord is trying to evict me" data-es="Mi arrendador está tratando de desalojarme">My landlord is trying to evict me</button>
-              <button class="topic-chip" data-en="My apartment needs repairs" data-es="Mi apartamento necesita reparaciones">My apartment needs repairs</button>
-              <button class="topic-chip" data-en="I didn't get my deposit back" data-es="No me devolvieron mi depósito">I didn't get my deposit back</button>
-              <button class="topic-chip" data-en="My rent was raised unfairly" data-es="Me subieron el alquiler injustamente">My rent was raised unfairly</button>
-              <button class="topic-chip" data-en="I'm being discriminated against" data-es="Estoy siendo discriminado/a">I'm being discriminated against</button>
-              <button class="topic-chip" data-en="I need a lawyer" data-es="Necesito un abogado">I need a lawyer</button>
+            <div class="topic-chips" role="list">
+              <button class="topic-chip" role="listitem" data-en="My landlord is trying to evict me" data-es="Mi arrendador está tratando de desalojarme">My landlord is trying to evict me</button>
+              <button class="topic-chip" role="listitem" data-en="My apartment needs repairs" data-es="Mi apartamento necesita reparaciones">My apartment needs repairs</button>
+              <button class="topic-chip" role="listitem" data-en="I didn't get my deposit back" data-es="No me devolvieron mi depósito">I didn't get my deposit back</button>
+              <button class="topic-chip" role="listitem" data-en="My rent was raised unfairly" data-es="Me subieron el alquiler injustamente">My rent was raised unfairly</button>
+              <button class="topic-chip" role="listitem" data-en="I'm being discriminated against" data-es="Estoy siendo discriminado/a">I'm being discriminated against</button>
+              <button class="topic-chip" role="listitem" data-en="I need a lawyer" data-es="Necesito un abogado">I need a lawyer</button>
             </div>
           </div>
 
           <p class="chatbot-disclaimer" data-en="This tool provides general information, not legal advice. For urgent legal help, contact Colorado Legal Services at (303) 837-1321." data-es="Esta herramienta proporciona información general, no asesoramiento legal. Para ayuda legal urgente, contacta a Colorado Legal Services al (303) 837-1321.">
             This tool provides general information, not legal advice. For urgent legal help,
             contact Colorado Legal Services at (303) 837-1321.
+          </p>
+        </div>
+
+        <!-- Text chat interface (hidden initially) -->
+        <div class="chat-interface" id="chat-interface" hidden>
+          <div class="chat-header">
+            <h3 data-en="Tenant Rights Chat" data-es="Chat de Derechos del Inquilino">Tenant Rights Chat</h3>
+            <button class="chat-close" id="chat-close" aria-label="Close chat and return to menu">✕</button>
+          </div>
+          <div class="chat-messages" id="chat-messages" role="log" aria-live="polite" aria-label="Chat messages">
+            <!-- Messages rendered here by JS -->
+          </div>
+          <form class="chat-input-form" id="chat-form">
+            <label for="chat-input" class="sr-only">Type your question</label>
+            <input
+              type="text"
+              id="chat-input"
+              class="chat-input"
+              placeholder="Type your question..."
+              data-en-placeholder="Type your question..."
+              data-es-placeholder="Escribe tu pregunta..."
+              autocomplete="off"
+            />
+            <button type="submit" class="btn btn--primary chat-send" id="chat-send" aria-label="Send message">
+              <span data-en="Send" data-es="Enviar">Send</span>
+            </button>
+          </form>
+          <p class="chat-disclaimer" data-en="General information only, not legal advice. For urgent help call (303) 837-1321." data-es="Información general solamente, no asesoramiento legal. Para ayuda urgente llama al (303) 837-1321.">
+            General information only, not legal advice. For urgent help call (303) 837-1321.
           </p>
         </div>
       </div>
@@ -129,7 +158,7 @@ import Layout from '../../layouts/Layout.astro';
     color: var(--color-text-muted);
   }
 
-  .topic-chip:hover {
+  .topic-chip:hover, .topic-chip:focus-visible {
     background: var(--color-primary);
     color: white;
     border-color: var(--color-primary);
@@ -174,16 +203,293 @@ import Layout from '../../layouts/Layout.astro';
     border-color: #c53030 !important;
     color: white !important;
   }
+
+  /* --- Text Chat Interface --- */
+  .chat-interface {
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+  }
+
+  .chat-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .chat-header h3 {
+    font-size: 1.1rem;
+    margin: 0;
+    color: var(--color-primary);
+  }
+
+  .chat-close {
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    cursor: pointer;
+    color: var(--color-text-muted);
+    padding: 0.25rem 0.5rem;
+    border-radius: var(--radius);
+    transition: background 0.2s;
+  }
+
+  .chat-close:hover, .chat-close:focus-visible {
+    background: var(--color-bg-alt);
+    color: var(--color-text);
+  }
+
+  .chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .chat-messages :global(.chat-msg) {
+    max-width: 85%;
+    padding: 0.75rem 1rem;
+    border-radius: var(--radius-lg);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    word-wrap: break-word;
+  }
+
+  .chat-messages :global(.chat-msg--user) {
+    align-self: flex-end;
+    background: var(--color-primary);
+    color: white;
+    border-bottom-right-radius: 4px;
+  }
+
+  .chat-messages :global(.chat-msg--assistant) {
+    align-self: flex-start;
+    background: var(--color-bg-alt);
+    color: var(--color-text);
+    border-bottom-left-radius: 4px;
+  }
+
+  .chat-messages :global(.chat-msg--typing) {
+    align-self: flex-start;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .chat-input-form {
+    display: flex;
+    gap: 0.5rem;
+    padding: 1rem 1.5rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .chat-input {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--color-border);
+    border-radius: var(--radius);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    transition: border-color 0.2s;
+  }
+
+  .chat-input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+  }
+
+  .chat-send {
+    padding: 0.75rem 1.25rem;
+  }
+
+  .chat-disclaimer {
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+    text-align: center;
+    padding: 0.5rem 1.5rem 1rem;
+    margin: 0;
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
 </style>
 
-<!-- VAPI Tenant Rights Assistant Integration -->
+<!-- VAPI Voice + Text Chat Integration -->
 <script>
   (function() {
     var ASSISTANT_ID = 'cc8bd3ab-fa8e-4f15-b327-fc8e8098405a';
     var vapiInstance = null;
-    var callActive = false;
 
-    // Load VAPI SDK from CDN
+    // --- System prompt (matches vapi/assistant-config.json) ---
+    var SYSTEM_PROMPT = 'You are a tenant rights assistant for Denver For All, a grassroots organization fighting for housing justice in Denver, Colorado. You help Denver renters understand their rights under Colorado law and Denver municipal code.\n\n' +
+      'IMPORTANT GUIDELINES:\n' +
+      '- You provide GENERAL LEGAL INFORMATION, not legal advice. Always clarify this distinction.\n' +
+      '- Be warm, compassionate, and direct. Many people asking are scared or stressed.\n' +
+      '- If someone is in immediate danger of eviction (within 48 hours), direct them to Colorado Legal Services at (303) 837-1321 IMMEDIATELY.\n' +
+      '- Speak in plain language. Avoid legal jargon unless asked.\n' +
+      '- When unsure about a specific legal question, say so and refer to Colorado Legal Services or a tenant attorney.\n' +
+      '- Never discourage someone from seeking an attorney.\n\n' +
+      'KEY COLORADO TENANT RIGHTS:\n' +
+      '1. EVICTION: Landlord must serve written notice. For nonpayment: 10-day demand. Court filing required. Self-help eviction is ILLEGAL.\n' +
+      '2. SECURITY DEPOSITS: Must be returned within 60 days with itemized deductions. Wrongful withholding: treble damages.\n' +
+      '3. HABITABILITY: Landlord must maintain habitable conditions. Tenant can request repairs in writing.\n' +
+      '4. RETALIATION: Illegal for landlord to retaliate for exercising legal rights.\n' +
+      '5. DISCRIMINATION: Protected classes include race, color, religion, sex, disability, familial status, national origin. Denver adds sexual orientation, gender identity, source of income.\n' +
+      '6. RENT INCREASES: No rent control currently (state preemption). 21 days notice for month-to-month.\n\n' +
+      'EMERGENCY RESOURCES:\n' +
+      '- Colorado Legal Services: (303) 837-1321\n' +
+      '- Denver Tenant Hotline: 311\n' +
+      '- Colorado Coalition for the Homeless: (303) 293-2217\n' +
+      '- Denver Human Rights (discrimination): (720) 913-8400';
+
+    // --- Text chat state ---
+    var chatHistory = [];
+    var chatBusy = false;
+
+    // --- DOM elements ---
+    var placeholder = document.getElementById('chatbot-placeholder');
+    var chatInterface = document.getElementById('chat-interface');
+    var chatMessages = document.getElementById('chat-messages');
+    var chatForm = document.getElementById('chat-form');
+    var chatInput = document.getElementById('chat-input');
+    var chatClose = document.getElementById('chat-close');
+
+    // --- Text Chat Functions ---
+    function openChat(initialMessage) {
+      if (placeholder) placeholder.style.display = 'none';
+      if (chatInterface) chatInterface.hidden = false;
+      chatHistory = [];
+      if (chatMessages) chatMessages.innerHTML = '';
+
+      // Show initial assistant greeting
+      appendMessage('assistant', 'Hi! I\'m the Denver For All tenant rights assistant. I can help you understand your rights as a Denver renter. What\'s your situation?');
+
+      if (initialMessage) {
+        appendMessage('user', initialMessage);
+        sendToAssistant(initialMessage);
+      }
+
+      if (chatInput) chatInput.focus();
+    }
+
+    function closeChat() {
+      if (chatInterface) chatInterface.hidden = true;
+      if (placeholder) placeholder.style.display = '';
+      chatHistory = [];
+    }
+
+    function appendMessage(role, text) {
+      if (!chatMessages) return;
+      var div = document.createElement('div');
+      div.className = 'chat-msg chat-msg--' + role;
+      div.textContent = text;
+      chatMessages.appendChild(div);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+      return div;
+    }
+
+    function showTyping() {
+      return appendMessage('typing', 'Thinking...');
+    }
+
+    function removeTyping(el) {
+      if (el && el.parentNode) el.parentNode.removeChild(el);
+    }
+
+    async function sendToAssistant(userMessage) {
+      if (chatBusy) return;
+      chatBusy = true;
+
+      chatHistory.push({ role: 'user', content: userMessage });
+
+      var typingEl = showTyping();
+
+      try {
+        var messages = [{ role: 'system', content: SYSTEM_PROMPT }].concat(chatHistory);
+
+        var res = await fetch('https://api.openai.com/v1/chat/completions', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer ' + window.__DFA_CHAT_KEY
+          },
+          body: JSON.stringify({
+            model: 'gpt-4o-mini',
+            messages: messages,
+            max_tokens: 800,
+            temperature: 0.7
+          })
+        });
+
+        removeTyping(typingEl);
+
+        if (!res.ok) {
+          appendMessage('assistant', 'I\'m having trouble connecting right now. For immediate tenant rights help, please call Colorado Legal Services at (303) 837-1321 or Denver 311.');
+          chatBusy = false;
+          return;
+        }
+
+        var data = await res.json();
+        var reply = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
+
+        if (reply) {
+          chatHistory.push({ role: 'assistant', content: reply });
+          appendMessage('assistant', reply);
+        } else {
+          appendMessage('assistant', 'I couldn\'t generate a response. Please try rephrasing your question, or call Colorado Legal Services at (303) 837-1321.');
+        }
+      } catch (_err) {
+        removeTyping(typingEl);
+        appendMessage('assistant', 'Connection error. For immediate help, call Colorado Legal Services at (303) 837-1321.');
+      }
+
+      chatBusy = false;
+    }
+
+    // --- Chat event handlers ---
+    chatForm?.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var msg = chatInput?.value?.trim();
+      if (!msg || chatBusy) return;
+      chatInput.value = '';
+      appendMessage('user', msg);
+      sendToAssistant(msg);
+    });
+
+    chatClose?.addEventListener('click', closeChat);
+
+    // --- "Start Chat" button ---
+    document.getElementById('start-chat')?.addEventListener('click', function(e) {
+      e.preventDefault();
+      openChat();
+    });
+
+    // --- Topic chips open chat with pre-filled question ---
+    document.querySelectorAll('.topic-chip').forEach(function(chip) {
+      chip.addEventListener('click', function(e) {
+        e.preventDefault();
+        var question = chip.textContent?.trim();
+        if (question) openChat(question);
+      });
+    });
+
+    // --- Voice Call via VAPI SDK ---
     var script = document.createElement('script');
     script.src = 'https://cdn.jsdelivr.net/gh/VapiAI/html-script-tag@latest/dist/assets/index.js';
     script.defer = true;
@@ -226,9 +532,7 @@ import Layout from '../../layouts/Layout.astro';
       }
     };
 
-    // Helper: find and click the VAPI widget button
     function triggerVapiCall() {
-      // Try to find the VAPI floating button and click it
       var vapiBtn = document.querySelector('.vapi-btn') ||
                     document.querySelector('[id*="vapi"]') ||
                     document.querySelector('button[style*="position: fixed"]');
@@ -250,16 +554,13 @@ import Layout from '../../layouts/Layout.astro';
       }
     }
 
-    // Button handlers
     function handleCallClick(e) {
       e.preventDefault();
       if (!triggerVapiCall()) {
-        // Fallback if VAPI widget hasn't loaded
         showStatus(
           'Voice assistant is loading. If it does not connect, call Colorado Legal Services at (303) 837-1321 for immediate tenant rights help.',
           'connecting'
         );
-        // Retry after a short delay for SDK to load
         setTimeout(function() {
           if (!triggerVapiCall()) {
             showStatus(
@@ -271,13 +572,12 @@ import Layout from '../../layouts/Layout.astro';
       }
     }
 
-    document.getElementById('start-chat')?.addEventListener('click', handleCallClick);
     document.getElementById('start-call')?.addEventListener('click', handleCallClick);
     document.getElementById('start-call-es')?.addEventListener('click', handleCallClick);
-
-    // Topic chips trigger a call
-    document.querySelectorAll('.topic-chip').forEach(function(chip) {
-      chip.addEventListener('click', handleCallClick);
-    });
   })();
+</script>
+
+<!-- Chat API key injected from environment; falls back to a proxy you can set up -->
+<script define:vars={{ chatKey: import.meta.env.PUBLIC_OPENAI_API_KEY || '' }}>
+  window.__DFA_CHAT_KEY = chatKey;
 </script>

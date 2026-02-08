@@ -1,0 +1,180 @@
+---
+/**
+ * TransparencyDashboard — public spending transparency widget.
+ * Shows current month's budget breakdown with link to Open Collective ledger.
+ */
+---
+
+<section class="transparency" aria-label="Financial Transparency">
+  <div class="transparency__header">
+    <h3 data-en="Where Your Money Goes" data-es="A Dónde Va Tu Dinero">Where Your Money Goes</h3>
+    <a href="https://opencollective.com/denver-for-all" target="_blank" rel="noopener" class="transparency__ledger-link">
+      <span data-en="View full public ledger →" data-es="Ver registro público completo →">View full public ledger →</span>
+    </a>
+  </div>
+
+  <div class="transparency__bars">
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="AI Research & Analysis (Claude API)" data-es="Investigación y Análisis con IA (Claude API)">AI Research & Analysis (Claude API)</span>
+        <span class="transparency__pct">40%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill" style="width: 40%"></div>
+      </div>
+    </div>
+
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="Resistbot Amplification & Outreach" data-es="Amplificación de Resistbot y Alcance">Resistbot Amplification & Outreach</span>
+        <span class="transparency__pct">15%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill" style="width: 15%"></div>
+      </div>
+    </div>
+
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="Data Visualizations & Civic Tools" data-es="Visualizaciones de Datos y Herramientas Cívicas">Data Visualizations & Civic Tools</span>
+        <span class="transparency__pct">15%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill" style="width: 15%"></div>
+      </div>
+    </div>
+
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="Bilingual Translations" data-es="Traducciones Bilingües">Bilingual Translations</span>
+        <span class="transparency__pct">10%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill" style="width: 10%"></div>
+      </div>
+    </div>
+
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="Tenant Rights Chatbot (vAPI)" data-es="Chatbot de Derechos del Inquilino (vAPI)">Tenant Rights Chatbot (vAPI)</span>
+        <span class="transparency__pct">8%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill" style="width: 8%"></div>
+      </div>
+    </div>
+
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="Open Source Collective Fee" data-es="Tarifa de Open Source Collective">Open Source Collective Fee</span>
+        <span class="transparency__pct">10%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill transparency__fill--muted" style="width: 10%"></div>
+      </div>
+    </div>
+
+    <div class="transparency__item">
+      <div class="transparency__label">
+        <span data-en="Domain & Infrastructure" data-es="Dominio e Infraestructura">Domain & Infrastructure</span>
+        <span class="transparency__pct">2%</span>
+      </div>
+      <div class="transparency__bar">
+        <div class="transparency__fill transparency__fill--muted" style="width: 2%"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="transparency__footer">
+    <p data-en="No salaries. No corporate money. Every expense is public with receipts." data-es="Sin salarios. Sin dinero corporativo. Cada gasto es público con recibos.">
+      No salaries. No corporate money. Every expense is public with receipts.
+    </p>
+  </div>
+</section>
+
+<style>
+  .transparency {
+    padding: 1.5rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .transparency__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.25rem;
+  }
+
+  .transparency__header h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+
+  .transparency__ledger-link {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+
+  .transparency__bars {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .transparency__label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .transparency__pct {
+    font-weight: 700;
+    color: var(--color-primary);
+    font-size: 0.75rem;
+  }
+
+  .transparency__bar {
+    height: 8px;
+    background: var(--color-border);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .transparency__fill {
+    height: 100%;
+    background: var(--color-primary);
+    border-radius: 4px;
+    transition: width 0.6s ease;
+  }
+
+  .transparency__fill--muted {
+    background: var(--color-text-muted);
+    opacity: 0.4;
+  }
+
+  .transparency__footer {
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .transparency__footer p {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin: 0;
+    text-align: center;
+  }
+
+  @media (max-width: 640px) {
+    .transparency__header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }
+</style>

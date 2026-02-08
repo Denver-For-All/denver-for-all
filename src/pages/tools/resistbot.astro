@@ -467,6 +467,8 @@ import { Icon } from 'astro-icon/components';
             confirm.classList.add('show');
             setTimeout(function() { confirm.classList.remove('show'); }, 2000);
           }
+        }).catch(function() {
+          // Clipboard unavailable
         });
       }
     });

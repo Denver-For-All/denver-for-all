@@ -2,10 +2,22 @@ interface Env {
   RESEND_API_KEY: string;
 }
 
+const ALLOWED_ORIGINS = [
+  "https://denverforall.org",
+  "https://www.denverforall.org",
+  "http://localhost:4321",
+  "http://localhost:3000",
+];
+
+function getCorsOrigin(request: Request): string {
+  const origin = request.headers.get("Origin") || "";
+  return ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
+}
+
 export const onRequestPost: PagesFunction<Env> = async (context) => {
-  const origin = context.request.headers.get("Origin") || "";
+  const allowedOrigin = getCorsOrigin(context.request);
   const corsHeaders = {
-    "Access-Control-Allow-Origin": origin,
+    "Access-Control-Allow-Origin": allowedOrigin,
     "Access-Control-Allow-Methods": "POST, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type",
   };
@@ -20,7 +32,6 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     });
   }
 
-  // Basic email validation
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
     return new Response(JSON.stringify({ error: "Invalid email address" }), {
       status: 400,
@@ -66,8 +77,6 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     });
 
     if (!res.ok) {
-      const error = await res.text();
-      console.error("Resend API error:", error);
       return new Response(
         JSON.stringify({ error: "Failed to send confirmation email" }),
         {
@@ -81,8 +90,7 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
       status: 200,
       headers: { "Content-Type": "application/json", ...corsHeaders },
     });
-  } catch (err) {
-    console.error("Subscribe error:", err);
+  } catch (_err) {
     return new Response(JSON.stringify({ error: "Internal server error" }), {
       status: 500,
       headers: { "Content-Type": "application/json", ...corsHeaders },
@@ -91,11 +99,11 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
 };
 
 export const onRequestOptions: PagesFunction = async (context) => {
+  const allowedOrigin = getCorsOrigin(context.request);
   return new Response(null, {
     status: 204,
     headers: {
-      "Access-Control-Allow-Origin":
-        context.request.headers.get("Origin") || "",
+      "Access-Control-Allow-Origin": allowedOrigin,
       "Access-Control-Allow-Methods": "POST, OPTIONS",
       "Access-Control-Allow-Headers": "Content-Type",
     },

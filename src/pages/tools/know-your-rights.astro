@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import TenantRightsChat from '../../components/TenantRightsChat';
 ---
 
 <Layout title="Know Your Rights" description="24/7 AI-powered tenant rights assistant in English and Spanish.">
@@ -14,49 +15,32 @@ import Layout from '../../layouts/Layout.astro';
 
   <section class="section">
     <div class="container container--narrow">
-      <!-- vAPI Chat Widget will be injected here -->
-      <div class="chatbot-container" id="chatbot-app">
-        <div class="chatbot-placeholder">
-          <h2 data-en="Tenant Rights Assistant" data-es="Asistente de Derechos del Inquilino">Tenant Rights Assistant</h2>
-          <p data-en="Ask about eviction, repairs, deposits, discrimination, lease issues, and more. Powered by Colorado tenant law and Denver municipal code." data-es="Pregunta sobre desalojos, reparaciones, depósitos, discriminación, problemas de arrendamiento y más. Basado en la ley de inquilinos de Colorado y el código municipal de Denver.">
-            Ask about eviction, repairs, deposits, discrimination, lease issues, and more.
-            Powered by Colorado tenant law and Denver municipal code.
-          </p>
+      <div class="chatbot-intro">
+        <p data-en="Ask about eviction, repairs, deposits, discrimination, lease issues, and more. Powered by Colorado tenant law and Denver municipal code." data-es="Pregunta sobre desalojos, reparaciones, depósitos, discriminación, problemas de arrendamiento y más. Basado en la ley de inquilinos de Colorado y el código municipal de Denver.">
+          Ask about eviction, repairs, deposits, discrimination, lease issues, and more.
+          Powered by Colorado tenant law and Denver municipal code.
+        </p>
+      </div>
 
-          <div class="chatbot-options">
-            <button class="btn btn--primary btn--large" id="start-chat" data-en="Start Chat" data-es="Iniciar Chat">
-              Start Chat
-            </button>
-            <button class="btn btn--secondary btn--large" id="start-call" data-en="Call Now (English)" data-es="Llamar Ahora (Inglés)">
-              Call Now (English)
-            </button>
-            <button class="btn btn--secondary btn--large" id="start-call-es" data-en="Llamar (Español)" data-es="Llamar (Español)">
-              Llamar (Español)
-            </button>
-          </div>
-
-          <div class="call-status" id="call-status" style="display:none;">
-            <p id="call-status-text"></p>
-          </div>
-
-          <div class="chatbot-topics">
-            <h3 data-en="Common Questions" data-es="Preguntas Frecuentes">Common Questions</h3>
-            <div class="topic-chips">
-              <button class="topic-chip" data-en="My landlord is trying to evict me" data-es="Mi arrendador está tratando de desalojarme">My landlord is trying to evict me</button>
-              <button class="topic-chip" data-en="My apartment needs repairs" data-es="Mi apartamento necesita reparaciones">My apartment needs repairs</button>
-              <button class="topic-chip" data-en="I didn't get my deposit back" data-es="No me devolvieron mi depósito">I didn't get my deposit back</button>
-              <button class="topic-chip" data-en="My rent was raised unfairly" data-es="Me subieron el alquiler injustamente">My rent was raised unfairly</button>
-              <button class="topic-chip" data-en="I'm being discriminated against" data-es="Estoy siendo discriminado/a">I'm being discriminated against</button>
-              <button class="topic-chip" data-en="I need a lawyer" data-es="Necesito un abogado">I need a lawyer</button>
-            </div>
-          </div>
-
-          <p class="chatbot-disclaimer" data-en="This tool provides general information, not legal advice. For urgent legal help, contact Colorado Legal Services at (303) 837-1321." data-es="Esta herramienta proporciona información general, no asesoramiento legal. Para ayuda legal urgente, contacta a Colorado Legal Services al (303) 837-1321.">
-            This tool provides general information, not legal advice. For urgent legal help,
-            contact Colorado Legal Services at (303) 837-1321.
-          </p>
+      <div class="chatbot-topics">
+        <h3 data-en="Common Questions" data-es="Preguntas Frecuentes">Common Questions</h3>
+        <div class="topic-chips" role="list">
+          <span class="topic-chip" role="listitem" data-en="My landlord is trying to evict me" data-es="Mi arrendador está tratando de desalojarme">My landlord is trying to evict me</span>
+          <span class="topic-chip" role="listitem" data-en="My apartment needs repairs" data-es="Mi apartamento necesita reparaciones">My apartment needs repairs</span>
+          <span class="topic-chip" role="listitem" data-en="I didn't get my deposit back" data-es="No me devolvieron mi depósito">I didn't get my deposit back</span>
+          <span class="topic-chip" role="listitem" data-en="My rent was raised unfairly" data-es="Me subieron el alquiler injustamente">My rent was raised unfairly</span>
+          <span class="topic-chip" role="listitem" data-en="I'm being discriminated against" data-es="Estoy siendo discriminado/a">I'm being discriminated against</span>
+          <span class="topic-chip" role="listitem" data-en="I need a lawyer" data-es="Necesito un abogado">I need a lawyer</span>
         </div>
       </div>
+
+      <!-- vAPI hybrid widget: text chat + voice in one -->
+      <TenantRightsChat client:only="react" />
+
+      <p class="chatbot-disclaimer" data-en="This tool provides general information, not legal advice. For urgent legal help, contact Colorado Legal Services at (303) 837-1321." data-es="Esta herramienta proporciona información general, no asesoramiento legal. Para ayuda legal urgente, contacta a Colorado Legal Services al (303) 837-1321.">
+        This tool provides general information, not legal advice. For urgent legal help,
+        contact Colorado Legal Services at (303) 837-1321.
+      </p>
     </div>
   </section>
 </Layout>
@@ -70,37 +54,19 @@ import Layout from '../../layouts/Layout.astro';
   .hero-mini h1 { color: white; margin-bottom: 1rem; }
   .hero-mini p { font-size: 1.15rem; opacity: 0.9; }
 
-  .chatbot-container {
-    min-height: 600px;
-  }
-
-  .chatbot-placeholder {
+  .chatbot-intro {
     text-align: center;
-    padding: 3rem;
-    background: var(--color-bg-card);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-lg);
+    margin-bottom: 2rem;
   }
 
-  .chatbot-placeholder h2 {
-    margin-bottom: 0.75rem;
-  }
-
-  .chatbot-placeholder > p {
+  .chatbot-intro p {
     color: var(--color-text-muted);
     max-width: 500px;
-    margin: 0 auto 2rem;
-  }
-
-  .chatbot-options {
-    display: flex;
-    gap: 0.75rem;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-bottom: 2.5rem;
+    margin: 0 auto;
   }
 
   .chatbot-topics {
+    text-align: center;
     margin-bottom: 2rem;
   }
 
@@ -123,161 +89,16 @@ import Layout from '../../layouts/Layout.astro';
     border-radius: 20px;
     padding: 0.5rem 1rem;
     font-size: 0.85rem;
-    font-family: var(--font-sans);
-    cursor: pointer;
-    transition: all 0.2s;
     color: var(--color-text-muted);
-  }
-
-  .topic-chip:hover {
-    background: var(--color-primary);
-    color: white;
-    border-color: var(--color-primary);
   }
 
   .chatbot-disclaimer {
     font-size: 0.8rem;
     color: var(--color-text-light);
     max-width: 500px;
-    margin: 0 auto;
+    margin: 2rem auto 0;
     padding-top: 1rem;
     border-top: 1px solid var(--color-border);
-  }
-
-  .call-status {
-    padding: 1rem;
-    border-radius: var(--radius-lg);
-    margin-bottom: 1.5rem;
-    font-size: 0.9rem;
-  }
-
-  .call-status.status--connecting {
-    background: #e8f4f8;
-    color: var(--color-secondary);
-    border: 1px solid var(--color-secondary);
-  }
-
-  .call-status.status--active {
-    background: #e8f8e8;
-    color: #2d7a2d;
-    border: 1px solid #2d7a2d;
-  }
-
-  .call-status.status--error {
-    background: #fde8e8;
-    color: #c53030;
-    border: 1px solid #c53030;
-  }
-
-  .btn--call-active {
-    background: #c53030 !important;
-    border-color: #c53030 !important;
-    color: white !important;
+    text-align: center;
   }
 </style>
-
-<!-- VAPI Tenant Rights Assistant Integration -->
-<script>
-  (function() {
-    var ASSISTANT_ID = 'cc8bd3ab-fa8e-4f15-b327-fc8e8098405a';
-    var vapiInstance = null;
-    var callActive = false;
-
-    // Load VAPI SDK from CDN
-    var script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/gh/VapiAI/html-script-tag@latest/dist/assets/index.js';
-    script.defer = true;
-    script.async = true;
-    document.head.appendChild(script);
-
-    script.onload = function() {
-      if (window.vapiSDK) {
-        vapiInstance = window.vapiSDK.run({
-          apiKey: '681f6772-b3b2-4ab1-a90b-81670bc5ed31',
-          assistant: ASSISTANT_ID,
-          config: {
-            position: 'bottom-right',
-            offset: '40px',
-            width: '50px',
-            height: '50px',
-            idle: {
-              color: 'rgb(13, 115, 119)',
-              type: 'pill',
-              title: 'Tenant Rights',
-              subtitle: 'Tap to talk',
-              icon: 'https://unpkg.com/lucide-static@0.321.0/icons/phone.svg',
-            },
-            loading: {
-              color: 'rgb(30, 95, 166)',
-              type: 'pill',
-              title: 'Connecting...',
-              subtitle: 'Please wait',
-              icon: 'https://unpkg.com/lucide-static@0.321.0/icons/loader-2.svg',
-            },
-            active: {
-              color: 'rgb(220, 60, 60)',
-              type: 'pill',
-              title: 'Call Active',
-              subtitle: 'Tap to end',
-              icon: 'https://unpkg.com/lucide-static@0.321.0/icons/phone-off.svg',
-            },
-          },
-        });
-      }
-    };
-
-    // Helper: find and click the VAPI widget button
-    function triggerVapiCall() {
-      // Try to find the VAPI floating button and click it
-      var vapiBtn = document.querySelector('.vapi-btn') ||
-                    document.querySelector('[id*="vapi"]') ||
-                    document.querySelector('button[style*="position: fixed"]');
-      if (vapiBtn) {
-        vapiBtn.click();
-        showStatus('Connecting to tenant rights assistant...', 'connecting');
-        return true;
-      }
-      return false;
-    }
-
-    function showStatus(msg, type) {
-      var statusEl = document.getElementById('call-status');
-      var textEl = document.getElementById('call-status-text');
-      if (statusEl && textEl) {
-        textEl.textContent = msg;
-        statusEl.className = 'call-status status--' + type;
-        statusEl.style.display = msg ? 'block' : 'none';
-      }
-    }
-
-    // Button handlers
-    function handleCallClick(e) {
-      e.preventDefault();
-      if (!triggerVapiCall()) {
-        // Fallback if VAPI widget hasn't loaded
-        showStatus(
-          'Voice assistant is loading. If it does not connect, call Colorado Legal Services at (303) 837-1321 for immediate tenant rights help.',
-          'connecting'
-        );
-        // Retry after a short delay for SDK to load
-        setTimeout(function() {
-          if (!triggerVapiCall()) {
-            showStatus(
-              'For immediate tenant rights help, call Colorado Legal Services at (303) 837-1321. You can also call Denver 311 for city services.',
-              'error'
-            );
-          }
-        }, 3000);
-      }
-    }
-
-    document.getElementById('start-chat')?.addEventListener('click', handleCallClick);
-    document.getElementById('start-call')?.addEventListener('click', handleCallClick);
-    document.getElementById('start-call-es')?.addEventListener('click', handleCallClick);
-
-    // Topic chips trigger a call
-    document.querySelectorAll('.topic-chip').forEach(function(chip) {
-      chip.addEventListener('click', handleCallClick);
-    });
-  })();
-</script>

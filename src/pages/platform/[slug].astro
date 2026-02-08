@@ -180,12 +180,16 @@ const hasCouncilChampion = !!policy.data.councilChampion;
 
 <script>
   document.getElementById('copy-link')?.addEventListener('click', async () => {
-    await navigator.clipboard.writeText(window.location.href);
-    const btn = document.getElementById('copy-link');
-    if (btn) {
-      const orig = btn.textContent;
-      btn.textContent = '✓ Copied!';
-      setTimeout(() => { btn.textContent = orig; }, 2000);
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      const btn = document.getElementById('copy-link');
+      if (btn) {
+        const orig = btn.textContent;
+        btn.textContent = '\u2713 Copied!';
+        setTimeout(() => { btn.textContent = orig; }, 2000);
+      }
+    } catch (_) {
+      // Clipboard unavailable
     }
   });
 </script>

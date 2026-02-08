@@ -11,11 +11,12 @@ export const locale = atom<Locale>('en');
 export function t(key: string, lang?: Locale): string {
   const l = lang ?? locale.get();
   const keys = key.split('.');
-  let value: any = translations[l];
+  let value: Record<string, unknown> | string | undefined = translations[l] as Record<string, unknown>;
   for (const k of keys) {
-    value = value?.[k];
+    if (value == null || typeof value !== 'object') break;
+    value = (value as Record<string, unknown>)[k] as Record<string, unknown> | string | undefined;
   }
-  return (value as string) ?? key;
+  return (typeof value === 'string' ? value : undefined) ?? key;
 }
 
 export function toggleLocale(): void {

@@ -243,7 +243,15 @@ p {
   color: var(--color-text-muted);
 }
 
-/* Language-driven content switching */
+/* Language-driven content switching.
+ * These CSS rules are the SOLE mechanism for showing/hiding data-lang
+ * content blocks. JavaScript must NEVER set inline style.display on
+ * data-lang elements — doing so overrides these rules permanently and
+ * breaks toggling. The JS toggle only sets document.documentElement.lang. */
+[data-lang="en"] {
+  display: block;
+}
+
 [data-lang="es"] {
   display: none;
 }

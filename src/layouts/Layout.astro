@@ -31,6 +31,11 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
     <meta property="og:site_name" content="Denver For All" />
     <meta name="twitter:card" content="summary_large_image" />
     <title>{fullTitle}</title>
+    <script is:inline>
+      if (localStorage.getItem('dfa-locale') === 'es') {
+        document.documentElement.lang = 'es';
+      }
+    </script>
   </head>
   <body>
     <a href="#main-content" class="skip-link" data-en="Skip to main content" data-es="Ir al contenido principal">Skip to main content</a>
@@ -75,12 +80,6 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
           if (esPlaceholder && el instanceof HTMLInputElement) {
             el.placeholder = esPlaceholder;
           }
-        });
-        document.querySelectorAll('[data-lang="en"]').forEach(el => {
-          (el as HTMLElement).style.display = 'none';
-        });
-        document.querySelectorAll('[data-lang="es"]').forEach(el => {
-          (el as HTMLElement).style.display = '';
         });
       }
     </script>

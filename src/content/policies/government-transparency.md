@@ -14,6 +14,23 @@ petition:
   title: "Demand Denver Charter Reform"
   titleEs: "Exigir Reforma de la Carta de Denver"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-071"
+    title: "Use of Surveillance Technology by Law Enforcement"
+    status: "Introduced - Assigned to Judiciary"
+    url: "https://leg.colorado.gov/bills/sb26-071"
+  - billNumber: "SB26-070"
+    title: "Ban Government Access Historical Location Information Database"
+    status: "Introduced - Assigned to Judiciary"
+    url: "https://leg.colorado.gov/bills/sb26-070"
+  - billNumber: "HB26-1037"
+    title: "Ban Government Purchase of Personal Data from Third Party"
+    status: "Introduced - Assigned to Judiciary"
+    url: "https://leg.colorado.gov/bills/hb26-1037"
+  - billNumber: "HB26-1084"
+    title: "Voter Transparency in Ballot Measures"
+    status: "Introduced - Assigned to State, Civic, Military, & Veterans Affairs"
+    url: "https://leg.colorado.gov/bills/hb26-1084"
 ---
 
 ## The Problem

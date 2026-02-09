@@ -9,6 +9,15 @@ order: 70
 status: "draft"
 actionTarget: "state"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1063"
+    title: "Treating People with Behavioral Health Disorder"
+    status: "Introduced - Assigned to Health & Human Services"
+    url: "https://leg.colorado.gov/bills/hb26-1063"
+  - billNumber: "HB26-1020"
+    title: "Colorimetric Field Drug Tests in Drug Possessions"
+    status: "Referred from Judiciary to House Committee of the Whole (amended)"
+    url: "https://leg.colorado.gov/bills/hb26-1020"
 ---
 
 ## The Problem

@@ -10,6 +10,15 @@ status: "draft"
 actionTarget: "mayor"
 grantProposal: "emergency-preparedness-fema-bric"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-049"
+    title: "Homeowner Natural Disaster Mitigation"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/sb26-049"
+  - billNumber: "HB26-1051"
+    title: "Continue Microgrid Community Resilience Grant Program"
+    status: "Referred from Energy & Environment to Appropriations"
+    url: "https://leg.colorado.gov/bills/hb26-1051"
 ---
 
 ## The Problem

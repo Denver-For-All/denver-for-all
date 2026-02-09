@@ -9,6 +9,11 @@ order: 40
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-005"
+    title: "Rights Violation in Immigration Enforcement Remedy"
+    status: "Referred from Judiciary to Appropriations (amended)"
+    url: "https://leg.colorado.gov/bills/sb26-005"
 ---
 
 ## The Problem

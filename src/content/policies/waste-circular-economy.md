@@ -9,6 +9,15 @@ order: 31
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-003"
+    title: "End-of-Life Management of Electric Vehicle Batteries"
+    status: "Introduced - Assigned to Transportation & Energy"
+    url: "https://leg.colorado.gov/bills/sb26-003"
+  - billNumber: "HB26-1111"
+    title: "Pesticide Product Disposal & Container Recycling"
+    status: "Introduced - Assigned to Agriculture, Water & Natural Resources"
+    url: "https://leg.colorado.gov/bills/hb26-1111"
 ---
 
 ## The Problem

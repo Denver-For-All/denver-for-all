@@ -33,6 +33,7 @@ const hasPetition = !!policy.data.petition;
 const hasFundingSources = policy.data.hasFundingSources;
 const hasGrantProposal = !!policy.data.grantProposal;
 const hasCouncilChampion = !!policy.data.councilChampion;
+const relatedLegislation = policy.data.relatedLegislation || [];
 
 const categoryMap: Record<string, string> = {
   housing: 'Vivienda y Personas sin Hogar',
@@ -75,6 +76,37 @@ const categoryEs = categoryMap[policy.data.category] || policy.data.category;
       {ContentEs && (
         <div class="policy-content" data-lang="es">
           <ContentEs />
+        </div>
+      )}
+
+      {relatedLegislation.length > 0 && (
+        <div class="related-legislation">
+          <h2 data-en="Related State Legislation" data-es="Legislación Estatal Relacionada">Related State Legislation</h2>
+          <p class="related-legislation__intro" data-en="These bills in the Colorado General Assembly (2026 session) align with this policy proposal. Contact your state legislators to voice support." data-es="Estos proyectos de ley en la Asamblea General de Colorado (sesión 2026) se alinean con esta propuesta de política. Contacta a tus legisladores estatales para expresar tu apoyo.">
+            These bills in the Colorado General Assembly (2026 session) align with this policy proposal. Contact your state legislators to voice support.
+          </p>
+          <div class="legislation-cards">
+            {relatedLegislation.map((bill) => (
+              <div class="legislation-card">
+                <div class="legislation-card__header">
+                  <span class="legislation-card__number">{bill.billNumber}</span>
+                  <span class="legislation-card__session">{bill.session}</span>
+                </div>
+                <h3 class="legislation-card__title">{bill.title}</h3>
+                <p class="legislation-card__status">
+                  <Icon name="lucide:clock" size={14} />
+                  {bill.status}
+                </p>
+                <div class="legislation-card__actions">
+                  {bill.url && (
+                    <a href={bill.url} target="_blank" rel="noopener" class="btn btn--secondary btn--sm" data-en="Track Bill" data-es="Seguir Proyecto">Track Bill</a>
+                  )}
+                  <a href="/tools/resistbot" class="btn btn--primary btn--sm" data-en="Take Action" data-es="Actúa">Take Action</a>
+                </div>
+              </div>
+            ))}
+          </div>
+          <a href="/tools/sponsor-tracker" class="related-legislation__more" data-en="View all aligned sponsors →" data-es="Ver todos los patrocinadores alineados →">View all aligned sponsors →</a>
         </div>
       )}
 
@@ -204,6 +236,97 @@ const categoryEs = categoryMap[policy.data.category] || policy.data.category;
     gap: 0.75rem;
     justify-content: center;
     flex-wrap: wrap;
+  }
+
+  .related-legislation {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .related-legislation h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  .related-legislation__intro {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .legislation-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  .legislation-card {
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+
+  .legislation-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .legislation-card__number {
+    font-family: var(--font-mono, monospace);
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--color-primary);
+  }
+
+  .legislation-card__session {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    letter-spacing: 0.03em;
+  }
+
+  .legislation-card__title {
+    font-size: 0.9rem;
+    margin: 0 0 0.5rem;
+    line-height: 1.4;
+  }
+
+  .legislation-card__status {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+  }
+
+  .legislation-card__actions {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .btn--sm {
+    font-size: 0.75rem;
+    padding: 0.35rem 0.75rem;
+  }
+
+  .related-legislation__more {
+    display: block;
+    text-align: center;
+    margin-top: 1.25rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
   }
 
   @media (max-width: 768px) {

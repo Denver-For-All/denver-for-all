@@ -9,6 +9,15 @@ order: 77
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1119"
+    title: "Authority for Different Mill Levy Rates"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/hb26-1119"
+  - billNumber: "SB26-042"
+    title: "Revenue Classification Taxpayers Bill of Rights"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/sb26-042"
 ---
 
 ## The Problem

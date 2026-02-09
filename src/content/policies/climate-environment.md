@@ -9,6 +9,23 @@ order: 30
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-022"
+    title: "Challenges Meeting 2030 Emissions Reduction Goals"
+    status: "Introduced - Assigned to Transportation & Energy"
+    url: "https://leg.colorado.gov/bills/sb26-022"
+  - billNumber: "HB26-1081"
+    title: "Optimize Colorado Electric Transmission System"
+    status: "Introduced - Assigned to Energy & Environment"
+    url: "https://leg.colorado.gov/bills/hb26-1081"
+  - billNumber: "SB26-016"
+    title: "Prohibit Discharge Preproduction Plastic Materials"
+    status: "Referred from Transportation & Energy to Senate Committee of the Whole"
+    url: "https://leg.colorado.gov/bills/sb26-016"
+  - billNumber: "HB26-1121"
+    title: "Public Accessibility of Emissions Records"
+    status: "Introduced - Assigned to Energy & Environment"
+    url: "https://leg.colorado.gov/bills/hb26-1121"
 ---
 
 ## The Problem

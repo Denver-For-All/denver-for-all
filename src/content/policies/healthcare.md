@@ -9,6 +9,23 @@ order: 20
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-008"
+    title: "Mental Health Access"
+    status: "Introduced - Assigned to Health & Human Services"
+    url: "https://leg.colorado.gov/bills/sb26-008"
+  - billNumber: "HB26-1002"
+    title: "Provider Participation in Health Insurance"
+    status: "Introduced - Assigned to Health & Human Services"
+    url: "https://leg.colorado.gov/bills/hb26-1002"
+  - billNumber: "HB26-1096"
+    title: "Colorado Medicaid Access to Primary Care Services"
+    status: "Introduced - Assigned to Health & Human Services"
+    url: "https://leg.colorado.gov/bills/hb26-1096"
+  - billNumber: "SB26-041"
+    title: "Consumer Protections Medical Care Entities"
+    status: "Introduced - Assigned to Health & Human Services"
+    url: "https://leg.colorado.gov/bills/sb26-041"
 ---
 
 ## The Problem

@@ -9,6 +9,15 @@ order: 22
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1045"
+    title: "Disabilities Housing Protections"
+    status: "House Third Reading Passed"
+    url: "https://leg.colorado.gov/bills/hb26-1045"
+  - billNumber: "HB26-1040"
+    title: "Sterilization Rights of Person with Disabilities"
+    status: "Referred from Health & Human Services to House Committee of the Whole"
+    url: "https://leg.colorado.gov/bills/hb26-1040"
 ---
 
 ## The Problem

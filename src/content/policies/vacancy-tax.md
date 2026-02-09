@@ -9,6 +9,11 @@ order: 4
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1036"
+    title: "Local Taxes on Vacant Residential Property"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/hb26-1036"
 ---
 
 ## The Problem

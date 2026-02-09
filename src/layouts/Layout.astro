@@ -81,6 +81,13 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
             el.placeholder = esPlaceholder;
           }
         });
+        // Ensure data-lang content sections are toggled correctly
+        document.querySelectorAll('[data-lang="en"]').forEach(el => {
+          (el as HTMLElement).style.display = 'none';
+        });
+        document.querySelectorAll('[data-lang="es"]').forEach(el => {
+          (el as HTMLElement).style.display = '';
+        });
       }
     </script>
   </body>

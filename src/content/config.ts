@@ -35,6 +35,13 @@ const policies = defineCollection({
     grantProposal: z.string().optional(),
     hasFundingSources: z.boolean().default(false),
     councilChampion: z.string().optional(),
+    relatedLegislation: z.array(z.object({
+      billNumber: z.string(),
+      title: z.string(),
+      status: z.string(),
+      session: z.string().default('2026'),
+      url: z.string().optional(),
+    })).optional(),
   }),
 });
 

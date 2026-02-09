@@ -9,6 +9,27 @@ order: 1
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1001"
+    title: "Housing Developments on Qualifying Properties"
+    status: "House Third Reading Passed"
+    url: "https://leg.colorado.gov/bills/hb26-1001"
+  - billNumber: "SB26-001"
+    title: "Workforce Housing & Housing Tax Credit"
+    status: "Senate Third Reading Passed"
+    url: "https://leg.colorado.gov/bills/sb26-001"
+  - billNumber: "HB26-1065"
+    title: "Transit and Housing Investment Zones"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/hb26-1065"
+  - billNumber: "HB26-1066"
+    title: "Tax Exemptions Low Income Rental Property Development"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/hb26-1066"
+  - billNumber: "HB26-1114"
+    title: "Allowed Minimum Lot Size for Subject Jurisdictions"
+    status: "Introduced - Assigned to Transportation, Housing & Local Government"
+    url: "https://leg.colorado.gov/bills/hb26-1114"
 ---
 
 ## The Problem

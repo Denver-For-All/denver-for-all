@@ -9,6 +9,11 @@ order: 23
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1044"
+    title: "Measures to Improve Black Maternal Health Equity"
+    status: "Introduced - Assigned to Health & Human Services"
+    url: "https://leg.colorado.gov/bills/hb26-1044"
 ---
 
 ## The Problem

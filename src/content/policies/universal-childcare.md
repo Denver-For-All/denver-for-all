@@ -9,6 +9,19 @@ order: 48
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1004"
+    title: "Continuation of Child Care Contribution Tax Credit"
+    status: "Referred from Finance to Appropriations"
+    url: "https://leg.colorado.gov/bills/hb26-1004"
+  - billNumber: "SB26-019"
+    title: "Early Childhood Local System Consolidation"
+    status: "Senate Second Reading Laid Over"
+    url: "https://leg.colorado.gov/bills/sb26-019"
+  - billNumber: "SB26-020"
+    title: "Child Care Provider Licensing & Quality"
+    status: "Introduced - Assigned to Education"
+    url: "https://leg.colorado.gov/bills/sb26-020"
 ---
 
 ## The Problem

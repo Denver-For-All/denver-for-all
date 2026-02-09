@@ -10,6 +10,11 @@ status: "draft"
 actionTarget: "mayor"
 grantProposal: "housing-first-hud-coc"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1015"
+    title: "Colorado Homeless Contribution Tax Credit Extension"
+    status: "Introduced - Assigned to Finance"
+    url: "https://leg.colorado.gov/bills/hb26-1015"
 ---
 
 ## The Problem

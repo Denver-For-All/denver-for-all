@@ -1,0 +1,585 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+
+// Sponsors who appear on multiple aligned bills, ordered by frequency
+const sponsors = [
+  {
+    name: 'Rep. Elisabeth Velasco',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'SB26-081', title: 'Agricultural Employee Overtime Protections' },
+      { bill: 'HB26-1106', title: 'Eviction Protections for Tenants' },
+      { bill: 'HB26-1054', title: 'Protections for Worker Safety' },
+      { bill: 'HB26-1120', title: 'Mobile Home Property Taxation' },
+      { bill: 'HB26-1145', title: 'Mobile Home Park Water Quality' },
+      { bill: 'HB26-1134', title: 'Fairness & Transparency in Municipal Court' },
+      { bill: 'SB26-065', title: 'Systemic Insecticide Use Limitations' },
+      { bill: 'SB26-062', title: 'Rodenticide Use Restrictions' },
+      { bill: 'SB26-012', title: 'Compensable Losses for Tribal Members' },
+    ],
+    policyAreas: ['Housing', 'Labor', 'Environment', 'Justice'],
+  },
+  {
+    name: 'Rep. Emily Sirota',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1013', title: 'Ratio Utility Billing Systems' },
+      { bill: 'SB26-019', title: 'Early Childhood Local System Consolidation' },
+      { bill: 'HB26-1126', title: 'Requirements for Firearms Dealers' },
+      { bill: 'HB26-1084', title: 'Voter Transparency in Ballot Measures' },
+      { bill: 'SB26-042', title: 'Revenue Classification TABOR' },
+      { bill: 'SB26-020', title: 'Child Care Provider Licensing & Quality' },
+    ],
+    policyAreas: ['Housing', 'Childcare', 'Democracy', 'Fiscal Reform'],
+  },
+  {
+    name: 'Rep. Junie Joseph',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1047', title: 'Protections for Residential Tenants' },
+      { bill: 'HB26-1044', title: 'Black Maternal Health Equity' },
+      { bill: 'HB26-1135', title: 'Transparency of Chemicals in Hair Products' },
+      { bill: 'HB26-1139', title: 'Use of AI in Health Care' },
+      { bill: 'HB26-1143', title: 'Non-Employment Background Check Info' },
+      { bill: 'SB26-048', title: 'Remove Exception to Marry with Judicial Approval' },
+      { bill: 'HB26-1127', title: 'Reporting After Fatal Car Crash' },
+    ],
+    policyAreas: ['Housing', 'Health Equity', 'Digital Rights', 'Youth'],
+  },
+  {
+    name: 'Sen. Matt Weissman',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'SB26-005', title: 'Immigration Enforcement Rights Remedy' },
+      { bill: 'HB26-1106', title: 'Eviction Protections for Tenants' },
+      { bill: 'HB26-1013', title: 'Ratio Utility Billing Systems' },
+      { bill: 'SB26-041', title: 'Consumer Protections Medical Care Entities' },
+      { bill: 'HB26-1134', title: 'Fairness & Transparency in Municipal Court' },
+      { bill: 'HB26-1084', title: 'Voter Transparency in Ballot Measures' },
+      { bill: 'SB26-042', title: 'Revenue Classification TABOR' },
+      { bill: 'HB26-1012', title: 'Consumer Protections Fair Market Pricing' },
+      { bill: 'HB26-1148', title: 'Protections for Youth on Social Media' },
+      { bill: 'HB26-1123', title: 'Preventing Sexual Abuse in Jails' },
+    ],
+    policyAreas: ['Immigration', 'Housing', 'Health', 'Democracy', 'Justice'],
+  },
+  {
+    name: 'Sen. Lisa Cutter',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1013', title: 'Ratio Utility Billing Systems' },
+      { bill: 'SB26-016', title: 'Prohibit Discharge Preproduction Plastic' },
+      { bill: 'HB26-1145', title: 'Mobile Home Park Water Quality' },
+      { bill: 'HB26-1147', title: 'Host Home for People with IDD' },
+      { bill: 'HB26-1137', title: 'Requirements for Campaign Consultants' },
+      { bill: 'HB26-1037', title: 'Ban Government Purchase of Personal Data' },
+      { bill: 'HB26-1121', title: 'Public Accessibility of Emissions Records' },
+      { bill: 'SB26-062', title: 'Rodenticide Use Restrictions' },
+      { bill: 'SB26-003', title: 'EV Battery End-of-Life Management' },
+    ],
+    policyAreas: ['Environment', 'Housing', 'Digital Rights', 'Health'],
+  },
+  {
+    name: 'Rep. Jennifer Bacon',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1005', title: 'Worker Protection Collective Bargaining' },
+      { bill: 'HB26-1020', title: 'Field Drug Tests in Drug Possessions' },
+      { bill: 'HB26-1141', title: 'Discriminatory Practices in Public Schools' },
+      { bill: 'HB26-1037', title: 'Ban Government Purchase of Personal Data' },
+      { bill: 'SB26-036', title: 'Prison Population Management Measures' },
+    ],
+    policyAreas: ['Labor', 'Justice', 'Education', 'Digital Rights'],
+  },
+  {
+    name: 'Rep. Javier Mabrey',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1005', title: 'Worker Protection Collective Bargaining' },
+      { bill: 'HB26-1013', title: 'Ratio Utility Billing Systems' },
+      { bill: 'HB26-1001', title: 'Housing Developments on Qualifying Properties' },
+      { bill: 'SB26-005', title: 'Immigration Enforcement Rights Remedy' },
+      { bill: 'HB26-1134', title: 'Fairness & Transparency in Municipal Court' },
+      { bill: 'HB26-1123', title: 'Preventing Sexual Abuse in Jails' },
+    ],
+    policyAreas: ['Labor', 'Housing', 'Immigration', 'Justice'],
+  },
+  {
+    name: 'Sen. Chris Kolker',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1003', title: 'Small Business Recovery Modifications' },
+      { bill: 'HB26-1141', title: 'Discriminatory Practices in Public Schools' },
+      { bill: 'HB26-1099', title: 'Protect Financial Condition of HOAs' },
+      { bill: 'HB26-1146', title: 'Facility Schools in PERA' },
+      { bill: 'SB26-023', title: 'School Finance Act' },
+      { bill: 'HB26-1026', title: 'Expanding Plan Options for PERA' },
+    ],
+    policyAreas: ['Economy', 'Education', 'Housing', 'Governance'],
+  },
+  {
+    name: 'Sen. Dafna Michaelson Jenet',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1106', title: 'Eviction Protections for Tenants' },
+      { bill: 'HB26-1045', title: 'Disabilities Housing Protections' },
+      { bill: 'HB26-1141', title: 'Discriminatory Practices in Public Schools' },
+      { bill: 'HB26-1064', title: 'Youthful Offender System Updates' },
+      { bill: 'HB26-1108', title: 'CBI Access Federal Fingerprint Service' },
+      { bill: 'HB26-1015', title: 'Homeless Contribution Tax Credit Extension' },
+      { bill: 'SB26-006', title: 'Parity for Non-Opioid Pain Management' },
+    ],
+    policyAreas: ['Housing', 'Disability Rights', 'Education', 'Health'],
+  },
+  {
+    name: 'Sen. Dylan Roberts',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'SB26-001', title: 'Workforce Housing & Housing Tax Credit' },
+      { bill: 'SB26-052', title: 'Coal Transition Community Investment' },
+      { bill: 'HB26-1081', title: 'Optimize Electric Transmission System' },
+      { bill: 'SB26-021', title: 'Clean Fleet Replace Aging Diesel Trucks' },
+      { bill: 'HB26-1148', title: 'Protections for Youth on Social Media' },
+      { bill: 'HB26-1127', title: 'Reporting After Fatal Car Crash' },
+      { bill: 'SB26-035', title: 'Increase of Traffic Violation Penalties' },
+      { bill: 'HB26-1019', title: 'Kidney Screening Mandatory Coverage' },
+    ],
+    policyAreas: ['Housing', 'Climate', 'Transportation', 'Health'],
+  },
+  {
+    name: 'Sen. Chris Simpson',
+    chamber: 'Senate',
+    party: 'R',
+    alignedBills: [
+      { bill: 'SB26-040', title: 'Affordable Home Ownership Program' },
+      { bill: 'SB26-022', title: 'Challenges Meeting 2030 Emissions Goals' },
+      { bill: 'HB26-1004', title: 'Child Care Contribution Tax Credit' },
+      { bill: 'HB26-1015', title: 'Homeless Contribution Tax Credit Extension' },
+      { bill: 'SB26-080', title: 'Cradle to Career Grant Program' },
+      { bill: 'HB26-1120', title: 'Mobile Home Property Taxation' },
+      { bill: 'HB26-1112', title: 'Regulation of Underground Injection Control' },
+    ],
+    policyAreas: ['Housing', 'Climate', 'Childcare', 'Education'],
+  },
+  {
+    name: 'Rep. Kyle Brown',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1002', title: 'Provider Participation in Health Insurance' },
+      { bill: 'HB26-1044', title: 'Black Maternal Health Equity' },
+      { bill: 'HB26-1147', title: 'Host Home for People with IDD' },
+      { bill: 'SB26-041', title: 'Consumer Protections Medical Care Entities' },
+      { bill: 'SB26-043', title: 'Record Keeping & Regulation of Firearm Barrel' },
+      { bill: 'SB26-065', title: 'Systemic Insecticide Use Limitations' },
+      { bill: 'SB26-003', title: 'EV Battery End-of-Life Management' },
+      { bill: 'SB26-006', title: 'Parity for Non-Opioid Pain Management' },
+    ],
+    policyAreas: ['Health', 'Environment', 'Disability Rights'],
+  },
+  {
+    name: 'Sen. Chris Kipp',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'SB26-002', title: 'Energy Affordability' },
+      { bill: 'HB26-1007', title: 'Improve Customer Use Distributed Energy' },
+      { bill: 'SB26-041', title: 'Consumer Protections Medical Care Entities' },
+      { bill: 'HB26-1121', title: 'Public Accessibility of Emissions Records' },
+      { bill: 'HB26-1120', title: 'Mobile Home Property Taxation' },
+      { bill: 'HB26-1126', title: 'Requirements for Firearms Dealers' },
+      { bill: 'SB26-065', title: 'Systemic Insecticide Use Limitations' },
+      { bill: 'SB26-062', title: 'Rodenticide Use Restrictions' },
+      { bill: 'HB26-1132', title: 'Practices to Support Pollinators' },
+    ],
+    policyAreas: ['Energy', 'Environment', 'Health', 'Housing'],
+  },
+  {
+    name: 'Sen. Jessie Danielson',
+    chamber: 'Senate',
+    party: 'D',
+    alignedBills: [
+      { bill: 'SB26-081', title: 'Agricultural Employee Overtime Protections' },
+      { bill: 'HB26-1005', title: 'Worker Protection Collective Bargaining' },
+      { bill: 'HB26-1010', title: 'Older Adult Support in Workforce' },
+      { bill: 'SB26-047', title: 'Firefighter Safety Act Petition Elections' },
+      { bill: 'HB26-1110', title: 'Vulnerable Adult Financial Exploitation' },
+    ],
+    policyAreas: ['Labor', 'Aging', 'Financial Protection'],
+  },
+  {
+    name: 'Rep. Stephanie Vigil Woodrow',
+    chamber: 'House',
+    party: 'D',
+    alignedBills: [
+      { bill: 'HB26-1119', title: 'Authority for Different Mill Levy Rates' },
+      { bill: 'HB26-1126', title: 'Requirements for Firearms Dealers' },
+      { bill: 'HB26-1065', title: 'Transit and Housing Investment Zones' },
+      { bill: 'HB26-1114', title: 'Allowed Minimum Lot Size' },
+    ],
+    policyAreas: ['Fiscal Reform', 'Housing', 'Transit'],
+  },
+];
+---
+
+<Layout title="State Sponsor Tracker" description="Track Colorado state legislators sponsoring bills aligned with Denver For All's progressive policy platform.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="State Sponsor Tracker" data-es="Rastreador de Patrocinadores Estatales">State Sponsor Tracker</h1>
+      <p data-en="Colorado General Assembly legislators sponsoring bills aligned with our policy platform. 2026 Regular Session, 75th General Assembly." data-es="Legisladores de la Asamblea General de Colorado que patrocinan proyectos de ley alineados con nuestra plataforma de políticas. Sesión Regular 2026, 75a Asamblea General.">
+        Colorado General Assembly legislators sponsoring bills aligned with our policy platform. 2026 Regular Session, 75th General Assembly.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container container--narrow">
+      <div class="stats-grid">
+        <div class="stat-card">
+          <span class="stat-card__number">~75</span>
+          <span class="stat-card__label" data-en="Aligned Bills" data-es="Proyectos Alineados">Aligned Bills</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__number">{sponsors.length}</span>
+          <span class="stat-card__label" data-en="Key Sponsors" data-es="Patrocinadores Clave">Key Sponsors</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__number">18</span>
+          <span class="stat-card__label" data-en="Policy Areas" data-es="Áreas de Política">Policy Areas</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-card__number">2026</span>
+          <span class="stat-card__label" data-en="Session" data-es="Sesión">Session</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="Legislators Sponsoring Aligned Bills" data-es="Legisladores que Patrocinan Proyectos Alineados">Legislators Sponsoring Aligned Bills</h2>
+        <p class="section-subtitle" data-en="Ranked by number of bills aligned with Denver For All's policy platform. These are natural allies for coalition building and testimony coordination." data-es="Clasificados por número de proyectos alineados con la plataforma de Denver Para Todos. Estos son aliados naturales para construcción de coaliciones y coordinación de testimonios.">
+          Ranked by number of bills aligned with Denver For All's policy platform. These are natural allies for coalition building and testimony coordination.
+        </p>
+      </div>
+
+      <div class="filter-bar">
+        <button class="filter-btn active" data-filter="all" data-en="All" data-es="Todos">All</button>
+        <button class="filter-btn" data-filter="House" data-en="House" data-es="Cámara">House</button>
+        <button class="filter-btn" data-filter="Senate" data-en="Senate" data-es="Senado">Senate</button>
+      </div>
+
+      <div class="sponsor-grid">
+        {sponsors.map((sponsor, i) => (
+          <div class="sponsor-card" data-chamber={sponsor.chamber}>
+            <div class="sponsor-card__header">
+              <div class="sponsor-card__rank">#{i + 1}</div>
+              <div>
+                <h3 class="sponsor-card__name">{sponsor.name}</h3>
+                <span class="sponsor-card__meta">
+                  <span class={`party-badge party-badge--${sponsor.party}`}>{sponsor.party}</span>
+                  {sponsor.chamber}
+                </span>
+              </div>
+              <span class="sponsor-card__count">{sponsor.alignedBills.length} bills</span>
+            </div>
+            <div class="sponsor-card__areas">
+              {sponsor.policyAreas.map((area) => (
+                <span class="area-tag">{area}</span>
+              ))}
+            </div>
+            <details class="sponsor-card__bills">
+              <summary data-en="View aligned bills" data-es="Ver proyectos alineados">View aligned bills</summary>
+              <ul>
+                {sponsor.alignedBills.map((b) => (
+                  <li>
+                    <a href={`https://leg.colorado.gov/bills/${b.bill.toLowerCase()}`} target="_blank" rel="noopener">
+                      <strong>{b.bill}</strong> {b.title}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </details>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container container--narrow">
+      <div class="cta-section">
+        <h2 data-en="Take Action" data-es="Actúa">Take Action</h2>
+        <p data-en="Contact these legislators to voice support for aligned bills. Use our Resistbot campaigns to send letters in under 2 minutes." data-es="Contacta a estos legisladores para expresar apoyo a los proyectos alineados. Usa nuestras campañas de Resistbot para enviar cartas en menos de 2 minutos.">
+          Contact these legislators to voice support for aligned bills. Use our Resistbot campaigns to send letters in under 2 minutes.
+        </p>
+        <div class="cta-buttons">
+          <a href="/tools/resistbot" class="btn btn--primary" data-en="Send Letters via Resistbot" data-es="Enviar Cartas por Resistbot">Send Letters via Resistbot</a>
+          <a href="https://leg.colorado.gov/find-my-legislator" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Find Your Legislator" data-es="Encuentra a tu Legislador">Find Your Legislator</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+
+  .stat-card {
+    text-align: center;
+    padding: 1.5rem 1rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .stat-card__number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--color-primary);
+    line-height: 1;
+    margin-bottom: 0.25rem;
+  }
+
+  .stat-card__label {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  .section-header { text-align: center; margin-bottom: 2rem; }
+  .section-subtitle {
+    color: var(--color-text-muted);
+    max-width: 650px;
+    margin: 0.5rem auto 0;
+  }
+
+  .filter-bar {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+
+  .filter-btn {
+    padding: 0.5rem 1.25rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg-card);
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: all 0.2s;
+  }
+
+  .filter-btn.active,
+  .filter-btn:hover {
+    background: var(--color-primary);
+    color: white;
+    border-color: var(--color-primary);
+  }
+
+  .sponsor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    gap: 1rem;
+  }
+
+  .sponsor-card {
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    transition: border-color 0.2s;
+  }
+
+  .sponsor-card:hover {
+    border-color: var(--color-primary);
+  }
+
+  .sponsor-card__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .sponsor-card__rank {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-alt);
+    border-radius: 50%;
+    font-weight: 800;
+    font-size: 0.85rem;
+    color: var(--color-primary);
+  }
+
+  .sponsor-card__name {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .sponsor-card__meta {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .party-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.1rem 0.35rem;
+    border-radius: 3px;
+    letter-spacing: 0.03em;
+  }
+
+  .party-badge--D {
+    background: #dbeafe;
+    color: #1e40af;
+  }
+
+  .party-badge--R {
+    background: #fee2e2;
+    color: #991b1b;
+  }
+
+  .sponsor-card__count {
+    margin-left: auto;
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--color-primary);
+    white-space: nowrap;
+  }
+
+  .sponsor-card__areas {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .area-tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    background: var(--color-bg-alt);
+    color: var(--color-text-muted);
+  }
+
+  .sponsor-card__bills summary {
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    color: var(--color-primary);
+  }
+
+  .sponsor-card__bills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+  }
+
+  .sponsor-card__bills li {
+    padding: 0.35rem 0;
+    border-top: 1px solid var(--color-border);
+    font-size: 0.8rem;
+  }
+
+  .sponsor-card__bills li:first-child {
+    border-top: none;
+  }
+
+  .sponsor-card__bills a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .sponsor-card__bills a:hover {
+    color: var(--color-primary);
+  }
+
+  .sponsor-card__bills strong {
+    font-family: var(--font-mono, monospace);
+    font-size: 0.75rem;
+    color: var(--color-primary);
+  }
+
+  .cta-section {
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .cta-section p {
+    color: var(--color-text-muted);
+    max-width: 550px;
+    margin: 0.5rem auto 1.5rem;
+  }
+
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 768px) {
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    .sponsor-grid { grid-template-columns: 1fr; }
+  }
+
+  @media (max-width: 480px) {
+    .sponsor-card__header { flex-wrap: wrap; }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.filter-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var filter = btn.getAttribute('data-filter');
+      document.querySelectorAll('.sponsor-card').forEach(function(card) {
+        if (filter === 'all' || card.getAttribute('data-chamber') === filter) {
+          (card as HTMLElement).style.display = '';
+        } else {
+          (card as HTMLElement).style.display = 'none';
+        }
+      });
+    });
+  });
+</script>

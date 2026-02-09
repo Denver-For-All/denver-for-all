@@ -9,6 +9,15 @@ order: 13
 status: "draft"
 actionTarget: "state"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1005"
+    title: "Worker Protection Collective Bargaining"
+    status: "Referred from Business Affairs & Labor to Finance"
+    url: "https://leg.colorado.gov/bills/hb26-1005"
+  - billNumber: "SB26-047"
+    title: "Colorado Firefighter Safety Act Petition Elections"
+    status: "Introduced - Assigned to State, Veterans, & Military Affairs"
+    url: "https://leg.colorado.gov/bills/sb26-047"
 ---
 
 ## The Problem

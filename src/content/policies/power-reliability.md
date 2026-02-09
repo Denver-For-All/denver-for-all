@@ -9,6 +9,23 @@ order: 65
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-002"
+    title: "Energy Affordability"
+    status: "Introduced - Assigned to Transportation & Energy"
+    url: "https://leg.colorado.gov/bills/sb26-002"
+  - billNumber: "HB26-1007"
+    title: "Improve Customer Use Distributed Energy Resources"
+    status: "Introduced - Assigned to Energy & Environment"
+    url: "https://leg.colorado.gov/bills/hb26-1007"
+  - billNumber: "HB26-1051"
+    title: "Continue Microgrid Community Resilience Grant Program"
+    status: "Referred from Energy & Environment to Appropriations"
+    url: "https://leg.colorado.gov/bills/hb26-1051"
+  - billNumber: "HB26-1124"
+    title: "Electrical Generation & Distribution Resiliency"
+    status: "Introduced - Assigned to Energy & Environment"
+    url: "https://leg.colorado.gov/bills/hb26-1124"
 ---
 
 ## The Problem

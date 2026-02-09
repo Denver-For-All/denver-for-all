@@ -9,6 +9,19 @@ order: 3
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "HB26-1106"
+    title: "Eviction Protections for Tenants"
+    status: "Introduced - Assigned to Judiciary"
+    url: "https://leg.colorado.gov/bills/hb26-1106"
+  - billNumber: "HB26-1047"
+    title: "Protections for Residential Tenants"
+    status: "Introduced - Assigned to Judiciary"
+    url: "https://leg.colorado.gov/bills/hb26-1047"
+  - billNumber: "HB26-1013"
+    title: "Ratio Utility Billing Systems"
+    status: "House Second Reading Laid Over Daily"
+    url: "https://leg.colorado.gov/bills/hb26-1013"
 ---
 
 ## The Problem

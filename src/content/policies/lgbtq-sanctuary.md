@@ -9,6 +9,11 @@ order: 43
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+relatedLegislation:
+  - billNumber: "SB26-018"
+    title: "Legal Protections for Dignity of Minors"
+    status: "Introduced - Assigned to Judiciary"
+    url: "https://leg.colorado.gov/bills/sb26-018"
 ---
 
 ## The Problem

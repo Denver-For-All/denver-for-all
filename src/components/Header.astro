@@ -211,6 +211,18 @@ const navItems = [
     const next = current === 'en' ? 'es' : 'en';
     localStorage.setItem('dfa-locale', next);
     document.documentElement.lang = next;
+
+    // Toggle data-lang content sections FIRST — most visible change.
+    const show = next;
+    const hide = next === 'es' ? 'en' : 'es';
+    document.querySelectorAll(`[data-lang="${hide}"]`).forEach(el => {
+      (el as HTMLElement).style.display = 'none';
+    });
+    document.querySelectorAll(`[data-lang="${show}"]`).forEach(el => {
+      (el as HTMLElement).style.display = 'block';
+    });
+
+    // Swap text content for data-en / data-es elements.
     document.querySelectorAll('[data-en]').forEach(el => {
       const text = el.getAttribute(`data-${next}`);
       if (text) {
@@ -226,15 +238,6 @@ const navItems = [
       if (placeholder && el instanceof HTMLInputElement) {
         el.placeholder = placeholder;
       }
-    });
-    // Toggle data-lang content sections
-    const show = next;
-    const hide = next === 'es' ? 'en' : 'es';
-    document.querySelectorAll(`[data-lang="${hide}"]`).forEach(el => {
-      (el as HTMLElement).style.display = 'none';
-    });
-    document.querySelectorAll(`[data-lang="${show}"]`).forEach(el => {
-      (el as HTMLElement).style.display = '';
     });
   });
 </script>

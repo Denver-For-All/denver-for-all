@@ -243,6 +243,19 @@ p {
   color: var(--color-text-muted);
 }
 
+/* Language-driven content switching */
+[data-lang="es"] {
+  display: none;
+}
+
+html[lang="es"] [data-lang="es"] {
+  display: block;
+}
+
+html[lang="es"] [data-lang="en"] {
+  display: none;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .section { padding: 2.5rem 0; }

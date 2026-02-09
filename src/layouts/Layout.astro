@@ -65,6 +65,17 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
       const saved = localStorage.getItem('dfa-locale');
       if (saved === 'es') {
         document.documentElement.lang = 'es';
+
+        // Toggle data-lang content sections FIRST — this is the most visible
+        // change and must not be blocked by errors in text swapping below.
+        document.querySelectorAll('[data-lang="en"]').forEach(el => {
+          (el as HTMLElement).style.display = 'none';
+        });
+        document.querySelectorAll('[data-lang="es"]').forEach(el => {
+          (el as HTMLElement).style.display = 'block';
+        });
+
+        // Swap text content for elements with data-en / data-es attributes.
         document.querySelectorAll('[data-en]').forEach(el => {
           const esText = el.getAttribute('data-es');
           if (esText) {
@@ -80,13 +91,6 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
           if (esPlaceholder && el instanceof HTMLInputElement) {
             el.placeholder = esPlaceholder;
           }
-        });
-        // Ensure data-lang content sections are toggled correctly
-        document.querySelectorAll('[data-lang="en"]').forEach(el => {
-          (el as HTMLElement).style.display = 'none';
-        });
-        document.querySelectorAll('[data-lang="es"]').forEach(el => {
-          (el as HTMLElement).style.display = '';
         });
       }
     </script>

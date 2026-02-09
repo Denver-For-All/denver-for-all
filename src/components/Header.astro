@@ -210,17 +210,10 @@ const navItems = [
     const current = localStorage.getItem('dfa-locale') || 'en';
     const next = current === 'en' ? 'es' : 'en';
     localStorage.setItem('dfa-locale', next);
-    document.documentElement.lang = next;
 
-    // Toggle data-lang content sections FIRST — most visible change.
-    const show = next;
-    const hide = next === 'es' ? 'en' : 'es';
-    document.querySelectorAll(`[data-lang="${hide}"]`).forEach(el => {
-      (el as HTMLElement).style.display = 'none';
-    });
-    document.querySelectorAll(`[data-lang="${show}"]`).forEach(el => {
-      (el as HTMLElement).style.display = 'block';
-    });
+    // Setting lang on <html> is the ONLY thing needed for data-lang content
+    // switching. CSS rules handle show/hide — no inline style manipulation.
+    document.documentElement.lang = next;
 
     // Swap text content for data-en / data-es elements.
     document.querySelectorAll('[data-en]').forEach(el => {

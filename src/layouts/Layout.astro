@@ -62,20 +62,13 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
       }
     </style>
     <script>
+      // CSS handles data-lang show/hide via html[lang="es"] selectors.
+      // The head inline script already set lang="es" before paint if needed.
+      // This script only swaps data-en/data-es text content on page load.
       const saved = localStorage.getItem('dfa-locale');
       if (saved === 'es') {
         document.documentElement.lang = 'es';
 
-        // Toggle data-lang content sections FIRST — this is the most visible
-        // change and must not be blocked by errors in text swapping below.
-        document.querySelectorAll('[data-lang="en"]').forEach(el => {
-          (el as HTMLElement).style.display = 'none';
-        });
-        document.querySelectorAll('[data-lang="es"]').forEach(el => {
-          (el as HTMLElement).style.display = 'block';
-        });
-
-        // Swap text content for elements with data-en / data-es attributes.
         document.querySelectorAll('[data-en]').forEach(el => {
           const esText = el.getAttribute('data-es');
           if (esText) {

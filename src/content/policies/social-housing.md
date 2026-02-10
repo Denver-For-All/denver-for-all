@@ -30,6 +30,28 @@ relatedLegislation:
     title: "Allowed Minimum Lot Size for Subject Jurisdictions"
     status: "Introduced - Assigned to Transportation, Housing & Local Government"
     url: "https://leg.colorado.gov/bills/hb26-1114"
+keyStats:
+  - value: "7,500"
+    label: "people homeless on any given night"
+    labelEs: "personas sin hogar en cualquier noche"
+    context: "The Section 8 waitlist is years long and landlords refuse to accept vouchers anyway"
+    contextEs: "La lista de espera de la Seccion 8 es de anos y los propietarios se niegan a aceptar vales"
+    source: "MDHI Point-in-Time Count, 2024"
+    theme: "danger"
+  - value: "60%"
+    label: "of Vienna housed in public housing"
+    labelEs: "de Viena vive en vivienda publica"
+    context: "Named the world's most livable city — and has no housing affordability crisis"
+    contextEs: "Nombrada la ciudad mas habitable del mundo y no tiene crisis de asequibilidad"
+    source: "Wiener Wohnen, 2023"
+    theme: "primary"
+  - value: "$400-600K"
+    label: "current per-unit subsidy cost"
+    labelEs: "costo actual de subsidio por unidad"
+    context: "Social housing costs $200-350K per unit. We pay double to let developers keep the profit."
+    contextEs: "La vivienda social cuesta $200-350K por unidad. Pagamos el doble para que los desarrolladores se queden con la ganancia."
+    source: "Denver HOST / LIHTC program data"
+    theme: "accent"
 ---
 
 ## The Problem

@@ -9,6 +9,28 @@ order: 80
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "48%"
+    label: "less park space in low-income neighborhoods"
+    labelEs: "menos espacio de parques en vecindarios de bajos ingresos"
+    context: "Denver is ranked 10th nationally but equity within the city is terrible"
+    contextEs: "Denver ocupa el puesto 10 nacional pero la equidad dentro de la ciudad es terrible"
+    source: "Trust for Public Land ParkScore, 2025"
+    theme: "danger"
+  - value: "15-20F"
+    label: "hotter in low-canopy neighborhoods"
+    labelEs: "mas caliente en vecindarios con poco arbolado"
+    context: "The Inverted L along I-25 and I-70 has the least shade and the most heat"
+    contextEs: "La L Invertida a lo largo de I-25 e I-70 tiene menos sombra y mas calor"
+    source: "Denver Digs Trees / The Park People, 2021"
+    theme: "danger"
+  - value: "$95K+"
+    label: "annual cost to jail one youth"
+    labelEs: "costo anual de encarcelar a un joven"
+    context: "Free rec center access and youth programming costs a tiny fraction of that"
+    contextEs: "El acceso gratuito a centros recreativos y programas juveniles cuesta una pequena fraccion"
+    source: "Colorado Division of Youth Services"
+    theme: "accent"
 ---
 
 ## The Problem

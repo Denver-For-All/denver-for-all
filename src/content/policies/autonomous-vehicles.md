@@ -9,6 +9,27 @@ order: 63
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "0"
+    label: "AV regulations Denver currently has"
+    labelEs: "regulaciones de vehiculos autonomos que Denver tiene actualmente"
+    context: "No permits, no incident reporting, no data privacy rules"
+    contextEs: "Sin permisos, sin reportes de incidentes, sin reglas de privacidad"
+    source: "Colorado SB 17-213"
+    theme: "danger"
+  - value: "85%"
+    label: "more vehicle-miles from ride-hailing vs trips replaced"
+    labelEs: "mas millas-vehiculo de viajes compartidos vs viajes reemplazados"
+    context: "Without rules, AVs increase congestion and emissions — they don't reduce them"
+    contextEs: "Sin reglas, los VA aumentan la congestion y emisiones — no las reducen"
+    source: "UC Davis / Schaller Consulting"
+    theme: "danger"
+  - value: "$0"
+    label: "cost to Denver taxpayers"
+    labelEs: "costo para los contribuyentes de Denver"
+    context: "AV companies pay permit fees, per-trip assessments, and fund the Driver Transition Fund"
+    contextEs: "Las empresas de VA pagan permisos, tasas por viaje y financian el Fondo de Transicion"
+    theme: "primary"
 ---
 
 ## The Problem

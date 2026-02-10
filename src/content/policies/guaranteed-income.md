@@ -9,6 +9,28 @@ order: 76
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "150+"
+    label: "US cities tested guaranteed income"
+    labelEs: "ciudades de EE.UU. probaron el ingreso garantizado"
+    context: "Not a single pilot showed decreased employment — multiple showed increases"
+    contextEs: "Ningun piloto mostro disminucion del empleo — varios mostraron aumentos"
+    source: "Mayors for a Guaranteed Income, 2025"
+    theme: "primary"
+  - value: "12.4%"
+    label: "of Denver residents below the poverty line"
+    labelEs: "de residentes de Denver bajo la linea de pobreza"
+    context: "In Montbello, Westwood, and Sun Valley, poverty rates exceed 30%"
+    contextEs: "En Montbello, Westwood y Sun Valley, las tasas de pobreza superan el 30%"
+    source: "U.S. Census Bureau, 2023"
+    theme: "danger"
+  - value: "+12pts"
+    label: "employment increase in Stockton pilot"
+    labelEs: "aumento de empleo en el piloto de Stockton"
+    context: "Full-time employment rose from 28% to 40% among recipients"
+    contextEs: "El empleo a tiempo completo subio de 28% a 40% entre receptores"
+    source: "Stockton Economic Empowerment Demonstration"
+    theme: "primary"
 ---
 
 ## The Problem

@@ -9,6 +9,27 @@ order: 7
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "1/2 mile"
+    label: "from new stations, rents spike"
+    labelEs: "de nuevas estaciones, los alquileres se disparan"
+    context: "Denver builds transit, then the people it was meant to serve get displaced"
+    contextEs: "Denver construye transito y luego las personas a las que debia servir son desplazadas"
+    source: "Federal Reserve Bank of Philadelphia, 2019"
+    theme: "danger"
+  - value: "8-15%"
+    label: "affordable units currently required"
+    labelEs: "unidades asequibles actualmente requeridas"
+    context: "The current mandate is a fraction of what's needed. Our proposal requires 30%."
+    contextEs: "El mandato actual es una fraccion de lo necesario. Nuestra propuesta requiere el 30%."
+    source: "Denver EHA ordinance"
+    theme: "accent"
+  - value: "30%"
+    label: "mandatory affordable units in new builds"
+    labelEs: "unidades asequibles obligatorias en nuevas construcciones"
+    context: "On-site, no fee-in-lieu. Barcelona and Montreal already do this successfully."
+    contextEs: "En el sitio, sin pago sustituto. Barcelona y Montreal ya lo hacen con exito."
+    theme: "primary"
 ---
 
 ## The Problem

@@ -9,6 +9,20 @@ order: 77
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "~50%"
+    label: "of Denver revenue from regressive sales tax"
+    labelEs: "de los ingresos de Denver de impuesto regresivo"
+    context: "Families earning $35K pay a higher effective tax rate than those earning $350K"
+    contextEs: "Familias que ganan $35K pagan una tasa efectiva mas alta que las que ganan $350K"
+    source: "Institute on Taxation and Economic Policy, 2018"
+    theme: "danger"
+  - value: "$115-175M"
+    label: "new progressive revenue per year"
+    labelEs: "nuevos ingresos progresivos por ano"
+    context: "Shifts the burden from working families to corporations and luxury property owners"
+    contextEs: "Traslada la carga de familias trabajadoras a corporaciones y propietarios de lujo"
+    theme: "primary"
 relatedLegislation:
   - billNumber: "HB26-1119"
     title: "Authority for Different Mill Levy Rates"

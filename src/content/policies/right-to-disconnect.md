@@ -9,6 +9,28 @@ order: 15
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "462 hours"
+    label: "more per year Americans work than Germans"
+    labelEs: "mas por ano trabajan los estadounidenses que los alemanes"
+    context: "That is 11+ extra 40-hour work weeks — we are not 11 weeks more productive"
+    contextEs: "Son mas de 11 semanas laborales de 40 horas extra — no somos 11 semanas mas productivos"
+    source: "OECD, 2023"
+    theme: "danger"
+  - value: "92%"
+    label: "of UK companies kept the 4-day week permanently"
+    labelEs: "de las empresas del Reino Unido mantuvieron la semana de 4 dias permanentemente"
+    context: "61 companies, 2,900 workers, 6-month trial — revenue stayed the same or increased"
+    contextEs: "61 empresas, 2,900 trabajadores, prueba de 6 meses — los ingresos se mantuvieron o aumentaron"
+    source: "Autonomy Research, 2023"
+    theme: "primary"
+  - value: "+40%"
+    label: "productivity when Microsoft Japan tried Fridays off"
+    labelEs: "productividad cuando Microsoft Japon probo viernes libres"
+    context: "Closed offices every Friday for a month; electricity costs dropped 23%"
+    contextEs: "Cerraron oficinas cada viernes por un mes; costos de electricidad bajaron 23%"
+    source: "Microsoft Japan, 2019"
+    theme: "primary"
 ---
 
 ## The Problem

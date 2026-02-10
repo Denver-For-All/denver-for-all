@@ -9,6 +9,28 @@ order: 81
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "$3.12B"
+    label: "Denver arts generate more than pro sports"
+    labelEs: "las artes de Denver generan mas que los deportes profesionales"
+    context: "14.5M cultural attendees vs 4.9M combined for all Denver pro sports teams"
+    contextEs: "14.5M asistentes culturales vs 4.9M combinados para todos los equipos profesionales"
+    source: "CBCA Economic Activity Study, 2024"
+    theme: "primary"
+  - value: "39th"
+    label: "Colorado's rank in per capita arts funding"
+    labelEs: "ranking de Colorado en financiamiento per capita de artes"
+    context: "Despite having the 4th-largest cultural sector as share of state GDP"
+    contextEs: "A pesar de tener el 4to sector cultural mas grande como proporcion del PIB estatal"
+    source: "Colorado Creative Industries, 2024"
+    theme: "danger"
+  - value: "13.5%"
+    label: "of SCFD funds reach small local arts groups"
+    labelEs: "de fondos SCFD llegan a grupos artisticos locales pequenos"
+    context: "280+ small orgs split 13.5% while 5 big institutions get 65.5% of $85M"
+    contextEs: "280+ organizaciones pequenas se dividen 13.5% mientras 5 grandes reciben 65.5%"
+    source: "SCFD Annual Report, 2024"
+    theme: "accent"
 ---
 
 ## The Problem

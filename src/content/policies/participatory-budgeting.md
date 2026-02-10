@@ -9,6 +9,21 @@ order: 55
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "62%"
+    label: "of Denver voters stayed home in 2023"
+    labelEs: "de los votantes de Denver se quedaron en casa en 2023"
+    context: "Only 38% turnout — most residents have no voice in a $1.6B budget"
+    contextEs: "Solo 38% de participacion — la mayoria no tiene voz en un presupuesto de $1.6B"
+    source: "Denver Elections Division, 2023"
+    theme: "danger"
+  - value: "7,000+"
+    label: "cities worldwide use participatory budgeting"
+    labelEs: "ciudades en todo el mundo usan presupuesto participativo"
+    context: "Pioneered in Brazil in 1989 — infant mortality dropped 50% in Porto Alegre"
+    contextEs: "Pionero en Brasil en 1989 — la mortalidad infantil bajo 50% en Porto Alegre"
+    source: "Sintomer et al., 2012"
+    theme: "primary"
 ---
 
 ## The Problem

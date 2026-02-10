@@ -9,6 +9,28 @@ order: 49
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "58%"
+    label: "above national average — Colorado youth suicide"
+    labelEs: "por encima del promedio nacional — suicidio juvenil en Colorado"
+    context: "Suicide is the #1 cause of death for Coloradans ages 10-24"
+    contextEs: "El suicidio es la causa #1 de muerte para coloradenses de 10-24 anos"
+    source: "CO Dept of Public Health and Environment, 2023"
+    theme: "danger"
+  - value: "38%"
+    label: "of DPS students chronically absent"
+    labelEs: "de estudiantes de DPS cronicamente ausentes"
+    context: "More than 1 in 3 students missed 10%+ of school days in 2022-23"
+    contextEs: "Mas de 1 de cada 3 estudiantes falto mas del 10% de los dias escolares"
+    source: "DPS Accountability Reports"
+    theme: "danger"
+  - value: "$7-10"
+    label: "returned for every $1 invested in youth"
+    labelEs: "devueltos por cada $1 invertido en jovenes"
+    context: "Through reduced incarceration, higher earnings, and better health"
+    contextEs: "Mediante menos encarcelamiento, mayores ingresos y mejor salud"
+    source: "Heckman and Masterov; Fight Crime: Invest in Kids"
+    theme: "primary"
 ---
 
 ## The Problem

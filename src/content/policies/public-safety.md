@@ -14,6 +14,28 @@ petition:
   title: "Turn Off Flock Surveillance Cameras"
   titleEs: "Apagar las Cámaras de Vigilancia Flock"
 hasFundingSources: true
+keyStats:
+  - value: "531 per 100K"
+    label: "US incarceration rate — highest on Earth"
+    labelEs: "tasa de encarcelamiento de EE.UU. — la mas alta del mundo"
+    context: "10x Norway's rate. 76% come back. Norway rehabilitates 80%."
+    contextEs: "10 veces la tasa de Noruega. 76% reincide. Noruega rehabilita al 80%."
+    source: "World Prison Brief"
+    theme: "danger"
+  - value: "$35.3M"
+    label: "Denver paid in police settlements, 2017-2023"
+    labelEs: "Denver pago en acuerdos policiales, 2017-2023"
+    context: "$17.3M in 2023 alone. No independent oversight board can investigate or discipline."
+    contextEs: "$17.3M solo en 2023. Ninguna junta de supervision independiente puede investigar."
+    source: "Denver City Attorney records; Denver Post, 2024"
+    theme: "danger"
+  - value: "50-75%"
+    label: "crime reduction from community investment"
+    labelEs: "reduccion de crimen por inversion comunitaria"
+    context: "Oakland, Glasgow, Bogota, Richmond all outperformed policing-only approaches"
+    contextEs: "Oakland, Glasgow, Bogota, Richmond todos superaron los enfoques de solo policia"
+    source: "Oakland Ceasefire; Glasgow VRU evaluations"
+    theme: "primary"
 ---
 
 ## The Problem

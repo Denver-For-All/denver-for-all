@@ -10,6 +10,27 @@ status: "draft"
 actionTarget: "mayor"
 grantProposal: "municipal-broadband-bead"
 hasFundingSources: true
+keyStats:
+  - value: "85%"
+    label: "of Denver voters said yes — 7 years ago"
+    labelEs: "de los votantes de Denver dijeron si — hace 7 anos"
+    context: "Denver voters overwhelmingly approved municipal broadband in 2018. The city still hasn't built it."
+    contextEs: "Los votantes de Denver aprobaron abrumadoramente el internet municipal en 2018. La ciudad aun no lo ha construido."
+    source: "Denver Ballot Measure 2J, 2018"
+    theme: "accent"
+  - value: "$80-120/mo"
+    label: "you pay Comcast vs $30/mo municipal gigabit"
+    labelEs: "pagas a Comcast vs $30/mes gigabit municipal"
+    context: "Comcast charges 3-4x more for slower speeds with data caps"
+    contextEs: "Comcast cobra 3-4x mas por velocidades mas lentas con limites de datos"
+    theme: "danger"
+  - value: "900+"
+    label: "US communities already have municipal broadband"
+    labelEs: "comunidades de EE.UU. ya tienen internet municipal"
+    context: "They consistently outperform private ISPs in speed, price, and reliability"
+    contextEs: "Consistentemente superan a los ISP privados en velocidad, precio y confiabilidad"
+    source: "Institute for Local Self-Reliance, 2025"
+    theme: "secondary"
 ---
 
 ## The Problem

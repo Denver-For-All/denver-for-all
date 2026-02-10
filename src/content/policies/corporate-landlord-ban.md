@@ -9,6 +9,27 @@ order: 5
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "26%"
+    label: "of affordable homes bought by investors"
+    labelEs: "de viviendas asequibles compradas por inversionistas"
+    context: "Families can't compete with all-cash corporate offers on the homes they need most"
+    contextEs: "Las familias no pueden competir con ofertas corporativas en efectivo"
+    source: "Redfin, 2023"
+    theme: "danger"
+  - value: "2-3x"
+    label: "higher eviction rate from corporate landlords"
+    labelEs: "mayor tasa de desalojo de arrendadores corporativos"
+    context: "Wall Street landlords evict at double or triple the rate of individual landlords"
+    contextEs: "Los propietarios de Wall Street desalojan al doble o triple de la tasa de propietarios individuales"
+    theme: "danger"
+  - value: "59%"
+    label: "of Berlin voted to take back housing"
+    labelEs: "de Berlin voto para recuperar la vivienda"
+    context: "Berlin's 2021 referendum to expropriate 240,000 corporate-held apartments passed decisively"
+    contextEs: "El referendum de Berlin en 2021 para expropiar 240,000 apartamentos corporativos fue aprobado"
+    source: "Berlin 2021 referendum"
+    theme: "primary"
 ---
 
 ## The Problem

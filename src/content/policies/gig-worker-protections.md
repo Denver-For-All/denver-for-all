@@ -9,6 +9,27 @@ order: 12
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: false
+keyStats:
+  - value: "$200M"
+    label: "platforms spent to keep workers as contractors"
+    labelEs: "las plataformas gastaron para mantener a trabajadores como contratistas"
+    context: "Uber, Lyft, and DoorDash spent $200M on California's Prop 22 alone"
+    contextEs: "Uber, Lyft y DoorDash gastaron $200M solo en la Proposicion 22 de California"
+    theme: "danger"
+  - value: "50,000"
+    label: "Denver gig workers without basic protections"
+    labelEs: "trabajadores de plataformas en Denver sin protecciones basicas"
+    context: "No healthcare, no paid sick leave, no unemployment insurance, no recourse"
+    contextEs: "Sin seguro medico, sin licencia por enfermedad, sin seguro de desempleo"
+    source: "McKinsey Global Institute, 2022"
+    theme: "accent"
+  - value: "28 million"
+    label: "EU platform workers gaining employee rights"
+    labelEs: "trabajadores de plataformas en la UE ganando derechos laborales"
+    context: "The EU Platform Work Directive (2024) creates employment presumption continent-wide"
+    contextEs: "La Directiva de Trabajo en Plataformas de la UE (2024) crea presuncion de empleo"
+    source: "European Commission, 2021"
+    theme: "primary"
 ---
 
 ## The Problem

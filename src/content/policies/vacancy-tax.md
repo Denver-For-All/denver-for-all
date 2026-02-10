@@ -14,6 +14,27 @@ relatedLegislation:
     title: "Local Taxes on Vacant Residential Property"
     status: "Introduced - Assigned to Finance"
     url: "https://leg.colorado.gov/bills/hb26-1036"
+keyStats:
+  - value: "5,000-8,000"
+    label: "homes sitting empty in Denver"
+    labelEs: "hogares vacios en Denver"
+    context: "7,500 people are homeless while thousands of units sit vacant for speculation"
+    contextEs: "7,500 personas sin hogar mientras miles de unidades estan vacias por especulacion"
+    source: "U.S. Census Bureau, ACS 2022"
+    theme: "danger"
+  - value: "25%"
+    label: "vacancy drop in Vancouver's first year"
+    labelEs: "caida de vacancia en el primer ano de Vancouver"
+    context: "Vancouver's Empty Homes Tax proved vacancy taxes put homes back on the market fast"
+    contextEs: "El Impuesto de Viviendas Vacias de Vancouver demostro que funciona rapidamente"
+    source: "City of Vancouver, 2017-2023"
+    theme: "primary"
+  - value: "$50-80M"
+    label: "estimated yearly revenue for Denver"
+    labelEs: "ingresos anuales estimados para Denver"
+    context: "Every dollar goes to the Affordable Housing Trust Fund for social housing and CLTs"
+    contextEs: "Cada dolar va al Fondo de Vivienda Asequible para vivienda social y CLTs"
+    theme: "primary"
 ---
 
 ## The Problem

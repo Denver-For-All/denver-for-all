@@ -79,11 +79,19 @@ Denver's STAR program is already proven to work. A January 2026 Urban Institute 
 - Prescription drug purchasing cooperative - Denver negotiates drug prices collectively for uninsured residents
 
 ### 5. Reproductive Healthcare Protection
-- Denver as a sanctuary city for reproductive healthcare access
+
+Denver's reproductive healthcare strategy is detailed in our standalone policy: **[Reproductive Healthcare Access](/platform/reproductive-healthcare)**. Key elements:
+
+- Denver as a sanctuary city for reproductive healthcare access — bodily autonomy as a governing principle
+- Provider sustainability funding to ensure Amendment 79's Medicaid coverage translates to actual provider participation
+- Medication abortion access expansion, including mifepristone contingency planning
 - City-funded reproductive healthcare for uninsured residents
-- Buffer zones around clinics
-- Non-cooperation with states criminalizing reproductive healthcare
-- Cross-reference: [Maternal & Infant Health Equity](/platform/maternal-infant-health) for comprehensive birth equity, NICU family support, and anti-racism accountability proposals
+- Buffer zones around clinics, complemented by direct security funding for providers
+- Non-cooperation with federal, state, or interstate enforcement targeting healthcare decisions protected under Colorado law — encompassing abortion, gender-affirming care, and other constitutionally protected medical treatment
+- Reproductive healthcare explicitly inclusive of trans and nonbinary patients
+- Data transparency on provider participation, wait times, and geographic access
+- Cross-reference: [Maternal & Infant Health Equity](/platform/maternal-infant-health) for comprehensive birth equity, NICU family support, and anti-discrimination accountability proposals
+- Cross-reference: [LGBTQ+ Sanctuary & Protection](/platform/lgbtq-sanctuary) for the bodily autonomy framework connecting reproductive and gender-affirming healthcare
 
 ### 6. Dental Care for All
 Dental health is health. The separation of dental coverage from medical coverage is an artifact of insurance history, not biology. Untreated dental disease causes chronic pain, systemic infection, heart disease, diabetes complications, and job loss. It is concentrated in the same low-income neighborhoods that lack every other form of healthcare access.

@@ -20,7 +20,7 @@ relatedLegislation:
 
 The federal government is actively dismantling LGBTQ+ protections. Project 2025, now being implemented, seeks to restrict the application of the Supreme Court's *Bostock v. Clayton County* decision, rescind regulations prohibiting discrimination based on sexual orientation and gender identity, and eliminate trans-inclusive healthcare from federal programs. The Department of Education has withdrawn Title IX guidance protecting trans students. The Department of Health and Human Services has reversed protections for LGBTQ+ patients under Section 1557 of the Affordable Care Act. The military has reinstated its ban on transgender service members. Federal agencies have been instructed to define sex as binary and immutable, erasing nonbinary and transgender identities from official recognition (GLAAD Project 2025 Tracker, 2025).
 
-This is not hypothetical. It is happening now. And it creates an urgent need for municipal-level protections that cannot be stripped by executive order.
+This is not hypothetical. It is happening now. And the attack on LGBTQ+ rights is part of a broader assault on bodily autonomy — the same political coalition is simultaneously restricting abortion access, gender-affirming care, and contraception. These are not separate fights. They share the same principle (the government should not control your body), the same opposition (Project 2025's architects), and the same solution (municipal protection that cannot be stripped by executive order). Cross-reference: [Reproductive Healthcare Access](/platform/reproductive-healthcare) for the parallel framework protecting reproductive autonomy.
 
 Colorado has strong state-level LGBTQ+ protections: the Colorado Anti-Discrimination Act (CADA) prohibits discrimination in employment, housing, and public accommodations based on sexual orientation and gender identity. But state law alone is insufficient when federal agencies are weaponizing funding, regulatory power, and enforcement mechanisms against LGBTQ+ people. Cities must act as the last line of defense.
 
@@ -83,7 +83,16 @@ LGBTQ+ youth face disproportionate rates of homelessness, bullying, and mental h
 - **Data collection:** Collect voluntary SOGIE (sexual orientation, gender identity, and expression) data in city services to identify disparities and target resources, with strong privacy protections and no sharing with federal agencies
 - **Vendor requirements:** City contractors must demonstrate LGBTQ+ nondiscrimination policies as a condition of contract award
 
-### 6. LGBTQ+ Economic Equity
+### 6. Bodily Autonomy & Reproductive Healthcare for LGBTQ+ People
+
+The same political movement restricting gender-affirming care is restricting abortion access. Both attacks target the same principle: bodily autonomy — the right to make decisions about your own body without government interference. Denver's LGBTQ+ protections and reproductive healthcare protections must be explicitly linked.
+
+- **Reproductive healthcare access for trans and nonbinary people**: ensure all Denver reproductive healthcare services — contraception, pregnancy care, abortion, fertility services, gynecological care — are accessible regardless of gender identity or gender markers. Cross-reference: [Reproductive Healthcare Access](/platform/reproductive-healthcare)
+- **Unified non-cooperation framework**: Denver's non-cooperation directives for gender-affirming care and reproductive healthcare share the same legal basis and operational structure. A single framework protects both — rather than treating them as separate issues that can be picked off individually
+- **Coalition infrastructure**: formalize coordination between reproductive rights organizations (Cobalt, Planned Parenthood, National Abortion Federation) and LGBTQ+ organizations (One Colorado, GLBT Community Center of Colorado) for shared advocacy, mutual defense, and joint policy development. The opposition is coordinated. The defense must be too
+- **HRT and reproductive health counseling**: patients receiving hormone replacement therapy — whether for gender transition, menopause, or other medical needs — should receive integrated reproductive health counseling. HB26-1122 (Mandatory Coverage for Hormone Replacement Therapy) supports this approach. Cross-reference: [Reproductive Healthcare Access](/platform/reproductive-healthcare) for trans-inclusive reproductive healthcare
+
+### 7. LGBTQ+ Economic Equity
 
 - **LGBTQ+ Business Enterprise (LGBTBE) certification** recognized in city procurement, with inclusion in DSBO's small business programs
 - **Anti-discrimination in housing:** Enhanced enforcement of fair housing protections for LGBTQ+ renters, with annual testing audits to detect discrimination (cross-reference: [Tenant Bill of Rights](/platform/tenant-bill-of-rights))
@@ -122,6 +131,9 @@ Conversion therapy is a discredited practice that the American Psychological Ass
 
 **"All-gender restrooms are controversial."**
 They are restrooms. Single-occupancy all-gender restrooms are already standard in most homes, airplanes, and small businesses. Multi-stall all-gender restrooms have been successfully implemented in hundreds of universities, corporations, and public buildings. Surveys consistently show that after implementation, opposition drops dramatically because the predicted problems never materialize. Denver should lead, not wait for controversy to resolve itself.
+
+**"What does LGBTQ+ protection have to do with reproductive healthcare?"**
+Everything. The same laws, the same legislators, and the same political organizations targeting trans healthcare are also targeting abortion access. Both are bodily autonomy issues. And practically, trans men and nonbinary people need reproductive healthcare — contraception, pregnancy care, abortion — that the system often denies them based on gender markers or provider ignorance. A comprehensive bodily autonomy framework protects everyone. See [Reproductive Healthcare Access](/platform/reproductive-healthcare) for Denver's full reproductive healthcare strategy.
 
 **"Why include economic protections for LGBTQ+ people?"**
 Because discrimination has economic consequences. LGBTQ+ people, particularly transgender women of color, face higher rates of unemployment, housing discrimination, and poverty. A 2023 Williams Institute study found that 45.5% of LGBTQ+ adults experienced employment discrimination in their lifetime, and LGBTQ+ people are nearly twice as likely to live in poverty as non-LGBTQ+ people. Protection without economic equity is incomplete.

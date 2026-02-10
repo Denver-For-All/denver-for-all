@@ -38,7 +38,6 @@ All policy claims should be backed by verifiable data with year-stamped statisti
 
 ### Areas Where Help Is Needed
 
-- **Spanish translations** of full policy documents (currently only titles and summaries are translated)
 - **Data sourcing** and citation verification
 - **Accessibility** improvements (WCAG compliance, screen reader testing)
 - **New interactive tools** for civic engagement
@@ -47,9 +46,9 @@ All policy claims should be backed by verifiable data with year-stamped statisti
 
 ### Translation Contributions
 
-Translation files are in `src/i18n/`. UI strings are in `en.json` and `es.json`. Policy content translations should be added as frontmatter fields (`titleEs`, `summaryEs`) and eventually as full translated documents.
+UI translation strings are in `src/i18n/` (`en.json` and `es.json`). Full policy translations live in a separate `src/content/policies-es/` directory as complete Markdown documents mirroring the English originals in `src/content/policies/`.
 
-If you are a native Spanish speaker or professional translator and want to help translate full policy content, please open an issue or reach out to a maintainer.
+48 of 49 policy documents have been fully translated into Spanish. If you are a native Spanish speaker or professional translator and want to help review translations or translate any remaining policies, please open an issue or reach out to a maintainer.
 
 ## Development Setup
 

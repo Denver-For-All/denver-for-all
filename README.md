@@ -6,10 +6,10 @@ A grassroots political platform and organizing toolkit for economic justice in D
 
 Denver For All is an open-source campaign framework that combines:
 
-- **48 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
-- **Interactive tools** for holding power accountable (eviction tracker, campaign finance transparency, rent calculator, tenant rights chatbot)
+- **49 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
+- **11 interactive tools** for holding power accountable — eviction tracker, campaign finance transparency, candidate questionnaires, data stories, rent calculator, tenant rights chatbot, and more
 - **Organizing infrastructure** (volunteer signup, candidate recruitment, newsletter, Signal group, Resistbot petitions)
-- **Bilingual support** (English/Spanish)
+- **Bilingual support** (English/Spanish) with full policy translations using i18n directory structure
 
 The platform is designed to be forked, adapted, and reused by movements in other cities.
 
@@ -21,7 +21,8 @@ The platform is designed to be forked, adapted, and reused by movements in other
 - [Cloudflare Pages](https://pages.cloudflare.com/) - Hosting (free tier)
 - [Cloudflare Workers + D1](https://developers.cloudflare.com/workers/) - Serverless data tools
 - [vAPI](https://vapi.ai/) - Voice AI for tenant rights chatbot
-- [EmailOctopus](https://emailoctopus.com/) - Newsletter (free tier)
+- [Resend](https://resend.com/) - Transactional email for newsletter signup
+- [Recharts](https://recharts.org/) + [Scrollama](https://github.com/russellsamora/scrollama) - Data visualization and scrollytelling
 
 ## Getting Started
 
@@ -45,20 +46,26 @@ Requires Node.js 18+.
 
 ```
 src/
-  components/        Reusable UI components
+  components/        Reusable UI components (Astro + React)
   content/
-    policies/        48 policy documents (Markdown)
+    policies/        49 policy documents in English (Markdown)
+    policies-es/     48 policy documents in Spanish (Markdown)
     config.ts        Content collection schema
   i18n/              Translation strings (en.json, es.json)
   layouts/           Page layouts
   pages/
     platform/        Policy platform pages
-    tools/           Interactive tool pages
+    tools/           Interactive tool pages (11 tools)
   styles/            Global CSS
+  data/              Static data files (eviction stats, campaign finance, etc.)
+functions/
+  api/               Cloudflare Functions (newsletter subscribe endpoint)
 workers/
   eviction-scraper/  Cloudflare Worker + D1 for court eviction data
   campaign-finance/  Cloudflare Worker + D1 for donation tracking
 vapi/                Voice assistant configuration
+tests/               Test files (Vitest)
+collateral/          Campaign materials, outreach docs, fundraising
 public/              Static assets
 ```
 
@@ -74,13 +81,19 @@ For detailed setup instructions covering email routing, newsletter capture, Goog
 
 ## Interactive Tools
 
-| Tool | Description |
-|------|-------------|
-| **Eviction Tracker** | Live dashboard of eviction filings by landlord and neighborhood |
-| **Follow the Money** | Campaign finance transparency for Denver City Council |
-| **Rent Calculator** | See savings under proposed rent stabilization |
-| **Know Your Rights** | 24/7 tenant rights chatbot in English and Spanish |
-| **Resistbot Campaigns** | Pre-written letters to elected officials |
+| Tool | Type | Description |
+|------|------|-------------|
+| **Eviction Tracker** | Data + Resources | Eviction data from Princeton Eviction Lab and Colorado Judicial Branch, plus tenant defense resources |
+| **Eviction Crisis: By the Numbers** | Data Story | Scrollytelling visualization of the eviction surge, hardest-hit neighborhoods, and collapsing safety net |
+| **Rent Control Calculator** | Interactive | Enter your rent and see savings under proposed rent stabilization, with shareable social graphics |
+| **Follow the Money** | Data + Accountability | Council voting scorecard on progressive priorities with campaign contribution search links |
+| **Know Your Rights** | AI-Powered | 24/7 tenant rights chatbot in English and Spanish via voice or chat |
+| **Council Candidate Tracker** | 2027 Election | Same 10 questions sent to every City Council candidate — answers and silences published unedited |
+| **Mayoral Tracker** | 2027 Election | 10 questions on executive power sent to every declared mayoral candidate |
+| **Money in Denver Politics** | Data Story | Scrollytelling on outside spending, billionaire donors, real estate PACs, and the Fair Elections Fund |
+| **Sidewalk Data Explorer** | Data Story | Scrollytelling on missing and deficient sidewalks, dangerous streets, and transit access gaps |
+| **State Sponsor Tracker** | 2026 Session | Colorado General Assembly legislators sponsoring bills aligned with our platform |
+| **Resistbot Campaigns** | Rapid Organizing | Pre-written letter templates to officials at every level of government, convertible to petitions |
 
 Tools that require backend data (eviction tracker, campaign finance) use Cloudflare Workers with D1 databases. See `workers/` for schemas and deployment instructions.
 
@@ -90,19 +103,20 @@ This platform is built to be adapted. To use it for a different city:
 
 1. Fork the repository
 2. Update policy content in `src/content/policies/` with your local data, laws, and proposals
-3. Update city-specific references in page templates
-4. Replace Denver-specific data sources in Workers with your local equivalents
-5. Update translations in `src/i18n/`
+3. Add translations in `src/content/policies-es/` (or your target language directory)
+4. Update city-specific references in page templates
+5. Replace Denver-specific data sources in Workers with your local equivalents
+6. Update translations in `src/i18n/`
 
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved. Areas where help is needed:
 
-- **Spanish translations** of policy documents (currently English-only)
 - **Data sourcing** and citation verification for policy claims
-- **Accessibility** improvements
+- **Accessibility** improvements (WCAG compliance, screen reader testing)
 - **New interactive tools** for civic engagement
 - **Design** and UX improvements
+- **Forking guides** for other cities adapting the platform
 
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
 
@@ -122,11 +136,12 @@ To report a security vulnerability, see [SECURITY.md](SECURITY.md). Do not open 
 | Cloudflare Pages hosting | Free |
 | Cloudflare Workers (free tier) | Free |
 | Email routing | Free |
-| EmailOctopus (up to 2,500 subscribers) | Free |
-| Claude API tokens (policy research & analysis) | $0-4,800 |
-| Resistbot amplification (petition campaigns) | $0-4,800 |
+| Resend (transactional email) | Free tier |
 | vAPI tenant chatbot (est. 20 calls/month) | $60-150 |
-| **Total** | **$70-9,762/year** |
+| Claude API tokens (optional — policy research & analysis) | $0-4,800 |
+| Resistbot amplification (optional — petition campaigns) | $0-4,800 |
+| **Total (core)** | **$70-162/year** |
+| **Total (with optional tools)** | **$70-9,762/year** |
 
 ## Support
 

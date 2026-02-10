@@ -4,7 +4,7 @@ Grassroots fundraising materials and partnership outreach for DenverForAll's pol
 
 ## Strategy: Open Collective + Small Grassroots Donations
 
-**Open Collective with Open Source Collective** as fiscal host. No grants, no 501(c)(3), no gatekeepers. Public real-time ledger showing every dollar in and every dollar out.
+**Open Collective** for transparent grassroots fundraising. Currently applying for fiscal hosting through **Open Source Collective**. No grants, no 501(c)(3), no gatekeepers. Public real-time ledger showing every dollar in and every dollar out.
 
 $200–800/month from small donors funds all ongoing operations: Claude API tokens for policy research, Resistbot amplification, data visualizations, hosting upgrades, and bilingual translations.
 

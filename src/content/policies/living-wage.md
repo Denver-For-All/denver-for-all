@@ -9,6 +9,27 @@ order: 10
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "$18.81"
+    label: "Denver's current minimum wage"
+    labelEs: "salario minimo actual de Denver"
+    context: "Marketed as progressive, but $6-7/hr below what a family of four needs to survive"
+    contextEs: "Presentado como progresista, pero $6-7/hr por debajo de lo que necesita una familia de cuatro"
+    theme: "accent"
+  - value: "$25/hr"
+    label: "what a family of four actually needs"
+    labelEs: "lo que una familia de cuatro realmente necesita"
+    context: "MIT Living Wage Calculator for Denver County — and still not enough for single parents"
+    contextEs: "Calculadora de salario digno del MIT para el Condado de Denver — y aun no alcanza para padres solteros"
+    source: "MIT Living Wage Calculator, 2024"
+    theme: "primary"
+  - value: "$42-44/hr"
+    label: "living wage for a single parent with one child"
+    labelEs: "salario digno para un padre soltero con un hijo"
+    context: "Current minimum wage covers less than half of what a single parent needs"
+    contextEs: "El salario minimo actual cubre menos de la mitad de lo que necesita un padre soltero"
+    source: "MIT Living Wage Calculator, Denver County"
+    theme: "danger"
 ---
 
 ## The Problem

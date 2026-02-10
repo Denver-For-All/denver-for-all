@@ -79,7 +79,7 @@ These bills address Tier 3 barriers identified in [LEGISLATION-READY.md](./LEGIS
 | **HB26-1084** | Voter Transparency in Ballot Measures | Government Transparency (#20) | Expands disclosure of ballot measure funding sources. |
 | **HB26-1121** | Public Accessibility of Emissions Records | Transparency (#20), Climate (#30) | Requires public access to stationary source emissions records. |
 
-### Health, Mental Health & Maternal Equity
+### Health, Mental Health, Maternal Equity & Reproductive Healthcare
 
 | Bill | Title | Our Policy | Notes |
 |------|-------|-----------|-------|
@@ -90,14 +90,33 @@ These bills address Tier 3 barriers identified in [LEGISLATION-READY.md](./LEGIS
 | **HB26-1116** | Process for People with Behavioral Health Disorder | Mental Health (#26) | Behavioral health system improvements. |
 | **HB26-1096** | Colorado Medicaid Access to Primary Care Services | Healthcare as a Right (#22) | Direct primary care for Medicaid members. |
 | **SB26-041** | Consumer Protections Medical Care Entities | Healthcare (#22) | Consumer protections in medical transactions -- aligns with hospital cost transparency. |
-| **HB26-1122** | Mandatory Coverage Hormone Replacement Therapy | Healthcare (#22) | Healthcare coverage expansion. |
-| **HB26-1040** | Sterilization Rights of Person with Disabilities | Disability Rights (#24) | Protects sterilization rights for people with IDD. |
+| **HB26-1122** | Mandatory Coverage Hormone Replacement Therapy | Healthcare (#22), Reproductive Healthcare (new), LGBTQ+ Sanctuary (#29) | HRT coverage supports both gender-affirming care and reproductive healthcare. Intersection of trans healthcare and reproductive autonomy. |
+| **HB26-1040** | Sterilization Rights of Person with Disabilities | Disability Rights (#24), Reproductive Healthcare (new) | Bodily autonomy -- protects sterilization rights for people with IDD. Direct alignment with our bodily autonomy framework. |
 | **SB26-006** | Parity for Non-Opioid Pain Management Drugs | Healthcare (#22) | Reduces opioid dependency through alternative coverage. |
 | **HB26-1107** | Health Care in Regulated Facilities | Healthcare (#22) | Increases access to services in medical care facilities. |
 | **SB26-032** | Promoting Immunization Access | Healthcare (#22) | Immunization access. Already passed Senate Third Reading. |
 | **HB26-1069** | Availability of Emergency Medical Services | Healthcare (#22) | EMS availability. |
 | **SB26-063** | Nonemergency Medical Transportation Services | Healthcare (#22) | Medicaid nonemergency medical transportation. |
 | **HB26-1139** | Use of Artificial Intelligence in Health Care | Digital Rights (#20), Healthcare | AI regulation in healthcare -- intersection of our tech accountability and health equity work. |
+
+#### Foundational Legislation: Reproductive Healthcare (Pre-2026 Session)
+
+The following pre-2026 legislation forms the foundation for our new Reproductive Healthcare Access policy:
+
+| Legislation | Title | Status | Relevance |
+|------------|-------|--------|-----------|
+| **Amendment 79** | Right to Abortion and Health Insurance Coverage | Approved by voters Nov 2024 (61.6%); effective Jan 1, 2026 | Enshrines abortion rights in Colorado Constitution. Lifts ban on public insurance coverage for abortion. Foundation for our entire reproductive healthcare policy. |
+| **SB25-183** | Reproductive Health Care Coverage Under Medicaid | Signed into law 2025 | Implements Amendment 79 by expanding Medicaid to cover abortion as "family-planning-related services." First time abortion eligible for Medicaid reimbursement in Colorado. Our policy addresses the reimbursement rate adequacy that will determine whether providers actually participate. |
+| **SB23-188 / SB25-129** | Colorado Shield Laws | Signed into law 2023/2025 | Protects Colorado providers from out-of-state legal action related to reproductive healthcare. Our municipal non-cooperation directive extends this framework to the city level. |
+
+#### Opposing Bills: Reproductive Healthcare Threats
+
+| Bill | Title | Our Position | Notes |
+|------|-------|-------------|-------|
+| **HB26-1085** | Do Not Abort Form | **Strongly oppose** | Creates mandatory paperwork and administrative barriers designed to delay and discourage abortion access. Part of the national "incremental restriction" strategy -- does not ban abortion but imposes friction. Contrary to Amendment 79's intent and our Reproductive Healthcare Access policy. |
+| **HB26-1087** | Safeguard Minors from Sex-Altering Interventions | **Strongly oppose** | Restricts gender-affirming care for minors. Contrary to LGBTQ+ Sanctuary (#29) and our bodily autonomy framework. |
+| **HB26-1128** | Limitation on Gender Transition Procedure Claims | **Strongly oppose** | Limits legal recourse for gender transition procedures. Contrary to LGBTQ+ Sanctuary (#29). |
+| **HB26-1083** | Protect Female Sports Act | **Strongly oppose** | Targets trans youth. Contrary to LGBTQ+ Sanctuary (#29). |
 
 ### Energy, Climate & Environment
 
@@ -198,10 +217,10 @@ The following bill categories have no alignment with our platform and in some ca
 - **Supplemental appropriations** (HB26-1150 through HB26-1179) -- Routine budget housekeeping, not policy-relevant
 - **Military resolutions** (HJR26-1004 through HJR26-1016) -- Ceremonial, not policy-relevant
 - **HB26-1072** (Eliminate Extreme Risk Protection Orders) -- Contrary to our public safety approach
-- **HB26-1083** (Protect Female Sports Act) -- Contrary to our LGBTQ+ Sanctuary policy
-- **HB26-1087** (Safeguard Minors from Sex-Altering Interventions) -- Contrary to our LGBTQ+ Sanctuary policy
-- **HB26-1128** (Limitation on Gender Transition Procedure Claims) -- Contrary to our LGBTQ+ Sanctuary policy
-- **HB26-1085** (Do Not Abort Form) -- Not aligned with our healthcare framework
+- **HB26-1083** (Protect Female Sports Act) -- Contrary to our LGBTQ+ Sanctuary policy. See detailed analysis in Health section above.
+- **HB26-1087** (Safeguard Minors from Sex-Altering Interventions) -- Contrary to our LGBTQ+ Sanctuary policy. See detailed analysis in Health section above.
+- **HB26-1128** (Limitation on Gender Transition Procedure Claims) -- Contrary to our LGBTQ+ Sanctuary policy. See detailed analysis in Health section above.
+- **HB26-1085** (Do Not Abort Form) -- Contrary to our Reproductive Healthcare Access policy and Amendment 79's intent. See detailed analysis in Health section above.
 - **HB26-1021** (Second Amendment Protection Act) -- Contrary to our gun violence prevention stance
 - **SB26-028** (Removal of Wind Energy from State Energy Goals) -- Directly contrary to our clean energy and climate goals
 - **HB26-1074** (90 Day Legislative Session) -- Limits legislative capacity to pass the reforms we need
@@ -236,7 +255,7 @@ The following bill categories have no alignment with our platform and in some ca
 | Housing & Tenant Protections | 18 | HB26-1036, HB26-1106, HB26-1047, HB26-1001, SB26-001, HB26-1065 |
 | Labor & Economy | 7 | HB26-1005, SB26-081, HB26-1054, SB26-047, HB26-1046 |
 | Digital Rights & Surveillance | 5 | SB26-071, SB26-070, HB26-1037, HB26-1084, HB26-1121 |
-| Health & Mental Health | 15 | HB26-1044, SB26-008, HB26-1002, HB26-1063, HB26-1096, SB26-041 |
+| Health, Mental Health & Reproductive Healthcare | 15+ | HB26-1044, SB26-008, HB26-1002, HB26-1063, HB26-1096, SB26-041, HB26-1122, HB26-1040; Foundational: Amendment 79, SB25-183, SB23-188/SB25-129; Opposing: HB26-1085 |
 | Climate & Environment | 18 | SB26-002, HB26-1081, SB26-033, SB26-022, HB26-1051, SB26-003 |
 | Immigration | 2 | SB26-005, SJR26-006 |
 | Justice & Public Safety | 7 | HB26-1039, HB26-1123, SB26-036, HB26-1064, HB26-1134 |

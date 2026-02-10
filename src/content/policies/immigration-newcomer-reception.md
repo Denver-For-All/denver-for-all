@@ -9,6 +9,28 @@ order: 41
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "$150/night"
+    label: "emergency shelter vs $30/night transitional"
+    labelEs: "refugio de emergencia vs $30/noche transicional"
+    context: "Denver spent $100M+ on emergency response that a planned system could deliver for a quarter of the cost"
+    contextEs: "Denver gasto mas de $100M en respuesta de emergencia que un sistema planificado podria hacer por un cuarto del costo"
+    source: "National Alliance to End Homelessness, 2023"
+    theme: "danger"
+  - value: "40,000+"
+    label: "newcomers arrived with no system in place"
+    labelEs: "recien llegados sin un sistema establecido"
+    context: "Denver proved it has the compassion. Now it needs the infrastructure."
+    contextEs: "Denver demostro que tiene compasion. Ahora necesita la infraestructura."
+    source: "Denver Human Services, 2024"
+    theme: "accent"
+  - value: "90%"
+    label: "of Canada's refugees achieved self-sufficiency"
+    labelEs: "de los refugiados de Canada lograron autosuficiencia"
+    context: "Government-assisted refugees reached financial independence within 5 years"
+    contextEs: "Refugiados asistidos por el gobierno alcanzaron independencia financiera en 5 anos"
+    source: "Immigration, Refugees and Citizenship Canada, 2019"
+    theme: "secondary"
 ---
 
 ## The Problem

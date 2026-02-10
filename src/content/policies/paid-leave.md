@@ -9,6 +9,26 @@ order: 16
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "1 of 6"
+    label: "countries on Earth with no paid parental leave"
+    labelEs: "paises en la Tierra sin licencia parental pagada"
+    context: "The US keeps company with Papua New Guinea, not peer nations"
+    contextEs: "EE.UU. se compara con Papua Nueva Guinea, no con naciones pares"
+    theme: "danger"
+  - value: "1 in 4"
+    label: "US workers with zero paid vacation days"
+    labelEs: "trabajadores de EE.UU. con cero dias de vacaciones pagadas"
+    context: "Europeans get 20-30 days; one in four Americans gets nothing"
+    contextEs: "Los europeos tienen 20-30 dias; uno de cada cuatro estadounidenses no tiene nada"
+    theme: "danger"
+  - value: "10% to 90%"
+    label: "fathers taking leave after Sweden's daddy quota"
+    labelEs: "padres que toman licencia tras la cuota paterna de Suecia"
+    context: "Reserved non-transferable leave transformed who takes parental leave"
+    contextEs: "La licencia reservada e intransferible transformo quien toma licencia parental"
+    source: "Swedish Social Insurance Agency, 2023"
+    theme: "primary"
 ---
 
 ## The Problem

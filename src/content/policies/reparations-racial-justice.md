@@ -9,6 +9,28 @@ order: 71
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "10:1"
+    label: "white-to-Black household wealth ratio in Denver"
+    labelEs: "proporcion de riqueza de hogares blancos a negros en Denver"
+    context: "Median white household ~$250K. Median Black household ~$24K."
+    contextEs: "Hogar blanco mediano ~$250K. Hogar negro mediano ~$24K."
+    source: "Federal Reserve Survey of Consumer Finances, 2022"
+    theme: "danger"
+  - value: "11 years"
+    label: "life expectancy gap across Denver neighborhoods"
+    labelEs: "brecha de esperanza de vida entre vecindarios de Denver"
+    context: "Shortest lives in the poorest, most racially segregated communities"
+    contextEs: "Las vidas mas cortas en las comunidades mas pobres y segregadas"
+    source: "Colorado Health Institute, 2022"
+    theme: "danger"
+  - value: "$6.2M"
+    label: "Evanston proved cities can do reparations"
+    labelEs: "Evanston demostro que las ciudades pueden hacer reparaciones"
+    context: "First US city to disburse publicly funded reparations — 132 recipients"
+    contextEs: "Primera ciudad de EE.UU. en desembolsar reparaciones con fondos publicos"
+    source: "City of Evanston, 2025"
+    theme: "primary"
 ---
 
 ## The Problem

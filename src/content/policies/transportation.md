@@ -10,6 +10,28 @@ status: "draft"
 actionTarget: "mayor"
 grantProposal: "transportation-hsip-ss4a"
 hasFundingSources: true
+keyStats:
+  - value: "93"
+    label: "people killed on Denver streets in 2025"
+    labelEs: "personas muertas en calles de Denver en 2025"
+    context: "The deadliest year since 2013. Pedestrian deaths up 34%. Vision Zero is failing."
+    contextEs: "El ano mas mortal desde 2013. Muertes de peatones aumentaron 34%."
+    source: "Denver Vision Zero Dashboard, 2025"
+    theme: "danger"
+  - value: "38%"
+    label: "drop in RTD ridership since 2019"
+    labelEs: "caida en pasajeros de RTD desde 2019"
+    context: "From 105.8M to 65.2M riders while peer cities recovered to 85%+"
+    contextEs: "De 105.8M a 65.2M pasajeros mientras ciudades similares recuperaron al 85%+"
+    source: "Denver Post, October 2025"
+    theme: "danger"
+  - value: "$3.5B/yr"
+    label: "lost to traffic congestion in Denver"
+    labelEs: "perdidos por congestion vehicular en Denver"
+    context: "Free transit costs $35M — that is 1% of congestion losses"
+    contextEs: "Transito gratuito cuesta $35M — eso es el 1% de las perdidas por congestion"
+    source: "Texas A&M Transportation Institute, 2025"
+    theme: "accent"
 ---
 
 ## The Problem

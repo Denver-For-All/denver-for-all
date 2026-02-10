@@ -10,6 +10,28 @@ status: "draft"
 actionTarget: "mayor"
 grantProposal: "community-land-trusts-hud-home"
 hasFundingSources: true
+keyStats:
+  - value: "10x"
+    label: "lower foreclosure rate than conventional"
+    labelEs: "menor tasa de ejecucion hipotecaria"
+    context: "CLT homeowners almost never lose their homes — the model is designed to protect them"
+    contextEs: "Los propietarios de CLT casi nunca pierden sus hogares — el modelo esta disenado para protegerlos"
+    source: "Champlain Housing Trust, Burlington VT"
+    theme: "primary"
+  - value: "20-40"
+    label: "CLT homes added per year in Denver"
+    labelEs: "hogares CLT agregados por ano en Denver"
+    context: "At this pace it would take 50+ years to reach 2,500 homes"
+    contextEs: "A este ritmo tomaria mas de 50 anos llegar a 2,500 hogares"
+    source: "Elevation Community Land Trust"
+    theme: "danger"
+  - value: "2,800+"
+    label: "CLT homes built in Burlington since 1984"
+    labelEs: "hogares CLT construidos en Burlington desde 1984"
+    context: "The largest CLT in the US proves the model works at scale, across generations"
+    contextEs: "El CLT mas grande de EE.UU. demuestra que el modelo funciona a escala"
+    source: "Champlain Housing Trust"
+    theme: "secondary"
 ---
 
 ## The Problem

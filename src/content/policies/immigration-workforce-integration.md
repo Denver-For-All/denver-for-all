@@ -9,6 +9,28 @@ order: 42
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "2M"
+    label: "college-educated immigrants stuck in wrong jobs"
+    labelEs: "inmigrantes con educacion universitaria en empleos inadecuados"
+    context: "Foreign-trained doctors drive Uber. Engineers work in kitchens. Teachers clean offices."
+    contextEs: "Doctores formados en el extranjero manejan Uber. Ingenieros trabajan en cocinas."
+    source: "Migration Policy Institute, 2023"
+    theme: "danger"
+  - value: "75%"
+    label: "of mentored immigrants found work in their field"
+    labelEs: "de inmigrantes con mentor encontraron trabajo en su campo"
+    context: "Toronto's mentorship program returned $4 for every $1 invested within 12 months"
+    contextEs: "El programa de mentoria de Toronto devolvio $4 por cada $1 invertido en 12 meses"
+    source: "TRIEC, 2021"
+    theme: "primary"
+  - value: "4:1"
+    label: "return on every dollar invested"
+    labelEs: "retorno por cada dolar invertido"
+    context: "Credential recognition doesn't cost money — it makes money"
+    contextEs: "El reconocimiento de credenciales no cuesta dinero — genera dinero"
+    source: "TRIEC, 2021"
+    theme: "primary"
 ---
 
 ## The Problem

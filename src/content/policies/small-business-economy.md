@@ -9,6 +9,27 @@ order: 75
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "405"
+    label: "Denver restaurants closed in 2 years"
+    labelEs: "restaurantes de Denver cerraron en 2 anos"
+    context: "Net closures 2022-2024 — replaced by chains"
+    contextEs: "Cierres netos 2022-2024 — reemplazados por cadenas"
+    source: "Colorado Restaurant Association, 2024"
+    theme: "danger"
+  - value: "$45 vs $14"
+    label: "local spending creates 3x the economic activity"
+    labelEs: "el gasto local crea 3x la actividad economica"
+    context: "Every $100 at a local business generates $45 locally vs $14 at a chain"
+    contextEs: "Cada $100 en un negocio local genera $45 localmente vs $14 en una cadena"
+    source: "Civic Economics; Institute for Local Self-Reliance"
+    theme: "primary"
+  - value: "77%"
+    label: "of small businesses rejected by big banks"
+    labelEs: "de pequenos negocios rechazados por grandes bancos"
+    context: "Black entrepreneurs start with 1/3 the capital of white entrepreneurs"
+    contextEs: "Emprendedores negros comienzan con 1/3 del capital de emprendedores blancos"
+    theme: "danger"
 ---
 
 ## The Problem

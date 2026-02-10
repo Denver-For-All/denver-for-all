@@ -9,6 +9,28 @@ order: 60
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "100+ years"
+    label: "Bank of North Dakota has never lost money"
+    labelEs: "Banco de Dakota del Norte nunca ha perdido dinero"
+    context: "Survived the Depression, 2008, and COVID — returns $100M+/year to the state"
+    contextEs: "Sobrevivio la Depresion, 2008 y COVID — devuelve $100M+/ano al estado"
+    source: "Bank of North Dakota Annual Reports"
+    theme: "primary"
+  - value: "18.4%"
+    label: "of US households unbanked or underbanked"
+    labelEs: "de hogares en EE.UU. sin o con acceso limitado a bancos"
+    context: "Disproportionately communities of color"
+    contextEs: "Desproporcionadamente comunidades de color"
+    source: "FDIC, 2023"
+    theme: "danger"
+  - value: "400+"
+    label: "public savings banks in Germany alone"
+    labelEs: "cajas de ahorro publicas solo en Alemania"
+    context: "Serving 50 million customers — public banking is normal worldwide"
+    contextEs: "Sirviendo a 50 millones de clientes — la banca publica es normal en el mundo"
+    source: "German Sparkassen Association"
+    theme: "secondary"
 ---
 
 ## The Problem

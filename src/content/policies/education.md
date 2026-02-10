@@ -9,6 +9,27 @@ order: 50
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "1 in 4"
+    label: "Denver children face food insecurity"
+    labelEs: "ninos de Denver enfrentan inseguridad alimentaria"
+    context: "Universal free meals eliminate both hunger and the stigma of free lunch identification"
+    contextEs: "Las comidas gratuitas universales eliminan tanto el hambre como el estigma"
+    source: "Hunger Free Colorado, 2023"
+    theme: "danger"
+  - value: "40%+"
+    label: "of DPS teachers considered leaving within 2 years"
+    labelEs: "de maestros de DPS consideraron irse en 2 anos"
+    context: "Average teacher salary is $58K but Denver housing alone requires $55K"
+    contextEs: "El salario promedio de maestros es $58K pero la vivienda en Denver sola requiere $55K"
+    source: "Denver Classroom Teachers Association, 2023"
+    theme: "danger"
+  - value: "99%"
+    label: "preschool enrollment in France (free from age 3)"
+    labelEs: "inscripcion preescolar en Francia (gratis desde los 3 anos)"
+    context: "Every top-performing education system has universal pre-K, free meals, and well-paid teachers"
+    contextEs: "Todo sistema educativo de alto rendimiento tiene pre-K universal y maestros bien pagados"
+    theme: "secondary"
 ---
 
 ## The Problem

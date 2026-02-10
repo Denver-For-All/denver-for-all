@@ -9,6 +9,27 @@ order: 11
 status: "draft"
 actionTarget: "state"
 hasFundingSources: true
+keyStats:
+  - value: "2x"
+    label: "poverty rate for tipped vs non-tipped workers"
+    labelEs: "tasa de pobreza de trabajadores con propinas vs sin propinas"
+    context: "Tipped workers experience poverty at double the rate of other workers"
+    contextEs: "Los trabajadores con propinas experimentan pobreza al doble de la tasa de otros trabajadores"
+    theme: "danger"
+  - value: "7 states"
+    label: "already eliminated tipped minimum wage"
+    labelEs: "ya eliminaron el salario minimo con propinas"
+    context: "Restaurant job growth in One Fair Wage states exceeds tipped-wage states"
+    contextEs: "El crecimiento de empleo en restaurantes en estados con Un Salario Justo supera a los estados con propinas"
+    source: "Economic Policy Institute, 2023"
+    theme: "primary"
+  - value: "40,000"
+    label: "Denver tipped workers stuck in this system"
+    labelEs: "trabajadores con propinas en Denver atrapados en este sistema"
+    context: "Concentrated in restaurants, bars, hotels, and personal services"
+    contextEs: "Concentrados en restaurantes, bares, hoteles y servicios personales"
+    source: "BLS, 2023"
+    theme: "accent"
 ---
 
 ## The Problem

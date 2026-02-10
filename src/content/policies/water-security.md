@@ -9,6 +9,26 @@ order: 32
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "14-17 in."
+    label: "rain per year — half the national average"
+    labelEs: "lluvia al ano — la mitad del promedio nacional"
+    context: "Denver is a semi-arid city that landscapes like it rains in Seattle"
+    contextEs: "Denver es una ciudad semiarida que se jardinea como si lloviera como en Seattle"
+    theme: "danger"
+  - value: "50%"
+    label: "residential water used on lawn irrigation"
+    labelEs: "agua residencial usada para regar cesped"
+    context: "Kentucky bluegrass needs 30+ inches of water. Denver gets 14-17."
+    contextEs: "El pasto Kentucky bluegrass necesita mas de 30 pulgadas de agua. Denver recibe 14-17."
+    theme: "accent"
+  - value: "-50%"
+    label: "Melbourne cut water use in half — and kept it"
+    labelEs: "Melbourne redujo el uso de agua a la mitad y lo mantuvo"
+    context: "Mandatory conservation during drought, permanent rules after"
+    contextEs: "Conservacion obligatoria durante la sequia, reglas permanentes despues"
+    source: "City of Melbourne"
+    theme: "primary"
 ---
 
 ## The Problem

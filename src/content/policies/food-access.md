@@ -9,6 +9,28 @@ order: 22
 status: "draft"
 actionTarget: "mayor"
 hasFundingSources: true
+keyStats:
+  - value: "33%"
+    label: "of Denver faces food insecurity"
+    labelEs: "de Denver enfrenta inseguridad alimentaria"
+    context: "Triple the pre-pandemic rate — and climbing after SNAP expansions expired"
+    contextEs: "Triple la tasa pre-pandemia — y subiendo despues de que expiraron las expansiones de SNAP"
+    source: "Denver DDPHE; Hunger Free Colorado"
+    theme: "danger"
+  - value: "93%"
+    label: "of Globeville has no grocery store nearby"
+    labelEs: "de Globeville no tiene supermercado cerca"
+    context: "In Clayton it is 100%. Predominantly Black and Latino neighborhoods."
+    contextEs: "En Clayton es 100%. Vecindarios predominantemente negros y latinos."
+    source: "Denver Human Services Index"
+    theme: "danger"
+  - value: "60%"
+    label: "drop in child mortality in Belo Horizonte"
+    labelEs: "caida en mortalidad infantil en Belo Horizonte"
+    context: "Brazil declared food a right in 1993 — cost just 2% of the city budget"
+    contextEs: "Brasil declaro la alimentacion un derecho en 1993 — costo solo 2% del presupuesto"
+    source: "City of Belo Horizonte"
+    theme: "primary"
 ---
 
 ## The Problem

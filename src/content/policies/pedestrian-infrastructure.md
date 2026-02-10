@@ -10,6 +10,28 @@ status: "draft"
 actionTarget: "mayor"
 grantProposal: "pedestrian-infrastructure-ss4a"
 hasFundingSources: true
+keyStats:
+  - value: "1,480 mi"
+    label: "of sidewalks missing or failing Denverites"
+    labelEs: "de aceras faltantes o fallando a los residentes de Denver"
+    context: "43% of Denver's sidewalk network is either missing entirely or too narrow for a wheelchair"
+    contextEs: "El 43% de la red de aceras de Denver falta completamente o es demasiado estrecha para una silla de ruedas"
+    source: "DOTI State of the System Report, January 2026"
+    theme: "danger"
+  - value: "400+ yrs"
+    label: "to finish sidewalks at previous funding pace"
+    labelEs: "para terminar aceras al ritmo de financiamiento anterior"
+    context: "That number is not hyperbole. It is the math of chronic underinvestment."
+    contextEs: "Ese numero no es una hiperbole. Es la matematica de la falta cronica de inversion."
+    source: "Denver Streets Partnership, 2022"
+    theme: "danger"
+  - value: "2x"
+    label: "pedestrian death rate in low-income neighborhoods"
+    labelEs: "tasa de muertes peatonales en vecindarios de bajos ingresos"
+    context: "The same neighborhoods least likely to have sidewalks have the highest fatality rates"
+    contextEs: "Los mismos vecindarios con menos probabilidad de tener aceras tienen las tasas mas altas de muertes peatonales"
+    source: "Denver Streets Partnership, 2022"
+    theme: "accent"
 ---
 
 ## The Problem

@@ -109,6 +109,7 @@ const categoryMap: Record<string, { en: string; es: string }> = {
             summaryEs={policy.data.summaryEs}
             category={categoryMap[policy.data.category]?.en || policy.data.category}
             categoryEs={categoryMap[policy.data.category]?.es}
+            categoryKey={policy.data.category}
             icon={policy.data.icon}
           />
         ))}

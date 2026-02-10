@@ -52,7 +52,7 @@ const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Pol
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
-<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es">
+<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es" image={`/og/${policy.data.category}.png`}>
   <article class="section">
     <div class="container container--narrow">
       <a href="/es/platform" class="back-link">

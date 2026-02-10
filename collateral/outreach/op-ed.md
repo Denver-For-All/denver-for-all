@@ -37,19 +37,19 @@ Why: Denverite is the most accessible Tier 1 outlet for first-time writers, is d
 
 **Title:** Denver's Eviction Court Is a Machine Built for Landlords. HB26-1106 Could Change That.
 
-**Author bio:** [Name] is a Denver resident and contributor to Denver For All, a grassroots platform of data-driven policy proposals for Denver.
+**Author bio:** David McHale is a small business owner, renter, and father in Denver's District 11. He is a contributor to Denver For All (denverforall.org), a grassroots platform of data-driven policy proposals for Denver.
 
 ---
 
-Last year, Denver County Court processed over 15,000 eviction filings. That's roughly 40 families a day walking into a courtroom where the outcome was essentially predetermined.
+When our landlord tried to push our rent from $3,100 to over $5,400, my family was in the middle of searching for more accessible housing for my son. The timing couldn't have been worse. They posted eviction notices on doors before rent was even late — not just ours, everyone's. Papers taped up in the hallways like warnings. When we pushed back on the increase, they tried to pressure us into paying months of penalty at the new rate. They only backed down when we became more trouble than we were worth.
 
-Here's why: over 90 percent of landlords in Denver eviction court have an attorney. Fewer than 10 percent of tenants do. If you've never been inside an eviction courtroom, picture a traffic court where every officer has a lawyer and every driver represents themselves, except the penalty isn't a fine — it's losing your home.
+We got out. A lot of our neighbors didn't have that option.
 
-That 15,000 number is 72 percent above pre-pandemic levels. The eviction machine didn't slow down after COVID protections expired. It sped up.
+I started looking at the data after we left, and the scale of it floored me. Last year, Denver County Court processed over 15,000 eviction filings — roughly 40 families a day. That number is 72 percent above pre-pandemic levels. The eviction machine didn't slow down after COVID protections expired. It sped up.
 
-I started digging into this data because I kept hearing from neighbors — in Capitol Hill, in Montbello, in Westwood — that they'd gotten notices and didn't know what to do. The more I looked, the worse it got. Denver's eviction filing rate has climbed every year since 2021. The filings are concentrated in the same neighborhoods with the highest poverty rates and the least access to legal help. If you map eviction filings by ZIP code, you're looking at a map of inequality in Denver.
+Here's the detail that makes the whole system make sense: over 90 percent of landlords in Denver eviction court have an attorney. Fewer than 10 percent of tenants do. Picture a traffic court where every officer has a lawyer and every driver represents themselves, except the penalty isn't a fine — it's losing your home.
 
-You can see this yourself. There's a publicly accessible eviction tracker at denverforall.org/tools/evictions that maps filings by neighborhood. The data is from Denver County Court. It's not opinion — it's what's happening.
+The filings concentrate in the same neighborhoods with the highest poverty rates and the least access to legal help. If you map eviction filings by ZIP code, you're looking at a map of inequality in Denver. There's a publicly accessible eviction tracker at denverforall.org/tools/evictions that maps filings by neighborhood. The data is from Denver County Court. It's not opinion — it's what's happening.
 
 **What other cities figured out**
 
@@ -86,7 +86,8 @@ Forty families a day. We can do better than this.
 
 Hi,
 
-I'm submitting an op-ed (780 words) on Denver's eviction filing data — 15,000+ filings in 2025, 72% above pre-pandemic levels, with a 90-to-10 attorney representation gap between landlords and tenants. The piece is timed to HB26-1106, which is currently in the Judiciary Committee and would strengthen tenant protections. I include proof-city comparisons (New York, San Francisco) and connect the eviction pipeline to Denver's homelessness costs. This is a data piece with a policy hook, not an advocacy puff piece. Happy to discuss or adjust length.
+I'm submitting an op-ed (~800 words) on Denver's eviction crisis. My family was priced out of our apartment while searching for accessible housing for my son — rent jumped from $3,100 to over $5,400 in proposed terms. That personal experience led me to the systemic data: 15,000+ eviction filings in Denver County Court last year, 72% above pre-pandemic levels, with a 90-to-10 attorney representation gap. The piece is timed to HB26-1106, currently in the Judiciary Committee, and includes proof-city comparisons (New York, San Francisco) and the cost math connecting evictions to Denver's homelessness spending. Happy to discuss or adjust length.
 
-[Name]
-denverforall.org
+David McHale
+Contributor, Denver For All (denverforall.org)
+District 11 resident, small business owner

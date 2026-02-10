@@ -43,7 +43,7 @@ Why: Denverite is the most accessible Tier 1 outlet for first-time writers, is d
 
 When our landlord tried to push our rent from $3,100 to over $5,400, my family was in the middle of searching for more accessible housing for my son. The timing couldn't have been worse. They posted eviction notices on doors before rent was even late — not just ours, everyone's. Papers taped up in the hallways like warnings. When we pushed back on the increase, they tried to pressure us into paying months of penalty at the new rate. They only backed down when we became more trouble than we were worth.
 
-We got out. A lot of our neighbors didn't have that option.
+We got out. A lot of our neighbors didn't have that option. Many of them didn't speak great English. I don't know how you're supposed to defend yourself against that kind of pressure — eviction notices on the door, rent hikes you can barely read, and a courtroom where 90 percent of landlords have attorneys and you have nothing.
 
 I started looking at the data after we left, and the scale of it floored me. Last year, Denver County Court processed over 15,000 eviction filings — roughly 40 families a day. That number is 72 percent above pre-pandemic levels. The eviction machine didn't slow down after COVID protections expired. It sped up.
 

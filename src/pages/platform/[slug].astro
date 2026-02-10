@@ -50,6 +50,11 @@ const categoryMap: Record<string, string> = {
   community: 'Comunidad y Cultura',
 };
 const categoryEs = categoryMap[policy.data.category] || policy.data.category;
+
+const ghRepo = 'Denver-For-All/denver-for-all';
+const issueTitle = encodeURIComponent(`Feedback: ${policy.data.title}`);
+const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](https://denverforall.org/platform/${policy.slug})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
+const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
 <Layout title={policy.data.title} description={policy.data.summary}>
@@ -148,6 +153,35 @@ const categoryEs = categoryMap[policy.data.category] || policy.data.category;
             </button>
           </div>
         </div>
+
+        <div class="policy-feedback">
+          <h3 data-en="Help Improve This Proposal" data-es="Ayuda a Mejorar Esta Propuesta">Help Improve This Proposal</h3>
+          <p data-en="Found an error, have a data source, or want to suggest changes? This platform is open source and community-driven." data-es="¿Encontraste un error, tienes una fuente de datos o quieres sugerir cambios? Esta plataforma es de código abierto e impulsada por la comunidad.">
+            Found an error, have a data source, or want to suggest changes? This platform is open source and community-driven.
+          </p>
+          <div class="policy-feedback__links">
+            <a
+              href={issueURL}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+              data-en="Open an Issue"
+              data-es="Abrir un Issue"
+            >
+              Open an Issue
+            </a>
+            <a
+              href={`https://github.com/${ghRepo}/blob/main/src/content/policies/${policy.slug}.md`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+              data-en="View Source"
+              data-es="Ver Código Fuente"
+            >
+              View Source
+            </a>
+          </div>
+        </div>
       </footer>
     </div>
   </article>
@@ -232,6 +266,30 @@ const categoryEs = categoryMap[policy.data.category] || policy.data.category;
   }
 
   .policy-share__links {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .policy-feedback {
+    text-align: center;
+    padding-top: 2rem;
+    margin-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .policy-feedback h3 {
+    margin-bottom: 0.5rem;
+  }
+
+  .policy-feedback p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .policy-feedback__links {
     display: flex;
     gap: 0.75rem;
     justify-content: center;

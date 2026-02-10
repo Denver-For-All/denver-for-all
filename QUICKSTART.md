@@ -180,7 +180,7 @@ Same pattern for `workers/campaign-finance`. After deploying, update the API URL
 
 ### 8. Spanish translations
 
-48 of 49 policy documents have already been translated into Spanish. Translations live in a separate directory (`src/content/policies-es/`) following i18n best practices for SEO and content management.
+All 49 policy documents have been translated into Spanish. Translations live in a separate directory (`src/content/policies-es/`) following i18n best practices for SEO and content management.
 
 To add or update translations:
 

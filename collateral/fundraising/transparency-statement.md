@@ -45,7 +45,7 @@ Our entire platform is open source:
 
 ### Legal Status
 
-Denver For All is a volunteer-run, unincorporated civic research project that has applied for fiscal hosting through [Open Source Collective](https://www.oscollective.org/), a 501(c)(6) organization. We are currently awaiting manual verification. Once approved, contributions will be fully transparent and publicly documented through our Open Collective ledger. Contributions are not tax-deductible.
+Denver For All is a volunteer-run, unincorporated civic research project that is applying for fiscal hosting through [Open Source Collective](https://www.oscollective.org/), a 501(c)(6) organization, and exploring alternative fiscal hosts. Once hosting is approved, contributions will be fully transparent and publicly documented through our [Open Collective ledger](https://opencollective.com/denver-for-all). Contributions are not tax-deductible.
 
 ### Policy Research, Not Political Campaigning
 

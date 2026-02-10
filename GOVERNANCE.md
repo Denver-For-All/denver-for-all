@@ -4,7 +4,7 @@ This document describes how Denver For All is organized, how decisions are made,
 
 ## Project Structure
 
-Denver For All is a grassroots, open-source civic platform. It is fiscally hosted by [Open Source Collective](https://opencollective.com/opensource) and governed by its maintainers with input from the community.
+Denver For All is a grassroots, open-source civic platform governed by its maintainers with input from the community. The project is applying for fiscal hosting through [Open Source Collective](https://opencollective.com/opensource) and manages its public ledger on [Open Collective](https://opencollective.com/denver-for-all).
 
 ### Roles
 
@@ -57,7 +57,7 @@ If maintainers disagree on a significant decision:
 
 ## Financial Transparency
 
-All funds are managed through [Open Collective](https://opencollective.com/denver-for-all) with full public transparency:
+All funds will be managed through [Open Collective](https://opencollective.com/denver-for-all) with full public transparency. Once fiscal hosting is approved:
 
 - Every incoming donation is visible on the public ledger
 - Every expense is submitted with a receipt and approved by a maintainer
@@ -69,7 +69,7 @@ All funds are managed through [Open Collective](https://opencollective.com/denve
 If the Project Lead becomes unable or unwilling to continue:
 
 1. Existing maintainers collectively assume stewardship
-2. If no other maintainers exist, the Open Source Collective (as fiscal host) will facilitate a transition
+2. If no other maintainers exist, the fiscal host (once established) will facilitate a transition
 3. The project's open-source license ensures the code and content remain freely available regardless of leadership changes
 
 The project should always have at least two people with admin access to:

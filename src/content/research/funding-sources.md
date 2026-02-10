@@ -4,7 +4,7 @@ Research into funding sources, coalition partners, and strategic allies that sup
 
 ## Our Funding Model
 
-Denver For All has applied for fiscal hosting through [Open Source Collective](https://www.oscollective.org/) (OSC), a 501(c)(6) trade association. **We are currently awaiting manual verification** — our GitHub repository has fewer than 100 stars, so automated verification was not available. Once approved, this means:
+Denver For All is applying for fiscal hosting through [Open Source Collective](https://www.oscollective.org/) (OSC), a 501(c)(6) trade association. Our initial manual application was rejected with a generic template response (the reviewer did not appear to examine our repository). We are re-applying with a clearer pitch and pursuing alternative fiscal hosts in parallel. Once a fiscal host is secured, this means:
 
 - **Primary funding:** Grassroots donations through [Open Collective](https://opencollective.com/denver-for-all)
 - **Donations are not tax-deductible** — OSC is a 501(c)(6), not a 501(c)(3)
@@ -140,7 +140,7 @@ These foundations fund housing justice, civic tech, and health equity work but r
 
 ## 501(c)(3) Fiscal Sponsors (If Needed Later)
 
-Denver For All currently uses Open Source Collective (501(c)(6)) as its fiscal host. If a specific grant opportunity justifies it, the project could add a 501(c)(3) fiscal sponsor alongside OSC to unlock foundation grants and tax-deductible donations. This would be a significant step with added overhead and should only be pursued for a concrete, high-value opportunity.
+Denver For All is seeking fiscal hosting through Open Source Collective (501(c)(6)). If a specific grant opportunity justifies it, the project could later add a 501(c)(3) fiscal sponsor alongside OSC to unlock foundation grants and tax-deductible donations. This would be a significant step with added overhead and should only be pursued for a concrete, high-value opportunity.
 
 ### Tides Foundation
 - **What:** One of the largest progressive fiscal sponsors; $1.4B+ in assets
@@ -209,9 +209,9 @@ Denver For All uses Open Collective exclusively. These platforms are documented 
 
 ---
 
-## Current Status: Open Collective — Pending Verification
+## Current Status: Open Collective — Seeking Fiscal Host
 
-Denver For All has applied to [Open Collective](https://opencollective.com/denver-for-all) with [Open Source Collective](https://www.oscollective.org/) as fiscal host. **Manual verification is pending** — automated verification requires 100+ GitHub stars, so we submitted a manual application. Once verified, donations and the public ledger will be fully active.
+Denver For All has a collective page on [Open Collective](https://opencollective.com/denver-for-all) and is actively seeking a fiscal host. Our initial application to [Open Source Collective](https://www.oscollective.org/) was rejected via a generic template (the rejection addressed us as "Hi First Name" and cited a vague reason that did not reflect our actual repository). We are re-applying with a direct email to their team and exploring alternative fiscal hosts in parallel. Automated verification through OSC requires 100+ GitHub stars — we are also working toward that threshold. Once a fiscal host is secured, donations and the public ledger will be fully active.
 
 ### Why This Model Works
 

@@ -1,4 +1,13 @@
 ---
+import type { Locale } from '../i18n/utils';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = 'en' } = Astro.props;
+const isEs = locale === 'es';
+const prefix = isEs ? '/es' : '';
 const year = new Date().getFullYear();
 ---
 
@@ -6,47 +15,45 @@ const year = new Date().getFullYear();
   <div class="container">
     <div class="footer__grid">
       <div class="footer__brand">
-        <h3 class="footer__logo" data-en="Denver For All" data-es="Denver Para Todos">Denver For All</h3>
-        <p class="footer__tagline" data-en="Built by the people, for the people." data-es="Hecho por el pueblo, para el pueblo.">
-          Built by the people, for the people.
+        <h3 class="footer__logo">{isEs ? 'Denver Para Todos' : 'Denver For All'}</h3>
+        <p class="footer__tagline">
+          {isEs ? 'Hecho por el pueblo, para el pueblo.' : 'Built by the people, for the people.'}
         </p>
       </div>
 
       <div class="footer__links">
-        <h4 data-en="Platform" data-es="Plataforma">Platform</h4>
-        <a href="/platform" data-en="All Proposals" data-es="Todas las Propuestas">All Proposals</a>
-        <a href="/run-for-denver" data-en="Run For Denver" data-es="Postularse por Denver">Run For Denver</a>
-        <a href="/take-action" data-en="Take Action" data-es="Actúa">Take Action</a>
+        <h4>{isEs ? 'Plataforma' : 'Platform'}</h4>
+        <a href={`${prefix}/platform`}>{isEs ? 'Todas las Propuestas' : 'All Proposals'}</a>
+        <a href={`${prefix}/run-for-denver`}>{isEs ? 'Postularse por Denver' : 'Run For Denver'}</a>
+        <a href={`${prefix}/take-action`}>{isEs ? 'Actúa' : 'Take Action'}</a>
       </div>
 
       <div class="footer__links">
-        <h4 data-en="Tools" data-es="Herramientas">Tools</h4>
-        <a href="/tools/eviction-tracker" data-en="Eviction Tracker" data-es="Rastreador de Desalojos">Eviction Tracker</a>
-        <a href="/tools/rent-calculator" data-en="Rent Calculator" data-es="Calculadora de Alquiler">Rent Calculator</a>
-        <a href="/tools/campaign-finance" data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</a>
-        <a href="/tools/know-your-rights" data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</a>
-        <a href="/tools/sidewalk-data" data-en="Sidewalk Data" data-es="Datos de Aceras">Sidewalk Data</a>
-        <a href="/tools/eviction-data" data-en="Eviction Data" data-es="Datos de Desalojos">Eviction Data</a>
-        <a href="/tools/money-in-politics" data-en="Money in Politics" data-es="Dinero en Política">Money in Politics</a>
+        <h4>{isEs ? 'Herramientas' : 'Tools'}</h4>
+        <a href={`${prefix}/tools/eviction-tracker`}>{isEs ? 'Rastreador de Desalojos' : 'Eviction Tracker'}</a>
+        <a href={`${prefix}/tools/rent-calculator`}>{isEs ? 'Calculadora de Alquiler' : 'Rent Calculator'}</a>
+        <a href={`${prefix}/tools/campaign-finance`}>{isEs ? 'Sigue el Dinero' : 'Follow the Money'}</a>
+        <a href={`${prefix}/tools/know-your-rights`}>{isEs ? 'Conoce Tus Derechos' : 'Know Your Rights'}</a>
+        <a href={`${prefix}/tools/sidewalk-data`}>{isEs ? 'Datos de Aceras' : 'Sidewalk Data'}</a>
+        <a href={`${prefix}/tools/eviction-data`}>{isEs ? 'Datos de Desalojos' : 'Eviction Data'}</a>
+        <a href={`${prefix}/tools/money-in-politics`}>{isEs ? 'Dinero en Política' : 'Money in Politics'}</a>
       </div>
 
       <div class="footer__links">
-        <h4 data-en="Connect" data-es="Conectar">Connect</h4>
-        <a href="mailto:info@denverforall.org" data-en="Email Us" data-es="Escríbenos">Email Us</a>
+        <h4>{isEs ? 'Conectar' : 'Connect'}</h4>
+        <a href="mailto:info@denverforall.org">{isEs ? 'Escríbenos' : 'Email Us'}</a>
         <a href="https://www.reddit.com/r/DenverForAll/" target="_blank" rel="noopener">Reddit</a>
-        <a href="https://signal.group/#CjQKIDnsKXfjsfzF6z51cdXSTRKzZWxG71JNlmN-lawMNOkWEhAKQ8yueN1JU8E6RaRM6D8I" target="_blank" rel="noopener" data-en="Signal Group" data-es="Grupo de Signal">Signal Group</a>
-        <a href="https://opencollective.com/denver-for-all" target="_blank" rel="noopener" data-en="Donate · Public Ledger" data-es="Donar · Registro Público">Donate · Public Ledger</a>
-        <a href="https://github.com/Denver-For-All/denver-for-all" target="_blank" rel="noopener" data-en="GitHub · Source Code" data-es="GitHub · Código Fuente">GitHub · Source Code</a>
+        <a href="https://signal.group/#CjQKIDnsKXfjsfzF6z51cdXSTRKzZWxG71JNlmN-lawMNOkWEhAKQ8yueN1JU8E6RaRM6D8I" target="_blank" rel="noopener">{isEs ? 'Grupo de Signal' : 'Signal Group'}</a>
+        <a href="https://opencollective.com/denver-for-all" target="_blank" rel="noopener">{isEs ? 'Donar · Registro Público' : 'Donate · Public Ledger'}</a>
+        <a href="https://github.com/Denver-For-All/denver-for-all" target="_blank" rel="noopener">{isEs ? 'GitHub · Código Fuente' : 'GitHub · Source Code'}</a>
       </div>
     </div>
 
     <div class="footer__bottom">
       <p>
-        <a href="https://github.com/Denver-For-All/denver-for-all" target="_blank" rel="noopener" data-en="This site is open source." data-es="Este sitio es de código abierto.">This site is open source.</a>
-        &copy; {year} <span data-en="Denver For All" data-es="Denver Para Todos">Denver For All</span>.
-        <span data-en="Built with solidarity and open-source tools." data-es="Construido con solidaridad y herramientas de código abierto.">
-          Built with solidarity and open-source tools.
-        </span>
+        <a href="https://github.com/Denver-For-All/denver-for-all" target="_blank" rel="noopener">{isEs ? 'Este sitio es de código abierto.' : 'This site is open source.'}</a>
+        &copy; {year} {isEs ? 'Denver Para Todos' : 'Denver For All'}.
+        {isEs ? 'Construido con solidaridad y herramientas de código abierto.' : 'Built with solidarity and open-source tools.'}
       </p>
     </div>
   </div>

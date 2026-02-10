@@ -1,0 +1,1228 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+---
+
+<Layout title="Rastreador de Candidatos" description="Where do your candidates stand on the issues? Standardized questionnaire responses from Denver City Council candidates.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Candidate Tracker" data-es="Rastreador de Candidatos">Candidate Tracker</h1>
+      <p data-en="Where do your City Council candidates stand on the issues that matter? We're sending every candidate the same 10 questions. Their answers — and silences — will be published here unedited." data-es="¿Dónde se posicionan tus candidatos al Concejo Municipal en los temas que importan? Estamos enviando a cada candidato las mismas 10 preguntas. Sus respuestas — y silencios — se publicarán aquí sin editar.">
+        Where do your City Council candidates stand on the issues that matter? We're sending every candidate the same 10 questions. Their answers — and silences — will be published here unedited.
+      </p>
+      <p class="hero-sublink" data-en="Looking for the mayor's race? See the Mayoral Tracker." data-es="¿Buscas la carrera a la alcaldía? Consulta el Rastreador de Alcalde.">
+        Looking for the mayor's race? See the <a href="/tools/mayoral-tracker">Mayoral Tracker</a>.
+      </p>
+    </div>
+  </section>
+
+  <!-- Election Map Overview -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="2027 Election Map" data-es="Mapa Electoral 2027">2027 Election Map</h2>
+        <p data-en="All 13 council seats are on the ballot April 6, 2027. We're tracking candidates across 9 races so far." data-es="Los 13 escaños del concejo están en la boleta el 6 de abril de 2027. Estamos rastreando candidatos en 9 carreras hasta ahora.">
+          All 13 council seats are on the ballot April 6, 2027. We're tracking candidates across 9 races so far.
+        </p>
+      </div>
+      <div class="election-map">
+        <div class="map-card map-card--open">
+          <span class="map-badge map-badge--open" data-en="Open Seat" data-es="Escaño Abierto">Open Seat</span>
+          <h3 data-en="District 2" data-es="Distrito 2">District 2</h3>
+          <p data-en="Southwest Denver" data-es="Suroeste de Denver">Southwest Denver</p>
+          <span class="map-detail" data-en="Flynn term-limited · 3 candidates" data-es="Flynn con límite de mandato · 3 candidatos">Flynn term-limited · 3 candidates</span>
+        </div>
+        <div class="map-card map-card--open">
+          <span class="map-badge map-badge--open" data-en="Open Seat" data-es="Escaño Abierto">Open Seat</span>
+          <h3 data-en="District 6" data-es="Distrito 6">District 6</h3>
+          <p data-en="Southeast Denver" data-es="Sureste de Denver">Southeast Denver</p>
+          <span class="map-detail" data-en="Kashmann term-limited · 3 candidates" data-es="Kashmann con límite de mandato · 3 candidatos">Kashmann term-limited · 3 candidates</span>
+        </div>
+        <div class="map-card map-card--open">
+          <span class="map-badge map-badge--open" data-en="Open Seat" data-es="Escaño Abierto">Open Seat</span>
+          <h3 data-en="District 11" data-es="Distrito 11">District 11</h3>
+          <p data-en="Far Northeast Denver" data-es="Noreste Lejano de Denver">Far Northeast Denver</p>
+          <span class="map-detail" data-en="Gilmore term-limited · 2 candidates" data-es="Gilmore con límite de mandato · 2 candidatos">Gilmore term-limited · 2 candidates</span>
+        </div>
+        <div class="map-card map-card--watch">
+          <span class="map-badge map-badge--watch" data-en="Contested" data-es="Disputado">Contested</span>
+          <h3 data-en="Districts 7, 8, 9, 10" data-es="Distritos 7, 8, 9, 10">Districts 7, 8, 9, 10</h3>
+          <p data-en="2 candidates filed per district" data-es="2 candidatos registrados por distrito">2 candidates filed per district</p>
+          <span class="map-detail" data-en="Includes Alvidrez (D7), Lewis (D8), Hinds (D10)" data-es="Incluye Alvidrez (D7), Lewis (D8), Hinds (D10)">Includes Alvidrez (D7), Lewis (D8), Hinds (D10)</span>
+        </div>
+        <div class="map-card map-card--watch">
+          <span class="map-badge map-badge--watch" data-en="Contested" data-es="Disputado">Contested</span>
+          <h3 data-en="At-Large · At-Large B" data-es="En General · En General B">At-Large · At-Large B</h3>
+          <p data-en="Citywide seats" data-es="Escaños de toda la ciudad">Citywide seats</p>
+          <span class="map-detail">Gonzales Gutierrez, Harding, Parady</span>
+        </div>
+        <div class="map-card">
+          <span class="map-badge" data-en="Not Yet Tracked" data-es="Aún No Rastreado">Not Yet Tracked</span>
+          <h3 data-en="Districts 1, 3, 4, 5" data-es="Distritos 1, 3, 4, 5">Districts 1, 3, 4, 5</h3>
+          <p data-en="No candidates filed yet" data-es="Aún no se han registrado candidatos">No candidates filed yet</p>
+          <span class="map-detail" data-en="Updates added as candidates announce" data-es="Actualizaciones añadidas a medida que los candidatos se anuncian">Updates added as candidates announce</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- The Questionnaire -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="The Questions" data-es="Las Preguntas">The Questions</h2>
+        <p data-en="Ten questions. Same for every candidate. Designed to put candidates on record about specific policies, not platitudes." data-es="Diez preguntas. Las mismas para cada candidato. Diseñadas para que los candidatos se posicionen sobre políticas específicas, no platitudes.">
+          Ten questions. Same for every candidate. Designed to put candidates on record about specific policies, not platitudes.
+        </p>
+      </div>
+
+      <div class="questions-list">
+        <div class="question-category" data-en="HOUSING & AFFORDABILITY" data-es="VIVIENDA Y ASEQUIBILIDAD">HOUSING & AFFORDABILITY</div>
+
+        <div class="question-card">
+          <span class="question-number">1</span>
+          <div>
+            <h3 data-en="Rent Stabilization" data-es="Estabilización de Alquileres">Rent Stabilization</h3>
+            <p data-en="Colorado currently preempts cities from enacting rent control. Do you support Denver passing rent stabilization if the state enables it? What annual cap on rent increases would you support? If the state does not act, what specific steps would you take at the city level to protect tenants from displacement?" data-es="Colorado actualmente impide que las ciudades implementen control de alquileres. ¿Apoya que Denver apruebe estabilización de alquileres si el estado lo permite? ¿Qué tope anual de aumentos de alquiler apoyaría? Si el estado no actúa, ¿qué pasos específicos tomaría a nivel municipal para proteger a los inquilinos del desplazamiento?">
+              Colorado currently preempts cities from enacting rent control. <strong>Do you support Denver passing rent stabilization if the state enables it? What annual cap on rent increases would you support?</strong> If the state does not act, what specific steps would you take at the city level to protect tenants from displacement?
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">2</span>
+          <div>
+            <h3 data-en="Homelessness & Encampment Policy" data-es="Personas sin Hogar y Política de Campamentos">Homelessness & Encampment Policy</h3>
+            <p data-en="Denver City Council passed a moratorium on encampment sweeps during freezing temperatures; Mayor Johnston vetoed it. Would you vote to override that veto? Do you support a housing-first approach over enforcement-based sweeps? What is your plan for reducing unsheltered homelessness in your district?" data-es="El Concejo Municipal de Denver aprobó una moratoria sobre desalojos de campamentos durante temperaturas bajo cero; el Alcalde Johnston la vetó. ¿Votaría para anular ese veto? ¿Apoya un enfoque de vivienda primero sobre desalojos basados en la aplicación de la ley? ¿Cuál es su plan para reducir la falta de vivienda sin refugio en su distrito?">
+              Denver City Council passed a moratorium on encampment sweeps during freezing temperatures; Mayor Johnston vetoed it. <strong>Would you vote to override that veto? Do you support a housing-first approach over enforcement-based sweeps?</strong> What is your plan for reducing unsheltered homelessness in your district?
+            </p>
+          </div>
+        </div>
+
+        <div class="question-category" data-en="PUBLIC SAFETY" data-es="SEGURIDAD PÚBLICA">PUBLIC SAFETY</div>
+
+        <div class="question-card">
+          <span class="question-number">3</span>
+          <div>
+            <h3 data-en="STAR & LEAD Expansion" data-es="Expansión de STAR y LEAD">STAR & LEAD Expansion</h3>
+            <p data-en="Denver's STAR program sends mental health professionals instead of police to crisis calls (10,000+ calls, zero incidents requiring police backup). The LEAD program diverts people facing low-level charges to case management instead of arrest (Seattle evaluation: 58% lower recidivism). Do you support expanding both programs to 24/7 citywide coverage? Should community members be able to make LEAD referrals directly, without requiring police contact?" data-es="El programa STAR de Denver envía profesionales de salud mental en lugar de policía a llamadas de crisis (más de 10,000 llamadas, cero incidentes que requirieron respaldo policial). El programa LEAD desvía a personas que enfrentan cargos menores a gestión de casos en lugar de arresto (evaluación de Seattle: 58% menor reincidencia). ¿Apoya expandir ambos programas a cobertura 24/7 en toda la ciudad? ¿Deberían los miembros de la comunidad poder hacer referencias a LEAD directamente, sin requerir contacto policial?">
+              Denver's STAR program sends mental health professionals instead of police to crisis calls (10,000+ calls, zero incidents requiring police backup). The LEAD program diverts people facing low-level charges to case management instead of arrest (Seattle evaluation: 58% lower recidivism). <strong>Do you support expanding both programs to 24/7 citywide coverage? Should community members be able to make LEAD referrals directly, without requiring police contact?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">4</span>
+          <div>
+            <h3 data-en="Police Budget Reallocation" data-es="Reasignación del Presupuesto Policial">Police Budget Reallocation</h3>
+            <p data-en="Denver For All proposes a phased reallocation of the police budget: Phase 1 (~8% / $25M) expands STAR and LEAD citywide; Phase 2 (~15% / $45M) adds violence intervention and substance treatment; Phase 3 (~25% / $75M) adds youth services, restorative justice, and housing. Each phase evaluated before the next begins. What level of reallocation do you support? Where would you direct the funds?" data-es="Denver Para Todos propone una reasignación gradual del presupuesto policial: Fase 1 (~8% / $25M) expande STAR y LEAD a toda la ciudad; Fase 2 (~15% / $45M) agrega intervención de violencia y tratamiento de sustancias; Fase 3 (~25% / $75M) agrega servicios juveniles, justicia restaurativa y vivienda. Cada fase se evalúa antes de comenzar la siguiente. ¿Qué nivel de reasignación apoya? ¿A dónde dirigiría los fondos?">
+              Denver For All proposes a phased reallocation of the police budget: Phase 1 (~8% / $25M) expands STAR and LEAD citywide; Phase 2 (~15% / $45M) adds violence intervention and substance treatment; Phase 3 (~25% / $75M) adds youth services, restorative justice, and housing. Each phase evaluated before the next begins. <strong>What level of reallocation do you support? Where would you direct the funds?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-category" data-en="ECONOMIC JUSTICE" data-es="JUSTICIA ECONÓMICA">ECONOMIC JUSTICE</div>
+
+        <div class="question-card">
+          <span class="question-number">5</span>
+          <div>
+            <h3 data-en="Living Wage" data-es="Salario Digno">Living Wage</h3>
+            <p data-en="Denver's minimum wage is $18.81/hour. A single adult with one child needs $27.35/hour to meet basic expenses in Denver (MIT Living Wage Calculator). Do you support raising Denver's minimum wage to $25/hour, indexed to cost of living? Do you support eliminating the tipped worker subminimum wage (One Fair Wage)?" data-es="El salario mínimo de Denver es $18.81/hora. Un adulto soltero con un hijo necesita $27.35/hora para cubrir gastos básicos en Denver (Calculadora de Salario Digno del MIT). ¿Apoya aumentar el salario mínimo de Denver a $25/hora, indexado al costo de vida? ¿Apoya eliminar el salario mínimo reducido para trabajadores que reciben propinas (Un Salario Justo)?">
+              Denver's minimum wage is $18.81/hour. A single adult with one child needs $27.35/hour to meet basic expenses in Denver (MIT Living Wage Calculator). <strong>Do you support raising Denver's minimum wage to $25/hour, indexed to cost of living? Do you support eliminating the tipped worker subminimum wage (One Fair Wage)?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-category" data-en="QUALITY OF LIFE & INFRASTRUCTURE" data-es="CALIDAD DE VIDA E INFRAESTRUCTURA">QUALITY OF LIFE & INFRASTRUCTURE</div>
+
+        <div class="question-card">
+          <span class="question-number">6</span>
+          <div>
+            <h3 data-en="Municipal Broadband" data-es="Banda Ancha Municipal">Municipal Broadband</h3>
+            <p data-en="Denver voters approved municipal broadband in 2020, but the city has not built it. Meanwhile, Comcast and CenturyLink charge some of the highest internet prices in the country, and 15% of Denver households lack broadband access. Do you support Denver building city-owned fiber internet infrastructure? What timeline would you push for?" data-es="Los votantes de Denver aprobaron la banda ancha municipal en 2020, pero la ciudad no la ha construido. Mientras tanto, Comcast y CenturyLink cobran algunos de los precios de internet más altos del país, y el 15% de los hogares de Denver carecen de acceso a banda ancha. ¿Apoya que Denver construya infraestructura de internet de fibra óptica propiedad de la ciudad? ¿Qué plazo impulsaría?">
+              Denver voters approved municipal broadband in 2020, but the city has not built it. Meanwhile, Comcast and CenturyLink charge some of the highest internet prices in the country, and 15% of Denver households lack broadband access. <strong>Do you support Denver building city-owned fiber internet infrastructure? What timeline would you push for?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">7</span>
+          <div>
+            <h3 data-en="Disability Rights & Inclusion" data-es="Derechos de las Personas con Discapacidad e Inclusión">Disability Rights & Inclusion</h3>
+            <p data-en="Over 70,000 Denver residents live with a disability. People with disabilities make up a third to half of all people killed by police nationally. Less than 5% of Denver's housing stock is wheelchair accessible. The Commission for People with Disabilities is advisory-only with no enforcement power. What specific commitments would you make for disabled constituents? Do you support elevating the Commission from advisory to enforcement authority?" data-es="Más de 70,000 residentes de Denver viven con una discapacidad. Las personas con discapacidad representan de un tercio a la mitad de todas las personas asesinadas por la policía a nivel nacional. Menos del 5% de las viviendas de Denver son accesibles para sillas de ruedas. La Comisión para Personas con Discapacidades es solo consultiva, sin poder de aplicación. ¿Qué compromisos específicos haría para los electores con discapacidades? ¿Apoya elevar la Comisión de consultiva a autoridad con poder de aplicación?">
+              Over 70,000 Denver residents live with a disability. People with disabilities make up a third to half of all people killed by police nationally. Less than 5% of Denver's housing stock is wheelchair accessible. The Commission for People with Disabilities is advisory-only with no enforcement power. <strong>What specific commitments would you make for disabled constituents? Do you support elevating the Commission from advisory to enforcement authority?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-category" data-en="DEMOCRACY & ACCOUNTABILITY" data-es="DEMOCRACIA Y RENDICIÓN DE CUENTAS">DEMOCRACY & ACCOUNTABILITY</div>
+
+        <div class="question-card">
+          <span class="question-number">8</span>
+          <div>
+            <h3 data-en="Flock Cameras & Surveillance" data-es="Cámaras Flock y Vigilancia">Flock Cameras & Surveillance</h3>
+            <p data-en="Denver City Council voted 12-0 to reject the Flock ALPR camera contract. Mayor Johnston bypassed the vote by structuring a contract just under the $500K council approval threshold. Audit logs revealed ICE searched Denver's camera data 1,400+ times. Do you support the mayor's authority to override council on surveillance contracts? Should council approval be required before any surveillance technology is deployed?" data-es="El Concejo Municipal de Denver votó 12-0 para rechazar el contrato de cámaras ALPR de Flock. El Alcalde Johnston evadió la votación estructurando un contrato justo por debajo del umbral de $500K que requiere aprobación del concejo. Los registros de auditoría revelaron que ICE buscó los datos de las cámaras de Denver más de 1,400 veces. ¿Apoya la autoridad del alcalde para anular al concejo en contratos de vigilancia? ¿Debería requerirse la aprobación del concejo antes de implementar cualquier tecnología de vigilancia?">
+              Denver City Council voted 12-0 to reject the Flock ALPR camera contract. Mayor Johnston bypassed the vote by structuring a contract just under the $500K council approval threshold. Audit logs revealed ICE searched Denver's camera data 1,400+ times. <strong>Do you support the mayor's authority to override council on surveillance contracts? Should council approval be required before any surveillance technology is deployed?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-card">
+          <span class="question-number">9</span>
+          <div>
+            <h3 data-en="Participatory Budgeting" data-es="Presupuesto Participativo">Participatory Budgeting</h3>
+            <p data-en="Cities like Paris, New York, and Porto Alegre let residents directly decide how to spend portions of the public budget. Denver has no participatory budgeting program. Should Denver residents directly decide how to spend a portion of the city budget? What dollar amount would you allocate to resident-directed spending?" data-es="Ciudades como París, Nueva York y Porto Alegre permiten que los residentes decidan directamente cómo gastar porciones del presupuesto público. Denver no tiene un programa de presupuesto participativo. ¿Deberían los residentes de Denver decidir directamente cómo gastar una porción del presupuesto de la ciudad? ¿Qué cantidad en dólares asignaría al gasto dirigido por los residentes?">
+              Cities like Paris, New York, and Porto Alegre let residents directly decide how to spend portions of the public budget. Denver has no participatory budgeting program. <strong>Should Denver residents directly decide how to spend a portion of the city budget? What dollar amount would you allocate to resident-directed spending?</strong>
+            </p>
+          </div>
+        </div>
+
+        <div class="question-category" data-en="OPEN-ENDED" data-es="PREGUNTA ABIERTA">OPEN-ENDED</div>
+
+        <div class="question-card">
+          <span class="question-number">10</span>
+          <div>
+            <h3 data-en="Your District's Top Priority" data-es="La Prioridad Principal de Su Distrito">Your District's Top Priority</h3>
+            <p data-en="What is the single most important issue facing your district, and what specific policy would you propose to address it? Be specific: name the problem, name the solution, name how you'd pay for it." data-es="¿Cuál es el problema más importante que enfrenta su distrito y qué política específica propondría para abordarlo? Sea específico: nombre el problema, nombre la solución, nombre cómo lo financiaría.">
+              <strong>What is the single most important issue facing your district, and what specific policy would you propose to address it?</strong> Be specific: name the problem, name the solution, name how you'd pay for it.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 2 Candidates -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 2 — Southwest Denver" data-es="Distrito 2 — Suroeste de Denver">District 2 — Southwest Denver</h2>
+        <p data-en="Kevin Flynn is term-limited. Three candidates are running to replace him. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Kevin Flynn tiene límite de mandato. Tres candidatos compiten para reemplazarlo. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Kevin Flynn is term-limited. Three candidates are running to replace him. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Paul Pazen -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Paul Pazen</h3>
+            <span class="candidate-tag" data-en="Former DPD Chief (2018–2022)" data-es="Ex Jefe de DPD (2018–2022)">Former DPD Chief (2018–2022)</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Launched both STAR and LEAD programs during his tenure as chief. DA Beth McCann credited Pazen with overseeing their creation." data-es="Lanzó los programas STAR y LEAD durante su mandato como jefe. La fiscal Beth McCann le dio crédito por supervisar su creación.">Launched both <strong>STAR and LEAD programs</strong> during his tenure as chief. DA Beth McCann credited Pazen with overseeing their creation.</li>
+            <li data-en="Named public safety, small business support, and preventing gentrification of southwest Denver as top priorities for his campaign." data-es="Nombró la seguridad pública, el apoyo a pequeños negocios y la prevención de la gentrificación del suroeste de Denver como principales prioridades de su campaña.">Named <strong>public safety, small business support, and preventing gentrification</strong> of southwest Denver as top priorities for his campaign.</li>
+            <li data-en="Banned chokeholds and marched in George Floyd protests (June 2020). However, unsealed department memos described 'leadership failure' during the protest response." data-es="Prohibió llaves de estrangulamiento y marchó en las protestas de George Floyd (junio 2020). Sin embargo, memorandos internos desclasificados describieron 'fallas de liderazgo' durante la respuesta a las protestas.">Banned chokeholds and marched in George Floyd protests (June 2020). However, unsealed department memos described <strong>"leadership failure"</strong> during the protest response.</li>
+            <li data-en="28-year DPD veteran, U.S. Marine, lived in southwest Denver for 30 years. Master's in homeland security from Naval Postgraduate School." data-es="Veterano de 28 años en DPD, Marine de EE.UU., ha vivido en el suroeste de Denver por 30 años. Maestría en seguridad nacional de la Escuela Naval de Posgrado.">28-year DPD veteran, U.S. Marine, lived in southwest Denver for 30 years. Master's in homeland security from Naval Postgraduate School.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Tran Nguyen-Wills -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Tran Nguyen-Wills</h3>
+            <span class="candidate-tag" data-en="Deputy Director of Outreach, Mayor Johnston's Office" data-es="Subdirectora de Alcance, Oficina del Alcalde Johnston">Deputy Director of Outreach, Mayor Johnston's Office</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Deputy outreach director in Mayor Johnston's office. Johnston's administration has supported STAR program funding." data-es="Subdirectora de alcance en la oficina del alcalde Johnston. La administración de Johnston ha apoyado el financiamiento del programa STAR.">Deputy outreach director in Mayor Johnston's office. Johnston's administration has <strong>supported STAR program funding</strong>.</li>
+            <li data-en="Born and raised in Denver to Vietnamese refugees. Would be the first Asian American to serve on Denver City Council." data-es="Nacida y criada en Denver por refugiados vietnamitas. Sería la primera asiático-americana en servir en el Concejo Municipal de Denver.">Born and raised in Denver to Vietnamese refugees. Would be the <strong>first Asian American</strong> to serve on Denver City Council.</li>
+            <li data-en="Organized mutual aid initiatives during COVID, including an equitable walk-in vaccine clinic for workers left out of initial rollouts. Co-founded Denver Community Fridges to address food insecurity." data-es="Organizó iniciativas de ayuda mutua durante COVID, incluyendo una clínica de vacunación equitativa para trabajadores excluidos de las primeras distribuciones. Cofundó las Heladeras Comunitarias de Denver para combatir la inseguridad alimentaria.">Organized <strong>mutual aid initiatives during COVID</strong>, including an equitable walk-in vaccine clinic for workers left out of initial rollouts. Co-founded Denver Community Fridges to address food insecurity.</li>
+            <li data-en="Planned Parenthood board member. Has advocated against gun violence alongside students and activists. Championed Lunar New Year as a state holiday." data-es="Miembro de la junta de Planned Parenthood. Ha abogado contra la violencia armada junto a estudiantes y activistas. Impulsó el Año Nuevo Lunar como feriado estatal.">Planned Parenthood board member. Has advocated <strong>against gun violence</strong> alongside students and activists. Championed Lunar New Year as a state holiday.</li>
+            <li data-en="Small business owner (Base Coat Salon, non-toxic nail salon). Campaign emphasizes community sustainability and inclusive leadership." data-es="Dueña de pequeño negocio (Base Coat Salon, salón de uñas no tóxico). La campaña enfatiza la sustentabilidad comunitaria y el liderazgo inclusivo.">Small business owner (Base Coat Salon). Campaign emphasizes <strong>community sustainability and inclusive leadership</strong>.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Antonio Martinez -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Antonio Martinez</h3>
+            <span class="candidate-tag" data-en="Candidate" data-es="Candidato">Candidate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Filed to run for Denver City Council District 2 in the April 2027 election." data-es="Se registró para competir por el Distrito 2 del Concejo Municipal de Denver en la elección de abril de 2027.">Filed to run for Denver City Council District 2 in the April 2027 election.</li>
+            <li data-en="No campaign website or detailed platform publicly available at this time. We will update this section as information becomes available." data-es="No hay sitio web de campaña ni plataforma detallada disponible públicamente en este momento. Actualizaremos esta sección a medida que la información esté disponible.">No campaign website or detailed platform publicly available at this time. We will update this section as information becomes available.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <div class="methodology-note">
+        <h3 data-en="Our Approach" data-es="Nuestro Enfoque">Our Approach</h3>
+        <p data-en="Every candidate receives the same ten questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position." data-es="Cada candidato recibe las mismas diez preguntas. Las respuestas se publican sin editar y completas. No respaldamos candidatos. Proporcionamos información para que los votantes puedan tomar decisiones informadas. Si un candidato no responde, se nota — el silencio sobre los temas es en sí mismo una posición.">
+          Every candidate receives the same ten questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position.
+        </p>
+        <p data-en="'What We Know From the Public Record' sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue." data-es="Las secciones 'Lo Que Sabemos del Registro Público' provienen de reportajes, materiales de campaña y registros oficiales. Correcciones bienvenidas — envíanos un correo o abre un issue en GitHub.">
+          "What We Know From the Public Record" sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 6 Candidates -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 6 — Southeast Denver" data-es="Distrito 6 — Sureste de Denver">District 6 — Southeast Denver</h2>
+        <p data-en="Paul Kashmann is term-limited. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Paul Kashmann tiene límite de mandato. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Paul Kashmann is term-limited. Three candidates have filed. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Mark Montoya -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Mark Montoya</h3>
+            <span class="candidate-tag" data-en="Candidate" data-es="Candidato">Candidate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Filed to run for Denver City Council District 6 in the April 2027 election." data-es="Se registró para competir por el Distrito 6 del Concejo Municipal de Denver en la elección de abril de 2027.">Filed to run for Denver City Council District 6 in the April 2027 election.</li>
+            <li data-en="We will update this section as campaign information becomes available." data-es="Actualizaremos esta sección a medida que la información de campaña esté disponible.">We will update this section as campaign information becomes available.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Matt Walter -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Matt Walter</h3>
+            <span class="candidate-tag" data-en="Council Aide & Policy Professional" data-es="Asistente del Concejo y Profesional de Políticas">Council Aide & Policy Professional</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Senior Council Aide for Denver City Council, working under term-limited District 6 Councilmember Paul Kashmann. Previous experience at the U.S. House of Representatives." data-es="Asistente Senior del Concejo Municipal de Denver, trabajando bajo el Concejal del Distrito 6 con límite de mandato Paul Kashmann. Experiencia previa en la Cámara de Representantes de EE.UU."><strong>Senior Council Aide</strong> for Denver City Council, working under term-limited District 6 Councilmember Paul Kashmann. Previous experience at the U.S. House of Representatives.</li>
+            <li data-en="Graduate of the University of Denver, Josef Korbel School of International Studies. No campaign website publicly available at this time." data-es="Graduado de la Universidad de Denver, Escuela de Estudios Internacionales Josef Korbel. No hay sitio web de campaña disponible públicamente en este momento.">Graduate of the <strong>University of Denver, Josef Korbel School of International Studies</strong>. No campaign website publicly available at this time.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Shannon Callahan -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Shannon Callahan</h3>
+            <span class="candidate-tag" data-en="Disability Rights Advocate" data-es="Defensor de los Derechos de las Personas con Discapacidad">Disability Rights Advocate</span>
+          </div>
+          <span class="response-status response-status--pending" data-en="Questionnaire Sent" data-es="Cuestionario Enviado">Questionnaire Sent</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Deaf community advocate and first-generation college graduate. Works at Convo Communications supporting a nationwide operations platform for Deaf communities." data-es="Defensor de la comunidad sorda y graduado universitario de primera generación. Trabaja en Convo Communications apoyando una plataforma de operaciones a nivel nacional para comunidades sordas.">Deaf community advocate and first-generation college graduate. Works at Convo Communications supporting a nationwide operations platform for Deaf communities.</li>
+            <li data-en="Appointed by the Mayor to the Denver Commission for People with Disabilities. Served as an adviser to the Mayor on issues for and from people with disabilities. Also served on the Governor's statewide task force on disability rights." data-es="Nombrado por el Alcalde a la Comisión de Denver para Personas con Discapacidades. Sirvió como asesor del Alcalde en temas para y de personas con discapacidades. También sirvió en el grupo de trabajo estatal del Gobernador sobre derechos de las personas con discapacidad.">Appointed by the Mayor to the <strong>Denver Commission for People with Disabilities</strong>. Served as an adviser to the Mayor on issues for and from people with disabilities. Also served on the Governor's statewide task force on disability rights.</li>
+            <li data-en="Holds an MPA (Master of Public Administration). Career spans public and private sectors, from coordinating state programs to operations analysis. Interned for U.S. Congressman Scott Peters." data-es="Posee una Maestría en Administración Pública (MPA). Su carrera abarca los sectores público y privado, desde la coordinación de programas estatales hasta el análisis de operaciones. Fue pasante del Congresista de EE.UU. Scott Peters.">Holds an <strong>MPA</strong> (Master of Public Administration). Career spans public and private sectors, from coordinating state programs to operations analysis. Interned for U.S. Congressman Scott Peters.</li>
+            <li data-en="Campaign emphasizes safer neighborhoods, small business support, and community leadership. Active with his Registered Neighborhood Organization and in state legislative advocacy." data-es="La campaña enfatiza vecindarios más seguros, apoyo a pequeños negocios y liderazgo comunitario. Activo con su Organización de Vecinos Registrada y en la defensa legislativa estatal.">Campaign emphasizes <strong>safer neighborhoods, small business support, and community leadership</strong>. Active with his Registered Neighborhood Organization and in state legislative advocacy.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <div class="methodology-note">
+        <h3 data-en="Our Approach" data-es="Nuestro Enfoque">Our Approach</h3>
+        <p data-en="Every candidate receives the same ten questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position." data-es="Cada candidato recibe las mismas diez preguntas. Las respuestas se publican sin editar y completas. No respaldamos candidatos. Proporcionamos información para que los votantes puedan tomar decisiones informadas. Si un candidato no responde, se nota — el silencio sobre los temas es en sí mismo una posición.">
+          Every candidate receives the same ten questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position.
+        </p>
+        <p data-en="'What We Know From the Public Record' sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue." data-es="Las secciones 'Lo Que Sabemos del Registro Público' provienen de reportajes, materiales de campaña y registros oficiales. Correcciones bienvenidas — envíanos un correo o abre un issue en GitHub.">
+          "What We Know From the Public Record" sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 7 Candidates -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 7 — West Denver" data-es="Distrito 7 — Oeste de Denver">District 7 — West Denver</h2>
+        <p data-en="Two candidates have filed for District 7. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Dos candidatos se han registrado para el Distrito 7. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Two candidates have filed for District 7. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Flor Alvidrez -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Flor Alvidrez</h3>
+            <span class="candidate-tag" data-en="Incumbent · Small Business Owner" data-es="Titular · Dueña de Pequeño Negocio">Incumbent · Small Business Owner</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Incumbent District 7 council member elected in the June 2023 runoff. First representative from the west side of I-25 to hold the District 7 seat. Grew up in Athmar Park as a first-generation Denverite; her father, a Mexican immigrant, earned his GED at Emily Griffith and started a construction business. University of Denver graduate." data-es="Concejala titular del Distrito 7, elegida en la segunda vuelta de junio de 2023. Primera representante del lado oeste de la I-25 en ocupar el escaño del Distrito 7. Creció en Athmar Park como residente de primera generación en Denver; su padre, un inmigrante mexicano, obtuvo su GED en Emily Griffith e inició un negocio de construcción. Graduada de la Universidad de Denver."><strong>Incumbent District 7 council member</strong> elected in the June 2023 runoff. First representative from the west side of I-25 to hold the District 7 seat. Grew up in Athmar Park as a first-generation Denverite; her father, a Mexican immigrant, earned his GED at Emily Griffith and started a construction business. University of Denver graduate.</li>
+            <li data-en="Small business owner who is part-owner of her family's concrete contracting company and runs a separate real estate business. Served on Denver's Division of Small Business Opportunity Construction Empowerment Initiative Committee." data-es="Dueña de pequeño negocio, copropietaria del negocio familiar de contratación de concreto y dirige un negocio inmobiliario separado. Sirvió en el Comité de Iniciativa de Empoderamiento de Construcción de la División de Oportunidades para Pequeños Negocios de Denver."><strong>Small business owner</strong> who is part-owner of her family's concrete contracting company and runs a separate real estate business. Served on Denver's Division of Small Business Opportunity Construction Empowerment Initiative Committee.</li>
+            <li data-en="Voted no on the 2026 city budget (November 2025), one of six council members to reject it, citing a lack of transparency. Voted yes on the unanimous 2025 rezoning reform aimed at addressing historical disparities and preventing displacement." data-es="Votó no al presupuesto de la ciudad de 2026 (noviembre de 2025), una de seis concejales en rechazarlo, citando falta de transparencia. Votó sí a la reforma de zonificación unánime de 2025 destinada a abordar disparidades históricas y prevenir desplazamiento."><strong>Voted no on the 2026 city budget</strong> (November 2025), one of six council members to reject it, citing a lack of transparency. Voted yes on the unanimous 2025 rezoning reform aimed at addressing historical disparities and preventing displacement.</li>
+            <li data-en="Policy priorities center on affordability and anti-displacement. Has called for updating Area Median Income (AMI) thresholds for affordable housing programs, reforming the permitting process, and removing four-year degree requirements from entry-level city positions. Endorsed in 2023 by the Denver Firefighters and Denver Area Labor Federation." data-es="Las prioridades políticas se centran en la asequibilidad y la lucha contra el desplazamiento. Ha pedido actualizar los umbrales de Ingreso Medio del Área (AMI) para programas de vivienda asequible, reformar el proceso de permisos y eliminar los requisitos de título universitario de cuatro años para puestos de nivel inicial de la ciudad. Respaldada en 2023 por los Bomberos de Denver y la Federación Laboral del Área de Denver.">Policy priorities center on <strong>affordability and anti-displacement</strong>. Has called for updating AMI thresholds for affordable housing programs, reforming the permitting process, and removing four-year degree requirements from entry-level city positions. Endorsed in 2023 by the Denver Firefighters and Denver Area Labor Federation.</li>
+            <li data-en="Community board service includes the Denver Advancing Equity in Rezoning task force, DRCOG Civic Academy (2022 graduate), Latino Cultural Arts Center board member, and former Flatirons Habitat for Humanity board member." data-es="Servicio en juntas comunitarias incluye el grupo de trabajo de Avance de Equidad en Rezonificación de Denver, Academia Cívica de DRCOG (graduada 2022), miembro de la junta del Centro de Artes Culturales Latino y ex miembro de la junta de Hábitat para la Humanidad de Flatirons.">Community board service includes the Denver Advancing Equity in Rezoning task force, DRCOG Civic Academy, <strong>Latino Cultural Arts Center</strong> board, and former Flatirons Habitat for Humanity board member.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- William Fenton II -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>William Fenton II</h3>
+            <span class="candidate-tag" data-en="Candidate" data-es="Candidato">Candidate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Filed to run for Denver City Council District 7 in the April 2027 election." data-es="Se registró para competir por el Distrito 7 del Concejo Municipal de Denver en la elección de abril de 2027.">Filed to run for Denver City Council District 7 in the April 2027 election.</li>
+            <li data-en="We will update this section as campaign information becomes available." data-es="Actualizaremos esta sección a medida que la información de campaña esté disponible.">We will update this section as campaign information becomes available.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 8 Candidates -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 8 — Northeast Denver" data-es="Distrito 8 — Noreste de Denver">District 8 — Northeast Denver</h2>
+        <p data-en="Two candidates have filed for District 8. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Dos candidatos se han registrado para el Distrito 8. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Two candidates have filed for District 8. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Shontel Lewis -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Shontel Lewis</h3>
+            <span class="candidate-tag" data-en="Incumbent · Former RTD Board Member" data-es="Titular · Ex Miembro de la Junta de RTD">Incumbent · Former RTD Board Member</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Incumbent District 8 council member elected in the June 2023 runoff (51%). Born and raised in Denver's historic Five Points neighborhood; attended Manual High School. Experienced displacement from Five Points due to rising housing costs before purchasing a home in East Colfax." data-es="Concejala titular del Distrito 8, elegida en la segunda vuelta de junio de 2023 (51%). Nacida y criada en el histórico vecindario Five Points de Denver; asistió a Manual High School. Experimentó desplazamiento de Five Points debido al aumento de costos de vivienda."><strong>Incumbent District 8 council member</strong> elected in the June 2023 runoff (51%). Born and raised in Denver's historic Five Points neighborhood; attended Manual High School. Experienced displacement from Five Points due to rising housing costs before purchasing a home in East Colfax.</li>
+            <li data-en="Served on the Regional Transportation District (RTD) Board of Directors from 2019 to 2022, where she chaired the Performance Committee. Previously served as Vice President of Equity, Inclusion and Diversity at the Colorado Coalition for the Homeless and as Director of Engagement and Strategy at Denver Public Schools." data-es="Sirvió en la Junta Directiva del Distrito de Transporte Regional (RTD) de 2019 a 2022, donde presidió el Comité de Rendimiento. Anteriormente fue Vicepresidenta de Equidad, Inclusión y Diversidad en la Coalición de Colorado para Personas sin Hogar y Directora de Compromiso y Estrategia en las Escuelas Públicas de Denver.">Served on the <strong>RTD Board of Directors</strong> from 2019 to 2022, where she chaired the Performance Committee. Previously served as <strong>VP of Equity at the Colorado Coalition for the Homeless</strong> and as Director of Engagement and Strategy at Denver Public Schools.</li>
+            <li data-en="Identified as part of the council's progressive bloc. Named social housing as a top 2025 priority. Advocates for housing-first policies, land use reform, and tenant protections. Supported the council effort to secure nearly $30 million in rental assistance in the 2024 budget." data-es="Identificada como parte del bloque progresista del concejo. Nombró la vivienda social como prioridad principal para 2025. Aboga por políticas de vivienda primero, reforma de uso de suelo y protecciones para inquilinos. Apoyó el esfuerzo del concejo para asegurar casi $30 millones en asistencia de alquiler en el presupuesto de 2024.">Identified as part of the council's <strong>progressive bloc</strong>. Named social housing as a top 2025 priority. Advocates for housing-first policies and tenant protections. Supported the council effort to secure nearly <strong>$30 million in rental assistance</strong> in the 2024 budget.</li>
+            <li data-en="Supports Vision Zero traffic-calming infrastructure and a citywide protected bike network. On RTD, led proposals for free fare on Election Day and shifting transit security budgets toward social worker outreach." data-es="Apoya la infraestructura de pacificación del tráfico de Vision Zero y una red protegida de bicicletas en toda la ciudad. En RTD, lideró propuestas para tarifa gratuita el Día de Elecciones y redirigir presupuestos de seguridad de tránsito hacia alcance de trabajadores sociales.">Supports <strong>Vision Zero</strong> traffic-calming infrastructure and a citywide protected bike network. On RTD, led proposals for free fare on Election Day and shifting transit security budgets toward social worker outreach.</li>
+            <li data-en="Served on the Denver Women's Commission, Walk Denver Policy Committee, and boards of the Denver Preschool Program. 2023 endorsements included SEIU Local 105, Denver DSA, Sierra Club, Colorado Working Families Party, and Denver Area Labor Federation." data-es="Sirvió en la Comisión de Mujeres de Denver, el Comité de Políticas de Walk Denver y la junta del Programa Preescolar de Denver. Apoyos de 2023 incluyeron SEIU Local 105, Denver DSA, Sierra Club, Partido de Familias Trabajadoras de Colorado y la Federación Laboral del Área de Denver.">Served on the <strong>Denver Women's Commission</strong>, Walk Denver Policy Committee, and the Denver Preschool Program board. 2023 endorsements included SEIU Local 105, Denver DSA, Sierra Club, and Denver Area Labor Federation.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Teddy McCullough -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Teddy McCullough</h3>
+            <span class="candidate-tag" data-en="Indigenous Rights Advocate" data-es="Defensor de Derechos Indígenas">Indigenous Rights Advocate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Commissioner on the Denver American Indian Commission, a mayoral advisory board under the city's Office of Human Rights and Community Partnerships. Involved in advocacy that led to the council's 2025 vote making Indigenous Peoples Day a paid city holiday." data-es="Comisionado en la Comisión de Indígenas Americanos de Denver, una junta asesora del alcalde bajo la Oficina de Derechos Humanos y Asociaciones Comunitarias de la ciudad. Involucrado en la defensa que llevó a la votación del concejo de 2025 que hizo del Día de los Pueblos Indígenas un feriado pagado de la ciudad."><strong>Commissioner on the Denver American Indian Commission</strong>, a mayoral advisory board under the city's Office of Human Rights and Community Partnerships. Involved in advocacy that led to the council's 2025 vote making Indigenous Peoples Day a paid city holiday.</li>
+            <li data-en="Opinion contributor to Colorado Politics. Filed to run for Denver City Council District 8 in the April 2027 election. No campaign website or detailed platform publicly available at this time." data-es="Colaborador de opinión en Colorado Politics. Se registró para competir por el Distrito 8 del Concejo Municipal de Denver en la elección de abril de 2027. No hay sitio web de campaña ni plataforma detallada disponible públicamente en este momento.">Opinion contributor to <strong>Colorado Politics</strong>. Filed to run for Denver City Council District 8 in the April 2027 election. No campaign website or detailed platform publicly available at this time.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 9 Candidates -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 9 — North Denver" data-es="Distrito 9 — Norte de Denver">District 9 — North Denver</h2>
+        <p data-en="Two candidates have filed for District 9. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Dos candidatos se han registrado para el Distrito 9. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Two candidates have filed for District 9. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Hamilton Nickoloff -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Hamilton Nickoloff</h3>
+            <span class="candidate-tag" data-en="Homelessness Services Director" data-es="Director de Servicios para Personas sin Hogar">Homelessness Services Director</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Executive Director of Sol Hom Supportive Services, where he leads a team of Peer Support Navigators serving people experiencing homelessness. Certified peer specialist with personal lived experience of homelessness and addiction; now nine years sober." data-es="Director Ejecutivo de Sol Hom Supportive Services, donde lidera un equipo de Navegadores de Apoyo entre Pares que sirven a personas sin hogar. Especialista certificado en apoyo entre pares con experiencia personal vivida de falta de hogar y adicción; ahora nueve años sobrio."><strong>Executive Director of Sol Hom Supportive Services</strong>, where he leads a team of Peer Support Navigators serving people experiencing homelessness. Certified peer specialist with personal lived experience of homelessness and addiction; now nine years sober.</li>
+            <li data-en="Works at Elevated Denver's Community Resource Connection Hub in the Westwood neighborhood, helping newly homeless individuals connect with resources. Holds a BS in Social Policy and Human Welfare from Metropolitan State University of Denver." data-es="Trabaja en el Centro de Conexión de Recursos Comunitarios de Elevated Denver en el vecindario de Westwood, ayudando a personas recién sin hogar a conectarse con recursos. Tiene una licenciatura en Política Social y Bienestar Humano de la Universidad Estatal Metropolitana de Denver.">Works at <strong>Elevated Denver's Community Resource Connection Hub</strong> in the Westwood neighborhood. Holds a BS in Social Policy and Human Welfare from Metropolitan State University of Denver.</li>
+            <li data-en="Previously worked at the Colorado Coalition for the Homeless and the Colorado Village Collaborative. Has spoken publicly on the City of Denver's peer support workforce at conferences including Public Health of the Rockies." data-es="Anteriormente trabajó en la Coalición de Colorado para Personas sin Hogar y el Colorado Village Collaborative. Ha hablado públicamente sobre la fuerza laboral de apoyo entre pares de la Ciudad de Denver en conferencias incluyendo Public Health of the Rockies.">Previously worked at the <strong>Colorado Coalition for the Homeless</strong> and the <strong>Colorado Village Collaborative</strong>. Has spoken publicly on Denver's peer support workforce at conferences including Public Health of the Rockies.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Darrell Watson -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Darrell Watson</h3>
+            <span class="candidate-tag" data-en="Incumbent · Finance & JEDI Consultant" data-es="Titular · Consultor de Finanzas y JEDI">Incumbent · Finance & JEDI Consultant</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Incumbent District 9 council member elected in the June 2023 runoff, defeating then-incumbent Candi CdeBaca with 62% of the vote. First openly gay man elected to Denver City Council. Born in St. Thomas, U.S. Virgin Islands; first-generation graduate of UC Denver." data-es="Concejal titular del Distrito 9, elegido en la segunda vuelta de junio de 2023, derrotando a la entonces titular Candi CdeBaca con el 62% de los votos. Primer hombre abiertamente gay elegido al Concejo Municipal de Denver. Nacido en St. Thomas, Islas Vírgenes de EE.UU.; graduado de primera generación de UC Denver."><strong>Incumbent District 9 council member</strong> elected in the June 2023 runoff, defeating then-incumbent Candi CdeBaca with 62% of the vote. <strong>First openly gay man elected to Denver City Council</strong>. Born in St. Thomas, U.S. Virgin Islands; first-generation graduate of UC Denver.</li>
+            <li data-en="Career in finance at U.S. Bank and TIAA. In 2020, co-founded the Watson Wenk Group with his husband Mike, a consulting firm focused on justice, equity, diversity, and inclusion (JEDI) for government agencies, businesses, and nonprofits." data-es="Carrera en finanzas en U.S. Bank y TIAA. En 2020, cofundó el Watson Wenk Group con su esposo Mike, una firma de consultoría enfocada en justicia, equidad, diversidad e inclusión (JEDI) para agencias gubernamentales, empresas y organizaciones sin fines de lucro.">Career in finance at U.S. Bank and TIAA. In 2020, co-founded the <strong>Watson Wenk Group</strong> with his husband Mike, a consulting firm focused on justice, equity, diversity, and inclusion (JEDI) for government agencies and nonprofits.</li>
+            <li data-en="Founding chair of the Housing Stability Strategic Advisors board, which co-developed the Expanding Housing Affordability policy — Denver's only affordable housing mandate. Has proposed fast-tracking affordable housing by adding permit-team staff, mapping vacant city properties, and converting downtown office space to housing." data-es="Presidente fundador de la junta de Asesores Estratégicos de Estabilidad de Vivienda, que codesarrolló la política de Expansión de Asequibilidad de Vivienda — el único mandato de vivienda asequible de Denver. Ha propuesto acelerar la vivienda asequible agregando personal de permisos, mapeando propiedades vacantes de la ciudad y convirtiendo espacios de oficina del centro en vivienda.">Founding chair of the Housing Stability Strategic Advisors board, which co-developed the <strong>Expanding Housing Affordability</strong> policy — Denver's only affordable housing mandate. Has proposed fast-tracking affordable housing by adding permit-team staff and converting downtown office space to housing.</li>
+            <li data-en="Former co-chair of the Denver Biased Policing Task Force, which updated DPD training to reduce biased policing. Former chair of the Denver Parks and Recreation Advisory Board and founding chair of the Denver Park Trust. Co-chaired the Denver Game Plan for a Healthy City, a 20-year parks strategic plan." data-es="Ex copresidente del Grupo de Trabajo de Policiamiento Sesgado de Denver, que actualizó la capacitación de DPD para reducir el policiamiento sesgado. Ex presidente de la Junta Asesora de Parques y Recreación de Denver y presidente fundador del Fideicomiso de Parques de Denver. Copresidió el Plan de Juego de Denver para una Ciudad Saludable, un plan estratégico de parques de 20 años.">Former co-chair of the <strong>Denver Biased Policing Task Force</strong>, which updated DPD training to reduce biased policing. Former chair of the Denver Parks and Recreation Advisory Board and founding chair of the Denver Park Trust.</li>
+            <li data-en="Former president of the Whittier Neighborhood Association. Vice-chair of the Land Use, Transportation & Infrastructure Committee; member of the Safety, Housing, Education & Homelessness Committee." data-es="Ex presidente de la Asociación de Vecinos de Whittier. Vicepresidente del Comité de Uso de Suelo, Transporte e Infraestructura; miembro del Comité de Seguridad, Vivienda, Educación y Personas sin Hogar.">Former president of the <strong>Whittier Neighborhood Association</strong>. Vice-chair of the Land Use, Transportation & Infrastructure Committee; member of the Safety, Housing, Education & Homelessness Committee.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 10 Candidates -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 10 — Central Denver" data-es="Distrito 10 — Centro de Denver">District 10 — Central Denver</h2>
+        <p data-en="Two candidates have filed for District 10. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Dos candidatos se han registrado para el Distrito 10. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Two candidates have filed for District 10. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Chris Hinds -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Chris Hinds</h3>
+            <span class="candidate-tag" data-en="Incumbent · Disability Rights Advocate" data-es="Titular · Defensor de Derechos de Personas con Discapacidad">Incumbent · Disability Rights Advocate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Incumbent District 10 council member, first elected in 2019 and re-elected in June 2023 with 55% of the vote. Background in computer science and finance (CS degree and MBA from SMU). A 2008 cycling accident resulted in a spinal cord injury; Hinds became the first elected official in Denver's history to use a wheelchair." data-es="Concejal titular del Distrito 10, elegido por primera vez en 2019 y reelegido en junio de 2023 con el 55% de los votos. Formación en informática y finanzas (título en CS y MBA de SMU). Un accidente de ciclismo en 2008 resultó en una lesión de la médula espinal; Hinds se convirtió en el primer funcionario electo en la historia de Denver en usar silla de ruedas."><strong>Incumbent District 10 council member</strong>, first elected in 2019 and re-elected in June 2023 with 55% of the vote. Background in computer science and finance (CS degree and MBA from SMU). A 2008 cycling accident resulted in a spinal cord injury; Hinds became the <strong>first elected official in Denver's history to use a wheelchair</strong>.</li>
+            <li data-en="Before running for office, spent years as a disability rights advocate. In May 2018, Governor Hickenlooper signed the Chris Hinds Act into law, creating statewide protections against fraudulent use of disability parking — the result of hundreds of hours of Hinds' research and advocacy." data-es="Antes de postularse, pasó años como defensor de los derechos de personas con discapacidad. En mayo de 2018, el Gobernador Hickenlooper firmó la Ley Chris Hinds, creando protecciones estatales contra el uso fraudulento de estacionamiento para discapacitados — resultado de cientos de horas de investigación y defensa de Hinds.">Before running for office, spent years as a disability rights advocate. In May 2018, Governor Hickenlooper signed the <strong>Chris Hinds Act</strong> into law, creating statewide protections against fraudulent use of disability parking — the result of hundreds of hours of Hinds' research and advocacy.</li>
+            <li data-en="Co-sponsored the bill that raised Denver's minimum wage. Voted yes on the Expanding Housing Affordability policy requiring developers to include income-restricted units. Co-sponsored legislation to permanently codify safe outdoor camping sites for people experiencing homelessness." data-es="Copatrocinó el proyecto de ley que aumentó el salario mínimo de Denver. Votó a favor de la política de Expansión de Asequibilidad de Vivienda que requiere que los desarrolladores incluyan unidades con restricción de ingresos. Copatrocinó legislación para codificar permanentemente sitios de campamento seguro al aire libre para personas sin hogar.">Co-sponsored the bill that <strong>raised Denver's minimum wage</strong>. Voted yes on the Expanding Housing Affordability policy requiring developers to include income-restricted units. Co-sponsored legislation to permanently codify <strong>safe outdoor camping sites</strong> for people experiencing homelessness.</li>
+            <li data-en="Supports expanding the STAR program to 24/7 citywide coverage alongside increased police staffing. Advocates for a Housing First approach and supports the city's motel-to-housing conversions." data-es="Apoya la expansión del programa STAR a cobertura 24/7 en toda la ciudad junto con el aumento de personal policial. Aboga por un enfoque de Vivienda Primero y apoya las conversiones de moteles a viviendas de la ciudad.">Supports expanding the <strong>STAR program</strong> to 24/7 citywide coverage alongside increased police staffing. Advocates for a Housing First approach and supports the city's motel-to-housing conversions.</li>
+            <li data-en="Made national news in 2023 when he had to drag himself onto a debate stage that lacked wheelchair accessibility, drawing attention to ADA compliance failures. District 10 covers Capitol Hill, Uptown, and parts of downtown Denver." data-es="Fue noticia nacional en 2023 cuando tuvo que arrastrarse a un escenario de debate que carecía de accesibilidad para sillas de ruedas, llamando la atención sobre fallas de cumplimiento de la ADA. El Distrito 10 cubre Capitol Hill, Uptown y partes del centro de Denver.">Made national news in 2023 when he had to drag himself onto a debate stage that lacked wheelchair accessibility, drawing attention to <strong>ADA compliance failures</strong>. District 10 covers Capitol Hill, Uptown, and parts of downtown Denver.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Sean Staggs -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Sean Staggs</h3>
+            <span class="candidate-tag" data-en="Candidate" data-es="Candidato">Candidate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Filed to run for Denver City Council District 10 in the April 2027 election." data-es="Se registró para competir por el Distrito 10 del Concejo Municipal de Denver en la elección de abril de 2027.">Filed to run for Denver City Council District 10 in the April 2027 election.</li>
+            <li data-en="We will update this section as campaign information becomes available." data-es="Actualizaremos esta sección a medida que la información de campaña esté disponible.">We will update this section as campaign information becomes available.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- District 11 Candidates -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="District 11 — Far Northeast Denver" data-es="Distrito 11 — Extremo Noreste de Denver">District 11 — Far Northeast Denver</h2>
+        <p data-en="Two candidates have filed for District 11. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Dos candidatos se han registrado para el Distrito 11. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Two candidates have filed for District 11. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Kayla Greathouse -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Kayla Greathouse</h3>
+            <span class="candidate-tag" data-en="Policy Analyst & Disaster Recovery Specialist" data-es="Analista de Políticas y Especialista en Recuperación de Desastres">Policy Analyst & Disaster Recovery Specialist</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Disaster Recovery Specialist at the U.S. Small Business Administration (4+ years). Political Science student at Metropolitan State University of Denver with an emphasis on International Relations." data-es="Especialista en Recuperación de Desastres en la Administración de Pequeños Negocios de EE.UU. (más de 4 años). Estudiante de Ciencias Políticas en la Universidad Estatal Metropolitana de Denver con énfasis en Relaciones Internacionales."><strong>Disaster Recovery Specialist at the U.S. Small Business Administration</strong> (4+ years). Political Science student at Metropolitan State University of Denver with an emphasis on International Relations.</li>
+            <li data-en="Stated policy interests include affordable housing policy, criminal justice prevention policy, and sustainable community development. No campaign website publicly available at this time." data-es="Intereses políticos declarados incluyen política de vivienda asequible, política de prevención de justicia penal y desarrollo comunitario sostenible. No hay sitio web de campaña disponible públicamente en este momento.">Stated policy interests include <strong>affordable housing policy, criminal justice prevention policy</strong>, and sustainable community development. No campaign website publicly available at this time.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Brande Micheau -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Brande Micheau</h3>
+            <span class="candidate-tag" data-en="Former Council Constituent Services Director" data-es="Ex Directora de Servicios a los Electores del Concejo">Former Council Constituent Services Director</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Currently serves as Programs Specialist at the Colorado Office of the Child's Representative. Previously served as Director of Constituent Services for Denver City Council (starting 2011), performing duties related to city policy in zoning, economic development, safety, and urban planning." data-es="Actualmente sirve como Especialista de Programas en la Oficina del Representante del Niño de Colorado. Anteriormente fue Directora de Servicios a los Electores del Concejo Municipal de Denver (desde 2011), desempeñando funciones relacionadas con políticas de zonificación, desarrollo económico, seguridad y planificación urbana.">Currently serves as Programs Specialist at the <strong>Colorado Office of the Child's Representative</strong>. Previously served as <strong>Director of Constituent Services for Denver City Council</strong> (starting 2011), performing duties related to city policy in zoning, economic development, safety, and urban planning.</li>
+            <li data-en="Previously worked with the Denver Elections Division developing election programs centered on voter outreach and education in disenfranchised communities. Holds an MS in Organizational Management from Colorado State University-Global Campus. Named one of the 'African Americans Who Make A Difference' by Denver Urban Spectrum." data-es="Anteriormente trabajó con la División de Elecciones de Denver desarrollando programas electorales centrados en alcance a votantes y educación en comunidades privadas de derechos. Tiene una Maestría en Gestión Organizacional de Colorado State University-Global Campus. Nombrada una de los 'Afroamericanos que Hacen la Diferencia' por Denver Urban Spectrum.">Previously worked with the <strong>Denver Elections Division</strong> developing voter outreach programs in disenfranchised communities. MS in Organizational Management from Colorado State University-Global Campus. Named one of the <strong>"African Americans Who Make A Difference"</strong> by Denver Urban Spectrum.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- At-Large Candidates -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="At-Large" data-es="En General">At-Large</h2>
+        <p data-en="Two candidates have filed for the At-Large council seat. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Dos candidatos se han registrado para el escaño en general del concejo. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          Two candidates have filed for the At-Large council seat. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Serena Gonzales Gutierrez -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Serena Gonzales Gutierrez</h3>
+            <span class="candidate-tag" data-en="Incumbent · Former State Rep. (HD-4)" data-es="Titular · Ex Representante Estatal (HD-4)">Incumbent · Former State Rep. (HD-4)</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Incumbent at-large council member elected April 2023 with the most votes of any candidate in the nine-candidate at-large field. Previously served as Colorado State Representative for House District 4 (2019–2023), winning election in 2018, 2020, and 2022." data-es="Concejala en general titular, elegida en abril de 2023 con la mayor cantidad de votos de cualquier candidato en el campo de nueve candidatos en general. Anteriormente sirvió como Representante Estatal de Colorado por el Distrito 4 de la Cámara (2019–2023), ganando elecciones en 2018, 2020 y 2022."><strong>Incumbent at-large council member</strong> elected April 2023 with the most votes of any candidate in the nine-candidate at-large field. Previously served as <strong>Colorado State Representative for House District 4</strong> (2019–2023), winning election in 2018, 2020, and 2022.</li>
+            <li data-en="Worked at Denver Human Services as a social caseworker connecting families to community resources. Previously served as Director of the Denver Collaborative Partnership, as a victim advocate supporting domestic violence survivors, and as a youth counselor. B.A. in Psychology from Colorado State University. North High School graduate." data-es="Trabajó en Servicios Humanos de Denver como trabajadora social conectando familias con recursos comunitarios. Anteriormente fue Directora de la Asociación Colaborativa de Denver, defensora de víctimas apoyando a sobrevivientes de violencia doméstica y consejera juvenil. Licenciatura en Psicología de la Universidad Estatal de Colorado. Graduada de North High School.">Worked at <strong>Denver Human Services</strong> as a social caseworker connecting families to community resources. Previously served as Director of the Denver Collaborative Partnership, as a victim advocate supporting domestic violence survivors, and as a youth counselor. B.A. in Psychology from Colorado State University.</li>
+            <li data-en="In the state legislature, sponsored legislation on equal pay, air quality protections for disproportionately impacted communities like Globeville and Elyria-Swansea, tenant rights, criminal justice reform (speedy trial rights for defendants who cannot afford bail), and guardianship for vulnerable youth ages 18–21." data-es="En la legislatura estatal, patrocinó legislación sobre igualdad salarial, protecciones de calidad del aire para comunidades desproporcionadamente afectadas como Globeville y Elyria-Swansea, derechos de inquilinos, reforma de justicia penal (derechos a juicio rápido para acusados que no pueden pagar fianza) y tutela para jóvenes vulnerables de 18 a 21 años.">In the state legislature, sponsored legislation on <strong>equal pay, air quality protections</strong> for communities like Globeville and Elyria-Swansea, <strong>tenant rights</strong>, criminal justice reform, and guardianship for vulnerable youth ages 18–21.</li>
+            <li data-en="On council, identified housing as the most pressing issue facing Denver. Co-sponsored a charter amendment to extend collective bargaining rights to approximately 7,000 additional city employees. Served on the committee reviewing the 2024 affordable housing sales tax measure." data-es="En el concejo, identificó la vivienda como el tema más urgente que enfrenta Denver. Copatrocinó una enmienda a la carta para extender los derechos de negociación colectiva a aproximadamente 7,000 empleados adicionales de la ciudad. Sirvió en el comité que revisó la medida del impuesto de ventas para vivienda asequible de 2024.">On council, identified <strong>housing as the most pressing issue</strong> facing Denver. Co-sponsored a charter amendment to extend <strong>collective bargaining rights</strong> to approximately 7,000 additional city employees. Served on the committee reviewing the 2024 affordable housing sales tax measure.</li>
+            <li data-en="Granddaughter of Rodolfo 'Corky' Gonzales, the Chicano civil rights activist and boxing champion. Born and raised in North Denver, fourth-generation Denver family. 2023 endorsements included Denver Area Labor Federation, EMILY's List, Colorado Working Families Party, and SEIU Local 105." data-es="Nieta de Rodolfo 'Corky' Gonzales, el activista de derechos civiles chicano y campeón de boxeo. Nacida y criada en el norte de Denver, familia de cuarta generación en Denver. Apoyos de 2023 incluyeron la Federación Laboral del Área de Denver, EMILY's List, Partido de Familias Trabajadoras de Colorado y SEIU Local 105.">Granddaughter of <strong>Rodolfo "Corky" Gonzales</strong>, the Chicano civil rights activist and boxing champion. Born and raised in North Denver, fourth-generation Denver family. 2023 endorsements included Denver Area Labor Federation, EMILY's List, and Colorado Working Families Party.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <!-- Michael Harding -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Michael Harding</h3>
+            <span class="candidate-tag" data-en="Candidate" data-es="Candidato">Candidate</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Filed to run for Denver City Council At-Large in the April 2027 election." data-es="Se registró para competir por el escaño en general del Concejo Municipal de Denver en la elección de abril de 2027.">Filed to run for Denver City Council At-Large in the April 2027 election.</li>
+            <li data-en="We will update this section as campaign information becomes available." data-es="Actualizaremos esta sección a medida que la información de campaña esté disponible.">We will update this section as campaign information becomes available.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- At-Large Seat B Candidates -->
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 data-en="At-Large Seat B" data-es="En General Escaño B">At-Large Seat B</h2>
+        <p data-en="One candidate has filed for the At-Large Seat B council position. Election: April 6, 2027. Runoff (if needed): June 1, 2027." data-es="Un candidato se ha registrado para la posición en general Escaño B del concejo. Elección: 6 de abril de 2027. Segunda vuelta (si es necesaria): 1 de junio de 2027.">
+          One candidate has filed for the At-Large Seat B council position. Election: April 6, 2027. Runoff (if needed): June 1, 2027.
+        </p>
+      </div>
+
+      <!-- Sarah Parady -->
+      <div class="candidate-card">
+        <div class="candidate-header">
+          <div class="candidate-info">
+            <h3>Sarah Parady</h3>
+            <span class="candidate-tag" data-en="Incumbent · Labor & Civil Rights Attorney" data-es="Titular · Abogada de Derechos Laborales y Civiles">Incumbent · Labor & Civil Rights Attorney</span>
+          </div>
+          <span class="response-status response-status--not-contacted" data-en="Not Yet Contacted" data-es="Aún No Contactado">Not Yet Contacted</span>
+        </div>
+        <div class="candidate-context">
+          <h4 data-en="What We Know From the Public Record" data-es="Lo Que Sabemos del Registro Público">What We Know From the Public Record</h4>
+          <ul>
+            <li data-en="Incumbent at-large council member elected in April 2023. Co-founded the law firm Lowrey Parady Lebsack, focused on workers' rights, civil rights, and employment discrimination. Holds a JD from NYU School of Law and clerked for Judge Carlos F. Lucero on the U.S. Tenth Circuit Court of Appeals." data-es="Concejala en general titular, elegida en abril de 2023. Cofundó el bufete Lowrey Parady Lebsack, enfocado en derechos de los trabajadores, derechos civiles y discriminación laboral. Tiene un JD de la Facultad de Derecho de NYU y fue asistente del Juez Carlos F. Lucero en la Corte de Apelaciones del Décimo Circuito de EE.UU."><strong>Incumbent at-large council member</strong> elected in April 2023. Co-founded the law firm Lowrey Parady Lebsack, focused on workers' rights, civil rights, and employment discrimination. Holds a JD from NYU School of Law and clerked for Judge Carlos F. Lucero on the U.S. Tenth Circuit Court of Appeals.</li>
+            <li data-en="Primary drafter of the Colorado Equal Pay for Equal Work Act (2019), which made Colorado a national leader in pay transparency. Won one of the largest disability discrimination verdicts in Colorado history and recovered hundreds of thousands in stolen wages for 200 drywall workers." data-es="Autora principal de la Ley de Igualdad Salarial por Trabajo Igual de Colorado (2019), que convirtió a Colorado en líder nacional en transparencia salarial. Ganó uno de los mayores veredictos por discriminación por discapacidad en la historia de Colorado y recuperó cientos de miles en salarios robados para 200 trabajadores de paneles de yeso.">Primary drafter of the <strong>Colorado Equal Pay for Equal Work Act (2019)</strong>, which made Colorado a national leader in pay transparency. Won one of the largest disability discrimination verdicts in Colorado history and recovered hundreds of thousands in stolen wages for 200 drywall workers.</li>
+            <li data-en="Led the council effort to secure nearly $30 million in rental assistance in the 2024 city budget, using a veto-proof majority to push through $13.5 million in additional funding. Advocates for tenant protections, eviction defense, and city-owned 'social housing.'" data-es="Lideró el esfuerzo del concejo para asegurar casi $30 millones en asistencia de alquiler en el presupuesto de la ciudad de 2024, utilizando una mayoría a prueba de veto para impulsar $13.5 millones en fondos adicionales. Aboga por protecciones para inquilinos, defensa contra desalojos y vivienda social propiedad de la ciudad.">Led the council effort to secure nearly <strong>$30 million in rental assistance</strong> in the 2024 city budget, using a veto-proof majority to push through $13.5 million in additional funding. Advocates for tenant protections, eviction defense, and city-owned "social housing."</li>
+            <li data-en="Supports expanding the STAR program and housing-first approaches to homelessness. Has called encampment sweeps 'wasteful and inhumane.' Supports upzoning and density to address housing costs." data-es="Apoya la expansión del programa STAR y enfoques de vivienda primero para personas sin hogar. Ha llamado a los desalojos de campamentos 'derrochadores e inhumanos.' Apoya la densificación para abordar los costos de vivienda.">Supports expanding the <strong>STAR program</strong> and housing-first approaches to homelessness. Has called encampment sweeps "wasteful and inhumane." Supports upzoning and density to address housing costs.</li>
+            <li data-en="Started her legal career at Colorado Legal Services during the 2008–2009 foreclosure crisis. Lives in the Whittier neighborhood. Grew up in Rock Springs, Wyoming." data-es="Comenzó su carrera legal en Colorado Legal Services durante la crisis de ejecuciones hipotecarias de 2008–2009. Vive en el vecindario de Whittier. Creció en Rock Springs, Wyoming.">Started her legal career at Colorado Legal Services during the 2008–2009 foreclosure crisis. Lives in the <strong>Whittier neighborhood</strong>. Grew up in Rock Springs, Wyoming.</li>
+          </ul>
+        </div>
+        <details class="candidate-responses">
+          <summary data-en="View Questionnaire Responses" data-es="Ver Respuestas del Cuestionario">View Questionnaire Responses</summary>
+          <div class="responses-pending">
+            <Icon name="lucide:clock" size={20} />
+            <p data-en="Questionnaire sent. Responses will be published here unedited when received." data-es="Cuestionario enviado. Las respuestas se publicarán aquí sin editar cuando se reciban.">Questionnaire sent. Responses will be published here unedited when received.</p>
+          </div>
+        </details>
+      </div>
+
+      <div class="methodology-note">
+        <h3 data-en="Our Approach" data-es="Nuestro Enfoque">Our Approach</h3>
+        <p data-en="Every candidate receives the same ten questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position." data-es="Cada candidato recibe las mismas diez preguntas. Las respuestas se publican sin editar y completas. No respaldamos candidatos. Proporcionamos información para que los votantes puedan tomar decisiones informadas. Si un candidato no responde, se nota — el silencio sobre los temas es en sí mismo una posición.">
+          Every candidate receives the same ten questions. Responses are published unedited and in full. We do not endorse candidates. We provide information so voters can make informed decisions. If a candidate does not respond, that is noted — silence on the issues is itself a position.
+        </p>
+        <p data-en="'What We Know From the Public Record' sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue." data-es="Las secciones 'Lo Que Sabemos del Registro Público' provienen de reportajes, materiales de campaña y registros oficiales. Correcciones bienvenidas — envíanos un correo o abre un issue en GitHub.">
+          "What We Know From the Public Record" sections are sourced from news reporting, campaign materials, and official records. Corrections welcome — email us or open a GitHub issue.
+        </p>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .hero-sublink {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+  }
+
+  .hero-sublink a {
+    color: white;
+    text-decoration: underline;
+    font-weight: 600;
+  }
+
+  .section-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+  .section-header p {
+    color: var(--color-text-muted);
+    font-size: 1.05rem;
+    max-width: 640px;
+    margin: 0.5rem auto 0;
+  }
+
+  /* Questions */
+  .questions-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .question-card {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .question-number {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--color-primary);
+    color: white;
+    font-weight: 800;
+    font-size: 0.9rem;
+  }
+
+  /* Election Map */
+  .election-map {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .map-card {
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    text-align: center;
+  }
+
+  .map-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .map-card p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.5rem;
+  }
+
+  .map-detail {
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+  }
+
+  .map-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    margin-bottom: 0.5rem;
+    background: #e8e8e8;
+    color: #666;
+  }
+
+  .map-badge--open {
+    background: #fde8e8;
+    color: #c53030;
+  }
+
+  .map-badge--watch {
+    background: #fff3e0;
+    color: #b06000;
+  }
+
+  .map-card--open {
+    border-color: #f5c6c6;
+  }
+
+  .map-card--watch {
+    border-color: #ffe0b2;
+  }
+
+  .question-category {
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-primary);
+    padding: 0.5rem 0 0;
+  }
+
+  .question-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .question-card p {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* Candidate Cards */
+  .candidate-card {
+    margin-bottom: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    overflow: hidden;
+  }
+
+  .candidate-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 1.5rem;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .candidate-info h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.35rem;
+  }
+
+  .candidate-tag {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+  }
+
+  .response-status {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.3rem 0.7rem;
+    border-radius: 4px;
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+  }
+
+  .response-status--pending {
+    background: #fff3e0;
+    color: #b06000;
+  }
+
+  .response-status--received {
+    background: #e8f8e8;
+    color: #2d7a2d;
+  }
+
+  .response-status--declined {
+    background: #fde8e8;
+    color: #c53030;
+  }
+
+  .response-status--not-contacted {
+    background: #e8e8e8;
+    color: #666;
+  }
+
+  .candidate-context {
+    padding: 0 1.5rem 1rem;
+  }
+
+  .candidate-context h4 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+  }
+
+  .candidate-context ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .candidate-context li {
+    padding: 0.5rem 0;
+    padding-left: 1.25rem;
+    position: relative;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .candidate-context li:last-child {
+    border-bottom: none;
+  }
+
+  .candidate-context li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.85rem;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--color-primary);
+  }
+
+  .candidate-responses {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .candidate-responses summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+    user-select: none;
+    transition: background 0.15s;
+  }
+
+  .candidate-responses summary:hover {
+    background: var(--color-bg-alt);
+  }
+
+  .candidate-responses[open] summary {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .responses-pending {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1.25rem 1.5rem;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+  }
+
+  .responses-pending [data-icon] {
+    flex-shrink: 0;
+    color: #b06000;
+  }
+
+  .responses-pending p {
+    margin: 0;
+  }
+
+  /* Response display (for when responses come in) */
+  .response-item {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .response-item:last-child {
+    border-bottom: none;
+  }
+
+  .response-item h4 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-primary);
+    margin-bottom: 0.5rem;
+  }
+
+  .response-item blockquote {
+    margin: 0;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg-alt);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--color-text);
+  }
+
+  .methodology-note {
+    margin-top: 2rem;
+    padding: 1.5rem 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .methodology-note h3 {
+    margin-bottom: 0.75rem;
+    font-size: 1rem;
+  }
+
+  .methodology-note p {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+
+  .methodology-note p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Coming Soon */
+  .coming-soon {
+    text-align: center;
+    padding: 3rem 2rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 2px dashed var(--color-border);
+  }
+
+  .coming-soon h2 {
+    margin-bottom: 0.75rem;
+  }
+
+  .coming-soon p {
+    color: var(--color-text-muted);
+    max-width: 500px;
+    margin: 0 auto 1.5rem;
+    font-size: 0.95rem;
+  }
+
+  .cta-button {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background: var(--color-primary);
+    color: white;
+    font-weight: 700;
+    font-size: 0.9rem;
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+
+  .cta-button:hover {
+    background: var(--color-primary-dark);
+  }
+
+  @media (max-width: 600px) {
+    .question-card {
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .candidate-header {
+      flex-direction: column;
+    }
+
+    .election-map {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

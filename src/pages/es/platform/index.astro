@@ -1,0 +1,96 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import PolicyCard from '../../../components/PolicyCard.astro';
+import EmailCapture from '../../../components/EmailCapture.astro';
+import { getCollection } from 'astro:content';
+
+const policies = (await getCollection('policies'))
+  .sort((a, b) => a.data.order - b.data.order);
+
+const categories = [
+  { key: 'housing', en: 'Housing & Homelessness', es: 'Vivienda y Personas sin Hogar' },
+  { key: 'labor', en: 'Workers & Wages', es: 'Trabajadores y Salarios' },
+  { key: 'health', en: 'Healthcare', es: 'Salud' },
+  { key: 'climate', en: 'Climate & Environment', es: 'Clima y Medio Ambiente' },
+  { key: 'safety', en: 'Public Safety', es: 'Seguridad Pública' },
+  { key: 'immigration', en: 'Immigration', es: 'Inmigración' },
+  { key: 'education', en: 'Education', es: 'Educación' },
+  { key: 'infrastructure', en: 'Infrastructure & Services', es: 'Infraestructura y Servicios' },
+  { key: 'justice', en: 'Criminal Justice', es: 'Justicia Penal' },
+  { key: 'democracy', en: 'Democracy & Governance', es: 'Democracia y Gobernanza' },
+  { key: 'economy', en: 'Small Business & Economy', es: 'Pequeñas Empresas y Economía' },
+  { key: 'community', en: 'Community & Culture', es: 'Comunidad y Cultura' },
+];
+---
+
+<Layout title="Plataforma" description="Propuestas políticas integrales basadas en datos para la justicia económica en Denver.">
+  <section class="section">
+    <div class="container">
+      <div class="page-header">
+        <h1 data-en="The Platform" data-es="La Plataforma">The Platform</h1>
+        <p class="page-header__sub" data-en="Comprehensive, data-driven proposals for a just Denver. Every policy includes the problem, the solution, and how we pay for it. Click any proposal to read the full plan." data-es="Propuestas integrales basadas en datos para un Denver justo. Cada política incluye el problema, la solución y cómo la financiamos. Haz clic en cualquier propuesta para leer el plan completo.">
+          Comprehensive, data-driven proposals for a just Denver. Every policy includes the problem,
+          the solution, and how we pay for it. Click any proposal to read the full plan.
+        </p>
+      </div>
+
+      {categories.map(cat => {
+        const catPolicies = policies.filter(p => p.data.category === cat.key);
+        if (catPolicies.length === 0) return null;
+        return (
+          <div class="platform-section" id={cat.key}>
+            <h2 class="platform-section__title" data-en={cat.en} data-es={cat.es}>
+              {cat.en}
+            </h2>
+            <div class="grid grid--3">
+              {catPolicies.map(policy => (
+                <PolicyCard
+                  slug={policy.slug}
+                  title={policy.data.title}
+                  titleEs={policy.data.titleEs}
+                  summary={policy.data.summary}
+                  summaryEs={policy.data.summaryEs}
+                  category={cat.en}
+                  categoryEs={cat.es}
+                  icon={policy.data.icon}
+                />
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .page-header {
+    margin-bottom: 3rem;
+  }
+
+  .page-header h1 {
+    margin-bottom: 0.75rem;
+  }
+
+  .page-header__sub {
+    color: var(--color-text-muted);
+    font-size: 1.1rem;
+    max-width: 700px;
+  }
+
+  .platform-section {
+    margin-bottom: 3rem;
+  }
+
+  .platform-section__title {
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-primary-light);
+  }
+</style>

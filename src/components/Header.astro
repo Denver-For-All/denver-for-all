@@ -1,4 +1,13 @@
 ---
+import type { Locale } from '../i18n/utils';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = 'en' } = Astro.props;
+const isEs = locale === 'es';
+const prefix = isEs ? '/es' : '';
 const currentPath = Astro.url.pathname;
 
 const navItems = [
@@ -8,52 +17,42 @@ const navItems = [
   { href: '/take-action', en: 'Take Action', es: 'Actúa' },
   { href: '/about', en: 'About', es: 'Quiénes Somos' },
 ];
+
+// Build the URL to the alternate language version of the current page
+const strippedPath = currentPath.replace(/^\/es(\/|$)/, '$1') || '/';
+const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : strippedPath}`;
 ---
 
 <header class="header">
   <div class="container header__inner">
-    <a href="/" class="header__logo">
+    <a href={`${prefix}/`} class="header__logo">
       <span class="header__logo-icon">
         <img src="/favicon.svg" alt="" width="36" height="36" />
       </span>
-      <span class="header__logo-text" data-en="Denver For All" data-es="Denver Para Todos">Denver For All</span>
+      <span class="header__logo-text">{isEs ? 'Denver Para Todos' : 'Denver For All'}</span>
     </a>
 
-    <nav class="header__nav" id="main-nav" aria-label="Main navigation">
+    <nav class="header__nav" id="main-nav" aria-label={isEs ? 'Navegación principal' : 'Main navigation'}>
       {navItems.map(item => (
-        item.external ? (
-          <a
-            href={item.href}
-            class="header__link header__link--donate"
-            data-en={item.en}
-            data-es={item.es}
-            target="_blank"
-            rel="noopener"
-          >
-            {item.en}
-          </a>
-        ) : (
-          <a
-            href={item.href}
-            class:list={['header__link', { 'header__link--active': currentPath.startsWith(item.href) }]}
-            data-en={item.en}
-            data-es={item.es}
-            aria-current={currentPath.startsWith(item.href) ? 'page' : undefined}
-          >
-            {item.en}
-          </a>
-        )
+        <a
+          href={`${prefix}${item.href}`}
+          class:list={['header__link', { 'header__link--active': strippedPath.startsWith(item.href) }]}
+          aria-current={strippedPath.startsWith(item.href) ? 'page' : undefined}
+        >
+          {isEs ? item.es : item.en}
+        </a>
       ))}
-      <button
+      <a
         class="header__lang-toggle"
+        href={langToggleHref}
+        aria-label={isEs ? 'Switch to English' : 'Cambiar a Español'}
         id="lang-toggle"
-        aria-label="Toggle language"
       >
-        <span data-en="ES" data-es="EN">ES</span>
-      </button>
+        {isEs ? 'EN' : 'ES'}
+      </a>
     </nav>
 
-    <button class="header__menu-btn" id="menu-toggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="main-nav">
+    <button class="header__menu-btn" id="menu-toggle" aria-label={isEs ? 'Abrir menú' : 'Toggle menu'} aria-expanded="false" aria-controls="main-nav">
       <span></span>
       <span></span>
       <span></span>
@@ -119,18 +118,9 @@ const navItems = [
     background: var(--color-bg-alt);
   }
 
-  .header__link--donate {
-    background: var(--color-primary);
-    color: white !important;
-    font-weight: 600;
-  }
-
-  .header__link--donate:hover {
-    background: var(--color-primary-dark, #0a5c5f);
-    color: white !important;
-  }
-
   .header__lang-toggle {
+    display: inline-flex;
+    align-items: center;
     margin-left: 0.5rem;
     padding: 0.4rem 0.75rem;
     border: 2px solid var(--color-primary);
@@ -139,7 +129,7 @@ const navItems = [
     color: var(--color-primary);
     font-weight: 700;
     font-size: 0.8rem;
-    cursor: pointer;
+    text-decoration: none;
     transition: all 0.2s;
   }
 
@@ -204,32 +194,10 @@ const navItems = [
     toggle?.setAttribute('aria-expanded', String(expanded));
   });
 
+  // Save language preference when user clicks the language toggle link
   const langToggle = document.getElementById('lang-toggle');
   langToggle?.addEventListener('click', () => {
-    const current = localStorage.getItem('dfa-locale') || 'en';
-    const next = current === 'en' ? 'es' : 'en';
-    localStorage.setItem('dfa-locale', next);
-
-    // Setting lang on <html> is the ONLY thing needed for data-lang content
-    // switching. CSS rules handle show/hide — no inline style manipulation.
-    document.documentElement.lang = next;
-
-    // Swap text content for data-en / data-es elements.
-    document.querySelectorAll('[data-en]').forEach(el => {
-      const text = el.getAttribute(`data-${next}`);
-      if (text) {
-        if (el.children.length > 0) {
-          el.innerHTML = text;
-        } else {
-          el.textContent = text;
-        }
-      }
-    });
-    document.querySelectorAll(`[data-${next}-placeholder]`).forEach(el => {
-      const placeholder = el.getAttribute(`data-${next}-placeholder`);
-      if (placeholder && el instanceof HTMLInputElement) {
-        el.placeholder = placeholder;
-      }
-    });
+    const isCurrentlyEs = document.documentElement.lang === 'es';
+    localStorage.setItem('dfa-locale', isCurrentlyEs ? 'en' : 'es');
   });
 </script>

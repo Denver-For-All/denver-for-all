@@ -1,0 +1,141 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+import CampaignFinanceScrollytelling from '../../../components/campaign-finance-data/CampaignFinanceScrollytelling';
+---
+
+<Layout title="Dinero en la Política de Denver" description="Scroll-based data story: Outside spending in Denver elections exploded 380% from 2019 to 2023. Billionaires, developers, and super PACs. Follow the money.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Money in Denver Politics" data-es="El Dinero en la Pol&iacute;tica de Denver">Money in Denver Politics</h1>
+      <p data-en="Outside spending in Denver elections jumped from less than $1 million in 2019 to $4.8 million in 2023. Scroll to see who's paying, what they're buying, and whether public financing can compete." data-es="El gasto externo en elecciones de Denver salt&oacute; de menos de $1 mill&oacute;n en 2019 a $4.8 millones en 2023. Despl&aacute;zate para ver qui&eacute;n paga, qu&eacute; compra, y si el financiamiento p&uacute;blico puede competir.">
+        Outside spending in Denver elections jumped from less than $1 million in 2019 to $4.8 million in 2023. Scroll to see who's paying, what they're buying, and whether public financing can compete.
+      </p>
+      <div class="hero-mini__source">
+        <span data-en="Sources: Colorado Sun, Denverite, Denver Post, Colorado Newsline, Chalkbeat, SearchLight Denver" data-es="Fuentes: Colorado Sun, Denverite, Denver Post, Colorado Newsline, Chalkbeat, SearchLight Denver">
+          Sources: Colorado Sun, Denverite, Denver Post, Colorado Newsline, Chalkbeat, SearchLight Denver
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--wide">
+      <CampaignFinanceScrollytelling client:visible />
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <h2 class="section-title" data-en="What You Can Do" data-es="Qu&eacute; Puedes Hacer">What You Can Do</h2>
+      <div class="action-grid">
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:search" size={24} /></div>
+          <h3 data-en="Follow the Money" data-es="Sigue el Dinero">Follow the Money</h3>
+          <p data-en="Look up who funds your elected officials on SearchLight Denver (municipal races) and Colorado TRACER (state races). Campaign finance data is public. Use it." data-es="Busca qui&eacute;n financia a tus funcionarios electos en SearchLight Denver (races municipales) y Colorado TRACER (races estatales). Los datos de financiamiento de campa&ntilde;as son p&uacute;blicos. &Uacute;salos.">
+            Look up who funds your elected officials on SearchLight Denver (municipal races) and Colorado TRACER (state races). Campaign finance data is public. Use it.
+          </p>
+          <a href="/tools/campaign-finance" class="action-card__link" data-en="See the Scorecard →" data-es="Ver la Tarjeta de Puntuaci&oacute;n →">See the Scorecard →</a>
+        </div>
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:vote" size={24} /></div>
+          <h3 data-en="Support Small-Dollar Candidates" data-es="Apoya Candidatos de Peque&ntilde;as Donaciones">Support Small-Dollar Candidates</h3>
+          <p data-en="Fair Elections Fund candidates get 9:1 matching on donations of $50 or less. A $50 donation becomes $500. Your small donation has enormous leverage — if you give to FEF-qualified candidates." data-es="Los candidatos del Fondo de Elecciones Justas obtienen igualaci&oacute;n 9:1 en donaciones de $50 o menos. Una donaci&oacute;n de $50 se convierte en $500. Tu peque&ntilde;a donaci&oacute;n tiene un enorme poder — si la das a candidatos cualificados del FEF.">
+            Fair Elections Fund candidates get 9:1 matching on donations of $50 or less. A $50 donation becomes $500. Your small donation has enormous leverage — if you give to FEF-qualified candidates.
+          </p>
+        </div>
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:share-2" size={24} /></div>
+          <h3 data-en="Share This Data" data-es="Comparte Estos Datos">Share This Data</h3>
+          <p data-en="Copy and share this page. When people see who funds Denver politics, they make different decisions at the ballot box. Transparency is the first step to accountability." data-es="Copia y comparte esta p&aacute;gina. Cuando la gente ve qui&eacute;n financia la pol&iacute;tica de Denver, toman decisiones diferentes en las urnas. La transparencia es el primer paso hacia la rendici&oacute;n de cuentas.">
+            Copy and share this page. When people see who funds Denver politics, they make different decisions at the ballot box. Transparency is the first step to accountability.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="Data Sources" data-es="Fuentes de Datos">Data Sources</h2>
+      <ul class="sources-list">
+        <li>
+          <strong>Colorado Sun.</strong>
+          <span data-en="'Denver mayoral candidates raised $6.6 million' (Apr 2023). Outside spending in mayoral and council races." data-es="'Los candidatos a alcalde de Denver recaudaron $6.6 millones' (Abr 2023). Gasto externo en carreras de alcalde y concejo.">
+            "Denver mayoral candidates raised $6.6 million" (Apr 2023). Outside spending in mayoral and council races.
+          </span>
+        </li>
+        <li>
+          <strong>Chalkbeat Colorado.</strong>
+          <span data-en="'Nearly $2.4 million spent in 2025 Denver school board election' (Dec 2025). Pro-charter vs. union-backed spending breakdown." data-es="'Casi $2.4 millones gastados en la elecci&oacute;n escolar 2025 de Denver' (Dic 2025). Desglose de gasto pro-charter vs. sindicato.">
+            "Nearly $2.4 million spent in 2025 Denver school board election" (Dec 2025). Pro-charter vs. union-backed spending breakdown.
+          </span>
+        </li>
+        <li>
+          <strong>Colorado Newsline.</strong>
+          <span data-en="'Billionaires, developers and dark money' in Denver elections (Mar 2023). PAC donor breakdowns." data-es="'Multimillonarios, desarrolladores y dinero oscuro' en elecciones de Denver (Mar 2023). Desgloses de donantes de PACs.">
+            "Billionaires, developers and dark money" in Denver elections (Mar 2023). PAC donor breakdowns.
+          </span>
+        </li>
+        <li>
+          <strong>Denver Post.</strong>
+          <span data-en="Fair Elections Fund reforms (Feb 2025). Campaign finance rule changes for 2027 cycle." data-es="Reformas del Fondo de Elecciones Justas (Feb 2025). Cambios en reglas de financiamiento para el ciclo 2027.">
+            Fair Elections Fund reforms (Feb 2025). Campaign finance rule changes for 2027 cycle.
+          </span>
+        </li>
+      </ul>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, #1E5FA6 0%, #0D3B66 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+  .hero-mini__source {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.7;
+  }
+
+  .container--wide { max-width: 1100px; }
+  .section-title { font-size: clamp(1.5rem, 3vw, 2rem); margin-bottom: 1.5rem; }
+
+  .action-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+  .action-card {
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    padding: 2rem;
+    box-shadow: var(--shadow);
+  }
+  .action-card__icon {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 48px; height: 48px; border-radius: 12px;
+    background: var(--color-bg-alt); color: var(--color-secondary);
+    margin-bottom: 1rem;
+  }
+  .action-card h3 { font-size: 1.1rem; margin-bottom: 0.75rem; }
+  .action-card p { color: var(--color-text-muted); font-size: 0.9rem; line-height: 1.6; }
+  .action-card__link {
+    display: inline-block; margin-top: 0.5rem;
+    font-weight: 600; font-size: 0.9rem; color: var(--color-primary);
+  }
+
+  .sources-list { list-style: none; padding: 0; }
+  .sources-list li {
+    padding: 1rem 0; border-bottom: 1px solid var(--color-border);
+    font-size: 0.9rem; color: var(--color-text-muted); line-height: 1.5;
+  }
+  .sources-list li:last-child { border-bottom: none; }
+  .sources-list strong { color: var(--color-text); display: block; margin-bottom: 0.25rem; }
+
+  @media (max-width: 768px) { .action-card { padding: 1.5rem; } }
+</style>

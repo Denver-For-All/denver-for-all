@@ -1,0 +1,178 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+import SidewalkScrollytelling from '../../../components/sidewalk-data/SidewalkScrollytelling';
+---
+
+<Layout title="Denver's Sidewalk Crisis" description="Scroll-based data story: 43% of Denver's sidewalks are missing or deficient. Explore the equity gaps, transit failures, and dangerous corridors.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Denver's Sidewalk Crisis" data-es="La Crisis de Aceras de Denver">Denver's Sidewalk Crisis</h1>
+      <p data-en="43% of Denver's sidewalk network is missing or deficient. Scroll to explore where the gaps are, who they hurt most, and what the data demands." data-es="El 43% de la red de aceras de Denver falta o es deficiente. Desplázate para explorar dónde están las brechas, a quién afectan más, y qué exigen los datos.">
+        43% of Denver's sidewalk network is missing or deficient. Scroll to explore where the gaps are, who they hurt most, and what the data demands.
+      </p>
+      <div class="hero-mini__source">
+        <span data-en="Source: Denver Sidewalk Implementation Plan — State of the System Report, January 2026" data-es="Fuente: Plan de Implementación de Aceras de Denver — Informe del Estado del Sistema, Enero 2026">
+          Source: Denver Sidewalk Implementation Plan — State of the System Report, January 2026
+        </span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--wide">
+      <SidewalkScrollytelling client:visible />
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <h2 class="section-title" data-en="What You Can Do" data-es="Qué Puedes Hacer">What You Can Do</h2>
+      <div class="action-grid">
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:message-square" size={24} /></div>
+          <h3 data-en="Public Comment" data-es="Comentario Público">Public Comment</h3>
+          <p data-en="The Sidewalk Implementation Plan accepts public input on prioritization in Spring 2026. Demand equity-first construction — that the most dangerous corridors and underserved neighborhoods come first." data-es="El Plan de Implementación de Aceras acepta comentarios públicos sobre priorización en la primavera de 2026. Exige construcción con equidad primero — que los corredores más peligrosos y los vecindarios desatendidos sean primero.">
+            The Sidewalk Implementation Plan accepts public input on prioritization in Spring 2026. Demand equity-first construction — that the most dangerous corridors and underserved neighborhoods come first.
+          </p>
+        </div>
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:file-text" size={24} /></div>
+          <h3 data-en="Read the Full Policy" data-es="Lee la Política Completa">Read the Full Policy</h3>
+          <p data-en="Our Pedestrian Infrastructure & Sidewalk Equity proposal includes a progressive fee structure, accelerated timeline, ADA-first construction standards, and integration with disability rights." data-es="Nuestra propuesta de Infraestructura Peatonal y Equidad en Aceras incluye una estructura de tarifas progresiva, un cronograma acelerado, estándares de construcción ADA primero, e integración con derechos de discapacidad.">
+            Our Pedestrian Infrastructure & Sidewalk Equity proposal includes a progressive fee structure, accelerated timeline, ADA-first construction standards, and integration with disability rights.
+          </p>
+          <a href="/platform/pedestrian-infrastructure" class="action-card__link" data-en="Read the Proposal →" data-es="Lee la Propuesta →">Read the Proposal →</a>
+        </div>
+        <div class="action-card">
+          <div class="action-card__icon"><Icon name="lucide:share-2" size={24} /></div>
+          <h3 data-en="Share This Data" data-es="Comparte Estos Datos">Share This Data</h3>
+          <p data-en="Copy the link to this page and share it with your neighbors, your council member, and anyone who walks in Denver. The data is public. The crisis should be too." data-es="Copia el enlace a esta página y compártelo con tus vecinos, tu concejal, y cualquier persona que camina en Denver. Los datos son públicos. La crisis también debería serlo.">
+            Copy the link to this page and share it with your neighbors, your council member, and anyone who walks in Denver. The data is public. The crisis should be too.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="Data Sources" data-es="Fuentes de Datos">Data Sources</h2>
+      <ul class="sources-list">
+        <li>
+          <strong>City and County of Denver, DOTI.</strong>
+          <span data-en="Denver Sidewalk Implementation Plan: State of the System Report. January 22, 2026." data-es="Plan de Implementación de Aceras de Denver: Informe del Estado del Sistema. 22 de enero de 2026.">
+            Denver Sidewalk Implementation Plan: State of the System Report. January 22, 2026.
+          </span>
+        </li>
+        <li>
+          <strong>Denver Streets Partnership.</strong>
+          <span data-en="Denver Deserves Sidewalks campaign materials, 2022." data-es="Materiales de campaña Denver Merece Aceras, 2022.">
+            Denver Deserves Sidewalks campaign materials, 2022.
+          </span>
+        </li>
+        <li>
+          <strong>City and County of Denver.</strong>
+          <span data-en="Vision Zero Dashboard, 2025. (93 traffic deaths; 35 pedestrians.)" data-es="Panel de Visión Cero, 2025. (93 muertes en el tráfico; 35 peatones.)">
+            Vision Zero Dashboard, 2025. (93 traffic deaths; 35 pedestrians.)
+          </span>
+        </li>
+      </ul>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+  .hero-mini__source {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    opacity: 0.7;
+  }
+
+  .container--wide {
+    max-width: 1100px;
+  }
+
+  .section-title {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: 1.5rem;
+  }
+
+  .action-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .action-card {
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    padding: 2rem;
+    box-shadow: var(--shadow);
+  }
+
+  .action-card__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
+    margin-bottom: 1rem;
+  }
+
+  .action-card h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .action-card p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  .action-card__link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+  }
+
+  .sources-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .sources-list li {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--color-border);
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+  }
+
+  .sources-list li:last-child {
+    border-bottom: none;
+  }
+
+  .sources-list strong {
+    color: var(--color-text);
+    display: block;
+    margin-bottom: 0.25rem;
+  }
+
+  @media (max-width: 768px) {
+    .action-card { padding: 1.5rem; }
+  }
+</style>

@@ -48,7 +48,7 @@ All policy claims should be backed by verifiable data with year-stamped statisti
 
 UI translation strings are in `src/i18n/` (`en.json` and `es.json`). Full policy translations live in a separate `src/content/policies-es/` directory as complete Markdown documents mirroring the English originals in `src/content/policies/`.
 
-48 of 49 policy documents have been fully translated into Spanish. If you are a native Spanish speaker or professional translator and want to help review translations or translate any remaining policies, please open an issue or reach out to a maintainer.
+All 49 policy documents have been fully translated into Spanish. If you are a native Spanish speaker or professional translator and want to help review translations for accuracy and tone, please open an issue or reach out to a maintainer.
 
 ## Development Setup
 

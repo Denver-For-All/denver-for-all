@@ -3,47 +3,78 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 
+import type { Locale } from '../i18n/utils';
+
 interface Props {
   title?: string;
   description?: string;
+  locale?: Locale;
 }
 
 const {
   title = 'Denver For All',
   description = 'A movement for economic justice in Denver. Building a city where everyone can afford to live, work, and thrive.',
+  locale,
 } = Astro.props;
 
+// Determine locale: explicit prop > URL prefix > default 'en'
+const lang: Locale = locale ?? (Astro.url.pathname.startsWith('/es/') || Astro.url.pathname === '/es' ? 'es' : 'en');
+
 const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For All`;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+// Build the alternate-language URL for hreflang
+const pathname = Astro.url.pathname;
+const alternatePathname = lang === 'es'
+  ? (pathname.replace(/^\/es(\/|$)/, '$1') || '/')
+  : `/es${pathname === '/' ? '/' : pathname}`;
+const alternateURL = new URL(alternatePathname, Astro.site);
+const alternateLang = lang === 'es' ? 'en' : 'es';
+const ogLocale = lang === 'es' ? 'es_US' : 'en_US';
+const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
 ---
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={canonicalURL.href} />
+    <link rel="alternate" hreflang={lang} href={canonicalURL.href} />
+    <link rel="alternate" hreflang={alternateLang} href={alternateURL.href} />
+    <link rel="alternate" hreflang="x-default" href={new URL(lang === 'es' ? alternatePathname : pathname, Astro.site).href} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL.href} />
     <meta property="og:site_name" content="Denver For All" />
+    <meta property="og:locale" content={ogLocale} />
+    <meta property="og:locale:alternate" content={ogLocaleAlt} />
     <meta name="twitter:card" content="summary_large_image" />
     <title>{fullTitle}</title>
-    <script is:inline>
-      if (localStorage.getItem('dfa-locale') === 'es') {
-        document.documentElement.lang = 'es';
-      }
-    </script>
+    {lang === 'en' && (
+      <script is:inline>
+        if (localStorage.getItem('dfa-locale') === 'es') {
+          // User prefers Spanish but landed on English page — redirect to /es/ version
+          const p = window.location.pathname;
+          window.location.replace('/es' + (p === '/' ? '/' : p));
+        }
+      </script>
+    )}
   </head>
   <body>
-    <a href="#main-content" class="skip-link" data-en="Skip to main content" data-es="Ir al contenido principal">Skip to main content</a>
-    <Header />
+    <a href="#main-content" class="skip-link">
+      {lang === 'es' ? 'Ir al contenido principal' : 'Skip to main content'}
+    </a>
+    <Header locale={lang} />
     <main id="main-content">
       <slot />
     </main>
-    <Footer />
+    <Footer locale={lang} />
     <style>
       .skip-link {
         position: absolute;
@@ -61,31 +92,26 @@ const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For Al
         top: 0;
       }
     </style>
-    <script>
-      // CSS handles data-lang show/hide via html[lang="es"] selectors.
-      // The head inline script already set lang="es" before paint if needed.
-      // This script only swaps data-en/data-es text content on page load.
-      const saved = localStorage.getItem('dfa-locale');
-      if (saved === 'es') {
-        document.documentElement.lang = 'es';
-
-        document.querySelectorAll('[data-en]').forEach(el => {
-          const esText = el.getAttribute('data-es');
-          if (esText) {
-            if (el.children.length > 0) {
-              el.innerHTML = esText;
-            } else {
-              el.textContent = esText;
-            }
+    {lang === 'es' && (
+      <script is:inline>
+        // Swap data-es text into elements and prefix internal links for Spanish pages
+        (function() {
+          var els = document.querySelectorAll('[data-es]');
+          for (var i = 0; i < els.length; i++) {
+            var t = els[i].getAttribute('data-es');
+            if (t) els[i].textContent = t;
           }
-        });
-        document.querySelectorAll('[data-es-placeholder]').forEach(el => {
-          const esPlaceholder = el.getAttribute('data-es-placeholder');
-          if (esPlaceholder && el instanceof HTMLInputElement) {
-            el.placeholder = esPlaceholder;
+          var pls = document.querySelectorAll('[data-es-placeholder]');
+          for (var j = 0; j < pls.length; j++) {
+            pls[j].placeholder = pls[j].getAttribute('data-es-placeholder');
           }
-        });
-      }
-    </script>
+          var links = document.querySelectorAll('main a[href^="/"]');
+          for (var k = 0; k < links.length; k++) {
+            var h = links[k].getAttribute('href');
+            if (h && !h.startsWith('/es')) links[k].setAttribute('href', '/es' + h);
+          }
+        })();
+      </script>
+    )}
   </body>
 </html>

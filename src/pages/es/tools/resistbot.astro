@@ -1,0 +1,590 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { Icon } from 'astro-icon/components';
+---
+
+<Layout title="Resistbot Rapid Organizing" description="Pre-written letter campaigns targeting every level of government. Text RESIST to 50409 to send letters, create petitions, and organize.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Rapid Organizing" data-es="Organización Rápida">Rapid Organizing</h1>
+      <p data-en="Pre-written letters targeting every level of government. Text RESIST to 50409, paste a letter, convert it to a petition, and share it. Every signature sends a personalized letter to that signer's own elected officials." data-es="Cartas pre-escritas dirigidas a todos los niveles de gobierno. Envía RESIST al 50409, pega una carta, conviértela en petición y compártela. Cada firma envía una carta personalizada a los funcionarios electos de ese firmante.">
+        Pre-written letters targeting every level of government. Text RESIST to 50409, paste a letter, convert it to a petition, and share it. Every signature sends a personalized letter to that signer's own elected officials.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container container--narrow">
+      <div class="how-it-works">
+        <h2 data-en="How Resistbot Works" data-es="Cómo Funciona Resistbot">How Resistbot Works</h2>
+        <div class="steps">
+          <div class="step">
+            <span class="step__number">1</span>
+            <div>
+              <strong data-en="Text RESIST to 50409" data-es="Envía RESIST al 50409">Text RESIST to 50409</strong>
+              <p data-en="Works via SMS, iMessage, Telegram, Instagram DM, or web chat at resist.bot/chat" data-es="Funciona por SMS, iMessage, Telegram, Instagram DM o chat web en resist.bot/chat">Works via SMS, iMessage, Telegram, Instagram DM, or web chat at resist.bot/chat</p>
+            </div>
+          </div>
+          <div class="step">
+            <span class="step__number">2</span>
+            <div>
+              <strong data-en='Text "write" and choose your target' data-es='Escribe "write" y elige tu objetivo'>Text "write" and choose your target</strong>
+              <p data-en='Targets include: "state" (governor + state legislators), "congress" (U.S. House + Senate), "mayor", "president", or "all"' data-es='Los objetivos incluyen: "state" (gobernador + legisladores), "congress" (Cámara + Senado de EE.UU.), "mayor", "president" o "all"'>Targets include: "state" (governor + state legislators), "congress" (U.S. House + Senate), "mayor", "president", or "all"</p>
+            </div>
+          </div>
+          <div class="step">
+            <span class="step__number">3</span>
+            <div>
+              <strong data-en="Paste your letter or write your own" data-es="Pega tu carta o escribe la tuya">Paste your letter or write your own</strong>
+              <p data-en="Copy any template below, or write from the heart. Resistbot formats and delivers it via fax, email, or postal mail." data-es="Copia cualquier plantilla a continuación o escribe de corazón. Resistbot la formatea y entrega por fax, correo electrónico o correo postal.">Copy any template below, or write from the heart. Resistbot formats and delivers it via fax, email, or postal mail.</p>
+            </div>
+          </div>
+          <div class="step">
+            <span class="step__number">4</span>
+            <div>
+              <strong data-en='Text "petition" to make it signable' data-es='Escribe "petition" para hacerla firmable'>Text "petition" to make it signable</strong>
+              <p data-en="Your letter becomes a shareable petition. Every signature sends a personalized copy to that person's own officials. Share the link everywhere." data-es="Tu carta se convierte en una petición compartible. Cada firma envía una copia personalizada a los funcionarios de esa persona. Comparte el enlace en todas partes.">Your letter becomes a shareable petition. Every signature sends a personalized copy to that person's own officials. Share the link everywhere.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <h2 class="section-title" data-en="Campaign Letter Templates" data-es="Plantillas de Cartas de Campaña">Campaign Letter Templates</h2>
+      <p class="section-subtitle" data-en="Copy any letter below, text RESIST to 50409, and send it. Then convert to a petition and share." data-es="Copia cualquier carta a continuación, envía RESIST al 50409 y envíala. Luego conviértela en petición y compártela.">
+        Copy any letter below, text RESIST to 50409, and send it. Then convert to a petition and share.
+      </p>
+
+      <div class="campaigns">
+        <!-- Campaign 1: Rent Control -->
+        <div class="campaign" id="campaign-rent">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:home" size={22} /></div>
+            <div>
+              <h3 data-en="Repeal Colorado's Rent Control Ban" data-es="Derogar la Prohibición de Control de Alquiler de Colorado">Repeal Colorado's Rent Control Ban</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-rent">I urge you to support the repeal of Colorado's ban on local rent control (C.R.S. 38-12-301). Denver rents have increased 85% in a decade while wages have not kept pace. Over 7,300 Denver residents are experiencing homelessness. The repeal bill HB 23-1115 passed the Colorado House but died in the Senate by a single vote. Colorado is one of the only states that prohibits its cities from enacting rent stabilization. Denver residents deserve the right to decide this issue for themselves. Please support repeal legislation or a ballot initiative to let voters decide.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-rent" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+            <a href="https://resist.bot/petitions/PJZTYT" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Sign Petition" data-es="Firmar Petición">Sign Petition</a>
+          </div>
+        </div>
+
+        <!-- Campaign 2: Flock Cameras -->
+        <div class="campaign campaign--urgent" id="campaign-flock">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:camera-off" size={22} /></div>
+            <div>
+              <h3 data-en="Turn Off Flock Surveillance Cameras" data-es="Apagar las Cámaras de Vigilancia Flock">Turn Off Flock Surveillance Cameras</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "mayor" (Mayor Johnston)' data-es='Objetivo: "mayor" (Alcalde Johnston)'>Target: "mayor" (Mayor Johnston)</span>
+                <span class="campaign__badge" data-en="URGENT" data-es="URGENTE">URGENT</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-flock">I demand that Denver immediately deactivate all Flock Safety automatic license plate reader cameras. City Council voted 12-0 to reject the Flock contract renewal. You bypassed this unanimous decision by signing a $498,509 contract structured to fall just under the $500,000 council approval threshold. Audit logs obtained through CORA requests revealed that Denver's Flock data was searched over 1,400 times by ICE since June 2024, despite repeated assurances that no data was shared with immigration enforcement. Respect the council's vote, turn off the cameras, and support a surveillance oversight ordinance requiring council approval before any surveillance technology is acquired or deployed.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-flock" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+            <a href="https://resist.bot/petitions/PYOELO" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Sign Petition" data-es="Firmar Petición">Sign Petition</a>
+          </div>
+        </div>
+
+        <!-- Campaign 3: State Surveillance Law -->
+        <div class="campaign" id="campaign-surveillance">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:shield-alert" size={22} /></div>
+            <div>
+              <h3 data-en="Pass a State Surveillance Oversight Law" data-es="Aprobar una Ley Estatal de Supervisión de Vigilancia">Pass a State Surveillance Oversight Law</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-surveillance">Colorado has no law requiring city council approval before police departments acquire surveillance technology. This gap allowed Denver's mayor to deploy 111 Flock automatic license plate reader cameras without a council vote and then bypass the council after they voted 12-0 against renewal. I urge you to introduce and support a Colorado surveillance oversight bill modeled on California's AB 481, requiring legislative body approval for all law enforcement surveillance technology acquisitions, with annual reporting, public comment periods, and enforcement penalties. Colorado already requires council notification for facial recognition under SB 22-113. We need the same protections for all surveillance systems.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-surveillance" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+            <a href="https://resist.bot/petitions/PPGCFY" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Sign Petition" data-es="Firmar Petición">Sign Petition</a>
+          </div>
+        </div>
+
+        <!-- Campaign 4: Dark Money Reform -->
+        <div class="campaign" id="campaign-darkmoney">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:eye-off" size={22} /></div>
+            <div>
+              <h3 data-en="Ban Dark Money in Colorado Elections" data-es="Prohibir el Dinero Oscuro en Elecciones de Colorado">Ban Dark Money in Colorado Elections</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-darkmoney">I urge you to reintroduce and support SB25-148, the campaign finance reform bill that would ban year-round lobbyist contributions, require 24-hour reporting of independent expenditures over $1,000, and mandate donor disclosure for federal PACs contributing to Colorado elections. This bill failed by a single vote in committee in March 2025. Colorado lobbyists self-reported nearly $500,000 in contributions to statehouse candidates during the 2024 cycle. The Independent Ethics Commission has advanced complaints against 17 legislators for accepting lobbyist hospitality. Coloradans deserve to know who is funding our elections.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-darkmoney" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+            <a href="https://resist.bot/petitions/PMPSFP" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Sign Petition" data-es="Firmar Petición">Sign Petition</a>
+          </div>
+        </div>
+
+        <!-- Campaign 6: Vacancy Tax Authority (HB26-1036) -->
+        <div class="campaign campaign--urgent" id="campaign-vacancy-tax">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:key" size={22} /></div>
+            <div>
+              <h3 data-en="Support HB26-1036: Vacancy Tax Authority for Denver" data-es="Apoya HB26-1036: Autoridad de Impuesto a la Vacancia para Denver">Support HB26-1036: Vacancy Tax Authority for Denver</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+                <span class="campaign__badge" data-en="2026 SESSION" data-es="SESIÓN 2026">2026 SESSION</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-vacancy-tax">I urge you to support HB26-1036, which authorizes local governments to impose taxes on vacant residential properties. Denver has an estimated 5,000-8,000 vacant housing units while over 7,500 people are experiencing homelessness. Speculators sitting on empty homes while families sleep on streets is a moral crisis. This bill gives cities the authority to address it. Denver voters should have the right to decide whether vacant properties should be taxed, with revenue dedicated to affordable housing. Vancouver, Melbourne, and Washington D.C. have all implemented vacancy taxes that reduced vacancy rates and funded housing. Please vote yes on HB26-1036.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-vacancy-tax" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+          </div>
+        </div>
+
+        <!-- Campaign 7: Collective Bargaining (HB26-1005) -->
+        <div class="campaign" id="campaign-collective-bargaining">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:users" size={22} /></div>
+            <div>
+              <h3 data-en="Support HB26-1005: Worker Protection Collective Bargaining" data-es="Apoya HB26-1005: Negociación Colectiva para Protección de Trabajadores">Support HB26-1005: Worker Protection Collective Bargaining</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+                <span class="campaign__badge" data-en="2026 SESSION" data-es="SESIÓN 2026">2026 SESSION</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-collective-bargaining">I urge you to support HB26-1005, which reduces barriers in the Labor Peace Act to promote good faith collective bargaining. Colorado's union membership rate is approximately 7.2%, below the national average, while wages have stagnated for decades. Workers in hospitality, food service, and home care — the sectors with the worst wages and conditions — have near-zero collective bargaining coverage. This bill strengthens workers' ability to organize and negotiate fair wages and conditions. When workers can bargain collectively, entire communities benefit through higher wages, better working conditions, and reduced inequality. Please vote yes on HB26-1005.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-collective-bargaining" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+          </div>
+        </div>
+
+        <!-- Campaign 8: Eviction Protections (HB26-1106) -->
+        <div class="campaign" id="campaign-eviction-protections">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:shield" size={22} /></div>
+            <div>
+              <h3 data-en="Support HB26-1106: Eviction Protections for Tenants" data-es="Apoya HB26-1106: Protecciones contra Desalojo para Inquilinos">Support HB26-1106: Eviction Protections for Tenants</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+                <span class="campaign__badge" data-en="2026 SESSION" data-es="SESIÓN 2026">2026 SESSION</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-eviction-protections">I urge you to support HB26-1106, which strengthens eviction protections for tenants in Colorado. Denver County Court processed over 15,000 eviction filings in 2025 — 72% above pre-pandemic levels. Over 90% of landlords have attorneys in eviction court while fewer than 10% of tenants do. The current system is designed for landlords. Tenants deserve meaningful protections: adequate notice, access to counsel, and fair processes. No one should lose their home in 48 hours without a fair chance to respond. This bill moves us toward a Colorado where housing stability is a reality, not a privilege. Please vote yes on HB26-1106.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-eviction-protections" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+          </div>
+        </div>
+
+        <!-- Campaign 9: Surveillance Technology (SB26-071) -->
+        <div class="campaign" id="campaign-surveillance-sb">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:eye-off" size={22} /></div>
+            <div>
+              <h3 data-en="Support SB26-071: Regulate Law Enforcement Surveillance" data-es="Apoya SB26-071: Regular la Vigilancia Policial">Support SB26-071: Regulate Law Enforcement Surveillance</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+                <span class="campaign__badge" data-en="2026 SESSION" data-es="SESIÓN 2026">2026 SESSION</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-surveillance-sb">I urge you to support SB26-071, which regulates law enforcement surveillance technologies. In Denver, the mayor deployed 111 Flock automatic license plate reader cameras without council approval. When council voted 12-0 against renewing the contract, the mayor bypassed them by structuring a $498,509 deal just under the $500,000 approval threshold. Audit logs revealed Denver's Flock data was searched over 1,400 times by ICE. This is exactly why we need SB26-071 — to require democratic oversight of surveillance technology before it is deployed against our communities. Colorado residents deserve to know what tools police are using and to have a say in whether they're used. Please vote yes on SB26-071.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-surveillance-sb" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+          </div>
+        </div>
+
+        <!-- Campaign 10: Immigration Enforcement Remedy (SB26-005) -->
+        <div class="campaign" id="campaign-immigration">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:landmark" size={22} /></div>
+            <div>
+              <h3 data-en="Support SB26-005: Immigration Enforcement Rights Remedy" data-es="Apoya SB26-005: Remedio por Violaciones de Derechos en Inmigración">Support SB26-005: Immigration Enforcement Rights Remedy</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+                <span class="campaign__badge" data-en="2026 SESSION" data-es="SESIÓN 2026">2026 SESSION</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-immigration">I urge you to support SB26-005, which creates state court remedies for violations of federal constitutional rights during immigration enforcement. Everyone in Colorado — regardless of immigration status — has constitutional rights. When federal agents violate those rights during enforcement operations, people need a meaningful remedy in state courts. Denver's Latino community is over 30% of the city population. Our immigrant neighbors pay taxes, own businesses, and raise American children. They deserve the same constitutional protections as everyone else. SB26-005 ensures that rights violations have consequences. Please vote yes.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-immigration" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+          </div>
+        </div>
+
+        <!-- Campaign 11: Energy Affordability (SB26-002) -->
+        <div class="campaign" id="campaign-energy">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:zap" size={22} /></div>
+            <div>
+              <h3 data-en="Support SB26-002: Energy Affordability" data-es="Apoya SB26-002: Accesibilidad Energética">Support SB26-002: Energy Affordability</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "state" (Governor + State Legislators)' data-es='Objetivo: "state" (Gobernador + Legisladores Estatales)'>Target: "state" (Governor + State Legislators)</span>
+                <span class="campaign__badge" data-en="2026 SESSION" data-es="SESIÓN 2026">2026 SESSION</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-energy">I urge you to support SB26-002, which establishes an energy affordability program providing income-qualified utility customers a minimum level of electricity service at marginal cost. Thousands of Colorado families face impossible choices between heating their homes and paying for food or medicine. Energy is not a luxury — it is a necessity for life and safety, especially for medically vulnerable residents. This bill ensures that low-income Coloradans have access to a baseline of affordable electricity. No one should freeze in the dark because they cannot afford Xcel's rates. Please vote yes on SB26-002.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-energy" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+          </div>
+        </div>
+
+        <!-- Campaign 5: Charter Reform -->
+        <div class="campaign" id="campaign-charter">
+          <div class="campaign__header">
+            <div class="campaign__icon"><Icon name="lucide:landmark" size={22} /></div>
+            <div>
+              <h3 data-en="Demand Denver Charter Reform" data-es="Exigir Reforma de la Carta de Denver">Demand Denver Charter Reform</h3>
+              <div class="campaign__meta">
+                <span class="campaign__target" data-en='Target: "mayor" (Mayor Johnston)' data-es='Objetivo: "mayor" (Alcalde Johnston)'>Target: "mayor" (Mayor Johnston)</span>
+              </div>
+            </div>
+          </div>
+          <div class="campaign__letter" id="letter-charter">I urge you to support Denver charter amendments that would strengthen democratic oversight: lowering the veto override threshold from 9-of-13 to 8-of-13, requiring council approval for all surveillance and AI technology contracts regardless of dollar amount, lowering the $500,000 contract approval threshold that was exploited to bypass the council on the Flock camera contract, and requiring council confirmation of key cabinet appointments including the Chief of Police. Denver is the only major Colorado city with a strong-mayor system, and the current structure concentrates too much power in the executive at the expense of democratic accountability.</div>
+          <div class="campaign__actions">
+            <button class="btn btn--primary copy-btn" data-letter="letter-charter" data-en="Copy Letter" data-es="Copiar Carta">Copy Letter</button>
+            <span class="copy-confirm" data-en="Copied!" data-es="¡Copiado!"></span>
+            <a href="https://resist.bot/petitions/PYLQBT" target="_blank" rel="noopener" class="btn btn--secondary" data-en="Sign Petition" data-es="Firmar Petición">Sign Petition</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container container--narrow">
+      <h2 data-en="Active Petitions" data-es="Peticiones Activas">Active Petitions</h2>
+      <p class="petition-intro" data-en="Every signature sends a personalized letter to that signer's own elected officials. Sign, share, and help these petitions go viral." data-es="Cada firma envía una carta personalizada a los funcionarios electos de ese firmante. Firma, comparte y ayuda a que estas peticiones se hagan virales.">
+        Every signature sends a personalized letter to that signer's own elected officials. Sign, share, and help these petitions go viral.
+      </p>
+      <div class="petitions-grid">
+        <a href="https://resist.bot/petitions/PYOELO" target="_blank" rel="noopener" class="petition-card petition-card--urgent">
+          <span class="petition-card__badge" data-en="URGENT" data-es="URGENTE">URGENT</span>
+          <h3 data-en="Turn Off Flock Surveillance Cameras" data-es="Apagar las Cámaras de Vigilancia Flock">Turn Off Flock Surveillance Cameras</h3>
+          <p class="petition-card__sms" data-en='Text "sign PYOELO" to 50409' data-es='Escribe "sign PYOELO" al 50409'>Text "sign PYOELO" to 50409</p>
+        </a>
+        <a href="https://resist.bot/petitions/PJZTYT" target="_blank" rel="noopener" class="petition-card">
+          <h3 data-en="Repeal Colorado's Rent Control Ban" data-es="Derogar la Prohibición de Control de Alquiler">Repeal Colorado's Rent Control Ban</h3>
+          <p class="petition-card__sms" data-en='Text "sign PJZTYT" to 50409' data-es='Escribe "sign PJZTYT" al 50409'>Text "sign PJZTYT" to 50409</p>
+        </a>
+        <a href="https://resist.bot/petitions/PPGCFY" target="_blank" rel="noopener" class="petition-card">
+          <h3 data-en="Pass a State Surveillance Oversight Law" data-es="Aprobar una Ley Estatal de Supervisión de Vigilancia">Pass a State Surveillance Oversight Law</h3>
+          <p class="petition-card__sms" data-en='Text "sign PPGCFY" to 50409' data-es='Escribe "sign PPGCFY" al 50409'>Text "sign PPGCFY" to 50409</p>
+        </a>
+        <a href="https://resist.bot/petitions/PMPSFP" target="_blank" rel="noopener" class="petition-card">
+          <h3 data-en="Ban Dark Money in Colorado Elections" data-es="Prohibir el Dinero Oscuro en Elecciones de Colorado">Ban Dark Money in Colorado Elections</h3>
+          <p class="petition-card__sms" data-en='Text "sign PMPSFP" to 50409' data-es='Escribe "sign PMPSFP" al 50409'>Text "sign PMPSFP" to 50409</p>
+        </a>
+        <a href="https://resist.bot/petitions/PYLQBT" target="_blank" rel="noopener" class="petition-card">
+          <h3 data-en="Demand Denver Charter Reform" data-es="Exigir Reforma de la Carta de Denver">Demand Denver Charter Reform</h3>
+          <p class="petition-card__sms" data-en='Text "sign PYLQBT" to 50409' data-es='Escribe "sign PYLQBT" al 50409'>Text "sign PYLQBT" to 50409</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container container--narrow">
+      <div class="resistbot-tips">
+        <h2 data-en="Maximize Your Impact" data-es="Maximiza Tu Impacto">Maximize Your Impact</h2>
+        <div class="tips-grid">
+          <div class="tip">
+            <strong data-en="Follow Denver For All on Resistbot" data-es="Sigue a Denver Para Todos en Resistbot">Follow Denver For All on Resistbot</strong>
+            <p data-en='After signing a petition, you\'ll be prompted to follow Denver For All. Follow us to get notified whenever we launch a new campaign -- so you never miss an action.' data-es='Después de firmar una petición, se te pedirá que sigas a Denver Para Todos. Síguenos para recibir notificaciones cada vez que lancemos una nueva campaña -- para que nunca te pierdas una acción.'>After signing a petition, you'll be prompted to follow Denver For All. Follow us to get notified whenever we launch a new campaign -- so you never miss an action.</p>
+          </div>
+          <div class="tip">
+            <strong data-en="Spread the word" data-es="Corre la voz">Spread the word</strong>
+            <p data-en='Share petition links with friends, family, and neighbors. Post them on Instagram, Twitter, Reddit, and Nextdoor. Every signature sends a real letter to that person\'s own elected officials.' data-es='Comparte los enlaces de las peticiones con amigos, familiares y vecinos. Publícalos en Instagram, Twitter, Reddit y Nextdoor. Cada firma envía una carta real a los funcionarios electos de esa persona.'>Share petition links with friends, family, and neighbors. Post them on Instagram, Twitter, Reddit, and Nextdoor. Every signature sends a real letter to that person's own elected officials.</p>
+          </div>
+          <div class="tip">
+            <strong data-en="Write your own letter" data-es="Escribe tu propia carta">Write your own letter</strong>
+            <p data-en='Don\'t want to use a template? Text "coauthor" to Resistbot and give it a bill number (like HB 23-1115) or paste a news article link. It will draft a personalized letter for you.' data-es='¿No quieres usar una plantilla? Escribe "coauthor" a Resistbot y dale un número de proyecto de ley (como HB 23-1115) o pega un enlace a un artículo de noticias. Redactará una carta personalizada para ti.'>Don't want to use a template? Text "coauthor" to Resistbot and give it a bill number (like HB 23-1115) or paste a news article link. It will draft a personalized letter for you.</p>
+          </div>
+          <div class="tip">
+            <strong data-en="Get a shareable image" data-es="Obtén una imagen compartible">Get a shareable image</strong>
+            <p data-en='Text "image" followed by a petition code (like PYOELO) to 50409 to get a social media-ready graphic. Perfect for sharing on Instagram stories, group chats, and community boards.' data-es='Escribe "image" seguido de un código de petición (como PYOELO) al 50409 para obtener un gráfico listo para redes sociales. Perfecto para compartir en historias de Instagram, chats grupales y tableros comunitarios.'>Text "image" followed by a petition code (like PYOELO) to 50409 to get a social media-ready graphic. Perfect for sharing on Instagram stories, group chats, and community boards.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero-mini {
+    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 { color: white; margin-bottom: 1rem; }
+  .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
+
+  .how-it-works h2 { text-align: center; margin-bottom: 2rem; }
+
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .step {
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .step__number {
+    flex-shrink: 0;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-primary);
+    color: white;
+    font-weight: 800;
+    border-radius: 50%;
+    font-size: 1.1rem;
+  }
+
+  .step strong { display: block; margin-bottom: 0.25rem; }
+  .step p { color: var(--color-text-muted); font-size: 0.9rem; margin: 0; }
+
+  .section-title { text-align: center; margin-bottom: 0.5rem; }
+  .section-subtitle {
+    text-align: center;
+    color: var(--color-text-muted);
+    max-width: 600px;
+    margin: 0 auto 2.5rem;
+  }
+
+  .campaigns {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .campaign {
+    padding: 1.5rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .campaign--urgent {
+    border-color: #c53030;
+    border-width: 2px;
+  }
+
+  .campaign__header {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+
+  .campaign__icon {
+    flex-shrink: 0;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
+  }
+
+  .campaign--urgent .campaign__icon {
+    background: #fde8e8;
+    color: #c53030;
+  }
+
+  .campaign__header h3 { margin: 0 0 0.25rem; font-size: 1.05rem; }
+
+  .campaign__meta {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .campaign__target {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    font-family: var(--font-mono, monospace);
+  }
+
+  .campaign__badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    background: #c53030;
+    color: white;
+    letter-spacing: 0.05em;
+  }
+
+  .campaign__letter {
+    background: var(--color-bg-alt);
+    padding: 1.25rem;
+    border-radius: var(--radius-md);
+    font-size: 0.9rem;
+    line-height: 1.65;
+    color: var(--color-text);
+    border-left: 3px solid var(--color-primary);
+    margin-bottom: 1rem;
+  }
+
+  .campaign--urgent .campaign__letter {
+    border-left-color: #c53030;
+  }
+
+  .campaign__actions {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .copy-confirm {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-primary);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .copy-confirm.show { opacity: 1; }
+
+  .petition-intro {
+    color: var(--color-text-muted);
+    margin-bottom: 1.5rem;
+  }
+
+  .petitions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  .petition-card {
+    display: block;
+    position: relative;
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .petition-card:hover {
+    border-color: var(--color-primary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .petition-card--urgent {
+    border-color: #c53030;
+    border-width: 2px;
+  }
+
+  .petition-card--urgent:hover {
+    border-color: #c53030;
+    box-shadow: 0 2px 12px rgba(197, 48, 48, 0.15);
+  }
+
+  .petition-card__badge {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0.15rem 0.45rem;
+    border-radius: 3px;
+    background: #c53030;
+    color: white;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+  }
+
+  .petition-card h3 {
+    font-size: 0.95rem;
+    margin: 0 0 0.5rem;
+  }
+
+  .petition-card__sms {
+    font-size: 0.8rem;
+    font-family: var(--font-mono, monospace);
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  .resistbot-tips h2 { text-align: center; margin-bottom: 2rem; }
+
+  .tips-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .tip {
+    padding: 1.25rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .tip strong { display: block; margin-bottom: 0.5rem; }
+  .tip p { font-size: 0.85rem; color: var(--color-text-muted); margin: 0; }
+
+  @media (max-width: 480px) {
+    .campaign__header { flex-direction: column; }
+    .step { flex-direction: column; }
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.copy-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var letterId = this.getAttribute('data-letter');
+      var letterEl = document.getElementById(letterId);
+      if (letterEl) {
+        navigator.clipboard.writeText(letterEl.textContent.trim()).then(function() {
+          var confirm = btn.nextElementSibling;
+          if (confirm) {
+            confirm.classList.add('show');
+            setTimeout(function() { confirm.classList.remove('show'); }, 2000);
+          }
+        }).catch(function() {
+          // Clipboard unavailable
+        });
+      }
+    });
+  });
+</script>

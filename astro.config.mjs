@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import icon from 'astro-icon';
-// import sitemap from '@astrojs/sitemap'; // disabled until i18n locale pages exist
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://denverforall.org',
@@ -9,6 +9,7 @@ export default defineConfig({
   integrations: [
     react(),
     icon(),
+    sitemap(),
   ],
   i18n: {
     defaultLocale: 'en',

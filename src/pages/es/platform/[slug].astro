@@ -1,33 +1,28 @@
 ---
-import Layout from '../../layouts/Layout.astro';
-import EmailCapture from '../../components/EmailCapture.astro';
-import PolicyActionScore from '../../components/PolicyActionScore.astro';
-import PolicyActionCTA from '../../components/PolicyActionCTA.astro';
-import DonationCTA from '../../components/DonationCTA.astro';
+import Layout from '../../../layouts/Layout.astro';
+import EmailCapture from '../../../components/EmailCapture.astro';
+import PolicyActionScore from '../../../components/PolicyActionScore.astro';
+import PolicyActionCTA from '../../../components/PolicyActionCTA.astro';
+import DonationCTA from '../../../components/DonationCTA.astro';
 import { Icon } from 'astro-icon/components';
 import { getCollection, getEntry } from 'astro:content';
 
 export async function getStaticPaths() {
+  const policiesEs = await getCollection('policies-es');
   const policies = await getCollection('policies');
-  return policies.map(policy => ({
-    params: { slug: policy.slug },
-    props: { policy },
-  }));
+  const policyMap = new Map(policies.map(p => [p.slug, p]));
+
+  return policiesEs.map(policyEs => {
+    const policy = policyMap.get(policyEs.slug);
+    return {
+      params: { slug: policyEs.slug },
+      props: { policyEs, policy },
+    };
+  }).filter(entry => entry.props.policy);
 }
 
-const { policy } = Astro.props;
-const { Content } = await policy.render();
-
-let ContentEs: (typeof Content) | null = null;
-try {
-  const policyEs = await getEntry('policies-es', policy.slug);
-  if (policyEs) {
-    const rendered = await policyEs.render();
-    ContentEs = rendered.Content;
-  }
-} catch {
-  // No Spanish translation available for this policy
-}
+const { policyEs, policy } = Astro.props;
+const { Content: ContentEs } = await policyEs.render();
 
 const hasPetition = !!policy.data.petition;
 const hasFundingSources = policy.data.hasFundingSources;
@@ -52,43 +47,38 @@ const categoryMap: Record<string, string> = {
 const categoryEs = categoryMap[policy.data.category] || policy.data.category;
 
 const ghRepo = 'Denver-For-All/denver-for-all';
-const issueTitle = encodeURIComponent(`Feedback: ${policy.data.title}`);
-const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](https://denverforall.org/platform/${policy.slug})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
+const issueTitle = encodeURIComponent(`Feedback: ${policy.data.titleEs}`);
+const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Política:** [${policy.data.titleEs}](https://denverforall.org/es/platform/${policy.slug})\n**Categoría:** ${categoryEs}\n\n---\n\n### ¿Qué comentarios tienes?\n\n_Por favor describe tus comentarios, correcciones o sugerencias a continuación:_\n\n\n\n### Contexto adicional\n\n_Agrega cualquier otro contexto, fuentes de datos o referencias aquí._\n`);
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
-<Layout title={policy.data.title} description={policy.data.summary}>
+<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es">
   <article class="section">
     <div class="container container--narrow">
-      <a href="/platform" class="back-link" data-en="← Back to Platform" data-es="← Volver a la Plataforma">
-        ← Back to Platform
+      <a href="/es/platform" class="back-link">
+        ← Volver a la Plataforma
       </a>
 
       <header class="policy-header">
         <div class="policy-header__icon">
           <Icon name={`lucide:${policy.data.icon}`} size={32} />
         </div>
-        <span class="policy-header__category" data-en={policy.data.category} data-es={categoryEs}>{policy.data.category}</span>
-        <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{policy.data.title}</h1>
-        <p class="policy-header__summary" data-en={policy.data.summary} data-es={policy.data.summaryEs}>
-          {policy.data.summary}
+        <span class="policy-header__category">{categoryEs}</span>
+        <h1>{policy.data.titleEs}</h1>
+        <p class="policy-header__summary">
+          {policy.data.summaryEs}
         </p>
       </header>
 
-      <div class="policy-content" data-lang="en">
-        <Content />
+      <div class="policy-content">
+        <ContentEs />
       </div>
-      {ContentEs && (
-        <div class="policy-content" data-lang="es">
-          <ContentEs />
-        </div>
-      )}
 
       {relatedLegislation.length > 0 && (
         <div class="related-legislation">
-          <h2 data-en="Related State Legislation" data-es="Legislación Estatal Relacionada">Related State Legislation</h2>
-          <p class="related-legislation__intro" data-en="These bills in the Colorado General Assembly (2026 session) align with this policy proposal. Contact your state legislators to voice support." data-es="Estos proyectos de ley en la Asamblea General de Colorado (sesión 2026) se alinean con esta propuesta de política. Contacta a tus legisladores estatales para expresar tu apoyo.">
-            These bills in the Colorado General Assembly (2026 session) align with this policy proposal. Contact your state legislators to voice support.
+          <h2>Legislación Estatal Relacionada</h2>
+          <p class="related-legislation__intro">
+            Estos proyectos de ley en la Asamblea General de Colorado (sesión 2026) se alinean con esta propuesta de política. Contacta a tus legisladores estatales para expresar tu apoyo.
           </p>
           <div class="legislation-cards">
             {relatedLegislation.map((bill) => (
@@ -104,18 +94,18 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
                 </p>
                 <div class="legislation-card__actions">
                   {bill.url && (
-                    <a href={bill.url} target="_blank" rel="noopener" class="btn btn--secondary btn--sm" data-en="Track Bill" data-es="Seguir Proyecto">Track Bill</a>
+                    <a href={bill.url} target="_blank" rel="noopener" class="btn btn--secondary btn--sm">Seguir Proyecto</a>
                   )}
-                  <a href="/tools/resistbot" class="btn btn--primary btn--sm" data-en="Take Action" data-es="Actúa">Take Action</a>
+                  <a href="/es/tools/resistbot" class="btn btn--primary btn--sm">Actúa</a>
                 </div>
               </div>
             ))}
           </div>
-          <a href="/tools/sponsor-tracker" class="related-legislation__more" data-en="View all aligned sponsors →" data-es="Ver todos los patrocinadores alineados →">View all aligned sponsors →</a>
+          <a href="/es/tools/sponsor-tracker" class="related-legislation__more">Ver todos los patrocinadores alineados →</a>
         </div>
       )}
 
-      <DonationCTA context="This policy analysis" contextEs="Este análisis de política" />
+      <DonationCTA context="Este análisis de política" contextEs="Este análisis de política" />
 
       <footer class="policy-footer">
         <div class="policy-footer__action-grid">
@@ -124,7 +114,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
               actionTarget={policy.data.actionTarget}
               petition={policy.data.petition}
               grantProposal={policy.data.grantProposal}
-              policyTitle={policy.data.title}
+              policyTitle={policy.data.titleEs}
             />
           </div>
           <div class="policy-footer__score">
@@ -138,26 +128,26 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
         </div>
 
         <div class="policy-share">
-          <h3 data-en="Share This Proposal" data-es="Comparte Esta Propuesta">Share This Proposal</h3>
+          <h3>Comparte Esta Propuesta</h3>
           <div class="policy-share__links">
             <a
-              href={`https://www.reddit.com/submit?url=https://denverforall.org/platform/${policy.slug}&title=${encodeURIComponent(policy.data.title)}`}
+              href={`https://www.reddit.com/submit?url=https://denverforall.org/es/platform/${policy.slug}&title=${encodeURIComponent(policy.data.titleEs)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
             >
               Reddit
             </a>
-            <button class="btn btn--secondary" id="copy-link" data-en="Copy Link" data-es="Copiar Enlace">
-              Copy Link
+            <button class="btn btn--secondary" id="copy-link">
+              Copiar Enlace
             </button>
           </div>
         </div>
 
         <div class="policy-feedback">
-          <h3 data-en="Help Improve This Proposal" data-es="Ayuda a Mejorar Esta Propuesta">Help Improve This Proposal</h3>
-          <p data-en="Found an error, have a data source, or want to suggest changes? This platform is open source and community-driven." data-es="¿Encontraste un error, tienes una fuente de datos o quieres sugerir cambios? Esta plataforma es de código abierto e impulsada por la comunidad.">
-            Found an error, have a data source, or want to suggest changes? This platform is open source and community-driven.
+          <h3>Ayuda a Mejorar Esta Propuesta</h3>
+          <p>
+            ¿Encontraste un error, tienes una fuente de datos o quieres sugerir cambios? Esta plataforma es de código abierto e impulsada por la comunidad.
           </p>
           <div class="policy-feedback__links">
             <a
@@ -165,20 +155,16 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
-              data-en="Open an Issue"
-              data-es="Abrir un Issue"
             >
-              Open an Issue
+              Abrir un Issue
             </a>
             <a
-              href={`https://github.com/${ghRepo}/blob/main/src/content/policies/${policy.slug}.md`}
+              href={`https://github.com/${ghRepo}/blob/main/src/content/policies-es/${policy.slug}.md`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
-              data-en="View Source"
-              data-es="Ver Código Fuente"
             >
-              View Source
+              Ver Código Fuente
             </a>
           </div>
         </div>
@@ -400,11 +386,8 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
       await navigator.clipboard.writeText(window.location.href);
       const btn = document.getElementById('copy-link');
       if (btn) {
-        const locale = localStorage.getItem('dfa-locale') || 'en';
-        const copiedText = locale === 'es' ? '\u2713 ¡Copiado!' : '\u2713 Copied!';
-        const restoreText = locale === 'es' ? (btn.getAttribute('data-es') || 'Copiar Enlace') : (btn.getAttribute('data-en') || 'Copy Link');
-        btn.textContent = copiedText;
-        setTimeout(() => { btn.textContent = restoreText; }, 2000);
+        btn.textContent = '\u2713 ¡Copiado!';
+        setTimeout(() => { btn.textContent = 'Copiar Enlace'; }, 2000);
       }
     } catch (_) {
       // Clipboard unavailable

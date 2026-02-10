@@ -1,0 +1,497 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import TenantRightsChat from '../../../components/TenantRightsChat';
+---
+
+<Layout title="Conoce Tus Derechos" description="24/7 AI-powered tenant rights assistant in English and Spanish.">
+  <section class="hero-mini">
+    <div class="container">
+      <h1 data-en="Know Your Rights" data-es="Conoce Tus Derechos">Know Your Rights</h1>
+      <p data-en="Free 24/7 tenant rights assistant. Chat or call. English and Spanish." data-es="Asistente gratuito de derechos del inquilino 24/7. Chat o llamada. Inglés y español.">
+        Free 24/7 tenant rights assistant. Chat or call. English and Spanish.
+      </p>
+    </div>
+  </section>
+
+  <section class="chat-section">
+    <div class="container container--narrow">
+
+      <div class="welcome-card">
+        <div class="welcome-header">
+          <div class="welcome-icon" aria-hidden="true">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+          </div>
+          <div>
+            <h2 data-en="How can we help?" data-es="&iquest;C&oacute;mo podemos ayudarte?">How can we help?</h2>
+            <p class="welcome-subtitle" data-en="Powered by Colorado tenant law &amp; Denver municipal code" data-es="Basado en la ley de inquilinos de Colorado y el c&oacute;digo municipal de Denver">Powered by Colorado tenant law &amp; Denver municipal code</p>
+          </div>
+        </div>
+
+        <p class="welcome-desc" data-en="Select a topic below or open the chat to ask your own question. Available 24/7 in English and Spanish by text or voice call." data-es="Selecciona un tema a continuaci&oacute;n o abre el chat para hacer tu propia pregunta. Disponible 24/7 en ingl&eacute;s y espa&ntilde;ol por texto o llamada de voz.">
+          Select a topic below or open the chat to ask your own question. Available 24/7 in English and Spanish by text or voice call.
+        </p>
+
+        <div class="topic-grid" role="list">
+          <button class="topic-card" role="listitem" data-topic="My landlord is trying to evict me">
+            <span class="topic-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                <polyline points="9 22 9 12 15 12 15 22"></polyline>
+              </svg>
+            </span>
+            <span class="topic-text">
+              <span class="topic-label" data-en="Eviction" data-es="Desalojo">Eviction</span>
+              <span class="topic-desc" data-en="Notice periods, court process, illegal lockouts" data-es="Per&iacute;odos de aviso, proceso judicial, desalojos ilegales">Notice periods, court process, illegal lockouts</span>
+            </span>
+            <span class="topic-arrow" aria-hidden="true">&rarr;</span>
+          </button>
+
+          <button class="topic-card" role="listitem" data-topic="My apartment needs repairs">
+            <span class="topic-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+              </svg>
+            </span>
+            <span class="topic-text">
+              <span class="topic-label" data-en="Repairs" data-es="Reparaciones">Repairs</span>
+              <span class="topic-desc" data-en="Habitability rights, landlord obligations, remedies" data-es="Derechos de habitabilidad, obligaciones del arrendador, remedios">Habitability rights, landlord obligations, remedies</span>
+            </span>
+            <span class="topic-arrow" aria-hidden="true">&rarr;</span>
+          </button>
+
+          <button class="topic-card" role="listitem" data-topic="I didn't get my deposit back">
+            <span class="topic-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="12" y1="1" x2="12" y2="23"></line>
+                <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path>
+              </svg>
+            </span>
+            <span class="topic-text">
+              <span class="topic-label" data-en="Deposits" data-es="Dep&oacute;sitos">Deposits</span>
+              <span class="topic-desc" data-en="Return timelines, deductions, treble damages" data-es="Plazos de devoluci&oacute;n, deducciones, da&ntilde;os triples">Return timelines, deductions, treble damages</span>
+            </span>
+            <span class="topic-arrow" aria-hidden="true">&rarr;</span>
+          </button>
+
+          <button class="topic-card" role="listitem" data-topic="My rent was raised unfairly">
+            <span class="topic-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline>
+                <polyline points="17 6 23 6 23 12"></polyline>
+              </svg>
+            </span>
+            <span class="topic-text">
+              <span class="topic-label" data-en="Rent Increases" data-es="Aumento de Alquiler">Rent Increases</span>
+              <span class="topic-desc" data-en="Notice requirements, your rights, current law" data-es="Requisitos de aviso, sus derechos, ley actual">Notice requirements, your rights, current law</span>
+            </span>
+            <span class="topic-arrow" aria-hidden="true">&rarr;</span>
+          </button>
+
+          <button class="topic-card" role="listitem" data-topic="I'm being discriminated against">
+            <span class="topic-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+              </svg>
+            </span>
+            <span class="topic-text">
+              <span class="topic-label" data-en="Discrimination" data-es="Discriminaci&oacute;n">Discrimination</span>
+              <span class="topic-desc" data-en="Protected classes, filing complaints, fair housing" data-es="Clases protegidas, presentar quejas, vivienda justa">Protected classes, filing complaints, fair housing</span>
+            </span>
+            <span class="topic-arrow" aria-hidden="true">&rarr;</span>
+          </button>
+
+          <button class="topic-card" role="listitem" data-topic="I need a lawyer">
+            <span class="topic-icon" aria-hidden="true">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                <circle cx="9" cy="7" r="4"></circle>
+                <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+              </svg>
+            </span>
+            <span class="topic-text">
+              <span class="topic-label" data-en="Find Legal Help" data-es="Encontrar Ayuda Legal">Find Legal Help</span>
+              <span class="topic-desc" data-en="Free legal services, hotlines, resources" data-es="Servicios legales gratuitos, l&iacute;neas de ayuda, recursos">Free legal services, hotlines, resources</span>
+            </span>
+            <span class="topic-arrow" aria-hidden="true">&rarr;</span>
+          </button>
+        </div>
+
+        <div class="cta-row">
+          <button class="cta-chat" id="open-chat-btn">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+            <span data-en="Open Chat" data-es="Abrir Chat">Open Chat</span>
+          </button>
+          <span class="cta-hint" data-en="or click a topic above to get started" data-es="o selecciona un tema arriba para comenzar">or click a topic above to get started</span>
+        </div>
+      </div>
+
+      <div class="info-footer">
+        <div class="disclaimer-box">
+          <svg class="disclaimer-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="12" y1="16" x2="12" y2="12"></line>
+            <line x1="12" y1="8" x2="12.01" y2="8"></line>
+          </svg>
+          <p data-en="This tool provides general information, not legal advice. Your situation may have nuances that require a lawyer's review." data-es="Esta herramienta proporciona informaci&oacute;n general, no asesoramiento legal. Su situaci&oacute;n puede tener matices que requieran la revisi&oacute;n de un abogado.">
+            This tool provides general information, not legal advice. Your situation may have nuances that require a lawyer's review.
+          </p>
+        </div>
+
+        <div class="emergency-box">
+          <p class="emergency-label" data-en="Need urgent legal help?" data-es="&iquest;Necesitas ayuda legal urgente?">Need urgent legal help?</p>
+          <a href="tel:3038371321" class="emergency-link">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+            </svg>
+            <span>Colorado Legal Services: (303) 837-1321</span>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- VAPI widget renders as a floating overlay -->
+  <TenantRightsChat client:only="react" />
+</Layout>
+
+<script>
+  // Make topic cards interactive — clicking opens the VAPI widget
+  document.addEventListener('DOMContentLoaded', () => {
+    const topicCards = document.querySelectorAll('.topic-card');
+    const openChatBtn = document.getElementById('open-chat-btn');
+
+    function openVapiWidget() {
+      // VAPI widget renders a floating button; find and click it to open
+      const vapiBtn = document.querySelector('[class*="vapi"] button, [id*="vapi"] button, .vapi-btn');
+      if (vapiBtn instanceof HTMLElement) {
+        vapiBtn.click();
+      }
+    }
+
+    topicCards.forEach((card) => {
+      card.addEventListener('click', () => {
+        // Add visual feedback
+        card.classList.add('topic-card--active');
+        setTimeout(() => card.classList.remove('topic-card--active'), 600);
+
+        // Try to open the VAPI chat widget
+        openVapiWidget();
+      });
+    });
+
+    if (openChatBtn) {
+      openChatBtn.addEventListener('click', openVapiWidget);
+    }
+  });
+</script>
+
+<style>
+  .hero-mini {
+    padding: 3.5rem 0 2.5rem;
+    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-secondary) 100%);
+    color: white;
+  }
+  .hero-mini h1 {
+    color: white;
+    margin-bottom: 0.75rem;
+    font-size: clamp(1.75rem, 4vw, 2.75rem);
+  }
+  .hero-mini p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    margin-bottom: 0;
+  }
+
+  .chat-section {
+    padding: 2.5rem 0 3rem;
+  }
+
+  /* Welcome Card */
+  .welcome-card {
+    background: var(--color-bg-card);
+    border-radius: var(--radius-lg);
+    padding: 2.5rem;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--color-border);
+  }
+
+  .welcome-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .welcome-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    min-width: 48px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+    color: white;
+  }
+
+  .welcome-header h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .welcome-subtitle {
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0;
+  }
+
+  .welcome-desc {
+    color: var(--color-text-muted);
+    font-size: 0.95rem;
+    margin-bottom: 1.75rem;
+    line-height: 1.6;
+  }
+
+  /* Topic Grid */
+  .topic-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .topic-card {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.875rem 1rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: left;
+    font-family: var(--font-sans);
+  }
+
+  .topic-card:hover {
+    border-color: var(--color-primary);
+    background: #f0fafa;
+    box-shadow: 0 2px 8px rgba(13, 115, 119, 0.1);
+    transform: translateY(-1px);
+  }
+
+  .topic-card:active,
+  .topic-card--active {
+    transform: translateY(0);
+    border-color: var(--color-primary);
+    background: #e6f5f5;
+  }
+
+  .topic-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    border-radius: 10px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
+    transition: all 0.2s ease;
+  }
+
+  .topic-card:hover .topic-icon {
+    background: var(--color-primary);
+    color: white;
+  }
+
+  .topic-text {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0;
+  }
+
+  .topic-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-text);
+    line-height: 1.3;
+  }
+
+  .topic-desc {
+    font-size: 0.78rem;
+    color: var(--color-text-muted);
+    line-height: 1.4;
+    margin-top: 0.1rem;
+  }
+
+  .topic-arrow {
+    color: var(--color-text-light);
+    font-size: 1rem;
+    transition: all 0.2s ease;
+    opacity: 0;
+  }
+
+  .topic-card:hover .topic-arrow {
+    opacity: 1;
+    transform: translateX(2px);
+    color: var(--color-primary);
+  }
+
+  /* CTA Row */
+  .cta-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 0.5rem;
+  }
+
+  .cta-chat {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.7rem 1.5rem;
+    background: var(--color-primary);
+    color: white;
+    border: none;
+    border-radius: var(--radius);
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .cta-chat:hover {
+    background: var(--color-primary-dark);
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+  }
+
+  .cta-hint {
+    font-size: 0.85rem;
+    color: var(--color-text-light);
+  }
+
+  /* Info Footer */
+  .info-footer {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+
+  .disclaimer-box {
+    flex: 1;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.65rem;
+    padding: 1rem 1.25rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius);
+    border: 1px solid var(--color-border);
+  }
+
+  .disclaimer-icon {
+    color: var(--color-text-light);
+    min-width: 16px;
+    margin-top: 2px;
+  }
+
+  .disclaimer-box p {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+
+  .emergency-box {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem 1.25rem;
+    background: #fef7f0;
+    border-radius: var(--radius);
+    border: 1px solid #f0d9c0;
+    min-width: 260px;
+  }
+
+  .emergency-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin-bottom: 0;
+  }
+
+  .emergency-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-danger);
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+
+  .emergency-link:hover {
+    opacity: 0.8;
+    color: var(--color-danger);
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .welcome-card {
+      padding: 1.5rem;
+    }
+
+    .topic-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .info-footer {
+      flex-direction: column;
+    }
+
+    .emergency-box {
+      min-width: unset;
+    }
+
+    .cta-row {
+      flex-direction: column;
+      align-items: stretch;
+      text-align: center;
+    }
+
+    .cta-chat {
+      justify-content: center;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .welcome-header {
+      flex-direction: column;
+    }
+
+    .welcome-card {
+      padding: 1.25rem;
+    }
+
+    .topic-card {
+      padding: 0.75rem;
+    }
+
+    .topic-desc {
+      display: none;
+    }
+  }
+</style>

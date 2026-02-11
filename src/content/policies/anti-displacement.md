@@ -44,6 +44,8 @@ Denver has limited anti-displacement tools. The Expanding Housing Affordability 
 
 A 2019 study by the Federal Reserve Bank of Philadelphia found that Denver light rail expansion was associated with significant rent increases within one-half mile of new stations, with displacement concentrated among lower-income residents and communities of color. The pattern is clear and documented: Denver builds transit, and the people it was meant to serve can no longer afford to live near it.
 
+There are models of what development *should* look like in these corridors. In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community at 3270 W. Colfax Ave. — right in the West Colfax neighborhood, one of Denver's most rapidly gentrifying areas. With affordability guaranteed for 99 years through a community land trust, The Irving demonstrates that new development along transit corridors can serve existing residents instead of displacing them (Colorado Politics, January 22, 2026). But without mandatory anti-displacement protections, projects like The Irving remain the exception rather than the rule.
+
 ## Our Solution
 
 ### Anti-Displacement Zone Ordinance

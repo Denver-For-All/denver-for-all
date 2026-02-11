@@ -47,13 +47,15 @@ Denver has meaningful food programs, but they are underfunded and fragmented. Th
 
 At the state level, Colorado voters approved **Proposition FF** in 2022, establishing universal free school meals for all public school students funded by limiting deductions for households earning over $300,000. The program delivered 24 million additional meals in its first year (2023-24) and saves families approximately $1,250 per child per year. Voters approved follow-up measures (Propositions LL and MM) in 2025 to shore up program funding.
 
+A promising local innovation is emerging from the community itself. The **Montbello Organizing Committee** is launching **FreshLo Market**, a nonprofit grocery chain designed to serve food desert neighborhoods that have been abandoned by for-profit chains. Led by Donna Garnett, FreshLo is opening three locations in 2026: the first in Montbello (in the new FreshLo Hub opening spring 2026), and two additional stores replacing existing Denver Housing Authority retail spaces in Sun Valley (Decatur Fresh) and La Alma Lincoln Park (Osage Cafe and Mercado). The model relies on a hybrid revenue structure: 60% from product sales and 40% from grants and donations, allowing FreshLo to offer groceries at 15-30% discounted prices while paying staff living wages with benefits. Each store will have a community benefits agreement and resident-led advisory committee. FreshLo draws inspiration from Boston's Daily Table nonprofit grocery chain, with the former COO consulting on the Denver launch. As Garnett explained: "It is a well-established fact that large grocery chains are not willing or interested in coming into low-income communities. I like to think of it as a movement to create locally owned grocery stores that are responsive to the people who live in a community."
+
 These programs matter, but they do not add up to a food system. Denver still lacks a comprehensive food access strategy, dedicated funding for food desert elimination, permanent protections for community gardens, or a city food purchasing policy. As city officials have acknowledged: "We just don't have enough funding for all of those really good solutions."
 
 ## Our Solution
 
 ### 1. Eliminate Food Deserts by 2030
 
-- **City-subsidized grocery stores** in every food desert neighborhood: tax incentives, reduced commercial rent, and low-interest loans for healthy food retailers opening in Globeville, Elyria-Swansea, Montbello, Westwood, Sun Valley, Clayton, and Northeast Park Hill
+- **City-subsidized grocery stores** in every food desert neighborhood: tax incentives, reduced commercial rent, and low-interest loans for healthy food retailers opening in Globeville, Elyria-Swansea, Montbello, Westwood, Sun Valley, Clayton, and Northeast Park Hill. Denver already has a local model: the Montbello Organizing Committee's **FreshLo Market** nonprofit grocery chain is opening three locations in Montbello, Sun Valley, and La Alma Lincoln Park in 2026, demonstrating that community-led, mission-driven food retail can succeed where corporate chains have failed.
 - **Healthy Corner Store Initiative**: grants of $5,000-$15,000 and technical assistance to convert existing convenience stores into sources of fresh food, including refrigeration equipment, produce display kiosks, and supplier connections. Philadelphia's Food Trust model converted 600+ stores and increased produce sales by 60%.
 - **Mobile farmers markets** in every food desert neighborhood, weekly and year-round, accepting SNAP/EBT with Double Up Food Bucks matching
 - **Public transportation improvements** connecting food deserts to full-service grocery stores: direct bus routes, reduced-fare passes for grocery shopping trips (cross-reference: Transportation policy)
@@ -77,7 +79,7 @@ These programs matter, but they do not add up to a food system. Denver still lac
 
 ### 4. Community Food Hubs
 
-- **A community food hub in every food desert neighborhood**, combining: affordable grocery retail, a community kitchen, nutrition education programs, and dignified food bank distribution
+- **A community food hub in every food desert neighborhood**, combining: affordable grocery retail, a community kitchen, nutrition education programs, and dignified food bank distribution. FreshLo Market's model—with its community benefits agreements and resident-led advisory committees—demonstrates how grocery retail can be genuinely community-accountable.
 - **Community kitchens**: shared commercial kitchen space for food entrepreneurs, home cooks, and community members, available at below-market rent
 - **Nutrition education and cooking classes** that are culturally appropriate and multilingual, developed with community input, not imposed from outside
 - **Food preservation workshops**: canning, fermenting, drying, and other methods that extend the value of fresh food and connect to cultural food traditions

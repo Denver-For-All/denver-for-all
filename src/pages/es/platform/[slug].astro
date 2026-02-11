@@ -4,6 +4,8 @@ import EmailCapture from '../../../components/EmailCapture.astro';
 import PolicyActionScore from '../../../components/PolicyActionScore.astro';
 import PolicyActionCTA from '../../../components/PolicyActionCTA.astro';
 import DonationCTA from '../../../components/DonationCTA.astro';
+import ShareableStatCard from '../../../components/ShareableStatCard';
+import '../../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
 import { getCollection, getEntry } from 'astro:content';
 
@@ -29,6 +31,7 @@ const hasFundingSources = policy.data.hasFundingSources;
 const hasGrantProposal = !!policy.data.grantProposal;
 const hasCouncilChampion = !!policy.data.councilChampion;
 const relatedLegislation = policy.data.relatedLegislation || [];
+const keyStats = policy.data.keyStats || [];
 
 const categoryMap: Record<string, string> = {
   housing: 'Vivienda y Personas sin Hogar',
@@ -52,7 +55,7 @@ const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Pol
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
-<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es" image={`/og/${policy.data.category}.png`}>
+<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es" image={`/og/${policy.data.category}.png`} ogType="article">
   <article class="section">
     <div class="container container--narrow">
       <a href="/es/platform" class="back-link">
@@ -70,9 +73,51 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
         </p>
       </header>
 
+      <div class="policy-share-inline">
+        <span class="policy-share-inline__label">Compartir</span>
+        <a
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.titleEs)}&url=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Compartir en X / Twitter"
+        >
+          X
+        </a>
+        <a
+          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Compartir en Facebook"
+        >
+          FB
+        </a>
+        <a
+          href={`https://www.reddit.com/submit?url=https://denverforall.org/es/platform/${policy.slug}&title=${encodeURIComponent(policy.data.titleEs)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Compartir en Reddit"
+        >
+          Reddit
+        </a>
+      </div>
+
       <div class="policy-content">
         <ContentEs />
       </div>
+
+      {keyStats.length > 0 && (
+        <ShareableStatCard
+          client:visible
+          stats={keyStats}
+          policyTitle={policy.data.titleEs}
+          policyTitleEs={policy.data.titleEs}
+          policySlug={policy.slug}
+          locale="es"
+        />
+      )}
 
       {relatedLegislation.length > 0 && (
         <div class="related-legislation">
@@ -130,6 +175,22 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
         <div class="policy-share">
           <h3>Comparte Esta Propuesta</h3>
           <div class="policy-share__links">
+            <a
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.titleEs)}&url=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+            >
+              X / Twitter
+            </a>
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+            >
+              Facebook
+            </a>
             <a
               href={`https://www.reddit.com/submit?url=https://denverforall.org/es/platform/${policy.slug}&title=${encodeURIComponent(policy.data.titleEs)}`}
               target="_blank"
@@ -371,6 +432,45 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
     font-weight: 600;
     font-size: 0.9rem;
     color: var(--color-primary);
+  }
+
+  .policy-share-inline {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .policy-share-inline__label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-right: 0.25rem;
+  }
+
+  .policy-share-inline__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem 0.65rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 6px;
+    border: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    background: var(--color-bg-alt);
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .policy-share-inline__btn:hover {
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+    background: var(--color-bg-card, #fff);
   }
 
   @media (max-width: 768px) {

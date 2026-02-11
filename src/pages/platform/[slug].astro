@@ -60,7 +60,7 @@ const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${polic
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
-<Layout title={policy.data.title} description={policy.data.summary} image={`/og/${policy.data.category}.png`}>
+<Layout title={policy.data.title} description={policy.data.summary} image={`/og/${policy.data.category}.png`} ogType="article">
   <article class="section">
     <div class="container container--narrow">
       <a href="/platform" class="back-link" data-en="← Back to Platform" data-es="← Volver a la Plataforma">
@@ -77,6 +77,37 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           {policy.data.summary}
         </p>
       </header>
+
+      <div class="policy-share-inline">
+        <span class="policy-share-inline__label" data-en="Share" data-es="Compartir">Share</span>
+        <a
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Share on X / Twitter"
+        >
+          X
+        </a>
+        <a
+          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Share on Facebook"
+        >
+          FB
+        </a>
+        <a
+          href={`https://www.reddit.com/submit?url=https://denverforall.org/platform/${policy.slug}&title=${encodeURIComponent(policy.data.title)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Share on Reddit"
+        >
+          Reddit
+        </a>
+      </div>
 
       <div class="policy-content" data-lang="en">
         <Content />
@@ -153,6 +184,24 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
         <div class="policy-share">
           <h3 data-en="Share This Proposal" data-es="Comparte Esta Propuesta">Share This Proposal</h3>
           <div class="policy-share__links">
+            <a
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+              data-en="X / Twitter"
+              data-es="X / Twitter"
+            >
+              X / Twitter
+            </a>
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+            >
+              Facebook
+            </a>
             <a
               href={`https://www.reddit.com/submit?url=https://denverforall.org/platform/${policy.slug}&title=${encodeURIComponent(policy.data.title)}`}
               target="_blank"
@@ -398,6 +447,45 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
     font-weight: 600;
     font-size: 0.9rem;
     color: var(--color-primary);
+  }
+
+  .policy-share-inline {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .policy-share-inline__label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-right: 0.25rem;
+  }
+
+  .policy-share-inline__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem 0.65rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 6px;
+    border: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    background: var(--color-bg-alt);
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .policy-share-inline__btn:hover {
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+    background: var(--color-bg-card, #fff);
   }
 
   @media (max-width: 768px) {

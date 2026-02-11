@@ -10,6 +10,7 @@ interface Props {
   description?: string;
   locale?: Locale;
   image?: string;
+  ogType?: 'website' | 'article';
 }
 
 const {
@@ -17,6 +18,7 @@ const {
   description = 'A movement for economic justice in Denver. Building a city where everyone can afford to live, work, and thrive.',
   locale,
   image,
+  ogType = 'website',
 } = Astro.props;
 
 // Determine locale: explicit prop > URL prefix > default 'en'
@@ -52,7 +54,7 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonicalURL.href} />
     <meta property="og:site_name" content="Denver For All" />
     <meta property="og:image" content={ogImage} />

@@ -88,6 +88,9 @@ The community land trust model addresses the root cause of housing unaffordabili
 - Dudley Street Neighborhood Initiative (Boston, MA): community-controlled CLT that reversed decades of disinvestment and displacement in Roxbury and North Dorchester
 - London Community Land Trust (UK) and Community Land Trust Brussels (Belgium): international models demonstrating the scalability of CLTs in high-cost urban markets
 
+**Recent Local Success:**
+- In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community in West Colfax — one of the 12 target neighborhoods identified in this proposal. The Irving serves households at 20-80% AMI with 99-year affordability through ULC's community land trust, and was one of the first Proposition 123-funded projects to open. Denver HOST provided a $4,080,000 loan, demonstrating the exact type of public investment-CLT partnership this proposal seeks to scale. The Irving proves that the CLT model can deliver permanently affordable, climate-forward housing in Denver's highest-displacement-risk neighborhoods.
+
 **Long-Term Sustainability:**
 - CLTs are self-sustaining once established at scale — ground lease fees, resale transaction fees, and stewardship revenues cover ongoing operations
 - Every public dollar invested in CLT acquisition creates a permanently affordable home, unlike time-limited subsidies that require repeated reinvestment
@@ -192,6 +195,7 @@ The requested federal investment of $12 million represents a **4.2:1 local match
 All data sourced from the Denver For All [Community Land Trusts](/platform/community-land-trusts) policy analysis. Primary sources include:
 
 - City and County of Denver, Department of Housing Stability (HOST). Annual housing and homelessness reports
+- Urban Land Conservancy. The Irving at Mile High Vista project data (opened January 2026; 102 units, 20-80% AMI, 99-year CLT affordability)
 - Elevation Community Land Trust. Annual reports and portfolio data
 - Grounded Solutions Network. (2023). Community Land Trust Technical Manual
 - Champlain Housing Trust (Burlington, VT). Performance and outcomes data, 1984-present

@@ -13,6 +13,8 @@ Denver tiene herramientas limitadas contra el desplazamiento. La ordenanza Expan
 
 Un estudio de 2019 del Federal Reserve Bank of Philadelphia encontro que la expansion del tren ligero de Denver estuvo asociada con aumentos significativos de alquiler dentro de media milla de las nuevas estaciones, con desplazamiento concentrado entre residentes de menores ingresos y comunidades de color. El patron es claro y documentado: Denver construye transito, y las personas a las que debia servir ya no pueden permitirse vivir cerca de el.
 
+Hay modelos de como *deberia* verse el desarrollo en estos corredores. En enero de 2026, Urban Land Conservancy abrio **The Irving at Mile High Vista**, una comunidad de vivienda de 102 unidades permanentemente asequible y completamente electrica en 3270 W. Colfax Ave. — justo en el vecindario West Colfax, una de las areas de Denver con gentrificacion mas rapida. Con asequibilidad garantizada por 99 anos a traves de un fideicomiso de tierras comunitario, The Irving demuestra que el nuevo desarrollo a lo largo de los corredores de transito puede servir a los residentes existentes en lugar de desplazarlos (Colorado Politics, 22 de enero de 2026). Pero sin protecciones obligatorias contra el desplazamiento, proyectos como The Irving siguen siendo la excepcion en lugar de la regla.
+
 ## Nuestra Solucion
 
 ### Ordenanza de Zonas Anti-Desplazamiento

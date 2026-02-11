@@ -86,6 +86,20 @@ Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de
 - Acceso Lingüístico: $3M/año
 - Total: ~$10M/año — menos del 0.5% del presupuesto de Denver, protegiendo al 30%+ de su población
 
+## Protégete Ahora Mismo
+
+No tienes que esperar a cambios de política para protegerte a ti y a tu comunidad. La Constitución protege a todas las personas en los Estados Unidos, independientemente de su estatus migratorio.
+
+**Guarda la línea directa de la Red de Respuesta Rápida de Colorado:** [1-844-864-8341](tel:18448648341) (1-844-UNITE-41). Si eres testigo de actividad de ICE, llama de inmediato. Voluntarios capacitados responderán las 24 horas del día, los 7 días de la semana, para documentar el encuentro e informar a las personas sobre sus derechos constitucionales. También puedes llamar y presionar 2 para reportar un incidente pasado. Aprende más en [coloradorapidresponsenetwork.com](https://coloradorapidresponsenetwork.com/).
+
+**Descarga una tarjeta de Conoce Tus Derechos** del [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources/know-your-rights) o [ACLU Colorado](https://www.aclu-co.org/know-your-rights/immigrants-rights/). Guárdala en tu billetera y comparte copias con tus vecinos. Derechos clave incluyen:
+- **Derecho a guardar silencio.** No tienes que responder preguntas sobre tu estatus migratorio.
+- **No firmes nada** sin consultar a un abogado, incluso si los documentos están en tu idioma.
+- **Pide una orden judicial.** ICE debe presentar una orden judicial válida firmada por un juez para entrar a tu hogar. Una orden administrativa de ICE (Formulario I-200) no es suficiente — no tienes que abrir la puerta.
+- **Tienes derecho a un abogado.** Pide hablar con un abogado antes de responder cualquier pregunta.
+
+**Prepara a tu familia.** La [Rocky Mountain Immigrant Advocacy Network (RMIAN)](https://www.rmian.org/know-your-rights) ofrece un Paquete de Preparación Familiar para ayudarte a tomar pasos proactivos para proteger a tu familia en caso de un encuentro con ICE — incluyendo designar tutores para los niños, organizar documentos importantes y crear un plan de emergencia.
+
 ## Preguntas Frecuentes
 
 **"¿No fomenta esto la inmigración ilegal?"**

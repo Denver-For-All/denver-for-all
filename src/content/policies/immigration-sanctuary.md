@@ -123,6 +123,20 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 - Language Access: $3M/year
 - Total: ~$10M/year - less than 0.5% of Denver's budget, protecting 30%+ of its population
 
+## Protect Yourself Right Now
+
+You don't have to wait for policy changes to protect yourself and your community. The Constitution protects everyone in the United States, regardless of immigration status.
+
+**Save the Colorado Rapid Response Network hotline:** [1-844-864-8341](tel:18448648341) (1-844-UNITE-41). If you witness ICE activity, call immediately. Trained volunteers will respond 24/7 to document the encounter and inform people of their constitutional rights. You can also call and press 2 to report a past incident. Learn more at [coloradorapidresponsenetwork.com](https://coloradorapidresponsenetwork.com/).
+
+**Download a Know Your Rights card** from the [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources/know-your-rights) or [ACLU Colorado](https://www.aclu-co.org/know-your-rights/immigrants-rights/). Keep it in your wallet and share copies with your neighbors. Key rights include:
+- **Right to remain silent.** You do not have to answer questions about your immigration status.
+- **Do not sign anything** without consulting a lawyer, even if documents are in your language.
+- **Ask for a warrant.** ICE must present a valid judicial warrant signed by a judge to enter your home. An ICE administrative warrant (Form I-200) is not enough — you do not have to open the door.
+- **You have the right to an attorney.** Ask to speak to a lawyer before answering any questions.
+
+**Prepare your family.** The [Rocky Mountain Immigrant Advocacy Network (RMIAN)](https://www.rmian.org/know-your-rights) offers a Family Preparedness Packet to help you take proactive steps to safeguard your family in case of an ICE encounter — including designating guardians for children, organizing important documents, and creating an emergency plan.
+
 ## Frequently Asked Questions
 
 **"Doesn't this encourage illegal immigration?"**

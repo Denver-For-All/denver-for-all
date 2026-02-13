@@ -35,12 +35,12 @@ Crear una nueva agencia de la ciudad -- la Denver Social Housing Authority (DSHA
 
 ### Metas de Unidades (Plan de 10 Anos)
 
-| Ano | Nuevas Unidades | Acumulado | Metodo |
-|------|-----------|------------|--------|
-| 1-2  | 1,000     | 1,000      | Adquirir edificios existentes + convertir inmuebles comerciales vacantes |
-| 3-4  | 2,000     | 3,000      | Nueva construccion + adquisicion continua |
-| 5-7  | 4,000     | 7,000      | Nueva construccion a escala |
-| 8-10 | 3,000     | 10,000     | Completar la construccion |
+| Ano  | Nuevas Unidades | Acumulado | Metodo                                                                   |
+| ---- | --------------- | --------- | ------------------------------------------------------------------------ |
+| 1-2  | 1,000           | 1,000     | Adquirir edificios existentes + convertir inmuebles comerciales vacantes |
+| 3-4  | 2,000           | 3,000     | Nueva construccion + adquisicion continua                                |
+| 5-7  | 4,000           | 7,000     | Nueva construccion a escala                                              |
+| 8-10 | 3,000           | 10,000    | Completar la construccion                                                |
 
 ### El Modelo de Viena, Adaptado para Denver
 
@@ -55,15 +55,15 @@ Lo adaptamos para el contexto de Denver: escala inicial menor, pero los mismos p
 
 ### Evidencia Internacional: La Vivienda Publica Funciona - Cuando Esta Disenada Para Ello
 
-| Pais/Ciudad | Parque de Vivienda Publica | Caracteristica Clave | Resultado |
-|-------------|---------------------|-------------|--------|
-| **Viena, Austria** | 220,000 departamentos municipales. 60% de residentes en vivienda publica/subsidiada. | Ingresos mixtos, arquitectonicamente excelente, gobernanza democratica | Nombrada "ciudad mas habitable" repetidamente. Alquiler promedio: 5-7 euros/m2. Sin crisis de asequibilidad de vivienda. Sin estigma - la vivienda publica es deseable. |
-| **Singapur** | 80% de residentes en departamentos gubernamentales HDB | Modelo de propiedad: arriendos de 99 anos, existe mercado de reventa | Propiedad de vivienda: 90%. Ingresos mixtos, multietnico por diseno. La vivienda no es fuente de precariedad financiera. |
-| **Finlandia** | Vivienda social integral + Housing First | Refugios convertidos en vivienda permanente | **Unico pais de la UE donde la falta de vivienda esta disminuyendo.** Bajo un 35% desde 2008. |
-| **Dinamarca** | 20% de la vivienda es *almene boliger* (sin fines de lucro) | Asociaciones de vivienda gobernadas por inquilinos, alquileres fijados al costo | Alta calidad, ingresos mixtos, cero extraccion de ganancias. Gestionadas democraticamente. |
-| **Viena Roja (1919-1934)** | 65,000 departamentos construidos en 15 anos durante crisis economica | Construccion municipal a escala masiva | Creo la plantilla para la vivienda social moderna. Demostro que la inversion publica audaz funciona incluso en tiempos dificiles. |
+| Pais/Ciudad                | Parque de Vivienda Publica                                                           | Caracteristica Clave                                                            | Resultado                                                                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viena, Austria**         | 220,000 departamentos municipales. 60% de residentes en vivienda publica/subsidiada. | Ingresos mixtos, arquitectonicamente excelente, gobernanza democratica          | Nombrada "ciudad mas habitable" repetidamente. Alquiler promedio: 5-7 euros/m2. Sin crisis de asequibilidad de vivienda. Sin estigma - la vivienda publica es deseable. |
+| **Singapur**               | 80% de residentes en departamentos gubernamentales HDB                               | Modelo de propiedad: arriendos de 99 anos, existe mercado de reventa            | Propiedad de vivienda: 90%. Ingresos mixtos, multietnico por diseno. La vivienda no es fuente de precariedad financiera.                                                |
+| **Finlandia**              | Vivienda social integral + Housing First                                             | Refugios convertidos en vivienda permanente                                     | **Unico pais de la UE donde la falta de vivienda esta disminuyendo.** Bajo un 35% desde 2008.                                                                           |
+| **Dinamarca**              | 20% de la vivienda es _almene boliger_ (sin fines de lucro)                          | Asociaciones de vivienda gobernadas por inquilinos, alquileres fijados al costo | Alta calidad, ingresos mixtos, cero extraccion de ganancias. Gestionadas democraticamente.                                                                              |
+| **Viena Roja (1919-1934)** | 65,000 departamentos construidos en 15 anos durante crisis economica                 | Construccion municipal a escala masiva                                          | Creo la plantilla para la vivienda social moderna. Demostro que la inversion publica audaz funciona incluso en tiempos dificiles.                                       |
 
-**El fracaso estadounidense fue deliberado.** La vivienda publica de EE.UU. fue subfinanciada por el Congreso, segregada racialmente por politica (Rothstein, *The Color of Law*), concentrada en pobreza por diseno, y luego desfinanciada aun mas cuando previsiblemente tuvo dificultades. La vivienda publica de todos los demas paises funciona porque fue disenada para tener exito. Denver sigue los modelos que funcionan.
+**El fracaso estadounidense fue deliberado.** La vivienda publica de EE.UU. fue subfinanciada por el Congreso, segregada racialmente por politica (Rothstein, _The Color of Law_), concentrada en pobreza por diseno, y luego desfinanciada aun mas cuando previsiblemente tuvo dificultades. La vivienda publica de todos los demas paises funciona porque fue disenada para tener exito. Denver sigue los modelos que funcionan.
 
 ## Como Lo Pagamos
 

@@ -4,6 +4,7 @@
 ## El Problema
 
 Los residentes de Denver pagan $80-120/mes por internet que es más lento, menos confiable y más caro de lo que los residentes de ciudades con internet municipal reciben. Comcast y CenturyLink operan como un duopolio de facto, proporcionando:
+
 - Velocidades inconsistentes que rara vez igualan las tarifas anunciadas
 - Límites de datos diseñados para extraer tarifas adicionales
 - Servicio al cliente deficiente (Comcast es consistentemente calificada como la empresa más odiada en Estados Unidos)
@@ -31,22 +32,24 @@ Comcast y CenturyLink/Lumen son los principales opositores. Gastaron $150M trata
 ### Denver Fiber - Internet de Propiedad Municipal
 
 **Infraestructura:**
+
 - Red de fibra óptica de propiedad municipal que llega a cada dirección en Denver
 - Velocidades simétricas de gigabit (1 Gbps de subida y bajada) para todos los niveles
 - Sin límites de datos. Sin limitación. Sin tarifas ocultas.
 
 **Precios:**
 
-| Nivel | Velocidad | Precio |
-|-------|-----------|--------|
-| Básico | 100 Mbps | $15/mes |
-| Estándar | 500 Mbps | $25/mes |
-| Gigabit | 1 Gbps | $30/mes |
-| Bajos ingresos | 100 Mbps | Gratis (calificado por ingresos) |
+| Nivel          | Velocidad | Precio                           |
+| -------------- | --------- | -------------------------------- |
+| Básico         | 100 Mbps  | $15/mes                          |
+| Estándar       | 500 Mbps  | $25/mes                          |
+| Gigabit        | 1 Gbps    | $30/mes                          |
+| Bajos ingresos | 100 Mbps  | Gratis (calificado por ingresos) |
 
 Compare con Comcast: $80-120/mes por velocidades comparables con límites de datos y aumentos de precio anuales.
 
 **Características clave:**
+
 - **Neutralidad de red garantizada** — sin bloqueo de contenido, limitación o priorización de pago. Escrito en el estatuto.
 - **Sin límites de datos.** Nunca.
 - **Privacidad por defecto.** Denver Fiber no vende, comparte ni monetiza los datos de navegación de los clientes.
@@ -55,6 +58,7 @@ Compare con Comcast: $80-120/mes por velocidades comparables con límites de dat
 - **WiFi público gratuito** en todos los parques, centros comunitarios y estaciones de tránsito
 
 **Plan de implementación:**
+
 - Año 1-2: Infraestructura troncal y primeros vecindarios (priorizar áreas desatendidas)
 - Año 3-4: Expandir al 50% de las direcciones de Denver
 - Año 5-7: Completar la construcción en toda la ciudad
@@ -62,14 +66,14 @@ Compare con Comcast: $80-120/mes por velocidades comparables con límites de dat
 
 ### Evidencia Internacional: El Internet Público Es Normal
 
-| País/Ciudad | Modelo | Velocidad | Precio | Resultado |
-|-------------|--------|-----------|--------|-----------|
-| **Corea del Sur** | Inversión gubernamental en infraestructura de internet. | 1 Gbps+ estándar | ~$30/mes | El internet más rápido del mundo. 98% de penetración. |
-| **Rumania** | Pequeños ISP locales construyeron fibra con mínima regulación. | 1 Gbps estándar | ~$10/mes | Más rápido y más barato que el internet de EE.UU. a 1/4 del PIB per cápita. Prueba de que la competencia baja los precios. |
-| **Finlandia** | Derecho legal al acceso a internet (2010). Inversión gubernamental en áreas desatendidas. | 100 Mbps mínimo garantizado | Varía | El internet declarado un derecho legal. Acceso universal independientemente de la ubicación o ingresos. |
-| **Chattanooga, TN** | EPB Fiber de propiedad municipal. Primer gigabit en el hemisferio occidental (2010). | 10 Gbps disponible | $68/mes gigabit | Rentable. Atrae negocios tecnológicos. Motor de desarrollo económico. |
-| **Longmont, CO** | Internet municipal NextLight. A 30 millas de Denver. | 1 Gbps | $50/mes | Rentable dentro de 5 años. Más del 90% de satisfacción del cliente. Prueba de concepto en el patio trasero de Denver. |
-| **Fort Collins, CO** | Internet municipal Connexion. | 1 Gbps | $60/mes | En camino a la rentabilidad. Los residentes votaron 57% a favor a pesar de la campaña de oposición financiada por Comcast de $150M. |
+| País/Ciudad          | Modelo                                                                                    | Velocidad                   | Precio          | Resultado                                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------- | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Corea del Sur**    | Inversión gubernamental en infraestructura de internet.                                   | 1 Gbps+ estándar            | ~$30/mes        | El internet más rápido del mundo. 98% de penetración.                                                                               |
+| **Rumania**          | Pequeños ISP locales construyeron fibra con mínima regulación.                            | 1 Gbps estándar             | ~$10/mes        | Más rápido y más barato que el internet de EE.UU. a 1/4 del PIB per cápita. Prueba de que la competencia baja los precios.          |
+| **Finlandia**        | Derecho legal al acceso a internet (2010). Inversión gubernamental en áreas desatendidas. | 100 Mbps mínimo garantizado | Varía           | El internet declarado un derecho legal. Acceso universal independientemente de la ubicación o ingresos.                             |
+| **Chattanooga, TN**  | EPB Fiber de propiedad municipal. Primer gigabit en el hemisferio occidental (2010).      | 10 Gbps disponible          | $68/mes gigabit | Rentable. Atrae negocios tecnológicos. Motor de desarrollo económico.                                                               |
+| **Longmont, CO**     | Internet municipal NextLight. A 30 millas de Denver.                                      | 1 Gbps                      | $50/mes         | Rentable dentro de 5 años. Más del 90% de satisfacción del cliente. Prueba de concepto en el patio trasero de Denver.               |
+| **Fort Collins, CO** | Internet municipal Connexion.                                                             | 1 Gbps                      | $60/mes         | En camino a la rentabilidad. Los residentes votaron 57% a favor a pesar de la campaña de oposición financiada por Comcast de $150M. |
 
 **EE.UU. paga más por peor internet que la mayoría del mundo desarrollado** porque dejamos que los monopolios controlen la infraestructura. El internet municipal rompe el monopolio, y la evidencia de las ciudades que lo han hecho muestra consistentemente mejores velocidades, precios más bajos y beneficio comunitario (Institute for Local Self-Reliance, base de datos Community Broadband Networks, 2025).
 

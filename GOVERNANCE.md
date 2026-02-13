@@ -16,10 +16,10 @@ Denver For All is a grassroots, open-source civic platform governed by its maint
 
 ### Current Maintainers
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Dan McHale | Project Lead | @dmchaledev |
-| Boden McHale | Owner | @BodenMcHale |
+| Name         | Role         | GitHub       |
+| ------------ | ------------ | ------------ |
+| Dan McHale   | Project Lead | @dmchaledev  |
+| Boden McHale | Owner        | @BodenMcHale |
 
 We welcome additional maintainers. If you are a regular contributor and want to take on a maintainer role, please reach out.
 
@@ -73,6 +73,7 @@ If the Project Lead becomes unable or unwilling to continue:
 3. The project's open-source license ensures the code and content remain freely available regardless of leadership changes
 
 The project should always have at least two people with admin access to:
+
 - The GitHub organization
 - The Open Collective page
 - The Cloudflare account

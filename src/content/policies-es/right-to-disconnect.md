@@ -11,13 +11,13 @@ Los estadounidenses trabajan más de 400 horas más al año que los trabajadores
 
 Denver **no tiene protecciones de derecho a desconectarse ni disposiciones de semana laboral reducida**. Colorado no regula las comunicaciones laborales fuera del horario de trabajo. Los empleados municipales de Denver trabajan una semana estándar de 40 horas.
 
-La OCDE reporta que los trabajadores estadounidenses promedian 1,811 horas/año comparadas con las 1,349 horas/año de Alemania. Esa es una diferencia de 462 horas, o más de 11 semanas laborales estándar de 40 horas (OECD, indicador *Hours Worked*, 2023).
+La OCDE reporta que los trabajadores estadounidenses promedian 1,811 horas/año comparadas con las 1,349 horas/año de Alemania. Esa es una diferencia de 462 horas, o más de 11 semanas laborales estándar de 40 horas (OECD, indicador _Hours Worked_, 2023).
 
 ## Nuestra Solución
 
 ### 1. Ordenanza de Derecho a Desconectarse de Denver
 
-Adaptada del *Droit à la déconnexion* de Francia (ley desde 2017):
+Adaptada del _Droit à la déconnexion_ de Francia (ley desde 2017):
 
 - **Protección fuera del horario laboral:** Los empleadores con 20+ empleados deben establecer horarios claros de "desconexión". Fuera de esos horarios, los empleados no tienen obligación de responder a comunicaciones laborales.
 - **Sin represalias:** Los empleados no pueden ser disciplinados, postergados para promoción ni despedidos por no responder durante los horarios de desconexión.
@@ -32,6 +32,7 @@ Adaptada del *Droit à la déconnexion* de Francia (ley desde 2017):
 Implementar gradualmente una semana laboral estándar de 32 horas para Denver, comenzando con empleados y contratistas de la ciudad.
 
 **Implementación gradual:**
+
 - Año 1: Los empleados municipales pasan a semana de 32 horas/4 días con el mismo salario
 - Año 2: Los contratistas de la ciudad con 50+ empleados deben ofrecer la opción de 32 horas
 - Año 3: Todas las empresas de Denver con 50+ empleados implementan el estándar de 32 horas (las horas extras comienzan a las 32 horas)
@@ -40,20 +41,21 @@ Implementar gradualmente una semana laboral estándar de 32 horas para Denver, c
 
 ## La Evidencia: Esto Funciona
 
-| Prueba/País | Lo Que Hicieron | Resultado |
-|-------------|-----------------|-----------|
-| **Islandia (2015-2019)** | 2,500 trabajadores pasaron a semanas de 35-36 horas. La prueba más grande en la historia moderna. | La productividad se mantuvo o MEJORÓ. El bienestar de los trabajadores mejoró dramáticamente. Islandia posteriormente aprobó legislación dando a los trabajadores el derecho de negociar horarios más cortos. |
-| **Piloto de Semana de 4 Días del Reino Unido (2022)** | 61 empresas, 2,900 trabajadores. Prueba de 6 meses. | El 92% de las empresas continuaron la política de forma permanente. Los ingresos se mantuvieron iguales o aumentaron. El 71% de los empleados reportaron reducción del agotamiento. |
-| **España (2023-en curso)** | Piloto de semana de 4 días financiado por el gobierno para pequeñas y medianas empresas. | Resultados iniciales: productividad mantenida, reducción del ausentismo, menores costos de energía. |
-| **Bélgica (2022)** | Derecho legal para los trabajadores de comprimir las horas de tiempo completo en 4 días. | Los trabajadores que ejercen el derecho reportan mayor satisfacción, mejor equilibrio trabajo-vida. |
-| **Francia Derecho a Desconectarse (2017)** | Los trabajadores tienen derecho legal a ignorar comunicaciones fuera del horario laboral. | Reducción del agotamiento, mejores límites, sin pérdida de productividad. Extendido a Italia (2017), España (2021), Portugal (2021), Bélgica (2022). |
-| **Microsoft Japan (2019)** | Cerraron oficinas todos los viernes durante un mes. | La productividad aumentó un 40%. Los costos de electricidad bajaron un 23%. |
+| Prueba/País                                           | Lo Que Hicieron                                                                                   | Resultado                                                                                                                                                                                                     |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Islandia (2015-2019)**                              | 2,500 trabajadores pasaron a semanas de 35-36 horas. La prueba más grande en la historia moderna. | La productividad se mantuvo o MEJORÓ. El bienestar de los trabajadores mejoró dramáticamente. Islandia posteriormente aprobó legislación dando a los trabajadores el derecho de negociar horarios más cortos. |
+| **Piloto de Semana de 4 Días del Reino Unido (2022)** | 61 empresas, 2,900 trabajadores. Prueba de 6 meses.                                               | El 92% de las empresas continuaron la política de forma permanente. Los ingresos se mantuvieron iguales o aumentaron. El 71% de los empleados reportaron reducción del agotamiento.                           |
+| **España (2023-en curso)**                            | Piloto de semana de 4 días financiado por el gobierno para pequeñas y medianas empresas.          | Resultados iniciales: productividad mantenida, reducción del ausentismo, menores costos de energía.                                                                                                           |
+| **Bélgica (2022)**                                    | Derecho legal para los trabajadores de comprimir las horas de tiempo completo en 4 días.          | Los trabajadores que ejercen el derecho reportan mayor satisfacción, mejor equilibrio trabajo-vida.                                                                                                           |
+| **Francia Derecho a Desconectarse (2017)**            | Los trabajadores tienen derecho legal a ignorar comunicaciones fuera del horario laboral.         | Reducción del agotamiento, mejores límites, sin pérdida de productividad. Extendido a Italia (2017), España (2021), Portugal (2021), Bélgica (2022).                                                          |
+| **Microsoft Japan (2019)**                            | Cerraron oficinas todos los viernes durante un mes.                                               | La productividad aumentó un 40%. Los costos de electricidad bajaron un 23%.                                                                                                                                   |
 
 **El patrón es inequívoco:** Cuando las personas trabajan menos horas con el mismo salario, producen la misma cantidad en menos tiempo, son más saludables, más felices y menos propensas a renunciar. Cada prueba importante ha confirmado esto.
 
 ### Por Qué Funciona (La Economía)
 
 La mayoría de los trabajadores del conocimiento son productivos de 4 a 6 horas al día. El tiempo restante se gasta en reuniones innecesarias, cambio de contexto, ocupación performativa y recuperación de interrupciones. Una semana de 32 horas obliga a las organizaciones a:
+
 - Eliminar reuniones innecesarias
 - Comunicarse más eficientemente
 - Respetar el tiempo de trabajo enfocado
@@ -91,8 +93,8 @@ Los servicios esenciales operan con horarios de turnos, no con semanas laborales
 
 ## Referencias
 
-- OECD, indicador *Hours Worked* (data.oecd.org), 2023
-- France, *Code du travail*, Artículo L2242-17 (Derecho a Desconectarse, promulgado en 2017)
-- Autonomy Research, *The Results Are In: The UK's Four-Day Week Pilot*, 2023
-- Iceland, *Association for Sustainability and Democracy (ALDA)*, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
-- Microsoft Japan, *Work-Life Choice Challenge Summer 2019* resultados
+- OECD, indicador _Hours Worked_ (data.oecd.org), 2023
+- France, _Code du travail_, Artículo L2242-17 (Derecho a Desconectarse, promulgado en 2017)
+- Autonomy Research, _The Results Are In: The UK's Four-Day Week Pilot_, 2023
+- Iceland, _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
+- Microsoft Japan, _Work-Life Choice Challenge Summer 2019_ resultados

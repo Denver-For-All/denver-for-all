@@ -37,33 +37,33 @@ The Epstein/Maxwell case is about federal criminal accountability for sex traffi
 
 Compare this to the existing sample comments in the outreach playbook, where every pivot is tight and direct:
 
-| Thread topic | Policy pitch | Connection |
-|---|---|---|
-| Rent increase notice | Rent stabilization | Direct — same issue |
-| Broadband complaint | Municipal broadband | Direct — same issue |
-| Cost of living | Living wage | Direct — same issue |
-| Medical debt post | Medical debt forgiveness | Direct — same issue |
+| Thread topic         | Policy pitch             | Connection          |
+| -------------------- | ------------------------ | ------------------- |
+| Rent increase notice | Rent stabilization       | Direct — same issue |
+| Broadband complaint  | Municipal broadband      | Direct — same issue |
+| Cost of living       | Living wage              | Direct — same issue |
+| Medical debt post    | Medical debt forgiveness | Direct — same issue |
 
 The Epstein-to-childcare connection requires multiple inferential leaps. The playbook samples require zero.
 
 **2. This departs from the existing playbook in ways that weaken the brand.**
 
-The outreach playbook targets Denver community Facebook *groups* (Denver Community Forum, neighborhood groups, parent groups), not news outlet *pages*. These are different channels with different dynamics:
+The outreach playbook targets Denver community Facebook _groups_ (Denver Community Forum, neighborhood groups, parent groups), not news outlet _pages_. These are different channels with different dynamics:
 
-| | Community group threads | News outlet page comments |
-|---|---|---|
-| Audience intent | Seeking discussion/help | Consuming news, venting |
+|                    | Community group threads                 | News outlet page comments    |
+| ------------------ | --------------------------------------- | ---------------------------- |
+| Audience intent    | Seeking discussion/help                 | Consuming news, venting      |
 | Comment visibility | High (fewer comments, closer community) | Low (buried in 88+ comments) |
-| Engagement quality | Replies, follow-up | Drive-by reactions |
-| Tone expectation | Substantive, helpful | Hot takes, outrage |
-| Admin moderation | Community norms enforced | Minimal |
-| ROI per comment | High | Low |
+| Engagement quality | Replies, follow-up                      | Drive-by reactions           |
+| Tone expectation   | Substantive, helpful                    | Hot takes, outrage           |
+| Admin moderation   | Community norms enforced                | Minimal                      |
+| ROI per comment    | High                                    | Low                          |
 
 The playbook was designed for the left column. This strategy operates in the right column.
 
 **3. The comment violates Denver For All's own communication standards.**
 
-The outreach playbook and Reddit comment strategy establish a clear identity: *data-driven, specific, evidence-backed, with proof-city comparisons*. Every sample comment in OUTREACH-PLAYBOOK.md and REDDIT-COMMENTS.md includes:
+The outreach playbook and Reddit comment strategy establish a clear identity: _data-driven, specific, evidence-backed, with proof-city comparisons_. Every sample comment in OUTREACH-PLAYBOOK.md and REDDIT-COMMENTS.md includes:
 
 - Specific dollar amounts or statistics
 - Named comparison cities or countries
@@ -108,6 +108,7 @@ The existing Channel 1 strategy (community group engagement) is well-designed. T
 **2. If you want to engage on news outlet posts, limit it to stories with direct policy connections.**
 
 Acceptable examples:
+
 - Denver7 reports on rising rents → comment with rent stabilization data and proof-city comparisons
 - 9NEWS covers a Denver Health billing dispute → comment with medical debt forgiveness evidence
 - CBS Colorado covers broadband pricing → comment with municipal broadband voter approval history
@@ -120,11 +121,12 @@ Even a short comment should include at least one specific data point, one proof 
 
 **4. Reserve moral outrage for stories where you have standing.**
 
-Denver For All has standing on housing, wages, healthcare, infrastructure, public safety, immigration, and education *in Denver*. Comment with authority on those topics. On federal criminal cases, the organization is just another voice in a crowd — and the crowd is already loud enough.
+Denver For All has standing on housing, wages, healthcare, infrastructure, public safety, immigration, and education _in Denver_. Comment with authority on those topics. On federal criminal cases, the organization is just another voice in a crowd — and the crowd is already loud enough.
 
 **5. Redirect the energy to creating original content.**
 
 The time spent crafting comments on national news stories would be better invested in:
+
 - Drafting op-eds for local outlets when relevant Denver stories break (the playbook's Channel 3)
 - Creating shareable one-pagers for group chats (Channel 6, which has no completed assets yet)
 - Expanding Resistbot campaigns from 5 to cover more of the 45 policies

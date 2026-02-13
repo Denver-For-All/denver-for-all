@@ -13,13 +13,13 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 
 ## Top 5 Priority Improvements
 
-| # | Issue | Impact | Effort |
-|---|-------|--------|--------|
-| **1** | **Add a GitHub Actions CI pipeline** (lint, format check, build, test) | Prevents broken deployments, enforces quality on every PR | Low |
+| #     | Issue                                                                                                                                                | Impact                                                                                  | Effort |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------ |
+| **1** | **Add a GitHub Actions CI pipeline** (lint, format check, build, test)                                                                               | Prevents broken deployments, enforces quality on every PR                               | Low    |
 | **2** | **Eliminate en/es page duplication** — extract a shared component pattern or use Astro's i18n routing to generate Spanish pages from a single source | ~38 pages are near-identical copies; any bug fix or feature must be applied in 2 places | Medium |
-| **3** | **Extract a generic `ScrollytellingWrapper` component** — the 3 scrollytelling components are identical except for the function name | Removes 100% structural duplication across 3 files | Low |
-| **4** | **Add `Content-Security-Policy` header** and tighten security headers | CSP is the single most impactful missing security control | Low |
-| **5** | **Expand test coverage** — add integration tests for the subscribe endpoint, workers, and at least one page render test | Current tests are pure-logic only; no integration or component tests exist | Medium |
+| **3** | **Extract a generic `ScrollytellingWrapper` component** — the 3 scrollytelling components are identical except for the function name                 | Removes 100% structural duplication across 3 files                                      | Low    |
+| **4** | **Add `Content-Security-Policy` header** and tighten security headers                                                                                | CSP is the single most impactful missing security control                               | Low    |
+| **5** | **Expand test coverage** — add integration tests for the subscribe endpoint, workers, and at least one page render test                              | Current tests are pure-logic only; no integration or component tests exist              | Medium |
 
 ---
 
@@ -30,25 +30,30 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 ### Findings
 
 #### Massive en/es page duplication (Critical)
+
 - Every page under `src/pages/` is fully duplicated under `src/pages/es/`. There are **19 English pages** and **19 Spanish pages** (38 total `.astro` files).
 - The Spanish pages are near-identical clones with the same structure, scripts, and styles — differing only in text strings and `data-es` attributes.
 - The current approach uses a `data-es` attribute pattern where a Layout.astro inline script swaps text at runtime for Spanish pages. This means the English text is always present in the HTML source even on Spanish pages.
 - Any bug fix or feature change must be applied to **both** the English and Spanish versions manually — a maintenance liability that will grow.
 
 #### 3x scrollytelling component duplication
+
 - `EvictionScrollytelling.tsx`, `CampaignFinanceScrollytelling.tsx`, and `SidewalkScrollytelling.tsx` are **100% structurally identical** (47-48 lines each). They differ only in:
   - The function name
   - Which `StickyVisualization` and `NarrativeSteps` they import
 - All three use the same scrollama setup, same hooks, same JSX structure.
 
 #### Minor type safety gaps
+
 - Two `any` types in scrollytelling files: `let scroller: any` in `EvictionScrollytelling.tsx:12` and `CampaignFinanceScrollytelling.tsx:12`. The sidewalk version already uses a proper type: `{ setup: Function; resize: Function; destroy: Function }`.
 - The `SidewalkScrollytelling.tsx` typing pattern should be adopted across all three (or better, extracted into the shared wrapper).
 
 #### Shared utility placement
+
 - `useLocale.ts` lives under `src/components/sidewalk-data/` but is imported by all three scrollytelling modules (eviction and campaign-finance import from `../sidewalk-data/useLocale`). Same for `styles.css`. These should live in a shared location.
 
 #### Console statements in workers
+
 - 8 `console.log`/`console.error` calls in `workers/eviction-scraper/src/index.ts` and `workers/campaign-finance/src/index.ts`. Acceptable for Workers (they log to Wrangler tail), but consider structured logging.
 
 ### Recommendations
@@ -155,13 +160,13 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 
 ### Critical paths lacking tests
 
-| Path | Risk | Priority |
-|------|------|----------|
-| `functions/api/subscribe.ts` endpoint (actual HTTP handling) | Email collection is core functionality | High |
-| Worker API handlers (eviction, campaign finance) | Data integrity for public dashboards | High |
-| Content collection schema validation | Broken frontmatter breaks the build | Medium |
-| i18n key completeness (nested keys, not just top-level) | Missing translations show raw keys to users | Medium |
-| Page rendering / build success | Astro pages could fail silently | Medium |
+| Path                                                         | Risk                                        | Priority |
+| ------------------------------------------------------------ | ------------------------------------------- | -------- |
+| `functions/api/subscribe.ts` endpoint (actual HTTP handling) | Email collection is core functionality      | High     |
+| Worker API handlers (eviction, campaign finance)             | Data integrity for public dashboards        | High     |
+| Content collection schema validation                         | Broken frontmatter breaks the build         | Medium   |
+| i18n key completeness (nested keys, not just top-level)      | Missing translations show raw keys to users | Medium   |
+| Page rendering / build success                               | Astro pages could fail silently             | Medium   |
 
 ### Recommendations
 
@@ -180,6 +185,7 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 ### Findings
 
 #### Good practices in place
+
 - **No hardcoded secrets** anywhere in the codebase. API keys are loaded from environment variables.
 - **`.env.example`** has placeholder values only (`re_your_api_key_here`).
 - **`.gitignore`** properly excludes `.env`, `.env.*`, and `.dev.vars`.
@@ -295,12 +301,14 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 ### Findings
 
 #### Onboarding
+
 - **Clone → install → dev** is straightforward: `npm install && npm run dev`. Documented in README and CONTRIBUTING.
 - **`.env.example`** makes environment setup clear with only 1 variable needed for local dev.
 - **Dev server at `localhost:4321`** (Astro default) — documented.
 - **QUICKSTART.md** is unusually thorough for deployment and infrastructure setup.
 
 #### Development workflow
+
 - `npm run dev` — standard Astro dev server with HMR
 - `npm run build` — static build
 - `npm run lint` — **broken** (ESLint version issue)
@@ -316,6 +324,7 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 5. **`package.json` version is `0.1.0`** with no release process documented.
 
 #### Good DX patterns
+
 - Path aliases configured (though underused)
 - Vitest in watch mode available (`npm run test:watch`)
 - Prettier + ESLint (when working) configured with sensible defaults
@@ -333,34 +342,34 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 
 ## Summary Table
 
-| Area | Status | Key Issue |
-|------|--------|-----------|
-| Code Quality | Needs Work | Massive en/es page duplication; 3x scrollytelling duplication |
-| Project Structure | Good | Clean and logical; shared utils misplaced |
-| Documentation | Good | Excellent README/QUICKSTART; minor inconsistencies |
-| Dependencies | Needs Work | ESLint broken; React/nanostores behind latest |
-| Testing | Needs Work | Only 3 test files; no integration tests; tests re-implement logic |
-| Security | Needs Work | No CSP header; minor innerHTML usage; good fundamentals |
-| CI/CD & DevOps | Critical | No CI pipeline at all; no pre-commit hooks |
-| Performance | Good | Strong static-first architecture; lazy loading in place |
-| Developer Experience | Good | Clean onboarding; broken lint is the main friction |
+| Area                 | Status     | Key Issue                                                         |
+| -------------------- | ---------- | ----------------------------------------------------------------- |
+| Code Quality         | Needs Work | Massive en/es page duplication; 3x scrollytelling duplication     |
+| Project Structure    | Good       | Clean and logical; shared utils misplaced                         |
+| Documentation        | Good       | Excellent README/QUICKSTART; minor inconsistencies                |
+| Dependencies         | Needs Work | ESLint broken; React/nanostores behind latest                     |
+| Testing              | Needs Work | Only 3 test files; no integration tests; tests re-implement logic |
+| Security             | Needs Work | No CSP header; minor innerHTML usage; good fundamentals           |
+| CI/CD & DevOps       | Critical   | No CI pipeline at all; no pre-commit hooks                        |
+| Performance          | Good       | Strong static-first architecture; lazy loading in place           |
+| Developer Experience | Good       | Clean onboarding; broken lint is the main friction                |
 
 ---
 
 ## Appendix: File Counts
 
-| Directory | Files | Notes |
-|-----------|-------|-------|
-| `src/pages/` | 38 | 19 en + 19 es (near-identical pairs) |
-| `src/components/` | 20 | Mix of Astro + React |
-| `src/content/policies/` | 49 | English policy Markdown |
-| `src/content/policies-es/` | 48 | Spanish policy Markdown |
-| `src/data/` | 3 | Static TypeScript data modules |
-| `src/i18n/` | 3 | en.json, es.json, utils.ts |
-| `functions/` | 1 | Newsletter subscribe endpoint |
-| `workers/` | 2 services | Eviction scraper + campaign finance |
-| `tests/` | 3 | i18n, content, subscribe |
-| `scripts/` | 1 | Questionnaire sender |
-| `vapi/` | 1 | Voice assistant config |
-| `collateral/` | 19 | Organizational/outreach docs |
-| Top-level docs | 10 | README, QUICKSTART, CONTRIBUTING, etc. |
+| Directory                  | Files      | Notes                                  |
+| -------------------------- | ---------- | -------------------------------------- |
+| `src/pages/`               | 38         | 19 en + 19 es (near-identical pairs)   |
+| `src/components/`          | 20         | Mix of Astro + React                   |
+| `src/content/policies/`    | 49         | English policy Markdown                |
+| `src/content/policies-es/` | 48         | Spanish policy Markdown                |
+| `src/data/`                | 3          | Static TypeScript data modules         |
+| `src/i18n/`                | 3          | en.json, es.json, utils.ts             |
+| `functions/`               | 1          | Newsletter subscribe endpoint          |
+| `workers/`                 | 2 services | Eviction scraper + campaign finance    |
+| `tests/`                   | 3          | i18n, content, subscribe               |
+| `scripts/`                 | 1          | Questionnaire sender                   |
+| `vapi/`                    | 1          | Voice assistant config                 |
+| `collateral/`              | 19         | Organizational/outreach docs           |
+| Top-level docs             | 10         | README, QUICKSTART, CONTRIBUTING, etc. |

@@ -1,40 +1,40 @@
 ---
-title: "Vacancy Tax on Empty Units"
-titleEs: "Impuesto a la Vacancia de Unidades Vacías"
+title: 'Vacancy Tax on Empty Units'
+titleEs: 'Impuesto a la Vacancia de Unidades Vacías'
 summary: "Progressive tax on vacant residential properties. You don't get to sit on empty homes while people sleep on the street."
-summaryEs: "Impuesto progresivo sobre propiedades residenciales vacantes. No puedes dejar casas vacías mientras la gente duerme en la calle."
-category: "housing"
-icon: "key"
+summaryEs: 'Impuesto progresivo sobre propiedades residenciales vacantes. No puedes dejar casas vacías mientras la gente duerme en la calle.'
+category: 'housing'
+icon: 'key'
 order: 4
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 relatedLegislation:
-  - billNumber: "HB26-1036"
-    title: "Local Taxes on Vacant Residential Property"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/hb26-1036"
+  - billNumber: 'HB26-1036'
+    title: 'Local Taxes on Vacant Residential Property'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/hb26-1036'
 keyStats:
-  - value: "5,000-8,000"
-    label: "homes sitting empty in Denver"
-    labelEs: "hogares vacios en Denver"
-    context: "7,500 people are homeless while thousands of units sit vacant for speculation"
-    contextEs: "7,500 personas sin hogar mientras miles de unidades estan vacias por especulacion"
-    source: "U.S. Census Bureau, ACS 2022"
-    theme: "danger"
-  - value: "25%"
+  - value: '5,000-8,000'
+    label: 'homes sitting empty in Denver'
+    labelEs: 'hogares vacios en Denver'
+    context: '7,500 people are homeless while thousands of units sit vacant for speculation'
+    contextEs: '7,500 personas sin hogar mientras miles de unidades estan vacias por especulacion'
+    source: 'U.S. Census Bureau, ACS 2022'
+    theme: 'danger'
+  - value: '25%'
     label: "vacancy drop in Vancouver's first year"
-    labelEs: "caida de vacancia en el primer ano de Vancouver"
+    labelEs: 'caida de vacancia en el primer ano de Vancouver'
     context: "Vancouver's Empty Homes Tax proved vacancy taxes put homes back on the market fast"
-    contextEs: "El Impuesto de Viviendas Vacias de Vancouver demostro que funciona rapidamente"
-    source: "City of Vancouver, 2017-2023"
-    theme: "primary"
-  - value: "$50-80M"
-    label: "estimated yearly revenue for Denver"
-    labelEs: "ingresos anuales estimados para Denver"
-    context: "Every dollar goes to the Affordable Housing Trust Fund for social housing and CLTs"
-    contextEs: "Cada dolar va al Fondo de Vivienda Asequible para vivienda social y CLTs"
-    theme: "primary"
+    contextEs: 'El Impuesto de Viviendas Vacias de Vancouver demostro que funciona rapidamente'
+    source: 'City of Vancouver, 2017-2023'
+    theme: 'primary'
+  - value: '$50-80M'
+    label: 'estimated yearly revenue for Denver'
+    labelEs: 'ingresos anuales estimados para Denver'
+    context: 'Every dollar goes to the Affordable Housing Trust Fund for social housing and CLTs'
+    contextEs: 'Cada dolar va al Fondo de Vivienda Asequible para vivienda social y CLTs'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -56,14 +56,15 @@ Denver currently has **no vacancy tax or penalty for empty residential propertie
 A tax on residential properties that remain vacant for more than 6 months in a calendar year, escalating over time:
 
 | Year Vacant | Tax Rate (% of assessed value) |
-|-------------|-------------------------------|
-| Year 1      | 1%                            |
-| Year 2      | 2%                            |
-| Year 3      | 3%                            |
-| Year 4      | 4%                            |
-| Year 5+     | 5%                            |
+| ----------- | ------------------------------ |
+| Year 1      | 1%                             |
+| Year 2      | 2%                             |
+| Year 3      | 3%                             |
+| Year 4      | 4%                             |
+| Year 5+     | 5%                             |
 
 **On a home assessed at $500,000:**
+
 - Year 1 vacant: $5,000 tax
 - Year 3 vacant: $15,000 tax
 - Year 5+ vacant: $25,000/year
@@ -71,12 +72,14 @@ A tax on residential properties that remain vacant for more than 6 months in a c
 This makes speculation increasingly expensive while giving owners reasonable time to renovate or sell.
 
 **Exemptions (narrow and specific):**
+
 - Active renovation with valid permits (12-month maximum)
 - Owner in medical care or military deployment (documented)
 - Property actively listed for sale at fair market value (6-month maximum)
 - Estate in probate (12-month maximum)
 
 **No exemptions for:**
+
 - "Planning to renovate" without permits
 - Holding for future development without timeline
 - Corporate portfolio management
@@ -90,13 +93,13 @@ This makes speculation increasingly expensive while giving owners reasonable tim
 
 ### International Evidence: Vacancy Taxes Work
 
-| City/Country | Model | Result |
-|-------------|-------|--------|
-| **Vancouver, Canada** | 1% Empty Homes Tax (2017), increased to 3% (2021). | Vacancy rate dropped 25% in first year. Generated $170M+ CAD in cumulative revenue (2017-2023). Thousands of units returned to rental market. |
-| **Melbourne, Australia** | 1% Vacant Residential Land Tax on properties vacant 6+ months. | Revenue dedicated to affordable housing. Vacant properties decreased measurably. |
-| **Paris, France** | *Taxe sur les logements vacants* - progressive tax on homes vacant 1+ years. | Vacancies in Paris decreased. Revenue funds social housing construction. |
-| **UK (various councils)** | Council tax surcharge of up to 300% on long-term empty properties. | Thousands of empty homes brought back into use. |
-| **Washington, DC** | Vacant property tax at 5x the standard rate. | One of the highest vacancy tax rates in the US. Discourages speculation and land banking. |
+| City/Country              | Model                                                                        | Result                                                                                                                                        |
+| ------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vancouver, Canada**     | 1% Empty Homes Tax (2017), increased to 3% (2021).                           | Vacancy rate dropped 25% in first year. Generated $170M+ CAD in cumulative revenue (2017-2023). Thousands of units returned to rental market. |
+| **Melbourne, Australia**  | 1% Vacant Residential Land Tax on properties vacant 6+ months.               | Revenue dedicated to affordable housing. Vacant properties decreased measurably.                                                              |
+| **Paris, France**         | _Taxe sur les logements vacants_ - progressive tax on homes vacant 1+ years. | Vacancies in Paris decreased. Revenue funds social housing construction.                                                                      |
+| **UK (various councils)** | Council tax surcharge of up to 300% on long-term empty properties.           | Thousands of empty homes brought back into use.                                                                                               |
+| **Washington, DC**        | Vacant property tax at 5x the standard rate.                                 | One of the highest vacancy tax rates in the US. Discourages speculation and land banking.                                                     |
 
 **The pattern is clear:** cities that tax vacant properties consistently see vacancies decrease and housing supply increase. It is one of the simplest, most proven housing policy tools available.
 

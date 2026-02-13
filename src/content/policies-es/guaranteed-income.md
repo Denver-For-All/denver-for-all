@@ -26,17 +26,20 @@ Mientras tanto, **Boulder**, a 25 millas al noroeste, realizó su propio piloto 
 Pagos directos e incondicionales en efectivo a los residentes de menores ingresos de Denver. Sin requisitos de trabajo. Sin pruebas de drogas. Sin restricciones de gasto. Solo dinero -- porque la evidencia de más de 150 ciudades muestra que cuando confías en las personas con efectivo, lo gastan exactamente en lo que necesitan.
 
 **1. Estructura del Programa**
+
 - **$1,000/mes** durante 24 meses para 2,000 residentes de Denver en la fase inicial
 - **Elegibilidad:** Ingreso familiar por debajo del 200% del nivel federal de pobreza ($62,400 para una familia de cuatro)
 - **Inscripción prioritaria:** Residentes de vecindarios de alta pobreza (Montbello, Westwood, Sun Valley, Globeville-Elyria-Swansea, East Colfax), padres solteros, personas anteriormente encarceladas, jóvenes que salen del sistema de acogida y personas que salen de la situación de calle
 - **Sin condiciones.** Sin requisito de trabajo. Sin requisito de sobriedad. Sin restricciones de gasto. La evidencia es inequívoca: el efectivo incondicional produce mejores resultados que los programas condicionales.
 
 **2. Escalamiento a Programa Permanente**
+
 - **Fase 1 (Años 1-2):** 2,000 participantes, $24M/año. Evaluación rigurosa con un grupo de control aleatorizado, realizada por un socio académico independiente (University of Denver, CU Denver o institución comparable).
 - **Fase 2 (Años 3-5):** Expandir a 5,000 participantes basándose en los resultados de la Fase 1. Integrar con servicios municipales existentes: navegación de vivienda, desarrollo de fuerza laboral, subsidios de cuidado infantil.
 - **Fase 3 (Año 5+):** Hacer el programa permanente, modelado en Cook County, Illinois, el primer condado de EE.UU. en establecer financiamiento permanente de ingreso garantizado después de su piloto de $42 millones que proporcionó $500/mes a 3,250 residentes.
 
 **3. Integración con la Plataforma Existente**
+
 - El ingreso garantizado no es un reemplazo de otras políticas. Es el piso debajo de ellas:
   - Combinar con [Social Housing](/platform/social-housing): la estabilidad en efectivo ayuda a los residentes a mantener la vivienda
   - Combinar con [Universal Childcare](/platform/universal-childcare): los padres pueden trabajar cuando el cuidado infantil está cubierto Y tienen efectivo para emergencias
@@ -49,7 +52,7 @@ Esto ya no es experimental. Más de 150 ciudades de EE.UU. han realizado pilotos
 
 ### Hallazgos Agregados (Mayors for a Guaranteed Income, 2025)
 
-- **Empleo:** Ni un solo piloto mostró disminución del empleo. Múltiples pilotos mostraron *aumento* del empleo, ya que los beneficiarios usaron la estabilidad financiera para buscar mejores empleos, completar capacitación o iniciar negocios.
+- **Empleo:** Ni un solo piloto mostró disminución del empleo. Múltiples pilotos mostraron _aumento_ del empleo, ya que los beneficiarios usaron la estabilidad financiera para buscar mejores empleos, completar capacitación o iniciar negocios.
 - **Seguridad alimentaria y de vivienda:** La gran mayoría de los pilotos mejoró la seguridad de vivienda, la seguridad alimentaria, o ambas.
 - **Salud mental:** Reducción del estrés, menos caos en el hogar, mejor salud mental, mayor sentido de agencia y esperanza.
 - **Educación:** En Cambridge, MA, los hijos de beneficiarios tuvieron menos acciones disciplinarias escolares, menos ausentismo y mayor inscripción en cursos Advanced Placement.
@@ -57,21 +60,21 @@ Esto ya no es experimental. Más de 150 ciudades de EE.UU. han realizado pilotos
 
 ### Resultados por Ciudad
 
-| Ciudad | Diseño | Resultado Clave |
-|--------|--------|-----------------|
-| **Stockton, CA** | 125 residentes, $500/mes, 24 meses. Primer gran piloto de EE.UU. (2019-2021). | El empleo a tiempo completo aumentó del 28% al 40% entre los beneficiarios (vs. del 32% al 37% en el control). Los beneficiarios reportaron reducción de ansiedad, depresión y estrés financiero. |
-| **Cook County, IL** | 3,250 residentes, $500/mes, 24 meses. El mayor piloto de EE.UU. | Primer condado en establecer **financiamiento permanente** después del éxito del piloto. Inversión total de $42M. |
-| **Baltimore, MD** | 200 padres jóvenes, $1,000/mes, 24 meses. | Mayor estabilidad financiera, mayor inscripción escolar, mayor seguridad alimentaria, reducción del estrés, mejor satisfacción parental. Los beneficios persistieron después de que terminaron los pagos. |
-| **St. Louis, MO** | Familias de bajos ingresos, pagos mensuales durante 12 meses. | Menos pagos de alquiler y servicios públicos atrasados. Los puntajes de crédito aumentaron en promedio 12 puntos. Las familias reportaron mejor apoyo para la educación y salud de sus hijos. |
-| **Newark, NJ** | 400 residentes, $12,000 en dos años. | Mayor resiliencia financiera, mayor seguridad de vivienda y alimentaria, mejor salud mental, más tiempo en familia. |
-| **Minneapolis, MN** | 200 residentes, $500/mes, 24 meses. | Los beneficiarios atendieron necesidades de alimentación, vivienda y servicios públicos; pagaron deudas; construyeron ahorros; mejoraron la salud mental. |
-| **Boulder, CO** | 200 residentes, $500/mes, 24 meses. | Casi un tercio buscó educación o capacitación adicional. Ayudó con alimentación, vivienda, servicios públicos y deudas. Sin efecto claro en el estado laboral; los beneficiarios ya estaban trabajando. |
+| Ciudad              | Diseño                                                                        | Resultado Clave                                                                                                                                                                                           |
+| ------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stockton, CA**    | 125 residentes, $500/mes, 24 meses. Primer gran piloto de EE.UU. (2019-2021). | El empleo a tiempo completo aumentó del 28% al 40% entre los beneficiarios (vs. del 32% al 37% en el control). Los beneficiarios reportaron reducción de ansiedad, depresión y estrés financiero.         |
+| **Cook County, IL** | 3,250 residentes, $500/mes, 24 meses. El mayor piloto de EE.UU.               | Primer condado en establecer **financiamiento permanente** después del éxito del piloto. Inversión total de $42M.                                                                                         |
+| **Baltimore, MD**   | 200 padres jóvenes, $1,000/mes, 24 meses.                                     | Mayor estabilidad financiera, mayor inscripción escolar, mayor seguridad alimentaria, reducción del estrés, mejor satisfacción parental. Los beneficios persistieron después de que terminaron los pagos. |
+| **St. Louis, MO**   | Familias de bajos ingresos, pagos mensuales durante 12 meses.                 | Menos pagos de alquiler y servicios públicos atrasados. Los puntajes de crédito aumentaron en promedio 12 puntos. Las familias reportaron mejor apoyo para la educación y salud de sus hijos.             |
+| **Newark, NJ**      | 400 residentes, $12,000 en dos años.                                          | Mayor resiliencia financiera, mayor seguridad de vivienda y alimentaria, mejor salud mental, más tiempo en familia.                                                                                       |
+| **Minneapolis, MN** | 200 residentes, $500/mes, 24 meses.                                           | Los beneficiarios atendieron necesidades de alimentación, vivienda y servicios públicos; pagaron deudas; construyeron ahorros; mejoraron la salud mental.                                                 |
+| **Boulder, CO**     | 200 residentes, $500/mes, 24 meses.                                           | Casi un tercio buscó educación o capacitación adicional. Ayudó con alimentación, vivienda, servicios públicos y deudas. Sin efecto claro en el estado laboral; los beneficiarios ya estaban trabajando.   |
 
 ### El Mito del Empleo
 
 La objeción más común al ingreso garantizado es que la gente dejará de trabajar. Los datos dicen lo contrario:
 
-- **Stockton:** El empleo a tiempo completo *aumentó* 12 puntos porcentuales entre los beneficiarios vs. 5 puntos en el grupo de control.
+- **Stockton:** El empleo a tiempo completo _aumentó_ 12 puntos porcentuales entre los beneficiarios vs. 5 puntos en el grupo de control.
 - **A través de 20 estudios:** "Ni un solo piloto ha mostrado una disminución en el empleo." -- Sukhi Samra, Mayors for a Guaranteed Income.
 - **El mecanismo es intuitivo:** La estabilidad financiera permite a las personas invertir en mejores búsquedas de empleo en lugar de tomar la primera opción desesperada. Permite a los padres pagar el cuidado infantil y realmente presentarse al trabajo. Permite a los trabajadores completar programas de capacitación. La estabilidad en efectivo es una condición previa para la movilidad económica, no un sustituto de ella.
 
@@ -80,6 +83,7 @@ La objeción más común al ingreso garantizado es que la gente dejará de traba
 **Costo de la Fase 1: $24M/año** (2,000 participantes x $12,000/año)
 
 **Fuentes de financiamiento:**
+
 - **Ingresos del impuesto a las vacantes** (ver [Vacancy Tax](/platform/vacancy-tax)): estimado $50-80M/año. Dedicar el 30-40% al ingreso garantizado es factible.
 - **Asignación del impuesto al cannabis:** El impuesto al cannabis de Colorado generó $423M en 2023. La parte local de Denver puede ser parcialmente redirigida.
 - **Reasignación del gasto de emergencia:** Denver gasta un estimado de $40,000-60,000 por persona crónicamente sin hogar al año en servicios de emergencia. Prevenir la falta de vivienda a través del ingreso garantizado es dramáticamente más barato que gestionarla.

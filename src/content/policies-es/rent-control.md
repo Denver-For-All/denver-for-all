@@ -19,13 +19,13 @@ Los alquileres de Denver aumentaron aproximadamente un 82-85% entre 2010 y 2023 
 
 La preempcion de 1981 (CRS S 38-12-301) es el mayor obstaculo legal para la estabilizacion de alquileres en Denver. Aqui esta el historial legislativo reciente:
 
-| Ano | Proyecto | Resultado |
-|------|------|---------|
-| 2019 | SB19-225 | Fracaso en comite |
-| 2023 | **HB23-1115** | Paso en la Camara 40-24; eliminado 4-3 en comite del Senado (Sen. Dylan Roberts, D-Avon, voto con 3 republicanos) |
-| 2024 | Derogacion de preempcion | No avanzo mas alla del comite |
-| 2025 | Ninguna derogacion presentada | La sesion se enfoco en prohibicion de tarifas basura, prohibicion de fijacion algoritmica de alquileres |
-| 2026 | Por determinar | Sesion en curso; ningun proyecto de derogacion identificado hasta febrero de 2026 |
+| Ano  | Proyecto                      | Resultado                                                                                                         |
+| ---- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 2019 | SB19-225                      | Fracaso en comite                                                                                                 |
+| 2023 | **HB23-1115**                 | Paso en la Camara 40-24; eliminado 4-3 en comite del Senado (Sen. Dylan Roberts, D-Avon, voto con 3 republicanos) |
+| 2024 | Derogacion de preempcion      | No avanzo mas alla del comite                                                                                     |
+| 2025 | Ninguna derogacion presentada | La sesion se enfoco en prohibicion de tarifas basura, prohibicion de fijacion algoritmica de alquileres           |
+| 2026 | Por determinar                | Sesion en curso; ningun proyecto de derogacion identificado hasta febrero de 2026                                 |
 
 **Aliados clave:** Rep. Javier Mabrey (D-Denver), Rep. Jennifer Bacon (D-Denver), Sen. Sonya Jaquez Lewis, Sen. Julie Gonzales. **Obstaculo clave:** Gobernador Polis (limite de mandato 2027).
 
@@ -40,6 +40,7 @@ La preempcion de 1981 (CRS S 38-12-301) es el mayor obstaculo legal para la esta
 **Cobertura universal.** Se aplica a TODAS las unidades de alquiler en Denver, independientemente de la edad, tamano o tipo de edificio. Sin exenciones para nueva construccion (despues de una ventana inicial de 15 anos para permitir a los desarrolladores recuperar costos), sin exenciones para arrendadores de una sola unidad, sin exenciones para unidades de lujo.
 
 **Desalojo con causa justa.** Los arrendadores solo pueden desalojar por:
+
 - Falta de pago de alquiler (con periodo de correccion de 30 dias)
 - Violacion material del contrato (con periodo de correccion)
 - Mudanza del propietario (verificada, con asistencia de reubicacion)
@@ -54,13 +55,13 @@ La preempcion de 1981 (CRS S 38-12-301) es el mayor obstaculo legal para la esta
 
 ### Evidencia Internacional: Esto Funciona
 
-| Pais/Ciudad | Modelo de Control de Alquileres | Resultado |
-|-------------|-------------------|--------|
-| **Viena, Austria** | Limites de alquiler en el 60% del parque de viviendas. Sin descontrol por vacancia. | Alquiler promedio: 5-7 euros/m2. Practicamente sin personas sin hogar. La vivienda no es una crisis financiera para ningun residente vienes. |
-| **Alemania (*Mietpreisbremse*)** | Los nuevos alquileres no pueden exceder el 10% por encima del alquiler de referencia local (*Mietspiegel*). Aumentos anuales limitados al 15-20% en 3 anos. | Desacelero los aumentos de alquiler en Berlin, Hamburgo y Munich. Quedan desafios con el cumplimiento pero el modelo es solido. |
-| **Suecia (*Hyreslagen*)** | Todos los alquileres negociados entre sindicatos de inquilinos y asociaciones de arrendadores. Sin fijacion individual de alquileres. | Los alquileres son 40-60% mas bajos de lo que serian las tarifas de mercado. La calidad se mantiene alta. Existen listas de espera (la demanda de vivienda asequible es infinita). |
-| **Paises Bajos** | Sistema de alquiler por puntos - el alquiler se calcula segun tamano de la unidad, calidad, vecindario. No puede exceder el maximo calculado. | Fijacion de alquileres transparente y objetiva. Sin discrecion del arrendador. |
-| **Paris, Francia (*Encadrement des loyers*)** | Limites de alquiler basados en alquileres de referencia del vecindario. | Desacelero la gentrificacion rapida en el centro de Paris. |
+| Pais/Ciudad                                   | Modelo de Control de Alquileres                                                                                                                             | Resultado                                                                                                                                                                          |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viena, Austria**                            | Limites de alquiler en el 60% del parque de viviendas. Sin descontrol por vacancia.                                                                         | Alquiler promedio: 5-7 euros/m2. Practicamente sin personas sin hogar. La vivienda no es una crisis financiera para ningun residente vienes.                                       |
+| **Alemania (_Mietpreisbremse_)**              | Los nuevos alquileres no pueden exceder el 10% por encima del alquiler de referencia local (_Mietspiegel_). Aumentos anuales limitados al 15-20% en 3 anos. | Desacelero los aumentos de alquiler en Berlin, Hamburgo y Munich. Quedan desafios con el cumplimiento pero el modelo es solido.                                                    |
+| **Suecia (_Hyreslagen_)**                     | Todos los alquileres negociados entre sindicatos de inquilinos y asociaciones de arrendadores. Sin fijacion individual de alquileres.                       | Los alquileres son 40-60% mas bajos de lo que serian las tarifas de mercado. La calidad se mantiene alta. Existen listas de espera (la demanda de vivienda asequible es infinita). |
+| **Paises Bajos**                              | Sistema de alquiler por puntos - el alquiler se calcula segun tamano de la unidad, calidad, vecindario. No puede exceder el maximo calculado.               | Fijacion de alquileres transparente y objetiva. Sin discrecion del arrendador.                                                                                                     |
+| **Paris, Francia (_Encadrement des loyers_)** | Limites de alquiler basados en alquileres de referencia del vecindario.                                                                                     | Desacelero la gentrificacion rapida en el centro de Paris.                                                                                                                         |
 
 **EE.UU. es la excepcion.** La mayoria de las democracias ricas regulan el alquiler de alguna forma. El enfoque de "mercado libre" para la vivienda es un experimento estadounidense -- y ha fracasado. Las ciudades que dependen puramente del mercado consistentemente desarrollan crisis de asequibilidad de vivienda. Las ciudades con fuerte regulacion de alquileres tienen vivienda mas estable y asequible -- aunque la regulacion sola no es suficiente sin inversion en oferta.
 
@@ -69,6 +70,7 @@ La preempcion de 1981 (CRS S 38-12-301) es el mayor obstaculo legal para la esta
 Este es el detalle de politica que hace o deshace el control de alquileres. He aqui por que:
 
 **Con descontrol por vacancia** (el modelo debil):
+
 - El arrendador tiene una unidad alquilada en $1,200
 - Solo puede aumentar el alquiler 3%/ano mientras el inquilino permanezca
 - El inquilino se va (o es presionado a irse)
@@ -76,6 +78,7 @@ Este es el detalle de politica que hace o deshace el control de alquileres. He a
 - **Resultado:** Los arrendadores tienen incentivo para expulsar a los inquilinos
 
 **Sin descontrol por vacancia** (nuestro modelo):
+
 - El arrendador tiene una unidad alquilada en $1,200
 - Solo puede aumentar el alquiler 3%/ano
 - El inquilino se va
@@ -94,7 +97,7 @@ La estabilizacion de alquileres **no le cuesta casi nada a la ciudad** para impl
 ## Preguntas Frecuentes
 
 **"El control de alquileres no reducira la oferta de vivienda?"**
-El estudio de Stanford que los opositores al control de alquileres adoran citar (Diamond et al., 2019) estudio el control de alquileres de San Francisco *con descontrol por vacancia*. Los arrendadores convirtieron alquileres en condominios para escapar del limite. Nuestro plan no tiene descontrol por vacancia - eliminando ese incentivo por completo. Ademas, los meta-analisis mas completos muestran que el control de alquileres bien disenado reduce el desplazamiento sin reducir la oferta cuando se combina con incentivos de construccion.
+El estudio de Stanford que los opositores al control de alquileres adoran citar (Diamond et al., 2019) estudio el control de alquileres de San Francisco _con descontrol por vacancia_. Los arrendadores convirtieron alquileres en condominios para escapar del limite. Nuestro plan no tiene descontrol por vacancia - eliminando ese incentivo por completo. Ademas, los meta-analisis mas completos muestran que el control de alquileres bien disenado reduce el desplazamiento sin reducir la oferta cuando se combina con incentivos de construccion.
 
 **"Los arrendadores dejaran de mantener los edificios."**
 La ley incluye cumplimiento de habitabilidad y permite a los arrendadores solicitar aumentos por encima del limite especificamente para mejoras de capital (techo nuevo, plomeria nueva, etc.) - pero no mejoras cosmeticas. Esto es estandar en los sistemas de control de alquileres funcionales en todo el mundo.
@@ -110,18 +113,23 @@ La preempcion de control de alquileres de Colorado es una eleccion politica, no 
 La preempcion de 1981 (CRS S 38-12-301) es el unico obstaculo legal que bloquea la Ley de Estabilizacion de Alquileres de Denver. Estamos buscando multiples caminos simultaneamente:
 
 ### Via 1: Ordenanza de Activacion de Denver (2026)
+
 Aprobar una ordenanza de estabilizacion de alquileres de Denver que **se active automaticamente** en el momento en que se derogue la preempcion estatal. Esto demuestra voluntad politica, crea un marco listo, y presiona a los legisladores estatales.
 
 ### Via 2: Proyecto de Ley Estatal Enmendado (2026-2027)
+
 Trabajar con Rep. Mabrey y Rep. Bacon para presentar una version fortalecida de HB23-1115 que aborde las objeciones especificas que lo eliminaron -- preocupaciones de desbordamiento en pueblos de montana (agregar umbrales de poblacion), preocupaciones de desarrollo (fortalecer exenciones de nueva construccion), y conversion de alquileres vacacionales (agregar provisiones anti-conversion).
 
 ### Via 3: Coalicion Estatal (2026-2027)
+
 Construir una coalicion multi-ciudad con Boulder, Aurora, Colorado Springs y pueblos de montana. Una demanda estatal unificada es mas dificil de desestimar para la legislatura que un "asunto de Denver."
 
 ### Via 4: Ventana de Nuevo Gobernador (2027)
+
 Polis tiene limite de mandato. Un nuevo gobernador en enero de 2027 crea la ventana mas favorable para un proyecto de derogacion de preempcion desde 1981.
 
 ### Via 5: Iniciativa de Votacion Estatal (2028 como respaldo)
+
 Si la legislatura fracasa nuevamente, el proceso de iniciativa ciudadana de Colorado permite a los votantes derogar la preempcion directamente, evitando tanto la legislatura como al gobernador.
 
 ---

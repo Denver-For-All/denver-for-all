@@ -1,48 +1,48 @@
 ---
-title: "Denver Tenant Bill of Rights"
-titleEs: "Declaración de Derechos del Inquilino de Denver"
-summary: "Universal right to counsel, 90-day notice for rent increases, anti-retaliation protections, and the right to organize. Every renter deserves dignity."
-summaryEs: "Derecho universal a representación legal, aviso de 90 días para aumentos de alquiler, protecciones contra represalias y el derecho a organizarse. Todo inquilino merece dignidad."
-category: "housing"
-icon: "scale"
+title: 'Denver Tenant Bill of Rights'
+titleEs: 'Declaración de Derechos del Inquilino de Denver'
+summary: 'Universal right to counsel, 90-day notice for rent increases, anti-retaliation protections, and the right to organize. Every renter deserves dignity.'
+summaryEs: 'Derecho universal a representación legal, aviso de 90 días para aumentos de alquiler, protecciones contra represalias y el derecho a organizarse. Todo inquilino merece dignidad.'
+category: 'housing'
+icon: 'scale'
 order: 3
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "15,953"
-    label: "eviction filings in Denver (2025)"
-    labelEs: "demandas de desalojo en Denver (2025)"
-    context: "72% above pre-pandemic levels. Denver bucks the national trend."
-    contextEs: "72% por encima de niveles pre-pandemia. Denver va contra la tendencia nacional."
-    source: "Denver County Court, Princeton Eviction Lab"
-    theme: "danger"
-  - value: "62%"
-    label: "of cases end in judgment for landlord"
-    labelEs: "de casos terminan en sentencia para el propietario"
-    context: "Only 0.7% of tenants filed an answer in 2025. Most lose by default."
-    contextEs: "Solo 0.7% de inquilinos presentaron respuesta en 2025. La mayoria pierden por rebeldia."
-    source: "Colorado Judicial Branch SB24-064 Dashboard"
-    theme: "danger"
-  - value: "4-5 wks"
-    label: "from filing to eviction in Colorado"
-    labelEs: "de demanda a desalojo en Colorado"
-    context: "One of the fastest eviction timelines in the country"
-    contextEs: "Uno de los plazos de desalojo mas rapidos del pais"
-    theme: "accent"
+  - value: '15,953'
+    label: 'eviction filings in Denver (2025)'
+    labelEs: 'demandas de desalojo en Denver (2025)'
+    context: '72% above pre-pandemic levels. Denver bucks the national trend.'
+    contextEs: '72% por encima de niveles pre-pandemia. Denver va contra la tendencia nacional.'
+    source: 'Denver County Court, Princeton Eviction Lab'
+    theme: 'danger'
+  - value: '62%'
+    label: 'of cases end in judgment for landlord'
+    labelEs: 'de casos terminan en sentencia para el propietario'
+    context: 'Only 0.7% of tenants filed an answer in 2025. Most lose by default.'
+    contextEs: 'Solo 0.7% de inquilinos presentaron respuesta en 2025. La mayoria pierden por rebeldia.'
+    source: 'Colorado Judicial Branch SB24-064 Dashboard'
+    theme: 'danger'
+  - value: '4-5 wks'
+    label: 'from filing to eviction in Colorado'
+    labelEs: 'de demanda a desalojo en Colorado'
+    context: 'One of the fastest eviction timelines in the country'
+    contextEs: 'Uno de los plazos de desalojo mas rapidos del pais'
+    theme: 'accent'
 relatedLegislation:
-  - billNumber: "HB26-1106"
-    title: "Eviction Protections for Tenants"
-    status: "Introduced - Assigned to Judiciary"
-    url: "https://leg.colorado.gov/bills/hb26-1106"
-  - billNumber: "HB26-1047"
-    title: "Protections for Residential Tenants"
-    status: "Introduced - Assigned to Judiciary"
-    url: "https://leg.colorado.gov/bills/hb26-1047"
-  - billNumber: "HB26-1013"
-    title: "Ratio Utility Billing Systems"
-    status: "House Second Reading Laid Over Daily"
-    url: "https://leg.colorado.gov/bills/hb26-1013"
+  - billNumber: 'HB26-1106'
+    title: 'Eviction Protections for Tenants'
+    status: 'Introduced - Assigned to Judiciary'
+    url: 'https://leg.colorado.gov/bills/hb26-1106'
+  - billNumber: 'HB26-1047'
+    title: 'Protections for Residential Tenants'
+    status: 'Introduced - Assigned to Judiciary'
+    url: 'https://leg.colorado.gov/bills/hb26-1047'
+  - billNumber: 'HB26-1013'
+    title: 'Ratio Utility Billing Systems'
+    status: 'House Second Reading Laid Over Daily'
+    url: 'https://leg.colorado.gov/bills/hb26-1013'
 ---
 
 ## The Problem
@@ -50,6 +50,7 @@ relatedLegislation:
 In Denver, a landlord can file for eviction and a tenant can lose their home in as little as 48 hours in some cases. 90%+ of landlords in eviction court have attorneys. Less than 10% of tenants do. The system is designed for landlords - tenants are an afterthought.
 
 Beyond eviction, tenants face:
+
 - Retaliation for reporting code violations or organizing
 - Illegal lockouts and utility shutoffs
 - Security deposit theft (landlords keeping deposits without justification)
@@ -82,6 +83,7 @@ When a rental building is sold, tenants and recognized tenant organizations have
 
 **4. Anti-Retaliation Protections**
 It is illegal for a landlord to raise rent, reduce services, or file for eviction within 12 months of a tenant:
+
 - Filing a complaint with code enforcement
 - Reporting a health or safety violation
 - Organizing or joining a tenant union
@@ -94,12 +96,14 @@ Burden of proof shifts to the landlord: if adverse action occurs within 12 month
 Tenants have the explicit right to form tenant unions, hold meetings in common areas, distribute literature, and collectively bargain with landlords over building conditions. Interference with tenant organizing is a violation with penalties.
 
 **6. Habitability Standards and Enforcement**
+
 - Detailed minimum habitability standards (heat, hot water, pest control, structural safety, mold remediation)
 - Tenants may withhold rent and deposit into escrow when landlord fails to address habitability violations within 14 days
 - City inspectors must respond to complaints within 72 hours
 - Repeat violators placed on public landlord watch list
 
 **7. Security Deposit Protections**
+
 - Deposits capped at one month's rent
 - Must be held in interest-bearing escrow account
 - Itemized deduction list required within 30 days of move-out
@@ -118,21 +122,23 @@ Landlords cannot categorically deny housing based on criminal history. Individua
 ## How We Pay For It
 
 **Right to Counsel Program:** $8-12M/year
+
 - Funded by: Eviction filing fee increase ($200 per filing, paid by landlord), portion of vacancy tax revenue, reallocation from emergency shelter spending (housing people is cheaper than sheltering them)
 - Cost savings: NYC's right to counsel program saves the city $320M/year in avoided shelter costs. Denver would see proportional savings.
 
 **Enforcement Office:** $2-3M/year
+
 - Funded by: Landlord registration fees, violation penalty revenue
 
 ### International Evidence: Tenant Protections Are Standard Elsewhere
 
-| Country | Model | Result |
-|---------|-------|--------|
-| **Germany** | Lifetime tenure by default; landlords can only terminate for narrow "just cause." *Mietervereine* (tenant associations) represent 3+ million members in housing disputes. Rent increases capped and regulated by local rent indexes (*Mietspiegel*). | One of the strongest tenant protection regimes in the world. Over 50% of Germans rent, and most consider it a stable, dignified way to live - not a stepping stone to ownership. |
-| **France** | Standard residential leases are 3 years minimum (6 years for corporate landlords). Winter eviction ban (November-March) - no one is put on the street in winter, period. Landlords must provide relocation assistance for any eviction. | Strong protections create housing stability. Tenants can plan their lives. The idea of a 30-day eviction would be considered barbaric. |
-| **Netherlands** | Rent tribunals (*Huurcommissie*) adjudicate disputes. Government sets maximum rents for most housing based on a points system. Tenants can challenge excessive rents retroactively. | Formal system ensures fairness. Tenants have real institutional backing beyond any individual landlord's goodwill. |
-| **Sweden** | Tenant unions (*Hyresgastforeningen*) collectively bargain rents with landlords on behalf of all tenants in a building or area. Over 500,000 members. Rents are negotiated, not dictated. | Collective bargaining for housing - tenants negotiate as a bloc. Keeps rents reasonable and gives tenants real power. |
-| **New York City, US** | Universal right to counsel enacted 2017. City-funded attorneys for all tenants in eviction court in covered zip codes. | Evictions dropped 30%+ in covered areas. 84% of tenants with counsel kept their homes. Program saves the city $320M/year in avoided shelter costs. |
+| Country               | Model                                                                                                                                                                                                                                                | Result                                                                                                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Germany**           | Lifetime tenure by default; landlords can only terminate for narrow "just cause." _Mietervereine_ (tenant associations) represent 3+ million members in housing disputes. Rent increases capped and regulated by local rent indexes (_Mietspiegel_). | One of the strongest tenant protection regimes in the world. Over 50% of Germans rent, and most consider it a stable, dignified way to live - not a stepping stone to ownership. |
+| **France**            | Standard residential leases are 3 years minimum (6 years for corporate landlords). Winter eviction ban (November-March) - no one is put on the street in winter, period. Landlords must provide relocation assistance for any eviction.              | Strong protections create housing stability. Tenants can plan their lives. The idea of a 30-day eviction would be considered barbaric.                                           |
+| **Netherlands**       | Rent tribunals (_Huurcommissie_) adjudicate disputes. Government sets maximum rents for most housing based on a points system. Tenants can challenge excessive rents retroactively.                                                                  | Formal system ensures fairness. Tenants have real institutional backing beyond any individual landlord's goodwill.                                                               |
+| **Sweden**            | Tenant unions (_Hyresgastforeningen_) collectively bargain rents with landlords on behalf of all tenants in a building or area. Over 500,000 members. Rents are negotiated, not dictated.                                                            | Collective bargaining for housing - tenants negotiate as a bloc. Keeps rents reasonable and gives tenants real power.                                                            |
+| **New York City, US** | Universal right to counsel enacted 2017. City-funded attorneys for all tenants in eviction court in covered zip codes.                                                                                                                               | Evictions dropped 30%+ in covered areas. 84% of tenants with counsel kept their homes. Program saves the city $320M/year in avoided shelter costs.                               |
 
 **The pattern is clear:** countries that treat tenants as rights-holders with institutional support have stable housing markets and lower homelessness. The US model of treating tenants as second-class citizens with minimal rights is the outlier, not the norm.
 

@@ -5,6 +5,7 @@
 This is the second comprehensive audit of the Denver For All communications strategy. The first review (mid-2025) identified critical gaps across a 25-policy platform: zero citations, no local Denver context, missing counter-arguments, and no audience-specific messaging. Since then, the platform has grown to **45 policies, 8 interactive tools, 6 federal grant templates, and a full outreach playbook**. The improvements have been substantial.
 
 **What's been fixed:**
+
 - Citations and references sections added across all 45 policies
 - "What Denver Currently Does" sections added to every policy
 - 10 of 12 originally flagged missing FAQs now addressed
@@ -16,6 +17,7 @@ This is the second comprehensive audit of the Denver For All communications stra
 - 6 grant proposal templates anchored to specific policies
 
 **What still needs work:**
+
 1. ~~Remaining FAQ gaps~~ **FIXED** — NIMBYism FAQ added to Social Housing, fire sale FAQ added to Corporate Landlord Ban, mortgage burden detail added to Rent Control
 2. Tool integration (tools are siloed; no cross-linking to policies or each other)
 3. ~~Outreach materials reference "25 policies"~~ **FIXED** — updated to 45 across LEGISLATION-READY, OUTREACH-PLAYBOOK
@@ -28,6 +30,7 @@ This is the second comprehensive audit of the Denver For All communications stra
 10. Candidate tracker expanded from 2 to 9 districts plus At-Large seats (D2, D6, D7, D8, D9, D10, D11, At-Large, At-Large Seat B)
 
 This review covers five areas:
+
 1. **Scorecard: original gaps and their current status**
 2. **New gaps introduced by platform expansion**
 3. **Tool and infrastructure communications gaps**
@@ -43,6 +46,7 @@ This review covers five areas:
 The original review's single biggest finding — zero citations across all policies — has been comprehensively addressed. Every policy now includes inline citations with source names and years. The majority (35+ of 45) include formal references sections at the bottom with 6-18 sources each.
 
 **Standout policies for citation quality:**
+
 - Drug Policy (11 references, dedicated section, Potier et al. systematic review cited)
 - Healthcare (11 references, nuances the Himmelstein bankruptcy claim per original recommendation)
 - Public Safety (40+ citations, 2026 Urban Institute evaluation data)
@@ -50,6 +54,7 @@ The original review's single biggest finding — zero citations across all polic
 - Pedestrian Infrastructure (16 references, January 2026 State of System Report)
 
 **Remaining citation concerns:**
+
 - Anti-Displacement Zones has incomplete references (file appears truncated — see Section 2.1)
 - Some policies have lighter references sections (Public Banking: 6 references; Youth Services: 6 references) compared to the platform average of 10+
 - International comparison claims still occasionally lack specific page numbers or dataset identifiers
@@ -64,35 +69,35 @@ All 45 policies now include year-stamped statistics. Data ranges primarily from 
 
 Every one of the 45 policies now includes a "What Denver Currently Does" section. The 8 specific programs flagged in the original review are all now acknowledged:
 
-| Policy | Existing Program | Status |
-|--------|-----------------|--------|
-| Community Land Trusts | Elevation CLT (est. 2003, ~300 homes) | Mentioned with scale and limitations |
-| Paid Leave | Colorado FAMLI (effective Jan 2024) | Detailed comparative table showing gaps |
-| Municipal Broadband | Denver Measure 2J (2018, 85% approval) | Framed as "why hasn't it been built?" per original recommendation |
-| Drug Policy | Proposition 301 (2019) + Prop 122 (2022) | Full context including 827 overdose deaths (2023) |
-| Public Safety | Office of Independent Monitor | Detailed with OIM limitations, STAR data, Flock contract |
-| Education | Colorado Universal Pre-K (CDEC) | Noted 15 hrs/week limitation, DPS crisis context |
-| Childcare | CCCAP | Coverage gaps and age-range gaps documented |
-| Climate | 80x50 Plan, Climate Protection Fund | $40M/year fund noted with progress assessment |
+| Policy                | Existing Program                         | Status                                                            |
+| --------------------- | ---------------------------------------- | ----------------------------------------------------------------- |
+| Community Land Trusts | Elevation CLT (est. 2003, ~300 homes)    | Mentioned with scale and limitations                              |
+| Paid Leave            | Colorado FAMLI (effective Jan 2024)      | Detailed comparative table showing gaps                           |
+| Municipal Broadband   | Denver Measure 2J (2018, 85% approval)   | Framed as "why hasn't it been built?" per original recommendation |
+| Drug Policy           | Proposition 301 (2019) + Prop 122 (2022) | Full context including 827 overdose deaths (2023)                 |
+| Public Safety         | Office of Independent Monitor            | Detailed with OIM limitations, STAR data, Flock contract          |
+| Education             | Colorado Universal Pre-K (CDEC)          | Noted 15 hrs/week limitation, DPS crisis context                  |
+| Childcare             | CCCAP                                    | Coverage gaps and age-range gaps documented                       |
+| Climate               | 80x50 Plan, Climate Protection Fund      | $40M/year fund noted with progress assessment                     |
 
 ### 1.4 Missing FAQ Counter-Arguments (ORIGINAL: Critical — CURRENT: Mostly Resolved)
 
 10 of 12 originally flagged missing FAQs have been addressed:
 
-| Policy | Missing FAQ (Original) | Status |
-|--------|----------------------|--------|
-| Drug Policy | "What about Oregon Measure 110?" | **FIXED** — FAQ #4 addresses Oregon directly ("only 10% of allocated funds spent on treatment") |
-| Immigration | "$100M+ migrant spending?" | **FIXED** — Addressed in "What Denver Currently Does" and FAQ with federal reimbursement framing |
-| Living Wage | "Border effects with Aurora/Lakewood?" | **FIXED** — FAQ #4 cites Dube et al. 2010 border study showing minimal cross-border effects |
-| Municipal Broadband | "Voters approved in 2018, what happened?" | **FIXED** — FAQ #4 directly addresses this; turned into offensive framing |
-| Vacancy Tax | "TABOR legality?" | **FIXED** — Addressed in main text ("voter approval required — this is not a barrier") |
-| Paid Leave | "Doesn't FAMLI cover this?" | **FIXED** — FAQ #4 explains Denver supplement rationale with comparative table |
-| Public Safety | "Current crime trends?" | **FIXED** — FAQ addresses with specific data (auto thefts down from 12,000 to 8,500) |
-| Participatory Budgeting | "Wealthy neighborhood dominance?" | **FIXED** — FAQ addresses with weighted allocation and outreach mandates |
-| Education | "Colorado already has Pre-K?" | **FIXED** — FAQ addresses 15 hrs/week limitation |
-| Rent Control | "Small landlords with mortgages?" | **PARTIAL** — FAQ #3 discusses small landlords but does not specifically address mortgage burden or refinancing cycles |
-| Social Housing | "Where will units go? NIMBYism?" | **MISSING** — FAQ addresses management capacity but not site selection or neighborhood opposition |
-| Corporate Landlord Ban | "Forced divestiture fire sale?" | **MISSING** — Solution mentions "fair market value" but no FAQ addresses the fire sale objection directly |
+| Policy                  | Missing FAQ (Original)                    | Status                                                                                                                 |
+| ----------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Drug Policy             | "What about Oregon Measure 110?"          | **FIXED** — FAQ #4 addresses Oregon directly ("only 10% of allocated funds spent on treatment")                        |
+| Immigration             | "$100M+ migrant spending?"                | **FIXED** — Addressed in "What Denver Currently Does" and FAQ with federal reimbursement framing                       |
+| Living Wage             | "Border effects with Aurora/Lakewood?"    | **FIXED** — FAQ #4 cites Dube et al. 2010 border study showing minimal cross-border effects                            |
+| Municipal Broadband     | "Voters approved in 2018, what happened?" | **FIXED** — FAQ #4 directly addresses this; turned into offensive framing                                              |
+| Vacancy Tax             | "TABOR legality?"                         | **FIXED** — Addressed in main text ("voter approval required — this is not a barrier")                                 |
+| Paid Leave              | "Doesn't FAMLI cover this?"               | **FIXED** — FAQ #4 explains Denver supplement rationale with comparative table                                         |
+| Public Safety           | "Current crime trends?"                   | **FIXED** — FAQ addresses with specific data (auto thefts down from 12,000 to 8,500)                                   |
+| Participatory Budgeting | "Wealthy neighborhood dominance?"         | **FIXED** — FAQ addresses with weighted allocation and outreach mandates                                               |
+| Education               | "Colorado already has Pre-K?"             | **FIXED** — FAQ addresses 15 hrs/week limitation                                                                       |
+| Rent Control            | "Small landlords with mortgages?"         | **PARTIAL** — FAQ #3 discusses small landlords but does not specifically address mortgage burden or refinancing cycles |
+| Social Housing          | "Where will units go? NIMBYism?"          | **MISSING** — FAQ addresses management capacity but not site selection or neighborhood opposition                      |
+| Corporate Landlord Ban  | "Forced divestiture fire sale?"           | **MISSING** — Solution mentions "fair market value" but no FAQ addresses the fire sale objection directly              |
 
 ### 1.5 Stakeholder / Opposition Analysis (ORIGINAL: Missing — CURRENT: Partially Resolved)
 
@@ -106,13 +111,13 @@ Many of the newer policies include "Who Opposes This (and Why)" sections that na
 
 The Legislation-Ready analysis document addresses legal pathways systematically (Tier 1-4 framework). Individual policies now address their primary legal constraints:
 
-| Policy | Legal Issue | Status |
-|--------|------------|--------|
-| Vacancy Tax | TABOR voter approval | Addressed in policy text |
-| Rent Control | CRS 38-12-301 preemption | Addressed with full legislative history table (2019-2026) |
-| Works Councils | NLRA preemption | FAQ addresses; proposes city employee / contractor scope |
-| Sectoral Bargaining | NLRA preemption | FAQ #4 addresses directly; proposes voluntary + incentive model |
-| Corporate Landlord Ban | Takings clause | Addressed in FAQ (legality question) but fire sale mechanics still missing |
+| Policy                 | Legal Issue              | Status                                                                     |
+| ---------------------- | ------------------------ | -------------------------------------------------------------------------- |
+| Vacancy Tax            | TABOR voter approval     | Addressed in policy text                                                   |
+| Rent Control           | CRS 38-12-301 preemption | Addressed with full legislative history table (2019-2026)                  |
+| Works Councils         | NLRA preemption          | FAQ addresses; proposes city employee / contractor scope                   |
+| Sectoral Bargaining    | NLRA preemption          | FAQ #4 addresses directly; proposes voluntary + incentive model            |
+| Corporate Landlord Ban | Takings clause           | Addressed in FAQ (legality question) but fire sale mechanics still missing |
 
 ### 1.7 Named Political Actors (ORIGINAL: Missing — CURRENT: Partially Resolved)
 
@@ -137,6 +142,7 @@ The platform has grown from 25 to 45 policies since the original review. This ex
 ### 2.1 Anti-Displacement Zones Policy is Incomplete
 
 The anti-displacement policy file appears truncated at ~72 lines, cutting off mid-FAQ. It is missing:
+
 - Complete FAQ section (only 2 items vs. platform average of 4-5)
 - References section
 - International evidence table
@@ -148,12 +154,12 @@ The anti-displacement policy file appears truncated at ~72 lines, cutting off mi
 
 While most of the 45 policies are substantive (150-250 lines with 8-18 references), several are noticeably lighter:
 
-| Policy | Lines | References | FAQ Items | Concern |
-|--------|-------|------------|-----------|---------|
-| Anti-Displacement | ~72 | 0 | 2 | Incomplete file |
-| Community Land Trusts | ~77 | Limited | 2 | Light for a flagship housing policy |
-| Public Banking | ~101 | 6 | 5 | Missing regulatory pathway detail |
-| Gig Worker Protections | ~103 | 8 | 2 | Only 2 FAQs |
+| Policy                 | Lines | References | FAQ Items | Concern                             |
+| ---------------------- | ----- | ---------- | --------- | ----------------------------------- |
+| Anti-Displacement      | ~72   | 0          | 2         | Incomplete file                     |
+| Community Land Trusts  | ~77   | Limited    | 2         | Light for a flagship housing policy |
+| Public Banking         | ~101  | 6          | 5         | Missing regulatory pathway detail   |
+| Gig Worker Protections | ~103  | 8          | 2         | Only 2 FAQs                         |
 
 Community Land Trusts is especially notable — it is a core housing policy that should be as robust as Social Housing or Rent Control.
 
@@ -188,16 +194,16 @@ The platform now includes 8 interactive tools — a major asset that did not exi
 
 Each tool operates independently with minimal cross-linking:
 
-| Tool | Links to Policy Page? | Links to Other Tools? |
-|------|----------------------|----------------------|
-| Eviction Tracker | Yes (Housing First) | No |
-| Rent Calculator | No | No |
-| Follow the Money | Yes (Government Transparency) | No |
-| Know Your Rights (AI Chatbot) | No | No |
-| Council Candidate Tracker | References platform issues | No |
-| Mayoral Tracker | References platform issues | No |
-| Resistbot Campaigns | Yes (Public Safety) | No |
-| Sidewalk Data Explorer | Yes (Pedestrian Infrastructure) | No |
+| Tool                          | Links to Policy Page?           | Links to Other Tools? |
+| ----------------------------- | ------------------------------- | --------------------- |
+| Eviction Tracker              | Yes (Housing First)             | No                    |
+| Rent Calculator               | No                              | No                    |
+| Follow the Money              | Yes (Government Transparency)   | No                    |
+| Know Your Rights (AI Chatbot) | No                              | No                    |
+| Council Candidate Tracker     | References platform issues      | No                    |
+| Mayoral Tracker               | References platform issues      | No                    |
+| Resistbot Campaigns           | Yes (Public Safety)             | No                    |
+| Sidewalk Data Explorer        | Yes (Pedestrian Infrastructure) | No                    |
 
 **Only 5 of 8 tools link to their corresponding policy page.** Zero tools link to other tools. A user who finds the Eviction Tracker never discovers the Know Your Rights chatbot. A user of the Rent Calculator never sees the rent stabilization policy it's based on.
 
@@ -244,14 +250,14 @@ The 6 federal grant templates are excellent — each properly references its cor
 
 All outreach materials reference the original 25-policy platform:
 
-| Document | Stale Reference | Current Reality |
-|----------|----------------|-----------------|
-| OUTREACH-PLAYBOOK.md | "40+ proposals" (Section 4 Reddit post) | 45 policies |
-| OUTREACH-PLAYBOOK.md | References "25 policies" implicitly throughout | 45 policies + 8 tools |
-| REDDIT-COMMENTS.md | No policy count mentioned | Should reference 45 |
-| LEGISLATION-READY.md | "Which of our 25 proposals..." (line 3) | 45 proposals; Tier analysis covers only ~18 |
-| About page | "We develop detailed, data-driven policy proposals" (no count) | Should state "45 policies" |
-| Take-Action page | Lists 11 actions; no tool/policy count | Should reference "45 policies and 8 tools" |
+| Document             | Stale Reference                                                | Current Reality                             |
+| -------------------- | -------------------------------------------------------------- | ------------------------------------------- |
+| OUTREACH-PLAYBOOK.md | "40+ proposals" (Section 4 Reddit post)                        | 45 policies                                 |
+| OUTREACH-PLAYBOOK.md | References "25 policies" implicitly throughout                 | 45 policies + 8 tools                       |
+| REDDIT-COMMENTS.md   | No policy count mentioned                                      | Should reference 45                         |
+| LEGISLATION-READY.md | "Which of our 25 proposals..." (line 3)                        | 45 proposals; Tier analysis covers only ~18 |
+| About page           | "We develop detailed, data-driven policy proposals" (no count) | Should state "45 policies"                  |
+| Take-Action page     | Lists 11 actions; no tool/policy count                         | Should reference "45 policies and 8 tools"  |
 
 ### 4.2 Legislation-Ready Needs Expansion
 
@@ -285,6 +291,7 @@ Several messaging gaps from the original review remain partially or fully unreso
 The platform still has a single tone across all 45 policies: morally clear, data-forward, somewhat academic. The outreach playbook provides channel-specific adaptations (Facebook vs. Reddit vs. Nextdoor) but not audience-specific message frames.
 
 No policy has:
+
 - A "moderate voter" version emphasizing fiscal responsibility and feasibility
 - A "working-class voter" version emphasizing personal dollar-amount savings
 - A "small business owner" version emphasizing competitive advantages
@@ -342,19 +349,19 @@ The outreach materials (REDDIT-COMMENTS.md, OUTREACH-PLAYBOOK.md) now contain st
 
 ### Citation & Evidence Quality
 
-| Rating | Count | Policies |
-|--------|-------|----------|
-| Excellent (10+ refs, dedicated section) | ~20 | Drug Policy, Healthcare, Public Safety, Gov Transparency, Pedestrian Infrastructure, Transportation, Living Wage, Municipal Broadband, Autonomous Vehicles, Fiscal Reform, Arts & Culture, Parks & Recreation, and others |
-| Good (6-9 refs, inline + section) | ~20 | Most remaining policies |
-| Light (<6 refs or no dedicated section) | ~5 | Anti-Displacement (incomplete), Community Land Trusts, Public Banking, Gig Worker Protections, Youth Services |
+| Rating                                  | Count | Policies                                                                                                                                                                                                                  |
+| --------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Excellent (10+ refs, dedicated section) | ~20   | Drug Policy, Healthcare, Public Safety, Gov Transparency, Pedestrian Infrastructure, Transportation, Living Wage, Municipal Broadband, Autonomous Vehicles, Fiscal Reform, Arts & Culture, Parks & Recreation, and others |
+| Good (6-9 refs, inline + section)       | ~20   | Most remaining policies                                                                                                                                                                                                   |
+| Light (<6 refs or no dedicated section) | ~5    | Anti-Displacement (incomplete), Community Land Trusts, Public Banking, Gig Worker Protections, Youth Services                                                                                                             |
 
 ### FAQ Coverage
 
-| Rating | Count | Policies |
-|--------|-------|----------|
-| Strong (5+ FAQs) | ~15 | Aging/Accessibility, Disability Rights, Fiscal Reform, Transportation, Water Security, Youth Services, and others |
-| Standard (4 FAQs) | ~22 | Most policies |
-| Light (2-3 FAQs) | ~8 | Anti-Displacement (2), Community Land Trusts (2), Gig Worker Protections (2), One Fair Wage (3), Vacancy Tax (3), Tenant Rights (3), and others |
+| Rating            | Count | Policies                                                                                                                                        |
+| ----------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Strong (5+ FAQs)  | ~15   | Aging/Accessibility, Disability Rights, Fiscal Reform, Transportation, Water Security, Youth Services, and others                               |
+| Standard (4 FAQs) | ~22   | Most policies                                                                                                                                   |
+| Light (2-3 FAQs)  | ~8    | Anti-Displacement (2), Community Land Trusts (2), Gig Worker Protections (2), One Fair Wage (3), Vacancy Tax (3), Tenant Rights (3), and others |
 
 ### "What Denver Currently Does" Quality
 

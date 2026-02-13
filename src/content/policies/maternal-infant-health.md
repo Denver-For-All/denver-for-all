@@ -1,41 +1,41 @@
 ---
-title: "Maternal & Infant Health Equity"
-titleEs: "Equidad en Salud Materna e Infantil"
-summary: "End racial disparities in birth outcomes. Community doulas for every Medicaid birth. NICU family support and financial navigation. Anti-racism accountability in hospitals. Home visiting in every neighborhood. No parent should face racist harassment while their child fights for their life."
-summaryEs: "Acabar con las disparidades raciales en los resultados de nacimiento. Doulas comunitarias para cada parto de Medicaid. Apoyo familiar en UCIN y navegación financiera. Responsabilidad antirracista en hospitales. Visitas domiciliarias en cada vecindario. Ningún padre debería enfrentar acoso racista mientras su hijo lucha por su vida."
-category: "health"
-icon: "baby"
+title: 'Maternal & Infant Health Equity'
+titleEs: 'Equidad en Salud Materna e Infantil'
+summary: 'End racial disparities in birth outcomes. Community doulas for every Medicaid birth. NICU family support and financial navigation. Anti-racism accountability in hospitals. Home visiting in every neighborhood. No parent should face racist harassment while their child fights for their life.'
+summaryEs: 'Acabar con las disparidades raciales en los resultados de nacimiento. Doulas comunitarias para cada parto de Medicaid. Apoyo familiar en UCIN y navegación financiera. Responsabilidad antirracista en hospitales. Visitas domiciliarias en cada vecindario. Ningún padre debería enfrentar acoso racista mientras su hijo lucha por su vida.'
+category: 'health'
+icon: 'baby'
 order: 23
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "2-3x"
-    label: "severe morbidity rate for Black birthing people"
-    labelEs: "tasa de morbilidad severa para personas negras en parto"
-    context: "Not explained by income or insurance. Explained by racism in care delivery."
-    contextEs: "No se explica por ingresos ni seguro. Se explica por racismo en la atencion."
-    source: "Colorado Maternal Mortality Review Committee, 2023"
-    theme: "danger"
-  - value: "39%"
-    label: "fewer C-sections with doula support"
-    labelEs: "menos cesareas con apoyo de doula"
-    context: "Largest benefits for Black and Latina birthing people"
-    contextEs: "Mayores beneficios para personas negras y latinas en parto"
-    source: "Cochrane Review, Bohren et al., 2017"
-    theme: "primary"
-  - value: "1.8 vs 5.6"
-    label: "infant deaths per 1,000 — Finland vs US"
-    labelEs: "muertes infantiles por 1,000 — Finlandia vs EE.UU."
-    context: "The US has the highest infant mortality among wealthy nations"
-    contextEs: "EE.UU. tiene la mayor mortalidad infantil entre naciones ricas"
-    source: "CDC WONDER, 2023"
-    theme: "secondary"
+  - value: '2-3x'
+    label: 'severe morbidity rate for Black birthing people'
+    labelEs: 'tasa de morbilidad severa para personas negras en parto'
+    context: 'Not explained by income or insurance. Explained by racism in care delivery.'
+    contextEs: 'No se explica por ingresos ni seguro. Se explica por racismo en la atencion.'
+    source: 'Colorado Maternal Mortality Review Committee, 2023'
+    theme: 'danger'
+  - value: '39%'
+    label: 'fewer C-sections with doula support'
+    labelEs: 'menos cesareas con apoyo de doula'
+    context: 'Largest benefits for Black and Latina birthing people'
+    contextEs: 'Mayores beneficios para personas negras y latinas en parto'
+    source: 'Cochrane Review, Bohren et al., 2017'
+    theme: 'primary'
+  - value: '1.8 vs 5.6'
+    label: 'infant deaths per 1,000 — Finland vs US'
+    labelEs: 'muertes infantiles por 1,000 — Finlandia vs EE.UU.'
+    context: 'The US has the highest infant mortality among wealthy nations'
+    contextEs: 'EE.UU. tiene la mayor mortalidad infantil entre naciones ricas'
+    source: 'CDC WONDER, 2023'
+    theme: 'secondary'
 relatedLegislation:
-  - billNumber: "HB26-1044"
-    title: "Measures to Improve Black Maternal Health Equity"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/hb26-1044"
+  - billNumber: 'HB26-1044'
+    title: 'Measures to Improve Black Maternal Health Equity'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/hb26-1044'
 ---
 
 ## The Problem
@@ -132,14 +132,14 @@ You cannot fix what you do not measure. Denver does not publicly report birth ou
 
 ### International Evidence: Better Systems Exist
 
-| Country | Model | Result |
-|---------|-------|--------|
-| **Finland** | Universal maternity package (baby box) for every newborn. Free prenatal care through municipal health clinics. Midwife-led care as default. Universal postpartum home visit within days of birth. | Infant mortality: **1.8 per 1,000** (vs. 5.6 in US). Maternal mortality among lowest in the world. Near-zero racial disparity in birth outcomes because universal systems reach everyone. |
-| **Netherlands** | Midwife-led care for all low-risk pregnancies. Kraamzorg: 8-10 days of in-home postpartum care by a trained maternity aide — covered by insurance for every birth. Home birth rate ~13%. | Maternal satisfaction among highest globally. C-section rate 17% (vs. 32% in US). Postpartum depression rates lower. System costs far less per birth than the US model. |
-| **United Kingdom** | NHS midwifery continuity of carer: same midwife throughout pregnancy, birth, and postpartum. MBRRACE-UK system publicly reports maternal and infant mortality by hospital, race, and deprivation. | Continuity of carer reduces preterm birth by **24%** for Black women (Sandall et al., Lancet, 2016). Public reporting drives accountability and improvement. Still has disparities but measures and acts on them. |
-| **New Zealand** | Lead Maternity Carer model: every birthing person chooses a midwife (fully funded) who provides continuity from early pregnancy through 6 weeks postpartum. Universal well-child visits (Tamariki Ora) from birth through age 5. | Midwife-led births have lower intervention rates and higher satisfaction. Well-child program reaches 90%+ of families. System designed around relationship, not transactions. |
-| **Brazil** | Rede Cegonha (Stork Network): federal program guaranteeing prenatal care, safe childbirth, postpartum support, and child health services. Community health workers (agentes comunitários) provide home visits in every municipality. | Maternal mortality reduced by **50%+** in participating regions. 260,000 community health workers reaching 120 million people. Dramatic improvement in birth outcomes for poorest populations. |
-| **USA** | Market-based. Fragmented. OB-led. 6-week postpartum gap. No universal home visiting. No postpartum care aide. Highest spending per birth of any country. | **Highest maternal mortality among wealthy nations.** Widest racial disparities. Highest C-section rate. Highest NICU costs. Only wealthy country where maternal mortality is rising. |
+| Country            | Model                                                                                                                                                                                                                                | Result                                                                                                                                                                                                            |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finland**        | Universal maternity package (baby box) for every newborn. Free prenatal care through municipal health clinics. Midwife-led care as default. Universal postpartum home visit within days of birth.                                    | Infant mortality: **1.8 per 1,000** (vs. 5.6 in US). Maternal mortality among lowest in the world. Near-zero racial disparity in birth outcomes because universal systems reach everyone.                         |
+| **Netherlands**    | Midwife-led care for all low-risk pregnancies. Kraamzorg: 8-10 days of in-home postpartum care by a trained maternity aide — covered by insurance for every birth. Home birth rate ~13%.                                             | Maternal satisfaction among highest globally. C-section rate 17% (vs. 32% in US). Postpartum depression rates lower. System costs far less per birth than the US model.                                           |
+| **United Kingdom** | NHS midwifery continuity of carer: same midwife throughout pregnancy, birth, and postpartum. MBRRACE-UK system publicly reports maternal and infant mortality by hospital, race, and deprivation.                                    | Continuity of carer reduces preterm birth by **24%** for Black women (Sandall et al., Lancet, 2016). Public reporting drives accountability and improvement. Still has disparities but measures and acts on them. |
+| **New Zealand**    | Lead Maternity Carer model: every birthing person chooses a midwife (fully funded) who provides continuity from early pregnancy through 6 weeks postpartum. Universal well-child visits (Tamariki Ora) from birth through age 5.     | Midwife-led births have lower intervention rates and higher satisfaction. Well-child program reaches 90%+ of families. System designed around relationship, not transactions.                                     |
+| **Brazil**         | Rede Cegonha (Stork Network): federal program guaranteeing prenatal care, safe childbirth, postpartum support, and child health services. Community health workers (agentes comunitários) provide home visits in every municipality. | Maternal mortality reduced by **50%+** in participating regions. 260,000 community health workers reaching 120 million people. Dramatic improvement in birth outcomes for poorest populations.                    |
+| **USA**            | Market-based. Fragmented. OB-led. 6-week postpartum gap. No universal home visiting. No postpartum care aide. Highest spending per birth of any country.                                                                             | **Highest maternal mortality among wealthy nations.** Widest racial disparities. Highest C-section rate. Highest NICU costs. Only wealthy country where maternal mortality is rising.                             |
 
 Every country on this list spends less per birth than the United States and gets better outcomes. The common elements: midwifery as standard care, universal home visiting, postpartum support that lasts months (not one visit at 6 weeks), and public reporting that drives accountability. None of this is experimental. It is standard care in most of the world. Denver can't implement a national maternity system, but Denver can fund doulas, expand midwifery, guarantee home visits, support NICU families, and hold hospitals accountable for racial equity in birth outcomes.
 

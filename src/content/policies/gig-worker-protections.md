@@ -1,35 +1,35 @@
 ---
-title: "Gig Worker Protections"
-titleEs: "Protecciones para Trabajadores de Plataformas"
+title: 'Gig Worker Protections'
+titleEs: 'Protecciones para Trabajadores de Plataformas'
 summary: "If you work in Denver, you deserve Denver's protections. Reclassify gig workers as employees with the ABC test. End the exploitation loophole."
-summaryEs: "Si trabajas en Denver, mereces las protecciones de Denver. Reclasificar a los trabajadores de plataformas como empleados con la prueba ABC. Terminar con la laguna de explotación."
-category: "labor"
-icon: "smartphone"
+summaryEs: 'Si trabajas en Denver, mereces las protecciones de Denver. Reclasificar a los trabajadores de plataformas como empleados con la prueba ABC. Terminar con la laguna de explotación.'
+category: 'labor'
+icon: 'smartphone'
 order: 12
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: false
 keyStats:
-  - value: "$200M"
-    label: "platforms spent to keep workers as contractors"
-    labelEs: "las plataformas gastaron para mantener a trabajadores como contratistas"
+  - value: '$200M'
+    label: 'platforms spent to keep workers as contractors'
+    labelEs: 'las plataformas gastaron para mantener a trabajadores como contratistas'
     context: "Uber, Lyft, and DoorDash spent $200M on California's Prop 22 alone"
-    contextEs: "Uber, Lyft y DoorDash gastaron $200M solo en la Proposicion 22 de California"
-    theme: "danger"
-  - value: "50,000"
-    label: "Denver gig workers without basic protections"
-    labelEs: "trabajadores de plataformas en Denver sin protecciones basicas"
-    context: "No healthcare, no paid sick leave, no unemployment insurance, no recourse"
-    contextEs: "Sin seguro medico, sin licencia por enfermedad, sin seguro de desempleo"
-    source: "McKinsey Global Institute, 2022"
-    theme: "accent"
-  - value: "28 million"
-    label: "EU platform workers gaining employee rights"
-    labelEs: "trabajadores de plataformas en la UE ganando derechos laborales"
-    context: "The EU Platform Work Directive (2024) creates employment presumption continent-wide"
-    contextEs: "La Directiva de Trabajo en Plataformas de la UE (2024) crea presuncion de empleo"
-    source: "European Commission, 2021"
-    theme: "primary"
+    contextEs: 'Uber, Lyft y DoorDash gastaron $200M solo en la Proposicion 22 de California'
+    theme: 'danger'
+  - value: '50,000'
+    label: 'Denver gig workers without basic protections'
+    labelEs: 'trabajadores de plataformas en Denver sin protecciones basicas'
+    context: 'No healthcare, no paid sick leave, no unemployment insurance, no recourse'
+    contextEs: 'Sin seguro medico, sin licencia por enfermedad, sin seguro de desempleo'
+    source: 'McKinsey Global Institute, 2022'
+    theme: 'accent'
+  - value: '28 million'
+    label: 'EU platform workers gaining employee rights'
+    labelEs: 'trabajadores de plataformas en la UE ganando derechos laborales'
+    context: 'The EU Platform Work Directive (2024) creates employment presumption continent-wide'
+    contextEs: 'La Directiva de Trabajo en Plataformas de la UE (2024) crea presuncion de empleo'
+    source: 'European Commission, 2021'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -52,6 +52,7 @@ Nationally, there are an estimated 55-60 million gig workers (McKinsey Global In
 
 **1. ABC Test for Employment Classification**
 A worker is presumed to be an employee unless the hiring entity proves ALL three:
+
 - (A) The worker is free from control and direction in performing the work
 - (B) The work is outside the usual course of the hiring entity's business
 - (C) The worker is customarily engaged in an independently established trade of the same nature
@@ -62,6 +63,7 @@ Gig platform workers fail all three prongs - they are employees. This means they
 While classification challenges proceed through courts, immediate floor: gig workers must earn at least $25/hr (Denver minimum) for all active time, including time spent waiting for orders/rides. Expenses (mileage, vehicle wear, phone data) are reimbursed on top.
 
 **3. Deactivation Protections**
+
 - Written explanation required for any deactivation
 - Right to appeal to an independent review board
 - No deactivation based solely on algorithmic ratings
@@ -69,6 +71,7 @@ While classification challenges proceed through courts, immediate floor: gig wor
 
 **4. Data Transparency**
 Platforms must provide workers with:
+
 - Full breakdown of how pay is calculated for each job
 - Data on all jobs offered and completed
 - Algorithmic factors affecting job offers and deactivation
@@ -76,6 +79,7 @@ Platforms must provide workers with:
 
 **5. Portable Benefits**
 Create a Denver Gig Worker Benefits Fund:
+
 - Platforms contribute per-hour-worked into the fund
 - Workers accrue benefits (health, retirement, PTO) across multiple platforms
 - Benefits are portable - they follow the worker, not the platform
@@ -86,14 +90,14 @@ Platforms pay. The entire gig economy business model is built on externalizing l
 
 ### International Evidence: Gig Worker Protections
 
-| Country | Model | Result |
-|---------|-------|--------|
-| **Spain** | *Ley Rider* (2021) - presumes all platform delivery workers are employees. Companies must disclose algorithms that affect working conditions. | Riders reclassified as employees with full labor rights. Platforms adapted their business models. Deliveries still arrive on time. |
-| **United Kingdom** | Supreme Court ruled Uber drivers are "workers" (not independent contractors) entitled to minimum wage, holiday pay, and pension contributions. | Uber reclassified 70,000+ UK drivers as workers. Company is still operating and profitable. Workers earn more and have protections. |
-| **France** | Platform workers have right to disconnect, accident insurance, and training. Recent court rulings have reclassified multiple platforms' workers as employees. | Incremental protections expanding. Courts consistently ruling that platform control = employment relationship. |
-| **Netherlands** | Proposed legislation to presume employment relationship for platform workers. Uber and Deliveroo drivers ruled employees by courts. | Deliveroo exited the Dutch market rather than comply - and was immediately replaced by platforms willing to treat workers fairly. |
-| **California, US** | AB5 (2019) codified ABC test for worker classification. Platforms spent $200M on Prop 22 to exempt themselves, but courts struck portions of Prop 22 as unconstitutional. | Despite corporate pushback, the principle that platform workers are employees continues to gain ground in courts and legislatures. |
-| **European Union** | Platform Work Directive (2024) - EU-wide rules creating presumption of employment for platform workers. Algorithmic management transparency requirements. | 28 million platform workers across the EU gaining employment protections (European Commission Impact Assessment, 2021). The global consensus is moving toward classification as employees. |
+| Country            | Model                                                                                                                                                                     | Result                                                                                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Spain**          | _Ley Rider_ (2021) - presumes all platform delivery workers are employees. Companies must disclose algorithms that affect working conditions.                             | Riders reclassified as employees with full labor rights. Platforms adapted their business models. Deliveries still arrive on time.                                                         |
+| **United Kingdom** | Supreme Court ruled Uber drivers are "workers" (not independent contractors) entitled to minimum wage, holiday pay, and pension contributions.                            | Uber reclassified 70,000+ UK drivers as workers. Company is still operating and profitable. Workers earn more and have protections.                                                        |
+| **France**         | Platform workers have right to disconnect, accident insurance, and training. Recent court rulings have reclassified multiple platforms' workers as employees.             | Incremental protections expanding. Courts consistently ruling that platform control = employment relationship.                                                                             |
+| **Netherlands**    | Proposed legislation to presume employment relationship for platform workers. Uber and Deliveroo drivers ruled employees by courts.                                       | Deliveroo exited the Dutch market rather than comply - and was immediately replaced by platforms willing to treat workers fairly.                                                          |
+| **California, US** | AB5 (2019) codified ABC test for worker classification. Platforms spent $200M on Prop 22 to exempt themselves, but courts struck portions of Prop 22 as unconstitutional. | Despite corporate pushback, the principle that platform workers are employees continues to gain ground in courts and legislatures.                                                         |
+| **European Union** | Platform Work Directive (2024) - EU-wide rules creating presumption of employment for platform workers. Algorithmic management transparency requirements.                 | 28 million platform workers across the EU gaining employment protections (European Commission Impact Assessment, 2021). The global consensus is moving toward classification as employees. |
 
 **The global direction is clear:** the EU, UK, and multiple major economies are moving toward recognizing gig workers as employees. The US is the holdout, and even here, California, New York, and multiple cities are leading the way. Denver should be next.
 
@@ -115,9 +119,9 @@ Denver's ordinance applies to work performed within Denver city limits. For ride
 
 ## References
 
-- Colorado SB 22-161, *Transportation Network Company (TNC) Minimum Pay*, 2022
+- Colorado SB 22-161, _Transportation Network Company (TNC) Minimum Pay_, 2022
 - California Assembly Bill 5 (AB5), 2019
-- European Parliament, *Platform Work Directive*, 2024
-- UK Supreme Court, *Uber BV v. Aslam* [2021] UKSC 5
-- Spain, *Ley Rider* (Royal Decree-Law 9/2021)
-- McKinsey Global Institute, *Independent Work: Choice, Necessity, and the Gig Economy*, 2022 update
+- European Parliament, _Platform Work Directive_, 2024
+- UK Supreme Court, _Uber BV v. Aslam_ [2021] UKSC 5
+- Spain, _Ley Rider_ (Royal Decree-Law 9/2021)
+- McKinsey Global Institute, _Independent Work: Choice, Necessity, and the Gig Economy_, 2022 update

@@ -1,6 +1,6 @@
 # DenverForAll.org — Transparency & Accountability Statement
 
-*For use on the website, donation pages, and outreach materials.*
+_For use on the website, donation pages, and outreach materials._
 
 ---
 
@@ -14,14 +14,14 @@ We are an unincorporated group of developers and researchers. **100% of your con
 
 **What your donations fund:**
 
-| Expense | What It Does |
-|---------|--------------|
-| **AI Research & Analysis** | Claude API tokens powering evidence-based policy research, data analysis, and civic tool development |
-| **Resistbot Amplification** | Petition campaign promotion driving grassroots engagement with elected officials |
-| **Data Visualizations** | Better charts, maps, and interactive dashboards for eviction data, campaign finance, and sidewalk safety |
-| **Tenant Rights Chatbot** | 24/7 English/Spanish voice AI tenant assistance line |
-| **Hosting & Infrastructure** | Database, servers, and storage keeping 8 civic tools and 47 policy proposals online |
-| **Bilingual Access** | Spanish translations ensuring 30% of Denver's population can engage with our research |
+| Expense                      | What It Does                                                                                             |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **AI Research & Analysis**   | Claude API tokens powering evidence-based policy research, data analysis, and civic tool development     |
+| **Resistbot Amplification**  | Petition campaign promotion driving grassroots engagement with elected officials                         |
+| **Data Visualizations**      | Better charts, maps, and interactive dashboards for eviction data, campaign finance, and sidewalk safety |
+| **Tenant Rights Chatbot**    | 24/7 English/Spanish voice AI tenant assistance line                                                     |
+| **Hosting & Infrastructure** | Database, servers, and storage keeping 8 civic tools and 47 policy proposals online                      |
+| **Bilingual Access**         | Spanish translations ensuring 30% of Denver's population can engage with our research                    |
 
 **What your donations do NOT fund:**
 
@@ -38,6 +38,7 @@ This isn't a quarterly report or an annual filing. It's a live, transparent reco
 ### Open Source
 
 Our entire platform is open source:
+
 - **Policy research:** All 47 proposals are public and free to use, adapt, or republish
 - **Code:** Our tools and website source code are publicly available
 - **Grant templates:** 6 federal grant templates are available for any council member, city staff, or advocate to use
@@ -59,6 +60,7 @@ Our work is **issue advocacy and civic education**:
 ### Contact
 
 Questions about our finances, operations, or transparency practices:
+
 - **Email:** info@denverforall.org
 - **Open Collective:** [opencollective.com/denver-for-all](https://opencollective.com/denver-for-all)
 - **Website:** [denverforall.org](https://denverforall.org)

@@ -1,14 +1,14 @@
 ---
-title: "BEAD Program — Denver Municipal Fiber Broadband Network"
-titleEs: "Programa BEAD — Red Municipal de Fibra Óptica de Denver"
+title: 'BEAD Program — Denver Municipal Fiber Broadband Network'
+titleEs: 'Programa BEAD — Red Municipal de Fibra Óptica de Denver'
 summary: "NTIA Broadband Equity, Access, and Deployment (BEAD) program grant template for building Denver's city-owned fiber network to deliver affordable gigabit internet to underserved neighborhoods."
-summaryEs: "Plantilla de subvención del programa de Equidad, Acceso y Despliegue de Banda Ancha (BEAD) de la NTIA para construir la red de fibra propiedad de la ciudad de Denver y ofrecer internet gigabit asequible a vecindarios desatendidos."
-policySlug: "municipal-broadband"
-grantProgram: "Broadband Equity, Access, and Deployment (BEAD) Program"
-fundingAgency: "National Telecommunications and Information Administration (NTIA)"
-estimatedAmount: "$20-40M (Denver share of Colorado BEAD allocation)"
-deadline: "Administered through Colorado Broadband Office (state subgrant timeline varies)"
-status: "draft"
+summaryEs: 'Plantilla de subvención del programa de Equidad, Acceso y Despliegue de Banda Ancha (BEAD) de la NTIA para construir la red de fibra propiedad de la ciudad de Denver y ofrecer internet gigabit asequible a vecindarios desatendidos.'
+policySlug: 'municipal-broadband'
+grantProgram: 'Broadband Equity, Access, and Deployment (BEAD) Program'
+fundingAgency: 'National Telecommunications and Information Administration (NTIA)'
+estimatedAmount: '$20-40M (Denver share of Colorado BEAD allocation)'
+deadline: 'Administered through Colorado Broadband Office (state subgrant timeline varies)'
+status: 'draft'
 ---
 
 ## Project Narrative
@@ -32,6 +32,7 @@ status: "draft"
 **Project Area:** City and County of Denver, Colorado (population ~715,000)
 
 **Priority Neighborhoods (ranked by broadband underservice, poverty rate, and digital redlining indicators):**
+
 - Montbello
 - East Colfax
 - Elyria-Swansea
@@ -56,6 +57,7 @@ status: "draft"
 Denver's broadband market demonstrates the failures of an uncompetitive duopoly and the urgent need for a publicly owned alternative:
 
 **Market Failure and Pricing:**
+
 - Comcast and CenturyLink operate as an effective duopoly across Denver, with most residents having at most two wired broadband options and many having only one
 - Monthly costs range from $80-120/month for broadband service, with prices rising annually
 - Advertised speeds routinely exceed actual delivered speeds, particularly during peak hours
@@ -63,17 +65,20 @@ Denver's broadband market demonstrates the failures of an uncompetitive duopoly 
 - Denver residents pay among the highest broadband prices in the state for inconsistent service quality
 
 **Digital Redlining and Equity:**
+
 - Low-income neighborhoods and communities of color receive systematically worse broadband infrastructure investment from incumbent providers
 - CenturyLink legacy DSL areas — concentrated in lower-income neighborhoods — deliver speeds well below the 100/20 Mbps underserved threshold
 - Residents in underserved neighborhoods lack meaningful competitive alternatives
 - The digital divide directly compounds educational, economic, and healthcare disparities
 
 **Voter Mandate Without Execution:**
+
 - In November 2018, Denver voters passed Measure 2J with 85% approval, authorizing the city to build and operate a municipal broadband network
 - Seven years after voter authorization, no municipal network has been built
 - The democratic mandate of 85% of Denver voters remains unfulfilled
 
 **Proven Municipal Broadband Model:**
+
 - Longmont NextLight, just 30 miles from Denver, delivers gigabit-symmetric fiber at $50/month, achieved profitability within 5 years, and maintains over 90% customer satisfaction
 - Fort Collins Connexion is on track for profitability despite $150 million in opposition spending by Comcast to prevent its creation
 - Over 900 communities across the United States operate municipal broadband networks
@@ -82,6 +87,7 @@ Denver's broadband market demonstrates the failures of an uncompetitive duopoly 
 ### D. Project Activities & Deliverables
 
 **Activity 1: Backbone Fiber Infrastructure in Underserved Neighborhoods ($15,000,000)**
+
 - Design and construct backbone fiber ring connecting Denver's 14 priority underserved neighborhoods
 - Install approximately 80-120 miles of backbone fiber conduit and cable along public rights-of-way
 - Deploy neighborhood aggregation points and distribution hubs
@@ -89,6 +95,7 @@ Denver's broadband market demonstrates the failures of an uncompetitive duopoly 
 - Ensure all infrastructure is city-owned, open-access capable, and built to a minimum 30-year service life
 
 **Activity 2: Last-Mile Fiber-to-the-Premises ($12,000,000)**
+
 - Extend fiber-to-the-premises connections to approximately 20,000-30,000 unserved and underserved residential addresses in target neighborhoods
 - Deliver gigabit-symmetric service (1 Gbps upload / 1 Gbps download) to all connected premises
 - Offer service at $30/month for gigabit tier — less than half the cost of comparable incumbent offerings
@@ -96,6 +103,7 @@ Denver's broadband market demonstrates the failures of an uncompetitive duopoly 
 - Install customer premises equipment (ONT, router) at no cost to subscribers
 
 **Activity 3: Digital Equity Programs ($3,000,000)**
+
 - Establish free-tier broadband provisioning for qualifying low-income households across all connected neighborhoods
 - Partner with Denver Public Libraries, Denver Public Schools, and community organizations to distribute devices (laptops, tablets) to qualifying households
 - Fund digital literacy training programs in each target neighborhood, with curricula covering basic computing, internet safety, telehealth access, remote work skills, and online government services
@@ -103,12 +111,14 @@ Denver's broadband market demonstrates the failures of an uncompetitive duopoly 
 - Target enrollment of at least 3,000 households in the free tier within the first 24 months
 
 **Activity 4: Network Operations Center and Staffing ($2,000,000)**
+
 - Establish a Denver Municipal Broadband Network Operations Center (NOC) for 24/7 network monitoring and customer support
 - Hire and train local operations staff, prioritizing hiring from target neighborhoods
 - Deploy network management, billing, and customer relationship management systems
 - Establish service level agreements (SLAs) guaranteeing minimum speed, uptime, and response time commitments to all subscribers
 
 **Activity 5: Planning, Engineering, and Community Engagement ($2,000,000)**
+
 - Complete detailed engineering design for backbone and last-mile routes in all 14 target neighborhoods
 - Conduct environmental and permitting reviews for all construction corridors
 - Execute a comprehensive community engagement campaign: minimum 3 public meetings per target neighborhood, online feedback portal, and multilingual outreach materials
@@ -117,14 +127,14 @@ Denver's broadband market demonstrates the failures of an uncompetitive duopoly 
 
 ### E. Project Timeline
 
-| Phase | Timeline | Key Milestones |
-|---|---|---|
-| **Planning & Engineering** | Months 1-9 | Complete network engineering design, secure permits, execute community engagement round 1, hire core staff |
-| **Procurement** | Months 6-12 | Issue RFPs for fiber construction, equipment, and operations systems; award contracts (overlaps with planning for phased corridors) |
-| **Backbone Construction** | Months 10-24 | Complete backbone fiber ring connecting all 14 target neighborhoods, deploy aggregation hubs |
-| **Last-Mile Deployment Phase 1** | Months 18-36 | Fiber-to-the-premises connections active in first 8 neighborhoods (~12,000-15,000 addresses); begin subscriber enrollment and free-tier provisioning |
-| **Last-Mile Deployment Phase 2** | Months 30-42 | Complete remaining 6 neighborhoods (~8,000-15,000 additional addresses); digital equity programs fully operational |
-| **Closeout & Evaluation** | Months 40-48 | Post-deployment speed and reliability audits, subscriber satisfaction survey, financial sustainability assessment, final report to Colorado Broadband Office |
+| Phase                            | Timeline     | Key Milestones                                                                                                                                               |
+| -------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Planning & Engineering**       | Months 1-9   | Complete network engineering design, secure permits, execute community engagement round 1, hire core staff                                                   |
+| **Procurement**                  | Months 6-12  | Issue RFPs for fiber construction, equipment, and operations systems; award contracts (overlaps with planning for phased corridors)                          |
+| **Backbone Construction**        | Months 10-24 | Complete backbone fiber ring connecting all 14 target neighborhoods, deploy aggregation hubs                                                                 |
+| **Last-Mile Deployment Phase 1** | Months 18-36 | Fiber-to-the-premises connections active in first 8 neighborhoods (~12,000-15,000 addresses); begin subscriber enrollment and free-tier provisioning         |
+| **Last-Mile Deployment Phase 2** | Months 30-42 | Complete remaining 6 neighborhoods (~8,000-15,000 additional addresses); digital equity programs fully operational                                           |
+| **Closeout & Evaluation**        | Months 40-48 | Post-deployment speed and reliability audits, subscriber satisfaction survey, financial sustainability assessment, final report to Colorado Broadband Office |
 
 ### F. Alignment with BEAD Program Goals
 
@@ -150,29 +160,29 @@ Denver has established a strong foundation for municipal broadband and is prepar
 
 ## Budget Summary
 
-| Category | Amount | % of Total |
-|---|---|---|
-| Backbone Fiber Infrastructure | $15,000,000 | 44% |
-| Last-Mile Fiber-to-the-Premises | $12,000,000 | 35% |
-| Digital Equity Programs | $3,000,000 | 9% |
-| Network Operations Center & Staffing | $2,000,000 | 6% |
-| Planning, Engineering & Community Engagement | $2,000,000 | 6% |
-| **Total BEAD Subgrant Request** | **$34,000,000** | **100%** |
-| Local Match (revenue bonds / city funds) | TBD per CBO match requirements | — |
-| **Future Phases (citywide buildout)** | **$300-500M (total est.)** | — |
+| Category                                     | Amount                         | % of Total |
+| -------------------------------------------- | ------------------------------ | ---------- |
+| Backbone Fiber Infrastructure                | $15,000,000                    | 44%        |
+| Last-Mile Fiber-to-the-Premises              | $12,000,000                    | 35%        |
+| Digital Equity Programs                      | $3,000,000                     | 9%         |
+| Network Operations Center & Staffing         | $2,000,000                     | 6%         |
+| Planning, Engineering & Community Engagement | $2,000,000                     | 6%         |
+| **Total BEAD Subgrant Request**              | **$34,000,000**                | **100%**   |
+| Local Match (revenue bonds / city funds)     | TBD per CBO match requirements | —          |
+| **Future Phases (citywide buildout)**        | **$300-500M (total est.)**     | —          |
 
 ## Expected Outcomes
 
-| Metric | Baseline | 4-Year Target |
-|---|---|---|
-| Addresses with municipal fiber available | 0 | 20,000-30,000 |
-| Gigabit service price | $80-120/month (incumbent) | $30/month (Denver Fiber) |
-| Free-tier low-income households enrolled | 0 | 3,000+ |
-| Average delivered download speed (subscribers) | Varies; often below advertised | 1 Gbps symmetric (guaranteed) |
-| Residents completing digital literacy programs | 0 | 2,000+ |
-| Devices distributed to qualifying households | 0 | 1,500+ |
-| Network subscriber take-rate in served areas | 0% | 40-50% (consistent with municipal broadband benchmarks) |
-| Annual subscriber revenue (at stabilization) | $0 | Sufficient to cover operating costs and debt service |
+| Metric                                         | Baseline                       | 4-Year Target                                           |
+| ---------------------------------------------- | ------------------------------ | ------------------------------------------------------- |
+| Addresses with municipal fiber available       | 0                              | 20,000-30,000                                           |
+| Gigabit service price                          | $80-120/month (incumbent)      | $30/month (Denver Fiber)                                |
+| Free-tier low-income households enrolled       | 0                              | 3,000+                                                  |
+| Average delivered download speed (subscribers) | Varies; often below advertised | 1 Gbps symmetric (guaranteed)                           |
+| Residents completing digital literacy programs | 0                              | 2,000+                                                  |
+| Devices distributed to qualifying households   | 0                              | 1,500+                                                  |
+| Network subscriber take-rate in served areas   | 0%                             | 40-50% (consistent with municipal broadband benchmarks) |
+| Annual subscriber revenue (at stabilization)   | $0                             | Sufficient to cover operating costs and debt service    |
 
 ## Key Data Sources
 

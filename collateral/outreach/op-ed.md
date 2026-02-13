@@ -23,9 +23,10 @@ The playbook already has draft op-ed samples for broadband (Denver Post/Colorado
 6. **2027 election framing:** Eviction policy will be a defining issue in city council races. An op-ed now establishes the data frame that candidates will have to respond to.
 
 **Topics I considered but passed on:**
-- *Flock/surveillance:* Active story, but heavily covered by ACLU, Denverite, Colorado Newsline already. Denver For All adds tools (Follow the Money) but not unique reporting. Also, the surveillance op-ed plays better as a letter to the editor reacting to a specific Flock development, not a standalone op-ed.
-- *Childcare costs:* Jaw-dropping data, but no single active bill to rally around (HB26-1004, SB26-019, SB26-020 are incremental, not structural). Better suited as a one-pager or Reddit post.
-- *Vacancy tax (HB26-1036):* #1 strategic priority for the legislative agenda, but conceptually harder to explain in an op-ed (requires TABOR context, ballot measure mechanics). Better suited for a Colorado Sun guest commentary aimed at policy-literate readers, not a first op-ed.
+
+- _Flock/surveillance:_ Active story, but heavily covered by ACLU, Denverite, Colorado Newsline already. Denver For All adds tools (Follow the Money) but not unique reporting. Also, the surveillance op-ed plays better as a letter to the editor reacting to a specific Flock development, not a standalone op-ed.
+- _Childcare costs:_ Jaw-dropping data, but no single active bill to rally around (HB26-1004, SB26-019, SB26-020 are incremental, not structural). Better suited as a one-pager or Reddit post.
+- _Vacancy tax (HB26-1036):_ #1 strategic priority for the legislative agenda, but conceptually harder to explain in an op-ed (requires TABOR context, ballot measure mechanics). Better suited for a Colorado Sun guest commentary aimed at policy-literate readers, not a first op-ed.
 
 **Target outlet: Denverite**
 

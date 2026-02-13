@@ -123,7 +123,12 @@ export const budgetVotes = [
   { name: 'Cut police budget $3.2M', vote: '3-10', result: 'Failed', position: 'bad' },
   { name: 'Move Encampment Team to HOST', vote: '5-8', result: 'Failed', position: 'bad' },
   { name: '$2.5M for Basic Income Project', vote: '6-6', result: 'Failed (tie)', position: 'bad' },
-  { name: 'Reallocate $286K to Sheriff Mental Health', vote: '7-6', result: 'Passed', position: 'good' },
+  {
+    name: 'Reallocate $286K to Sheriff Mental Health',
+    vote: '7-6',
+    result: 'Passed',
+    position: 'good',
+  },
 ];
 
 export const realEstateMoney = {

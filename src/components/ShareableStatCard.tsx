@@ -64,25 +64,38 @@ function ShareOverlay({
   return (
     <div
       style={{
-        position: 'fixed', inset: 0, zIndex: 9999,
-        background: 'rgba(0,0,0,0.5)', display: 'flex',
-        alignItems: 'center', justifyContent: 'center',
+        position: 'fixed',
+        inset: 0,
+        zIndex: 9999,
+        background: 'rgba(0,0,0,0.5)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
         padding: '1rem',
       }}
       onClick={onClose}
     >
       <div
         style={{
-          background: C.white, borderRadius: 16, padding: '2rem',
-          maxWidth: 360, width: '100%', boxShadow: '0 20px 60px rgba(0,0,0,0.2)',
+          background: C.white,
+          borderRadius: 16,
+          padding: '2rem',
+          maxWidth: 360,
+          width: '100%',
+          boxShadow: '0 20px 60px rgba(0,0,0,0.2)',
         }}
-        onClick={e => e.stopPropagation()}
+        onClick={(e) => e.stopPropagation()}
       >
-        <h3 style={{
-          fontSize: '1.1rem', fontWeight: 700, color: C.text,
-          marginBottom: '1.25rem', fontFamily: 'Inter, system-ui, sans-serif',
-          textAlign: 'center',
-        }}>
+        <h3
+          style={{
+            fontSize: '1.1rem',
+            fontWeight: 700,
+            color: C.text,
+            marginBottom: '1.25rem',
+            fontFamily: 'Inter, system-ui, sans-serif',
+            textAlign: 'center',
+          }}
+        >
           {t ? 'Compartir esta estadistica' : 'Share this stat'}
         </h3>
         <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
@@ -122,9 +135,14 @@ function ShareOverlay({
         <button
           onClick={onClose}
           style={{
-            display: 'block', margin: '1.25rem auto 0', background: 'none',
-            border: 'none', color: C.textMuted, fontSize: '0.85rem',
-            cursor: 'pointer', fontFamily: 'Inter, system-ui, sans-serif',
+            display: 'block',
+            margin: '1.25rem auto 0',
+            background: 'none',
+            border: 'none',
+            color: C.textMuted,
+            fontSize: '0.85rem',
+            cursor: 'pointer',
+            fontFamily: 'Inter, system-ui, sans-serif',
           }}
         >
           {t ? 'Cancelar' : 'Cancel'}
@@ -134,22 +152,38 @@ function ShareOverlay({
   );
 }
 
-function ShareButton({ onClick, icon, label, bg }: {
-  onClick: () => void; icon: string; label: string; bg: string;
+function ShareButton({
+  onClick,
+  icon,
+  label,
+  bg,
+}: {
+  onClick: () => void;
+  icon: string;
+  label: string;
+  bg: string;
 }) {
   return (
     <button
       onClick={onClick}
       style={{
-        display: 'flex', alignItems: 'center', gap: '0.75rem',
-        width: '100%', padding: '0.75rem 1rem',
-        background: bg, color: '#fff', border: 'none',
-        borderRadius: 10, cursor: 'pointer', fontSize: '0.9rem',
-        fontWeight: 600, fontFamily: 'Inter, system-ui, sans-serif',
+        display: 'flex',
+        alignItems: 'center',
+        gap: '0.75rem',
+        width: '100%',
+        padding: '0.75rem 1rem',
+        background: bg,
+        color: '#fff',
+        border: 'none',
+        borderRadius: 10,
+        cursor: 'pointer',
+        fontSize: '0.9rem',
+        fontWeight: 600,
+        fontFamily: 'Inter, system-ui, sans-serif',
         transition: 'opacity 0.2s',
       }}
-      onMouseOver={e => (e.currentTarget.style.opacity = '0.9')}
-      onMouseOut={e => (e.currentTarget.style.opacity = '1')}
+      onMouseOver={(e) => (e.currentTarget.style.opacity = '0.9')}
+      onMouseOut={(e) => (e.currentTarget.style.opacity = '1')}
     >
       <span style={{ fontSize: '1.1rem', width: 24, textAlign: 'center' }}>{icon}</span>
       {label}
@@ -190,85 +224,102 @@ function StatCard({
         }}
       >
         {/* Colored top bar */}
-        <div style={{
-          height: 6, background: `linear-gradient(90deg, ${theme.color}, ${theme.color}88)`,
-        }} />
+        <div
+          style={{
+            height: 6,
+            background: `linear-gradient(90deg, ${theme.color}, ${theme.color}88)`,
+          }}
+        />
 
         <div style={{ padding: '1.75rem 1.5rem 1.25rem' }}>
           {/* Big stat value */}
-          <div style={{
-            fontSize: 'clamp(2.5rem, 6vw, 3.5rem)',
-            fontWeight: 800,
-            color: theme.color,
-            lineHeight: 1,
-            fontFamily: 'Inter, system-ui, sans-serif',
-            letterSpacing: '-0.02em',
-          }}>
+          <div
+            style={{
+              fontSize: 'clamp(2.5rem, 6vw, 3.5rem)',
+              fontWeight: 800,
+              color: theme.color,
+              lineHeight: 1,
+              fontFamily: 'Inter, system-ui, sans-serif',
+              letterSpacing: '-0.02em',
+            }}
+          >
             {stat.value}
           </div>
 
           {/* Label */}
-          <div style={{
-            fontSize: '1rem',
-            fontWeight: 600,
-            color: C.text,
-            marginTop: '0.5rem',
-            lineHeight: 1.4,
-            fontFamily: 'Inter, system-ui, sans-serif',
-          }}>
+          <div
+            style={{
+              fontSize: '1rem',
+              fontWeight: 600,
+              color: C.text,
+              marginTop: '0.5rem',
+              lineHeight: 1.4,
+              fontFamily: 'Inter, system-ui, sans-serif',
+            }}
+          >
             {label}
           </div>
 
           {/* Context */}
           {context && (
-            <div style={{
-              fontSize: '0.85rem',
-              color: C.textMuted,
-              marginTop: '0.5rem',
-              lineHeight: 1.5,
-              fontFamily: 'Inter, system-ui, sans-serif',
-            }}>
+            <div
+              style={{
+                fontSize: '0.85rem',
+                color: C.textMuted,
+                marginTop: '0.5rem',
+                lineHeight: 1.5,
+                fontFamily: 'Inter, system-ui, sans-serif',
+              }}
+            >
               {context}
             </div>
           )}
 
           {/* Source */}
           {source && (
-            <div style={{
-              fontSize: '0.7rem',
-              color: C.textMuted,
-              marginTop: '0.75rem',
-              fontStyle: 'italic',
-              fontFamily: 'Inter, system-ui, sans-serif',
-              opacity: 0.7,
-            }}>
+            <div
+              style={{
+                fontSize: '0.7rem',
+                color: C.textMuted,
+                marginTop: '0.75rem',
+                fontStyle: 'italic',
+                fontFamily: 'Inter, system-ui, sans-serif',
+                opacity: 0.7,
+              }}
+            >
               {source}
             </div>
           )}
 
           {/* Branding footer */}
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            marginTop: '1rem',
-            paddingTop: '0.75rem',
-            borderTop: `1px solid ${C.border}`,
-          }}>
-            <span style={{
-              fontSize: '0.7rem',
-              fontWeight: 700,
-              color: C.primary,
-              fontFamily: 'Inter, system-ui, sans-serif',
-              letterSpacing: '0.02em',
-            }}>
+          <div
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              marginTop: '1rem',
+              paddingTop: '0.75rem',
+              borderTop: `1px solid ${C.border}`,
+            }}
+          >
+            <span
+              style={{
+                fontSize: '0.7rem',
+                fontWeight: 700,
+                color: C.primary,
+                fontFamily: 'Inter, system-ui, sans-serif',
+                letterSpacing: '0.02em',
+              }}
+            >
               DENVER FOR ALL
             </span>
-            <span style={{
-              fontSize: '0.65rem',
-              color: C.textMuted,
-              fontFamily: 'Inter, system-ui, sans-serif',
-            }}>
+            <span
+              style={{
+                fontSize: '0.65rem',
+                color: C.textMuted,
+                fontFamily: 'Inter, system-ui, sans-serif',
+              }}
+            >
               denverforall.org/platform/{policySlug}
             </span>
           </div>
@@ -297,11 +348,11 @@ function StatCard({
           fontSize: '1rem',
           color: C.textMuted,
         }}
-        onMouseOver={e => {
+        onMouseOver={(e) => {
           e.currentTarget.style.borderColor = C.primary;
           e.currentTarget.style.color = C.primary;
         }}
-        onMouseOut={e => {
+        onMouseOut={(e) => {
           e.currentTarget.style.borderColor = C.border;
           e.currentTarget.style.color = C.textMuted;
         }}
@@ -342,64 +393,82 @@ export default function ShareableStatCard({
     }
   }, []);
 
-  const getShareText = useCallback((index: number) => {
-    const stat = stats[index];
-    const label = locale === 'es' && stat.labelEs ? stat.labelEs : stat.label;
-    return `${stat.value} — ${label}\n\n${policyUrl}`;
-  }, [stats, locale, policyUrl]);
+  const getShareText = useCallback(
+    (index: number) => {
+      const stat = stats[index];
+      const label = locale === 'es' && stat.labelEs ? stat.labelEs : stat.label;
+      return `${stat.value} — ${label}\n\n${policyUrl}`;
+    },
+    [stats, locale, policyUrl],
+  );
 
-  const handleTwitter = useCallback(async (index: number) => {
-    const stat = stats[index];
-    const label = locale === 'es' && stat.labelEs ? stat.labelEs : stat.label;
-    const text = encodeURIComponent(`${stat.value} — ${label}`);
-    const url = encodeURIComponent(policyUrl);
-    window.open(
-      `https://twitter.com/intent/tweet?text=${text}&url=${url}`,
-      '_blank',
-      'noopener,width=600,height=400'
-    );
-    setShareIndex(null);
-  }, [stats, locale, policyUrl]);
+  const handleTwitter = useCallback(
+    async (index: number) => {
+      const stat = stats[index];
+      const label = locale === 'es' && stat.labelEs ? stat.labelEs : stat.label;
+      const text = encodeURIComponent(`${stat.value} — ${label}`);
+      const url = encodeURIComponent(policyUrl);
+      window.open(
+        `https://twitter.com/intent/tweet?text=${text}&url=${url}`,
+        '_blank',
+        'noopener,width=600,height=400',
+      );
+      setShareIndex(null);
+    },
+    [stats, locale, policyUrl],
+  );
 
-  const handleFacebook = useCallback((_index: number) => {
-    const url = encodeURIComponent(policyUrl);
-    window.open(
-      `https://www.facebook.com/sharer/sharer.php?u=${url}`,
-      '_blank',
-      'noopener,width=600,height=400'
-    );
-    setShareIndex(null);
-  }, [policyUrl]);
+  const handleFacebook = useCallback(
+    (_index: number) => {
+      const url = encodeURIComponent(policyUrl);
+      window.open(
+        `https://www.facebook.com/sharer/sharer.php?u=${url}`,
+        '_blank',
+        'noopener,width=600,height=400',
+      );
+      setShareIndex(null);
+    },
+    [policyUrl],
+  );
 
-  const handleDownload = useCallback(async (index: number) => {
-    const blob = await generateImage(index);
-    if (!blob) return;
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `denver-for-all-${policySlug}-stat-${index + 1}.png`;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
-    setShareIndex(null);
-  }, [generateImage, policySlug]);
+  const handleDownload = useCallback(
+    async (index: number) => {
+      const blob = await generateImage(index);
+      if (!blob) return;
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `denver-for-all-${policySlug}-stat-${index + 1}.png`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      setShareIndex(null);
+    },
+    [generateImage, policySlug],
+  );
 
-  const handleNativeShare = useCallback(async (index: number) => {
-    const blob = await generateImage(index);
-    const text = getShareText(index);
-    try {
-      if (blob && navigator.canShare?.({ files: [new File([blob], 'stat.png', { type: 'image/png' })] })) {
-        const file = new File([blob], `denver-for-all-stat.png`, { type: 'image/png' });
-        await navigator.share({ text, url: policyUrl, files: [file] });
-      } else {
-        await navigator.share({ text, url: policyUrl });
+  const handleNativeShare = useCallback(
+    async (index: number) => {
+      const blob = await generateImage(index);
+      const text = getShareText(index);
+      try {
+        if (
+          blob &&
+          navigator.canShare?.({ files: [new File([blob], 'stat.png', { type: 'image/png' })] })
+        ) {
+          const file = new File([blob], `denver-for-all-stat.png`, { type: 'image/png' });
+          await navigator.share({ text, url: policyUrl, files: [file] });
+        } else {
+          await navigator.share({ text, url: policyUrl });
+        }
+      } catch {
+        // User cancelled or share failed
       }
-    } catch {
-      // User cancelled or share failed
-    }
-    setShareIndex(null);
-  }, [generateImage, getShareText, policyUrl]);
+      setShareIndex(null);
+    },
+    [generateImage, getShareText, policyUrl],
+  );
 
   const handleCopyLink = useCallback(async () => {
     try {
@@ -420,11 +489,7 @@ export default function ShareableStatCard({
 
   return (
     <div className="shareable-stats">
-      <h2
-        className="shareable-stats__heading"
-        data-en="Key Numbers"
-        data-es="Cifras Clave"
-      >
+      <h2 className="shareable-stats__heading" data-en="Key Numbers" data-es="Cifras Clave">
         {t ? 'Cifras Clave' : 'Key Numbers'}
       </h2>
       <p
@@ -444,7 +509,9 @@ export default function ShareableStatCard({
             policySlug={policySlug}
             locale={locale}
             onShare={() => setShareIndex(i)}
-            cardRef={el => { cardRefs.current[i] = el; }}
+            cardRef={(el) => {
+              cardRefs.current[i] = el;
+            }}
           />
         ))}
       </div>

@@ -1,57 +1,57 @@
 ---
-title: "The Denver Social Housing Act"
-titleEs: "La Ley de Vivienda Social de Denver"
-summary: "10,000 publicly owned, permanently affordable homes. Mixed-income, democratically governed, and funded without raising your taxes."
-summaryEs: "10,000 viviendas de propiedad pública, permanentemente asequibles. De ingresos mixtos, gobernadas democráticamente y financiadas sin aumentar tus impuestos."
-category: "housing"
-icon: "home"
+title: 'The Denver Social Housing Act'
+titleEs: 'La Ley de Vivienda Social de Denver'
+summary: '10,000 publicly owned, permanently affordable homes. Mixed-income, democratically governed, and funded without raising your taxes.'
+summaryEs: '10,000 viviendas de propiedad pública, permanentemente asequibles. De ingresos mixtos, gobernadas democráticamente y financiadas sin aumentar tus impuestos.'
+category: 'housing'
+icon: 'home'
 order: 1
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 relatedLegislation:
-  - billNumber: "HB26-1001"
-    title: "Housing Developments on Qualifying Properties"
-    status: "House Third Reading Passed"
-    url: "https://leg.colorado.gov/bills/hb26-1001"
-  - billNumber: "SB26-001"
-    title: "Workforce Housing & Housing Tax Credit"
-    status: "Senate Third Reading Passed"
-    url: "https://leg.colorado.gov/bills/sb26-001"
-  - billNumber: "HB26-1065"
-    title: "Transit and Housing Investment Zones"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/hb26-1065"
-  - billNumber: "HB26-1066"
-    title: "Tax Exemptions Low Income Rental Property Development"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/hb26-1066"
-  - billNumber: "HB26-1114"
-    title: "Allowed Minimum Lot Size for Subject Jurisdictions"
-    status: "Introduced - Assigned to Transportation, Housing & Local Government"
-    url: "https://leg.colorado.gov/bills/hb26-1114"
+  - billNumber: 'HB26-1001'
+    title: 'Housing Developments on Qualifying Properties'
+    status: 'House Third Reading Passed'
+    url: 'https://leg.colorado.gov/bills/hb26-1001'
+  - billNumber: 'SB26-001'
+    title: 'Workforce Housing & Housing Tax Credit'
+    status: 'Senate Third Reading Passed'
+    url: 'https://leg.colorado.gov/bills/sb26-001'
+  - billNumber: 'HB26-1065'
+    title: 'Transit and Housing Investment Zones'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/hb26-1065'
+  - billNumber: 'HB26-1066'
+    title: 'Tax Exemptions Low Income Rental Property Development'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/hb26-1066'
+  - billNumber: 'HB26-1114'
+    title: 'Allowed Minimum Lot Size for Subject Jurisdictions'
+    status: 'Introduced - Assigned to Transportation, Housing & Local Government'
+    url: 'https://leg.colorado.gov/bills/hb26-1114'
 keyStats:
-  - value: "7,500"
-    label: "people homeless on any given night"
-    labelEs: "personas sin hogar en cualquier noche"
-    context: "The Section 8 waitlist is years long and landlords refuse to accept vouchers anyway"
-    contextEs: "La lista de espera de la Seccion 8 es de anos y los propietarios se niegan a aceptar vales"
-    source: "MDHI Point-in-Time Count, 2024"
-    theme: "danger"
-  - value: "60%"
-    label: "of Vienna housed in public housing"
-    labelEs: "de Viena vive en vivienda publica"
+  - value: '7,500'
+    label: 'people homeless on any given night'
+    labelEs: 'personas sin hogar en cualquier noche'
+    context: 'The Section 8 waitlist is years long and landlords refuse to accept vouchers anyway'
+    contextEs: 'La lista de espera de la Seccion 8 es de anos y los propietarios se niegan a aceptar vales'
+    source: 'MDHI Point-in-Time Count, 2024'
+    theme: 'danger'
+  - value: '60%'
+    label: 'of Vienna housed in public housing'
+    labelEs: 'de Viena vive en vivienda publica'
     context: "Named the world's most livable city — and has no housing affordability crisis"
-    contextEs: "Nombrada la ciudad mas habitable del mundo y no tiene crisis de asequibilidad"
-    source: "Wiener Wohnen, 2023"
-    theme: "primary"
-  - value: "$400-600K"
-    label: "current per-unit subsidy cost"
-    labelEs: "costo actual de subsidio por unidad"
-    context: "Social housing costs $200-350K per unit. We pay double to let developers keep the profit."
-    contextEs: "La vivienda social cuesta $200-350K por unidad. Pagamos el doble para que los desarrolladores se queden con la ganancia."
-    source: "Denver HOST / LIHTC program data"
-    theme: "accent"
+    contextEs: 'Nombrada la ciudad mas habitable del mundo y no tiene crisis de asequibilidad'
+    source: 'Wiener Wohnen, 2023'
+    theme: 'primary'
+  - value: '$400-600K'
+    label: 'current per-unit subsidy cost'
+    labelEs: 'costo actual de subsidio por unidad'
+    context: 'Social housing costs $200-350K per unit. We pay double to let developers keep the profit.'
+    contextEs: 'La vivienda social cuesta $200-350K por unidad. Pagamos el doble para que los desarrolladores se queden con la ganancia.'
+    source: 'Denver HOST / LIHTC program data'
+    theme: 'accent'
 ---
 
 ## The Problem
@@ -88,12 +88,12 @@ Create a new city agency - the Denver Social Housing Authority (DSHA) - with the
 
 ### Unit Targets (10-Year Plan)
 
-| Year | New Units | Cumulative | Method |
-|------|-----------|------------|--------|
+| Year | New Units | Cumulative | Method                                                 |
+| ---- | --------- | ---------- | ------------------------------------------------------ |
 | 1-2  | 1,000     | 1,000      | Acquire existing buildings + convert vacant commercial |
-| 3-4  | 2,000     | 3,000      | New construction + continued acquisition |
-| 5-7  | 4,000     | 7,000      | Scaled new construction |
-| 8-10 | 3,000     | 10,000     | Complete buildout |
+| 3-4  | 2,000     | 3,000      | New construction + continued acquisition               |
+| 5-7  | 4,000     | 7,000      | Scaled new construction                                |
+| 8-10 | 3,000     | 10,000     | Complete buildout                                      |
 
 ### The Vienna Model, Adapted for Denver
 
@@ -108,15 +108,15 @@ We adapt this for Denver's context: smaller initial scale, but the same principl
 
 ### International Evidence: Public Housing Works - When It's Designed To
 
-| Country/City | Public Housing Stock | Key Feature | Result |
-|-------------|---------------------|-------------|--------|
-| **Vienna, Austria** | 220,000 municipal apartments. 60% of residents in public/subsidized housing. | Mixed-income, architecturally excellent, democratic governance | Named "most livable city" repeatedly. Average rent: €5-7/sqm. No housing affordability crisis. No stigma - public housing is desirable. |
-| **Singapore** | 80% of residents in government HDB flats | Home ownership model: 99-year leases, resale market exists | Home ownership: 90%. Mixed-income, mixed-ethnicity by design. Housing is not a source of financial precarity. |
-| **Finland** | Comprehensive social housing + Housing First | Converted shelters to permanent housing | **Only EU country where homelessness is declining.** Down 35% since 2008. |
-| **Denmark** | 20% of housing is *almene boliger* (non-profit) | Tenant-governed housing associations, rents set at cost | High quality, mixed-income, zero profit extraction. Democratically managed. |
-| **Red Vienna (1919-1934)** | 65,000 apartments built in 15 years during economic crisis | Municipal construction at massive scale | Created the template for modern social housing. Proved that bold public investment works even in hard times. |
+| Country/City               | Public Housing Stock                                                         | Key Feature                                                    | Result                                                                                                                                  |
+| -------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vienna, Austria**        | 220,000 municipal apartments. 60% of residents in public/subsidized housing. | Mixed-income, architecturally excellent, democratic governance | Named "most livable city" repeatedly. Average rent: €5-7/sqm. No housing affordability crisis. No stigma - public housing is desirable. |
+| **Singapore**              | 80% of residents in government HDB flats                                     | Home ownership model: 99-year leases, resale market exists     | Home ownership: 90%. Mixed-income, mixed-ethnicity by design. Housing is not a source of financial precarity.                           |
+| **Finland**                | Comprehensive social housing + Housing First                                 | Converted shelters to permanent housing                        | **Only EU country where homelessness is declining.** Down 35% since 2008.                                                               |
+| **Denmark**                | 20% of housing is _almene boliger_ (non-profit)                              | Tenant-governed housing associations, rents set at cost        | High quality, mixed-income, zero profit extraction. Democratically managed.                                                             |
+| **Red Vienna (1919-1934)** | 65,000 apartments built in 15 years during economic crisis                   | Municipal construction at massive scale                        | Created the template for modern social housing. Proved that bold public investment works even in hard times.                            |
 
-**The American failure was deliberate.** US public housing was underfunded by Congress, racially segregated by policy (Rothstein, *The Color of Law*), concentrated in poverty by design, and then defunded further when it predictably struggled. Every other country's public housing works because it was designed to succeed. Denver follows the models that work.
+**The American failure was deliberate.** US public housing was underfunded by Congress, racially segregated by policy (Rothstein, _The Color of Law_), concentrated in poverty by design, and then defunded further when it predictably struggled. Every other country's public housing works because it was designed to succeed. Denver follows the models that work.
 
 ## How We Pay For It
 

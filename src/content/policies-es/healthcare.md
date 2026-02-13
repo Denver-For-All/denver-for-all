@@ -6,6 +6,7 @@
 Una sola estadía hospitalaria en Denver puede producir una factura de cientos de miles de dólares. La deuda médica es una de las principales contribuyentes a la bancarrota en Estados Unidos (Himmelstein et al., 2009; Dobkin et al., 2018 -- ver preguntas frecuentes para discusión de metodología). Denver Health, un hospital público, todavía envía pacientes a cobranza y coloca gravámenes sobre viviendas. El sistema genera deuda, no salud.
 
 Mientras tanto:
+
 - Denver tiene servicios insuficientes de crisis de salud mental -- la policía responde a emergencias de salud mental para las que no está entrenada, con resultados predecibles
 - Vecindarios enteros carecen de atención primaria accesible
 - Los medicamentos recetados cuestan de 2 a 10 veces lo que cuestan en otros países (RAND Corporation, 2021)
@@ -24,6 +25,7 @@ En atención dental, los FQHC de Denver proporcionan algunos servicios dentales,
 ## Nuestra Solución
 
 ### 1. Programa de Condonación de Deuda Médica de Denver
+
 - La ciudad compra carteras de deuda médica a centavos por dólar (los compradores de deuda típicamente pagan 1-5 centavos por dólar de deuda)
 - Cancelar toda la deuda comprada -- sin condiciones
 - Costo estimado: $5M en fondos de la ciudad pueden condonar $100-500M en deuda médica
@@ -31,13 +33,16 @@ En atención dental, los FQHC de Denver proporcionan algunos servicios dentales,
 - Programa continuo financiado por tarifas de impacto hospitalario
 
 ### 2. Ley de Transparencia de Costos Hospitalarios
+
 - Todos los hospitales de Denver deben publicar precios reales (no la ficción del chargemaster) para los 200 procedimientos más comunes
 - Facturas detalladas requeridas dentro de 30 días -- no más cargos sorpresa que aparecen meses después
 - Informes de variación de precios publicados por la ciudad trimestralmente
 - Penalidades por abuso de precios: definido como cobrar a pacientes sin seguro más del 200% de las tarifas de Medicare
 
 ### 3. Programa STAR (Support Team Assisted Response)
+
 El programa STAR de Denver ya está comprobado que funciona. Una evaluación del Urban Institute de enero de 2026 -- el primer estudio a nivel nacional que mide resultados a nivel individual tras respuesta alternativa -- encontró que los clientes de STAR experimentaron una reducción del 16% en contactos policiales posteriores y una reducción del 16% en arrestos posteriores, con reducciones dos a tres veces mayores para personas que habían experimentado la falta de vivienda. El programa cuesta $237 por respuesta de camioneta versus $1,011 por un arresto promedio. Lo expandimos para alcanzar su máximo potencial:
+
 - Cobertura 24/7 con suficientes unidades de camionetas para satisfacer la demanda completa (actualmente limitado a un turno de 12 horas con 6-7 unidades de camionetas respondiendo a solo el 45% de las llamadas elegibles; se necesitan 9-10 unidades simultáneas según el análisis del Urban Institute)
 - Profesionales de salud mental + paramédicos responden a crisis de salud mental, incidentes de uso de sustancias, llamadas por falta de vivienda y verificaciones de bienestar
 - Expandir la STAR Community Partner Network, que proporciona gestión de casos culturalmente responsiva y atención de seguimiento -- operando desde abril de 2023 con más de 1,200 clientes atendidos y casi 12,000 encuentros de gestión de casos
@@ -46,12 +51,14 @@ El programa STAR de Denver ya está comprobado que funciona. Una evaluación del
 - Financiamiento: Redirigir el 15% del presupuesto de horas extras de la policía a la expansión de STAR
 
 ### 4. Centros de Salud Comunitarios
+
 - Centro de Salud Calificado Federalmente en cada vecindario de Denver (actualmente hay brechas significativas en áreas de bajos ingresos)
 - Tarifas de escala deslizante basadas en el ingreso
 - Atención primaria, dental, visión, salud mental y tratamiento de uso de sustancias
 - Cooperativa de compra de medicamentos recetados -- Denver negocia precios de medicamentos colectivamente para residentes sin seguro
 
 ### 5. Protección de la Atención Médica Reproductiva
+
 - Denver como ciudad santuario para el acceso a la atención médica reproductiva
 - Atención médica reproductiva financiada por la ciudad para residentes sin seguro
 - Zonas de protección alrededor de clínicas
@@ -59,6 +66,7 @@ El programa STAR de Denver ya está comprobado que funciona. Una evaluación del
 - Referencia cruzada: [Maternal & Infant Health Equity](/platform/maternal-infant-health) para propuestas integrales de equidad en el parto, apoyo familiar en UCIN y rendición de cuentas antirracista
 
 ### 6. Atención Dental para Todos
+
 La salud dental es salud. La separación de la cobertura dental de la cobertura médica es un artefacto de la historia de los seguros, no de la biología. La enfermedad dental no tratada causa dolor crónico, infección sistémica, enfermedad cardíaca, complicaciones de diabetes y pérdida de empleo. Se concentra en los mismos vecindarios de bajos ingresos que carecen de todas las demás formas de acceso a la atención médica.
 
 - **Clínicas dentales móviles**: unidades dentales móviles financiadas por la ciudad que rotan por cada vecindario con desierto alimentario y desierto dental en un horario semanal -- proporcionando limpiezas, empastes, extracciones y derivaciones. Sin cita necesaria. Sin seguro requerido. Tarifas de escala deslizante. Filadelfia, Boston y San Antonio han demostrado que los programas dentales móviles llegan a poblaciones que las clínicas fijas no alcanzan
@@ -68,6 +76,7 @@ La salud dental es salud. La separación de la cobertura dental de la cobertura 
 - **Programa de dentaduras y prótesis**: dentaduras y prótesis dentales financiadas por la ciudad para adultos sin seguro y de Medicaid. Los dientes faltantes afectan la nutrición, el habla, el empleo y la dignidad. Medicaid de Colorado no cubre dentaduras para adultos. Denver llena el vacío
 
 ### 7. Continuo de Salud Conductual
+
 STAR maneja la crisis. La política de drogas maneja la despenalización y la reducción de daños. Pero entre la emergencia y la adicción, hay una enorme necesidad insatisfecha: la persona que necesita un terapeuta y no puede encontrar uno. El niño cuya ansiedad está escalando y cuyos padres reciben la respuesta de que la próxima cita disponible es en tres meses. El veterano, el sobreviviente de trauma, el padre en duelo -- personas que necesitan atención ahora, no en ocho semanas.
 
 - **Garantía de Acceso a Salud Conductual**: ningún residente de Denver espera más de 2 semanas para una cita ambulatoria inicial de salud mental o uso de sustancias. La ciudad contrata con WellPower, salud conductual de Denver Health y proveedores privados para garantizar la disponibilidad de citas. La ciudad llena las brechas de acceso con financiamiento directo donde el mercado falla
@@ -79,14 +88,14 @@ STAR maneja la crisis. La política de drogas maneja la despenalización y la re
 
 ### Evidencia Internacional: Pagamos Más y Obtenemos Menos
 
-| País | Modelo | Costo per Cápita | Esperanza de Vida | Bancarrotas Médicas |
-|------|--------|------------------|--------------------|--------------------|
-| **Alemania** | Fijación de tarifas con todos los pagadores -- todos los aseguradores pagan las mismas tarifas negociadas. Sin facturación sorpresa. | $7,383 | 81.4 años | 0 |
-| **Japón** | Precios de referencia del gobierno para todos los procedimientos. | $4,691 | 84.8 años | 0 |
-| **Taiwán** | Pagador único desde 1995. Sistema de tarjeta inteligente. | $3,047 | 80.9 años | 0 |
-| **Reino Unido (NHS)** | Administrado por el gobierno. Gratuito en el punto de uso. | $5,138 | 81.4 años | 0 |
-| **Francia** | Universal multi-pagador. El gobierno cubre 70-100% de los costos. | $5,564 | 82.5 años | 0 |
-| **EE.UU.** | Basado en el mercado. Precios no regulados. | **$12,555** | **77.5 años** | **530,000/año** |
+| País                  | Modelo                                                                                                                               | Costo per Cápita | Esperanza de Vida | Bancarrotas Médicas |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------- | ------------------- |
+| **Alemania**          | Fijación de tarifas con todos los pagadores -- todos los aseguradores pagan las mismas tarifas negociadas. Sin facturación sorpresa. | $7,383           | 81.4 años         | 0                   |
+| **Japón**             | Precios de referencia del gobierno para todos los procedimientos.                                                                    | $4,691           | 84.8 años         | 0                   |
+| **Taiwán**            | Pagador único desde 1995. Sistema de tarjeta inteligente.                                                                            | $3,047           | 80.9 años         | 0                   |
+| **Reino Unido (NHS)** | Administrado por el gobierno. Gratuito en el punto de uso.                                                                           | $5,138           | 81.4 años         | 0                   |
+| **Francia**           | Universal multi-pagador. El gobierno cubre 70-100% de los costos.                                                                    | $5,564           | 82.5 años         | 0                   |
+| **EE.UU.**            | Basado en el mercado. Precios no regulados.                                                                                          | **$12,555**      | **77.5 años**     | **530,000/año**     |
 
 **Pagamos más y vivimos menos.** EE.UU. gasta el doble de lo que Alemania gasta por persona y obtiene 4 años menos de esperanza de vida y medio millón de bancarrotas. Una estadía en UCIN de un niño le cuesta a la familia $0 en Alemania. En Denver, puede costar millones.
 

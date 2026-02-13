@@ -1,46 +1,46 @@
 ---
-title: "LGBTQ+ Sanctuary & Protection"
-titleEs: "Santuario y Protección LGBTQ+"
+title: 'LGBTQ+ Sanctuary & Protection'
+titleEs: 'Santuario y Protección LGBTQ+'
 summary: "Full municipal LGBTQ+ nondiscrimination protections. Trans healthcare sanctuary. Ban on conversion therapy. Protection from federal rollbacks. Because Denver doesn't wait for permission to protect its people."
-summaryEs: "Protecciones municipales completas contra la discriminación LGBTQ+. Santuario de atención médica trans. Prohibición de la terapia de conversión. Protección contra retrocesos federales. Porque Denver no espera permiso para proteger a su gente."
-category: "safety"
-icon: "flag"
+summaryEs: 'Protecciones municipales completas contra la discriminación LGBTQ+. Santuario de atención médica trans. Prohibición de la terapia de conversión. Protección contra retrocesos federales. Porque Denver no espera permiso para proteger a su gente.'
+category: 'safety'
+icon: 'flag'
 order: 43
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "40%"
-    label: "of homeless youth are LGBTQ+"
-    labelEs: "de jovenes sin hogar son LGBTQ+"
-    context: "Disproportionately rejected by families and failed by every system"
-    contextEs: "Rechazados desproporcionadamente por familias y fallados por cada sistema"
-    source: "True Colors United, 2023"
-    theme: "danger"
-  - value: "45.5%"
-    label: "of LGBTQ+ adults faced job discrimination"
-    labelEs: "de adultos LGBTQ+ enfrentaron discriminacion laboral"
-    context: "Nearly twice as likely to live in poverty as non-LGBTQ+ people"
-    contextEs: "Casi el doble de probabilidades de vivir en pobreza"
-    source: "Williams Institute, 2023"
-    theme: "danger"
-  - value: "395+"
-    label: "US cities with local LGBTQ+ protections"
-    labelEs: "ciudades de EE.UU. con protecciones LGBTQ+ locales"
-    context: "Municipal ordinances are the most common and most durable form of LGBTQ+ legal protection"
-    contextEs: "Las ordenanzas municipales son la forma mas comun y duradera de proteccion legal LGBTQ+"
-    source: "Movement Advancement Project, 2025"
-    theme: "primary"
+  - value: '40%'
+    label: 'of homeless youth are LGBTQ+'
+    labelEs: 'de jovenes sin hogar son LGBTQ+'
+    context: 'Disproportionately rejected by families and failed by every system'
+    contextEs: 'Rechazados desproporcionadamente por familias y fallados por cada sistema'
+    source: 'True Colors United, 2023'
+    theme: 'danger'
+  - value: '45.5%'
+    label: 'of LGBTQ+ adults faced job discrimination'
+    labelEs: 'de adultos LGBTQ+ enfrentaron discriminacion laboral'
+    context: 'Nearly twice as likely to live in poverty as non-LGBTQ+ people'
+    contextEs: 'Casi el doble de probabilidades de vivir en pobreza'
+    source: 'Williams Institute, 2023'
+    theme: 'danger'
+  - value: '395+'
+    label: 'US cities with local LGBTQ+ protections'
+    labelEs: 'ciudades de EE.UU. con protecciones LGBTQ+ locales'
+    context: 'Municipal ordinances are the most common and most durable form of LGBTQ+ legal protection'
+    contextEs: 'Las ordenanzas municipales son la forma mas comun y duradera de proteccion legal LGBTQ+'
+    source: 'Movement Advancement Project, 2025'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "SB26-018"
-    title: "Legal Protections for Dignity of Minors"
-    status: "Introduced - Assigned to Judiciary"
-    url: "https://leg.colorado.gov/bills/sb26-018"
+  - billNumber: 'SB26-018'
+    title: 'Legal Protections for Dignity of Minors'
+    status: 'Introduced - Assigned to Judiciary'
+    url: 'https://leg.colorado.gov/bills/sb26-018'
 ---
 
 ## The Problem
 
-The federal government is actively dismantling LGBTQ+ protections. Project 2025, now being implemented, seeks to restrict the application of the Supreme Court's *Bostock v. Clayton County* decision, rescind regulations prohibiting discrimination based on sexual orientation and gender identity, and eliminate trans-inclusive healthcare from federal programs. The Department of Education has withdrawn Title IX guidance protecting trans students. The Department of Health and Human Services has reversed protections for LGBTQ+ patients under Section 1557 of the Affordable Care Act. The military has reinstated its ban on transgender service members. Federal agencies have been instructed to define sex as binary and immutable, erasing nonbinary and transgender identities from official recognition (GLAAD Project 2025 Tracker, 2025).
+The federal government is actively dismantling LGBTQ+ protections. Project 2025, now being implemented, seeks to restrict the application of the Supreme Court's _Bostock v. Clayton County_ decision, rescind regulations prohibiting discrimination based on sexual orientation and gender identity, and eliminate trans-inclusive healthcare from federal programs. The Department of Education has withdrawn Title IX guidance protecting trans students. The Department of Health and Human Services has reversed protections for LGBTQ+ patients under Section 1557 of the Affordable Care Act. The military has reinstated its ban on transgender service members. Federal agencies have been instructed to define sex as binary and immutable, erasing nonbinary and transgender identities from official recognition (GLAAD Project 2025 Tracker, 2025).
 
 This is not hypothetical. It is happening now. And the attack on LGBTQ+ rights is part of a broader assault on bodily autonomy — the same political coalition is simultaneously restricting abortion access, gender-affirming care, and contraception. These are not separate fights. They share the same principle (the government should not control your body), the same opposition (Project 2025's architects), and the same solution (municipal protection that cannot be stripped by executive order). Cross-reference: [Reproductive Healthcare Access](/platform/reproductive-healthcare) for the parallel framework protecting reproductive autonomy.
 
@@ -122,13 +122,13 @@ The same political movement restricting gender-affirming care is restricting abo
 
 ### International & Domestic Evidence: Municipal Protection Works
 
-| City/Jurisdiction | Policy | Result |
-|-------------------|--------|--------|
-| **395+ U.S. municipalities** | Local LGBTQ+ nondiscrimination ordinances filling gaps in state law. | Movement Advancement Project documents comprehensive coverage in cities even within states lacking statewide protection. Municipal ordinances are the most common form of LGBTQ+ legal protection in the US. |
-| **New York City** | NYC Commission on Human Rights independently enforces one of the nation's strongest local human rights laws, including LGBTQ+ protections. Gender identity protections since 2002. | Over 100 annual gender identity discrimination complaints investigated. NYC's local law allowed enforcement years before state and federal protections existed. |
-| **San Francisco, CA** | Transgender-inclusive healthcare mandate for city employees (2001). City-funded trans health services. Sanctuary policy for trans healthcare. | Model for municipal trans healthcare coverage. SF's policies preceded state and federal action by over a decade. |
-| **Minneapolis, MN** | One of the first US cities to pass a trans-inclusive civil rights ordinance (1975). Ongoing municipal enforcement. | 50 years of local enforcement providing a model for nondiscrimination. |
-| **Argentina (national)** | Gender Identity Law (2012): self-attestation for legal gender changes. No medical requirements. | Considered the global gold standard for gender self-determination. Replicated in elements by Denmark, Ireland, Malta, Norway, and Belgium. |
+| City/Jurisdiction            | Policy                                                                                                                                                                             | Result                                                                                                                                                                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **395+ U.S. municipalities** | Local LGBTQ+ nondiscrimination ordinances filling gaps in state law.                                                                                                               | Movement Advancement Project documents comprehensive coverage in cities even within states lacking statewide protection. Municipal ordinances are the most common form of LGBTQ+ legal protection in the US. |
+| **New York City**            | NYC Commission on Human Rights independently enforces one of the nation's strongest local human rights laws, including LGBTQ+ protections. Gender identity protections since 2002. | Over 100 annual gender identity discrimination complaints investigated. NYC's local law allowed enforcement years before state and federal protections existed.                                              |
+| **San Francisco, CA**        | Transgender-inclusive healthcare mandate for city employees (2001). City-funded trans health services. Sanctuary policy for trans healthcare.                                      | Model for municipal trans healthcare coverage. SF's policies preceded state and federal action by over a decade.                                                                                             |
+| **Minneapolis, MN**          | One of the first US cities to pass a trans-inclusive civil rights ordinance (1975). Ongoing municipal enforcement.                                                                 | 50 years of local enforcement providing a model for nondiscrimination.                                                                                                                                       |
+| **Argentina (national)**     | Gender Identity Law (2012): self-attestation for legal gender changes. No medical requirements.                                                                                    | Considered the global gold standard for gender self-determination. Replicated in elements by Denmark, Ireland, Malta, Norway, and Belgium.                                                                   |
 
 The pattern is clear: cities and municipalities have been the leaders on LGBTQ+ rights for decades. Federal protections came last and are now being withdrawn first. Municipal ordinances are not redundant -- they are essential.
 

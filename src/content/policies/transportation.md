@@ -1,37 +1,37 @@
 ---
-title: "Transportation & Public Transit"
-titleEs: "Transporte y Tránsito Público"
-summary: "Free RTD transit for low-income residents. Protected bike lanes on every major corridor. Vision Zero with real enforcement. Parking reform to reduce housing costs. Transit equity for underserved neighborhoods. 15-minute city framework so every Denverite can reach daily needs on foot or bike."
-summaryEs: "Tránsito RTD gratuito para residentes de bajos ingresos. Ciclovías protegidas en cada corredor principal. Visión Cero con aplicación real. Reforma de estacionamiento para reducir costos de vivienda. Equidad de tránsito para vecindarios desatendidos. Marco de ciudad de 15 minutos para que cada residente de Denver pueda llegar a sus necesidades diarias a pie o en bicicleta."
-category: "infrastructure"
-icon: "bus"
+title: 'Transportation & Public Transit'
+titleEs: 'Transporte y Tránsito Público'
+summary: 'Free RTD transit for low-income residents. Protected bike lanes on every major corridor. Vision Zero with real enforcement. Parking reform to reduce housing costs. Transit equity for underserved neighborhoods. 15-minute city framework so every Denverite can reach daily needs on foot or bike.'
+summaryEs: 'Tránsito RTD gratuito para residentes de bajos ingresos. Ciclovías protegidas en cada corredor principal. Visión Cero con aplicación real. Reforma de estacionamiento para reducir costos de vivienda. Equidad de tránsito para vecindarios desatendidos. Marco de ciudad de 15 minutos para que cada residente de Denver pueda llegar a sus necesidades diarias a pie o en bicicleta.'
+category: 'infrastructure'
+icon: 'bus'
 order: 62
-status: "draft"
-actionTarget: "mayor"
-grantProposal: "transportation-hsip-ss4a"
+status: 'draft'
+actionTarget: 'mayor'
+grantProposal: 'transportation-hsip-ss4a'
 hasFundingSources: true
 keyStats:
-  - value: "93"
-    label: "people killed on Denver streets in 2025"
-    labelEs: "personas muertas en calles de Denver en 2025"
-    context: "The deadliest year since 2013. Pedestrian deaths up 34%. Vision Zero is failing."
-    contextEs: "El ano mas mortal desde 2013. Muertes de peatones aumentaron 34%."
-    source: "Denver Vision Zero Dashboard, 2025"
-    theme: "danger"
-  - value: "38%"
-    label: "drop in RTD ridership since 2019"
-    labelEs: "caida en pasajeros de RTD desde 2019"
-    context: "From 105.8M to 65.2M riders while peer cities recovered to 85%+"
-    contextEs: "De 105.8M a 65.2M pasajeros mientras ciudades similares recuperaron al 85%+"
-    source: "Denver Post, October 2025"
-    theme: "danger"
-  - value: "$3.5B/yr"
-    label: "lost to traffic congestion in Denver"
-    labelEs: "perdidos por congestion vehicular en Denver"
-    context: "Free transit costs $35M — that is 1% of congestion losses"
-    contextEs: "Transito gratuito cuesta $35M — eso es el 1% de las perdidas por congestion"
-    source: "Texas A&M Transportation Institute, 2025"
-    theme: "accent"
+  - value: '93'
+    label: 'people killed on Denver streets in 2025'
+    labelEs: 'personas muertas en calles de Denver en 2025'
+    context: 'The deadliest year since 2013. Pedestrian deaths up 34%. Vision Zero is failing.'
+    contextEs: 'El ano mas mortal desde 2013. Muertes de peatones aumentaron 34%.'
+    source: 'Denver Vision Zero Dashboard, 2025'
+    theme: 'danger'
+  - value: '38%'
+    label: 'drop in RTD ridership since 2019'
+    labelEs: 'caida en pasajeros de RTD desde 2019'
+    context: 'From 105.8M to 65.2M riders while peer cities recovered to 85%+'
+    contextEs: 'De 105.8M a 65.2M pasajeros mientras ciudades similares recuperaron al 85%+'
+    source: 'Denver Post, October 2025'
+    theme: 'danger'
+  - value: '$3.5B/yr'
+    label: 'lost to traffic congestion in Denver'
+    labelEs: 'perdidos por congestion vehicular en Denver'
+    context: 'Free transit costs $35M — that is 1% of congestion losses'
+    contextEs: 'Transito gratuito cuesta $35M — eso es el 1% de las perdidas por congestion'
+    source: 'Texas A&M Transportation Institute, 2025'
+    theme: 'accent'
 ---
 
 ## The Problem
@@ -129,26 +129,26 @@ Denver's neighborhoods are deeply unequal in access to daily essentials. Residen
 
 **International Evidence for the 15-Minute Framework**
 
-| City | Initiative | Result |
-|------|-----------|--------|
-| **Paris, France** | Mayor Anne Hidalgo's "ville du quart d'heure": converting car lanes to bike lanes, creating neighborhood plazas, planting 170,000 trees, and decentralizing city services to local neighborhoods. | Car traffic in Paris dropped 60% since 2001. Cycling trips tripled between 2019-2024. Air quality improved significantly. Hidalgo won re-election on the platform. |
-| **Shanghai, China** | Added 50 km of new routes connecting 4.8 million residents to public spaces along the Huangpu River within a 15-minute bike ride. | Massive increase in waterfront access for residents previously cut off by car infrastructure. |
-| **Sydney, Australia** | Redesigned George Street, once the city's most congested street, as a people-centered public space. | Now moves 8,000 transit riders per hour. Pedestrian traffic increased dramatically. Retail on the street thrived. |
-| **Indianapolis, USA** | Invested $27 million in downtown biking infrastructure. | Catalyzed $170 million in private housing and commercial development. 70% of residents report more exercise. Downtown revenue increased by two-thirds. |
-| **Melbourne, Australia** | 20-minute neighborhood policy: explicit planning framework requiring all new development to meet walkability standards for essential services. | Adopted as official metropolitan planning strategy. Neighborhoods assessed and rated on 20-minute access. Public dashboard tracks progress. |
-| **Buenos Aires, Argentina** | Upgraded 27 public spaces in the city's largest informal settlement to create walkable neighborhoods. Introduced infill housing and pedestrian corridors. | Transformed access to services in the city's most underserved community. Model for equity-focused 15-minute design. |
+| City                        | Initiative                                                                                                                                                                                        | Result                                                                                                                                                             |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Paris, France**           | Mayor Anne Hidalgo's "ville du quart d'heure": converting car lanes to bike lanes, creating neighborhood plazas, planting 170,000 trees, and decentralizing city services to local neighborhoods. | Car traffic in Paris dropped 60% since 2001. Cycling trips tripled between 2019-2024. Air quality improved significantly. Hidalgo won re-election on the platform. |
+| **Shanghai, China**         | Added 50 km of new routes connecting 4.8 million residents to public spaces along the Huangpu River within a 15-minute bike ride.                                                                 | Massive increase in waterfront access for residents previously cut off by car infrastructure.                                                                      |
+| **Sydney, Australia**       | Redesigned George Street, once the city's most congested street, as a people-centered public space.                                                                                               | Now moves 8,000 transit riders per hour. Pedestrian traffic increased dramatically. Retail on the street thrived.                                                  |
+| **Indianapolis, USA**       | Invested $27 million in downtown biking infrastructure.                                                                                                                                           | Catalyzed $170 million in private housing and commercial development. 70% of residents report more exercise. Downtown revenue increased by two-thirds.             |
+| **Melbourne, Australia**    | 20-minute neighborhood policy: explicit planning framework requiring all new development to meet walkability standards for essential services.                                                    | Adopted as official metropolitan planning strategy. Neighborhoods assessed and rated on 20-minute access. Public dashboard tracks progress.                        |
+| **Buenos Aires, Argentina** | Upgraded 27 public spaces in the city's largest informal settlement to create walkable neighborhoods. Introduced infill housing and pedestrian corridors.                                         | Transformed access to services in the city's most underserved community. Model for equity-focused 15-minute design.                                                |
 
 The 15-minute city is not about restricting movement. It is about ensuring that no one is forced to own a car to live a functional life. In Denver, where 81% of commuters drive alone and low-income residents in transit deserts face the highest transportation cost burdens, this framework is an equity imperative.
 
 ### International Evidence: Cars Are Not The Answer
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Copenhagen, Denmark** | Decades of investment in protected cycling infrastructure, cycle superhighways connecting suburbs, demand-based parking pricing. | 49% of all trips to work or school by bike. 97% cyclist satisfaction. City saves $91 million annually in healthcare costs from cycling. |
-| **Tokyo, Japan** | World's most extensive urban rail network: 158 lines, 4,714 km of track, 2,210 stations serving the metro area. | 40 million daily rail passengers. 99.8% on-time performance. A system so precise it publicly apologized for a train departing 25 seconds early. |
-| **Kansas City, MO** | Eliminated all bus fares in 2020, the largest U.S. city with fare-free transit. | Ridership 24% above peer cities. 17% of riders are new to transit. 92% report improved access to jobs and essentials. |
-| **Bogota, Colombia** | TransMilenio BRT (55 km) integrated with 550 km cycling network. Weekly Ciclovia opens 121 km of streets car-free every Sunday. | Up to 2 million weekly Ciclovia participants. 900,000 daily cycling trips. Bike speeds (17 km/h) beat rush-hour transit (13 km/h). Inspired hundreds of cities worldwide (8-80 Cities / Open Streets Project). |
-| **Amsterdam, Netherlands** | "Autoluw" (car-lite) policy: removing 7,000-10,000 parking spaces, 30 km/h speed limits, cycling infrastructure budget increased from 5 to 70 million euros/year. | 36% of all trips by bike (87% in city center). 665,000 daily cycling journeys. More bicycles than people in the city. |
+| Country/City               | Model                                                                                                                                                             | Result                                                                                                                                                                                                         |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Copenhagen, Denmark**    | Decades of investment in protected cycling infrastructure, cycle superhighways connecting suburbs, demand-based parking pricing.                                  | 49% of all trips to work or school by bike. 97% cyclist satisfaction. City saves $91 million annually in healthcare costs from cycling.                                                                        |
+| **Tokyo, Japan**           | World's most extensive urban rail network: 158 lines, 4,714 km of track, 2,210 stations serving the metro area.                                                   | 40 million daily rail passengers. 99.8% on-time performance. A system so precise it publicly apologized for a train departing 25 seconds early.                                                                |
+| **Kansas City, MO**        | Eliminated all bus fares in 2020, the largest U.S. city with fare-free transit.                                                                                   | Ridership 24% above peer cities. 17% of riders are new to transit. 92% report improved access to jobs and essentials.                                                                                          |
+| **Bogota, Colombia**       | TransMilenio BRT (55 km) integrated with 550 km cycling network. Weekly Ciclovia opens 121 km of streets car-free every Sunday.                                   | Up to 2 million weekly Ciclovia participants. 900,000 daily cycling trips. Bike speeds (17 km/h) beat rush-hour transit (13 km/h). Inspired hundreds of cities worldwide (8-80 Cities / Open Streets Project). |
+| **Amsterdam, Netherlands** | "Autoluw" (car-lite) policy: removing 7,000-10,000 parking spaces, 30 km/h speed limits, cycling infrastructure budget increased from 5 to 70 million euros/year. | 36% of all trips by bike (87% in city center). 665,000 daily cycling journeys. More bicycles than people in the city.                                                                                          |
 
 Denver has every advantage these cities had, and then some. The metro area already has 104 miles of rail track and a rail station network that most cities would envy. Denver averages 245 sunny days per year, more than Miami or San Diego (National Weather Service). The terrain is flat across the urban core. The population is young, growing, and increasingly demanding alternatives to car dependency. What Denver lacks is not geography or climate or infrastructure -- it is political will.
 

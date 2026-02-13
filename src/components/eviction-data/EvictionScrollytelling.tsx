@@ -4,10 +4,5 @@ import StickyVisualization from './StickyVisualization';
 import NarrativeSteps from './NarrativeSteps';
 
 export default function EvictionScrollytelling() {
-  return (
-    <ScrollytellingWrapper
-      Visualization={StickyVisualization}
-      Steps={NarrativeSteps}
-    />
-  );
+  return <ScrollytellingWrapper Visualization={StickyVisualization} Steps={NarrativeSteps} />;
 }

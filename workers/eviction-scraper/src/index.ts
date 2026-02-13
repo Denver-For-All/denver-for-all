@@ -113,24 +113,28 @@ export default {
       const filings = await scrapeFilings();
 
       for (const filing of filings) {
-        await env.DB.prepare(`
+        await env.DB.prepare(
+          `
           INSERT OR IGNORE INTO eviction_filings
             (case_number, filing_date, plaintiff, plaintiff_attorney,
              defendant, address, neighborhood, zip_code, filing_type,
              amount_claimed)
           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        `).bind(
-          filing.caseNumber,
-          filing.filingDate,
-          filing.plaintiff,
-          filing.plaintiffAttorney,
-          filing.defendant,
-          filing.address,
-          filing.neighborhood,
-          filing.zipCode,
-          filing.filingType,
-          filing.amountClaimed,
-        ).run();
+        `,
+        )
+          .bind(
+            filing.caseNumber,
+            filing.filingDate,
+            filing.plaintiff,
+            filing.plaintiffAttorney,
+            filing.defendant,
+            filing.address,
+            filing.neighborhood,
+            filing.zipCode,
+            filing.filingType,
+            filing.amountClaimed,
+          )
+          .run();
       }
 
       console.log(`Scraped and stored ${filings.length} new filings`);
@@ -173,19 +177,25 @@ async function scrapeFilings(): Promise<EvictionFiling[]> {
 // --- API Handlers ---
 
 async function getSummary(db: D1Database) {
-  const total = await db.prepare(
-    'SELECT COUNT(*) as count FROM eviction_filings'
-  ).first();
+  const total = await db.prepare('SELECT COUNT(*) as count FROM eviction_filings').first();
 
-  const thisMonth = await db.prepare(`
+  const thisMonth = await db
+    .prepare(
+      `
     SELECT COUNT(*) as count FROM eviction_filings
     WHERE filing_date >= date('now', 'start of month')
-  `).first();
+  `,
+    )
+    .first();
 
-  const topLandlord = await db.prepare(`
+  const topLandlord = await db
+    .prepare(
+      `
     SELECT plaintiff, COUNT(*) as count FROM eviction_filings
     GROUP BY plaintiff ORDER BY count DESC LIMIT 1
-  `).first();
+  `,
+    )
+    .first();
 
   return {
     totalFilings: total?.count ?? 0,
@@ -196,13 +206,17 @@ async function getSummary(db: D1Database) {
 }
 
 async function getByNeighborhood(db: D1Database) {
-  const results = await db.prepare(`
+  const results = await db
+    .prepare(
+      `
     SELECT neighborhood, COUNT(*) as count
     FROM eviction_filings
     WHERE neighborhood IS NOT NULL
     GROUP BY neighborhood
     ORDER BY count DESC
-  `).all();
+  `,
+    )
+    .all();
 
   return results.results;
 }
@@ -210,7 +224,9 @@ async function getByNeighborhood(db: D1Database) {
 async function getByLandlord(db: D1Database, params: URLSearchParams) {
   const limit = Math.min(parseInt(params.get('limit') ?? '20'), 100);
 
-  const results = await db.prepare(`
+  const results = await db
+    .prepare(
+      `
     SELECT plaintiff as landlord, COUNT(*) as filings,
            MIN(filing_date) as first_filing,
            MAX(filing_date) as last_filing
@@ -218,7 +234,10 @@ async function getByLandlord(db: D1Database, params: URLSearchParams) {
     GROUP BY plaintiff
     ORDER BY filings DESC
     LIMIT ?
-  `).bind(limit).all();
+  `,
+    )
+    .bind(limit)
+    .all();
 
   return results.results;
 }
@@ -226,7 +245,9 @@ async function getByLandlord(db: D1Database, params: URLSearchParams) {
 async function getTrend(db: D1Database, params: URLSearchParams) {
   const months = Math.min(parseInt(params.get('months') ?? '12'), 60);
 
-  const results = await db.prepare(`
+  const results = await db
+    .prepare(
+      `
     SELECT
       strftime('%Y-%m', filing_date) as month,
       COUNT(*) as filings
@@ -234,7 +255,10 @@ async function getTrend(db: D1Database, params: URLSearchParams) {
     WHERE filing_date >= date('now', '-' || ? || ' months')
     GROUP BY month
     ORDER BY month ASC
-  `).bind(months).all();
+  `,
+    )
+    .bind(months)
+    .all();
 
   return results.results;
 }
@@ -242,13 +266,18 @@ async function getTrend(db: D1Database, params: URLSearchParams) {
 async function getRecent(db: D1Database, params: URLSearchParams) {
   const limit = Math.min(parseInt(params.get('limit') ?? '50'), 200);
 
-  const results = await db.prepare(`
+  const results = await db
+    .prepare(
+      `
     SELECT case_number, filing_date, plaintiff, neighborhood,
            zip_code, filing_type, disposition
     FROM eviction_filings
     ORDER BY filing_date DESC
     LIMIT ?
-  `).bind(limit).all();
+  `,
+    )
+    .bind(limit)
+    .all();
 
   return results.results;
 }

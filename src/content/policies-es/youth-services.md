@@ -20,6 +20,7 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 ## Nuestra Solución
 
 ### 1. Empleo de Verano Garantizado
+
 - Empleos de verano financiados por la ciudad para cada adolescente de Denver de 14 a 18 años que quiera uno
 - Meta: más de 10,000 puestos por verano (los programas actuales atienden aproximadamente 2,000-3,000)
 - Colocaciones en gobierno municipal, organizaciones sin fines de lucro, pequeñas empresas, parques y bibliotecas
@@ -29,6 +30,7 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 - Siguiendo el modelo de SuccessLink de Boston (más de 30 años de trayectoria) y el Summer Youth Employment Program de NYC (más de 100,000 colocaciones/año)
 
 ### 2. Centros Juveniles Durante Todo el Año
+
 - Centro juvenil dedicado en cada distrito del concejo (11 centros)
 - Abiertos después de la escuela, por las tardes y los fines de semana, con horarios diseñados en torno a cuándo los jóvenes realmente necesitan espacios seguros
 - Programación: ayuda con tareas, artes, producción musical, deportes, programación informática, exploración de carreras, cocina
@@ -38,6 +40,7 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 - Espacio seguro y afirmativo para jóvenes LGBTQ+
 
 ### 3. Consejo Asesor Juvenil con Autoridad Presupuestaria
+
 - Consejo Asesor Juvenil de toda la ciudad (edades 14-24), elegido por los jóvenes de Denver
 - Autoridad presupuestaria real: asignar $5M/año a través de presupuesto participativo dirigido por jóvenes
 - Rol asesor formal en todas las políticas de la ciudad que afecten a los jóvenes
@@ -46,6 +49,7 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 - Referencia cruzada: política de presupuesto participativo
 
 ### 4. Salud Mental Escolar
+
 - Consejero de salud mental con licencia en cada escuela de DPS (primaria a secundaria)
 - Ratio objetivo: 1 consejero por cada 250 estudiantes (cumpliendo las recomendaciones de ASCA)
 - Capacitación en atención informada por trauma para todo el personal escolar, no solo los consejeros
@@ -55,6 +59,7 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 - Campañas de desestigmatización diseñadas y lideradas por los propios estudiantes
 
 ### 5. Intervención contra la Violencia Juvenil
+
 - Intervención contra la violencia basada en la comunidad usando el modelo de mensajeros creíbles (personas con experiencia vivida, de las comunidades afectadas)
 - Intervención hospitalaria para víctimas jóvenes para prevenir ciclos de represalia
 - Resolución de conflictos y justicia restaurativa en las escuelas como respuesta predeterminada (no suspensión/expulsión)
@@ -63,6 +68,7 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 - Referencia cruzada: política de seguridad pública
 
 ### 6. Caminos Profesionales y Aprendizajes
+
 - Aprendizajes facilitados por la ciudad en oficios, salud, tecnología e industrias creativas
 - Programas de pre-aprendizaje para jóvenes de 16 a 18 años (capacitación pagada, no sin paga)
 - Apoyo para GED y credenciales para jóvenes desconectados
@@ -71,13 +77,13 @@ Los esfuerzos de prevención de violencia juvenil de Denver están fragmentados 
 
 ### Evidencia Internacional: Invertir en Jóvenes, Reducir el Crimen
 
-| País/Ciudad | Modelo | Resultado |
-|-------------|--------|-----------|
-| **Finlandia** | Youth Guarantee: a cada persona menor de 25 años se le ofrece empleo, educación o capacitación dentro de 3 meses de quedar desempleada. Acceso universal a servicios juveniles. | El desempleo juvenil consistentemente entre los más bajos de Europa. Los servicios juveniles tratados como inversión, no como gasto. |
-| **Alemania** | Sistema de aprendizaje dual: el 70% de los jóvenes ingresan a aprendizajes estructurados que combinan aula y capacitación práctica remunerada. | Desempleo juvenil por debajo del 6%, uno de los más bajos del mundo. El 70% de los aprendices son contratados permanentemente por su empresa de capacitación. |
-| **Boston, EE.UU.** | Programa de empleos de verano SuccessLink operando por más de 30 años. Financiado por la ciudad, colocando miles de adolescentes en empleo de verano anualmente. | La investigación demuestra una correlación directa entre el empleo de verano y la reducción de la violencia juvenil. El programa es un modelo de inversión juvenil urbana a nivel nacional. |
-| **Medellín, Colombia** | Inversión masiva en jóvenes en los vecindarios más violentos: educación, artes, bibliotecas, capacitación laboral, espacios públicos. La programación juvenil fue central en la estrategia de transformación de la ciudad. | Pasó de ser la capital del asesinato del mundo a un modelo global de renovación urbana. Los programas juveniles fueron la base de la transformación. |
-| **Escocia** | Enfoque de sistema completo para la justicia juvenil: alternativas basadas en la comunidad, intervención temprana, justicia restaurativa, edad de responsabilidad penal elevada a 12 años. | El encarcelamiento juvenil bajó un 83% desde 2008. El crimen juvenil bajó dramáticamente. Demuestra que invertir en alternativas funciona mejor que el castigo. |
+| País/Ciudad            | Modelo                                                                                                                                                                                                                     | Resultado                                                                                                                                                                                   |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finlandia**          | Youth Guarantee: a cada persona menor de 25 años se le ofrece empleo, educación o capacitación dentro de 3 meses de quedar desempleada. Acceso universal a servicios juveniles.                                            | El desempleo juvenil consistentemente entre los más bajos de Europa. Los servicios juveniles tratados como inversión, no como gasto.                                                        |
+| **Alemania**           | Sistema de aprendizaje dual: el 70% de los jóvenes ingresan a aprendizajes estructurados que combinan aula y capacitación práctica remunerada.                                                                             | Desempleo juvenil por debajo del 6%, uno de los más bajos del mundo. El 70% de los aprendices son contratados permanentemente por su empresa de capacitación.                               |
+| **Boston, EE.UU.**     | Programa de empleos de verano SuccessLink operando por más de 30 años. Financiado por la ciudad, colocando miles de adolescentes en empleo de verano anualmente.                                                           | La investigación demuestra una correlación directa entre el empleo de verano y la reducción de la violencia juvenil. El programa es un modelo de inversión juvenil urbana a nivel nacional. |
+| **Medellín, Colombia** | Inversión masiva en jóvenes en los vecindarios más violentos: educación, artes, bibliotecas, capacitación laboral, espacios públicos. La programación juvenil fue central en la estrategia de transformación de la ciudad. | Pasó de ser la capital del asesinato del mundo a un modelo global de renovación urbana. Los programas juveniles fueron la base de la transformación.                                        |
+| **Escocia**            | Enfoque de sistema completo para la justicia juvenil: alternativas basadas en la comunidad, intervención temprana, justicia restaurativa, edad de responsabilidad penal elevada a 12 años.                                 | El encarcelamiento juvenil bajó un 83% desde 2008. El crimen juvenil bajó dramáticamente. Demuestra que invertir en alternativas funciona mejor que el castigo.                             |
 
 Invertir en jóvenes es la inversión pública con el mayor retorno que una ciudad puede hacer. Cada dólar gastado en programas juveniles de calidad retorna $7-10 en encarcelamiento reducido (Heckman & Masterov, 2007; Fight Crime: Invest in Kids, 2020) ($60,000+/año por joven en Colorado), costos de atención médica reducidos, mayores ingresos de por vida y mayores ingresos fiscales. El castigo es caro y no funciona. La prevención es más barata y sí funciona.
 

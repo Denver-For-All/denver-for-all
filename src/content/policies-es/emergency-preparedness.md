@@ -20,6 +20,7 @@ FEMA clasifica al condado de Denver con riesgo "relativamente moderado" para pel
 ## Nuestra Solución
 
 ### 1. Plan de Respuesta al Humo de Incendios Forestales
+
 - Refugios de aire limpio en cada distrito del concejo (11 mínimo) equipados con sistemas de filtración HEPA
 - Mascarillas N95 gratuitas distribuidas a través de bibliotecas, centros recreativos y estaciones de bomberos durante eventos de humo
 - Red de monitoreo de calidad del aire en tiempo real con sensores en cada vecindario y un panel público
@@ -28,6 +29,7 @@ FEMA clasifica al condado de Denver con riesgo "relativamente moderado" para pel
 - Apoyo de calidad del aire interior: biblioteca de préstamo de filtros HEPA y unidades subsidiadas para hogares de bajos ingresos
 
 ### 2. Plan de Acción contra Calor Extremo
+
 - Centros de enfriamiento en cada vecindario con horarios extendidos durante eventos de calor (abiertos hasta las 10 PM como mínimo)
 - Estaciones de nebulización y estructuras de sombra en paradas de tránsito, parques y espacios públicos
 - Aceleración del dosel arbóreo urbano al objetivo de cobertura del 30% (referencia cruzada con política climática)
@@ -37,6 +39,7 @@ FEMA clasifica al condado de Denver con riesgo "relativamente moderado" para pel
 - Unidades móviles de enfriamiento desplegadas a campamentos y vecindarios sin centros de enfriamiento cercanos
 
 ### 3. Resiliencia ante Inundaciones y Aguas Pluviales
+
 - Infraestructura verde de aguas pluviales: biofiltros, jardines de lluvia y pavimento permeable en áreas propensas a inundaciones
 - Expansión de la detención de aguas pluviales priorizando vecindarios desatendidos
 - Monitoreo de inundaciones en tiempo real y sistema de alerta temprana para todas las vías fluviales de Denver
@@ -45,6 +48,7 @@ FEMA clasifica al condado de Denver con riesgo "relativamente moderado" para pel
 - Plan de eliminación de desbordamientos del alcantarillado combinado con cronograma dedicado e informes públicos
 
 ### 4. Centros Comunitarios de Resiliencia
+
 - Centros comunitarios alimentados por energía solar con respaldo de baterías en cada distrito del concejo que funcionen durante apagones (referencia cruzada: [Confiabilidad Energética y Energía Municipal](/platform/power-reliability) para nuestra propuesta completa de resiliencia de la red y energía municipal)
 - Equipados con energía de respaldo, agua, suministros de primeros auxilios, comunicaciones, calefacción/refrigeración y carga de teléfonos
 - Con personal de Community Emergency Response Teams (CERT) capacitados
@@ -53,6 +57,7 @@ FEMA clasifica al condado de Denver con riesgo "relativamente moderado" para pel
 - Ubicados en los vecindarios más vulnerables a los impactos climáticos
 
 ### 5. Respuesta Equitativa a Desastres
+
 - Planificación de emergencias centrada en la equidad: priorizar vecindarios con los puntajes más altos de vulnerabilidad social
 - Comunicaciones de emergencia multilingües (español, vietnamita, amhárico, árabe, somalí)
 - Refugios accesibles para discapacitados y planes de evacuación con estándares que excedan el ADA
@@ -62,13 +67,13 @@ FEMA clasifica al condado de Denver con riesgo "relativamente moderado" para pel
 
 ### Evidencia Internacional: La Preparación Salva Vidas y Dinero
 
-| País/Ciudad | Modelo | Resultado |
-|-------------|--------|-----------|
-| **Tokio, Japón** | Preparación integral ante desastres: comités de emergencia vecinales, simulacros comunitarios regulares, infraestructura resiliente a sismos, kits de suministros de 3 días para cada hogar. | Las tasas de mortalidad más bajas por desastres naturales de cualquier ciudad importante a pesar de la exposición extrema a terremotos y tifones. La preparación comunitaria es la base. |
-| **Países Bajos** | Programa "Room for the River": en lugar de construir diques más altos, dieron espacio a los ríos para inundar de forma segura a través de llanuras de inundación controladas e infraestructura verde. | Transformó la gestión de inundaciones para un país donde el 60% del territorio es propenso a inundaciones. Redujo el riesgo de inundaciones mientras creaba parques y áreas recreativas. |
-| **Melbourne, Australia** | Estrategia de bosque urbano y programa de rutas frescas: mapeó poblaciones vulnerables al calor, plantó 3,000 árboles/año, creó rutas peatonales con sombra hacia centros de enfriamiento. | Redujo las temperaturas urbanas de forma medible. El sistema de advertencia de salud por calor redujo las admisiones hospitalarias relacionadas con el calor en un 30%. |
-| **Medellín, Colombia** | Corredores verdes a lo largo de carreteras principales y vías fluviales: 30 corredores reduciendo las temperaturas urbanas en 2°C. Integrado con sistemas de alerta temprana para deslizamientos e inundaciones. | Combinó la adaptación climática con la renovación urbana. Redujo las muertes por inundaciones a través de alerta temprana comunitaria. |
-| **Portland, OR** | Centros comunitarios de resiliencia: centros vecinales alimentados por energía solar con respaldo de baterías que sirven como refugios de emergencia y espacios comunitarios cotidianos. | Los centros sirvieron a las comunidades durante la cúpula de calor de 2021 (116°F) cuando cientos murieron en el noroeste del Pacífico. Demostraron que el modelo funciona bajo condiciones extremas. |
+| País/Ciudad              | Modelo                                                                                                                                                                                                           | Resultado                                                                                                                                                                                             |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tokio, Japón**         | Preparación integral ante desastres: comités de emergencia vecinales, simulacros comunitarios regulares, infraestructura resiliente a sismos, kits de suministros de 3 días para cada hogar.                     | Las tasas de mortalidad más bajas por desastres naturales de cualquier ciudad importante a pesar de la exposición extrema a terremotos y tifones. La preparación comunitaria es la base.              |
+| **Países Bajos**         | Programa "Room for the River": en lugar de construir diques más altos, dieron espacio a los ríos para inundar de forma segura a través de llanuras de inundación controladas e infraestructura verde.            | Transformó la gestión de inundaciones para un país donde el 60% del territorio es propenso a inundaciones. Redujo el riesgo de inundaciones mientras creaba parques y áreas recreativas.              |
+| **Melbourne, Australia** | Estrategia de bosque urbano y programa de rutas frescas: mapeó poblaciones vulnerables al calor, plantó 3,000 árboles/año, creó rutas peatonales con sombra hacia centros de enfriamiento.                       | Redujo las temperaturas urbanas de forma medible. El sistema de advertencia de salud por calor redujo las admisiones hospitalarias relacionadas con el calor en un 30%.                               |
+| **Medellín, Colombia**   | Corredores verdes a lo largo de carreteras principales y vías fluviales: 30 corredores reduciendo las temperaturas urbanas en 2°C. Integrado con sistemas de alerta temprana para deslizamientos e inundaciones. | Combinó la adaptación climática con la renovación urbana. Redujo las muertes por inundaciones a través de alerta temprana comunitaria.                                                                |
+| **Portland, OR**         | Centros comunitarios de resiliencia: centros vecinales alimentados por energía solar con respaldo de baterías que sirven como refugios de emergencia y espacios comunitarios cotidianos.                         | Los centros sirvieron a las comunidades durante la cúpula de calor de 2021 (116°F) cuando cientos murieron en el noroeste del Pacífico. Demostraron que el modelo funciona bajo condiciones extremas. |
 
 Cada $1 invertido en preparación ante desastres ahorra $6 en costos de respuesta y recuperación ante desastres (FEMA/National Institute of Building Sciences, 2019). Denver pagará por los impactos climáticos de una forma u otra. La pregunta es si invertimos proactivamente y salvamos vidas, o pagamos reactivamente después de que las personas mueran.
 

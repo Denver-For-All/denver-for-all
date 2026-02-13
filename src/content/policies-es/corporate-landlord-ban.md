@@ -26,6 +26,7 @@ En agosto de 2024, el U.S. Department of Justice presento una demanda civil anti
 
 **1. Prohibicion de Adquisicion**
 Las entidades que posean 50+ unidades residenciales a nivel nacional tienen prohibido adquirir propiedades residenciales adicionales (1-4 unidades) dentro de los limites de la ciudad de Denver. Esto incluye:
+
 - Compras directas
 - Compras a traves de subsidiarias, LLCs o companias fantasma
 - Esquemas de alquiler con opcion a compra que resulten en propiedad corporativa
@@ -33,12 +34,14 @@ Las entidades que posean 50+ unidades residenciales a nivel nacional tienen proh
 
 **2. Requisito de Desinversion**
 Los tenedores corporativos existentes de 50+ unidades deben desinvertir las propiedades residenciales (1-4 unidades) dentro de 5 anos de la aprobacion de la ordenanza. La desinversion debe ser:
+
 - A propietarios-ocupantes individuales, fideicomisos de tierras comunitarios o la Social Housing Authority
 - Al valor justo de mercado tasado independientemente (sin precios inflados)
 - Con derecho de primera oferta para los inquilinos actuales
 
 **3. Transparencia de Propiedad Beneficiaria**
 Todas las LLCs y entidades corporativas que posean propiedades residenciales en Denver deben divulgar su cadena completa de propiedad beneficiaria -- las personas reales que poseen y se benefician. Sin esconderse detras de companias fantasma.
+
 - Divulgacion anual requerida
 - Registro publico mantenido por la ciudad
 - Falta de divulgacion: impuesto a la propiedad tasado a 3 veces la tasa estandar
@@ -47,19 +50,20 @@ Todas las LLCs y entidades corporativas que posean propiedades residenciales en 
 Los propietarios y companias de gestion de propiedades tienen prohibido usar software de precios algoritmicos (RealPage, Yardi, etc.) que coordine precios entre arrendadores competidores. Esto es fijacion de precios, ya sea hecho por humanos en una habitacion o por un algoritmo en un servidor.
 
 **5. Estructura de Sanciones**
+
 - Primera violacion: $50,000 por propiedad
 - Violaciones subsiguientes: $100,000 por propiedad + desinversion obligatoria
 - Referencia criminal por violaciones sistematicas
 
 ### Evidencia Internacional: La Vivienda No Es un Instrumento Financiero
 
-| Pais | Modelo | Resultado |
-|---------|-------|--------|
-| **Dinamarca** | Los no residentes y las companias no danesas no pueden comprar propiedades residenciales sin permiso. Requisitos de ocupacion por propietario para muchos tipos de vivienda. | La vivienda sigue siendo principalmente para residentes, no para inversionistas. Los precios son mas estables. La propiedad de vivienda sirve a las familias, no a los portafolios. |
-| **Nueva Zelanda** | Prohibio a compradores extranjeros de propiedades residenciales existentes (2018). | Elimino la demanda especulativa. El crecimiento de precios de vivienda se desacelero. Los compradores nacionales enfrentan menos competencia del capital internacional. |
-| **Alemania** | Fuertes protecciones para inquilinos y regulaciones de alquiler hacen de la propiedad residencial una inversion de bajo retorno, desincentivando naturalmente la adquisicion especulativa. Las leyes de *Wohnungsgemeinnuetzigkeit* (beneficio publico de vivienda) historicamente limitaron las ganancias en vivienda. | Los arrendadores corporativos existen pero operan bajo regulacion pesada. La vivienda no es la clase de activo especulativo que es en EE.UU. |
-| **Berlin, Alemania** | Referendum de 2021: el 59% voto por expropiar 240,000 departamentos de grandes arrendadores corporativos (Deutsche Wohnen, Vonovia). Implementacion en curso. | Mandato democratico para recuperar la vivienda de los arrendadores corporativos. El movimiento es global. |
-| **Espana** | La nueva ley de vivienda de Cataluna (2023) obliga a los grandes arrendadores a alquilar propiedades vacantes en areas de alta demanda o enfrentar expropiacion. | Aborda directamente la vacancia corporativa y la especulacion. |
+| Pais                 | Modelo                                                                                                                                                                                                                                                                                                                  | Resultado                                                                                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dinamarca**        | Los no residentes y las companias no danesas no pueden comprar propiedades residenciales sin permiso. Requisitos de ocupacion por propietario para muchos tipos de vivienda.                                                                                                                                            | La vivienda sigue siendo principalmente para residentes, no para inversionistas. Los precios son mas estables. La propiedad de vivienda sirve a las familias, no a los portafolios. |
+| **Nueva Zelanda**    | Prohibio a compradores extranjeros de propiedades residenciales existentes (2018).                                                                                                                                                                                                                                      | Elimino la demanda especulativa. El crecimiento de precios de vivienda se desacelero. Los compradores nacionales enfrentan menos competencia del capital internacional.             |
+| **Alemania**         | Fuertes protecciones para inquilinos y regulaciones de alquiler hacen de la propiedad residencial una inversion de bajo retorno, desincentivando naturalmente la adquisicion especulativa. Las leyes de _Wohnungsgemeinnuetzigkeit_ (beneficio publico de vivienda) historicamente limitaron las ganancias en vivienda. | Los arrendadores corporativos existen pero operan bajo regulacion pesada. La vivienda no es la clase de activo especulativo que es en EE.UU.                                        |
+| **Berlin, Alemania** | Referendum de 2021: el 59% voto por expropiar 240,000 departamentos de grandes arrendadores corporativos (Deutsche Wohnen, Vonovia). Implementacion en curso.                                                                                                                                                           | Mandato democratico para recuperar la vivienda de los arrendadores corporativos. El movimiento es global.                                                                           |
+| **Espana**           | La nueva ley de vivienda de Cataluna (2023) obliga a los grandes arrendadores a alquilar propiedades vacantes en areas de alta demanda o enfrentar expropiacion.                                                                                                                                                        | Aborda directamente la vacancia corporativa y la especulacion.                                                                                                                      |
 
 **EE.UU., junto con un punado de otras naciones anglosajonas, ha financiarizado de manera unica la vivienda residencial** -- tratandola principalmente como un vehiculo de inversion en lugar de refugio (OECD Housing Policy Dashboard, 2024). La mayoria de los paises regulan quien puede comprar vivienda y como puede ser utilizada porque reconocen que el refugio es una necesidad humana, no una clase de activo.
 

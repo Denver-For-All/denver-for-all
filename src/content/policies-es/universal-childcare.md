@@ -6,6 +6,7 @@
 El cuidado infantil en Denver cuesta entre $1,400 y $2,200 al mes por niño. Son $16,800-26,400 al año -- más que la matrícula estatal en CU Boulder. Para una familia con dos hijos, el cuidado infantil puede superar su renta.
 
 El resultado:
+
 - Los padres (desproporcionadamente las madres) abandonan la fuerza laboral por completo
 - Las familias de bajos ingresos dependen de cuidado informal y no regulado
 - Los trabajadores de cuidado infantil -- que son responsables del desarrollo humano en su etapa más crítica -- ganan $13-16/hora (salarios de pobreza)
@@ -24,18 +25,21 @@ Colorado proporciona subsidios de cuidado infantil a través del Colorado Child 
 Modelado en los sistemas de Francia, Suecia, Dinamarca y Finlandia -- adaptado para Denver.
 
 **1. Acceso Universal desde los 6 Meses**
+
 - Plaza de cuidado infantil garantizada para cada niño de Denver desde los 6 meses hasta el ingreso al kindergarten
 - Sin listas de espera -- la capacidad es responsabilidad de la ciudad
 - Programas de día completo (7 AM - 6 PM) para coincidir con los horarios de los padres trabajadores
 - Ubicados en instalaciones públicas, escuelas, centros comunitarios y proveedores vecinales con licencia
 
 **2. Tarifas Basadas en Ingresos (con Tope)**
+
 - Gratis para familias que ganan menos del 200% del nivel federal de pobreza (~$62,000 para familia de 4)
 - Escala deslizante por encima de eso, con tope de $200/mes por niño sin importar el ingreso
 - Ninguna familia paga más del 5% del ingreso familiar en cuidado infantil
-- Comparación: Suecia tiene un tope de cuidado infantil de ~$150/mes. La *École maternelle* de Francia es gratuita desde los 3 años. Dinamarca tiene un tope de ~$500/mes (con subsidios que reducen el costo de la mayoría de las familias a casi cero).
+- Comparación: Suecia tiene un tope de cuidado infantil de ~$150/mes. La _École maternelle_ de Francia es gratuita desde los 3 años. Dinamarca tiene un tope de ~$500/mes (con subsidios que reducen el costo de la mayoría de las familias a casi cero).
 
 **3. Salarios Dignos para Trabajadores de Cuidado Infantil**
+
 - Salario inicial: $25/hora (igualando la meta de salario mínimo de Denver)
 - Paridad con maestros de K-12 para educadores de primera infancia acreditados
 - Beneficios completos: seguro de salud, jubilación, licencia remunerada
@@ -43,6 +47,7 @@ Modelado en los sistemas de Francia, Suecia, Dinamarca y Finlandia -- adaptado p
 - Justificación: No puedes tener cuidado infantil de calidad con trabajadores con salarios de pobreza. Punto.
 
 **4. Estándares de Calidad**
+
 - Proporciones máximas: 3:1 para bebés, 4:1 para niños pequeños, 8:1 para preescolar
 - Currículo: basado en el juego, apropiado al desarrollo, informado sobre trauma
 - Programación bilingüe (inglés/español) en todos los centros
@@ -51,17 +56,18 @@ Modelado en los sistemas de Francia, Suecia, Dinamarca y Finlandia -- adaptado p
 
 ## La Evidencia: Esto Funciona
 
-| País | Modelo | Costo Familiar | Salario del Trabajador | Resultados Infantiles |
-|------|--------|----------------|------------------------|----------------------|
-| **Francia** | *École maternelle* gratuita desde los 3 años; *crèches* subsidiadas desde los 3 meses | Gratis (3+); basado en ingresos menores de 3 | Competitivo con maestros | 99% de niños de 3-5 años inscritos; entre los mejores resultados de desarrollo infantil en Europa |
-| **Suecia** | Cuidado infantil público desde 1 año; fuertemente subsidiado | Tope de ~$150/mes | Comparable a maestros de primaria | Mayor participación laboral femenina de Europa; los niños muestran fuertes resultados de desarrollo |
-| **Dinamarca** | Plaza garantizada desde los 6 meses | Subsidiado hasta casi gratis para la mayoría | Salarios dignos | Mayor satisfacción de vida; los niños rinden bien en todas las métricas |
-| **Finlandia** | Derecho universal a guardería desde el nacimiento | Basado en ingresos, con tope | Competitivo | Alimenta el mejor sistema educativo del mundo |
-| **Quebec, Canadá** | Cuidado infantil universal de $7/día (desde 1997) | ~$7.30 CAD/día ($180/mes) | Por encima del mercado | La participación laboral femenina aumentó 8%. El programa se paga solo a través del aumento en la recaudación fiscal. |
+| País               | Modelo                                                                                | Costo Familiar                               | Salario del Trabajador            | Resultados Infantiles                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Francia**        | _École maternelle_ gratuita desde los 3 años; _crèches_ subsidiadas desde los 3 meses | Gratis (3+); basado en ingresos menores de 3 | Competitivo con maestros          | 99% de niños de 3-5 años inscritos; entre los mejores resultados de desarrollo infantil en Europa                     |
+| **Suecia**         | Cuidado infantil público desde 1 año; fuertemente subsidiado                          | Tope de ~$150/mes                            | Comparable a maestros de primaria | Mayor participación laboral femenina de Europa; los niños muestran fuertes resultados de desarrollo                   |
+| **Dinamarca**      | Plaza garantizada desde los 6 meses                                                   | Subsidiado hasta casi gratis para la mayoría | Salarios dignos                   | Mayor satisfacción de vida; los niños rinden bien en todas las métricas                                               |
+| **Finlandia**      | Derecho universal a guardería desde el nacimiento                                     | Basado en ingresos, con tope                 | Competitivo                       | Alimenta el mejor sistema educativo del mundo                                                                         |
+| **Quebec, Canadá** | Cuidado infantil universal de $7/día (desde 1997)                                     | ~$7.30 CAD/día ($180/mes)                    | Por encima del mercado            | La participación laboral femenina aumentó 8%. El programa se paga solo a través del aumento en la recaudación fiscal. |
 
 ### El Modelo de Quebec -- Prueba de Que Se Paga Solo
 
 El programa de cuidado infantil universal de $7/día de Quebec, lanzado en 1997, es el ejemplo más estudiado en Norteamérica:
+
 - **70,000 madres más** ingresaron a la fuerza laboral
 - El **aumento en la recaudación fiscal** por los ingresos de esas madres superó el costo del programa
 - **Costo neto para el gobierno: negativo** -- el programa genera más ingresos de los que cuesta
@@ -77,6 +83,7 @@ La investigación del economista premio Nobel **James Heckman** muestra que cada
 **Costo anual estimado:** $150-200M/año para cobertura universal
 
 **Fuentes de financiamiento:**
+
 1. **Asignación municipal:** $80-100M del fondo general (el presupuesto de Denver es de $1.6B+)
 2. **Fondos federales/estatales de contrapartida:** Head Start, CCDBG y fondos de primera infancia de Colorado ($40-50M)
 3. **Evaluación de nómina empresarial:** 0.3% de impuesto sobre nómina dedicado al fondo de cuidado infantil ($50-60M)

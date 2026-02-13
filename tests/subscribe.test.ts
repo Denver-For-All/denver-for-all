@@ -18,13 +18,9 @@ const subscribeSource = readFileSync(
 
 describe('subscribe endpoint logic', () => {
   // Extract ALLOWED_ORIGINS from source to keep tests in sync
-  const originsMatch = subscribeSource.match(
-    /const ALLOWED_ORIGINS = \[([\s\S]*?)\]/,
-  );
+  const originsMatch = subscribeSource.match(/const ALLOWED_ORIGINS = \[([\s\S]*?)\]/);
   const ALLOWED_ORIGINS = originsMatch
-    ? originsMatch[1]
-        .match(/"([^"]+)"/g)
-        ?.map((s) => s.replace(/"/g, ''))
+    ? originsMatch[1].match(/'([^']+)'/g)?.map((s) => s.replace(/'/g, ''))
     : [];
 
   function getCorsOrigin(origin: string): string {
@@ -38,27 +34,19 @@ describe('subscribe endpoint logic', () => {
   });
 
   it('allows production origin', () => {
-    expect(getCorsOrigin('https://denverforall.org')).toBe(
-      'https://denverforall.org',
-    );
+    expect(getCorsOrigin('https://denverforall.org')).toBe('https://denverforall.org');
   });
 
   it('allows www production origin', () => {
-    expect(getCorsOrigin('https://www.denverforall.org')).toBe(
-      'https://www.denverforall.org',
-    );
+    expect(getCorsOrigin('https://www.denverforall.org')).toBe('https://www.denverforall.org');
   });
 
   it('allows localhost dev origin', () => {
-    expect(getCorsOrigin('http://localhost:4321')).toBe(
-      'http://localhost:4321',
-    );
+    expect(getCorsOrigin('http://localhost:4321')).toBe('http://localhost:4321');
   });
 
   it('rejects unknown origins by defaulting to production', () => {
-    expect(getCorsOrigin('https://evil.com')).toBe(
-      'https://denverforall.org',
-    );
+    expect(getCorsOrigin('https://evil.com')).toBe('https://denverforall.org');
   });
 
   it('rejects empty origin by defaulting to production', () => {
@@ -67,9 +55,7 @@ describe('subscribe endpoint logic', () => {
 
   describe('email validation', () => {
     // Extract the email regex from source to stay in sync
-    const regexMatch = subscribeSource.match(
-      /\/(\^[^/]+\$)\/\.test\(email\)/,
-    );
+    const regexMatch = subscribeSource.match(/\/(\^[^/]+\$)\/\.test\(email\)/);
     const emailRegex = regexMatch ? new RegExp(regexMatch[1]) : null;
 
     it('source file contains email validation regex', () => {

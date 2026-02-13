@@ -1,45 +1,45 @@
 ---
-title: "Disability Rights & Inclusion"
-titleEs: "Derechos e Inclusión de Personas con Discapacidad"
-summary: "Full inclusion for the 10% of Denver residents living with disabilities. Enforce ADA with real teeth. Accessible housing in every new development. Supported employment and city contractor requirements. Independent living services. Police accountability for disability-related violence. Nothing about us without us."
-summaryEs: "Inclusión plena para el 10% de los residentes de Denver que viven con discapacidades. Hacer cumplir la ADA con consecuencias reales. Vivienda accesible en cada nuevo desarrollo. Empleo con apoyo y requisitos para contratistas de la ciudad. Servicios de vida independiente. Responsabilidad policial por violencia relacionada con discapacidad. Nada sobre nosotros sin nosotros."
-category: "health"
-icon: "accessibility"
+title: 'Disability Rights & Inclusion'
+titleEs: 'Derechos e Inclusión de Personas con Discapacidad'
+summary: 'Full inclusion for the 10% of Denver residents living with disabilities. Enforce ADA with real teeth. Accessible housing in every new development. Supported employment and city contractor requirements. Independent living services. Police accountability for disability-related violence. Nothing about us without us.'
+summaryEs: 'Inclusión plena para el 10% de los residentes de Denver que viven con discapacidades. Hacer cumplir la ADA con consecuencias reales. Vivienda accesible en cada nuevo desarrollo. Empleo con apoyo y requisitos para contratistas de la ciudad. Servicios de vida independiente. Responsabilidad policial por violencia relacionada con discapacidad. Nada sobre nosotros sin nosotros.'
+category: 'health'
+icon: 'accessibility'
 order: 22
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "70,000+"
-    label: "Denver residents live with a disability"
-    labelEs: "residentes de Denver viven con una discapacidad"
-    context: "10% of the city — the one minority group anyone can join at any moment"
-    contextEs: "10% de la ciudad — el unico grupo minoritario al que cualquiera puede unirse"
-    source: "U.S. Census Bureau, ACS 2019-2023"
-    theme: "secondary"
-  - value: "42-point"
-    label: "employment gap for disabled Coloradans"
-    labelEs: "brecha de empleo para coloradenses con discapacidad"
-    context: "37.7% employed vs 80% for non-disabled — and those who work earn 74 cents on the dollar"
-    contextEs: "37.7% empleados vs 80% sin discapacidad — y los que trabajan ganan 74 centavos por dolar"
-    source: "Bureau of Labor Statistics, 2024"
-    theme: "danger"
-  - value: "$100-600"
-    label: "per unit for universal design in new builds"
-    labelEs: "por unidad para diseno universal en nuevas construcciones"
-    context: "Retrofitting later costs $10,000-$50,000+. Building it right is 100x cheaper."
-    contextEs: "Remodelacion posterior cuesta $10,000-$50,000+. Construir bien es 100x mas barato."
-    source: "National Association of Home Builders"
-    theme: "primary"
+  - value: '70,000+'
+    label: 'Denver residents live with a disability'
+    labelEs: 'residentes de Denver viven con una discapacidad'
+    context: '10% of the city — the one minority group anyone can join at any moment'
+    contextEs: '10% de la ciudad — el unico grupo minoritario al que cualquiera puede unirse'
+    source: 'U.S. Census Bureau, ACS 2019-2023'
+    theme: 'secondary'
+  - value: '42-point'
+    label: 'employment gap for disabled Coloradans'
+    labelEs: 'brecha de empleo para coloradenses con discapacidad'
+    context: '37.7% employed vs 80% for non-disabled — and those who work earn 74 cents on the dollar'
+    contextEs: '37.7% empleados vs 80% sin discapacidad — y los que trabajan ganan 74 centavos por dolar'
+    source: 'Bureau of Labor Statistics, 2024'
+    theme: 'danger'
+  - value: '$100-600'
+    label: 'per unit for universal design in new builds'
+    labelEs: 'por unidad para diseno universal en nuevas construcciones'
+    context: 'Retrofitting later costs $10,000-$50,000+. Building it right is 100x cheaper.'
+    contextEs: 'Remodelacion posterior cuesta $10,000-$50,000+. Construir bien es 100x mas barato.'
+    source: 'National Association of Home Builders'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "HB26-1045"
-    title: "Disabilities Housing Protections"
-    status: "House Third Reading Passed"
-    url: "https://leg.colorado.gov/bills/hb26-1045"
-  - billNumber: "HB26-1040"
-    title: "Sterilization Rights of Person with Disabilities"
-    status: "Referred from Health & Human Services to House Committee of the Whole"
-    url: "https://leg.colorado.gov/bills/hb26-1040"
+  - billNumber: 'HB26-1045'
+    title: 'Disabilities Housing Protections'
+    status: 'House Third Reading Passed'
+    url: 'https://leg.colorado.gov/bills/hb26-1045'
+  - billNumber: 'HB26-1040'
+    title: 'Sterilization Rights of Person with Disabilities'
+    status: 'Referred from Health & Human Services to House Committee of the Whole'
+    url: 'https://leg.colorado.gov/bills/hb26-1040'
 ---
 
 ## The Problem
@@ -124,13 +124,13 @@ Denver treats ADA compliance as aspirational. We treat it as mandatory.
 
 ### International Evidence: Disability Inclusion Is Infrastructure
 
-| Country/City | Model | Result |
-|---|---|---|
-| **Finland** | Housing First + universal design mandate. All new public housing built to accessibility standards. National disability strategy emphasizing employment and community integration. | Among the highest disability employment rates in Europe. Homelessness among disabled people declining. Accessibility is standard, not special. |
-| **Australia** | National Disability Insurance Scheme (NDIS): individualized funding packages controlled by disabled people themselves. Consumer-directed model nationwide. | 600,000+ participants. Dramatic increase in choice and control over services. Challenges with funding adequacy but model widely praised for self-determination. |
-| **Stockholm, Sweden** | Citywide accessibility program: all public transit, buildings, and spaces audited and upgraded. Personal assistance guaranteed as a right under LSS law. | Among the most accessible cities globally. Personal assistance hours are a legal entitlement, not a budget line item. Disabled people live independently at rates far exceeding the U.S. |
-| **New Zealand** | Accessibility for New Zealanders Act (2022): mandatory accessibility standards for organizations above 50 employees. Disability rights minister with cabinet-level authority. | National framework for proactive accessibility rather than complaint-driven enforcement. Government agencies must publish accessibility action plans. |
-| **Denver, USA (current)** | Complaint-driven ADA enforcement. Advisory commission. 5% accessible units in federally funded housing only. Sidewalk repairs "decades" behind schedule. | 10% of residents have disabilities. 42-point employment gap. One-third to one-half of people killed by police are disabled. |
+| Country/City              | Model                                                                                                                                                                             | Result                                                                                                                                                                                   |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finland**               | Housing First + universal design mandate. All new public housing built to accessibility standards. National disability strategy emphasizing employment and community integration. | Among the highest disability employment rates in Europe. Homelessness among disabled people declining. Accessibility is standard, not special.                                           |
+| **Australia**             | National Disability Insurance Scheme (NDIS): individualized funding packages controlled by disabled people themselves. Consumer-directed model nationwide.                        | 600,000+ participants. Dramatic increase in choice and control over services. Challenges with funding adequacy but model widely praised for self-determination.                          |
+| **Stockholm, Sweden**     | Citywide accessibility program: all public transit, buildings, and spaces audited and upgraded. Personal assistance guaranteed as a right under LSS law.                          | Among the most accessible cities globally. Personal assistance hours are a legal entitlement, not a budget line item. Disabled people live independently at rates far exceeding the U.S. |
+| **New Zealand**           | Accessibility for New Zealanders Act (2022): mandatory accessibility standards for organizations above 50 employees. Disability rights minister with cabinet-level authority.     | National framework for proactive accessibility rather than complaint-driven enforcement. Government agencies must publish accessibility action plans.                                    |
+| **Denver, USA (current)** | Complaint-driven ADA enforcement. Advisory commission. 5% accessible units in federally funded housing only. Sidewalk repairs "decades" behind schedule.                          | 10% of residents have disabilities. 42-point employment gap. One-third to one-half of people killed by police are disabled.                                                              |
 
 ## How We Pay For It
 

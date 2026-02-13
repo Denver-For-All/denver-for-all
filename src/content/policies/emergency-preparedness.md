@@ -1,46 +1,46 @@
 ---
-title: "Emergency Preparedness & Climate Resilience"
-titleEs: "Preparación para Emergencias y Resiliencia Climática"
-summary: "Wildfire smoke response plan with clean air shelters in every neighborhood. Extreme heat action plan with cooling centers. Flood preparedness and green stormwater infrastructure. Community resilience hubs. Equitable disaster response."
-summaryEs: "Plan de respuesta al humo de incendios forestales con refugios de aire limpio en cada vecindario. Plan de acción contra calor extremo con centros de enfriamiento. Preparación contra inundaciones e infraestructura verde de aguas pluviales. Centros comunitarios de resiliencia. Respuesta equitativa a desastres."
-category: "safety"
-icon: "siren"
+title: 'Emergency Preparedness & Climate Resilience'
+titleEs: 'Preparación para Emergencias y Resiliencia Climática'
+summary: 'Wildfire smoke response plan with clean air shelters in every neighborhood. Extreme heat action plan with cooling centers. Flood preparedness and green stormwater infrastructure. Community resilience hubs. Equitable disaster response.'
+summaryEs: 'Plan de respuesta al humo de incendios forestales con refugios de aire limpio en cada vecindario. Plan de acción contra calor extremo con centros de enfriamiento. Preparación contra inundaciones e infraestructura verde de aguas pluviales. Centros comunitarios de resiliencia. Respuesta equitativa a desastres.'
+category: 'safety'
+icon: 'siren'
 order: 42
-status: "draft"
-actionTarget: "mayor"
-grantProposal: "emergency-preparedness-fema-bric"
+status: 'draft'
+actionTarget: 'mayor'
+grantProposal: 'emergency-preparedness-fema-bric'
 hasFundingSources: true
 keyStats:
-  - value: "105F"
+  - value: '105F'
     label: "Denver's all-time record high (June 2024)"
-    labelEs: "record historico de temperatura de Denver (junio 2024)"
-    context: "Heat kills more Americans than hurricanes, tornadoes, and floods combined"
-    contextEs: "El calor mata mas estadounidenses que huracanes, tornados e inundaciones combinados"
-    source: "Denver Climate Action Task Force"
-    theme: "danger"
-  - value: "$1 to $6"
-    label: "every dollar in preparedness saves six in response"
-    labelEs: "cada dolar en preparacion ahorra seis en respuesta"
-    context: "Denver will pay for climate impacts either way — proactive investment saves lives and money"
-    contextEs: "Denver pagara por los impactos climaticos de cualquier forma — la inversion proactiva salva vidas"
-    source: "FEMA / National Institute of Building Sciences, 2019"
-    theme: "primary"
-  - value: "89"
-    label: "heat-related deaths in Colorado in 2023"
-    labelEs: "muertes relacionadas con el calor en Colorado en 2023"
-    context: "Low-income residents, elderly, outdoor workers, and unhoused people bear the worst"
-    contextEs: "Residentes de bajos ingresos, ancianos, trabajadores al aire libre y personas sin hogar sufren mas"
-    source: "CO Dept of Public Health and Environment, 2023"
-    theme: "accent"
+    labelEs: 'record historico de temperatura de Denver (junio 2024)'
+    context: 'Heat kills more Americans than hurricanes, tornadoes, and floods combined'
+    contextEs: 'El calor mata mas estadounidenses que huracanes, tornados e inundaciones combinados'
+    source: 'Denver Climate Action Task Force'
+    theme: 'danger'
+  - value: '$1 to $6'
+    label: 'every dollar in preparedness saves six in response'
+    labelEs: 'cada dolar en preparacion ahorra seis en respuesta'
+    context: 'Denver will pay for climate impacts either way — proactive investment saves lives and money'
+    contextEs: 'Denver pagara por los impactos climaticos de cualquier forma — la inversion proactiva salva vidas'
+    source: 'FEMA / National Institute of Building Sciences, 2019'
+    theme: 'primary'
+  - value: '89'
+    label: 'heat-related deaths in Colorado in 2023'
+    labelEs: 'muertes relacionadas con el calor en Colorado en 2023'
+    context: 'Low-income residents, elderly, outdoor workers, and unhoused people bear the worst'
+    contextEs: 'Residentes de bajos ingresos, ancianos, trabajadores al aire libre y personas sin hogar sufren mas'
+    source: 'CO Dept of Public Health and Environment, 2023'
+    theme: 'accent'
 relatedLegislation:
-  - billNumber: "SB26-049"
-    title: "Homeowner Natural Disaster Mitigation"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/sb26-049"
-  - billNumber: "HB26-1051"
-    title: "Continue Microgrid Community Resilience Grant Program"
-    status: "Referred from Energy & Environment to Appropriations"
-    url: "https://leg.colorado.gov/bills/hb26-1051"
+  - billNumber: 'SB26-049'
+    title: 'Homeowner Natural Disaster Mitigation'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/sb26-049'
+  - billNumber: 'HB26-1051'
+    title: 'Continue Microgrid Community Resilience Grant Program'
+    status: 'Referred from Energy & Environment to Appropriations'
+    url: 'https://leg.colorado.gov/bills/hb26-1051'
 ---
 
 ## The Problem
@@ -62,6 +62,7 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 ## Our Solution
 
 ### 1. Wildfire Smoke Response Plan
+
 - Clean air shelters in every council district (11 minimum) equipped with HEPA filtration systems
 - Free N95 masks distributed through libraries, rec centers, and fire stations during smoke events
 - Real-time air quality monitoring network with sensors in every neighborhood and a public dashboard
@@ -70,6 +71,7 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 - Indoor air quality support: HEPA filter lending library and subsidized units for low-income households
 
 ### 2. Extreme Heat Action Plan
+
 - Cooling centers in every neighborhood with extended hours during heat events (open until 10 PM minimum)
 - Misting stations and shade structures at transit stops, parks, and public spaces
 - Urban tree canopy acceleration to 30% coverage target (cross-reference climate policy)
@@ -79,6 +81,7 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 - Mobile cooling units deployed to encampments and neighborhoods without nearby cooling centers
 
 ### 3. Flood & Stormwater Resilience
+
 - Green stormwater infrastructure: bioswales, rain gardens, and permeable pavement in flood-prone areas
 - Stormwater detention expansion prioritizing underserved neighborhoods
 - Real-time flood monitoring and early warning system for all Denver waterways
@@ -87,6 +90,7 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 - Combined sewer overflow elimination plan with dedicated timeline and public reporting
 
 ### 4. Community Resilience Hubs
+
 - Solar-powered, battery-backed community centers in every council district that function during power outages (cross-reference: [Power Reliability & Municipal Energy](/platform/power-reliability) for our full grid resilience and municipal power proposal)
 - Equipped with backup power, water, first aid supplies, communications, heating/cooling, and phone charging
 - Staffed by trained Community Emergency Response Teams (CERT)
@@ -95,6 +99,7 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 - Located in the neighborhoods most vulnerable to climate impacts
 
 ### 5. Equitable Disaster Response
+
 - Equity-centered emergency planning: prioritize neighborhoods with highest social vulnerability scores
 - Multilingual emergency communications (Spanish, Vietnamese, Amharic, Arabic, Somali)
 - Disability-accessible shelters and evacuation plans with ADA-exceeding standards
@@ -104,13 +109,13 @@ FEMA rates Denver County at "relatively moderate" risk for natural hazards. The 
 
 ### International Evidence: Preparedness Saves Lives and Money
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Tokyo, Japan** | Comprehensive disaster preparedness: neighborhood emergency committees, regular community drills, seismic-resilient infrastructure, 3-day supply kits for every household. | Lowest death rates from natural disasters of any major city despite extreme earthquake and typhoon exposure. Community-based preparation is the foundation. |
-| **Netherlands** | "Room for the River" program: instead of building higher levees, gave rivers space to flood safely through controlled floodplains and green infrastructure. | Transformed flood management for a country where 60% of land is flood-prone. Reduced flood risk while creating parks and recreation areas. |
-| **Melbourne, Australia** | Urban forest strategy and cool routes program: mapped heat-vulnerable populations, planted 3,000 trees/year, created shaded walking routes to cooling centers. | Reduced urban temperatures measurably. Heat-health warning system cut heat-related hospital admissions by 30%. |
-| **Medellín, Colombia** | Green corridors along major roads and waterways: 30 corridors reducing urban temperatures by 2°C. Integrated with early warning systems for landslides and flooding. | Combined climate adaptation with urban renewal. Reduced flood deaths through community-based early warning. |
-| **Portland, OR** | Community resilience hubs: solar-powered, battery-backed neighborhood centers serving as emergency shelters and everyday community spaces. | Hubs served communities during 2021 heat dome (116°F) when hundreds died across Pacific Northwest. Proved the model works under extreme conditions. |
+| Country/City             | Model                                                                                                                                                                      | Result                                                                                                                                                      |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tokyo, Japan**         | Comprehensive disaster preparedness: neighborhood emergency committees, regular community drills, seismic-resilient infrastructure, 3-day supply kits for every household. | Lowest death rates from natural disasters of any major city despite extreme earthquake and typhoon exposure. Community-based preparation is the foundation. |
+| **Netherlands**          | "Room for the River" program: instead of building higher levees, gave rivers space to flood safely through controlled floodplains and green infrastructure.                | Transformed flood management for a country where 60% of land is flood-prone. Reduced flood risk while creating parks and recreation areas.                  |
+| **Melbourne, Australia** | Urban forest strategy and cool routes program: mapped heat-vulnerable populations, planted 3,000 trees/year, created shaded walking routes to cooling centers.             | Reduced urban temperatures measurably. Heat-health warning system cut heat-related hospital admissions by 30%.                                              |
+| **Medellín, Colombia**   | Green corridors along major roads and waterways: 30 corridors reducing urban temperatures by 2°C. Integrated with early warning systems for landslides and flooding.       | Combined climate adaptation with urban renewal. Reduced flood deaths through community-based early warning.                                                 |
+| **Portland, OR**         | Community resilience hubs: solar-powered, battery-backed neighborhood centers serving as emergency shelters and everyday community spaces.                                 | Hubs served communities during 2021 heat dome (116°F) when hundreds died across Pacific Northwest. Proved the model works under extreme conditions.         |
 
 Every $1 invested in disaster preparedness saves $6 in disaster response and recovery costs (FEMA/National Institute of Building Sciences, 2019). Denver will pay for climate impacts one way or another. The question is whether we invest proactively and save lives, or pay reactively after people die.
 

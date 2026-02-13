@@ -1,36 +1,36 @@
 ---
-title: "Newcomer Reception & Asylum Support"
-titleEs: "Recepción de Recién Llegados y Apoyo de Asilo"
-summary: "Systematic reception infrastructure. Rapid work authorization support. Transitional housing with employment pipelines. Federal reimbursement advocacy. No more emergency scrambles - a real plan."
-summaryEs: "Infraestructura sistemática de recepción. Apoyo rápido de autorización de trabajo. Vivienda transitoria con canales de empleo. Defensa del reembolso federal. No más improvisaciones de emergencia - un plan real."
-category: "immigration"
-icon: "heart-handshake"
+title: 'Newcomer Reception & Asylum Support'
+titleEs: 'Recepción de Recién Llegados y Apoyo de Asilo'
+summary: 'Systematic reception infrastructure. Rapid work authorization support. Transitional housing with employment pipelines. Federal reimbursement advocacy. No more emergency scrambles - a real plan.'
+summaryEs: 'Infraestructura sistemática de recepción. Apoyo rápido de autorización de trabajo. Vivienda transitoria con canales de empleo. Defensa del reembolso federal. No más improvisaciones de emergencia - un plan real.'
+category: 'immigration'
+icon: 'heart-handshake'
 order: 41
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "$150/night"
-    label: "emergency shelter vs $30/night transitional"
-    labelEs: "refugio de emergencia vs $30/noche transicional"
-    context: "Denver spent $100M+ on emergency response that a planned system could deliver for a quarter of the cost"
-    contextEs: "Denver gasto mas de $100M en respuesta de emergencia que un sistema planificado podria hacer por un cuarto del costo"
-    source: "National Alliance to End Homelessness, 2023"
-    theme: "danger"
-  - value: "40,000+"
-    label: "newcomers arrived with no system in place"
-    labelEs: "recien llegados sin un sistema establecido"
-    context: "Denver proved it has the compassion. Now it needs the infrastructure."
-    contextEs: "Denver demostro que tiene compasion. Ahora necesita la infraestructura."
-    source: "Denver Human Services, 2024"
-    theme: "accent"
-  - value: "90%"
+  - value: '$150/night'
+    label: 'emergency shelter vs $30/night transitional'
+    labelEs: 'refugio de emergencia vs $30/noche transicional'
+    context: 'Denver spent $100M+ on emergency response that a planned system could deliver for a quarter of the cost'
+    contextEs: 'Denver gasto mas de $100M en respuesta de emergencia que un sistema planificado podria hacer por un cuarto del costo'
+    source: 'National Alliance to End Homelessness, 2023'
+    theme: 'danger'
+  - value: '40,000+'
+    label: 'newcomers arrived with no system in place'
+    labelEs: 'recien llegados sin un sistema establecido'
+    context: 'Denver proved it has the compassion. Now it needs the infrastructure.'
+    contextEs: 'Denver demostro que tiene compasion. Ahora necesita la infraestructura.'
+    source: 'Denver Human Services, 2024'
+    theme: 'accent'
+  - value: '90%'
     label: "of Canada's refugees achieved self-sufficiency"
-    labelEs: "de los refugiados de Canada lograron autosuficiencia"
-    context: "Government-assisted refugees reached financial independence within 5 years"
-    contextEs: "Refugiados asistidos por el gobierno alcanzaron independencia financiera en 5 anos"
-    source: "Immigration, Refugees and Citizenship Canada, 2019"
-    theme: "secondary"
+    labelEs: 'de los refugiados de Canada lograron autosuficiencia'
+    context: 'Government-assisted refugees reached financial independence within 5 years'
+    contextEs: 'Refugiados asistidos por el gobierno alcanzaron independencia financiera en 5 anos'
+    source: 'Immigration, Refugees and Citizenship Canada, 2019'
+    theme: 'secondary'
 ---
 
 ## The Problem
@@ -42,6 +42,7 @@ The result was predictable: budget strain, political backlash, and - most import
 This isn't a one-time crisis. Climate change, political instability, and global migration patterns mean cities will continue receiving newcomers. Denver needs permanent infrastructure, not emergency responses.
 
 The core failures:
+
 - No systematic intake or needs assessment process
 - Shelter capacity built on emergency contracts at premium cost
 - Months-long gaps between arrival and work authorization, during which people depend entirely on city services
@@ -65,6 +66,7 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 ### The Denver Newcomer Reception & Integration Act
 
 **1. Denver Reception Center**
+
 - Permanent, purpose-built reception facility (or converted existing city property) for newcomer intake
 - Centralized intake process: health screening, needs assessment, legal status evaluation, skills inventory, and language assessment within 48 hours of arrival
 - On-site legal aid for asylum applications, work authorization filings, and immigration court preparation
@@ -73,6 +75,7 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 - Operated jointly by the city and contracted community organizations with demonstrated expertise
 
 **2. Rapid Work Authorization Pipeline**
+
 - Dedicated legal team focused exclusively on expediting work authorization (Employment Authorization Documents)
 - Same-day filing of asylum applications upon arrival (the legal trigger for EAD eligibility)
 - Partnerships with pro bono legal networks and law school clinics to increase filing capacity
@@ -81,6 +84,7 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 - Goal: reduce average time from arrival to work authorization from 6+ months to under 90 days through legal strategy and filing efficiency
 
 **3. Transitional Housing with Employment Milestones**
+
 - City-operated or contracted transitional housing replacing emergency shelter
 - 90-day transitional stays (extendable to 180 days for families with children or those with pending asylum cases)
 - Residents connected to employment services from day one - skills assessment, resume building, interview preparation, employer matching
@@ -89,6 +93,7 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 - Cost target: $30-50/person/night (vs. $150+/night for emergency hotel shelter)
 
 **4. Employer Partnership Program**
+
 - Denver Newcomer Employment Registry: voluntary registry of employers with open positions willing to hire newly authorized workers
 - Focus on industries with documented labor shortages: healthcare, construction, hospitality, food service, warehousing, and transportation
 - Employer incentives: streamlined city business licensing, recognition in city procurement, tax rebate eligibility
@@ -96,12 +101,14 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 - Worker protection requirement: participating employers must comply with all wage and labor laws and cannot retaliate against workers
 
 **5. Newcomer Services Fund**
+
 - Dedicated budget line item for newcomer reception and integration - not competing with existing city programs
 - Funded through a combination of general fund allocation, federal reimbursement advocacy, state partnership, and philanthropic matching
 - Transparent quarterly reporting on expenditures, outcomes (employment rates, housing transitions, cost per newcomer), and fund balance
 - Automatic trigger: when newcomer arrivals exceed a threshold (e.g., 500/month), additional emergency funding activates without requiring council action
 
 **6. Federal Reimbursement Campaign**
+
 - Formal demand to the federal government for full reimbursement of newcomer reception costs - asylum is a federal responsibility
 - Coalition with other receiving cities (New York, Chicago, Houston, Los Angeles) for joint advocacy
 - Pursuit of FEMA Emergency Food and Shelter Program funds, Office of Refugee Resettlement grants, and any available federal streams
@@ -110,12 +117,12 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 
 ### Evidence: Cities That Plan Ahead Spend Less
 
-| City/Country | Model | Result |
-|-------------|-------|--------|
-| **Germany (2015-2016)** | Received 1.2M asylum seekers. Initial emergency response gave way to systematic *AnkER* centers providing intake, processing, language training, and job matching under one roof. | Integration outcomes improved dramatically once systematic infrastructure replaced ad hoc response. Employment rates among 2015 arrivals reached 50% within 3 years, 70% within 5 years (IAB, 2022). |
-| **Canada (Syrian Resettlement)** | Received 40,000+ Syrian refugees in 2015-2016 through coordinated government-community sponsorship model. Settlement agencies provided housing, language, and employment services. | 90% of government-assisted refugees achieved financial independence within 5 years. Private sponsorship model produced even faster integration (Immigration, Refugees and Citizenship Canada, 2019). |
-| **New York City** | Received 200,000+ asylum seekers from 2022-2024. Created Humanitarian Emergency Response and Relief Centers (HERRCs) and the Asylum Seeker Navigation Center for centralized services. | NYC's centralized intake reduced per-person costs and improved service coordination. Right to Shelter mandate forced systematic infrastructure investment (NYC Comptroller, 2024). |
-| **Bogotá, Colombia** | Received 500,000+ Venezuelan migrants. Created *Centros de Integración* providing legal status regularization, healthcare, education enrollment, and employment services. | Regularized migrants contributed $500M+ annually to local economy. Integration centers reduced strain on emergency services and informal employment (World Bank, 2023). |
+| City/Country                     | Model                                                                                                                                                                                  | Result                                                                                                                                                                                               |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Germany (2015-2016)**          | Received 1.2M asylum seekers. Initial emergency response gave way to systematic _AnkER_ centers providing intake, processing, language training, and job matching under one roof.      | Integration outcomes improved dramatically once systematic infrastructure replaced ad hoc response. Employment rates among 2015 arrivals reached 50% within 3 years, 70% within 5 years (IAB, 2022). |
+| **Canada (Syrian Resettlement)** | Received 40,000+ Syrian refugees in 2015-2016 through coordinated government-community sponsorship model. Settlement agencies provided housing, language, and employment services.     | 90% of government-assisted refugees achieved financial independence within 5 years. Private sponsorship model produced even faster integration (Immigration, Refugees and Citizenship Canada, 2019). |
+| **New York City**                | Received 200,000+ asylum seekers from 2022-2024. Created Humanitarian Emergency Response and Relief Centers (HERRCs) and the Asylum Seeker Navigation Center for centralized services. | NYC's centralized intake reduced per-person costs and improved service coordination. Right to Shelter mandate forced systematic infrastructure investment (NYC Comptroller, 2024).                   |
+| **Bogotá, Colombia**             | Received 500,000+ Venezuelan migrants. Created _Centros de Integración_ providing legal status regularization, healthcare, education enrollment, and employment services.              | Regularized migrants contributed $500M+ annually to local economy. Integration centers reduced strain on emergency services and informal employment (World Bank, 2023).                              |
 
 **The pattern is clear:** cities that invest in systematic reception infrastructure spend less per newcomer and achieve self-sufficiency faster than cities relying on emergency response.
 

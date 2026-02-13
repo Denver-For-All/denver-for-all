@@ -77,12 +77,8 @@ describe('Spanish policy translations', () => {
 });
 
 describe('i18n translation files', () => {
-  const en = JSON.parse(
-    readFileSync(join(__dirname, '..', 'src', 'i18n', 'en.json'), 'utf-8'),
-  );
-  const es = JSON.parse(
-    readFileSync(join(__dirname, '..', 'src', 'i18n', 'es.json'), 'utf-8'),
-  );
+  const en = JSON.parse(readFileSync(join(__dirname, '..', 'src', 'i18n', 'en.json'), 'utf-8'));
+  const es = JSON.parse(readFileSync(join(__dirname, '..', 'src', 'i18n', 'es.json'), 'utf-8'));
 
   it('en.json and es.json have matching top-level keys', () => {
     const enKeys = Object.keys(en).sort();
@@ -110,14 +106,12 @@ describe('i18n translation files', () => {
     const missingInEs = enKeys.filter((k) => !esKeys.includes(k));
     const missingInEn = esKeys.filter((k) => !enKeys.includes(k));
 
-    expect(
-      missingInEs,
-      `Keys in en.json missing from es.json: ${missingInEs.join(', ')}`,
-    ).toEqual([]);
-    expect(
-      missingInEn,
-      `Keys in es.json missing from en.json: ${missingInEn.join(', ')}`,
-    ).toEqual([]);
+    expect(missingInEs, `Keys in en.json missing from es.json: ${missingInEs.join(', ')}`).toEqual(
+      [],
+    );
+    expect(missingInEn, `Keys in es.json missing from en.json: ${missingInEn.join(', ')}`).toEqual(
+      [],
+    );
   });
 
   it('no translation value is empty', () => {
@@ -147,9 +141,13 @@ describe('page metadata', () => {
       const es = getPageMeta(page, 'es');
 
       expect(en.title.length, `${page} EN title should not be empty`).toBeGreaterThan(0);
-      expect(en.description.length, `${page} EN description should not be empty`).toBeGreaterThan(0);
+      expect(en.description.length, `${page} EN description should not be empty`).toBeGreaterThan(
+        0,
+      );
       expect(es.title.length, `${page} ES title should not be empty`).toBeGreaterThan(0);
-      expect(es.description.length, `${page} ES description should not be empty`).toBeGreaterThan(0);
+      expect(es.description.length, `${page} ES description should not be empty`).toBeGreaterThan(
+        0,
+      );
       expect(en.title).not.toEqual(es.title);
     }
   });

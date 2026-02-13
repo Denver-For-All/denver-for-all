@@ -21,6 +21,7 @@ A nivel nacional, hay un estimado de 55-60 millones de trabajadores de plataform
 
 **1. Prueba ABC para Clasificacion Laboral**
 Se presume que un trabajador es empleado a menos que la entidad contratante demuestre LOS TRES criterios:
+
 - (A) El trabajador esta libre de control y direccion en la realizacion del trabajo
 - (B) El trabajo esta fuera del curso habitual del negocio de la entidad contratante
 - (C) El trabajador se dedica habitualmente a un oficio independiente establecido de la misma naturaleza
@@ -31,6 +32,7 @@ Los trabajadores de plataformas no cumplen ninguno de los tres criterios -- son 
 Mientras los desafios de clasificacion avanzan en los tribunales, piso inmediato: los trabajadores de plataformas deben ganar al menos $25/hora (minimo de Denver) por todo el tiempo activo, incluyendo el tiempo de espera por pedidos/viajes. Los gastos (millaje, desgaste del vehiculo, datos del telefono) se reembolsan adicionalmente.
 
 **3. Protecciones contra Desactivacion**
+
 - Explicacion escrita requerida para cualquier desactivacion
 - Derecho de apelacion ante una junta de revision independiente
 - Sin desactivacion basada unicamente en calificaciones algoritmicas
@@ -38,6 +40,7 @@ Mientras los desafios de clasificacion avanzan en los tribunales, piso inmediato
 
 **4. Transparencia de Datos**
 Las plataformas deben proporcionar a los trabajadores:
+
 - Desglose completo de como se calcula el pago de cada trabajo
 - Datos de todos los trabajos ofrecidos y completados
 - Factores algoritmicos que afectan las ofertas de trabajo y la desactivacion
@@ -45,6 +48,7 @@ Las plataformas deben proporcionar a los trabajadores:
 
 **5. Beneficios Portatiles**
 Crear un Fondo de Beneficios para Trabajadores de Plataformas de Denver:
+
 - Las plataformas contribuyen por hora trabajada al fondo
 - Los trabajadores acumulan beneficios (salud, jubilacion, tiempo libre pagado) en multiples plataformas
 - Los beneficios son portatiles -- siguen al trabajador, no a la plataforma
@@ -55,14 +59,14 @@ Las plataformas pagan. Todo el modelo de negocio de la economia de plataformas e
 
 ### Evidencia Internacional: Protecciones para Trabajadores de Plataformas
 
-| Pais | Modelo | Resultado |
-|---------|-------|--------|
-| **Espana** | *Ley Rider* (2021) - presume que todos los trabajadores de entrega de plataformas son empleados. Las companias deben divulgar los algoritmos que afectan las condiciones laborales. | Los repartidores fueron reclasificados como empleados con plenos derechos laborales. Las plataformas adaptaron sus modelos de negocio. Las entregas siguen llegando a tiempo. |
-| **Reino Unido** | La Corte Suprema fallo que los conductores de Uber son "trabajadores" (no contratistas independientes) con derecho a salario minimo, pago de vacaciones y contribuciones de pension. | Uber reclasifico a mas de 70,000 conductores del Reino Unido como trabajadores. La compania sigue operando y siendo rentable. Los trabajadores ganan mas y tienen protecciones. |
-| **Francia** | Los trabajadores de plataformas tienen derecho a la desconexion, seguro contra accidentes y capacitacion. Fallos judiciales recientes han reclasificado a trabajadores de multiples plataformas como empleados. | Protecciones incrementales en expansion. Los tribunales consistentemente fallan que el control de la plataforma = relacion laboral. |
-| **Paises Bajos** | Legislacion propuesta para presumir relacion laboral para trabajadores de plataformas. Conductores de Uber y Deliveroo declarados empleados por los tribunales. | Deliveroo abandono el mercado holandes en lugar de cumplir -- y fue inmediatamente reemplazado por plataformas dispuestas a tratar justamente a los trabajadores. |
-| **California, EE.UU.** | AB5 (2019) codifico la prueba ABC para clasificacion laboral. Las plataformas gastaron $200M en Prop 22 para eximirse, pero los tribunales declararon inconstitucionales partes de Prop 22. | A pesar de la resistencia corporativa, el principio de que los trabajadores de plataformas son empleados continua ganando terreno en tribunales y legislaturas. |
-| **Union Europea** | Platform Work Directive (2024) - reglas a nivel de la UE que crean presuncion de empleo para trabajadores de plataformas. Requisitos de transparencia en gestion algoritmica. | 28 millones de trabajadores de plataformas en toda la UE ganando protecciones laborales (European Commission Impact Assessment, 2021). El consenso global se mueve hacia la clasificacion como empleados. |
+| Pais                   | Modelo                                                                                                                                                                                                          | Resultado                                                                                                                                                                                                 |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Espana**             | _Ley Rider_ (2021) - presume que todos los trabajadores de entrega de plataformas son empleados. Las companias deben divulgar los algoritmos que afectan las condiciones laborales.                             | Los repartidores fueron reclasificados como empleados con plenos derechos laborales. Las plataformas adaptaron sus modelos de negocio. Las entregas siguen llegando a tiempo.                             |
+| **Reino Unido**        | La Corte Suprema fallo que los conductores de Uber son "trabajadores" (no contratistas independientes) con derecho a salario minimo, pago de vacaciones y contribuciones de pension.                            | Uber reclasifico a mas de 70,000 conductores del Reino Unido como trabajadores. La compania sigue operando y siendo rentable. Los trabajadores ganan mas y tienen protecciones.                           |
+| **Francia**            | Los trabajadores de plataformas tienen derecho a la desconexion, seguro contra accidentes y capacitacion. Fallos judiciales recientes han reclasificado a trabajadores de multiples plataformas como empleados. | Protecciones incrementales en expansion. Los tribunales consistentemente fallan que el control de la plataforma = relacion laboral.                                                                       |
+| **Paises Bajos**       | Legislacion propuesta para presumir relacion laboral para trabajadores de plataformas. Conductores de Uber y Deliveroo declarados empleados por los tribunales.                                                 | Deliveroo abandono el mercado holandes en lugar de cumplir -- y fue inmediatamente reemplazado por plataformas dispuestas a tratar justamente a los trabajadores.                                         |
+| **California, EE.UU.** | AB5 (2019) codifico la prueba ABC para clasificacion laboral. Las plataformas gastaron $200M en Prop 22 para eximirse, pero los tribunales declararon inconstitucionales partes de Prop 22.                     | A pesar de la resistencia corporativa, el principio de que los trabajadores de plataformas son empleados continua ganando terreno en tribunales y legislaturas.                                           |
+| **Union Europea**      | Platform Work Directive (2024) - reglas a nivel de la UE que crean presuncion de empleo para trabajadores de plataformas. Requisitos de transparencia en gestion algoritmica.                                   | 28 millones de trabajadores de plataformas en toda la UE ganando protecciones laborales (European Commission Impact Assessment, 2021). El consenso global se mueve hacia la clasificacion como empleados. |
 
 **La direccion global es clara:** la UE, el Reino Unido y multiples economias principales se estan moviendo hacia reconocer a los trabajadores de plataformas como empleados. EE.UU. es el rezagado, e incluso aqui, California, Nueva York y multiples ciudades estan liderando el camino. Denver deberia ser el siguiente.
 
@@ -84,9 +88,9 @@ La ordenanza de Denver se aplica al trabajo realizado dentro de los limites de l
 
 ## Referencias
 
-- Colorado SB 22-161, *Transportation Network Company (TNC) Minimum Pay*, 2022
+- Colorado SB 22-161, _Transportation Network Company (TNC) Minimum Pay_, 2022
 - California Assembly Bill 5 (AB5), 2019
-- European Parliament, *Platform Work Directive*, 2024
-- UK Supreme Court, *Uber BV v. Aslam* [2021] UKSC 5
-- Spain, *Ley Rider* (Royal Decree-Law 9/2021)
-- McKinsey Global Institute, *Independent Work: Choice, Necessity, and the Gig Economy*, actualizacion 2022
+- European Parliament, _Platform Work Directive_, 2024
+- UK Supreme Court, _Uber BV v. Aslam_ [2021] UKSC 5
+- Spain, _Ley Rider_ (Royal Decree-Law 9/2021)
+- McKinsey Global Institute, _Independent Work: Choice, Necessity, and the Gig Economy_, actualizacion 2022

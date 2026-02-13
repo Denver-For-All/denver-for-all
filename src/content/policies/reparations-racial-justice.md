@@ -1,36 +1,36 @@
 ---
-title: "Reparations & Racial Justice"
-titleEs: "Reparaciones y Justicia Racial"
-summary: "Denver has a specific history of racial harm: redlining, urban renewal displacement, Rocky Flats contamination, and ongoing segregation. Evanston proved cities can act. Denver should be next."
-summaryEs: "Denver tiene una historia específica de daño racial: líneas rojas, desplazamiento por renovación urbana, contaminación de Rocky Flats y segregación continua. Evanston demostró que las ciudades pueden actuar. Denver debería ser la siguiente."
-category: "justice"
-icon: "handshake"
+title: 'Reparations & Racial Justice'
+titleEs: 'Reparaciones y Justicia Racial'
+summary: 'Denver has a specific history of racial harm: redlining, urban renewal displacement, Rocky Flats contamination, and ongoing segregation. Evanston proved cities can act. Denver should be next.'
+summaryEs: 'Denver tiene una historia específica de daño racial: líneas rojas, desplazamiento por renovación urbana, contaminación de Rocky Flats y segregación continua. Evanston demostró que las ciudades pueden actuar. Denver debería ser la siguiente.'
+category: 'justice'
+icon: 'handshake'
 order: 71
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "10:1"
-    label: "white-to-Black household wealth ratio in Denver"
-    labelEs: "proporcion de riqueza de hogares blancos a negros en Denver"
-    context: "Median white household ~$250K. Median Black household ~$24K."
-    contextEs: "Hogar blanco mediano ~$250K. Hogar negro mediano ~$24K."
-    source: "Federal Reserve Survey of Consumer Finances, 2022"
-    theme: "danger"
-  - value: "11 years"
-    label: "life expectancy gap across Denver neighborhoods"
-    labelEs: "brecha de esperanza de vida entre vecindarios de Denver"
-    context: "Shortest lives in the poorest, most racially segregated communities"
-    contextEs: "Las vidas mas cortas en las comunidades mas pobres y segregadas"
-    source: "Colorado Health Institute, 2022"
-    theme: "danger"
-  - value: "$6.2M"
-    label: "Evanston proved cities can do reparations"
-    labelEs: "Evanston demostro que las ciudades pueden hacer reparaciones"
-    context: "First US city to disburse publicly funded reparations — 132 recipients"
-    contextEs: "Primera ciudad de EE.UU. en desembolsar reparaciones con fondos publicos"
-    source: "City of Evanston, 2025"
-    theme: "primary"
+  - value: '10:1'
+    label: 'white-to-Black household wealth ratio in Denver'
+    labelEs: 'proporcion de riqueza de hogares blancos a negros en Denver'
+    context: 'Median white household ~$250K. Median Black household ~$24K.'
+    contextEs: 'Hogar blanco mediano ~$250K. Hogar negro mediano ~$24K.'
+    source: 'Federal Reserve Survey of Consumer Finances, 2022'
+    theme: 'danger'
+  - value: '11 years'
+    label: 'life expectancy gap across Denver neighborhoods'
+    labelEs: 'brecha de esperanza de vida entre vecindarios de Denver'
+    context: 'Shortest lives in the poorest, most racially segregated communities'
+    contextEs: 'Las vidas mas cortas en las comunidades mas pobres y segregadas'
+    source: 'Colorado Health Institute, 2022'
+    theme: 'danger'
+  - value: '$6.2M'
+    label: 'Evanston proved cities can do reparations'
+    labelEs: 'Evanston demostro que las ciudades pueden hacer reparaciones'
+    context: 'First US city to disburse publicly funded reparations — 132 recipients'
+    contextEs: 'Primera ciudad de EE.UU. en desembolsar reparaciones con fondos publicos'
+    source: 'City of Evanston, 2025'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -60,6 +60,7 @@ Denver has no reparations program, no racial wealth gap commission, and no syste
 ### Denver Reparations & Restorative Justice Commission
 
 **1. Establish the Commission**
+
 - City Council-created, 25-member commission. Composition: 15 community members from historically harmed communities (selected through open application with priority for affected neighborhoods), 5 subject-matter experts (historians, economists, public health researchers), and 5 council-appointed members.
 - Two-year mandate to investigate, quantify, and recommend reparative actions for harms done to Black, Latino, Indigenous, and Asian American communities through specific Denver government policies and actions.
 - Subpoena power to access city records, historical documents, and institutional data.
@@ -90,13 +91,13 @@ Pair reparations with guaranteed income (see [Denver Guaranteed Income](/platfor
 
 ### Evidence: Cities Are Acting
 
-| City | Program | Status |
-|------|---------|--------|
-| **Evanston, IL** | First US city to disburse publicly funded reparations. $25,000 housing grants to Black residents with ties to 1919-1969 era. Funded by cannabis tax. | $6.2 million disbursed as of mid-2025. 132 of 141 "Ancestor" recipients paid. Expanding to business reparations for Black-owned businesses harmed by gentrification. |
-| **Asheville, NC** | Reparations Commission (25 members, appointed 2022). Recommended guaranteed income for Black residents harmed by wage discrimination, plus a Black-led Economic Development Center. | Recommendations adopted. Implementation in progress. |
-| **San Francisco, CA** | Board of Supervisors created a reparations fund (11-0 vote). Advisory committee recommended $5 million lump-sum payments to eligible Black residents. | Fund created but unfunded due to $1 billion city deficit. Demonstrates political will even without immediate fiscal capacity. |
-| **Detroit, MI** | Reparations task force established 2023. | Studying historical harms including urban renewal, highway construction, and redlining. |
-| **St. Paul, MN** | Reparations commission studying harms to Black residents from Rondo neighborhood destruction (I-94 construction). | Parallels to Denver's I-70 destruction of GES. |
+| City                  | Program                                                                                                                                                                             | Status                                                                                                                                                               |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Evanston, IL**      | First US city to disburse publicly funded reparations. $25,000 housing grants to Black residents with ties to 1919-1969 era. Funded by cannabis tax.                                | $6.2 million disbursed as of mid-2025. 132 of 141 "Ancestor" recipients paid. Expanding to business reparations for Black-owned businesses harmed by gentrification. |
+| **Asheville, NC**     | Reparations Commission (25 members, appointed 2022). Recommended guaranteed income for Black residents harmed by wage discrimination, plus a Black-led Economic Development Center. | Recommendations adopted. Implementation in progress.                                                                                                                 |
+| **San Francisco, CA** | Board of Supervisors created a reparations fund (11-0 vote). Advisory committee recommended $5 million lump-sum payments to eligible Black residents.                               | Fund created but unfunded due to $1 billion city deficit. Demonstrates political will even without immediate fiscal capacity.                                        |
+| **Detroit, MI**       | Reparations task force established 2023.                                                                                                                                            | Studying historical harms including urban renewal, highway construction, and redlining.                                                                              |
+| **St. Paul, MN**      | Reparations commission studying harms to Black residents from Rondo neighborhood destruction (I-94 construction).                                                                   | Parallels to Denver's I-70 destruction of GES.                                                                                                                       |
 
 The pattern is consistent: cities with specific, documented histories of racial harm are creating commissions, investigating, and acting. Denver's history of redlining, urban renewal, and environmental racism is as well-documented as any city in the country. What Denver lacks is not evidence. It is political will.
 

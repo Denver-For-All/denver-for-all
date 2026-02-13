@@ -1,36 +1,36 @@
 ---
-title: "Immigrant Workforce Integration"
-titleEs: "Integración Laboral de Inmigrantes"
-summary: "Credential recognition for foreign-trained professionals. Bridge programs to fill labor shortages. Immigrant entrepreneurship fund. Stop wasting talent - Denver needs every skilled worker it has."
-summaryEs: "Reconocimiento de credenciales para profesionales formados en el extranjero. Programas puente para llenar escasez laboral. Fondo de emprendimiento inmigrante. Dejemos de desperdiciar talento - Denver necesita a cada trabajador calificado."
-category: "immigration"
-icon: "briefcase"
+title: 'Immigrant Workforce Integration'
+titleEs: 'Integración Laboral de Inmigrantes'
+summary: 'Credential recognition for foreign-trained professionals. Bridge programs to fill labor shortages. Immigrant entrepreneurship fund. Stop wasting talent - Denver needs every skilled worker it has.'
+summaryEs: 'Reconocimiento de credenciales para profesionales formados en el extranjero. Programas puente para llenar escasez laboral. Fondo de emprendimiento inmigrante. Dejemos de desperdiciar talento - Denver necesita a cada trabajador calificado.'
+category: 'immigration'
+icon: 'briefcase'
 order: 42
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "2M"
-    label: "college-educated immigrants stuck in wrong jobs"
-    labelEs: "inmigrantes con educacion universitaria en empleos inadecuados"
-    context: "Foreign-trained doctors drive Uber. Engineers work in kitchens. Teachers clean offices."
-    contextEs: "Doctores formados en el extranjero manejan Uber. Ingenieros trabajan en cocinas."
-    source: "Migration Policy Institute, 2023"
-    theme: "danger"
-  - value: "75%"
-    label: "of mentored immigrants found work in their field"
-    labelEs: "de inmigrantes con mentor encontraron trabajo en su campo"
+  - value: '2M'
+    label: 'college-educated immigrants stuck in wrong jobs'
+    labelEs: 'inmigrantes con educacion universitaria en empleos inadecuados'
+    context: 'Foreign-trained doctors drive Uber. Engineers work in kitchens. Teachers clean offices.'
+    contextEs: 'Doctores formados en el extranjero manejan Uber. Ingenieros trabajan en cocinas.'
+    source: 'Migration Policy Institute, 2023'
+    theme: 'danger'
+  - value: '75%'
+    label: 'of mentored immigrants found work in their field'
+    labelEs: 'de inmigrantes con mentor encontraron trabajo en su campo'
     context: "Toronto's mentorship program returned $4 for every $1 invested within 12 months"
-    contextEs: "El programa de mentoria de Toronto devolvio $4 por cada $1 invertido en 12 meses"
-    source: "TRIEC, 2021"
-    theme: "primary"
-  - value: "4:1"
-    label: "return on every dollar invested"
-    labelEs: "retorno por cada dolar invertido"
+    contextEs: 'El programa de mentoria de Toronto devolvio $4 por cada $1 invertido en 12 meses'
+    source: 'TRIEC, 2021'
+    theme: 'primary'
+  - value: '4:1'
+    label: 'return on every dollar invested'
+    labelEs: 'retorno por cada dolar invertido'
     context: "Credential recognition doesn't cost money — it makes money"
-    contextEs: "El reconocimiento de credenciales no cuesta dinero — genera dinero"
-    source: "TRIEC, 2021"
-    theme: "primary"
+    contextEs: 'El reconocimiento de credenciales no cuesta dinero — genera dinero'
+    source: 'TRIEC, 2021'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -38,6 +38,7 @@ keyStats:
 Denver has foreign-trained doctors driving Uber, engineers working in kitchens, and teachers cleaning offices. Across the U.S., an estimated 2 million college-educated immigrants work in jobs that don't require a degree or are unemployed entirely (Migration Policy Institute, 2023). Colorado is no exception: the state faces critical labor shortages in healthcare, education, skilled trades, and technology while thousands of qualified immigrants can't use their credentials.
 
 The barriers are stacked:
+
 - Foreign degrees and professional licenses are not recognized, even from accredited institutions
 - Re-licensing processes require years of additional education and exams, often in English only, with no financial support
 - Professional experience from other countries counts for nothing in most licensing frameworks
@@ -62,6 +63,7 @@ Professional licensing boards may resist streamlined credential recognition, cit
 ### The Denver Immigrant Workforce Integration Act
 
 **1. Denver Credential Recognition Office**
+
 - Dedicated city office that evaluates foreign credentials and maps them to Colorado licensing requirements
 - Produces individualized "credential gap analysis" for each applicant: what they have, what they need, and the fastest path to full licensure
 - Partners with DORA to advocate for streamlined state-level recognition pathways
@@ -70,6 +72,7 @@ Professional licensing boards may resist streamlined credential recognition, cit
 - Goal: reduce average time from credential evaluation to professional employment from 3+ years to under 12 months
 
 **2. Bridge Training Programs**
+
 - City-funded partnerships with Community College of Denver, Metropolitan State University, and CU Denver for accelerated bridge programs in high-shortage fields:
   - **Healthcare**: nursing bridge program for foreign-trained nurses, medical assistant certification, community health worker training
   - **Education**: alternative teacher licensure pathway for foreign-trained educators, paraprofessional certification
@@ -81,6 +84,7 @@ Professional licensing boards may resist streamlined credential recognition, cit
 - Clinical and practicum placements guaranteed through employer partnerships
 
 **3. Professional Mentorship Network**
+
 - Matches immigrant professionals with established Denver professionals in the same field
 - Mentors provide guidance on U.S. workplace culture, networking, licensing exams, and career advancement
 - Structured 6-month mentorship with clear milestones
@@ -88,6 +92,7 @@ Professional licensing boards may resist streamlined credential recognition, cit
 - Coordinated through Denver's industry associations and professional organizations
 
 **4. Immigrant Entrepreneurship Fund**
+
 - $3M annual fund for immigrant-owned business startups and expansion
 - Microloans ($5,000-$50,000) at below-market rates for immigrant entrepreneurs
 - Business development support: licensing navigation, business plan development, accounting, marketing - all available in multiple languages
@@ -96,6 +101,7 @@ Professional licensing boards may resist streamlined credential recognition, cit
 - Focus on neighborhood commercial corridors where immigrant businesses already anchor community life (Federal Blvd, Colfax, Morrison Rd)
 
 **5. Language for Work Program**
+
 - Occupation-specific English language training (not generic ESL)
 - Healthcare English, construction English, business English, technology English - vocabulary and communication skills for specific professional contexts
 - Offered at community locations (libraries, recreation centers, community colleges) on evenings and weekends
@@ -104,6 +110,7 @@ Professional licensing boards may resist streamlined credential recognition, cit
 - Digital literacy component for workers transitioning to tech-enabled workplaces
 
 **6. Employer Engagement & Hiring Incentives**
+
 - Denver Inclusive Employer Certification: recognition for businesses that actively recruit, hire, and support immigrant workers
 - Certified employers receive priority in city procurement and contracting
 - Wage subsidies for the first 6 months of employment for workers completing bridge programs (up to $3,000/employee)
@@ -112,12 +119,12 @@ Professional licensing boards may resist streamlined credential recognition, cit
 
 ### Evidence: Credential Recognition Pays For Itself
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Canada (Federal)** | Express Entry system evaluates foreign credentials as part of immigration process. Provincial Nominee Programs match immigrants to local labor shortages. Bridge training funded federally. | Canada's immigrant employment rate reaches parity with native-born within 5 years. Foreign credential recognition contributed an estimated $20B+ annually to Canadian GDP (Conference Board of Canada, 2020). |
-| **Germany** | *Anerkennungsgesetz* (Recognition Act, 2012) created a legal right to have foreign credentials evaluated. Standardized equivalency process across all 16 states. Bridge training funded by federal employment agency. | 80% of applicants received full or partial recognition. Recognized workers earned 25% more than those in non-recognition occupations. Program costs recovered through higher tax revenue within 2 years (BIBB, 2021). |
-| **Australia (Victoria)** | Skilled migrant credential recognition programs. Overseas Qualification Units in key industries. Government-funded bridge training and mentoring. | Skilled migrants matched to appropriate employment 40% faster than national average. Healthcare workforce shortages reduced by 15% in participating regions (Victorian Government, 2022). |
-| **Toronto, Canada** | Toronto Region Immigrant Employment Council (TRIEC) mentorship program matches immigrants with Canadian professionals. Bridge training partnerships with universities. | 75% of mentored immigrants found employment in their field within 12 months. Program generated $4 in economic return for every $1 invested (TRIEC, 2021). |
+| Country/City             | Model                                                                                                                                                                                                                 | Result                                                                                                                                                                                                                |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Canada (Federal)**     | Express Entry system evaluates foreign credentials as part of immigration process. Provincial Nominee Programs match immigrants to local labor shortages. Bridge training funded federally.                           | Canada's immigrant employment rate reaches parity with native-born within 5 years. Foreign credential recognition contributed an estimated $20B+ annually to Canadian GDP (Conference Board of Canada, 2020).         |
+| **Germany**              | _Anerkennungsgesetz_ (Recognition Act, 2012) created a legal right to have foreign credentials evaluated. Standardized equivalency process across all 16 states. Bridge training funded by federal employment agency. | 80% of applicants received full or partial recognition. Recognized workers earned 25% more than those in non-recognition occupations. Program costs recovered through higher tax revenue within 2 years (BIBB, 2021). |
+| **Australia (Victoria)** | Skilled migrant credential recognition programs. Overseas Qualification Units in key industries. Government-funded bridge training and mentoring.                                                                     | Skilled migrants matched to appropriate employment 40% faster than national average. Healthcare workforce shortages reduced by 15% in participating regions (Victorian Government, 2022).                             |
+| **Toronto, Canada**      | Toronto Region Immigrant Employment Council (TRIEC) mentorship program matches immigrants with Canadian professionals. Bridge training partnerships with universities.                                                | 75% of mentored immigrants found employment in their field within 12 months. Program generated $4 in economic return for every $1 invested (TRIEC, 2021).                                                             |
 
 **The math is simple:** a foreign-trained nurse earning $35,000 driving for Uber contributes less to Denver's economy and tax base than that same nurse earning $75,000 at Denver Health. Credential recognition doesn't cost money - it makes money.
 

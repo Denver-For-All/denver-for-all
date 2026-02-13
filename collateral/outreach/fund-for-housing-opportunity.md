@@ -20,6 +20,7 @@ I'm writing to inquire about grant opportunities for Denver For All (denverforal
 Denver For All has built one of the most comprehensive municipal housing policy research platforms in Colorado:
 
 **9 housing policy proposals, each with full evidence base:**
+
 - Social Housing (10,000 publicly-owned units modeled on Vienna's system)
 - Rent Stabilization (CPI or 3% cap, no vacancy decontrol) + detailed legislative history of Colorado's 1981 preemption
 - Community Land Trusts (permanent affordability through non-profit land ownership)
@@ -31,12 +32,14 @@ Denver For All has built one of the most comprehensive municipal housing policy 
 - Source-of-Income Discrimination Ban (ready for immediate council introduction)
 
 **Free civic tools serving Denver tenants:**
+
 - Eviction tracker mapping displacement by neighborhood and landlord (Princeton Eviction Lab + Colorado Judicial Branch data)
 - Rent calculator showing household savings under rent stabilization
 - 24/7 AI tenant rights chatbot in English and Spanish
 - Campaign finance tracker exposing real estate PAC influence on housing votes
 
 **Federal grant templates:**
+
 - HUD HOME for Community Land Trust expansion ($8–12M)
 - HUD Continuum of Care for Housing First implementation
 

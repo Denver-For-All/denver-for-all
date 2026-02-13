@@ -40,22 +40,13 @@ export default {
           return jsonResponse(await getCandidates(env.DB), corsHeaders);
 
         case '/api/finance/candidate':
-          return jsonResponse(
-            await getCandidateDetail(env.DB, url.searchParams),
-            corsHeaders,
-          );
+          return jsonResponse(await getCandidateDetail(env.DB, url.searchParams), corsHeaders);
 
         case '/api/finance/top-donors':
-          return jsonResponse(
-            await getTopDonors(env.DB, url.searchParams),
-            corsHeaders,
-          );
+          return jsonResponse(await getTopDonors(env.DB, url.searchParams), corsHeaders);
 
         case '/api/finance/donor-types':
-          return jsonResponse(
-            await getDonorTypeBreakdown(env.DB, url.searchParams),
-            corsHeaders,
-          );
+          return jsonResponse(await getDonorTypeBreakdown(env.DB, url.searchParams), corsHeaders);
 
         case '/api/finance/scorecard':
           return jsonResponse(await getScorecard(env.DB), corsHeaders);
@@ -96,25 +87,29 @@ export default {
       const contributions = await scrapeContributions();
 
       for (const contrib of contributions) {
-        await env.DB.prepare(`
+        await env.DB.prepare(
+          `
           INSERT OR IGNORE INTO contributions
             (filing_id, candidate_name, candidate_office, candidate_district,
              contributor_name, contributor_address, contributor_type,
              contributor_category, amount, contribution_date, election_cycle)
           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        `).bind(
-          contrib.filingId,
-          contrib.candidateName,
-          contrib.candidateOffice,
-          contrib.candidateDistrict,
-          contrib.contributorName,
-          contrib.contributorAddress,
-          contrib.contributorType,
-          contrib.contributorCategory,
-          contrib.amount,
-          contrib.contributionDate,
-          contrib.electionCycle,
-        ).run();
+        `,
+        )
+          .bind(
+            contrib.filingId,
+            contrib.candidateName,
+            contrib.candidateOffice,
+            contrib.candidateDistrict,
+            contrib.contributorName,
+            contrib.contributorAddress,
+            contrib.contributorType,
+            contrib.contributorCategory,
+            contrib.amount,
+            contrib.contributionDate,
+            contrib.electionCycle,
+          )
+          .run();
       }
 
       console.log(`Processed ${contributions.length} contributions`);
@@ -134,7 +129,15 @@ interface Contribution {
   contributorName: string;
   contributorAddress: string | null;
   contributorType: 'individual' | 'pac' | 'corporate' | 'party' | 'other';
-  contributorCategory: 'developer' | 'landlord' | 'real_estate' | 'labor' | 'small_donor' | 'corporate' | 'pac' | 'other';
+  contributorCategory:
+    | 'developer'
+    | 'landlord'
+    | 'real_estate'
+    | 'labor'
+    | 'small_donor'
+    | 'corporate'
+    | 'pac'
+    | 'other';
   amount: number;
   contributionDate: string;
   electionCycle: string;
@@ -148,7 +151,9 @@ async function scrapeContributions(): Promise<Contribution[]> {
 // --- API Handlers ---
 
 async function getCandidates(db: D1Database) {
-  const results = await db.prepare(`
+  const results = await db
+    .prepare(
+      `
     SELECT
       candidate_name,
       candidate_office,
@@ -163,7 +168,9 @@ async function getCandidates(db: D1Database) {
     FROM contributions
     GROUP BY candidate_name, candidate_office, candidate_district
     ORDER BY total_raised DESC
-  `).all();
+  `,
+    )
+    .all();
 
   return results.results;
 }
@@ -172,7 +179,9 @@ async function getCandidateDetail(db: D1Database, params: URLSearchParams) {
   const name = params.get('name');
   if (!name) return { error: 'name parameter required' };
 
-  const summary = await db.prepare(`
+  const summary = await db
+    .prepare(
+      `
     SELECT
       candidate_name,
       candidate_office,
@@ -182,24 +191,37 @@ async function getCandidateDetail(db: D1Database, params: URLSearchParams) {
     FROM contributions
     WHERE candidate_name = ?
     GROUP BY candidate_name
-  `).bind(name).first();
+  `,
+    )
+    .bind(name)
+    .first();
 
-  const byCategory = await db.prepare(`
+  const byCategory = await db
+    .prepare(
+      `
     SELECT contributor_category, SUM(amount) as total, COUNT(*) as count
     FROM contributions
     WHERE candidate_name = ?
     GROUP BY contributor_category
     ORDER BY total DESC
-  `).bind(name).all();
+  `,
+    )
+    .bind(name)
+    .all();
 
-  const topDonors = await db.prepare(`
+  const topDonors = await db
+    .prepare(
+      `
     SELECT contributor_name, SUM(amount) as total, contributor_category
     FROM contributions
     WHERE candidate_name = ?
     GROUP BY contributor_name
     ORDER BY total DESC
     LIMIT 20
-  `).bind(name).all();
+  `,
+    )
+    .bind(name)
+    .all();
 
   return {
     summary,
@@ -226,9 +248,7 @@ async function getTopDonors(db: D1Database, params: URLSearchParams) {
 
   query += ` GROUP BY contributor_name ORDER BY total_given DESC LIMIT ?`;
 
-  const stmt = category
-    ? db.prepare(query).bind(category, limit)
-    : db.prepare(query).bind(limit);
+  const stmt = category ? db.prepare(query).bind(category, limit) : db.prepare(query).bind(limit);
 
   const results = await stmt.all();
   return results.results;

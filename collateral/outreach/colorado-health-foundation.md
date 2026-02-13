@@ -20,6 +20,7 @@ I'm writing to inquire about grant opportunities for Denver For All (denverforal
 Denver For All approaches health as a function of housing stability, economic security, and access to care. Our research and tools address the social determinants that drive Colorado's health inequities:
 
 **Medical Debt Forgiveness**
+
 - 62% of US bankruptcies involve medical debt (Himmelstein et al., 2009)
 - Hospital admissions reduce earnings by 20% (Dobkin et al., 2018)
 - Denver Health still sends patients to collections and places liens on homes
@@ -27,6 +28,7 @@ Denver For All approaches health as a function of housing stability, economic se
 - **This is a Tier 1 proposal — ready for immediate city council introduction**
 
 **STAR Program Expansion (Mental Health Crisis Response)**
+
 - STAR has responded to 23,000+ calls since 2022
 - Urban Institute (2026): 16% reduction in arrests; 2–3x larger for homeless populations
 - Community Partner Network: 1,200+ clients served, ~12,000 case management encounters
@@ -34,12 +36,14 @@ Denver For All approaches health as a function of housing stability, economic se
 - **Caring for Denver Foundation is the primary STAR funder — we are applying there as well**
 
 **Housing Stability as Health Intervention**
+
 - 9,065 people experiencing homelessness metro Denver (MDHI, 2024)
 - Housing instability is a primary driver of emergency department utilization, mental health crises, and substance use
 - Our Housing First proposal documents Finland's 35% homelessness reduction
 - Our eviction tracker maps displacement patterns that correlate with health disparities
 
 **Drug Policy Reform**
+
 - Our proposal documents treatment-first approaches reducing both substance use and incarceration
 - Evidence from Portugal, international models, and domestic harm reduction programs
 

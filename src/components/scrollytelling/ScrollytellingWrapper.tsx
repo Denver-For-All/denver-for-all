@@ -14,7 +14,10 @@ interface ScrollamaInstance {
   destroy: () => void;
 }
 
-export default function ScrollytellingWrapper({ Visualization, Steps }: ScrollytellingWrapperProps) {
+export default function ScrollytellingWrapper({
+  Visualization,
+  Steps,
+}: ScrollytellingWrapperProps) {
   const [currentStep, setCurrentStep] = useState(0);
   const locale = useLocale();
 

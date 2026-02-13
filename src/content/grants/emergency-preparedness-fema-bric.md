@@ -1,14 +1,14 @@
 ---
-title: "FEMA BRIC — Denver Climate Resilience Hubs & Green Infrastructure"
-titleEs: "FEMA BRIC — Centros de Resiliencia Climática e Infraestructura Verde de Denver"
+title: 'FEMA BRIC — Denver Climate Resilience Hubs & Green Infrastructure'
+titleEs: 'FEMA BRIC — Centros de Resiliencia Climática e Infraestructura Verde de Denver'
 summary: "FEMA Building Resilient Infrastructure and Communities grant template for solar-powered resilience hubs, green stormwater infrastructure, and climate adaptation in Denver's most vulnerable neighborhoods."
-summaryEs: "Plantilla de subvención de FEMA para Construcción de Infraestructura y Comunidades Resilientes para centros de resiliencia con energía solar, infraestructura verde de aguas pluviales y adaptación climática en los vecindarios más vulnerables de Denver."
-policySlug: "emergency-preparedness"
-grantProgram: "Building Resilient Infrastructure and Communities (BRIC)"
-fundingAgency: "Federal Emergency Management Agency (FEMA)"
-estimatedAmount: "$10-15M over 3 years"
-deadline: "Typically January-February annually (check FEMA HMA portal)"
-status: "draft"
+summaryEs: 'Plantilla de subvención de FEMA para Construcción de Infraestructura y Comunidades Resilientes para centros de resiliencia con energía solar, infraestructura verde de aguas pluviales y adaptación climática en los vecindarios más vulnerables de Denver.'
+policySlug: 'emergency-preparedness'
+grantProgram: 'Building Resilient Infrastructure and Communities (BRIC)'
+fundingAgency: 'Federal Emergency Management Agency (FEMA)'
+estimatedAmount: '$10-15M over 3 years'
+deadline: 'Typically January-February annually (check FEMA HMA portal)'
+status: 'draft'
 ---
 
 ## Project Narrative
@@ -30,6 +30,7 @@ status: "draft"
 **Project Area:** City and County of Denver, Colorado (population ~715,000)
 
 **Priority Neighborhoods (ranked by climate vulnerability, social vulnerability index, and infrastructure deficiency):**
+
 - Globeville
 - Elyria-Swansea
 - Sun Valley
@@ -50,29 +51,34 @@ status: "draft"
 Denver faces a compounding set of climate hazards that are intensifying year over year:
 
 **Extreme Heat:**
+
 - Denver recorded an all-time high temperature of 105°F in June 2024
 - The city now averages more than 20 days per year above 95°F, projected to double by 2050 under moderate emissions scenarios
 - Urban heat islands in Globeville-Elyria-Swansea, Sun Valley, and Westwood measure 10-15°F hotter than tree-canopied neighborhoods just miles away
 - Colorado recorded 89 heat-related deaths in 2023 — a figure that disproportionately impacts outdoor workers, elderly residents, unhoused individuals, and households without air conditioning
 
 **Wildfire Smoke & Air Quality:**
+
 - Denver experienced more than 20 unhealthy air quality days in 2023, driven primarily by wildfire smoke from regional and out-of-state fires
 - The Marshall Fire (December 2021) destroyed more than 1,000 homes just 20 miles from Denver, demonstrating the wildland-urban interface risk to the metropolitan area
 - Smoke exposure exacerbates asthma, cardiovascular disease, and respiratory illness at higher rates in neighborhoods with existing environmental health burdens
 
 **Flash Flooding & Stormwater:**
+
 - Denver's semi-arid climate produces intense, short-duration rainfall events that overwhelm aging stormwater infrastructure
 - Several target neighborhoods rely on combined sewer systems with documented overflow risk during heavy precipitation events
 - Climate models project more intense precipitation events, increasing the frequency and severity of urban flash flooding
 - The city's Storm Drainage Fund collects approximately $115 million annually, reflecting the scale of the stormwater management challenge
 
 **Cascading and Compounding Hazards:**
+
 - Denver increasingly faces compound events — heat waves paired with poor air quality, or severe storms following drought — that strain emergency response capacity and multiply risk for vulnerable populations
 - Existing emergency shelters and cooling centers are limited in number, unevenly distributed, and dependent on the electrical grid, which itself is vulnerable to extreme weather disruption
 
 ### D. Project Activities & Deliverables
 
 **Activity 1: Solar-Powered Community Resilience Hubs ($6,000,000)**
+
 - Establish 6 resilience hubs in the highest-vulnerability neighborhoods (Globeville, Elyria-Swansea, Sun Valley, Westwood, Montbello, East Colfax), located at existing community centers, recreation centers, or libraries
 - Each hub to include rooftop solar arrays (minimum 50kW per site) paired with battery storage systems capable of operating critical systems for a minimum of 72 hours during grid outages
 - Install HVAC systems with MERV-13 or higher filtration to provide cooling during extreme heat events and clean air shelter during wildfire smoke episodes
@@ -81,6 +87,7 @@ Denver faces a compounding set of climate hazards that are intensifying year ove
 - Model: Portland, Oregon's resilience hub network, which served communities during the June 2021 Pacific Northwest heat dome when temperatures reached 116°F — hubs provided cooling, water, welfare checks, and information in neighborhoods where dozens of residents died
 
 **Activity 2: Green Stormwater Infrastructure in Flood-Prone Neighborhoods ($4,000,000)**
+
 - Install bioswales, rain gardens, permeable pavement, and detention basins in the 5 neighborhoods with the highest documented flood risk and stormwater infrastructure deficiency
 - Prioritize projects that reduce combined sewer overflow frequency and volume, targeting a minimum 20% reduction in peak stormwater runoff at treated sites
 - Integrate green infrastructure into street reconstruction and park improvement projects already planned by DOTI, maximizing co-benefits and cost efficiency
@@ -88,6 +95,7 @@ Denver faces a compounding set of climate hazards that are intensifying year ove
 - Install real-time stormwater monitoring sensors at green infrastructure sites to document performance and inform future investment
 
 **Activity 3: Urban Heat Mitigation — Tree Canopy & Cool Surfaces ($2,500,000)**
+
 - Plant a minimum of 3,000 trees in the 10 target neighborhoods, prioritizing streets, schoolyards, parks, and transit corridors in areas with the lowest existing canopy coverage
 - Select climate-adapted, low-water species appropriate for Denver's semi-arid environment and projected future climate conditions
 - Install cool roofs and high-albedo pavement coatings on public buildings and roadways in the highest heat island zones, targeting a minimum surface temperature reduction of 10°F on treated surfaces
@@ -95,6 +103,7 @@ Denver faces a compounding set of climate hazards that are intensifying year ove
 - Conduct pre- and post-intervention thermal mapping using aerial infrared surveys to document heat island reduction
 
 **Activity 4: Community Preparedness & Early Warning Systems ($1,500,000)**
+
 - Deploy a neighborhood-level extreme weather early warning system with multilingual alerts (English, Spanish, Vietnamese, Amharic, Arabic) via text, app, sirens, and community notification networks
 - Recruit, train, and equip 200 Community Emergency Response Team (CERT) volunteers from target neighborhoods, with emphasis on residents who reflect the linguistic and cultural diversity of their communities
 - Develop and distribute neighborhood-specific emergency preparedness plans and go-kits tailored to the specific hazards facing each target area (heat, flood, smoke)
@@ -103,14 +112,14 @@ Denver faces a compounding set of climate hazards that are intensifying year ove
 
 ### E. Project Timeline
 
-| Phase | Timeline | Key Milestones |
-|---|---|---|
-| **Planning, Design & Permitting** | Months 1-8 | Finalize hub site selections, complete engineering design for green infrastructure, execute community engagement round 1 in all 10 neighborhoods, obtain permits |
-| **Procurement & Contracting** | Months 6-10 | Issue RFPs for solar installation, green infrastructure construction, and tree planting; award contracts (phased to overlap with design completion) |
-| **Construction Phase 1 — Hubs & Green Infrastructure** | Months 9-20 | Complete construction on first 3 resilience hubs, install green stormwater infrastructure in 3 highest-priority neighborhoods, begin tree planting |
-| **Construction Phase 2 — Remaining Sites & Heat Mitigation** | Months 18-30 | Complete remaining 3 resilience hubs, finish green infrastructure and cool surface installations, complete tree planting program |
-| **Systems Activation & Community Preparedness** | Months 6-32 | Deploy early warning system, train CERT volunteers (ongoing), conduct tabletop exercises, establish mutual aid agreements |
-| **Closeout & Evaluation** | Months 30-36 | Post-construction performance monitoring, thermal mapping, stormwater data analysis, community survey, final evaluation report |
+| Phase                                                        | Timeline     | Key Milestones                                                                                                                                                   |
+| ------------------------------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planning, Design & Permitting**                            | Months 1-8   | Finalize hub site selections, complete engineering design for green infrastructure, execute community engagement round 1 in all 10 neighborhoods, obtain permits |
+| **Procurement & Contracting**                                | Months 6-10  | Issue RFPs for solar installation, green infrastructure construction, and tree planting; award contracts (phased to overlap with design completion)              |
+| **Construction Phase 1 — Hubs & Green Infrastructure**       | Months 9-20  | Complete construction on first 3 resilience hubs, install green stormwater infrastructure in 3 highest-priority neighborhoods, begin tree planting               |
+| **Construction Phase 2 — Remaining Sites & Heat Mitigation** | Months 18-30 | Complete remaining 3 resilience hubs, finish green infrastructure and cool surface installations, complete tree planting program                                 |
+| **Systems Activation & Community Preparedness**              | Months 6-32  | Deploy early warning system, train CERT volunteers (ongoing), conduct tabletop exercises, establish mutual aid agreements                                        |
+| **Closeout & Evaluation**                                    | Months 30-36 | Post-construction performance monitoring, thermal mapping, stormwater data analysis, community survey, final evaluation report                                   |
 
 ### F. Alignment with BRIC Program Priorities
 
@@ -138,32 +147,32 @@ The requested federal investment of $14 million, matched against the Storm Drain
 
 ## Budget Summary
 
-| Category | Amount | % of Total |
-|---|---|---|
-| Solar-Powered Community Resilience Hubs (6 sites) | $6,000,000 | 43% |
-| Green Stormwater Infrastructure | $4,000,000 | 29% |
-| Urban Heat Mitigation (tree canopy & cool surfaces) | $2,500,000 | 18% |
-| Community Preparedness & Early Warning Systems | $1,500,000 | 10% |
-| **Total Federal Request** | **$14,000,000** | **100%** |
-| Local Match (Storm Drainage Fund, CASR, OEM budgets) | $115,000,000+ | — |
-| **Total Project Investment** | **$129,000,000+** | — |
+| Category                                             | Amount            | % of Total |
+| ---------------------------------------------------- | ----------------- | ---------- |
+| Solar-Powered Community Resilience Hubs (6 sites)    | $6,000,000        | 43%        |
+| Green Stormwater Infrastructure                      | $4,000,000        | 29%        |
+| Urban Heat Mitigation (tree canopy & cool surfaces)  | $2,500,000        | 18%        |
+| Community Preparedness & Early Warning Systems       | $1,500,000        | 10%        |
+| **Total Federal Request**                            | **$14,000,000**   | **100%**   |
+| Local Match (Storm Drainage Fund, CASR, OEM budgets) | $115,000,000+     | —          |
+| **Total Project Investment**                         | **$129,000,000+** | —          |
 
-*Note: BRIC requires a minimum 25% non-federal cost share (75/25). Denver's local match far exceeds this threshold. The Storm Drainage Fund contribution alone provides documented, dedicated local revenue. Additional in-kind contributions from CASR, OEM, Denver Parks and Recreation, and community partner organizations further strengthen the match.*
+_Note: BRIC requires a minimum 25% non-federal cost share (75/25). Denver's local match far exceeds this threshold. The Storm Drainage Fund contribution alone provides documented, dedicated local revenue. Additional in-kind contributions from CASR, OEM, Denver Parks and Recreation, and community partner organizations further strengthen the match._
 
 ## Expected Outcomes
 
-| Metric | Baseline | 3-Year Target |
-|---|---|---|
-| Resilience hubs with backup power & clean air capacity | 0 operational | 6 fully operational |
-| Residents within 15-minute walk of a resilience hub | ~5% in target neighborhoods | ~70% in target neighborhoods |
-| Grid-independent emergency shelter capacity (hours) | 0 (grid-dependent) | 72+ hours per hub |
-| Peak stormwater runoff at treated sites | Current baseline | 20% minimum reduction |
-| Combined sewer overflow events in treated areas | Current frequency | 30% reduction |
-| Tree canopy coverage in target neighborhoods | 8-12% (vs. 20% citywide avg.) | 15-18% |
-| Surface temperature in cool-surface treatment zones | 10-15°F above canopied areas | 10°F reduction on treated surfaces |
-| Trained CERT volunteers in target neighborhoods | ~50 | 200+ |
-| Residents enrolled in multilingual early warning system | Limited coverage | 50,000+ in target neighborhoods |
-| Heat-related emergency room visits in target areas | Current baseline | 25% reduction |
+| Metric                                                  | Baseline                      | 3-Year Target                      |
+| ------------------------------------------------------- | ----------------------------- | ---------------------------------- |
+| Resilience hubs with backup power & clean air capacity  | 0 operational                 | 6 fully operational                |
+| Residents within 15-minute walk of a resilience hub     | ~5% in target neighborhoods   | ~70% in target neighborhoods       |
+| Grid-independent emergency shelter capacity (hours)     | 0 (grid-dependent)            | 72+ hours per hub                  |
+| Peak stormwater runoff at treated sites                 | Current baseline              | 20% minimum reduction              |
+| Combined sewer overflow events in treated areas         | Current frequency             | 30% reduction                      |
+| Tree canopy coverage in target neighborhoods            | 8-12% (vs. 20% citywide avg.) | 15-18%                             |
+| Surface temperature in cool-surface treatment zones     | 10-15°F above canopied areas  | 10°F reduction on treated surfaces |
+| Trained CERT volunteers in target neighborhoods         | ~50                           | 200+                               |
+| Residents enrolled in multilingual early warning system | Limited coverage              | 50,000+ in target neighborhoods    |
+| Heat-related emergency room visits in target areas      | Current baseline              | 25% reduction                      |
 
 ## Key Data Sources
 

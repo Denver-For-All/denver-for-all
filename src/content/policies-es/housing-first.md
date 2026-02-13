@@ -31,30 +31,35 @@ Adaptado del modelo Y-Foundation de Finlandia (el unico pais de Europa donde la 
 
 **1. Convertir Refugios en Vivienda Permanente**
 El avance de Finlandia fue convertir refugios de emergencia en apartamentos permanentes. Seguimos el mismo modelo:
+
 - Convertir los refugios mas grandes de Denver en vivienda de apoyo permanente
 - Cada residente recibe su propio apartamento (no una cama en un cuarto con 100 personas mas)
 - Apoyo en el lugar: gestores de casos, profesionales de salud mental, consejeros de adicciones, asistencia laboral
 - Sin requisito de sobriedad. Sin toque de queda. Es su hogar.
 
 **2. Pipeline de Realojamiento Rapido**
+
 - Cada persona que ingresa al sistema de falta de vivienda de Denver es evaluada dentro de 48 horas
 - Meta: ubicacion de vivienda dentro de 30 dias del contacto inicial (no meses o anos)
 - Navegadores de vivienda asignados inmediatamente para conectar a las personas con unidades disponibles
 - Fondo de incentivos para arrendadores: depositos de seguridad y garantias de danos para incentivar a los arrendadores a aceptar colocaciones de Housing First
 
 **3. Vivienda de Apoyo Permanente (para individuos de mayor necesidad)**
+
 - 2,000 unidades de vivienda de apoyo permanente con apoyo en el lugar las 24 horas
 - Para individuos cronicamente sin hogar con enfermedades mentales severas, trastornos por uso de sustancias o condiciones cronicas de salud
 - Integrado con Denver Social Housing Authority (ver: Social Housing Act)
 - Servicios integrales: atencion medica, salud mental, tratamiento de adicciones, capacitacion laboral, habilidades para la vida
 
 **4. Entrada Coordinada - Sin Puerta Equivocada**
+
 - Punto unico de entrada para todos los servicios de falta de vivienda
 - Cualquiera - policia, hospitales, escuelas, organizaciones religiosas - puede conectar a alguien con el sistema
 - Base de datos en tiempo real de unidades disponibles, servicios y capacidad
 - Nadie es rechazado. Nadie "se pierde entre las grietas."
 
 **5. Prevencion**
+
 - Asistencia de alquiler de emergencia para prevenir desalojos (ver: Tenant Bill of Rights)
 - Fondo de asistencia para servicios publicos
 - Defensa legal para procedimientos de desalojo (ver: Universal Right to Counsel)
@@ -64,7 +69,9 @@ El avance de Finlandia fue convertir refugios de emergencia en apartamentos perm
 ## La Evidencia: Esto Funciona
 
 ### Modelo Y-Foundation de Finlandia
+
 Finlandia adopto Housing First como politica nacional en 2008. Resultados:
+
 - **La falta de vivienda disminuyo un 35%** (el unico pais de la UE donde esta bajando)
 - **La falta de vivienda a largo plazo disminuyo mas del 50%**
 - Refugios convertidos en apartamentos - Helsinki cerro su ultimo gran refugio
@@ -73,14 +80,18 @@ Finlandia adopto Housing First como politica nacional en 2008. Resultados:
 - Finlandia esta en camino de **eliminar la falta de vivienda por completo**
 
 ### Houston, Texas
+
 Houston ha dado vivienda a **mas de 25,000 personas desde 2012** usando Housing First:
+
 - Falta de vivienda reducida en un 63%
 - Falta de vivienda de veteranos reducida en un 64%
 - Clave: sistema unificado de entrada coordinada, fuertes alianzas con arrendadores, enfoque basado en datos
 - **Si Houston, Texas puede hacer esto, Denver puede.**
 
 ### Medicine Hat, Canada
+
 Medicine Hat se convirtio en la primera ciudad de Norteamerica en terminar efectivamente con la falta de vivienda cronica:
+
 - Cada persona en situacion de calle recibe vivienda dentro de 10 dias
 - Los servicios de apoyo previenen el regreso a la falta de vivienda
 - Mas del 90% de las personas colocadas mantienen su vivienda
@@ -99,13 +110,13 @@ Sam Tsemberis en Pathways to Housing (New York) fue pionero de Housing First en 
 
 **Costo neto: Negativo.** Housing First es **mas barato** que el sistema actual.
 
-| Categoria de Costo | Modelo Actual (por persona/ano) | Housing First (por persona/ano) |
-|--------------|--------------------------------|-------------------------------|
-| Refugio de emergencia | $30,000-50,000 | $0 |
-| Visitas a urgencias | $15,000-25,000 | $3,000-5,000 |
-| Carcel/policia | $10,000-20,000 | $1,000-3,000 |
-| Vivienda de apoyo | $0 | $15,000-25,000 |
-| **TOTAL** | **$55,000-95,000** | **$19,000-33,000** |
+| Categoria de Costo    | Modelo Actual (por persona/ano) | Housing First (por persona/ano) |
+| --------------------- | ------------------------------- | ------------------------------- |
+| Refugio de emergencia | $30,000-50,000                  | $0                              |
+| Visitas a urgencias   | $15,000-25,000                  | $3,000-5,000                    |
+| Carcel/policia        | $10,000-20,000                  | $1,000-3,000                    |
+| Vivienda de apoyo     | $0                              | $15,000-25,000                  |
+| **TOTAL**             | **$55,000-95,000**              | **$19,000-33,000**              |
 
 **Ahorro por persona alojada: $36,000-62,000/ano.**
 

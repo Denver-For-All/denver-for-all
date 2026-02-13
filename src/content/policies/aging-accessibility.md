@@ -1,36 +1,36 @@
 ---
-title: "Aging, Disability & Accessibility"
-titleEs: "Envejecimiento, Discapacidad y Accesibilidad"
+title: 'Aging, Disability & Accessibility'
+titleEs: 'Envejecimiento, Discapacidad y Accesibilidad'
 summary: "Age-friendly city design for Denver's fastest-growing demographic. Universal accessibility beyond ADA minimums. Senior services expansion. Caregiver support. Social isolation prevention."
-summaryEs: "Diseño de ciudad amigable con la edad para el grupo demográfico de más rápido crecimiento de Denver. Accesibilidad universal más allá de los mínimos de ADA. Expansión de servicios para adultos mayores. Apoyo a cuidadores. Prevención del aislamiento social."
-category: "health"
-icon: "accessibility"
+summaryEs: 'Diseño de ciudad amigable con la edad para el grupo demográfico de más rápido crecimiento de Denver. Accesibilidad universal más allá de los mínimos de ADA. Expansión de servicios para adultos mayores. Apoyo a cuidadores. Prevención del aislamiento social.'
+category: 'health'
+icon: 'accessibility'
 order: 21
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "50%+"
+  - value: '50%+'
     label: "of Colorado's growth will be adults 65+"
-    labelEs: "del crecimiento de Colorado sera adultos de 65+"
-    context: "A 36% increase by 2030 — Denver has built almost nothing for this wave"
-    contextEs: "Un aumento del 36% para 2030 — Denver casi no ha construido nada para esta ola"
-    source: "Colorado State Demography Office"
-    theme: "accent"
-  - value: "24%"
-    label: "of Colorado seniors are socially isolated"
-    labelEs: "de adultos mayores de Colorado estan socialmente aislados"
-    context: "Linked to 50% increased dementia risk and death rates comparable to smoking"
-    contextEs: "Vinculado a 50% mas riesgo de demencia y tasas de muerte comparables al tabaquismo"
-    source: "CDC, 2021"
-    theme: "danger"
-  - value: "$10,600+/mo"
-    label: "for a nursing home in Colorado"
-    labelEs: "por un asilo en Colorado"
-    context: "Aging in place with community support costs $2,000-$4,000/mo — a fraction"
-    contextEs: "Envejecer en casa con apoyo comunitario cuesta $2,000-$4,000/mes — una fraccion"
-    source: "Genworth/CareScout, 2024"
-    theme: "danger"
+    labelEs: 'del crecimiento de Colorado sera adultos de 65+'
+    context: 'A 36% increase by 2030 — Denver has built almost nothing for this wave'
+    contextEs: 'Un aumento del 36% para 2030 — Denver casi no ha construido nada para esta ola'
+    source: 'Colorado State Demography Office'
+    theme: 'accent'
+  - value: '24%'
+    label: 'of Colorado seniors are socially isolated'
+    labelEs: 'de adultos mayores de Colorado estan socialmente aislados'
+    context: 'Linked to 50% increased dementia risk and death rates comparable to smoking'
+    contextEs: 'Vinculado a 50% mas riesgo de demencia y tasas de muerte comparables al tabaquismo'
+    source: 'CDC, 2021'
+    theme: 'danger'
+  - value: '$10,600+/mo'
+    label: 'for a nursing home in Colorado'
+    labelEs: 'por un asilo en Colorado'
+    context: 'Aging in place with community support costs $2,000-$4,000/mo — a fraction'
+    contextEs: 'Envejecer en casa con apoyo comunitario cuesta $2,000-$4,000/mes — una fraccion'
+    source: 'Genworth/CareScout, 2024'
+    theme: 'danger'
 ---
 
 ## The Problem
@@ -90,13 +90,13 @@ RTD provides Access-a-Ride paratransit service (operating since 1997) and the ne
 
 ### International Evidence: Age-Friendly Cities Work
 
-| Country/City | Model | Result |
-|---|---|---|
-| **Vienna, Austria** | Comprehensive aging services, dedicated Senior Citizens' Advocate, integrated transit and housing | Ranked #1 most livable city globally for 3 consecutive years (EIU 2022-2024), with 450,000 residents aged 60+ served by coordinated city services |
-| **Tokyo, Japan** | Active Senior Employment Support Centers, community-based integrated care system, intergenerational workforce participation | Senior labor force participation among highest globally; neighborhood-level care coordination reduces institutionalization and keeps elders in their communities |
-| **Copenhagen, Denmark** | Aging-in-place infrastructure, senior co-housing communities, "Healthy Ageing Ladder" design framework | Pioneer in affordable senior co-housing designed to be funded by public pension alone; 20% social housing sector ensures seniors are not priced out |
-| **Barcelona, Spain** | Superblocks program: traffic reduction, pedestrian priority, curbless accessible paving, public seating and greenery | 40% reduction in traffic within superblocks, 28% increase in pedestrian activity; design explicitly centers elderly and children's mobility needs |
-| **Singapore** | Kampung Admiralty intergenerational housing, universal design standards, Proximity Housing Grant for multigenerational families | Kampung Admiralty won 2018 World Building of the Year; co-locates senior housing, childcare, healthcare, and community space in a single development serving all ages |
+| Country/City            | Model                                                                                                                           | Result                                                                                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vienna, Austria**     | Comprehensive aging services, dedicated Senior Citizens' Advocate, integrated transit and housing                               | Ranked #1 most livable city globally for 3 consecutive years (EIU 2022-2024), with 450,000 residents aged 60+ served by coordinated city services                     |
+| **Tokyo, Japan**        | Active Senior Employment Support Centers, community-based integrated care system, intergenerational workforce participation     | Senior labor force participation among highest globally; neighborhood-level care coordination reduces institutionalization and keeps elders in their communities      |
+| **Copenhagen, Denmark** | Aging-in-place infrastructure, senior co-housing communities, "Healthy Ageing Ladder" design framework                          | Pioneer in affordable senior co-housing designed to be funded by public pension alone; 20% social housing sector ensures seniors are not priced out                   |
+| **Barcelona, Spain**    | Superblocks program: traffic reduction, pedestrian priority, curbless accessible paving, public seating and greenery            | 40% reduction in traffic within superblocks, 28% increase in pedestrian activity; design explicitly centers elderly and children's mobility needs                     |
+| **Singapore**           | Kampung Admiralty intergenerational housing, universal design standards, Proximity Housing Grant for multigenerational families | Kampung Admiralty won 2018 World Building of the Year; co-locates senior housing, childcare, healthcare, and community space in a single development serving all ages |
 
 Investing in age-friendly infrastructure is not a niche concern for today's seniors alone. It is an investment in everyone's future. Every resident of Denver will age. Every resident will, at some point, benefit from a curb ramp, a bench, an accessible bathroom, a crossing signal that gives enough time to cross safely. The cities that rank highest for livability in the world, Vienna, Copenhagen, Tokyo, are the ones that designed for their oldest and most vulnerable residents first. Universal design is not charity. It is good urbanism. Denver can either plan for the demographic reality arriving in the next decade or pay far more to react to it in emergency rooms, nursing homes, and isolation-driven decline.
 

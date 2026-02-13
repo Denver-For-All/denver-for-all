@@ -10,6 +10,7 @@ El resultado fue predecible: tensión presupuestaria, reacción política y — 
 Esta no es una crisis única. El cambio climático, la inestabilidad política y los patrones migratorios globales significan que las ciudades seguirán recibiendo personas recién llegadas. Denver necesita infraestructura permanente, no respuestas de emergencia.
 
 Las fallas fundamentales:
+
 - Sin proceso sistemático de admisión o evaluación de necesidades
 - Capacidad de refugio construida sobre contratos de emergencia a costos premium
 - Brechas de meses entre la llegada y la autorización de trabajo, durante las cuales las personas dependen completamente de los servicios de la ciudad
@@ -33,6 +34,7 @@ Los conservadores fiscales argumentarán que Denver no puede permitirse una infr
 ### La Denver Newcomer Reception & Integration Act
 
 **1. Centro de Recepción de Denver**
+
 - Instalación permanente, construida para este propósito (o propiedad municipal existente convertida) para la admisión de recién llegados
 - Proceso centralizado de admisión: evaluación de salud, evaluación de necesidades, evaluación de estatus legal, inventario de habilidades y evaluación lingüística dentro de 48 horas de la llegada
 - Asistencia legal en el sitio para solicitudes de asilo, presentaciones de autorización de trabajo y preparación para el tribunal de inmigración
@@ -41,6 +43,7 @@ Los conservadores fiscales argumentarán que Denver no puede permitirse una infr
 - Operado conjuntamente por la ciudad y organizaciones comunitarias contratadas con experiencia demostrada
 
 **2. Canal Rápido de Autorización de Trabajo**
+
 - Equipo legal dedicado enfocado exclusivamente en acelerar la autorización de trabajo (Employment Authorization Documents)
 - Presentación del mismo día de solicitudes de asilo al llegar (el desencadenante legal para la elegibilidad del EAD)
 - Asociaciones con redes legales pro bono y clínicas de facultades de derecho para aumentar la capacidad de presentación
@@ -49,6 +52,7 @@ Los conservadores fiscales argumentarán que Denver no puede permitirse una infr
 - Objetivo: reducir el tiempo promedio desde la llegada hasta la autorización de trabajo de 6+ meses a menos de 90 días a través de estrategia legal y eficiencia en la presentación
 
 **3. Vivienda Transitoria con Hitos de Empleo**
+
 - Vivienda transitoria operada por la ciudad o contratada reemplazando el refugio de emergencia
 - Estancias transitorias de 90 días (extensibles a 180 días para familias con niños o aquellos con casos de asilo pendientes)
 - Residentes conectados a servicios de empleo desde el primer día — evaluación de habilidades, elaboración de currículum, preparación para entrevistas, emparejamiento con empleadores
@@ -57,6 +61,7 @@ Los conservadores fiscales argumentarán que Denver no puede permitirse una infr
 - Objetivo de costo: $30-50/persona/noche (vs. $150+/noche para refugio de emergencia en hotel)
 
 **4. Programa de Asociación con Empleadores**
+
 - Denver Newcomer Employment Registry: registro voluntario de empleadores con posiciones abiertas dispuestos a contratar trabajadores recién autorizados
 - Enfoque en industrias con escasez laboral documentada: atención médica, construcción, hospitalidad, servicio de alimentos, almacenamiento y transporte
 - Incentivos para empleadores: licencias comerciales simplificadas de la ciudad, reconocimiento en adquisiciones de la ciudad, elegibilidad para reembolso de impuestos
@@ -64,12 +69,14 @@ Los conservadores fiscales argumentarán que Denver no puede permitirse una infr
 - Requisito de protección laboral: los empleadores participantes deben cumplir con todas las leyes salariales y laborales y no pueden tomar represalias contra los trabajadores
 
 **5. Fondo de Servicios para Recién Llegados**
+
 - Partida presupuestaria dedicada para recepción e integración de recién llegados — sin competir con programas existentes de la ciudad
 - Financiado a través de una combinación de asignación del fondo general, abogacía de reembolso federal, asociación estatal y contribuciones filantrópicas
 - Informes trimestrales transparentes sobre gastos, resultados (tasas de empleo, transiciones de vivienda, costo por persona recién llegada) y saldo del fondo
 - Activación automática: cuando las llegadas de recién llegados excedan un umbral (por ejemplo, 500/mes), financiamiento adicional de emergencia se activa sin requerir acción del concejo
 
 **6. Campaña de Reembolso Federal**
+
 - Demanda formal al gobierno federal para el reembolso completo de los costos de recepción de recién llegados — el asilo es una responsabilidad federal
 - Coalición con otras ciudades receptoras (Nueva York, Chicago, Houston, Los Ángeles) para abogacía conjunta
 - Búsqueda de fondos del FEMA Emergency Food and Shelter Program, subvenciones de la Office of Refugee Resettlement y cualquier flujo federal disponible
@@ -78,12 +85,12 @@ Los conservadores fiscales argumentarán que Denver no puede permitirse una infr
 
 ### Evidencia: Las Ciudades Que Planifican con Anticipación Gastan Menos
 
-| Ciudad/País | Modelo | Resultado |
-|-------------|--------|-----------|
-| **Alemania (2015-2016)** | Recibió 1.2M de solicitantes de asilo. La respuesta de emergencia inicial dio paso a centros sistemáticos *AnkER* que proporcionan admisión, procesamiento, capacitación lingüística y emparejamiento laboral bajo un mismo techo. | Los resultados de integración mejoraron dramáticamente una vez que la infraestructura sistemática reemplazó la respuesta improvisada. Las tasas de empleo entre los llegados de 2015 alcanzaron el 50% dentro de 3 años, 70% dentro de 5 años (IAB, 2022). |
-| **Canadá (Reasentamiento Sirio)** | Recibió más de 40,000 refugiados sirios en 2015-2016 a través de un modelo coordinado de patrocinio gobierno-comunidad. Las agencias de asentamiento proporcionaron vivienda, idioma y servicios de empleo. | El 90% de los refugiados asistidos por el gobierno lograron independencia financiera dentro de 5 años. El modelo de patrocinio privado produjo una integración aún más rápida (Immigration, Refugees and Citizenship Canada, 2019). |
-| **Ciudad de Nueva York** | Recibió más de 200,000 solicitantes de asilo de 2022-2024. Creó Humanitarian Emergency Response and Relief Centers (HERRCs) y el Asylum Seeker Navigation Center para servicios centralizados. | La admisión centralizada de NYC redujo los costos por persona y mejoró la coordinación de servicios. El mandato de Right to Shelter forzó la inversión en infraestructura sistemática (NYC Comptroller, 2024). |
-| **Bogotá, Colombia** | Recibió más de 500,000 migrantes venezolanos. Creó *Centros de Integración* proporcionando regularización de estatus legal, atención médica, inscripción educativa y servicios de empleo. | Los migrantes regularizados contribuyeron más de $500M anuales a la economía local. Los centros de integración redujeron la presión sobre los servicios de emergencia y el empleo informal (World Bank, 2023). |
+| Ciudad/País                       | Modelo                                                                                                                                                                                                                             | Resultado                                                                                                                                                                                                                                                  |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alemania (2015-2016)**          | Recibió 1.2M de solicitantes de asilo. La respuesta de emergencia inicial dio paso a centros sistemáticos _AnkER_ que proporcionan admisión, procesamiento, capacitación lingüística y emparejamiento laboral bajo un mismo techo. | Los resultados de integración mejoraron dramáticamente una vez que la infraestructura sistemática reemplazó la respuesta improvisada. Las tasas de empleo entre los llegados de 2015 alcanzaron el 50% dentro de 3 años, 70% dentro de 5 años (IAB, 2022). |
+| **Canadá (Reasentamiento Sirio)** | Recibió más de 40,000 refugiados sirios en 2015-2016 a través de un modelo coordinado de patrocinio gobierno-comunidad. Las agencias de asentamiento proporcionaron vivienda, idioma y servicios de empleo.                        | El 90% de los refugiados asistidos por el gobierno lograron independencia financiera dentro de 5 años. El modelo de patrocinio privado produjo una integración aún más rápida (Immigration, Refugees and Citizenship Canada, 2019).                        |
+| **Ciudad de Nueva York**          | Recibió más de 200,000 solicitantes de asilo de 2022-2024. Creó Humanitarian Emergency Response and Relief Centers (HERRCs) y el Asylum Seeker Navigation Center para servicios centralizados.                                     | La admisión centralizada de NYC redujo los costos por persona y mejoró la coordinación de servicios. El mandato de Right to Shelter forzó la inversión en infraestructura sistemática (NYC Comptroller, 2024).                                             |
+| **Bogotá, Colombia**              | Recibió más de 500,000 migrantes venezolanos. Creó _Centros de Integración_ proporcionando regularización de estatus legal, atención médica, inscripción educativa y servicios de empleo.                                          | Los migrantes regularizados contribuyeron más de $500M anuales a la economía local. Los centros de integración redujeron la presión sobre los servicios de emergencia y el empleo informal (World Bank, 2023).                                             |
 
 **El patrón es claro:** las ciudades que invierten en infraestructura sistemática de recepción gastan menos por persona recién llegada y logran la autosuficiencia más rápido que las ciudades que dependen de la respuesta de emergencia.
 

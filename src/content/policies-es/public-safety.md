@@ -36,6 +36,7 @@ La Denver Police Protective Association (DPPA) es el oponente principal. Los sin
 ## Nuestra Solución
 
 ### 1. Junta de Supervisión Civil Independiente
+
 - Junta elegida (no nombrada por el alcalde) con pleno poder de citación
 - Autoridad para investigar quejas, acceder a todos los registros e imponer disciplina
 - Presupuesto independiente del departamento de policía
@@ -43,6 +44,7 @@ La Denver Police Protective Association (DPPA) es el oponente principal. Los sin
 - Auditoría anual de prácticas policiales publicada públicamente
 
 ### 2. Expansión del Programa STAR (Respuesta a Crisis Sin Policía)
+
 - Cobertura 24/7 con suficientes unidades de furgonetas para satisfacer la demanda completa (actualmente 6-7 unidades respondiendo al 45% de llamadas elegibles; el análisis del Urban Institute muestra que se necesitan 9-10 unidades concurrentes para satisfacer la demanda actual)
 - Profesionales de salud mental y paramédicos, sin policía — los equipos de furgonetas STAR emparejan paramédicos o técnicos de emergencias médicas con profesionales de salud conductual
 - Fortalecer la STAR Community Partner Network, que proporciona gestión de casos culturalmente sensible y servicios de seguimiento después de la respuesta inicial a la crisis
@@ -54,13 +56,14 @@ La Denver Police Protective Association (DPPA) es el oponente principal. Los sin
 
 ### 3. Expansión de Law Enforcement Assisted Diversion (LEAD)
 
-STAR maneja llamadas donde la policía no necesita responder en absoluto. Pero ¿qué pasa cuando los oficiales *sí* encuentran a alguien cometiendo un delito menor — posesión de drogas, trabajo sexual, invasión de propiedad, hurto impulsado por la adicción? Ahora mismo, lo predeterminado es arresto, procesamiento, enjuiciamiento y la puerta giratoria del encarcelamiento que no resuelve nada.
+STAR maneja llamadas donde la policía no necesita responder en absoluto. Pero ¿qué pasa cuando los oficiales _sí_ encuentran a alguien cometiendo un delito menor — posesión de drogas, trabajo sexual, invasión de propiedad, hurto impulsado por la adicción? Ahora mismo, lo predeterminado es arresto, procesamiento, enjuiciamiento y la puerta giratoria del encarcelamiento que no resuelve nada.
 
 Denver piloteó el programa LEAD bajo el Jefe Paul Pazen, operando en los Distritos 1, 2 y 6 del DPD con gestión de casos a través de Addiction Research and Treatment Services (ARTS) y el Empowerment Program. Los oficiales entrenados en LEAD redirigen a las personas a servicios en lugar de arrestarlas — gestión de casos voluntaria basada en reducción de daños que incluye vivienda, capacitación laboral, tratamiento de uso de sustancias y apoyo de salud mental. El piloto fue financiado con aproximadamente $560K/año a través de ingresos del impuesto estatal a la marihuana, una fracción de lo necesario para un impacto a nivel de toda la ciudad.
 
-La evidencia es sólida. El programa LEAD de Seattle — el original, lanzado en 2011 — mostró que los participantes tenían **58-60% menor probabilidad de arresto** comparado con los controles, junto con mejoras significativas en estabilidad habitacional y empleo (Collins et al., *Evaluation and Program Planning*, 2017). LEAD ahora opera en más de 80 ciudades a nivel nacional. El National Institute of Justice lo califica como un programa basado en evidencia.
+La evidencia es sólida. El programa LEAD de Seattle — el original, lanzado en 2011 — mostró que los participantes tenían **58-60% menor probabilidad de arresto** comparado con los controles, junto con mejoras significativas en estabilidad habitacional y empleo (Collins et al., _Evaluation and Program Planning_, 2017). LEAD ahora opera en más de 80 ciudades a nivel nacional. El National Institute of Justice lo califica como un programa basado en evidencia.
 
 **Expandir LEAD a toda la ciudad:**
+
 - Oficiales entrenados en LEAD en cada distrito del DPD, no solo los Distritos 1, 2 y 6
 - Financiamiento para gestores de casos LEAD dedicados a través de organizaciones comunitarias (no del DPD)
 - Elegibilidad expandida más allá de delitos de drogas y prostitución para incluir todos los delitos menores no violentos impulsados por la pobreza, la adicción o la salud mental
@@ -76,15 +79,18 @@ La evidencia es sólida. El programa LEAD de Seattle — el original, lanzado en
 El presupuesto policial de Denver es de aproximadamente $300M/año. Proponemos una reasignación gradual que comienza con programas comprobados y escala basándose en resultados demostrados — no ideología, sino resultados.
 
 **Fase 1 — Inmediata (~8% / $25M/año):** Expandir programas que ya están funcionando en Denver.
+
 - Programas STAR y Co-Responder: cobertura 24/7 con suficientes unidades de furgonetas para satisfacer la demanda completa ($20M) — la evaluación del Urban Institute muestra una reducción del 16% en arrestos y contactos policiales; el programa actualmente satisface solo el 45% de la demanda de llamadas elegibles
 - Desvío LEAD: expansión a toda la ciudad ($5M) — el piloto de Denver ya opera en 3 distritos; la evaluación de Seattle muestra una reducción del 58% en reincidencia
 
 **Fase 2 — Años 2-3 (~15% / $45M/año):** Agregar programas de prevención respaldados por evidencia.
+
 - Intervención comunitaria contra la violencia ($15M) — modelo Cure Violence: reducciones del 50-75% en áreas objetivo (Oakland, Richmond, Glasgow)
 - Tratamiento de uso de sustancias a demanda ($10M) — eliminar listas de espera; expansión de MAT; cada dólar aquí reduce el crimen contra la propiedad impulsado por la adicción
 - Los programas de la Fase 1 continúan con financiamiento completo ($25M)
 
 **Fase 3 — Años 3-4 (~25% / $75M/año):** Reasignación completa, contingente a los resultados de las Fases 1-2.
+
 - Servicios juveniles y programas extracurriculares ($15M) — los programas de empleo juvenil reducen la participación en crimen violento en un 35-45% (University of Chicago Crime Lab)
 - Programas de justicia restaurativa ($10M)
 - Contribuciones a vivienda asequible ($5M) — cofinanciado con el presupuesto de vivienda
@@ -93,12 +99,14 @@ El presupuesto policial de Denver es de aproximadamente $300M/año. Proponemos u
 **¿Por qué gradual?** "Recortar el presupuesto policial un 25%" es un titular que escribe anuncios de ataque. "Expandir dos programas que ya están funcionando en Denver, luego escalar basándose en resultados" es un mandato. El destino es el mismo — $75M redirigidos a infraestructura de seguridad comunitaria — pero el camino construye confianza pública y durabilidad política. Cada fase es evaluada públicamente antes de que comience la siguiente. Si algo no funciona, ajustamos. Si funciona, tenemos la evidencia para ir más lejos.
 
 ### 5. Eliminar la Inmunidad Calificada (Nivel Municipal)
+
 - Denver renuncia a la defensa de inmunidad calificada para todos los empleados de la ciudad, incluyendo oficiales de policía
 - Los oficiales pueden ser personalmente responsables en demandas civiles por violaciones constitucionales
 - La ciudad proporciona defensa legal solo cuando el oficial siguió la política y el entrenamiento
 - Los oficiales portan seguro de responsabilidad personal (similar al seguro de mala praxis de los médicos)
 
 ### 6. Reformas de Uso de Fuerza
+
 - Prohibir permanentemente las llaves de estrangulamiento y restricciones carótidas
 - Deber de intervenir: los oficiales deben detener la fuerza excesiva de otros oficiales o enfrentar disciplina igual
 - Deber de reportar: no reportar fuerza excesiva es causa de despido
@@ -111,6 +119,7 @@ El presupuesto policial de Denver es de aproximadamente $300M/año. Proponemos u
   - Referencia cruzada: [Derechos y Inclusión de Personas con Discapacidad](/platform/disability-rights)
 
 ### 7. Intervención Comunitaria contra la Violencia
+
 - Financiar programas de intervención contra la violencia basados en evidencia (modelo Cure Violence)
 - Mensajeros creíbles de las comunidades afectadas, no policía
 - Intervención dirigida en los vecindarios con mayor violencia
@@ -121,30 +130,35 @@ El presupuesto policial de Denver es de aproximadamente $300M/año. Proponemos u
 La estrategia más efectiva de reducción del crimen es abordar las condiciones que producen el crimen. Esto no es idealismo blando con el crimen — es lo que la evidencia consistentemente muestra que funciona mejor que cualquier estrategia policial sola.
 
 **Oportunidad Juvenil y Prevención de la Violencia:**
+
 - **Garantía de empleo juvenil de verano y durante todo el año** para todos los residentes de Denver de 14-24 años en vecindarios de alto crimen. Los programas de empleo juvenil reducen la participación en crimen violento en un 35-45% entre los participantes (University of Chicago Crime Lab, evaluación READI Chicago). Costo: $15M/año. Retorno: incalculable
 - **Programas extracurriculares y vespertinos** en cada vecindario con violencia juvenil por encima del promedio, abiertos hasta las 10 PM. Los datos de criminalidad muestran consistentemente que la violencia juvenil alcanza su pico entre las 3-10 PM los días de semana. Los programas que llenan esta ventana reducen el crimen juvenil en un 30-40% (Brookings Institution, 2022)
 - **Programas de mentoría** emparejando jóvenes en riesgo con mensajeros creíbles capacitados de sus propias comunidades — personas que tienen experiencia vivida y confianza comunitaria. No Big Brothers Big Sisters (que funciona para poblaciones diferentes), sino intervención dirigida para jóvenes con mayor riesgo de involucramiento en violencia
 - **Justicia restaurativa en las escuelas:** Reemplazar suspensiones y expulsiones escolares (que empujan a los jóvenes al sistema legal penal) con prácticas restaurativas. Denver Public Schools ha piloteado esto — expandirlo a toda la ciudad con financiamiento dedicado
 
 **Estabilidad Habitacional = Seguridad:**
-- Cada aumento del 10% en inestabilidad habitacional se correlaciona con un aumento medible tanto en crimen contra la propiedad como violento (Desmond, *Evicted*, 2016; National Bureau of Economic Research). La crisis de desalojos de Denver es una crisis de seguridad pública
+
+- Cada aumento del 10% en inestabilidad habitacional se correlaciona con un aumento medible tanto en crimen contra la propiedad como violento (Desmond, _Evicted_, 2016; National Bureau of Economic Research). La crisis de desalojos de Denver es una crisis de seguridad pública
 - **Realojamiento rápido para víctimas de crimen** que son desplazadas por la violencia, previniendo el ciclo de inestabilidad que lleva a mayor victimización o represalia
 - **Apoyo habitacional para personas que regresan:** Las personas que salen del encarcelamiento que reciben vivienda estable dentro de 30 días tienen un 50% menos de probabilidad de reincidir (Council of State Governments Justice Center). Denver debería garantizar vivienda transitoria para cada persona que regresa
 - Referencia cruzada: [Vivienda Social](/platform/social-housing), [Vivienda Primero](/platform/housing-first), [Carta de Derechos del Inquilino](/platform/tenant-bill-of-rights)
 
 **Tratamiento de Uso de Sustancias como Reducción del Crimen:**
+
 - El crimen contra la propiedad (hurto, robo de autos, robo con allanamiento) es abrumadoramente impulsado por trastornos de uso de sustancias y pobreza, no por disposición criminal. Tratar la adicción reduce el crimen contra la propiedad más efectivamente que la aplicación de la ley
 - **Acceso a tratamiento a demanda:** Sin listas de espera para tratamiento de uso de sustancias en Denver. Cuando alguien está listo para el tratamiento, el cupo debe existir ese día. Las listas de espera actuales de semanas o meses significan que las personas continúan usando y continúan delinquiendo
 - **Expansión del tratamiento asistido con medicamentos (MAT):** Asegurar que cada cárcel, hospital y centro de salud comunitario de Denver ofrezca MAT (metadona, buprenorfina, naltrexona). El MAT reduce el crimen relacionado con opioides en un 50-60% entre los participantes (National Institute on Drug Abuse)
 - Referencia cruzada: [Descriminalizar y Sanar](/platform/drug-policy)
 
 **Diseño Ambiental (CPTED):**
+
 - **Mejoras de iluminación** en corredores de alto crimen y espacios públicos. Un ensayo controlado aleatorizado en la Ciudad de Nueva York encontró que la iluminación mejorada de calles redujo los crímenes índice en un 36% en desarrollos de vivienda pública (NYU Furman Center, 2019)
 - **Remediación de lotes baldíos:** El programa de limpieza de lotes baldíos de Filadelfia redujo la violencia armada en un 29% en áreas circundantes (University of Pennsylvania, 2018). Denver tiene miles de lotes baldíos y descuidados
 - **Vigilancia natural:** Diseñar espacios públicos, paradas de tránsito y corredores peatonales para maximizar la visibilidad y actividad. Los espacios públicos activos y bien mantenidos disuaden el crimen; los espacios abandonados y oscuros lo invitan
 - **Jardines comunitarios y enverdecimiento:** Los programas de enverdecimiento urbano reducen consistentemente el crimen en las cuadras circundantes (Kondo et al., 2016). Esto no es metáfora — la inversión comunitaria visible señala que alguien se preocupa por el espacio
 
 **Disuasión Enfocada (para Crimen Violento Grave):**
+
 - **Group Violence Intervention (GVI)** / modelo Operation Ceasefire: Identificar al pequeño número de individuos y grupos que impulsan la mayoría de los tiroteos y homicidios. Ofrecerles una opción: servicios y apoyo (empleos, vivienda, tratamiento, mentoría) o atención enfocada de las fuerzas del orden. Esto no es encarcelamiento masivo — es intervención precisa dirigida al 0.5% de la población responsable de la mayoría de la violencia armada
 - El programa Ceasefire de Oakland redujo los homicidios en un 50%. El Ceasefire original de Boston redujo los homicidios juveniles en un 63%. La evidencia está entre las más sólidas en toda la criminología
 - Denver debería implementar GVI a través de una asociación entre la ciudad, organizaciones comunitarias y fuerzas del orden (reformadas) — con las organizaciones comunitarias liderando, no la policía
@@ -165,6 +179,7 @@ El departamento de policía de Denver opera 111 cámaras de lectura automática 
 La situación de Flock demuestra exactamente por qué Denver necesita una ordenanza de supervisión de tecnología de vigilancia. Cuando el alcalde puede desplegar sistemas de rastreo masivo sin un voto, estructurar contratos para evadir los umbrales de revisión y retener registros de auditoría que muestran el acceso federal de inmigración a datos locales, la estructura de supervisión de la ciudad ha fallado. (Ver: [Transparencia Gubernamental y Derechos Digitales](/platform/government-transparency) para nuestra propuesta completa de supervisión de vigilancia.)
 
 Nuestras demandas:
+
 - **Desactivar inmediatamente** todas las cámaras Flock hasta que un voto completo del concejo autorice su uso con salvaguardas de privacidad vinculantes
 - **Aprobación del concejo municipal requerida** antes de que cualquier tecnología de vigilancia sea adquirida o desplegada. Sin excepciones, sin manipulación de umbrales
 - **Sin acceso de ICE** a ningún dato de vigilancia de Denver, con terminación automática del contrato y referencia criminal por violaciones
@@ -176,27 +191,28 @@ Nuestras demandas:
 
 ### Evidencia Internacional: El Castigo No Funciona. La Inversión Sí.
 
-| País | Modelo | Tasa de Encarcelamiento | Reincidencia | Resultado |
-|------|--------|------------------------|--------------|-----------|
-| **Noruega** | Enfocado en rehabilitación. Las prisiones se parecen a campus universitarios. Enfoque en reintegración: capacitación laboral, educación, terapia. Sentencia máxima: 21 años. | 54 por 100K | **20%** | Una de las tasas de criminalidad más bajas del mundo. Los prisioneros salen como ciudadanos funcionales, no criminales endurecidos. |
-| **Finlandia** | Prisiones abiertas donde los internos trabajan, asisten a la escuela, van a casa los fines de semana. Enfoque en normalidad y desarrollo de habilidades. | 51 por 100K | **36%** | El crimen ha estado disminuyendo por décadas. La sociedad ahorra dinero porque menos personas regresan a prisión. |
-| **Alemania** | Las prisiones funcionan como escuelas vocacionales. Los internos aprenden oficios, obtienen certificaciones, mantienen relaciones familiares. | 69 por 100K | **35-40%** | El objetivo es explícitamente la rehabilitación, no el castigo. Y funciona para la seguridad pública y para los internos por igual. |
-| **Países Bajos** | Cerrando prisiones debido a la caída de las tasas de criminalidad. Enfoque en monitoreo electrónico, servicio comunitario y rehabilitación. | 59 por 100K | **45%** | Tan pocos prisioneros que han cerrado prisiones y alquilado celdas vacías a Bélgica y Noruega. |
-| **EE.UU.** | Enfocado en castigo. Sobrepobladas, violentas, rehabilitación mínima. La industria de prisiones privadas se beneficia del encarcelamiento. | **531 por 100K** (la más alta del mundo) | **76%** | Encarcelamos 10 veces más personas que Noruega, gastamos mucho más y obtenemos resultados mucho peores. Tres cuartas partes de los prisioneros liberados regresan. El sistema no produce seguridad; produce reincidentes. |
+| País             | Modelo                                                                                                                                                                       | Tasa de Encarcelamiento                  | Reincidencia | Resultado                                                                                                                                                                                                                 |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Noruega**      | Enfocado en rehabilitación. Las prisiones se parecen a campus universitarios. Enfoque en reintegración: capacitación laboral, educación, terapia. Sentencia máxima: 21 años. | 54 por 100K                              | **20%**      | Una de las tasas de criminalidad más bajas del mundo. Los prisioneros salen como ciudadanos funcionales, no criminales endurecidos.                                                                                       |
+| **Finlandia**    | Prisiones abiertas donde los internos trabajan, asisten a la escuela, van a casa los fines de semana. Enfoque en normalidad y desarrollo de habilidades.                     | 51 por 100K                              | **36%**      | El crimen ha estado disminuyendo por décadas. La sociedad ahorra dinero porque menos personas regresan a prisión.                                                                                                         |
+| **Alemania**     | Las prisiones funcionan como escuelas vocacionales. Los internos aprenden oficios, obtienen certificaciones, mantienen relaciones familiares.                                | 69 por 100K                              | **35-40%**   | El objetivo es explícitamente la rehabilitación, no el castigo. Y funciona para la seguridad pública y para los internos por igual.                                                                                       |
+| **Países Bajos** | Cerrando prisiones debido a la caída de las tasas de criminalidad. Enfoque en monitoreo electrónico, servicio comunitario y rehabilitación.                                  | 59 por 100K                              | **45%**      | Tan pocos prisioneros que han cerrado prisiones y alquilado celdas vacías a Bélgica y Noruega.                                                                                                                            |
+| **EE.UU.**       | Enfocado en castigo. Sobrepobladas, violentas, rehabilitación mínima. La industria de prisiones privadas se beneficia del encarcelamiento.                                   | **531 por 100K** (la más alta del mundo) | **76%**      | Encarcelamos 10 veces más personas que Noruega, gastamos mucho más y obtenemos resultados mucho peores. Tres cuartas partes de los prisioneros liberados regresan. El sistema no produce seguridad; produce reincidentes. |
 
 **La tasa de encarcelamiento de EE.UU. es la más alta del planeta**, superando a Rusia, China y cada régimen autoritario. Y nuestra tasa de reincidencia demuestra que no funciona. Noruega rehabilita al 80% de sus prisioneros. Nosotros rehabilitamos al 24%.
 
 ### Evidencia: La Inversión Comunitaria Reduce el Crimen
 
-| Ciudad | Programa | Resultado |
-|--------|----------|-----------|
-| **Oakland, CA** | Operation Ceasefire / Group Violence Intervention: identificó individuos que impulsaban la violencia armada, ofreció servicios + aplicación enfocada. | Los homicidios cayeron un 50% (2012-2018). Los tiroteos disminuyeron en márgenes similares. El programa de reducción de violencia armada más efectivo evaluado en EE.UU. |
-| **Glasgow, Escocia** | Violence Reduction Unit (2005): trató la violencia como una epidemia de salud pública. Ofreció capacitación laboral, mentoría, tratamiento de adicciones a los de mayor riesgo. Trabajó con las comunidades, no contra ellas. | La tasa de homicidios cayó un 60% en 10 años. Los crímenes con arma blanca se desplomaron. Glasgow pasó de "capital del asesinato de Europa" a un modelo global de reducción de violencia. |
-| **Bogotá, Colombia** | Alcalde Antanas Mockus (1995-2003): invirtió en espacio público, tránsito, educación, cultura. Restringió las ventas de alcohol durante las horas pico de violencia. Resolución de conflictos basada en la comunidad. | La tasa de homicidios cayó un 70%. De una de las ciudades más violentas del planeta a un modelo de transformación urbana — sin vigilancia policial militarizada. |
-| **Richmond, CA** | Office of Neighborhood Safety: empleados de la ciudad (no policía) trabajan directamente con personas con mayor probabilidad de disparar o ser disparadas. Becas pagadas para participantes que se involucran con servicios. | Los homicidios con armas de fuego cayeron un 75% (2007-2019) en una ciudad que probó todo lo demás primero. Costo: $3M/año. Ahorros en atención médica de emergencia, enjuiciamiento y encarcelamiento: muchos múltiplos. |
-| **Filadelfia, PA** | Remediación de lotes baldíos: limpiaron lotes abandonados con césped, árboles, cercas y mantenimiento. Ensayo controlado aleatorizado por la University of Pennsylvania. | La violencia armada cayó un 29% en áreas circundantes. El crimen general cayó significativamente. Costo: mínimo. Calidad de evidencia: estándar de oro (ECA). |
+| Ciudad               | Programa                                                                                                                                                                                                                      | Resultado                                                                                                                                                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Oakland, CA**      | Operation Ceasefire / Group Violence Intervention: identificó individuos que impulsaban la violencia armada, ofreció servicios + aplicación enfocada.                                                                         | Los homicidios cayeron un 50% (2012-2018). Los tiroteos disminuyeron en márgenes similares. El programa de reducción de violencia armada más efectivo evaluado en EE.UU.                                                  |
+| **Glasgow, Escocia** | Violence Reduction Unit (2005): trató la violencia como una epidemia de salud pública. Ofreció capacitación laboral, mentoría, tratamiento de adicciones a los de mayor riesgo. Trabajó con las comunidades, no contra ellas. | La tasa de homicidios cayó un 60% en 10 años. Los crímenes con arma blanca se desplomaron. Glasgow pasó de "capital del asesinato de Europa" a un modelo global de reducción de violencia.                                |
+| **Bogotá, Colombia** | Alcalde Antanas Mockus (1995-2003): invirtió en espacio público, tránsito, educación, cultura. Restringió las ventas de alcohol durante las horas pico de violencia. Resolución de conflictos basada en la comunidad.         | La tasa de homicidios cayó un 70%. De una de las ciudades más violentas del planeta a un modelo de transformación urbana — sin vigilancia policial militarizada.                                                          |
+| **Richmond, CA**     | Office of Neighborhood Safety: empleados de la ciudad (no policía) trabajan directamente con personas con mayor probabilidad de disparar o ser disparadas. Becas pagadas para participantes que se involucran con servicios.  | Los homicidios con armas de fuego cayeron un 75% (2007-2019) en una ciudad que probó todo lo demás primero. Costo: $3M/año. Ahorros en atención médica de emergencia, enjuiciamiento y encarcelamiento: muchos múltiplos. |
+| **Filadelfia, PA**   | Remediación de lotes baldíos: limpiaron lotes abandonados con césped, árboles, cercas y mantenimiento. Ensayo controlado aleatorizado por la University of Pennsylvania.                                                      | La violencia armada cayó un 29% en áreas circundantes. El crimen general cayó significativamente. Costo: mínimo. Calidad de evidencia: estándar de oro (ECA).                                                             |
 
 Denver no puede reformar el sistema penitenciario estatal solo, pero Denver PUEDE:
+
 - Redirigir el presupuesto policial a prevención e intervención
 - Implementar justicia restaurativa que reduce el encarcelamiento
 - Acabar con el canal policía-a-prisión para crisis de salud mental y uso de sustancias
@@ -259,7 +275,7 @@ Denver tiene la Office of the Independent Monitor (OIM, est. 2004) y un Citizen 
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Varias publicaciones. (Evidencia de correlación gasto policial/crimen.)
 - World Prison Brief. Comparaciones internacionales de tasas de encarcelamiento.
 - Norwegian Correctional Service. Estadísticas de reincidencia. (Tasa de reincidencia del 20%.)
-- Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." *Evaluation and Program Planning*, 64, 49-56. (58-60% menor probabilidad de arresto para participantes de LEAD vs. controles.)
+- Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." _Evaluation and Program Planning_, 64, 49-56. (58-60% menor probabilidad de arresto para participantes de LEAD vs. controles.)
 - Colorado Behavioral Health Administration. Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Resultados del piloto de Denver en los Distritos 1, 2 y 6 del DPD.)
 - Denver District Attorney's Office. (2018). Anuncio de lanzamiento del Denver Pilot Program. Asociación de LEAD con ARTS y el Empowerment Program.
 - LEAD National Support Bureau. (2024). Datos de replicación del programa LEAD. (80+ ciudades operando programas LEAD a nivel nacional.)
@@ -267,12 +283,12 @@ Denver tiene la Office of the Independent Monitor (OIM, est. 2004) y un Citizen 
 - Cure Violence Global. Datos de evaluación del programa. (Resultados de intervención comunitaria contra la violencia.)
 - University of Chicago Crime Lab. Evaluación READI Chicago. (Empleo juvenil y reducción de la violencia.)
 - Brookings Institution. (2022). Datos de programas extracurriculares y horarios de crimen juvenil.
-- Desmond, M. (2016). *Evicted: Poverty and Profit in the American City*. (Correlación entre inestabilidad habitacional y crimen.)
+- Desmond, M. (2016). _Evicted: Poverty and Profit in the American City_. (Correlación entre inestabilidad habitacional y crimen.)
 - Council of State Governments Justice Center. Datos de vivienda de reintegración y reincidencia.
 - National Institute on Drug Abuse. Resultados de tratamiento asistido con medicamentos y reducción del crimen.
 - NYU Furman Center. (2019). Ensayo controlado aleatorizado de iluminación de calles y crimen en vivienda pública de NYC. (Reducción del 36%.)
 - University of Pennsylvania. (2018). Remediación de lotes baldíos y reducción de violencia armada en Filadelfia. (Reducción del 29%, ECA.)
-- Kondo, M., et al. (2016). "Effects of greening vacant lots on crime." *Landscape and Urban Planning*.
+- Kondo, M., et al. (2016). "Effects of greening vacant lots on crime." _Landscape and Urban Planning_.
 - Evaluación de Oakland Ceasefire. (2019). Datos de reducción de homicidios 2012-2018.
 - Glasgow Violence Reduction Unit. Informes del programa y datos de resultados 2005-2015. (Reducción del 60% en la tasa de homicidios.)
 - Richmond Office of Neighborhood Safety. Evaluación del programa y datos de homicidios con armas de fuego 2007-2019. (Reducción del 75%.)

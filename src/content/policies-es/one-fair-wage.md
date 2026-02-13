@@ -6,6 +6,7 @@
 El salario minimo con propinas es un legado de la economia post-esclavitud. Despues de la emancipacion, los restaurantes contrataron trabajadores negros y les dijeron que ganaran su salario de las propinas de los clientes -- permitiendo a los empleadores no pagar nada. Este sistema persiste hoy.
 
 En Colorado, el minimo con propinas es $15.79/hora (2025) -- $3+/hora menos que el minimo estandar. Se supone que los empleadores deben cubrir la diferencia si las propinas no alcanzan el minimo completo. En la practica:
+
 - El robo de salarios en industrias con propinas es rampante -- los empleadores rutinariamente no cubren los faltantes
 - El ingreso es impredecible y volatil -- un martes lento significa que el alquiler esta corto
 - Los trabajadores se ven forzados a tolerar acoso de los clientes porque su ingreso depende de ello
@@ -34,13 +35,13 @@ El salario minimo con propinas de Colorado es $15.79/hora en 2025 (Colorado Depa
 
 ### Evidencia Internacional: La Mayoria de los Paises Nunca Tuvieron un Salario Minimo con Propinas
 
-| Pais | Cultura de Propinas | Salario del Mesero | Resultado |
-|---------|----------------|-------------|--------|
-| **Japon** | Dar propina se considera grosero. | Salario completo + beneficios | La industria restaurantera prospera. La calidad del servicio es legendaria. Los trabajadores ganan un sustento de su empleador, no de la generosidad del cliente. |
-| **Australia** | Cultura de propinas minima. | $23+ AUD/hora (minimo completo) | La industria restaurantera es saludable. Los meseros ganan un sustento predecible. Las propinas existen pero son extra, no supervivencia. |
-| **Dinamarca** | No se esperan propinas. | $22+/hora via acuerdos sectoriales | Los trabajadores de comida rapida y restaurantes ganan salarios dignos con beneficios. La industria funciona bien. |
-| **Francia** | Cargo por servicio incluido en el precio (*service compris*). | Salario completo. | La cultura gastronomica que es literalmente famosa en el mundo opera sin salarios con propinas. |
-| **7 estados de EE.UU. (CA, WA, OR, MT, AK, MN, NV)** | Salario minimo completo requerido para trabajadores con propinas. | Minimo estatal completo ($15-17+/hora) | El crecimiento del empleo en restaurantes SUPERA a los estados con salario con propinas. Los trabajadores ganan mas. La industria prospera. |
+| Pais                                                 | Cultura de Propinas                                               | Salario del Mesero                     | Resultado                                                                                                                                                         |
+| ---------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Japon**                                            | Dar propina se considera grosero.                                 | Salario completo + beneficios          | La industria restaurantera prospera. La calidad del servicio es legendaria. Los trabajadores ganan un sustento de su empleador, no de la generosidad del cliente. |
+| **Australia**                                        | Cultura de propinas minima.                                       | $23+ AUD/hora (minimo completo)        | La industria restaurantera es saludable. Los meseros ganan un sustento predecible. Las propinas existen pero son extra, no supervivencia.                         |
+| **Dinamarca**                                        | No se esperan propinas.                                           | $22+/hora via acuerdos sectoriales     | Los trabajadores de comida rapida y restaurantes ganan salarios dignos con beneficios. La industria funciona bien.                                                |
+| **Francia**                                          | Cargo por servicio incluido en el precio (_service compris_).     | Salario completo.                      | La cultura gastronomica que es literalmente famosa en el mundo opera sin salarios con propinas.                                                                   |
+| **7 estados de EE.UU. (CA, WA, OR, MT, AK, MN, NV)** | Salario minimo completo requerido para trabajadores con propinas. | Minimo estatal completo ($15-17+/hora) | El crecimiento del empleo en restaurantes SUPERA a los estados con salario con propinas. Los trabajadores ganan mas. La industria prospera.                       |
 
 **El salario minimo con propinas es una invencion estadounidense enraizada en la economia post-esclavitud.** La mayoria del mundo encuentra bizarro que los restaurantes estadounidenses paguen a los trabajadores $2-5/hora y esperen que los clientes cubran la diferencia. Los siete estados de EE.UU. que eliminaron los salarios con propinas demuestran que funciona aqui tambien.
 
@@ -72,9 +73,9 @@ El credito fiscal de 2 anos para pequenos negocios aborda especificamente esto. 
 
 ## Referencias
 
-- Colorado Department of Labor and Employment, *2025 Minimum Wage Rates*
-- One Fair Wage, *Tipped Worker Research and Policy Center* reports (onefairwage.org)
-- Economic Policy Institute, "Subminimum Wages in the States," *Policy Brief*, 2023
-- Bureau of Labor Statistics, *Occupational Employment and Wage Statistics*, Denver-Aurora-Lakewood MSA, 2023
-- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," *Industrial Relations* 54(4): 622-647 (2015)
-- National Women's Law Center, *The Tipped Minimum Wage and Its Impact on Women*, 2023
+- Colorado Department of Labor and Employment, _2025 Minimum Wage Rates_
+- One Fair Wage, _Tipped Worker Research and Policy Center_ reports (onefairwage.org)
+- Economic Policy Institute, "Subminimum Wages in the States," _Policy Brief_, 2023
+- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, 2023
+- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," _Industrial Relations_ 54(4): 622-647 (2015)
+- National Women's Law Center, _The Tipped Minimum Wage and Its Impact on Women_, 2023

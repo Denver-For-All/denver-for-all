@@ -1,36 +1,36 @@
 ---
-title: "Arts, Culture & Creative Economy"
-titleEs: "Arte, Cultura y Economía Creativa"
+title: 'Arts, Culture & Creative Economy'
+titleEs: 'Arte, Cultura y Economía Creativa'
 summary: "Protect artists from displacement. Percent-for-art on new development. Affordable studio and performance space. Cultural district designations. Invest in Denver's creative economy as economic engine."
-summaryEs: "Proteger a los artistas del desplazamiento. Porcentaje para arte en nuevos desarrollos. Espacios de estudio y presentación asequibles. Designaciones de distritos culturales. Invertir en la economía creativa de Denver como motor económico."
-category: "community"
-icon: "drama"
+summaryEs: 'Proteger a los artistas del desplazamiento. Porcentaje para arte en nuevos desarrollos. Espacios de estudio y presentación asequibles. Designaciones de distritos culturales. Invertir en la economía creativa de Denver como motor económico.'
+category: 'community'
+icon: 'drama'
 order: 81
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "$3.12B"
-    label: "Denver arts generate more than pro sports"
-    labelEs: "las artes de Denver generan mas que los deportes profesionales"
-    context: "14.5M cultural attendees vs 4.9M combined for all Denver pro sports teams"
-    contextEs: "14.5M asistentes culturales vs 4.9M combinados para todos los equipos profesionales"
-    source: "CBCA Economic Activity Study, 2024"
-    theme: "primary"
-  - value: "39th"
+  - value: '$3.12B'
+    label: 'Denver arts generate more than pro sports'
+    labelEs: 'las artes de Denver generan mas que los deportes profesionales'
+    context: '14.5M cultural attendees vs 4.9M combined for all Denver pro sports teams'
+    contextEs: '14.5M asistentes culturales vs 4.9M combinados para todos los equipos profesionales'
+    source: 'CBCA Economic Activity Study, 2024'
+    theme: 'primary'
+  - value: '39th'
     label: "Colorado's rank in per capita arts funding"
-    labelEs: "ranking de Colorado en financiamiento per capita de artes"
-    context: "Despite having the 4th-largest cultural sector as share of state GDP"
-    contextEs: "A pesar de tener el 4to sector cultural mas grande como proporcion del PIB estatal"
-    source: "Colorado Creative Industries, 2024"
-    theme: "danger"
-  - value: "13.5%"
-    label: "of SCFD funds reach small local arts groups"
-    labelEs: "de fondos SCFD llegan a grupos artisticos locales pequenos"
-    context: "280+ small orgs split 13.5% while 5 big institutions get 65.5% of $85M"
-    contextEs: "280+ organizaciones pequenas se dividen 13.5% mientras 5 grandes reciben 65.5%"
-    source: "SCFD Annual Report, 2024"
-    theme: "accent"
+    labelEs: 'ranking de Colorado en financiamiento per capita de artes'
+    context: 'Despite having the 4th-largest cultural sector as share of state GDP'
+    contextEs: 'A pesar de tener el 4to sector cultural mas grande como proporcion del PIB estatal'
+    source: 'Colorado Creative Industries, 2024'
+    theme: 'danger'
+  - value: '13.5%'
+    label: 'of SCFD funds reach small local arts groups'
+    labelEs: 'de fondos SCFD llegan a grupos artisticos locales pequenos'
+    context: '280+ small orgs split 13.5% while 5 big institutions get 65.5% of $85M'
+    contextEs: '280+ organizaciones pequenas se dividen 13.5% mientras 5 grandes reciben 65.5%'
+    source: 'SCFD Annual Report, 2024'
+    theme: 'accent'
 ---
 
 ## The Problem
@@ -95,13 +95,13 @@ Meanwhile, Colorado ranks 39th out of 50 states in per capita arts funding, desp
 
 ### International Evidence: Culture Drives Cities
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Berlin, Germany** | Atelierprogramm (Studio Programme): city government funds nearly 800 subsidized studios with fixed rents for professional artists, administered by the bbk Berlin Kulturwerk. Minimum exhibition fees established for municipal galleries. | Artists retained in the city despite gentrification pressure. Programme expanded repeatedly by the Berlin Senate. Created an infrastructure for professional artists described as "unique in Europe." |
-| **Austin, TX** | Live Music Fund (est. 2019) funded by hotel occupancy taxes. Live Music Venue Preservation Fund provided $5M in direct grants to 28 venues during COVID. Agent of Change principles in development code. | $7M+ earmarked annually for live music. Venues survived the pandemic. Austin maintained its identity as the "Live Music Capital of the World" through deliberate policy, not accident. |
-| **Barcelona, Spain** | Cultural rights enshrined as fundamental rights. Fabra i Coats cotton factory converted to a municipal Creation Factory with 2,450 sqm of exhibition space, artist residences, and 46 units of social housing for young people and artists. Network of "creation factories" across the city. | Former industrial infrastructure transformed into cultural commons. Artists and communities integrated into city planning. Social housing combined with cultural production in a single facility. |
-| **Medellin, Colombia** | Parque Biblioteca (Library Park) system: world-class cultural centers built in the city's most underserved neighborhoods. Community designed alongside architects. Integrated with MetroCable transit connecting hillside communities to cultural and economic centers. | Five initial library parks, five more added, serving 784,000 residents. Cultural infrastructure embedded in neighborhoods across the city. Transformed neighborhoods marked by decades of violence into centers of learning and creative expression. |
-| **Melbourne, Australia** | Creative Spaces programme providing long-term affordable studios. Flash Forward laneway activation commissioned 150+ artists to transform 40 city laneways. Shopfront Activation Program (AUD $2.6M) placed creatives in vacant storefronts. | Estimated AUD $38.34M economic contribution from laneway activation alone. Many pop-up creative tenants converted to long-term leases. Melbourne maintained its identity as a city that actively produces culture. |
+| Country/City             | Model                                                                                                                                                                                                                                                                                        | Result                                                                                                                                                                                                                                               |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Berlin, Germany**      | Atelierprogramm (Studio Programme): city government funds nearly 800 subsidized studios with fixed rents for professional artists, administered by the bbk Berlin Kulturwerk. Minimum exhibition fees established for municipal galleries.                                                   | Artists retained in the city despite gentrification pressure. Programme expanded repeatedly by the Berlin Senate. Created an infrastructure for professional artists described as "unique in Europe."                                                |
+| **Austin, TX**           | Live Music Fund (est. 2019) funded by hotel occupancy taxes. Live Music Venue Preservation Fund provided $5M in direct grants to 28 venues during COVID. Agent of Change principles in development code.                                                                                     | $7M+ earmarked annually for live music. Venues survived the pandemic. Austin maintained its identity as the "Live Music Capital of the World" through deliberate policy, not accident.                                                               |
+| **Barcelona, Spain**     | Cultural rights enshrined as fundamental rights. Fabra i Coats cotton factory converted to a municipal Creation Factory with 2,450 sqm of exhibition space, artist residences, and 46 units of social housing for young people and artists. Network of "creation factories" across the city. | Former industrial infrastructure transformed into cultural commons. Artists and communities integrated into city planning. Social housing combined with cultural production in a single facility.                                                    |
+| **Medellin, Colombia**   | Parque Biblioteca (Library Park) system: world-class cultural centers built in the city's most underserved neighborhoods. Community designed alongside architects. Integrated with MetroCable transit connecting hillside communities to cultural and economic centers.                      | Five initial library parks, five more added, serving 784,000 residents. Cultural infrastructure embedded in neighborhoods across the city. Transformed neighborhoods marked by decades of violence into centers of learning and creative expression. |
+| **Melbourne, Australia** | Creative Spaces programme providing long-term affordable studios. Flash Forward laneway activation commissioned 150+ artists to transform 40 city laneways. Shopfront Activation Program (AUD $2.6M) placed creatives in vacant storefronts.                                                 | Estimated AUD $38.34M economic contribution from laneway activation alone. Many pop-up creative tenants converted to long-term leases. Melbourne maintained its identity as a city that actively produces culture.                                   |
 
 Denver's arts scene is an economic engine. The metro Denver cultural sector generates $3.12 billion in economic activity, employs over 14,000 people, draws 14.52 million in-person attendances annually, and drives $692 million in cultural tourism. Colorado ranks first in the nation in per capita arts participation (National Endowment for the Arts). The cities that thrive in the 21st century are the ones that invest in culture as core infrastructure. Denver has the raw ingredients. What it needs is the policy framework to protect and grow them.
 

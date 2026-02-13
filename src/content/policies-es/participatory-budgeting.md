@@ -20,6 +20,7 @@ El contraste con el enfoque de Mike Johnston es instructivo: decisiones importan
 Pionero en Porto Alegre, Brasil en 1989 y ahora utilizado en más de 7,000 ciudades en todo el mundo. Los residentes deciden directamente cómo se gasta el dinero público.
 
 **Programa de PP de Denver:**
+
 - **10% del presupuesto de capital de la ciudad** (~$100-150M/año) se asigna a través del presupuesto participativo
 - **Cada residente de Denver** de 14+ años puede participar (incluyendo no ciudadanos — no necesitas ser votante para tener voz en tu vecindario)
 - **Asambleas vecinales** proponen proyectos: parques, mejoras de calles, centros comunitarios, infraestructura de seguridad, remediación ambiental
@@ -27,6 +28,7 @@ Pionero en Porto Alegre, Brasil en 1989 y ahora utilizado en más de 7,000 ciuda
 - **Delegados presupuestarios** (elegidos de los vecindarios) desarrollan las propuestas en proyectos implementables con apoyo del personal municipal
 
 **Proceso (ciclo anual):**
+
 1. **Recolección de ideas** (2 meses): Las asambleas vecinales generan propuestas
 2. **Desarrollo** (3 meses): Los delegados presupuestarios trabajan con ingenieros y planificadores de la ciudad para desarrollar las propuestas en proyectos costeados y factibles
 3. **Exhibición** (1 mes): Todas las propuestas se exhiben públicamente, en línea y en ubicaciones comunitarias
@@ -38,6 +40,7 @@ Pionero en Porto Alegre, Brasil en 1989 y ahora utilizado en más de 7,000 ciuda
 Adaptadas del modelo de la Citizens' Assembly de Irlanda, que resolvió los temas más contenciosos del país (aborto, matrimonio igualitario, clima) a través de la deliberación democrática en lugar de la guerra partidista.
 
 **Cómo funciona:**
+
 - **Selección aleatoria** de residentes (como el deber de jurado, pero para políticas)
 - **Demográficamente representativa**: la asamblea refleja la población de Denver por edad, raza, ingreso, vecindario, género
 - **Facilitación profesional**: facilitadores independientes, no políticos
@@ -46,6 +49,7 @@ Adaptadas del modelo de la Citizens' Assembly de Irlanda, que resolvió los tema
 - **Recomendaciones**: la asamblea produce recomendaciones de política detalladas a las que el concejo municipal debe responder públicamente (aceptar, modificar con explicación, o rechazar con explicación)
 
 **Temas de la Asamblea Ciudadana de Denver (primeros 3 años propuestos):**
+
 - Año 1: Asequibilidad de la vivienda y personas sin hogar
 - Año 2: Policía y seguridad pública
 - Año 3: Clima y justicia ambiental
@@ -54,15 +58,16 @@ Adaptadas del modelo de la Citizens' Assembly de Irlanda, que resolvió los tema
 
 ### Presupuesto Participativo
 
-| Ciudad | Escala | Resultado |
-|--------|--------|-----------|
-| **Porto Alegre, Brasil** | Pionero del PP en 1989, más de 50,000 participantes/año | La mortalidad infantil bajó un 50%. El acceso al agua alcanzó el 98%. Mejoras dramáticas en vecindarios de bajos ingresos. Se convirtió en modelo para el mundo. |
-| **París, Francia** | €500M asignados a través del PP (2014-2020), 5% del presupuesto total | Más de 300 proyectos completados. El 10% de los residentes participa anualmente. Los proyectos incluyen parques, ciclovías, espacios verdes, jardines comunitarios. |
-| **Helsinki, Finlandia** | Presupuesto de PP de €8.8M (creciendo anualmente) | Alta participación, propuestas innovadoras, aumento de confianza en el gobierno |
-| **Nueva York, EE.UU.** | Programa de PP más grande de EE.UU. Más de $40M/año en más de 30 distritos. | Más de 100,000 residentes participan. Proyectos en cada distrito. La participación juvenil es especialmente alta. |
-| **Madrid, España** | Presupuesto de PP de €100M a través de la plataforma digital "Decide Madrid" | Más de 400,000 participantes en línea. Las propuestas incluyen vivienda social, infraestructura verde, transporte público. |
+| Ciudad                   | Escala                                                                       | Resultado                                                                                                                                                           |
+| ------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Porto Alegre, Brasil** | Pionero del PP en 1989, más de 50,000 participantes/año                      | La mortalidad infantil bajó un 50%. El acceso al agua alcanzó el 98%. Mejoras dramáticas en vecindarios de bajos ingresos. Se convirtió en modelo para el mundo.    |
+| **París, Francia**       | €500M asignados a través del PP (2014-2020), 5% del presupuesto total        | Más de 300 proyectos completados. El 10% de los residentes participa anualmente. Los proyectos incluyen parques, ciclovías, espacios verdes, jardines comunitarios. |
+| **Helsinki, Finlandia**  | Presupuesto de PP de €8.8M (creciendo anualmente)                            | Alta participación, propuestas innovadoras, aumento de confianza en el gobierno                                                                                     |
+| **Nueva York, EE.UU.**   | Programa de PP más grande de EE.UU. Más de $40M/año en más de 30 distritos.  | Más de 100,000 residentes participan. Proyectos en cada distrito. La participación juvenil es especialmente alta.                                                   |
+| **Madrid, España**       | Presupuesto de PP de €100M a través de la plataforma digital "Decide Madrid" | Más de 400,000 participantes en línea. Las propuestas incluyen vivienda social, infraestructura verde, transporte público.                                          |
 
 **Hallazgos consistentes en todos los programas de PP:**
+
 - El dinero fluye hacia vecindarios previamente descuidados
 - La infraestructura mejora más rápido en áreas de bajos ingresos
 - La participación cívica aumenta (especialmente entre jóvenes, inmigrantes y residentes de bajos ingresos)
@@ -71,15 +76,16 @@ Adaptadas del modelo de la Citizens' Assembly de Irlanda, que resolvió los tema
 
 ### Asambleas Ciudadanas
 
-| País | Tema | Resultado |
-|------|------|-----------|
-| **Irlanda** | Legalización del aborto (2016-2017) | La Asamblea Ciudadana recomendó la legalización → el referéndum pasó con el 66% de apoyo. Resolvió un estancamiento de décadas. |
-| **Irlanda** | Matrimonio igualitario (2013-2014) | La Convención Constitucional (modelo similar) recomendó → el referéndum pasó con el 62% de apoyo. |
-| **Francia** | Política climática (2019-2020) | 150 ciudadanos seleccionados al azar produjeron 149 recomendaciones climáticas. Varias se convirtieron en ley. |
-| **Reino Unido** | Política climática (2020) | La Climate Assembly UK produjo recomendaciones detalladas para alcanzar la neutralidad de carbono. |
-| **Bélgica** | Asamblea ciudadana permanente en la comunidad germanófona | Órgano deliberativo continuo que regularmente produce recomendaciones de política. |
+| País            | Tema                                                      | Resultado                                                                                                                       |
+| --------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Irlanda**     | Legalización del aborto (2016-2017)                       | La Asamblea Ciudadana recomendó la legalización → el referéndum pasó con el 66% de apoyo. Resolvió un estancamiento de décadas. |
+| **Irlanda**     | Matrimonio igualitario (2013-2014)                        | La Convención Constitucional (modelo similar) recomendó → el referéndum pasó con el 62% de apoyo.                               |
+| **Francia**     | Política climática (2019-2020)                            | 150 ciudadanos seleccionados al azar produjeron 149 recomendaciones climáticas. Varias se convirtieron en ley.                  |
+| **Reino Unido** | Política climática (2020)                                 | La Climate Assembly UK produjo recomendaciones detalladas para alcanzar la neutralidad de carbono.                              |
+| **Bélgica**     | Asamblea ciudadana permanente en la comunidad germanófona | Órgano deliberativo continuo que regularmente produce recomendaciones de política.                                              |
 
 **Por qué la selección aleatoria funciona mejor que las elecciones:**
+
 - Los funcionarios electos son desproporcionadamente ricos, hombres, blancos y mayores que sus electores
 - La selección aleatoria produce asambleas que realmente se parecen a la población
 - Los participantes no le deben nada a donantes ni cabilderos

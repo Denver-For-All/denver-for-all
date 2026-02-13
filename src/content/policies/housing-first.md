@@ -1,40 +1,40 @@
 ---
-title: "Housing First - End Homelessness in Denver"
-titleEs: "Vivienda Primero - Acabar con la Falta de Vivienda en Denver"
+title: 'Housing First - End Homelessness in Denver'
+titleEs: 'Vivienda Primero - Acabar con la Falta de Vivienda en Denver'
 summary: "Give people homes first, then address everything else. Finland did it and is the only EU country where homelessness is declining. It's cheaper than shelters. It works."
-summaryEs: "Dar vivienda primero, luego abordar todo lo demás. Finlandia lo hizo y es el único país de la UE donde la falta de vivienda está disminuyendo. Es más barato que los refugios. Funciona."
-category: "housing"
-icon: "heart-handshake"
+summaryEs: 'Dar vivienda primero, luego abordar todo lo demás. Finlandia lo hizo y es el único país de la UE donde la falta de vivienda está disminuyendo. Es más barato que los refugios. Funciona.'
+category: 'housing'
+icon: 'heart-handshake'
 order: 8
-status: "draft"
-actionTarget: "mayor"
-grantProposal: "housing-first-hud-coc"
+status: 'draft'
+actionTarget: 'mayor'
+grantProposal: 'housing-first-hud-coc'
 hasFundingSources: true
 keyStats:
-  - value: "9,065"
-    label: "people experiencing homelessness in metro Denver"
-    labelEs: "personas sin hogar en el area metropolitana de Denver"
-    context: "2024 Point-in-Time Count shows the crisis continues to grow"
-    contextEs: "El conteo 2024 muestra que la crisis sigue creciendo"
-    source: "MDHI Point-in-Time Count, 2024"
-    theme: "danger"
-  - value: "$40-60K"
-    label: "annual cost per person to manage homelessness"
-    labelEs: "costo anual por persona para manejar la falta de vivienda"
-    context: "Emergency services approach. Housing First costs $15-25K — less than half."
-    contextEs: "Enfoque de servicios de emergencia. Vivienda Primero cuesta $15-25K — menos de la mitad."
-    theme: "accent"
-  - value: "$15-25K"
-    label: "annual cost of permanent supportive housing"
-    labelEs: "costo anual de vivienda de apoyo permanente"
-    context: "Finland proved this works nationally. Houston proved it works in the US."
-    contextEs: "Finlandia demostro que funciona a nivel nacional. Houston demostro que funciona en EE.UU."
-    theme: "primary"
+  - value: '9,065'
+    label: 'people experiencing homelessness in metro Denver'
+    labelEs: 'personas sin hogar en el area metropolitana de Denver'
+    context: '2024 Point-in-Time Count shows the crisis continues to grow'
+    contextEs: 'El conteo 2024 muestra que la crisis sigue creciendo'
+    source: 'MDHI Point-in-Time Count, 2024'
+    theme: 'danger'
+  - value: '$40-60K'
+    label: 'annual cost per person to manage homelessness'
+    labelEs: 'costo anual por persona para manejar la falta de vivienda'
+    context: 'Emergency services approach. Housing First costs $15-25K — less than half.'
+    contextEs: 'Enfoque de servicios de emergencia. Vivienda Primero cuesta $15-25K — menos de la mitad.'
+    theme: 'accent'
+  - value: '$15-25K'
+    label: 'annual cost of permanent supportive housing'
+    labelEs: 'costo anual de vivienda de apoyo permanente'
+    context: 'Finland proved this works nationally. Houston proved it works in the US.'
+    contextEs: 'Finlandia demostro que funciona a nivel nacional. Houston demostro que funciona en EE.UU.'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "HB26-1015"
-    title: "Colorado Homeless Contribution Tax Credit Extension"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/hb26-1015"
+  - billNumber: 'HB26-1015'
+    title: 'Colorado Homeless Contribution Tax Credit Extension'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/hb26-1015'
 ---
 
 ## The Problem
@@ -67,30 +67,35 @@ Adapted from Finland's Y-Foundation model (the only country in Europe where home
 
 **1. Convert Shelters to Permanent Housing**
 Finland's breakthrough was converting emergency shelters into permanent apartments. We follow the same model:
+
 - Convert Denver's largest shelters into permanent supportive housing
 - Each resident gets their own apartment (not a bed in a room with 100 others)
 - On-site support: case managers, mental health professionals, addiction counselors, employment assistance
 - No sobriety requirement. No curfew. It's their home.
 
 **2. Rapid Rehousing Pipeline**
+
 - Every person who enters Denver's homelessness system is assessed within 48 hours
 - Target: housing placement within 30 days of initial contact (not months or years)
 - Housing navigators assigned immediately to connect people with available units
 - Landlord incentive fund: security deposits and damage guarantees to incentivize landlords to accept Housing First placements
 
 **3. Permanent Supportive Housing (for highest-need individuals)**
+
 - 2,000 units of permanent supportive housing with 24/7 on-site support
 - For chronically homeless individuals with severe mental illness, substance use disorders, or chronic health conditions
 - Integrated with Denver Social Housing Authority (see: Social Housing Act)
 - Wrap-around services: healthcare, mental health, addiction treatment, job training, life skills
 
 **4. Coordinated Entry - No Wrong Door**
+
 - Single point of entry for all homelessness services
 - Anyone - police, hospitals, schools, faith organizations - can connect someone to the system
 - Real-time database of available units, services, and capacity
 - No one gets turned away. No one "falls through the cracks."
 
 **5. Prevention**
+
 - Emergency rental assistance to prevent eviction (see: Tenant Bill of Rights)
 - Utility assistance fund
 - Legal defense for eviction proceedings (see: Universal Right to Counsel)
@@ -100,7 +105,9 @@ Finland's breakthrough was converting emergency shelters into permanent apartmen
 ## The Evidence: This Works
 
 ### Finland's Y-Foundation Model
+
 Finland adopted Housing First as national policy in 2008. Results:
+
 - **Homelessness decreased by 35%** (the only EU country where it's going down)
 - **Long-term homelessness decreased by over 50%**
 - Shelters converted to apartments - Helsinki closed its last large shelter
@@ -109,14 +116,18 @@ Finland adopted Housing First as national policy in 2008. Results:
 - Finland is on track to **eliminate homelessness entirely**
 
 ### Houston, Texas
+
 Houston has housed **25,000+ people since 2012** using Housing First:
+
 - Homelessness reduced by 63%
 - Veteran homelessness reduced by 64%
 - Key: unified coordinated entry system, strong landlord partnerships, data-driven approach
 - **If Houston, Texas can do this, Denver can.**
 
 ### Medicine Hat, Canada
+
 Medicine Hat became the first city in North America to effectively end chronic homelessness:
+
 - Every person experiencing homelessness is housed within 10 days
 - Support services prevent returns to homelessness
 - 90%+ of placed individuals maintain housing
@@ -135,13 +146,13 @@ Sam Tsemberis at Pathways to Housing (New York) pioneered Housing First in the U
 
 **Net cost: Negative.** Housing First is **cheaper** than the current system.
 
-| Cost Category | Current Model (per person/year) | Housing First (per person/year) |
-|--------------|--------------------------------|-------------------------------|
-| Emergency shelter | $30,000-50,000 | $0 |
-| ER visits | $15,000-25,000 | $3,000-5,000 |
-| Jail/police | $10,000-20,000 | $1,000-3,000 |
-| Supportive housing | $0 | $15,000-25,000 |
-| **TOTAL** | **$55,000-95,000** | **$19,000-33,000** |
+| Cost Category      | Current Model (per person/year) | Housing First (per person/year) |
+| ------------------ | ------------------------------- | ------------------------------- |
+| Emergency shelter  | $30,000-50,000                  | $0                              |
+| ER visits          | $15,000-25,000                  | $3,000-5,000                    |
+| Jail/police        | $10,000-20,000                  | $1,000-3,000                    |
+| Supportive housing | $0                              | $15,000-25,000                  |
+| **TOTAL**          | **$55,000-95,000**              | **$19,000-33,000**              |
 
 **Savings per person housed: $36,000-62,000/year.**
 

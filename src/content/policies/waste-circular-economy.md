@@ -1,45 +1,45 @@
 ---
-title: "Waste Reduction & Circular Economy"
-titleEs: "Reducción de Residuos y Economía Circular"
+title: 'Waste Reduction & Circular Economy'
+titleEs: 'Reducción de Residuos y Economía Circular'
 summary: "Universal curbside composting. 90% waste diversion by 2035. Plastic bag and polystyrene bans. Right to repair. Producer responsibility for packaging waste. Zero-waste city operations. Water resilience and greywater reuse for Colorado's arid future."
-summaryEs: "Compostaje universal en la acera. 90% de desvío de residuos para 2035. Prohibición de bolsas plásticas y poliestireno. Derecho a reparar. Responsabilidad del productor por residuos de empaques. Operaciones municipales de cero residuos. Resiliencia hídrica y reutilización de aguas grises para el futuro árido de Colorado."
-category: "climate"
-icon: "recycle"
+summaryEs: 'Compostaje universal en la acera. 90% de desvío de residuos para 2035. Prohibición de bolsas plásticas y poliestireno. Derecho a reparar. Responsabilidad del productor por residuos de empaques. Operaciones municipales de cero residuos. Resiliencia hídrica y reutilización de aguas grises para el futuro árido de Colorado.'
+category: 'climate'
+icon: 'recycle'
 order: 31
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "26%"
-    label: "waste diverted — 74% goes to landfill"
-    labelEs: "residuos desviados — 74% va al vertedero"
+  - value: '26%'
+    label: 'waste diverted — 74% goes to landfill'
+    labelEs: 'residuos desviados — 74% va al vertedero'
     context: "San Francisco diverts 80%. Denver's 50% target for 2027 is not on track."
-    contextEs: "San Francisco desvia 80%. La meta de Denver de 50% para 2027 no va en camino."
-    source: "Denverite, 2024"
-    theme: "danger"
-  - value: "9x"
-    label: "more jobs from recycling than landfilling"
-    labelEs: "mas empleos del reciclaje que del vertedero"
-    context: "Reuse and repair create up to 30x more. Zero waste is a jobs program."
-    contextEs: "La reutilizacion y reparacion crean hasta 30x mas. Cero residuos es un programa de empleo."
-    source: "Eco-Cycle; Institute for Local Self-Reliance"
-    theme: "primary"
-  - value: "1%"
+    contextEs: 'San Francisco desvia 80%. La meta de Denver de 50% para 2027 no va en camino.'
+    source: 'Denverite, 2024'
+    theme: 'danger'
+  - value: '9x'
+    label: 'more jobs from recycling than landfilling'
+    labelEs: 'mas empleos del reciclaje que del vertedero'
+    context: 'Reuse and repair create up to 30x more. Zero waste is a jobs program.'
+    contextEs: 'La reutilizacion y reparacion crean hasta 30x mas. Cero residuos es un programa de empleo.'
+    source: 'Eco-Cycle; Institute for Local Self-Reliance'
+    theme: 'primary'
+  - value: '1%'
     label: "of Sweden's waste goes to landfill"
-    labelEs: "de los residuos de Suecia van al vertedero"
-    context: "Denver sends 74%. The technology exists — it is a matter of political will."
-    contextEs: "Denver envia 74%. La tecnologia existe — es cuestion de voluntad politica."
-    source: "Swedish Waste Management Association"
-    theme: "secondary"
+    labelEs: 'de los residuos de Suecia van al vertedero'
+    context: 'Denver sends 74%. The technology exists — it is a matter of political will.'
+    contextEs: 'Denver envia 74%. La tecnologia existe — es cuestion de voluntad politica.'
+    source: 'Swedish Waste Management Association'
+    theme: 'secondary'
 relatedLegislation:
-  - billNumber: "SB26-003"
-    title: "End-of-Life Management of Electric Vehicle Batteries"
-    status: "Introduced - Assigned to Transportation & Energy"
-    url: "https://leg.colorado.gov/bills/sb26-003"
-  - billNumber: "HB26-1111"
-    title: "Pesticide Product Disposal & Container Recycling"
-    status: "Introduced - Assigned to Agriculture, Water & Natural Resources"
-    url: "https://leg.colorado.gov/bills/hb26-1111"
+  - billNumber: 'SB26-003'
+    title: 'End-of-Life Management of Electric Vehicle Batteries'
+    status: 'Introduced - Assigned to Transportation & Energy'
+    url: 'https://leg.colorado.gov/bills/sb26-003'
+  - billNumber: 'HB26-1111'
+    title: 'Pesticide Product Disposal & Container Recycling'
+    status: 'Introduced - Assigned to Agriculture, Water & Natural Resources'
+    url: 'https://leg.colorado.gov/bills/hb26-1111'
 ---
 
 ## The Problem
@@ -115,6 +115,7 @@ Denver's waste infrastructure has improved in recent years, but significant gaps
 Colorado is an arid state getting drier. The Colorado River Basin, which supplies a significant portion of Front Range water through transmountain diversions, faces a structural deficit that climate change is accelerating. Denver Water's supply is projected to face shortfalls by the 2040s under moderate climate scenarios (Denver Water Climate Adaptation Plan, 2023). A circular economy must include circular water. Waste reduction extends beyond solid waste to treating water as the finite, precious resource it is.
 
 **Greywater Reuse**
+
 - Legalize and incentivize greywater reuse systems in Denver. Greywater (wastewater from sinks, showers, and laundry, excluding toilets) can be safely reused for landscape irrigation, toilet flushing, and cooling systems, reducing household water consumption by 30-50%.
 - Colorado's greywater regulations (SB 13-181 and subsequent rules) allow limited greywater reuse, but adoption has been minimal due to permitting complexity and lack of incentives. Denver should create a streamlined permitting pathway and rebate program for residential and commercial greywater systems.
 - **Rebate:** $1,000-$3,000 per household for greywater system installation, tiered by system complexity. Funded through Denver Water efficiency program budgets.
@@ -122,17 +123,20 @@ Colorado is an arid state getting drier. The Colorado River Basin, which supplie
 - Cities leading on greywater: San Francisco mandates greywater-ready plumbing in new buildings; Tucson offers rebates and streamlined permits; Australia's greywater reuse programs have reduced urban water demand by 15-25% in participating municipalities.
 
 **Rainwater Harvesting**
+
 - Colorado legalized residential rainwater collection in 2016 (HB 16-1005), allowing up to two 55-gallon rain barrels per household. Denver should expand this with incentives and infrastructure:
 - Free rain barrel program: one 55-gallon barrel per household, funded through Denver Water partnership
 - Community-scale rainwater harvesting at parks, recreation centers, and city facilities for landscape irrigation
 - Green infrastructure requirements: all new parking lots over 20 spaces must include permeable surfaces and bioswales for stormwater capture
 
 **Water-Efficient Landscaping**
+
 - Expand Denver Water's Xeriscape rebate program: increase rebates from current levels to $3/sq ft for turf-to-xeriscape conversion, up to $6,000 per property
 - City-owned properties: convert all non-recreational turf to xeriscape or native plantings within 5 years
 - Developer requirements: new residential developments must limit turf to 30% of landscaped area (consistent with Denver Water's efficiency goals)
 
 **Stormwater as Resource**
+
 - Integrate stormwater management with the [Climate & Environmental Justice](/platform/climate-environment) green infrastructure program
 - Stormwater capture and reuse at city facilities: Denver's average annual rainfall of 15.6 inches across city-owned property surfaces represents millions of gallons of reusable water currently lost to storm drains
 - Constructed wetlands for stormwater treatment in Globeville-Elyria-Swansea, Sun Valley, and other flood-prone neighborhoods, treating environmental justice and water management as one problem, not two
@@ -141,13 +145,13 @@ Colorado is an arid state getting drier. The Colorado River Basin, which supplie
 
 ### International Evidence: Zero Waste Is Achievable
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **San Francisco, USA** | Mandatory composting and recycling since 2009. Landfill ban on recyclables and compostables. | 80% waste diversion rate, the highest of any major US city. |
-| **Kamikatsu, Japan** | 45-category sorting system, community-driven. Residents bring waste to a single collection center and sort it themselves. | Near-zero waste to landfill. Became a global model for community-based waste elimination. |
-| **Ljubljana, Slovenia** | Door-to-door collection with pay-as-you-throw pricing. Invested in sorting infrastructure and public education. | Went from 29% to 68% recycling in just 6 years. Named European Green Capital in 2016. |
-| **Sweden** | National system combining recycling, composting, and waste-to-energy for residuals. Producer responsibility for packaging since 1994. | Only 1% of household waste goes to landfill. |
-| **Seoul, South Korea** | Volume-based waste fees since 1995. Mandatory food waste recycling with dedicated collection. | 95% of food waste is recycled into animal feed, compost, or biogas. |
+| Country/City            | Model                                                                                                                                 | Result                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **San Francisco, USA**  | Mandatory composting and recycling since 2009. Landfill ban on recyclables and compostables.                                          | 80% waste diversion rate, the highest of any major US city.                               |
+| **Kamikatsu, Japan**    | 45-category sorting system, community-driven. Residents bring waste to a single collection center and sort it themselves.             | Near-zero waste to landfill. Became a global model for community-based waste elimination. |
+| **Ljubljana, Slovenia** | Door-to-door collection with pay-as-you-throw pricing. Invested in sorting infrastructure and public education.                       | Went from 29% to 68% recycling in just 6 years. Named European Green Capital in 2016.     |
+| **Sweden**              | National system combining recycling, composting, and waste-to-energy for residuals. Producer responsibility for packaging since 1994. | Only 1% of household waste goes to landfill.                                              |
+| **Seoul, South Korea**  | Volume-based waste fees since 1995. Mandatory food waste recycling with dedicated collection.                                         | 95% of food waste is recycled into animal feed, compost, or biogas.                       |
 
 Beyond their environmental benefits, zero-waste systems are powerful job creators. Recycling creates an average of 9 times more jobs per ton than landfilling. Composting creates at least 2 times more jobs than landfilling. Reuse and repair operations create up to 30 times more jobs (Eco-Cycle; Institute for Local Self-Reliance). Investing in a circular economy means investing in Denver's workforce.
 

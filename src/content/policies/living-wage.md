@@ -1,35 +1,35 @@
 ---
-title: "$25 Minimum Wage"
-titleEs: "Salario Mínimo de $25"
+title: '$25 Minimum Wage'
+titleEs: 'Salario Mínimo de $25'
 summary: "A real living wage for a real city. $25/hr is what a family of four needs to survive in Denver - and it's still not enough for single parents."
-summaryEs: "Un salario digno real para una ciudad real. $25/hora es lo que una familia de cuatro necesita para sobrevivir en Denver - y aún no es suficiente para madres y padres solteros."
-category: "labor"
-icon: "dollar-sign"
+summaryEs: 'Un salario digno real para una ciudad real. $25/hora es lo que una familia de cuatro necesita para sobrevivir en Denver - y aún no es suficiente para madres y padres solteros.'
+category: 'labor'
+icon: 'dollar-sign'
 order: 10
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "$18.81"
+  - value: '$18.81'
     label: "Denver's current minimum wage"
-    labelEs: "salario minimo actual de Denver"
-    context: "Marketed as progressive, but $6-7/hr below what a family of four needs to survive"
-    contextEs: "Presentado como progresista, pero $6-7/hr por debajo de lo que necesita una familia de cuatro"
-    theme: "accent"
-  - value: "$25/hr"
-    label: "what a family of four actually needs"
-    labelEs: "lo que una familia de cuatro realmente necesita"
-    context: "MIT Living Wage Calculator for Denver County — and still not enough for single parents"
-    contextEs: "Calculadora de salario digno del MIT para el Condado de Denver — y aun no alcanza para padres solteros"
-    source: "MIT Living Wage Calculator, 2024"
-    theme: "primary"
-  - value: "$42-44/hr"
-    label: "living wage for a single parent with one child"
-    labelEs: "salario digno para un padre soltero con un hijo"
-    context: "Current minimum wage covers less than half of what a single parent needs"
-    contextEs: "El salario minimo actual cubre menos de la mitad de lo que necesita un padre soltero"
-    source: "MIT Living Wage Calculator, Denver County"
-    theme: "danger"
+    labelEs: 'salario minimo actual de Denver'
+    context: 'Marketed as progressive, but $6-7/hr below what a family of four needs to survive'
+    contextEs: 'Presentado como progresista, pero $6-7/hr por debajo de lo que necesita una familia de cuatro'
+    theme: 'accent'
+  - value: '$25/hr'
+    label: 'what a family of four actually needs'
+    labelEs: 'lo que una familia de cuatro realmente necesita'
+    context: 'MIT Living Wage Calculator for Denver County — and still not enough for single parents'
+    contextEs: 'Calculadora de salario digno del MIT para el Condado de Denver — y aun no alcanza para padres solteros'
+    source: 'MIT Living Wage Calculator, 2024'
+    theme: 'primary'
+  - value: '$42-44/hr'
+    label: 'living wage for a single parent with one child'
+    labelEs: 'salario digno para un padre soltero con un hijo'
+    context: 'Current minimum wage covers less than half of what a single parent needs'
+    contextEs: 'El salario minimo actual cubre menos de la mitad de lo que necesita un padre soltero'
+    source: 'MIT Living Wage Calculator, Denver County'
+    theme: 'danger'
 ---
 
 ## The Problem
@@ -54,11 +54,11 @@ Denver's minimum wage is $18.81/hr as of January 2025, following annual increase
 
 **Phase-in schedule:**
 
-| Date | Minimum Wage |
-|------|-------------|
-| 2027 | $21.00/hr   |
-| 2028 | $23.00/hr   |
-| 2029 | $25.00/hr   |
+| Date  | Minimum Wage                            |
+| ----- | --------------------------------------- |
+| 2027  | $21.00/hr                               |
+| 2028  | $23.00/hr                               |
+| 2029  | $25.00/hr                               |
 | 2030+ | Indexed to Denver CPI (never decreases) |
 
 **Key provisions:**
@@ -72,14 +72,14 @@ Denver's minimum wage is $18.81/hr as of January 2025, following annual increase
 
 ### International Context: America's Wage Floor is the Outlier
 
-| Country | Minimum Wage (USD equiv.) | How It's Set | Result |
-|---------|--------------------------|-------------|--------|
-| **Australia** | $15.50/hr (23.23 AUD) | Independent Fair Work Commission reviews annually, considers cost of living | 30 years without recession before COVID. No mass unemployment from high minimum wage. |
-| **France** | $13.80/hr (SMIC) | Indexed to inflation automatically + periodic government increases | Low-wage workers have purchasing power. Restaurant industry thrives. |
-| **UK** | $14.20/hr (£11.44, National Living Wage) | Independent Low Pay Commission recommends, considers economic data | Introduced at $5.50 in 1999. Raised steadily to $14+ with zero detectable negative employment effects (studies by Arindrajit Dube, internationally recognized). |
-| **Germany** | $14.50/hr (€12.41) | Minimum Wage Commission + sectoral agreements push far higher | Introduced in 2015. Employment INCREASED after implementation, contrary to every conservative prediction. |
-| **Denmark** | ~$22/hr (no statutory minimum - set by sectoral agreements) | Union-employer negotiations | McDonald's workers earn $22/hr + 6 weeks vacation. The Big Mac costs $0.35 more than in the US. |
-| **USA** | **$7.25/hr** (federal, unchanged since 2009) | Congressional action required (politically gridlocked) | **Lowest minimum wage relative to median income of any OECD country.** The federal minimum wage in real dollars is lower today than it was in 1968. |
+| Country       | Minimum Wage (USD equiv.)                                   | How It's Set                                                                | Result                                                                                                                                                          |
+| ------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Australia** | $15.50/hr (23.23 AUD)                                       | Independent Fair Work Commission reviews annually, considers cost of living | 30 years without recession before COVID. No mass unemployment from high minimum wage.                                                                           |
+| **France**    | $13.80/hr (SMIC)                                            | Indexed to inflation automatically + periodic government increases          | Low-wage workers have purchasing power. Restaurant industry thrives.                                                                                            |
+| **UK**        | $14.20/hr (£11.44, National Living Wage)                    | Independent Low Pay Commission recommends, considers economic data          | Introduced at $5.50 in 1999. Raised steadily to $14+ with zero detectable negative employment effects (studies by Arindrajit Dube, internationally recognized). |
+| **Germany**   | $14.50/hr (€12.41)                                          | Minimum Wage Commission + sectoral agreements push far higher               | Introduced in 2015. Employment INCREASED after implementation, contrary to every conservative prediction.                                                       |
+| **Denmark**   | ~$22/hr (no statutory minimum - set by sectoral agreements) | Union-employer negotiations                                                 | McDonald's workers earn $22/hr + 6 weeks vacation. The Big Mac costs $0.35 more than in the US.                                                                 |
+| **USA**       | **$7.25/hr** (federal, unchanged since 2009)                | Congressional action required (politically gridlocked)                      | **Lowest minimum wage relative to median income of any OECD country.** The federal minimum wage in real dollars is lower today than it was in 1968.             |
 
 $25/hr in Denver is not radical - it's what basic cost-of-living arithmetic demands, and it's in line with what workers earn in countries with stronger economies and lower poverty rates.
 
@@ -88,6 +88,7 @@ $25/hr in Denver is not radical - it's what basic cost-of-living arithmetic dema
 **"But won't businesses close?"**
 
 The evidence says no. Comprehensive studies of minimum wage increases in Seattle ($15), San Francisco ($18), and other cities show:
+
 - Minimal to zero job losses
 - Reduced worker turnover (saves businesses money)
 - Increased consumer spending in local economy
@@ -96,6 +97,7 @@ The evidence says no. Comprehensive studies of minimum wage increases in Seattle
 The workers who earn $25/hr spend that money in Denver - at Denver businesses. This is economic stimulus that flows directly into the local economy, not into offshore bank accounts.
 
 **What $25/hr means for a Denver worker:**
+
 - Annual income: $52,000 (full-time)
 - Can afford rent at $1,300/month (30% of income) - currently below Denver's median, but livable with roommate or partner
 - Can afford health insurance, food, and transportation
@@ -106,6 +108,7 @@ The workers who earn $25/hr spend that money in Denver - at Denver businesses. T
 Businesses pay their workers. This is not a government spending program.
 
 **Transition support for small businesses:**
+
 - 2-year tax credit for businesses under 20 employees to offset wage increase
 - Free business consulting through Denver Economic Development
 - Increased consumer spending from higher wages benefits small businesses directly
@@ -135,9 +138,9 @@ Their argument: "It will cost jobs and hurt small businesses." Our response: Eve
 ## References
 
 - MIT Living Wage Calculator, Denver County, livingwage.mit.edu (accessed 2024)
-- Bureau of Labor Statistics, *Occupational Employment and Wage Statistics*, Denver-Aurora-Lakewood MSA, May 2023
-- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," *Review of Economics and Statistics* 92(4): 945-964 (2010)
-- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," *Quarterly Journal of Economics* 134(3): 1405-1454 (2019)
-- UK Low Pay Commission, *National Minimum Wage Annual Report*, 2023
-- Denver Department of Finance, *Minimum Wage Ordinance Annual Report*, 2024
-- University of Washington, *Seattle Minimum Wage Study*, various publications (2017-2023)
+- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, May 2023
+- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
+- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
+- UK Low Pay Commission, _National Minimum Wage Annual Report_, 2023
+- Denver Department of Finance, _Minimum Wage Ordinance Annual Report_, 2024
+- University of Washington, _Seattle Minimum Wage Study_, various publications (2017-2023)

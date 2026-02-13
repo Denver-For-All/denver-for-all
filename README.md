@@ -81,19 +81,19 @@ For detailed setup instructions covering email routing, newsletter capture, Goog
 
 ## Interactive Tools
 
-| Tool | Type | Description |
-|------|------|-------------|
-| **Eviction Tracker** | Data + Resources | Eviction data from Princeton Eviction Lab and Colorado Judicial Branch, plus tenant defense resources |
-| **Eviction Crisis: By the Numbers** | Data Story | Scrollytelling visualization of the eviction surge, hardest-hit neighborhoods, and collapsing safety net |
-| **Rent Control Calculator** | Interactive | Enter your rent and see savings under proposed rent stabilization, with shareable social graphics |
-| **Follow the Money** | Data + Accountability | Council voting scorecard on progressive priorities with campaign contribution search links |
-| **Know Your Rights** | AI-Powered | 24/7 tenant rights chatbot in English and Spanish via voice or chat |
-| **Council Candidate Tracker** | 2027 Election | Same 10 questions sent to every City Council candidate — answers and silences published unedited |
-| **Mayoral Tracker** | 2027 Election | 10 questions on executive power sent to every declared mayoral candidate |
-| **Money in Denver Politics** | Data Story | Scrollytelling on outside spending, billionaire donors, real estate PACs, and the Fair Elections Fund |
-| **Sidewalk Data Explorer** | Data Story | Scrollytelling on missing and deficient sidewalks, dangerous streets, and transit access gaps |
-| **State Sponsor Tracker** | 2026 Session | Colorado General Assembly legislators sponsoring bills aligned with our platform |
-| **Resistbot Campaigns** | Rapid Organizing | Pre-written letter templates to officials at every level of government, convertible to petitions |
+| Tool                                | Type                  | Description                                                                                              |
+| ----------------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Eviction Tracker**                | Data + Resources      | Eviction data from Princeton Eviction Lab and Colorado Judicial Branch, plus tenant defense resources    |
+| **Eviction Crisis: By the Numbers** | Data Story            | Scrollytelling visualization of the eviction surge, hardest-hit neighborhoods, and collapsing safety net |
+| **Rent Control Calculator**         | Interactive           | Enter your rent and see savings under proposed rent stabilization, with shareable social graphics        |
+| **Follow the Money**                | Data + Accountability | Council voting scorecard on progressive priorities with campaign contribution search links               |
+| **Know Your Rights**                | AI-Powered            | 24/7 tenant rights chatbot in English and Spanish via voice or chat                                      |
+| **Council Candidate Tracker**       | 2027 Election         | Same 10 questions sent to every City Council candidate — answers and silences published unedited         |
+| **Mayoral Tracker**                 | 2027 Election         | 10 questions on executive power sent to every declared mayoral candidate                                 |
+| **Money in Denver Politics**        | Data Story            | Scrollytelling on outside spending, billionaire donors, real estate PACs, and the Fair Elections Fund    |
+| **Sidewalk Data Explorer**          | Data Story            | Scrollytelling on missing and deficient sidewalks, dangerous streets, and transit access gaps            |
+| **State Sponsor Tracker**           | 2026 Session          | Colorado General Assembly legislators sponsoring bills aligned with our platform                         |
+| **Resistbot Campaigns**             | Rapid Organizing      | Pre-written letter templates to officials at every level of government, convertible to petitions         |
 
 Tools that require backend data (eviction tracker, campaign finance) use Cloudflare Workers with D1 databases. See `workers/` for schemas and deployment instructions.
 
@@ -130,18 +130,18 @@ To report a security vulnerability, see [SECURITY.md](SECURITY.md). Do not open 
 
 ## Annual Operating Cost
 
-| Item | Cost |
-|------|------|
-| Domain | $10-12 |
-| Cloudflare Pages hosting | Free |
-| Cloudflare Workers (free tier) | Free |
-| Email routing | Free |
-| Resend (transactional email) | Free tier |
-| vAPI tenant chatbot (est. 20 calls/month) | $60-150 |
-| Claude API tokens (optional — policy research & analysis) | $0-4,800 |
-| Resistbot amplification (optional — petition campaigns) | $0-4,800 |
-| **Total (core)** | **$70-162/year** |
-| **Total (with optional tools)** | **$70-9,762/year** |
+| Item                                                      | Cost               |
+| --------------------------------------------------------- | ------------------ |
+| Domain                                                    | $10-12             |
+| Cloudflare Pages hosting                                  | Free               |
+| Cloudflare Workers (free tier)                            | Free               |
+| Email routing                                             | Free               |
+| Resend (transactional email)                              | Free tier          |
+| vAPI tenant chatbot (est. 20 calls/month)                 | $60-150            |
+| Claude API tokens (optional — policy research & analysis) | $0-4,800           |
+| Resistbot amplification (optional — petition campaigns)   | $0-4,800           |
+| **Total (core)**                                          | **$70-162/year**   |
+| **Total (with optional tools)**                           | **$70-9,762/year** |
 
 ## Support
 

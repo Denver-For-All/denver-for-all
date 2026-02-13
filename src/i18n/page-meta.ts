@@ -54,7 +54,10 @@ export const pageMeta: Record<string, PageMeta> = {
   },
 };
 
-export function getPageMeta(page: string, locale: 'en' | 'es'): { title: string; description: string } {
+export function getPageMeta(
+  page: string,
+  locale: 'en' | 'es',
+): { title: string; description: string } {
   const meta = pageMeta[page];
   if (!meta) return { title: 'Denver For All', description: '' };
   return {

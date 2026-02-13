@@ -1,7 +1,7 @@
 ---
 name: Policy Content Update
 about: Suggest a correction or update to policy content
-title: "[Policy] "
+title: '[Policy] '
 labels: content
 assignees: ''
 ---

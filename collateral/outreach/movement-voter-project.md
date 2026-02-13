@@ -17,6 +17,7 @@ I'm applying for partner status on behalf of Denver For All (denverforall.org), 
 ### Why Denver Matters in 2026–2027
 
 Denver's 2027 municipal election is a pivotal opportunity:
+
 - **All 13 council seats** and the mayor's office are on the ballot
 - **Outside spending** in Denver elections increased 380% from 2019–2023, driven primarily by real estate PACs
 - **Key state preemptions** (rent control banned since 1981) make local organizing essential for building power toward state-level change
@@ -52,14 +53,14 @@ We currently reach ~600 unique visitors per week and are growing through grassro
 
 ### Impact Metrics
 
-| Metric | Current | With MVP Support |
-|--------|---------|-----------------|
-| Weekly unique visitors | 600 | 3,000+ |
-| Council districts with candidate coverage | 2/13 | 13/13 |
-| Resistbot petition campaigns | 5 | 20+ |
-| Bilingual policy pages | Partial | Complete |
-| Community events/forums | 0 | 12+/year |
-| Tier 1 proposals introduced to council | 0 | 5+ |
+| Metric                                    | Current | With MVP Support |
+| ----------------------------------------- | ------- | ---------------- |
+| Weekly unique visitors                    | 600     | 3,000+           |
+| Council districts with candidate coverage | 2/13    | 13/13            |
+| Resistbot petition campaigns              | 5       | 20+              |
+| Bilingual policy pages                    | Partial | Complete         |
+| Community events/forums                   | 0       | 12+/year         |
+| Tier 1 proposals introduced to council    | 0       | 5+               |
 
 ### Values Alignment
 

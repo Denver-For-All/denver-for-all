@@ -1,41 +1,41 @@
 ---
-title: "Full Sanctuary City"
-titleEs: "Ciudad Santuario Completa"
-summary: "Zero cooperation with ICE. Municipal ID for all. City-funded deportation defense. Language access in every service. Our neighbors are not criminals."
-summaryEs: "Cero cooperación con ICE. Identificación municipal para todos. Defensa contra deportación financiada por la ciudad. Acceso lingüístico en cada servicio. Nuestros vecinos no son criminales."
-category: "immigration"
-icon: "landmark"
+title: 'Full Sanctuary City'
+titleEs: 'Ciudad Santuario Completa'
+summary: 'Zero cooperation with ICE. Municipal ID for all. City-funded deportation defense. Language access in every service. Our neighbors are not criminals.'
+summaryEs: 'Cero cooperación con ICE. Identificación municipal para todos. Defensa contra deportación financiada por la ciudad. Acceso lingüístico en cada servicio. Nuestros vecinos no son criminales.'
+category: 'immigration'
+icon: 'landmark'
 order: 40
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "30%+"
+  - value: '30%+'
     label: "of Denver's population is Latino"
-    labelEs: "de la poblacion de Denver es latina"
-    context: "Our immigrant communities are not an afterthought — they are Denver"
-    contextEs: "Nuestras comunidades inmigrantes no son secundarias — son Denver"
-    source: "U.S. Census Bureau, ACS 2023"
-    theme: "primary"
-  - value: "1.3M+"
-    label: "municipal IDs issued in NYC alone"
-    labelEs: "identificaciones municipales emitidas solo en NYC"
+    labelEs: 'de la poblacion de Denver es latina'
+    context: 'Our immigrant communities are not an afterthought — they are Denver'
+    contextEs: 'Nuestras comunidades inmigrantes no son secundarias — son Denver'
+    source: 'U.S. Census Bureau, ACS 2023'
+    theme: 'primary'
+  - value: '1.3M+'
+    label: 'municipal IDs issued in NYC alone'
+    labelEs: 'identificaciones municipales emitidas solo en NYC'
     context: "NYC's IDNYC program increased immigrant crime reporting and kept communities intact"
-    contextEs: "El programa IDNYC de NYC aumento los reportes de crimenes y mantuvo comunidades unidas"
-    source: "IDNYC Annual Report"
-    theme: "secondary"
-  - value: "0"
+    contextEs: 'El programa IDNYC de NYC aumento los reportes de crimenes y mantuvo comunidades unidas'
+    source: 'IDNYC Annual Report'
+    theme: 'secondary'
+  - value: '0'
     label: "obligation for Denver to do ICE's job"
-    labelEs: "obligacion de Denver de hacer el trabajo de ICE"
-    context: "The Supreme Court confirmed cities cannot be forced to enforce federal immigration law"
-    contextEs: "La Corte Suprema confirmo que las ciudades no pueden ser obligadas a aplicar la ley federal de inmigracion"
-    source: "Printz v. United States, 1997"
-    theme: "accent"
+    labelEs: 'obligacion de Denver de hacer el trabajo de ICE'
+    context: 'The Supreme Court confirmed cities cannot be forced to enforce federal immigration law'
+    contextEs: 'La Corte Suprema confirmo que las ciudades no pueden ser obligadas a aplicar la ley federal de inmigracion'
+    source: 'Printz v. United States, 1997'
+    theme: 'accent'
 relatedLegislation:
-  - billNumber: "SB26-005"
-    title: "Rights Violation in Immigration Enforcement Remedy"
-    status: "Referred from Judiciary to Appropriations (amended)"
-    url: "https://leg.colorado.gov/bills/sb26-005"
+  - billNumber: 'SB26-005'
+    title: 'Rights Violation in Immigration Enforcement Remedy'
+    status: 'Referred from Judiciary to Appropriations (amended)'
+    url: 'https://leg.colorado.gov/bills/sb26-005'
 ---
 
 ## The Problem
@@ -43,6 +43,7 @@ relatedLegislation:
 ICE enforcement operations in Denver and across Colorado have escalated, terrorizing immigrant communities and destroying families. Undocumented immigrants - who pay taxes, own businesses, and raise American children - live in fear of deportation every day.
 
 Current Denver sanctuary policies have gaps:
+
 - Police still cooperate with ICE in some circumstances
 - ICE conducts operations near schools, courthouses, and hospitals
 - Undocumented residents avoid reporting crimes, seeking healthcare, and enrolling children in school
@@ -66,6 +67,7 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 ### The Denver Sanctuary Protection Act
 
 **1. Zero Cooperation with ICE**
+
 - No city employee, department, or contractor may cooperate with ICE in any way
 - No sharing of personal information, addresses, work locations, or schedules
 - No honoring ICE detainers or warrants (which are administrative, not judicial)
@@ -74,11 +76,13 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 - Violation by any city employee: termination and personal liability
 
 **2. Protected Locations**
+
 - ICE-free zones: schools, hospitals, courthouses, churches, city offices, public transit, shelters
 - City will not cooperate with any enforcement action within 1,000 feet of protected locations
 - Signs in multiple languages at all protected locations informing community of their rights
 
 **3. Municipal ID Program (Denver ID)**
+
 - Available to ALL Denver residents regardless of immigration status
 - Accepted as valid identification for all city services, library cards, and local businesses
 - Application process does not require proof of immigration status
@@ -86,6 +90,7 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 - Encourages participation in civic life, banking, and healthcare
 
 **4. City-Funded Deportation Defense**
+
 - Denver Legal Defense Fund for immigrants facing deportation
 - $5M annual allocation for legal representation
 - Every Denver resident facing deportation proceedings has access to a city-funded attorney
@@ -93,12 +98,14 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 - Rapid response network: trained volunteers who respond to ICE raids and document encounters
 
 **5. Wage Enforcement Regardless of Status**
+
 - Denver's wage theft and labor protections apply to all workers, regardless of immigration status
 - Workers can file complaints, testify, and receive remedies without fear
 - Immigration status is irrelevant in all city enforcement proceedings
 - Anti-retaliation: employers who threaten workers with deportation face enhanced penalties
 
 **6. Language Access**
+
 - All city services available in English, Spanish, and the top 5 languages spoken in Denver
 - Real-time translation services at all city offices
 - Multilingual 311 system
@@ -107,12 +114,12 @@ Anti-immigration groups and some fiscal conservatives will cite the $100M migran
 
 ### International Evidence: Inclusion Works
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Canada (Toronto, Montreal)** | Sanctuary city policies. Municipal ID programs. Universal healthcare regardless of status. | Immigrant communities report crimes, access healthcare, enroll children in school. Public safety improves when people aren't hiding from government. |
-| **Spain** | *Empadronamiento* system - all residents register with municipalities regardless of immigration status, gaining access to healthcare, education, and social services. | Universal access reduces public health costs. Undocumented workers contribute to tax base. Integration outcomes far better than enforcement-focused countries. |
-| **Germany** | *Duldung* (toleration) status provides temporary protection and work authorization. Cities provide integration services including language courses and job training. | Integration-focused approach produces better economic outcomes than enforcement. Immigrants contribute to economy within months instead of years. |
-| **New York City** | IDNYC municipal ID program (largest in US). Right to counsel in deportation proceedings. Detainer refusal policy. | 1.3M+ IDs issued. Crime reporting by immigrants increased. Deportation defense saves families and keeps communities intact. |
+| Country/City                   | Model                                                                                                                                                                 | Result                                                                                                                                                         |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Canada (Toronto, Montreal)** | Sanctuary city policies. Municipal ID programs. Universal healthcare regardless of status.                                                                            | Immigrant communities report crimes, access healthcare, enroll children in school. Public safety improves when people aren't hiding from government.           |
+| **Spain**                      | _Empadronamiento_ system - all residents register with municipalities regardless of immigration status, gaining access to healthcare, education, and social services. | Universal access reduces public health costs. Undocumented workers contribute to tax base. Integration outcomes far better than enforcement-focused countries. |
+| **Germany**                    | _Duldung_ (toleration) status provides temporary protection and work authorization. Cities provide integration services including language courses and job training.  | Integration-focused approach produces better economic outcomes than enforcement. Immigrants contribute to economy within months instead of years.              |
+| **New York City**              | IDNYC municipal ID program (largest in US). Right to counsel in deportation proceedings. Detainer refusal policy.                                                     | 1.3M+ IDs issued. Crime reporting by immigrants increased. Deportation defense saves families and keeps communities intact.                                    |
 
 **The evidence is consistent:** cities that include immigrants in civic life are safer, healthier, and more economically productive. Cities that terrorize immigrant communities pay the cost in public health emergencies, unreported crime, and economic exclusion.
 
@@ -130,6 +137,7 @@ You don't have to wait for policy changes to protect yourself and your community
 **Save the Colorado Rapid Response Network hotline:** [1-844-864-8341](tel:18448648341) (1-844-UNITE-41). If you witness ICE activity, call immediately. Trained volunteers will respond 24/7 to document the encounter and inform people of their constitutional rights. You can also call and press 2 to report a past incident. Learn more at [coloradorapidresponsenetwork.com](https://coloradorapidresponsenetwork.com/).
 
 **Download a Know Your Rights card** from the [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources/know-your-rights) or [ACLU Colorado](https://www.aclu-co.org/know-your-rights/immigrants-rights/). Keep it in your wallet and share copies with your neighbors. Key rights include:
+
 - **Right to remain silent.** You do not have to answer questions about your immigration status.
 - **Do not sign anything** without consulting a lawyer, even if documents are in your language.
 - **Ask for a warrant.** ICE must present a valid judicial warrant signed by a judge to enter your home. An ICE administrative warrant (Form I-200) is not enough — you do not have to open the door.

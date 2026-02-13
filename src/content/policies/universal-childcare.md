@@ -1,49 +1,49 @@
 ---
-title: "Universal Childcare"
-titleEs: "Cuidado Infantil Universal"
-summary: "Publicly funded childcare from 6 months. Capped at $200/month for any family. Free for low-income. Because no parent should have to choose between working and raising their children."
-summaryEs: "Cuidado infantil financiado públicamente desde los 6 meses. Tope de $200/mes para cualquier familia. Gratis para familias de bajos ingresos. Porque ningún padre debería tener que elegir entre trabajar y criar a sus hijos."
-category: "education"
-icon: "baby"
+title: 'Universal Childcare'
+titleEs: 'Cuidado Infantil Universal'
+summary: 'Publicly funded childcare from 6 months. Capped at $200/month for any family. Free for low-income. Because no parent should have to choose between working and raising their children.'
+summaryEs: 'Cuidado infantil financiado públicamente desde los 6 meses. Tope de $200/mes para cualquier familia. Gratis para familias de bajos ingresos. Porque ningún padre debería tener que elegir entre trabajar y criar a sus hijos.'
+category: 'education'
+icon: 'baby'
 order: 48
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "$2,200/mo"
-    label: "childcare costs more than college tuition"
-    labelEs: "cuidado infantil cuesta mas que la matricula universitaria"
-    context: "Denver childcare runs $16,800-26,400/year per child — more than CU Boulder tuition"
-    contextEs: "El cuidado infantil en Denver cuesta $16,800-26,400/ano por nino — mas que la matricula de CU Boulder"
-    source: "Economic Policy Institute, 2023"
-    theme: "danger"
-  - value: "$13-16/hr"
-    label: "poverty wages for childcare workers"
-    labelEs: "salarios de pobreza para trabajadores de cuidado infantil"
-    context: "The people responsible for the most critical stage of development earn less than fast food workers"
-    contextEs: "Las personas responsables de la etapa mas critica del desarrollo ganan menos que trabajadores de comida rapida"
-    source: "BLS, Denver metro area, 2024"
-    theme: "danger"
-  - value: "$7-13"
-    label: "returned for every $1 invested in early childhood"
-    labelEs: "devueltos por cada $1 invertido en primera infancia"
-    context: "The highest-return public investment available"
-    contextEs: "La inversion publica de mayor retorno disponible"
-    source: "James Heckman, Nobel laureate economist, 2006"
-    theme: "primary"
+  - value: '$2,200/mo'
+    label: 'childcare costs more than college tuition'
+    labelEs: 'cuidado infantil cuesta mas que la matricula universitaria'
+    context: 'Denver childcare runs $16,800-26,400/year per child — more than CU Boulder tuition'
+    contextEs: 'El cuidado infantil en Denver cuesta $16,800-26,400/ano por nino — mas que la matricula de CU Boulder'
+    source: 'Economic Policy Institute, 2023'
+    theme: 'danger'
+  - value: '$13-16/hr'
+    label: 'poverty wages for childcare workers'
+    labelEs: 'salarios de pobreza para trabajadores de cuidado infantil'
+    context: 'The people responsible for the most critical stage of development earn less than fast food workers'
+    contextEs: 'Las personas responsables de la etapa mas critica del desarrollo ganan menos que trabajadores de comida rapida'
+    source: 'BLS, Denver metro area, 2024'
+    theme: 'danger'
+  - value: '$7-13'
+    label: 'returned for every $1 invested in early childhood'
+    labelEs: 'devueltos por cada $1 invertido en primera infancia'
+    context: 'The highest-return public investment available'
+    contextEs: 'La inversion publica de mayor retorno disponible'
+    source: 'James Heckman, Nobel laureate economist, 2006'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "HB26-1004"
-    title: "Continuation of Child Care Contribution Tax Credit"
-    status: "Referred from Finance to Appropriations"
-    url: "https://leg.colorado.gov/bills/hb26-1004"
-  - billNumber: "SB26-019"
-    title: "Early Childhood Local System Consolidation"
-    status: "Senate Second Reading Laid Over"
-    url: "https://leg.colorado.gov/bills/sb26-019"
-  - billNumber: "SB26-020"
-    title: "Child Care Provider Licensing & Quality"
-    status: "Introduced - Assigned to Education"
-    url: "https://leg.colorado.gov/bills/sb26-020"
+  - billNumber: 'HB26-1004'
+    title: 'Continuation of Child Care Contribution Tax Credit'
+    status: 'Referred from Finance to Appropriations'
+    url: 'https://leg.colorado.gov/bills/hb26-1004'
+  - billNumber: 'SB26-019'
+    title: 'Early Childhood Local System Consolidation'
+    status: 'Senate Second Reading Laid Over'
+    url: 'https://leg.colorado.gov/bills/sb26-019'
+  - billNumber: 'SB26-020'
+    title: 'Child Care Provider Licensing & Quality'
+    status: 'Introduced - Assigned to Education'
+    url: 'https://leg.colorado.gov/bills/sb26-020'
 ---
 
 ## The Problem
@@ -51,6 +51,7 @@ relatedLegislation:
 Childcare in Denver costs $1,400-2,200/month per child. That's $16,800-26,400/year - more than in-state tuition at CU Boulder. For a family with two children, childcare can exceed their rent.
 
 The result:
+
 - Parents (disproportionately mothers) drop out of the workforce entirely
 - Low-income families rely on informal, unregulated care
 - Childcare workers - who are responsible for human development at its most critical stage - earn $13-16/hr (poverty wages)
@@ -69,18 +70,21 @@ Colorado provides childcare subsidies through the Colorado Child Care Assistance
 Modeled on the systems in France, Sweden, Denmark, and Finland - adapted for Denver.
 
 **1. Universal Access from 6 Months**
+
 - Guaranteed childcare slot for every Denver child from 6 months to kindergarten entry
 - No waitlists - capacity is the city's responsibility
 - Full-day programs (7 AM - 6 PM) to match working parents' schedules
 - Located in public facilities, schools, community centers, and licensed neighborhood providers
 
 **2. Income-Based Fees (Capped)**
+
 - Free for families earning under 200% FPL (~$62,000 for family of 4)
 - Sliding scale above that, capped at $200/month per child regardless of income
 - No family pays more than 5% of household income on childcare
-- Compare: Sweden caps childcare at ~$150/month. France's *École maternelle* is free from age 3. Denmark caps at ~$500/month (with subsidies reducing most families' cost to near-zero).
+- Compare: Sweden caps childcare at ~$150/month. France's _École maternelle_ is free from age 3. Denmark caps at ~$500/month (with subsidies reducing most families' cost to near-zero).
 
 **3. Living Wages for Childcare Workers**
+
 - Starting salary: $25/hr (matching Denver's minimum wage target)
 - Parity with K-12 teachers for credentialed early childhood educators
 - Full benefits: health insurance, retirement, paid leave
@@ -88,6 +92,7 @@ Modeled on the systems in France, Sweden, Denmark, and Finland - adapted for Den
 - Rationale: You cannot have quality childcare with poverty-wage workers. Period.
 
 **4. Quality Standards**
+
 - Maximum ratios: 3:1 for infants, 4:1 for toddlers, 8:1 for preschool
 - Curriculum: play-based, developmentally appropriate, trauma-informed
 - Bilingual programming (English/Spanish) in all centers
@@ -96,17 +101,18 @@ Modeled on the systems in France, Sweden, Denmark, and Finland - adapted for Den
 
 ## The Evidence: This Works
 
-| Country | Model | Family Cost | Worker Pay | Child Outcomes |
-|---------|-------|-------------|------------|----------------|
-| **France** | Free *École maternelle* from age 3; subsidized *crèches* from 3 months | Free (3+); income-based under 3 | Competitive with teachers | 99% of 3-5 year olds enrolled; among best childhood development outcomes in Europe |
-| **Sweden** | Public childcare from 1 year; heavily subsidized | Capped at ~$150/month | Comparable to primary teachers | Highest female labor participation in Europe; children show strong developmental outcomes |
-| **Denmark** | Guaranteed spot from 6 months | Subsidized to near-free for most | Living wages | Highest life satisfaction; children perform well across all metrics |
-| **Finland** | Universal right to daycare from birth | Income-based, capped | Competitive | Feeds into world's best education system |
-| **Quebec, Canada** | Universal $7/day childcare (since 1997) | ~$7.30 CAD/day ($180/month) | Above market | Female labor participation increased 8%. Program pays for itself through increased tax revenue. |
+| Country            | Model                                                                  | Family Cost                      | Worker Pay                     | Child Outcomes                                                                                  |
+| ------------------ | ---------------------------------------------------------------------- | -------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------- |
+| **France**         | Free _École maternelle_ from age 3; subsidized _crèches_ from 3 months | Free (3+); income-based under 3  | Competitive with teachers      | 99% of 3-5 year olds enrolled; among best childhood development outcomes in Europe              |
+| **Sweden**         | Public childcare from 1 year; heavily subsidized                       | Capped at ~$150/month            | Comparable to primary teachers | Highest female labor participation in Europe; children show strong developmental outcomes       |
+| **Denmark**        | Guaranteed spot from 6 months                                          | Subsidized to near-free for most | Living wages                   | Highest life satisfaction; children perform well across all metrics                             |
+| **Finland**        | Universal right to daycare from birth                                  | Income-based, capped             | Competitive                    | Feeds into world's best education system                                                        |
+| **Quebec, Canada** | Universal $7/day childcare (since 1997)                                | ~$7.30 CAD/day ($180/month)      | Above market                   | Female labor participation increased 8%. Program pays for itself through increased tax revenue. |
 
 ### The Quebec Model - Proof It Pays For Itself
 
 Quebec's $7/day universal childcare program, launched in 1997, is the most studied example in North America:
+
 - **70,000 more mothers** entered the workforce
 - **Tax revenue increase** from those mothers' earnings exceeded the program's cost
 - **Net cost to government: negative** - the program generates more revenue than it costs
@@ -122,6 +128,7 @@ Nobel laureate economist **James Heckman's** research shows that every $1 invest
 **Estimated annual cost:** $150-200M/year for universal coverage
 
 **Funding sources:**
+
 1. **City allocation:** $80-100M from general fund (Denver's budget is $1.6B+)
 2. **Federal/state matching:** Head Start, CCDBG, and Colorado early childhood funds ($40-50M)
 3. **Employer payroll assessment:** 0.3% payroll tax dedicated to childcare fund ($50-60M)

@@ -1,5 +1,5 @@
 import { VapiWidget } from '@vapi-ai/client-sdk-react';
-import { useLocale } from './sidewalk-data/useLocale';
+import { useLocale } from './scrollytelling/useLocale';
 
 const ASSISTANT_ID = 'cc8bd3ab-fa8e-4f15-b327-fc8e8098405a';
 const PUBLIC_KEY = '681f6772-b3b2-4ab1-a90b-81670bc5ed31';

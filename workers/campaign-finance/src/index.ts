@@ -69,7 +69,7 @@ export default {
     }
   },
 
-  async scheduled(event: ScheduledEvent, env: Env, ctx: ExecutionContext): Promise<void> {
+  async scheduled(_event: ScheduledEvent, env: Env, _ctx: ExecutionContext): Promise<void> {
     console.log('Starting weekly campaign finance scrape...');
 
     try {
@@ -257,7 +257,7 @@ async function getDonorTypeBreakdown(db: D1Database, params: URLSearchParams) {
   return results.results;
 }
 
-async function getScorecard(db: D1Database) {
+async function getScorecard(_db: D1Database) {
   // TODO: Scorecard requires manual data entry of council votes
   // on progressive priorities (housing, labor, climate, etc.)
   // This would be a separate table populated through admin interface

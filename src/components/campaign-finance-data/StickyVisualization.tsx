@@ -4,7 +4,7 @@ import {
   ResponsiveContainer, Tooltip,
 } from 'recharts';
 import {
-  outsideSpending, mayoralPACs2023, totalRaised2023,
+  outsideSpending, totalRaised2023,
   councilVotes, schoolBoard2025, ballotMeasures2025,
   earlyFundraising2027,
 } from '../../data/campaign-finance-stats';

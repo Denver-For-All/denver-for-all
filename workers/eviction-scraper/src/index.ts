@@ -86,7 +86,7 @@ export default {
   /**
    * Cron handler — scrapes court records daily
    */
-  async scheduled(event: ScheduledEvent, env: Env, ctx: ExecutionContext): Promise<void> {
+  async scheduled(_event: ScheduledEvent, env: Env, _ctx: ExecutionContext): Promise<void> {
     console.log('Starting daily eviction scrape...');
 
     try {

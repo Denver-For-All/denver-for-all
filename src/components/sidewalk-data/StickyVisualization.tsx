@@ -7,7 +7,6 @@ import {
 import {
   donutData, equityComparison, transitStops,
   dangerousCorridors, destinationExamples, highInjuryNetwork,
-  networkOverview,
 } from '../../data/sidewalk-stats';
 
 const C = {

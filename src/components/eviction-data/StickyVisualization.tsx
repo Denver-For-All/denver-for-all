@@ -5,7 +5,7 @@ import {
 } from 'recharts';
 import {
   annualFilings, prePandemicAvg, topNeighborhoods,
-  courtOutcomes, rentalAssistanceBudget, nationalComparison,
+  rentalAssistanceBudget, nationalComparison,
   sb24064Data,
 } from '../../data/eviction-stats';
 

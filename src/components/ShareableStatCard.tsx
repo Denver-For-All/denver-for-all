@@ -159,7 +159,7 @@ function ShareButton({ onClick, icon, label, bg }: {
 
 function StatCard({
   stat,
-  policyTitle,
+  policyTitle: _policyTitle,
   policySlug,
   locale,
   onShare,
@@ -321,7 +321,7 @@ export default function ShareableStatCard({
 }: Props) {
   const cardRefs = useRef<(HTMLDivElement | null)[]>([]);
   const [shareIndex, setShareIndex] = useState<number | null>(null);
-  const [copyFeedback, setCopyFeedback] = useState(false);
+  const [_copyFeedback, _setCopyFeedback] = useState(false);
 
   const siteUrl = 'https://denverforall.org';
   const policyUrl = `${siteUrl}/platform/${policySlug}`;
@@ -361,7 +361,7 @@ export default function ShareableStatCard({
     setShareIndex(null);
   }, [stats, locale, policyUrl]);
 
-  const handleFacebook = useCallback((index: number) => {
+  const handleFacebook = useCallback((_index: number) => {
     const url = encodeURIComponent(policyUrl);
     window.open(
       `https://www.facebook.com/sharer/sharer.php?u=${url}`,

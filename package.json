@@ -4,6 +4,9 @@
   "version": "0.1.0",
   "description": "Denver For All — A movement for economic justice in Denver",
   "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -13,7 +16,9 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "deploy:evictions": "cd workers/eviction-scraper && npx wrangler deploy",
+    "deploy:finance": "cd workers/campaign-finance && npx wrangler deploy"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",

@@ -35,14 +35,14 @@ This policy covers:
 
 - Denial of service attacks
 - Social engineering
-- Issues in third-party services we use (Cloudflare, vAPI, EmailOctopus) — report those to the respective vendors
+- Issues in third-party services we use (Cloudflare, vAPI, Resend) — report those to the respective vendors
 - Issues requiring physical access
 
 ## Sensitive Data
 
 This project handles minimal user data:
 
-- Newsletter email addresses (managed by EmailOctopus)
+- Newsletter email addresses (managed by Resend)
 - No user accounts or passwords
 - No payment processing (donations handled by Open Collective)
 

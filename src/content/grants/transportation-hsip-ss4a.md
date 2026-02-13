@@ -1,14 +1,14 @@
 ---
-title: "HSIP & Safe Streets for All — Denver Vision Zero Implementation"
-titleEs: "HSIP y Calles Seguras para Todos — Implementación de Visión Cero en Denver"
+title: 'HSIP & Safe Streets for All — Denver Vision Zero Implementation'
+titleEs: 'HSIP y Calles Seguras para Todos — Implementación de Visión Cero en Denver'
 summary: "Combined HSIP/SS4A implementation grant template for intersection redesign, protected bike lanes, and automated speed enforcement on Denver's High Injury Network."
-summaryEs: "Plantilla de subvención combinada HSIP/SS4A para el rediseño de intersecciones, ciclovías protegidas y control automatizado de velocidad en la Red de Alta Lesividad de Denver."
-policySlug: "transportation"
-grantProgram: "Highway Safety Improvement Program (HSIP) + Safe Streets for All (SS4A)"
-fundingAgency: "U.S. Department of Transportation (USDOT) / Federal Highway Administration (FHWA)"
-estimatedAmount: "$15-25M over 3 years"
-deadline: "HSIP: ongoing through State DOT; SS4A: typically May-June annually"
-status: "draft"
+summaryEs: 'Plantilla de subvención combinada HSIP/SS4A para el rediseño de intersecciones, ciclovías protegidas y control automatizado de velocidad en la Red de Alta Lesividad de Denver.'
+policySlug: 'transportation'
+grantProgram: 'Highway Safety Improvement Program (HSIP) + Safe Streets for All (SS4A)'
+fundingAgency: 'U.S. Department of Transportation (USDOT) / Federal Highway Administration (FHWA)'
+estimatedAmount: '$15-25M over 3 years'
+deadline: 'HSIP: ongoing through State DOT; SS4A: typically May-June annually'
+status: 'draft'
 ---
 
 ## Project Narrative
@@ -30,6 +30,7 @@ status: "draft"
 **Project Area:** City and County of Denver, Colorado (population ~715,000)
 
 **Priority Corridors and Intersections (ranked by crash frequency, fatality rate, and equity indicators):**
+
 - I-70/Peoria interchange and surrounding arterials (103 crashes in 2024)
 - Federal Boulevard (full corridor)
 - Colfax Avenue (East and West segments)
@@ -50,6 +51,7 @@ status: "draft"
 Denver's traffic safety data documents a crisis that is worsening, not improving, despite a formal Vision Zero commitment now entering its eighth year:
 
 **Fatal and Serious Injury Data:**
+
 - 93 traffic deaths in 2025, the deadliest year since 2013 (Denver Vision Zero Dashboard, 2025)
 - 35 pedestrian fatalities in 2025, a 34% increase over 2024
 - Pedestrians represent ~5% of commuters but ~33% of traffic deaths
@@ -58,6 +60,7 @@ Denver's traffic safety data documents a crisis that is worsening, not improving
 - Low-income neighborhoods experience disproportionately higher fatality rates
 
 **High Injury Network and Infrastructure Deficiency:**
+
 - Denver has identified its High Injury Network — the subset of streets where fatal and serious injury crashes are concentrated — but has been slow to redesign these corridors
 - Automated speed enforcement remains limited despite proven effectiveness in reducing speeds and fatalities without racial profiling
 - 254 miles of bike lanes exist, but critical gaps persist on high-crash corridors, particularly in east Denver, Capitol Hill, Montbello, and Far Northeast
@@ -65,6 +68,7 @@ Denver's traffic safety data documents a crisis that is worsening, not improving
 - Over 81% of Denver commuters drive alone; drivers lost an average of 76 hours to congestion in 2024 (Texas A&M Transportation Institute, 2025)
 
 **Existing Safety Plans:**
+
 - Denver Vision Zero Action Plan (2017, updated 2022)
 - Denver High Injury Network analysis
 - Denver Moves: Bikes plan (targeting 230+ new miles of bikeways)
@@ -75,6 +79,7 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 ### D. Project Activities & Deliverables
 
 **Activity 1: Top 20 Intersection Redesigns ($8,000,000)**
+
 - Redesign the 20 highest-crash intersections on Denver's High Injury Network using proven safety treatments
 - Treatments to include: curb extensions (bulb-outs) to shorten pedestrian crossing distances, protected intersection geometry for bicycle movements, raised crosswalks to reduce vehicle turning speeds, restricted turn movements where conflict analysis warrants, improved sight lines through daylighting and parking setback adjustments, and high-visibility crosswalk markings
 - Priority intersections include the I-70/Peoria interchange approaches and the highest-crash nodes on Federal Boulevard, Colfax Avenue, Colorado Boulevard, Havana Street, and Alameda Avenue
@@ -83,6 +88,7 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 - Community engagement at each intersection site, with a minimum of two public meetings per project cluster, conducted in English and Spanish
 
 **Activity 2: Protected Bike Lane Buildout on High-Crash Corridors ($5,000,000)**
+
 - Construct approximately 15-20 miles of physically protected bike lanes on corridors identified by both the High Injury Network and the Denver Moves: Bikes plan gap analysis
 - Protection to consist of physical separation (concrete curbs, raised lanes, flexible delineator posts with concrete bases, or planter-based barriers), not paint-only markings
 - Priority corridors: segments connecting underserved neighborhoods (Montbello, Green Valley Ranch, Far Northeast, Westwood) to rail stations, bus hubs, schools, and employment centers
@@ -92,6 +98,7 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 - All designs to meet or exceed NACTO Urban Bikeway Design Guide standards
 
 **Activity 3: Automated Speed Enforcement in School Zones ($2,000,000)**
+
 - Deploy automated speed enforcement cameras in 30-40 school zones, prioritized by pedestrian crash history and proximity to High Injury Network corridors
 - Prioritize schools in Montbello, Green Valley Ranch, Far Northeast, Westwood, Elyria-Swansea, and Globeville — neighborhoods with the highest child pedestrian injury rates
 - Include a 30-day warning period at each new installation before citations are issued
@@ -101,6 +108,7 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 - Evaluate speed reduction and crash outcomes at 6, 12, and 24 months post-installation
 
 **Activity 4: Pedestrian Signal Improvements on High Injury Network ($2,000,000)**
+
 - Upgrade pedestrian signal infrastructure at approximately 80-100 intersections on the High Injury Network
 - Treatments to include: Leading Pedestrian Intervals (LPIs) giving pedestrians a 7-10 second head start before vehicles receive a green signal, extended pedestrian crossing times calibrated to a 3.0 ft/s walking speed (accommodating elderly and mobility-impaired pedestrians), accessible pedestrian signals (APS) with audible and tactile indicators, and countdown timers at all upgraded locations
 - Install pedestrian-scale lighting at the 25 highest-crash pedestrian locations, particularly mid-block crossing areas and transit stops
@@ -108,6 +116,7 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 - Prioritize intersections within a quarter-mile of schools, transit stops, senior housing, and healthcare facilities
 
 **Activity 5: Project Management, Community Engagement, and Evaluation ($1,000,000)**
+
 - Dedicated project manager (full-time) and grant compliance coordinator (full-time) for 36 months
 - Data analyst (full-time) to manage crash data collection, before/after analysis, and performance reporting
 - Community engagement program: minimum 3 public meetings per target neighborhood (conducted in English and Spanish), project website with interactive maps, and partnerships with neighborhood organizations in Montbello, Green Valley Ranch, Far Northeast, and Westwood
@@ -118,25 +127,27 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 
 ### E. Project Timeline
 
-| Phase | Timeline | Key Milestones |
-|---|---|---|
-| **Planning & Design** | Months 1-8 | Complete Road Safety Audits at all 20 intersection sites; finalize engineering design for intersection redesigns and protected bike lanes; execute community engagement round 1; procure automated speed enforcement equipment |
-| **Procurement** | Months 5-10 | Issue RFPs for construction contracts; award intersection redesign and bike lane construction contracts; execute automated enforcement vendor agreements (can overlap with design for phased work) |
-| **Construction Phase 1** | Months 9-20 | Complete intersection redesigns at 10 highest-priority locations; install automated speed enforcement in first 20 school zones; complete pedestrian signal upgrades at 50 intersections; begin protected bike lane construction on first 8-10 miles |
-| **Construction Phase 2** | Months 18-30 | Complete remaining 10 intersection redesigns; install automated speed enforcement in remaining school zones; complete all pedestrian signal upgrades; complete protected bike lane buildout on remaining corridors |
-| **Closeout & Evaluation** | Months 28-36 | Post-construction speed and crash data collection; 24-month safety evaluation at Phase 1 sites; 12-month evaluation at Phase 2 sites; final report and replicability analysis; community perception follow-up surveys |
+| Phase                     | Timeline     | Key Milestones                                                                                                                                                                                                                                      |
+| ------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planning & Design**     | Months 1-8   | Complete Road Safety Audits at all 20 intersection sites; finalize engineering design for intersection redesigns and protected bike lanes; execute community engagement round 1; procure automated speed enforcement equipment                      |
+| **Procurement**           | Months 5-10  | Issue RFPs for construction contracts; award intersection redesign and bike lane construction contracts; execute automated enforcement vendor agreements (can overlap with design for phased work)                                                  |
+| **Construction Phase 1**  | Months 9-20  | Complete intersection redesigns at 10 highest-priority locations; install automated speed enforcement in first 20 school zones; complete pedestrian signal upgrades at 50 intersections; begin protected bike lane construction on first 8-10 miles |
+| **Construction Phase 2**  | Months 18-30 | Complete remaining 10 intersection redesigns; install automated speed enforcement in remaining school zones; complete all pedestrian signal upgrades; complete protected bike lane buildout on remaining corridors                                  |
+| **Closeout & Evaluation** | Months 28-36 | Post-construction speed and crash data collection; 24-month safety evaluation at Phase 1 sites; 12-month evaluation at Phase 2 sites; final report and replicability analysis; community perception follow-up surveys                               |
 
 ### F. Alignment with HSIP and SS4A Program Goals
 
 This project advances both the Highway Safety Improvement Program and Safe Streets for All program objectives:
 
 **HSIP Alignment:**
+
 1. **Addresses identified safety problems on public roads:** All project activities target locations documented in Denver's High Injury Network analysis and crash data, meeting HSIP's requirement for data-driven safety investment
 2. **Applies FHWA Proven Safety Countermeasures:** Intersection redesigns, Leading Pedestrian Intervals, Rectangular Rapid Flashing Beacons, and automated speed enforcement are all FHWA-designated Proven Safety Countermeasures with documented crash reduction factors
 3. **Consistent with Colorado's Strategic Highway Safety Plan (SHSP):** Project activities align with CDOT emphasis areas including pedestrian safety, intersection safety, speed management, and bicycle safety
 4. **Quantifiable safety outcomes:** Each activity includes pre/post evaluation methodology enabling calculation of crash modification factors for Colorado's HSIP reporting
 
 **SS4A Alignment:**
+
 1. **Carries out a comprehensive safety action plan:** Implements specific, high-priority elements of Denver's Vision Zero Action Plan on the corridors where fatalities are concentrated
 2. **Addresses identified safety needs through infrastructure investment:** Targets the intersections, corridors, and school zones with the highest documented crash rates
 3. **Incorporates equity:** Prioritizes Montbello, Green Valley Ranch, Far Northeast, and Westwood — the city's most transportation-underserved neighborhoods, which are disproportionately low-income communities of color bearing the greatest burden of traffic violence
@@ -145,31 +156,31 @@ This project advances both the Highway Safety Improvement Program and Safe Stree
 
 ## Budget Summary
 
-| Category | Amount | % of Total |
-|---|---|---|
-| Intersection Redesigns (top 20 High Injury Network) | $8,000,000 | 44% |
-| Protected Bike Lane Buildout (high-crash corridors) | $5,000,000 | 28% |
-| Automated Speed Enforcement (school zones) | $2,000,000 | 11% |
-| Pedestrian Signal Improvements (High Injury Network) | $2,000,000 | 11% |
-| Project Management, Engagement & Evaluation | $1,000,000 | 6% |
-| **Total Federal Request** | **$18,000,000** | **100%** |
-| Local Match (DOTI capital budget + Vision Zero funds) | $5,400,000 | — |
-| **Total Project Investment** | **$23,400,000** | — |
+| Category                                              | Amount          | % of Total |
+| ----------------------------------------------------- | --------------- | ---------- |
+| Intersection Redesigns (top 20 High Injury Network)   | $8,000,000      | 44%        |
+| Protected Bike Lane Buildout (high-crash corridors)   | $5,000,000      | 28%        |
+| Automated Speed Enforcement (school zones)            | $2,000,000      | 11%        |
+| Pedestrian Signal Improvements (High Injury Network)  | $2,000,000      | 11%        |
+| Project Management, Engagement & Evaluation           | $1,000,000      | 6%         |
+| **Total Federal Request**                             | **$18,000,000** | **100%**   |
+| Local Match (DOTI capital budget + Vision Zero funds) | $5,400,000      | —          |
+| **Total Project Investment**                          | **$23,400,000** | —          |
 
 **Note on Federal/Local Split:** HSIP funds are available at a 90/10 federal/local match for safety projects on Federal-aid highways. SS4A Implementation Grants require a minimum 20% local match. The budget above assumes a blended 77/23 federal/local ratio. Denver's local match will be funded through existing DOTI capital budget allocations for Vision Zero and bike infrastructure, demonstrating that the city is supplementing — not replacing — local safety investment with federal funds. The city's annual Vision Zero and bike infrastructure spending of $5-10 million per year (DOTI capital budget) and the $13.4 million invested in bike lanes between 2018 and 2023 demonstrate sustained local commitment.
 
 ## Expected Outcomes
 
-| Metric | Baseline | 3-Year Target |
-|---|---|---|
-| Annual traffic fatalities (citywide) | 93 (2025) | 20-30% reduction (65-74) |
-| Annual pedestrian fatalities (citywide) | 35 (2025) | 30-40% reduction (21-25) |
-| Crashes at redesigned intersections | Varies by site (avg. ~25/year) | 40% reduction per intersection |
-| 85th percentile speed in school zones with automated enforcement | Estimated 30-35 mph | Reduced to 20-25 mph |
-| Miles of protected bike lanes | 254 miles total (limited protection) | +15-20 miles of physically protected lanes |
-| Cyclist fatalities and serious injuries on project corridors | ~8-12 serious injuries/year | 30% reduction |
-| Intersections with Leading Pedestrian Intervals on High Injury Network | Limited deployment | 80-100 intersections upgraded |
-| Pedestrian signal compliance with APS standards | ~35% of High Injury Network intersections | ~75% of High Injury Network intersections |
+| Metric                                                                 | Baseline                                  | 3-Year Target                              |
+| ---------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| Annual traffic fatalities (citywide)                                   | 93 (2025)                                 | 20-30% reduction (65-74)                   |
+| Annual pedestrian fatalities (citywide)                                | 35 (2025)                                 | 30-40% reduction (21-25)                   |
+| Crashes at redesigned intersections                                    | Varies by site (avg. ~25/year)            | 40% reduction per intersection             |
+| 85th percentile speed in school zones with automated enforcement       | Estimated 30-35 mph                       | Reduced to 20-25 mph                       |
+| Miles of protected bike lanes                                          | 254 miles total (limited protection)      | +15-20 miles of physically protected lanes |
+| Cyclist fatalities and serious injuries on project corridors           | ~8-12 serious injuries/year               | 30% reduction                              |
+| Intersections with Leading Pedestrian Intervals on High Injury Network | Limited deployment                        | 80-100 intersections upgraded              |
+| Pedestrian signal compliance with APS standards                        | ~35% of High Injury Network intersections | ~75% of High Injury Network intersections  |
 
 **Crash Reduction Methodology:** Expected outcomes are based on published Crash Modification Factors (CMFs) from the FHWA CMF Clearinghouse. Intersection redesigns combining curb extensions, raised crosswalks, and restricted turn movements have documented CMFs of 0.47-0.70 for pedestrian crashes. Leading Pedestrian Intervals reduce pedestrian-vehicle crashes by an estimated 13% (CMF = 0.87). Automated speed enforcement in school zones reduces injury crashes by 20-40% in peer city deployments (IIHS, 2024). Protected bike lanes reduce cyclist injury risk by 75% compared to unprotected lanes (Teschke et al., 2012).
 

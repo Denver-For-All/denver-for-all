@@ -1,35 +1,35 @@
 ---
-title: "Small Business & Local Economy"
-titleEs: "Pequeñas Empresas y Economía Local"
-summary: "Streamlined permitting for small businesses. Commercial rent stabilization. Full worker cooperative ecosystem with legacy business conversion pipeline. Local-first city procurement. Micro-loans for BIPOC entrepreneurs. Anti-monopoly enforcement."
-summaryEs: "Permisos simplificados para pequeñas empresas. Estabilización de alquileres comerciales. Ecosistema completo de cooperativas de trabajadores con programa de conversión de negocios. Adquisiciones municipales con prioridad local. Micropréstamos para emprendedores BIPOC. Aplicación antimonopolio."
-category: "economy"
-icon: "store"
+title: 'Small Business & Local Economy'
+titleEs: 'Pequeñas Empresas y Economía Local'
+summary: 'Streamlined permitting for small businesses. Commercial rent stabilization. Full worker cooperative ecosystem with legacy business conversion pipeline. Local-first city procurement. Micro-loans for BIPOC entrepreneurs. Anti-monopoly enforcement.'
+summaryEs: 'Permisos simplificados para pequeñas empresas. Estabilización de alquileres comerciales. Ecosistema completo de cooperativas de trabajadores con programa de conversión de negocios. Adquisiciones municipales con prioridad local. Micropréstamos para emprendedores BIPOC. Aplicación antimonopolio.'
+category: 'economy'
+icon: 'store'
 order: 75
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "405"
-    label: "Denver restaurants closed in 2 years"
-    labelEs: "restaurantes de Denver cerraron en 2 anos"
-    context: "Net closures 2022-2024 — replaced by chains"
-    contextEs: "Cierres netos 2022-2024 — reemplazados por cadenas"
-    source: "Colorado Restaurant Association, 2024"
-    theme: "danger"
-  - value: "$45 vs $14"
-    label: "local spending creates 3x the economic activity"
-    labelEs: "el gasto local crea 3x la actividad economica"
-    context: "Every $100 at a local business generates $45 locally vs $14 at a chain"
-    contextEs: "Cada $100 en un negocio local genera $45 localmente vs $14 en una cadena"
-    source: "Civic Economics; Institute for Local Self-Reliance"
-    theme: "primary"
-  - value: "77%"
-    label: "of small businesses rejected by big banks"
-    labelEs: "de pequenos negocios rechazados por grandes bancos"
-    context: "Black entrepreneurs start with 1/3 the capital of white entrepreneurs"
-    contextEs: "Emprendedores negros comienzan con 1/3 del capital de emprendedores blancos"
-    theme: "danger"
+  - value: '405'
+    label: 'Denver restaurants closed in 2 years'
+    labelEs: 'restaurantes de Denver cerraron en 2 anos'
+    context: 'Net closures 2022-2024 — replaced by chains'
+    contextEs: 'Cierres netos 2022-2024 — reemplazados por cadenas'
+    source: 'Colorado Restaurant Association, 2024'
+    theme: 'danger'
+  - value: '$45 vs $14'
+    label: 'local spending creates 3x the economic activity'
+    labelEs: 'el gasto local crea 3x la actividad economica'
+    context: 'Every $100 at a local business generates $45 locally vs $14 at a chain'
+    contextEs: 'Cada $100 en un negocio local genera $45 localmente vs $14 en una cadena'
+    source: 'Civic Economics; Institute for Local Self-Reliance'
+    theme: 'primary'
+  - value: '77%'
+    label: 'of small businesses rejected by big banks'
+    labelEs: 'de pequenos negocios rechazados por grandes bancos'
+    context: 'Black entrepreneurs start with 1/3 the capital of white entrepreneurs'
+    contextEs: 'Emprendedores negros comienzan con 1/3 del capital de emprendedores blancos'
+    theme: 'danger'
 ---
 
 ## The Problem
@@ -49,6 +49,7 @@ These programs are real, but they are drastically underfunded relative to the sc
 ## Our Solution
 
 ### 1. One-Stop Permitting & Business Startup
+
 - Create a single city office for all business permits and licenses. No more bouncing between 5+ departments.
 - 30-day maximum for standard business permits (the current 180-day target for building permits is unacceptable for small operators)
 - Free permit assistance for businesses under $500K revenue (navigating bureaucracy should not require a consultant)
@@ -57,6 +58,7 @@ These programs are real, but they are drastically underfunded relative to the sc
 - Digital-first processing with same-day confirmation for simple licenses
 
 ### 2. Commercial Rent Stabilization
+
 - Cap commercial rent increases at CPI + 2% for small business tenants occupying spaces under 5,000 square feet
 - Right of first refusal for small business tenants when their lease expires, preventing surprise displacement by chain tenants willing to pay premium rents
 - Anti-displacement protections in rapidly gentrifying commercial corridors: RiNo, Five Points, East Colfax, Globeville, Elyria-Swansea, and Westwood
@@ -68,12 +70,14 @@ These programs are real, but they are drastically underfunded relative to the sc
 Denver should build a full cooperative ecosystem, modeled on the most successful municipal programs in the country. The Democracy at Work Institute (DAWI) and the National League of Cities developed a [Municipal Playbook for Employee Ownership](https://institute.coop/topics/government-policy) that Denver should adopt as a framework.
 
 **Cooperative Business Incubator**
+
 - City-funded cooperative business incubator providing space, legal support, and startup capital for worker-owned businesses
 - Technical assistance program: legal incorporation, financial management, democratic governance training, and ongoing mentorship for worker co-ops
 - Shared back-office services (payroll, accounting, HR) for co-ops under 25 workers, reducing the administrative burden that kills small cooperatives
 - Modeled on the Cleveland Evergreen Cooperatives (320 workers across multiple co-ops anchored by hospital and university purchasing) and the Preston Model (UK)
 
 **Legacy Business Conversion Pipeline**
+
 - This is the most urgent component. Nearly **50% of U.S. small businesses are owned by people at retirement age**, and 80% of them will be unable to find a buyer (DAWI, 2025). In Denver, that translates to thousands of businesses (restaurants, shops, contractors, service providers) at risk of closing permanently within the next decade. Employee buyouts preserve jobs, keep businesses local, and build worker wealth.
 - **Conversion assistance program:** Help retiring small business owners sell their businesses to employees rather than to chains or private equity. The city provides: legal structuring for employee ownership trusts (EOTs) and worker cooperatives, financing through the micro-loan fund, and 18 months of transition mentorship.
 - **Conversion tax incentive:** Property tax abatement for 3 years for businesses that convert to worker ownership. Revenue cost is minimal; alternative is business closure and vacant storefronts.
@@ -81,21 +85,25 @@ Denver should build a full cooperative ecosystem, modeled on the most successful
 - **Target: 50 legacy business conversions in the first 3 years.**
 
 **Dedicated City Cooperative Liaison**
+
 - A dedicated staff position within Denver Economic Development & Opportunity (DEDO) with cooperative development expertise, modeled on Santa Ana, CA, which designated a City Liaison to remove barriers, identify incentives, and connect cooperatives to city programs
 - The liaison coordinates across city departments: procurement, permitting, workforce development, and the cooperative incubator
 - Annual cooperative economy report: number of co-ops, worker-owners, revenue, and sectors served, published publicly
 
 **Procurement Preferences**
+
 - 5% bid preference on city procurement contracts for cooperatives, putting public money behind democratic business models
 - Anchor institution strategy: partner with Denver Health, DPS, Denver International Airport, and CU Denver to direct institutional purchasing toward local cooperatives, following the Cleveland Evergreen model adapted for Denver's anchor institutions
 - Break large institutional service contracts (laundry, food service, janitorial, landscaping) into cooperative-accessible lots
 
 **Cooperative Finance**
+
 - Dedicated cooperative loan fund within the [Bank of Denver](/platform/public-banking) (once established), because cooperatives need patient capital with flexible terms that traditional banks do not provide
 - Cooperative development grants: $10,000-$50,000 startup grants for new cooperatives, funded through the micro-loan revolving fund
 - CDFI partnerships specifically for cooperative financing
 
 ### 4. Local-First City Procurement
+
 - 10% bid preference for Denver-based businesses on all city contracts
 - Break large contracts into smaller lots accessible to small businesses. A $10M contract that only national firms can bid on should be ten $1M contracts
 - Prompt payment mandate: city pays all invoices within 30 days (many cities and agencies routinely take 90+ days, which destroys small business cash flow)
@@ -103,6 +111,7 @@ Denver should build a full cooperative ecosystem, modeled on the most successful
 - Annual public reporting on procurement demographics: what percentage of city dollars goes to local businesses, BIPOC-owned businesses, small businesses, and cooperatives
 
 ### 5. Micro-Loan & Capital Access
+
 - City-backed micro-loan fund for businesses under $250K revenue, offering 0-3% interest loans, because 77% of small businesses are rejected by big banks
 - Priority access for BIPOC, immigrant, and women-owned businesses, closing the startup capital gap where Black entrepreneurs start with one-third the capital of white entrepreneurs
 - Technical assistance paired with every loan: business planning, accounting, marketing, and legal support, because capital alone is not enough (SBA Office of Advocacy and SCORE (2024 Mentoring Impact Report) data shows failure rates drop dramatically with mentorship and support)
@@ -110,6 +119,7 @@ Denver should build a full cooperative ecosystem, modeled on the most successful
 - Community Development Financial Institution (CDFI) partnerships to leverage federal funds and private capital alongside city investment
 
 ### 6. Anti-Monopoly & Local Competition
+
 - Franchise and chain density limits in neighborhood commercial districts: no more than 20% of ground-floor commercial space in a district can be occupied by formula businesses
 - Formula business restrictions requiring special review for chains with 10+ locations seeking to open in designated neighborhood commercial zones
 - Support for local business associations and business improvement districts with city matching funds
@@ -117,13 +127,13 @@ Denver should build a full cooperative ecosystem, modeled on the most successful
 
 ### International Evidence: Cooperative Economics & Local Business
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Mondragon, Spain** | World's largest worker cooperative network. 260+ cooperatives across manufacturing, retail, finance, and agriculture. Democratic governance with pay ratios capped at 5:1. | 80,000+ workers. During Spain's 25%+ unemployment crisis, the Basque region kept jobless rates at half the national average. Not a single worker was fired in the 2008 recession. 97% cooperative survival rate over 30 years. |
-| **Preston, UK** | Preston Model: redirected anchor institution procurement to local businesses. Community wealth building strategy launched in 2012 after collapse of a proposed shopping mall. | £74M redirected back into the Preston economy. Local procurement spend rose from 5% to 18.2%. 4,500 new jobs created. Unemployment fell from 6.5% to 3.1%. Named "Most Improved City in the UK" by PwC (2017). |
-| **Cleveland, OH** | Evergreen Cooperatives: anchor institution procurement model linking hospitals and universities to local worker co-ops for laundry, food, and energy services. | 320 worker-owners across multiple cooperatives. Grew during COVID when other small businesses closed. Evergreen Cooperative Laundry tripled in size after landing Cleveland Clinic contract. Model replicated in cities across the US. |
-| **Emilia Romagna, Italy** | Cooperative economy centered on Bologna. Two out of three residents are co-op members. Co-ops produce 30% of regional GDP. 85% of Bologna's social services delivered through co-ops. | Per capita income rose from 17th to 2nd among Italy's 20 regions. 50% higher than the national average. Lowest inequality levels in Italy. 5,681 active cooperatives in the region. |
-| **Portland, OR** | Advance Portland: five-year inclusive economic development strategy (adopted 2023). Anti-Displacement Action Plan. TIF districts redirecting property tax increases to community investment. | Targeted investment in East Portland and Central City. Cully TIF district used as national model for equitable growth. Formula business restrictions in neighborhood districts. Explicit anti-displacement framework linking housing, transit, and economic development. |
+| Country/City              | Model                                                                                                                                                                                        | Result                                                                                                                                                                                                                                                                   |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Mondragon, Spain**      | World's largest worker cooperative network. 260+ cooperatives across manufacturing, retail, finance, and agriculture. Democratic governance with pay ratios capped at 5:1.                   | 80,000+ workers. During Spain's 25%+ unemployment crisis, the Basque region kept jobless rates at half the national average. Not a single worker was fired in the 2008 recession. 97% cooperative survival rate over 30 years.                                           |
+| **Preston, UK**           | Preston Model: redirected anchor institution procurement to local businesses. Community wealth building strategy launched in 2012 after collapse of a proposed shopping mall.                | £74M redirected back into the Preston economy. Local procurement spend rose from 5% to 18.2%. 4,500 new jobs created. Unemployment fell from 6.5% to 3.1%. Named "Most Improved City in the UK" by PwC (2017).                                                           |
+| **Cleveland, OH**         | Evergreen Cooperatives: anchor institution procurement model linking hospitals and universities to local worker co-ops for laundry, food, and energy services.                               | 320 worker-owners across multiple cooperatives. Grew during COVID when other small businesses closed. Evergreen Cooperative Laundry tripled in size after landing Cleveland Clinic contract. Model replicated in cities across the US.                                   |
+| **Emilia Romagna, Italy** | Cooperative economy centered on Bologna. Two out of three residents are co-op members. Co-ops produce 30% of regional GDP. 85% of Bologna's social services delivered through co-ops.        | Per capita income rose from 17th to 2nd among Italy's 20 regions. 50% higher than the national average. Lowest inequality levels in Italy. 5,681 active cooperatives in the region.                                                                                      |
+| **Portland, OR**          | Advance Portland: five-year inclusive economic development strategy (adopted 2023). Anti-Displacement Action Plan. TIF districts redirecting property tax increases to community investment. | Targeted investment in East Portland and Central City. Cully TIF district used as national model for equitable growth. Formula business restrictions in neighborhood districts. Explicit anti-displacement framework linking housing, transit, and economic development. |
 
 The local spending multiplier is the most important number in economic development. Studies by Civic Economics and the Institute for Local Self-Reliance consistently find that 52.9% of each purchase at a local independent business recirculates in the local economy, compared to just 13.6% at chain stores. A study in Portland, Maine estimated that shifting just 10% of consumer spending from chains to local businesses would generate $127 million in additional local economic activity. The New Economics Foundation (UK) found that every ten pounds spent at a local food business was worth twenty-five pounds to the local economy, compared to fourteen pounds at a supermarket chain. The Federal Reserve Bank of Atlanta found a strong correlation between higher shares of local small businesses and lower poverty rates. This is not a feel-good "shop local" message. It is economic math.
 

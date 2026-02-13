@@ -3,53 +3,53 @@ interface Env {
 }
 
 const ALLOWED_ORIGINS = [
-  "https://denverforall.org",
-  "https://www.denverforall.org",
-  "http://localhost:4321",
-  "http://localhost:3000",
+  'https://denverforall.org',
+  'https://www.denverforall.org',
+  'http://localhost:4321',
+  'http://localhost:3000',
 ];
 
 function getCorsOrigin(request: Request): string {
-  const origin = request.headers.get("Origin") || "";
+  const origin = request.headers.get('Origin') || '';
   return ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
 }
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
   const allowedOrigin = getCorsOrigin(context.request);
   const corsHeaders = {
-    "Access-Control-Allow-Origin": allowedOrigin,
-    "Access-Control-Allow-Methods": "POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
+    'Access-Control-Allow-Origin': allowedOrigin,
+    'Access-Control-Allow-Methods': 'POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type',
   };
 
   const formData = await context.request.formData();
-  const email = formData.get("email");
+  const email = formData.get('email');
 
-  if (!email || typeof email !== "string") {
-    return new Response(JSON.stringify({ error: "Email is required" }), {
+  if (!email || typeof email !== 'string') {
+    return new Response(JSON.stringify({ error: 'Email is required' }), {
       status: 400,
-      headers: { "Content-Type": "application/json", ...corsHeaders },
+      headers: { 'Content-Type': 'application/json', ...corsHeaders },
     });
   }
 
   if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-    return new Response(JSON.stringify({ error: "Invalid email address" }), {
+    return new Response(JSON.stringify({ error: 'Invalid email address' }), {
       status: 400,
-      headers: { "Content-Type": "application/json", ...corsHeaders },
+      headers: { 'Content-Type': 'application/json', ...corsHeaders },
     });
   }
 
   try {
-    const res = await fetch("https://api.resend.com/emails", {
-      method: "POST",
+    const res = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
       headers: {
         Authorization: `Bearer ${context.env.RESEND_API_KEY}`,
-        "Content-Type": "application/json",
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        from: "Denver For All <info@denverforall.org>",
+        from: 'Denver For All <info@denverforall.org>',
         to: [email],
-        subject: "Welcome to Denver For All",
+        subject: 'Welcome to Denver For All',
         html: `
           <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 560px; margin: 0 auto; padding: 2rem;">
             <h1 style="font-size: 1.5rem; color: #1a1a2e;">Welcome to Denver For All</h1>
@@ -77,23 +77,20 @@ export const onRequestPost: PagesFunction<Env> = async (context) => {
     });
 
     if (!res.ok) {
-      return new Response(
-        JSON.stringify({ error: "Failed to send confirmation email" }),
-        {
-          status: 502,
-          headers: { "Content-Type": "application/json", ...corsHeaders },
-        }
-      );
+      return new Response(JSON.stringify({ error: 'Failed to send confirmation email' }), {
+        status: 502,
+        headers: { 'Content-Type': 'application/json', ...corsHeaders },
+      });
     }
 
     return new Response(JSON.stringify({ success: true }), {
       status: 200,
-      headers: { "Content-Type": "application/json", ...corsHeaders },
+      headers: { 'Content-Type': 'application/json', ...corsHeaders },
     });
   } catch (_err) {
-    return new Response(JSON.stringify({ error: "Internal server error" }), {
+    return new Response(JSON.stringify({ error: 'Internal server error' }), {
       status: 500,
-      headers: { "Content-Type": "application/json", ...corsHeaders },
+      headers: { 'Content-Type': 'application/json', ...corsHeaders },
     });
   }
 };
@@ -103,9 +100,9 @@ export const onRequestOptions: PagesFunction = async (context) => {
   return new Response(null, {
     status: 204,
     headers: {
-      "Access-Control-Allow-Origin": allowedOrigin,
-      "Access-Control-Allow-Methods": "POST, OPTIONS",
-      "Access-Control-Allow-Headers": "Content-Type",
+      'Access-Control-Allow-Origin': allowedOrigin,
+      'Access-Control-Allow-Methods': 'POST, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type',
     },
   });
 };

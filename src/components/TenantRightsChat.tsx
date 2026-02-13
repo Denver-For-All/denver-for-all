@@ -7,7 +7,8 @@ const PUBLIC_KEY = '681f6772-b3b2-4ab1-a90b-81670bc5ed31';
 const translations = {
   en: {
     title: 'Tenant Rights Assistant',
-    chatFirstMessage: "Hi! I'm the Denver For All tenant rights assistant. I can help you understand your rights as a Denver renter. Ask me about eviction, repairs, deposits, discrimination, or anything else.",
+    chatFirstMessage:
+      "Hi! I'm the Denver For All tenant rights assistant. I can help you understand your rights as a Denver renter. Ask me about eviction, repairs, deposits, discrimination, or anything else.",
     chatPlaceholder: 'Type your question...',
     startButtonText: 'Call to Talk',
     endButtonText: 'End Call',
@@ -16,7 +17,8 @@ const translations = {
   },
   es: {
     title: 'Asistente de Derechos del Inquilino',
-    chatFirstMessage: '¡Hola! Soy el asistente de derechos del inquilino de Denver Para Todos. Puedo ayudarte a entender tus derechos como inquilino en Denver. Pregúntame sobre desalojos, reparaciones, depósitos, discriminación o cualquier otra cosa.',
+    chatFirstMessage:
+      '¡Hola! Soy el asistente de derechos del inquilino de Denver Para Todos. Puedo ayudarte a entender tus derechos como inquilino en Denver. Pregúntame sobre desalojos, reparaciones, depósitos, discriminación o cualquier otra cosa.',
     chatPlaceholder: 'Escribe tu pregunta...',
     startButtonText: 'Llamar para Hablar',
     endButtonText: 'Terminar Llamada',

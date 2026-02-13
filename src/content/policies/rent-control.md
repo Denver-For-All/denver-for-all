@@ -1,47 +1,47 @@
 ---
-title: "Denver Rent Stabilization Act"
-titleEs: "Ley de Estabilización de Alquileres de Denver"
-summary: "Hard cap on rent increases at CPI or 3%, whichever is lower. No vacancy decontrol. No loopholes. Real protection for every Denver renter."
-summaryEs: "Límite estricto en aumentos de alquiler al IPC o 3%, lo que sea menor. Sin descontrol por vacancia. Sin lagunas. Protección real para cada inquilino de Denver."
-category: "housing"
-icon: "shield-check"
+title: 'Denver Rent Stabilization Act'
+titleEs: 'Ley de Estabilización de Alquileres de Denver'
+summary: 'Hard cap on rent increases at CPI or 3%, whichever is lower. No vacancy decontrol. No loopholes. Real protection for every Denver renter.'
+summaryEs: 'Límite estricto en aumentos de alquiler al IPC o 3%, lo que sea menor. Sin descontrol por vacancia. Sin lagunas. Protección real para cada inquilino de Denver.'
+category: 'housing'
+icon: 'shield-check'
 order: 2
-status: "draft"
-actionTarget: "state"
+status: 'draft'
+actionTarget: 'state'
 petition:
-  url: "https://resist.bot/petitions/PJZTYT"
-  code: "PJZTYT"
+  url: 'https://resist.bot/petitions/PJZTYT'
+  code: 'PJZTYT'
   title: "Repeal Colorado's Rent Control Ban"
-  titleEs: "Derogar la Prohibición de Control de Alquiler de Colorado"
+  titleEs: 'Derogar la Prohibición de Control de Alquiler de Colorado'
 hasFundingSources: true
 keyStats:
-  - value: "85%"
-    label: "rent increase since 2010"
-    labelEs: "aumento de alquiler desde 2010"
-    context: "Denver rents have outpaced inflation by 3x over the last 15 years"
-    contextEs: "Los alquileres de Denver han superado la inflacion por 3x en los ultimos 15 anos"
-    source: "Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood MSA"
-    theme: "danger"
-  - value: "$1,600+"
-    label: "average 1-bedroom rent"
-    labelEs: "alquiler promedio de 1 dormitorio"
+  - value: '85%'
+    label: 'rent increase since 2010'
+    labelEs: 'aumento de alquiler desde 2010'
+    context: 'Denver rents have outpaced inflation by 3x over the last 15 years'
+    contextEs: 'Los alquileres de Denver han superado la inflacion por 3x en los ultimos 15 anos'
+    source: 'Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood MSA'
+    theme: 'danger'
+  - value: '$1,600+'
+    label: 'average 1-bedroom rent'
+    labelEs: 'alquiler promedio de 1 dormitorio'
     context: "A worker earning Denver's minimum wage spends over 50% of income on a 1-bedroom"
-    contextEs: "Un trabajador con salario minimo de Denver gasta mas del 50% de ingresos en un dormitorio"
-    source: "ApartmentList National Rent Report, 2024"
-    theme: "accent"
-  - value: "0"
-    label: "rent stabilization protections in Colorado"
-    labelEs: "protecciones de estabilizacion de alquiler en Colorado"
-    context: "State law CRS 38-12-301 (since 1981) bans ALL local rent control. 4 repeal attempts have failed."
-    contextEs: "La ley estatal CRS 38-12-301 (desde 1981) prohibe TODO control de alquiler local. 4 intentos de derogacion han fallado."
-    theme: "danger"
-  - value: "150K+"
-    label: "rental units affected"
-    labelEs: "unidades de alquiler afectadas"
-    context: "Over 50% of Denver residents are renters with zero protection against arbitrary increases"
-    contextEs: "Mas del 50% de residentes de Denver son inquilinos sin proteccion contra aumentos arbitrarios"
-    source: "American Community Survey, 2022"
-    theme: "primary"
+    contextEs: 'Un trabajador con salario minimo de Denver gasta mas del 50% de ingresos en un dormitorio'
+    source: 'ApartmentList National Rent Report, 2024'
+    theme: 'accent'
+  - value: '0'
+    label: 'rent stabilization protections in Colorado'
+    labelEs: 'protecciones de estabilizacion de alquiler en Colorado'
+    context: 'State law CRS 38-12-301 (since 1981) bans ALL local rent control. 4 repeal attempts have failed.'
+    contextEs: 'La ley estatal CRS 38-12-301 (desde 1981) prohibe TODO control de alquiler local. 4 intentos de derogacion han fallado.'
+    theme: 'danger'
+  - value: '150K+'
+    label: 'rental units affected'
+    labelEs: 'unidades de alquiler afectadas'
+    context: 'Over 50% of Denver residents are renters with zero protection against arbitrary increases'
+    contextEs: 'Mas del 50% de residentes de Denver son inquilinos sin proteccion contra aumentos arbitrarios'
+    source: 'American Community Survey, 2022'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -62,13 +62,13 @@ Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow
 
 The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to rent stabilization in Denver. Here's the recent legislative history:
 
-| Year | Bill | Outcome |
-|------|------|---------|
-| 2019 | SB19-225 | Failed in committee |
-| 2023 | **HB23-1115** | Passed House 40-24; killed 4-3 in Senate committee (Sen. Dylan Roberts, D-Avon, voted with 3 Republicans) |
-| 2024 | Preemption repeal | Did not advance past committee |
-| 2025 | No repeal introduced | Session focused on junk fees ban, algorithm rent-setting ban |
-| 2026 | TBD | Session underway; no repeal bill identified yet as of February 2026 |
+| Year | Bill                 | Outcome                                                                                                   |
+| ---- | -------------------- | --------------------------------------------------------------------------------------------------------- |
+| 2019 | SB19-225             | Failed in committee                                                                                       |
+| 2023 | **HB23-1115**        | Passed House 40-24; killed 4-3 in Senate committee (Sen. Dylan Roberts, D-Avon, voted with 3 Republicans) |
+| 2024 | Preemption repeal    | Did not advance past committee                                                                            |
+| 2025 | No repeal introduced | Session focused on junk fees ban, algorithm rent-setting ban                                              |
+| 2026 | TBD                  | Session underway; no repeal bill identified yet as of February 2026                                       |
 
 **Key allies:** Rep. Javier Mabrey (D-Denver), Rep. Jennifer Bacon (D-Denver), Sen. Sonya Jaquez Lewis, Sen. Julie Gonzales. **Key obstacle:** Governor Polis (term-limited 2027).
 
@@ -83,6 +83,7 @@ The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to r
 **Universal coverage.** Applies to ALL rental units in Denver, regardless of building age, size, or type. No exemptions for new construction (after a 15-year initial window to allow developers to recoup costs), no exemptions for single-unit landlords, no exemptions for luxury units.
 
 **Just cause eviction.** Landlords can only evict for:
+
 - Nonpayment of rent (with 30-day cure period)
 - Material lease violation (with cure period)
 - Owner move-in (verified, with relocation assistance)
@@ -97,13 +98,13 @@ The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to r
 
 ### International Evidence: This Works
 
-| Country/City | Rent Control Model | Result |
-|-------------|-------------------|--------|
-| **Vienna, Austria** | Rent caps on 60% of housing stock. No vacancy decontrol. | Average rent: €5-7/sqm. Virtually no homelessness. Housing is not a financial crisis for any Viennese resident. |
-| **Germany (*Mietpreisbremse*)** | New rents cannot exceed 10% above local reference rent (*Mietspiegel*). Annual increases capped at 15-20% over 3 years. | Slowed rent increases in Berlin, Hamburg, and Munich. Challenges remain with enforcement but model is sound. |
-| **Sweden (*Hyreslagen*)** | All rents negotiated between tenant unions and landlord associations. No individual rent-setting. | Rents are 40-60% below what market rates would be. Quality remains high. Waitlists exist (demand for affordable housing is infinite). |
-| **Netherlands** | Point-based rent system - rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum. | Transparent, objective rent-setting. No landlord discretion. |
-| **Paris, France (*Encadrement des loyers*)** | Rent caps based on neighborhood reference rents. | Slowed rapid gentrification in central Paris. |
+| Country/City                                 | Rent Control Model                                                                                                      | Result                                                                                                                                |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vienna, Austria**                          | Rent caps on 60% of housing stock. No vacancy decontrol.                                                                | Average rent: €5-7/sqm. Virtually no homelessness. Housing is not a financial crisis for any Viennese resident.                       |
+| **Germany (_Mietpreisbremse_)**              | New rents cannot exceed 10% above local reference rent (_Mietspiegel_). Annual increases capped at 15-20% over 3 years. | Slowed rent increases in Berlin, Hamburg, and Munich. Challenges remain with enforcement but model is sound.                          |
+| **Sweden (_Hyreslagen_)**                    | All rents negotiated between tenant unions and landlord associations. No individual rent-setting.                       | Rents are 40-60% below what market rates would be. Quality remains high. Waitlists exist (demand for affordable housing is infinite). |
+| **Netherlands**                              | Point-based rent system - rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum.  | Transparent, objective rent-setting. No landlord discretion.                                                                          |
+| **Paris, France (_Encadrement des loyers_)** | Rent caps based on neighborhood reference rents.                                                                        | Slowed rapid gentrification in central Paris.                                                                                         |
 
 **The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment - and it's failed. Cities that rely purely on the market consistently develop housing affordability crises. Cities with strong rent regulation have more stable, affordable housing -- though regulation alone is not sufficient without supply investment.
 
@@ -112,6 +113,7 @@ The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to r
 This is the policy detail that makes or breaks rent control. Here's why:
 
 **With vacancy decontrol** (the weak model):
+
 - Landlord has unit rented at $1,200
 - Can only raise rent 3%/year while tenant stays
 - Tenant leaves (or is pressured to leave)
@@ -119,6 +121,7 @@ This is the policy detail that makes or breaks rent control. Here's why:
 - **Result:** Landlords are incentivized to push tenants out
 
 **Without vacancy decontrol** (our model):
+
 - Landlord has unit rented at $1,200
 - Can only raise rent 3%/year
 - Tenant leaves
@@ -137,7 +140,7 @@ Rent stabilization **costs the city almost nothing** to implement. It's a regula
 ## Frequently Asked Questions
 
 **"Won't rent control reduce housing supply?"**
-The Stanford study that rent control opponents love to cite (Diamond et al., 2019) studied San Francisco's rent control *with vacancy decontrol*. Landlords converted rentals to condos to escape the cap. Our plan has no vacancy decontrol - removing that incentive entirely. Additionally, the most comprehensive meta-analyses show that well-designed rent control reduces displacement without reducing supply when paired with construction incentives.
+The Stanford study that rent control opponents love to cite (Diamond et al., 2019) studied San Francisco's rent control _with vacancy decontrol_. Landlords converted rentals to condos to escape the cap. Our plan has no vacancy decontrol - removing that incentive entirely. Additionally, the most comprehensive meta-analyses show that well-designed rent control reduces displacement without reducing supply when paired with construction incentives.
 
 **"Landlords will stop maintaining buildings."**
 The act includes habitability enforcement and allows landlords to petition for above-cap increases specifically for capital improvements (new roof, new plumbing, etc.) - but not cosmetic upgrades. This is standard in functioning rent control systems worldwide.
@@ -153,18 +156,23 @@ Colorado's rent control preemption is a political choice, not a constitutional o
 The 1981 preemption (CRS § 38-12-301) is the single legal obstacle blocking Denver's Rent Stabilization Act. We're pursuing multiple paths simultaneously:
 
 ### Track 1: Denver Trigger Ordinance (2026)
+
 Pass a Denver rent stabilization ordinance that **automatically takes effect** the moment state preemption is repealed. This demonstrates political will, creates a ready framework, and pressures state legislators.
 
 ### Track 2: Amended State Bill (2026-2027)
+
 Work with Rep. Mabrey and Rep. Bacon to introduce a strengthened version of HB23-1115 that addresses the specific objections that killed it — mountain town spillover concerns (add population thresholds), development worries (strengthen new construction exemptions), and vacation rental conversion (add anti-conversion provisions).
 
 ### Track 3: Statewide Coalition (2026-2027)
+
 Build a multi-city coalition with Boulder, Aurora, Colorado Springs, and mountain towns. A unified statewide demand is harder for the legislature to dismiss than a "Denver issue."
 
 ### Track 4: New Governor Window (2027)
+
 Polis is term-limited. A new governor in January 2027 creates the most favorable window for a preemption repeal bill since 1981.
 
 ### Track 5: State Ballot Initiative (2028 backup)
+
 If the legislature fails again, Colorado's citizen initiative process lets voters repeal the preemption directly, bypassing both the legislature and the governor.
 
 ---

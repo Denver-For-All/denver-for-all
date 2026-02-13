@@ -6,11 +6,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://denverforall.org',
   output: 'static',
-  integrations: [
-    react(),
-    icon(),
-    sitemap(),
-  ],
+  integrations: [react(), icon(), sitemap()],
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'es'],

@@ -1,35 +1,35 @@
 ---
-title: "Anti-Displacement Zones"
-titleEs: "Zonas Anti-Desplazamiento"
-summary: "Protect communities around transit stations and development areas. No more building light rail to gentrify neighborhoods."
-summaryEs: "Proteger comunidades alrededor de estaciones de tránsito y áreas de desarrollo. No más construcción de tren ligero para gentrificar vecindarios."
-category: "housing"
-icon: "map-pin"
+title: 'Anti-Displacement Zones'
+titleEs: 'Zonas Anti-Desplazamiento'
+summary: 'Protect communities around transit stations and development areas. No more building light rail to gentrify neighborhoods.'
+summaryEs: 'Proteger comunidades alrededor de estaciones de tránsito y áreas de desarrollo. No más construcción de tren ligero para gentrificar vecindarios.'
+category: 'housing'
+icon: 'map-pin'
 order: 7
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "1/2 mile"
-    label: "from new stations, rents spike"
-    labelEs: "de nuevas estaciones, los alquileres se disparan"
-    context: "Denver builds transit, then the people it was meant to serve get displaced"
-    contextEs: "Denver construye transito y luego las personas a las que debia servir son desplazadas"
-    source: "Federal Reserve Bank of Philadelphia, 2019"
-    theme: "danger"
-  - value: "8-15%"
-    label: "affordable units currently required"
-    labelEs: "unidades asequibles actualmente requeridas"
+  - value: '1/2 mile'
+    label: 'from new stations, rents spike'
+    labelEs: 'de nuevas estaciones, los alquileres se disparan'
+    context: 'Denver builds transit, then the people it was meant to serve get displaced'
+    contextEs: 'Denver construye transito y luego las personas a las que debia servir son desplazadas'
+    source: 'Federal Reserve Bank of Philadelphia, 2019'
+    theme: 'danger'
+  - value: '8-15%'
+    label: 'affordable units currently required'
+    labelEs: 'unidades asequibles actualmente requeridas'
     context: "The current mandate is a fraction of what's needed. Our proposal requires 30%."
-    contextEs: "El mandato actual es una fraccion de lo necesario. Nuestra propuesta requiere el 30%."
-    source: "Denver EHA ordinance"
-    theme: "accent"
-  - value: "30%"
-    label: "mandatory affordable units in new builds"
-    labelEs: "unidades asequibles obligatorias en nuevas construcciones"
-    context: "On-site, no fee-in-lieu. Barcelona and Montreal already do this successfully."
-    contextEs: "En el sitio, sin pago sustituto. Barcelona y Montreal ya lo hacen con exito."
-    theme: "primary"
+    contextEs: 'El mandato actual es una fraccion de lo necesario. Nuestra propuesta requiere el 30%.'
+    source: 'Denver EHA ordinance'
+    theme: 'accent'
+  - value: '30%'
+    label: 'mandatory affordable units in new builds'
+    labelEs: 'unidades asequibles obligatorias en nuevas construcciones'
+    context: 'On-site, no fee-in-lieu. Barcelona and Montreal already do this successfully.'
+    contextEs: 'En el sitio, sin pago sustituto. Barcelona y Montreal ya lo hacen con exito.'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -44,7 +44,7 @@ Denver has limited anti-displacement tools. The Expanding Housing Affordability 
 
 A 2019 study by the Federal Reserve Bank of Philadelphia found that Denver light rail expansion was associated with significant rent increases within one-half mile of new stations, with displacement concentrated among lower-income residents and communities of color. The pattern is clear and documented: Denver builds transit, and the people it was meant to serve can no longer afford to live near it.
 
-There are models of what development *should* look like in these corridors. In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community at 3270 W. Colfax Ave. — right in the West Colfax neighborhood, one of Denver's most rapidly gentrifying areas. With affordability guaranteed for 99 years through a community land trust, The Irving demonstrates that new development along transit corridors can serve existing residents instead of displacing them (Colorado Politics, January 22, 2026). But without mandatory anti-displacement protections, projects like The Irving remain the exception rather than the rule.
+There are models of what development _should_ look like in these corridors. In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community at 3270 W. Colfax Ave. — right in the West Colfax neighborhood, one of Denver's most rapidly gentrifying areas. With affordability guaranteed for 99 years through a community land trust, The Irving demonstrates that new development along transit corridors can serve existing residents instead of displacing them (Colorado Politics, January 22, 2026). But without mandatory anti-displacement protections, projects like The Irving remain the exception rather than the rule.
 
 ## Our Solution
 
@@ -75,13 +75,13 @@ Primarily regulatory (minimal direct cost). CBA requirements are funded by devel
 
 ### International Evidence: Development Without Displacement
 
-| City/Country | Model | Result |
-|-------------|-------|--------|
-| **Vienna, Austria** | All new residential development must include affordable units. City is the largest landowner and controls development through land policy. | Development continues at scale; no displacement crisis. Public housing and affordable mandates are the default, not the exception. |
-| **Barcelona, Spain** | 30% affordable housing requirement for all new developments over 600 sqm. Anti-tourist-apartment regulations to protect residents. | Aggressive approach to housing as a right. Development continues while protecting existing communities. |
-| **Montreal, Canada** | Inclusionary zoning requiring 20-30% affordable units in new developments. City acquires buildings to prevent speculation. | Among the most affordable major cities in North America despite being highly desirable. |
-| **Singapore** | Government controls 80%+ of land. All development occurs on terms that serve the public, not speculators. | Highest homeownership rate in the world. Development serves residents because the public controls the land. |
-| **Portland, OR** | Anti-displacement zones around transit. Mandatory relocation assistance. Community benefit agreements. | Among the strongest anti-displacement frameworks in the US. Model for linking transit investment to community protection. |
+| City/Country         | Model                                                                                                                                      | Result                                                                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Vienna, Austria**  | All new residential development must include affordable units. City is the largest landowner and controls development through land policy. | Development continues at scale; no displacement crisis. Public housing and affordable mandates are the default, not the exception. |
+| **Barcelona, Spain** | 30% affordable housing requirement for all new developments over 600 sqm. Anti-tourist-apartment regulations to protect residents.         | Aggressive approach to housing as a right. Development continues while protecting existing communities.                            |
+| **Montreal, Canada** | Inclusionary zoning requiring 20-30% affordable units in new developments. City acquires buildings to prevent speculation.                 | Among the most affordable major cities in North America despite being highly desirable.                                            |
+| **Singapore**        | Government controls 80%+ of land. All development occurs on terms that serve the public, not speculators.                                  | Highest homeownership rate in the world. Development serves residents because the public controls the land.                        |
+| **Portland, OR**     | Anti-displacement zones around transit. Mandatory relocation assistance. Community benefit agreements.                                     | Among the strongest anti-displacement frameworks in the US. Model for linking transit investment to community protection.          |
 
 **The lesson is simple:** development is not inherently harmful. Development without public benefit requirements is. Every city that mandates affordability and community benefit alongside development gets both growth and stability.
 

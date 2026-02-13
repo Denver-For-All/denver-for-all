@@ -28,12 +28,14 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 ### Target Groups
 
 **Tier 1 (high activity, issue-aligned):**
+
 - Denver Community Forum / Denver Colorado Community (general city discussion, 50K+ members)
 - Denver Renters / Denver Housing groups (housing-focused)
 - Denver Parents / Denver Moms groups (childcare, education, cost-of-living angles)
 - Denver Politics discussion groups
 
 **Tier 2 (neighborhood-specific, useful for hyperlocal issues):**
+
 - Montbello / Green Valley Ranch / Far Northeast Denver groups (underserved areas, healthcare gaps)
 - Globeville / Elyria-Swansea / RiNo groups (displacement, gentrification)
 - Capitol Hill / Baker / Barnum groups (high renter density)
@@ -41,6 +43,7 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 - Westwood / Athmar Park / Southwest Denver groups (bilingual communities)
 
 **Tier 3 (professional/identity-based):**
+
 - Denver small business owner groups (small business policy angle)
 - Denver teacher / education worker groups (wages, childcare)
 - Denver service industry / restaurant worker groups (tipped wage, living wage)
@@ -148,16 +151,19 @@ Op-eds and letters to the editor reach politically engaged Denver residents, get
 ### Target Outlets
 
 **Tier 1 (highest reach, hardest placement):**
+
 - **The Denver Post** — Op-eds (750-800 words), Letters to Editor (200 words). Email: opinion@denverpost.com
 - **Colorado Sun** — Guest commentary (800-1000 words). More progressive, data-friendly editorial stance.
 - **Denverite** — Community voices, neighborhood reporting angles. Most accessible for first-time writers.
 
 **Tier 2 (targeted reach, easier placement):**
+
 - **Westword** — Longform opinion, investigative angles. Good for provocative framings.
 - **Colorado Newsline** — State politics angle, legislative strategy pieces.
 - **Colorado Public Radio / CPR News** — Commentary section, less frequent but high credibility.
 
 **Tier 3 (hyperlocal, low barrier):**
+
 - **North Denver Tribune**, **Greater Park Hill News**, **Southwest Denver Coalition newsletter**
 - **Denver Voice** (street newspaper — direct reach to homeless and low-income population)
 - Neighborhood association newsletters (direct pitch to editors)
@@ -165,6 +171,7 @@ Op-eds and letters to the editor reach politically engaged Denver residents, get
 ### Op-Ed Strategy
 
 **Timing is everything.** Don't pitch cold. Pitch when:
+
 - A relevant news story breaks (rent increase data, council vote, sweep, Comcast outage)
 - A legislative session is active (state preemption repeal attempts)
 - Budget season (city budget debates — participatory budgeting angle)
@@ -250,6 +257,7 @@ Case study format comparing Denver to a city that's implemented a policy you adv
 > - Thousands of existing LIHTC units are approaching expiration right now
 >
 > For comparison:
+>
 > - Vienna's social housing program builds permanently affordable units at significantly lower per-unit costs through public ownership
 > - The units never expire because the city owns them
 > - Vienna's program is self-sustaining through rental revenue
@@ -266,13 +274,13 @@ Case study format comparing Denver to a city that's implemented a policy you adv
 
 > I keep seeing Comcast complaint threads so here's a comparison that makes me want to scream:
 >
-> | | Longmont NextLight | Denver (Comcast) |
-> |---|---|---|
-> | Gigabit price | $50/month | $80-120/month |
-> | Data caps | None | Yes |
-> | Customer satisfaction | 90%+ | LOL |
-> | Public ownership | Yes | No |
-> | Profitable | Yes (within 5 years) | N/A |
+> |                       | Longmont NextLight   | Denver (Comcast) |
+> | --------------------- | -------------------- | ---------------- |
+> | Gigabit price         | $50/month            | $80-120/month    |
+> | Data caps             | None                 | Yes              |
+> | Customer satisfaction | 90%+                 | LOL              |
+> | Public ownership      | Yes                  | No               |
+> | Profitable            | Yes (within 5 years) | N/A              |
 >
 > Denver voters passed Measure 2J in 2018 with **85% approval** authorizing municipal broadband. Fort Collins built theirs despite Comcast spending $150M to stop it.
 >
@@ -291,6 +299,7 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 ### Priority Actions
 
 **Immediate (before any Spanish-language outreach):**
+
 1. Translate the 5 flagship policies in full (not just titles/summaries):
    - Social Housing (La Ley de Vivienda Social de Denver)
    - Rent Stabilization (Ley de Estabilización de Alquileres)
@@ -303,6 +312,7 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 ### Target Channels
 
 **Spanish-language media:**
+
 - **La Voz Bilingüe** — Colorado's oldest bilingual newspaper. Op-eds and community announcements.
 - **Univision Denver / KCEC-TV** — Local Univision affiliate. Press releases for newsworthy policy positions (medical debt, sanctuary city, living wage).
 - **Telemundo Denver / KDEN-TV** — Same as above.
@@ -310,6 +320,7 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 - **Radio stations:** La Tricolor (KBNO 1280 AM), Radio Romantica, other Spanish-language AM/FM stations — call-in opportunities, community bulletin announcements.
 
 **Community organizations (partnership, not competition):**
+
 - **Clinica Tepeyac** — Health services in Globeville/Elyria-Swansea. Healthcare policy alignment.
 - **Centro Humanitario** — Day laborer center. Living wage, gig worker protections alignment.
 - **CIRC (Colorado Immigrant Rights Coalition)** — Immigration policy alignment.
@@ -320,6 +331,7 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 **Approach:** Partner, don't colonize. These organizations have existing trust and relationships. Offer your policy research as a resource they can use in their own advocacy. Don't show up asking them to promote your brand.
 
 **Facebook/WhatsApp groups:**
+
 - Denver-area Latino/Hispanic community Facebook groups
 - Neighborhood WhatsApp groups in Westwood, Athmar Park, Southwest Denver, Globeville/Elyria-Swansea
 - Church and parish community groups (Our Lady of Guadalupe, Presentation of Our Lady, etc.)
@@ -370,6 +382,7 @@ The most persuasive political communication in 2025 is a screenshot or PDF share
 **File size:** Under 500KB (loads fast on mobile data)
 
 **Structure for each one-pager:**
+
 1. **Headline** — The problem in one sentence (large, bold)
 2. **Three numbers** — Key data points with large typography
 3. **What we propose** — 3-4 bullet points, plain language, no jargon
@@ -379,14 +392,14 @@ The most persuasive political communication in 2025 is a screenshot or PDF share
 
 ### Priority One-Pagers to Create
 
-| # | Policy | Headline | Key Numbers |
-|---|--------|----------|-------------|
-| 1 | Social Housing | "Denver spends $500K/unit for temporary affordable housing. There's a better way." | $400-600K per unit subsidy, 15-30 year expiration, 7,500 homeless |
-| 2 | Rent Control | "Your landlord can raise your rent by any amount. There's no limit in Colorado." | 85% rent increase since 2010, $1,600 avg 1BR, zero protection |
-| 3 | Living Wage | "Denver minimum wage: $18.81. Cost of living in Denver: $25-26/hr." | $7/hr gap, $42-44/hr for single parents, MIT data |
-| 4 | Municipal Broadband | "85% of Denver voters said yes to city internet in 2018. We're still paying Comcast." | 85% voter approval, 7 years waiting, $50 vs $100/month |
-| 5 | Medical Debt | "$5 million can forgive $100-500 million in medical debt. Other cities already did it." | Toledo: $240M forgiven for $1.6M, Denver Health sends patients to collections |
-| 6 | STAR Program | "Denver's mental health crisis teams work. They just need funding." | 23,000+ calls, 16% arrest reduction, only 45% of calls covered |
+| #   | Policy              | Headline                                                                                | Key Numbers                                                                   |
+| --- | ------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | Social Housing      | "Denver spends $500K/unit for temporary affordable housing. There's a better way."      | $400-600K per unit subsidy, 15-30 year expiration, 7,500 homeless             |
+| 2   | Rent Control        | "Your landlord can raise your rent by any amount. There's no limit in Colorado."        | 85% rent increase since 2010, $1,600 avg 1BR, zero protection                 |
+| 3   | Living Wage         | "Denver minimum wage: $18.81. Cost of living in Denver: $25-26/hr."                     | $7/hr gap, $42-44/hr for single parents, MIT data                             |
+| 4   | Municipal Broadband | "85% of Denver voters said yes to city internet in 2018. We're still paying Comcast."   | 85% voter approval, 7 years waiting, $50 vs $100/month                        |
+| 5   | Medical Debt        | "$5 million can forgive $100-500 million in medical debt. Other cities already did it." | Toledo: $240M forgiven for $1.6M, Denver Health sends patients to collections |
+| 6   | STAR Program        | "Denver's mental health crisis teams work. They just need funding."                     | 23,000+ calls, 16% arrest reduction, only 45% of calls covered                |
 
 ### Production Options
 
@@ -410,34 +423,34 @@ A sustainable cadence that avoids burnout. One person can maintain this. Two mak
 
 ### Weekly Rhythm
 
-| Day | Channel | Action |
-|-----|---------|--------|
-| Monday | Reddit | Scan r/Denver, r/denverhousing, r/ColoradoPolitics for relevant threads. Drop 1-2 organic comments (per REDDIT-COMMENTS.md style). |
-| Tuesday | Facebook | Check target groups for relevant discussions. Comment on 1-2 threads with substantive responses. |
-| Wednesday | Newsletter | Draft weekly email if there's news to share (council vote, policy update, event). Send Thursday morning. |
-| Thursday | Nextdoor | Post or comment if there's a relevant neighborhood discussion. Max 1 per week. |
-| Friday | Content creation | Write or refine one piece: draft an op-ed, update a one-pager, translate content, prepare next week's Reddit post. |
+| Day       | Channel          | Action                                                                                                                             |
+| --------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Monday    | Reddit           | Scan r/Denver, r/denverhousing, r/ColoradoPolitics for relevant threads. Drop 1-2 organic comments (per REDDIT-COMMENTS.md style). |
+| Tuesday   | Facebook         | Check target groups for relevant discussions. Comment on 1-2 threads with substantive responses.                                   |
+| Wednesday | Newsletter       | Draft weekly email if there's news to share (council vote, policy update, event). Send Thursday morning.                           |
+| Thursday  | Nextdoor         | Post or comment if there's a relevant neighborhood discussion. Max 1 per week.                                                     |
+| Friday    | Content creation | Write or refine one piece: draft an op-ed, update a one-pager, translate content, prepare next week's Reddit post.                 |
 
 ### Monthly Rhythm
 
-| Week | Action |
-|------|--------|
-| Week 1 | Publish one Reddit discussion post or data drop (Section 4) |
-| Week 2 | Submit one op-ed or letter to the editor (Section 3) |
+| Week   | Action                                                                 |
+| ------ | ---------------------------------------------------------------------- |
+| Week 1 | Publish one Reddit discussion post or data drop (Section 4)            |
+| Week 2 | Submit one op-ed or letter to the editor (Section 3)                   |
 | Week 3 | Share one new one-pager to group chats and social channels (Section 6) |
-| Week 4 | Community org outreach: contact one new potential partner (Section 5) |
+| Week 4 | Community org outreach: contact one new potential partner (Section 5)  |
 
 ### Quarterly Rhythm
 
-| Quarter | Action |
-|---------|--------|
-| Q1 | Reddit AMA if comment reputation is established |
-| Q1 | First batch of 3 Spanish-language one-pagers completed |
-| Q2 | All 5 flagship policies fully translated to Spanish |
-| Q2 | First op-ed placed in a Tier 1 outlet |
-| Q3 | 2-3 community org partnerships active |
-| Q3 | Second Reddit AMA or panel-style discussion post |
-| Q4 | Full Spanish-language site parity for flagship content |
+| Quarter | Action                                                 |
+| ------- | ------------------------------------------------------ |
+| Q1      | Reddit AMA if comment reputation is established        |
+| Q1      | First batch of 3 Spanish-language one-pagers completed |
+| Q2      | All 5 flagship policies fully translated to Spanish    |
+| Q2      | First op-ed placed in a Tier 1 outlet                  |
+| Q3      | 2-3 community org partnerships active                  |
+| Q3      | Second Reddit AMA or panel-style discussion post       |
+| Q4      | Full Spanish-language site parity for flagship content |
 
 ---
 
@@ -448,23 +461,27 @@ A sustainable cadence that avoids burnout. One person can maintain this. Two mak
 You're already seeing traffic growth (469 unique visitors, 4.91K requests over 7 days per Cloudflare). Track these to understand what's working:
 
 **Traffic (Cloudflare Analytics):**
+
 - Unique visitors per week (current baseline: ~470)
 - Top referrers (which channels send the most traffic)
 - Top pages (which policies get the most views)
 - Geographic distribution (are visitors in Denver?)
 
 **Engagement:**
+
 - Reddit: upvotes/comments on discussion posts, comment karma on organic comments
 - Facebook: reactions/comments on posts in groups
 - Nextdoor: reactions/comments, any DMs or follow-up questions
 - Op-eds: whether they're published, any reader response
 
 **Conversion:**
+
 - Newsletter signups (EmailOctopus — track which referral source drives signups)
 - Volunteer form submissions (Google Forms)
 - Tool usage (eviction tracker, rent calculator, campaign finance — Cloudflare Workers analytics)
 
 **Organizing:**
+
 - Community orgs contacted vs. partnerships formed
 - Spanish-language content completion rate
 - Event attendance if applicable

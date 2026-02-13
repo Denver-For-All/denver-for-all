@@ -1,36 +1,36 @@
 ---
-title: "Denver Guaranteed Income"
-titleEs: "Ingreso Garantizado de Denver"
+title: 'Denver Guaranteed Income'
+titleEs: 'Ingreso Garantizado de Denver'
 summary: "Direct cash payments to Denver's lowest-income residents. No strings attached. 150+ cities have piloted this. Not a single one showed decreased employment. Cook County made it permanent. Denver should too."
-summaryEs: "Pagos directos en efectivo a los residentes de menores ingresos de Denver. Sin condiciones. Más de 150 ciudades han probado esto. Ninguna mostró disminución del empleo. El Condado de Cook lo hizo permanente. Denver también debería."
-category: "economy"
-icon: "wallet"
+summaryEs: 'Pagos directos en efectivo a los residentes de menores ingresos de Denver. Sin condiciones. Más de 150 ciudades han probado esto. Ninguna mostró disminución del empleo. El Condado de Cook lo hizo permanente. Denver también debería.'
+category: 'economy'
+icon: 'wallet'
 order: 76
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "150+"
-    label: "US cities tested guaranteed income"
-    labelEs: "ciudades de EE.UU. probaron el ingreso garantizado"
-    context: "Not a single pilot showed decreased employment — multiple showed increases"
-    contextEs: "Ningun piloto mostro disminucion del empleo — varios mostraron aumentos"
-    source: "Mayors for a Guaranteed Income, 2025"
-    theme: "primary"
-  - value: "12.4%"
-    label: "of Denver residents below the poverty line"
-    labelEs: "de residentes de Denver bajo la linea de pobreza"
-    context: "In Montbello, Westwood, and Sun Valley, poverty rates exceed 30%"
-    contextEs: "En Montbello, Westwood y Sun Valley, las tasas de pobreza superan el 30%"
-    source: "U.S. Census Bureau, 2023"
-    theme: "danger"
-  - value: "+12pts"
-    label: "employment increase in Stockton pilot"
-    labelEs: "aumento de empleo en el piloto de Stockton"
-    context: "Full-time employment rose from 28% to 40% among recipients"
-    contextEs: "El empleo a tiempo completo subio de 28% a 40% entre receptores"
-    source: "Stockton Economic Empowerment Demonstration"
-    theme: "primary"
+  - value: '150+'
+    label: 'US cities tested guaranteed income'
+    labelEs: 'ciudades de EE.UU. probaron el ingreso garantizado'
+    context: 'Not a single pilot showed decreased employment — multiple showed increases'
+    contextEs: 'Ningun piloto mostro disminucion del empleo — varios mostraron aumentos'
+    source: 'Mayors for a Guaranteed Income, 2025'
+    theme: 'primary'
+  - value: '12.4%'
+    label: 'of Denver residents below the poverty line'
+    labelEs: 'de residentes de Denver bajo la linea de pobreza'
+    context: 'In Montbello, Westwood, and Sun Valley, poverty rates exceed 30%'
+    contextEs: 'En Montbello, Westwood y Sun Valley, las tasas de pobreza superan el 30%'
+    source: 'U.S. Census Bureau, 2023'
+    theme: 'danger'
+  - value: '+12pts'
+    label: 'employment increase in Stockton pilot'
+    labelEs: 'aumento de empleo en el piloto de Stockton'
+    context: 'Full-time employment rose from 28% to 40% among recipients'
+    contextEs: 'El empleo a tiempo completo subio de 28% a 40% entre receptores'
+    source: 'Stockton Economic Empowerment Demonstration'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -58,17 +58,20 @@ Meanwhile, **Boulder**, 25 miles northwest, ran its own guaranteed income pilot 
 Direct, unconditional cash payments to Denver's lowest-income residents. No work requirements. No drug tests. No spending restrictions. Just money -- because the evidence from 150+ cities shows that when you trust people with cash, they spend it on exactly what they need.
 
 **1. Program Structure**
+
 - **$1,000/month** for 24 months to 2,000 Denver residents in the initial phase
 - **Eligibility:** Household income below 200% of the federal poverty level ($62,400 for a family of four)
 - **Priority enrollment:** Residents of high-poverty neighborhoods (Montbello, Westwood, Sun Valley, Globeville-Elyria-Swansea, East Colfax), single parents, formerly incarcerated individuals, aging-out foster youth, and people exiting homelessness
 - **No conditions.** No work requirement. No sobriety requirement. No spending restrictions. The evidence is unambiguous: unconditional cash produces better outcomes than conditional programs.
 
 **2. Scale-Up to Permanent Program**
+
 - **Phase 1 (Years 1-2):** 2,000 participants, $24M/year. Rigorous evaluation with a randomized control group, conducted by an independent academic partner (University of Denver, CU Denver, or comparable institution).
 - **Phase 2 (Years 3-5):** Expand to 5,000 participants based on Phase 1 results. Integrate with existing city services: housing navigation, workforce development, childcare subsidies.
 - **Phase 3 (Year 5+):** Make the program permanent, modeled on Cook County, Illinois, the first U.S. county to establish permanent guaranteed income funding after its $42 million pilot provided $500/month to 3,250 residents.
 
 **3. Integration with Existing Platform**
+
 - Guaranteed income is not a replacement for other policies. It is the floor beneath them:
   - Pair with [Social Housing](/platform/social-housing): cash stability helps residents maintain housing
   - Pair with [Universal Childcare](/platform/universal-childcare): parents can afford to work when childcare is covered AND they have cash for emergencies
@@ -81,7 +84,7 @@ This is no longer experimental. More than 150 U.S. cities have run guaranteed in
 
 ### Aggregate Findings (Mayors for a Guaranteed Income, 2025)
 
-- **Employment:** Not a single pilot showed decreased employment. Multiple pilots showed *increased* employment, as recipients used cash stability to pursue better jobs, complete training, or start businesses.
+- **Employment:** Not a single pilot showed decreased employment. Multiple pilots showed _increased_ employment, as recipients used cash stability to pursue better jobs, complete training, or start businesses.
 - **Housing & food security:** The vast majority of pilots improved housing security, food security, or both.
 - **Mental health:** Reduced stress, less household chaos, better mental health, increased sense of agency and hopefulness.
 - **Education:** In Cambridge, MA, children of recipients had fewer school disciplinary actions, less absenteeism, and more Advanced Placement enrollment.
@@ -89,21 +92,21 @@ This is no longer experimental. More than 150 U.S. cities have run guaranteed in
 
 ### City-Specific Results
 
-| City | Design | Key Result |
-|------|--------|------------|
-| **Stockton, CA** | 125 residents, $500/month, 24 months. First major US pilot (2019-2021). | Full-time employment rose from 28% to 40% among recipients (vs. 32% to 37% in control). Recipients reported reduced anxiety, depression, and financial stress. |
-| **Cook County, IL** | 3,250 residents, $500/month, 24 months. Largest US pilot. | First county to establish **permanent funding** after pilot success. $42M total investment. |
-| **Baltimore, MD** | 200 young parents, $1,000/month, 24 months. | Increased financial stability, higher school enrollment, greater food security, reduced stress, improved parenting satisfaction. Benefits persisted after payments ended. |
-| **St. Louis, MO** | Low-income families, monthly payments over 12 months. | Fewer missed rent and utility payments. Credit scores increased by average of 12 points. Families reported better support for children's education and health. |
-| **Newark, NJ** | 400 residents, $12,000 over two years. | Greater financial resilience, increased housing and food security, better mental health, more family time. |
-| **Minneapolis, MN** | 200 residents, $500/month, 24 months. | Recipients addressed food, housing, and utility needs; paid down debt; built savings; improved mental health. |
-| **Boulder, CO** | 200 residents, $500/month, 24 months. | Nearly one-third pursued additional education or training. Helped with food, housing, utilities, and debt. No clear effect on employment status; recipients were already working. |
+| City                | Design                                                                  | Key Result                                                                                                                                                                        |
+| ------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Stockton, CA**    | 125 residents, $500/month, 24 months. First major US pilot (2019-2021). | Full-time employment rose from 28% to 40% among recipients (vs. 32% to 37% in control). Recipients reported reduced anxiety, depression, and financial stress.                    |
+| **Cook County, IL** | 3,250 residents, $500/month, 24 months. Largest US pilot.               | First county to establish **permanent funding** after pilot success. $42M total investment.                                                                                       |
+| **Baltimore, MD**   | 200 young parents, $1,000/month, 24 months.                             | Increased financial stability, higher school enrollment, greater food security, reduced stress, improved parenting satisfaction. Benefits persisted after payments ended.         |
+| **St. Louis, MO**   | Low-income families, monthly payments over 12 months.                   | Fewer missed rent and utility payments. Credit scores increased by average of 12 points. Families reported better support for children's education and health.                    |
+| **Newark, NJ**      | 400 residents, $12,000 over two years.                                  | Greater financial resilience, increased housing and food security, better mental health, more family time.                                                                        |
+| **Minneapolis, MN** | 200 residents, $500/month, 24 months.                                   | Recipients addressed food, housing, and utility needs; paid down debt; built savings; improved mental health.                                                                     |
+| **Boulder, CO**     | 200 residents, $500/month, 24 months.                                   | Nearly one-third pursued additional education or training. Helped with food, housing, utilities, and debt. No clear effect on employment status; recipients were already working. |
 
 ### The Employment Myth
 
 The most common objection to guaranteed income is that people will stop working. The data says the opposite:
 
-- **Stockton:** Full-time employment *increased* 12 percentage points among recipients vs. 5 points in the control group.
+- **Stockton:** Full-time employment _increased_ 12 percentage points among recipients vs. 5 points in the control group.
 - **Across 20 studies:** "Not a single pilot has shown a decrease in employment." -- Sukhi Samra, Mayors for a Guaranteed Income.
 - **The mechanism is intuitive:** Financial stability allows people to invest in better job searches instead of taking the first desperate option. It allows parents to afford childcare and actually show up to work. It allows workers to complete training programs. Cash stability is a precondition for economic mobility, not a substitute for it.
 
@@ -112,6 +115,7 @@ The most common objection to guaranteed income is that people will stop working.
 **Phase 1 cost: $24M/year** (2,000 participants x $12,000/year)
 
 **Funding sources:**
+
 - **Vacancy tax revenue** (see [Vacancy Tax](/platform/vacancy-tax)): estimated $50-80M/year. Dedicating 30-40% to guaranteed income is feasible.
 - **Cannabis tax allocation:** Colorado's cannabis tax generated $423M in 2023. Denver's local share can be partially redirected.
 - **Reallocation from emergency spending:** Denver spends an estimated $40,000-60,000 per chronically homeless person per year on emergency services. Preventing homelessness through guaranteed income is dramatically cheaper than managing it.

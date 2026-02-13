@@ -1,53 +1,53 @@
 ---
-title: "Power Reliability & Municipal Energy"
-titleEs: "Confiabilidad Energética y Energía Municipal"
+title: 'Power Reliability & Municipal Energy'
+titleEs: 'Confiabilidad Energética y Energía Municipal'
 summary: "End Xcel's monopoly failures. Municipal power option for Denver. Mandatory backup power for critical facilities. Life-safety protections for medically vulnerable residents. Use the franchise renewal to demand accountability or build our own."
-summaryEs: "Acabar con los fracasos del monopolio de Xcel. Opción de energía municipal para Denver. Energía de respaldo obligatoria para instalaciones críticas. Protecciones de seguridad vital para residentes médicamente vulnerables. Usar la renovación de la franquicia para exigir responsabilidad o construir la nuestra."
-category: "infrastructure"
-icon: "zap"
+summaryEs: 'Acabar con los fracasos del monopolio de Xcel. Opción de energía municipal para Denver. Energía de respaldo obligatoria para instalaciones críticas. Protecciones de seguridad vital para residentes médicamente vulnerables. Usar la renovación de la franquicia para exigir responsabilidad o construir la nuestra.'
+category: 'infrastructure'
+icon: 'zap'
 order: 65
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "352 min"
-    label: "average outage per customer in 2024"
-    labelEs: "minutos promedio de apagon por cliente en 2024"
-    context: "Nearly 6 hours without power — double the prior year"
-    contextEs: "Casi 6 horas sin electricidad — el doble del ano anterior"
-    source: "Colorado PUC briefing, 2025"
-    theme: "danger"
-  - value: "30%"
-    label: "rate hike while cutting staff 10%"
-    labelEs: "aumento de tarifas mientras reducian personal 10%"
-    context: "Xcel raised rates 30% from 2022-2024 while cutting the workforce that maintains the grid"
-    contextEs: "Xcel aumento tarifas 30% de 2022-2024 mientras reducia el personal que mantiene la red electrica"
-    source: "Colorado Sun, 2025"
-    theme: "danger"
-  - value: "30-40%"
-    label: "lower rates at municipal utilities (SMUD)"
-    labelEs: "tarifas mas bajas en servicios municipales (SMUD)"
+  - value: '352 min'
+    label: 'average outage per customer in 2024'
+    labelEs: 'minutos promedio de apagon por cliente en 2024'
+    context: 'Nearly 6 hours without power — double the prior year'
+    contextEs: 'Casi 6 horas sin electricidad — el doble del ano anterior'
+    source: 'Colorado PUC briefing, 2025'
+    theme: 'danger'
+  - value: '30%'
+    label: 'rate hike while cutting staff 10%'
+    labelEs: 'aumento de tarifas mientras reducian personal 10%'
+    context: 'Xcel raised rates 30% from 2022-2024 while cutting the workforce that maintains the grid'
+    contextEs: 'Xcel aumento tarifas 30% de 2022-2024 mientras reducia el personal que mantiene la red electrica'
+    source: 'Colorado Sun, 2025'
+    theme: 'danger'
+  - value: '30-40%'
+    label: 'lower rates at municipal utilities (SMUD)'
+    labelEs: 'tarifas mas bajas en servicios municipales (SMUD)'
     context: "Sacramento's community-owned utility serves 1.5M people at rates 30-40% below the neighboring monopoly"
-    contextEs: "El servicio comunitario de Sacramento sirve a 1.5M de personas con tarifas 30-40% menores"
-    source: "American Public Power Association, 2024"
-    theme: "primary"
+    contextEs: 'El servicio comunitario de Sacramento sirve a 1.5M de personas con tarifas 30-40% menores'
+    source: 'American Public Power Association, 2024'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "SB26-002"
-    title: "Energy Affordability"
-    status: "Introduced - Assigned to Transportation & Energy"
-    url: "https://leg.colorado.gov/bills/sb26-002"
-  - billNumber: "HB26-1007"
-    title: "Improve Customer Use Distributed Energy Resources"
-    status: "Introduced - Assigned to Energy & Environment"
-    url: "https://leg.colorado.gov/bills/hb26-1007"
-  - billNumber: "HB26-1051"
-    title: "Continue Microgrid Community Resilience Grant Program"
-    status: "Referred from Energy & Environment to Appropriations"
-    url: "https://leg.colorado.gov/bills/hb26-1051"
-  - billNumber: "HB26-1124"
-    title: "Electrical Generation & Distribution Resiliency"
-    status: "Introduced - Assigned to Energy & Environment"
-    url: "https://leg.colorado.gov/bills/hb26-1124"
+  - billNumber: 'SB26-002'
+    title: 'Energy Affordability'
+    status: 'Introduced - Assigned to Transportation & Energy'
+    url: 'https://leg.colorado.gov/bills/sb26-002'
+  - billNumber: 'HB26-1007'
+    title: 'Improve Customer Use Distributed Energy Resources'
+    status: 'Introduced - Assigned to Energy & Environment'
+    url: 'https://leg.colorado.gov/bills/hb26-1007'
+  - billNumber: 'HB26-1051'
+    title: 'Continue Microgrid Community Resilience Grant Program'
+    status: 'Referred from Energy & Environment to Appropriations'
+    url: 'https://leg.colorado.gov/bills/hb26-1051'
+  - billNumber: 'HB26-1124'
+    title: 'Electrical Generation & Distribution Resiliency'
+    status: 'Introduced - Assigned to Energy & Environment'
+    url: 'https://leg.colorado.gov/bills/hb26-1124'
 ---
 
 ## The Problem
@@ -71,6 +71,7 @@ Denver's electricity is provided by Xcel Energy under a franchise agreement — 
 Power outages are not an inconvenience for everyone. For residents who depend on electrically powered life-sustaining medical equipment — ventilators, oxygen concentrators, home dialysis machines, feeding pumps, suction devices, powered wheelchairs, and refrigerated medications — a power outage is a medical emergency.
 
 Denver has thousands of residents on life-support equipment at home. When the power goes out:
+
 - **Ventilator-dependent patients** have minutes, not hours, before battery backup runs out
 - **Oxygen concentrator users** lose their oxygen supply entirely — portable tanks provide limited backup
 - **Home dialysis patients** must interrupt treatment, risking dangerous fluid and electrolyte imbalances
@@ -157,15 +158,15 @@ Reduce dependence on the centralized grid by expanding distributed generation:
 
 ### International Evidence: Public Power Works
 
-| City/Utility | Model | Result |
-|-------------|-------|--------|
-| **Longmont, CO** | City-owned electric utility. Democratic governance through City Council. | Lower rates than Xcel. Higher reliability. Also built NextLight municipal broadband. Proof of concept 30 miles from Denver. |
-| **Fort Collins, CO** | City-owned electric utility since 1938. | Lower rates, local control, and the political will to also build municipal broadband (Connexion) despite industry opposition. |
-| **Colorado Springs Utilities** | Largest municipal utility in Colorado. Serves 500,000+ residents. Electricity, gas, water, wastewater. | Demonstrates municipal utilities scale to large populations. Higher customer satisfaction than Xcel. |
-| **Sacramento, CA (SMUD)** | Sacramento Municipal Utility District. Largest community-owned utility in the country. Serves 1.5M people. | Rates 30-40% lower than neighboring PG&E. Nation-leading clean energy programs. Elected board of directors. |
-| **Austin, TX (Austin Energy)** | City-owned utility serving 500,000+ customers. | Among the lowest rates for a major Texas city. Aggressive renewable energy targets. Revenue funds city services. |
-| **Burlington, VT** | City-owned Burlington Electric Department. First US city to achieve 100% renewable electricity (2014). | Proof that municipal utilities can lead on clean energy. If Burlington can do it, Denver can. |
-| **Los Angeles, CA (LADWP)** | Largest municipal utility in the US. Serves 4M people. | Demonstrates municipal power at massive scale. Provides lower rates than Southern California Edison (the neighboring investor-owned utility). |
+| City/Utility                   | Model                                                                                                      | Result                                                                                                                                        |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Longmont, CO**               | City-owned electric utility. Democratic governance through City Council.                                   | Lower rates than Xcel. Higher reliability. Also built NextLight municipal broadband. Proof of concept 30 miles from Denver.                   |
+| **Fort Collins, CO**           | City-owned electric utility since 1938.                                                                    | Lower rates, local control, and the political will to also build municipal broadband (Connexion) despite industry opposition.                 |
+| **Colorado Springs Utilities** | Largest municipal utility in Colorado. Serves 500,000+ residents. Electricity, gas, water, wastewater.     | Demonstrates municipal utilities scale to large populations. Higher customer satisfaction than Xcel.                                          |
+| **Sacramento, CA (SMUD)**      | Sacramento Municipal Utility District. Largest community-owned utility in the country. Serves 1.5M people. | Rates 30-40% lower than neighboring PG&E. Nation-leading clean energy programs. Elected board of directors.                                   |
+| **Austin, TX (Austin Energy)** | City-owned utility serving 500,000+ customers.                                                             | Among the lowest rates for a major Texas city. Aggressive renewable energy targets. Revenue funds city services.                              |
+| **Burlington, VT**             | City-owned Burlington Electric Department. First US city to achieve 100% renewable electricity (2014).     | Proof that municipal utilities can lead on clean energy. If Burlington can do it, Denver can.                                                 |
+| **Los Angeles, CA (LADWP)**    | Largest municipal utility in the US. Serves 4M people.                                                     | Demonstrates municipal power at massive scale. Provides lower rates than Southern California Edison (the neighboring investor-owned utility). |
 
 **The pattern is clear:** Municipal utilities consistently deliver lower rates, higher reliability, better customer service, and stronger clean energy commitments than investor-owned monopolies. The barrier is not feasibility — it is political will and industry opposition.
 
@@ -183,13 +184,13 @@ Reduce dependence on the centralized grid by expanding distributed generation:
 ## Frequently Asked Questions
 
 **"Can Denver actually build its own power utility?"**
-Multiple Colorado cities already operate municipal electric utilities: Longmont, Fort Collins, Colorado Springs, Glenwood Springs, Aspen, and others. Nationally, over 2,000 municipal electric utilities serve 49 million Americans (American Public Power Association, 2024). Sacramento's SMUD serves 1.5 million people at rates 30-40% below the neighboring investor-owned utility. Denver is larger than most of these cities, which means more ratepayers to share costs — municipalization gets *easier* at scale, not harder.
+Multiple Colorado cities already operate municipal electric utilities: Longmont, Fort Collins, Colorado Springs, Glenwood Springs, Aspen, and others. Nationally, over 2,000 municipal electric utilities serve 49 million Americans (American Public Power Association, 2024). Sacramento's SMUD serves 1.5 million people at rates 30-40% below the neighboring investor-owned utility. Denver is larger than most of these cities, which means more ratepayers to share costs — municipalization gets _easier_ at scale, not harder.
 
 **"Didn't Boulder try this and fail?"**
 Boulder spent over a decade and $20M+ attempting to municipalize before reaching a settlement with Xcel in 2020. The key lessons: (1) Boulder underestimated legal costs — Xcel fought aggressively to protect its monopoly; (2) Boulder attempted to build a new distribution system rather than acquiring Xcel's existing infrastructure; (3) state law at the time was less favorable to municipalization. Denver is different: Denver is 10x Boulder's size (more ratepayers, better economics), the franchise expiration provides natural leverage, and the political environment has shifted dramatically as Xcel's failures have become undeniable. The feasibility study must incorporate Boulder's lessons.
 
 **"What happens if the franchise expires with no agreement?"**
-Xcel would continue operating in Denver under the existing terms while a new agreement is negotiated. Boulder operated without a franchise agreement for over 10 years. The sky does not fall. In fact, an expired franchise gives Denver *more* leverage, not less — Xcel would be operating without a guaranteed long-term agreement, creating uncertainty for its investors and regulators. Denver should not rush into a bad deal out of fear.
+Xcel would continue operating in Denver under the existing terms while a new agreement is negotiated. Boulder operated without a franchise agreement for over 10 years. The sky does not fall. In fact, an expired franchise gives Denver _more_ leverage, not less — Xcel would be operating without a guaranteed long-term agreement, creating uncertainty for its investors and regulators. Denver should not rush into a bad deal out of fear.
 
 **"Won't a backup power program be too expensive?"**
 A battery backup system for a medically vulnerable household costs $3,000-8,000. A single ambulance transport to the ER costs $2,000-5,000. A single ICU admission costs $10,000-30,000 per day. Keeping medically fragile residents safely powered at home is dramatically cheaper than the emergency medical costs of leaving them without power. This is not charity — it is the most cost-effective approach to protecting Denver's most vulnerable residents.

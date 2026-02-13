@@ -1,58 +1,58 @@
 ---
-title: "Government Transparency & Digital Rights"
-titleEs: "Transparencia Gubernamental y Derechos Digitales"
-summary: "Surveillance technology oversight ordinance. Open data for all city operations. Publicly financed elections. Lobbyist disclosure and revolving door restrictions. Algorithmic accountability for city AI systems. Data sovereignty and digital public infrastructure."
-summaryEs: "Ordenanza de supervisión de tecnología de vigilancia. Datos abiertos para todas las operaciones municipales. Elecciones financiadas públicamente. Divulgación de cabilderos y restricciones de puertas giratorias. Responsabilidad algorítmica para sistemas de IA municipales. Soberanía de datos e infraestructura digital pública."
-category: "democracy"
-icon: "search"
+title: 'Government Transparency & Digital Rights'
+titleEs: 'Transparencia Gubernamental y Derechos Digitales'
+summary: 'Surveillance technology oversight ordinance. Open data for all city operations. Publicly financed elections. Lobbyist disclosure and revolving door restrictions. Algorithmic accountability for city AI systems. Data sovereignty and digital public infrastructure.'
+summaryEs: 'Ordenanza de supervisión de tecnología de vigilancia. Datos abiertos para todas las operaciones municipales. Elecciones financiadas públicamente. Divulgación de cabilderos y restricciones de puertas giratorias. Responsabilidad algorítmica para sistemas de IA municipales. Soberanía de datos e infraestructura digital pública.'
+category: 'democracy'
+icon: 'search'
 order: 56
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 petition:
-  url: "https://resist.bot/petitions/PYLQBT"
-  code: "PYLQBT"
-  title: "Demand Denver Charter Reform"
-  titleEs: "Exigir Reforma de la Carta de Denver"
+  url: 'https://resist.bot/petitions/PYLQBT'
+  code: 'PYLQBT'
+  title: 'Demand Denver Charter Reform'
+  titleEs: 'Exigir Reforma de la Carta de Denver'
 hasFundingSources: true
 keyStats:
-  - value: "2M+"
-    label: "vehicles photographed monthly by Flock cameras"
-    labelEs: "vehiculos fotografiados por mes por camaras Flock"
+  - value: '2M+'
+    label: 'vehicles photographed monthly by Flock cameras'
+    labelEs: 'vehiculos fotografiados por mes por camaras Flock'
     context: "DPD's surveillance network — searched over 1,400 times by ICE since June 2024"
-    contextEs: "Red de vigilancia del DPD — consultada mas de 1,400 veces por ICE desde junio 2024"
-    source: "Denver Gazette, 2025"
-    theme: "danger"
-  - value: "$498,509"
-    label: "Flock contract — just under $500K threshold"
-    labelEs: "contrato Flock — justo bajo el umbral de $500K"
-    context: "Mayor bypassed a 12-0 council vote against renewal by structuring the contract below the threshold"
-    contextEs: "El alcalde evito un voto 12-0 del concejo estructurando el contrato bajo el umbral"
-    source: "Denver Gazette, 2025"
-    theme: "accent"
-  - value: "5x"
-    label: "more donors with democracy vouchers"
-    labelEs: "mas donantes con cupones de democracia"
+    contextEs: 'Red de vigilancia del DPD — consultada mas de 1,400 veces por ICE desde junio 2024'
+    source: 'Denver Gazette, 2025'
+    theme: 'danger'
+  - value: '$498,509'
+    label: 'Flock contract — just under $500K threshold'
+    labelEs: 'contrato Flock — justo bajo el umbral de $500K'
+    context: 'Mayor bypassed a 12-0 council vote against renewal by structuring the contract below the threshold'
+    contextEs: 'El alcalde evito un voto 12-0 del concejo estructurando el contrato bajo el umbral'
+    source: 'Denver Gazette, 2025'
+    theme: 'accent'
+  - value: '5x'
+    label: 'more donors with democracy vouchers'
+    labelEs: 'mas donantes con cupones de democracia'
     context: "Seattle's $3/resident/year program made the donor pool match city demographics"
-    contextEs: "El programa de Seattle de $3/residente/ano hizo que los donantes reflejaran la demografia"
-    source: "Georgetown McCabe Center, 2023"
-    theme: "primary"
+    contextEs: 'El programa de Seattle de $3/residente/ano hizo que los donantes reflejaran la demografia'
+    source: 'Georgetown McCabe Center, 2023'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "SB26-071"
-    title: "Use of Surveillance Technology by Law Enforcement"
-    status: "Introduced - Assigned to Judiciary"
-    url: "https://leg.colorado.gov/bills/sb26-071"
-  - billNumber: "SB26-070"
-    title: "Ban Government Access Historical Location Information Database"
-    status: "Introduced - Assigned to Judiciary"
-    url: "https://leg.colorado.gov/bills/sb26-070"
-  - billNumber: "HB26-1037"
-    title: "Ban Government Purchase of Personal Data from Third Party"
-    status: "Introduced - Assigned to Judiciary"
-    url: "https://leg.colorado.gov/bills/hb26-1037"
-  - billNumber: "HB26-1084"
-    title: "Voter Transparency in Ballot Measures"
-    status: "Introduced - Assigned to State, Civic, Military, & Veterans Affairs"
-    url: "https://leg.colorado.gov/bills/hb26-1084"
+  - billNumber: 'SB26-071'
+    title: 'Use of Surveillance Technology by Law Enforcement'
+    status: 'Introduced - Assigned to Judiciary'
+    url: 'https://leg.colorado.gov/bills/sb26-071'
+  - billNumber: 'SB26-070'
+    title: 'Ban Government Access Historical Location Information Database'
+    status: 'Introduced - Assigned to Judiciary'
+    url: 'https://leg.colorado.gov/bills/sb26-070'
+  - billNumber: 'HB26-1037'
+    title: 'Ban Government Purchase of Personal Data from Third Party'
+    status: 'Introduced - Assigned to Judiciary'
+    url: 'https://leg.colorado.gov/bills/hb26-1037'
+  - billNumber: 'HB26-1084'
+    title: 'Voter Transparency in Ballot Measures'
+    status: 'Introduced - Assigned to State, Civic, Military, & Veterans Affairs'
+    url: 'https://leg.colorado.gov/bills/hb26-1084'
 ---
 
 ## The Problem
@@ -134,13 +134,13 @@ Barcelona treats data as public infrastructure, on par with roads, water, and el
 
 ### International Evidence: Transparency Strengthens Democracy
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Estonia** | E-government and digital transparency. 99% of government services online. Citizens use a "Data Tracker" to see exactly who accesses their personal data. Unauthorized access is a criminal offense. | Saves the equivalent of 2% of GDP annually. 95% of citizens trust the government with their data. In 2020, a police officer was fined for accessing his fiancee's data without authorization. |
-| **Taiwan** | vTaiwan digital democracy platform using Pol.is for consensus-building on complex policy issues. Surfaced agreement rather than division. | 200,000 participants. 80% of issues discussed led to decisive government action. Resolved the six-year deadlock over Uber regulation through structured public deliberation. |
-| **Barcelona, Spain** | Decidim open-source participatory democracy platform. DECODE project for citizen data sovereignty using decentralized encryption. Data treated as public infrastructure alongside roads, water, and electricity. | 39,000 participants submitted 11,000 proposals; 8,000 were accepted and monitored. Platform adopted by 80+ governments worldwide including Helsinki and Mexico City. DECODE project with Amsterdam pioneered privacy-preserving citizen data control. |
-| **Seattle, USA** | Democracy vouchers: four $25 vouchers sent to every eligible resident for municipal campaigns. Candidates must accept spending limits. | Over 106,000 residents have contributed vouchers, distributing $10M+ to campaigns. Donor participation increased fivefold. Voucher users closely mirror city demographics by race, income, and age. Program renewed by voters in 2025. |
-| **New York City, USA** | 8:1 small donor matching program. First $250 of individual contributions matched at 8-to-1 with public funds. | 94% of candidates participated in 2021. 90% of census blocks had at least one small donor to city council races vs. 30% for unmatched state races. Donor pool dramatically more diverse by race and income. |
+| Country/City           | Model                                                                                                                                                                                                            | Result                                                                                                                                                                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Estonia**            | E-government and digital transparency. 99% of government services online. Citizens use a "Data Tracker" to see exactly who accesses their personal data. Unauthorized access is a criminal offense.              | Saves the equivalent of 2% of GDP annually. 95% of citizens trust the government with their data. In 2020, a police officer was fined for accessing his fiancee's data without authorization.                                                         |
+| **Taiwan**             | vTaiwan digital democracy platform using Pol.is for consensus-building on complex policy issues. Surfaced agreement rather than division.                                                                        | 200,000 participants. 80% of issues discussed led to decisive government action. Resolved the six-year deadlock over Uber regulation through structured public deliberation.                                                                          |
+| **Barcelona, Spain**   | Decidim open-source participatory democracy platform. DECODE project for citizen data sovereignty using decentralized encryption. Data treated as public infrastructure alongside roads, water, and electricity. | 39,000 participants submitted 11,000 proposals; 8,000 were accepted and monitored. Platform adopted by 80+ governments worldwide including Helsinki and Mexico City. DECODE project with Amsterdam pioneered privacy-preserving citizen data control. |
+| **Seattle, USA**       | Democracy vouchers: four $25 vouchers sent to every eligible resident for municipal campaigns. Candidates must accept spending limits.                                                                           | Over 106,000 residents have contributed vouchers, distributing $10M+ to campaigns. Donor participation increased fivefold. Voucher users closely mirror city demographics by race, income, and age. Program renewed by voters in 2025.                |
+| **New York City, USA** | 8:1 small donor matching program. First $250 of individual contributions matched at 8-to-1 with public funds.                                                                                                    | 94% of candidates participated in 2021. 90% of census blocks had at least one small donor to city council races vs. 30% for unmatched state races. Donor pool dramatically more diverse by race and income.                                           |
 
 These examples share a common lesson: transparency and democratic participation reinforce each other. When residents can see how their government spends money, who influences decisions, and how surveillance tools are used, they engage more. When more people participate in elections through small-donor programs, elected officials become accountable to constituents rather than wealthy donors. Estonia proves that radical data transparency builds trust rather than eroding it. Seattle and NYC prove that public campaign financing diversifies who participates in democracy. Denver already has the Fair Elections Fund; now we need the full transparency infrastructure to match.
 
@@ -244,6 +244,7 @@ The barrier is not legal authority -- it is political will and the concentration
 ---
 
 **Take action now:** Sign the petitions that advance these reforms. Every signature sends a personalized letter to your own elected officials:
+
 - [Pass a state surveillance oversight law](https://resist.bot/petitions/PPGCFY) (text "sign PPGCFY" to 50409)
 - [Ban dark money in Colorado elections](https://resist.bot/petitions/PMPSFP) (text "sign PMPSFP" to 50409)
 - [Demand Denver charter reform](https://resist.bot/petitions/PYLQBT) (text "sign PYLQBT" to 50409)

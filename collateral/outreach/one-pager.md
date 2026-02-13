@@ -5,6 +5,7 @@
 **Which one-pager to create first and why:**
 
 The 6 planned one-pagers from the playbook Section 6 are:
+
 1. Social Housing ($400-600K per unit, 15-30 year expiration, Vienna permanent model)
 2. Rent Control (85% increase since 2010, zero protection, CRS 38-12-301)
 3. Living Wage ($7/hr gap, $42-44/hr for single parents, Denmark comparison)
@@ -27,11 +28,12 @@ The 6 planned one-pagers from the playbook Section 6 are:
 5. **Least likely to generate pushback:** Medical debt forgiveness is the closest thing to a "free lunch" in policy — the debt has already been written off by hospitals. The city is buying assets that collectors would buy anyway. The political attack surface is minimal compared to rent control, living wage, or social housing.
 
 **Topics I passed on for first one-pager:**
-- *Rent Control:* Strong data, but requires explaining state preemption (CRS 38-12-301) which is complex for a one-pager. Better as second one-pager.
-- *Municipal Broadband:* 85% voter approval is a great hook but the issue is less emotionally urgent than medical debt. Third one-pager.
-- *STAR Program:* Excellent data from Urban Institute evaluation, but "non-police crisis response" requires more explanation than a one-pager allows. Better as an op-ed or detailed post.
-- *Living Wage:* Strong numbers but the $25/hr proposal triggers immediate opposition framing. Works better after credibility is established with less polarizing issues.
-- *Social Housing:* Strongest policy on the platform but requires the most explanation (what is social housing? how is it different from public housing?). Better as a detailed Reddit post or AMA.
+
+- _Rent Control:_ Strong data, but requires explaining state preemption (CRS 38-12-301) which is complex for a one-pager. Better as second one-pager.
+- _Municipal Broadband:_ 85% voter approval is a great hook but the issue is less emotionally urgent than medical debt. Third one-pager.
+- _STAR Program:_ Excellent data from Urban Institute evaluation, but "non-police crisis response" requires more explanation than a one-pager allows. Better as an op-ed or detailed post.
+- _Living Wage:_ Strong numbers but the $25/hr proposal triggers immediate opposition framing. Works better after credibility is established with less polarizing issues.
+- _Social Housing:_ Strongest policy on the platform but requires the most explanation (what is social housing? how is it different from public housing?). Better as a detailed Reddit post or AMA.
 
 ---
 
@@ -112,6 +114,7 @@ MÁS INFORMACIÓN: denverforall.org/platform/healthcare
 ## Design Notes
 
 **Color palette** (from the Denver For All site):
+
 - Primary: Deep blue/teal (used for headers, CTA buttons)
 - Accent: Orange/coral (used for key stats and emphasis)
 - Danger/red: For the "$240 MILLION" and "530,000" shock numbers
@@ -149,22 +152,26 @@ MÁS INFORMACIÓN: denverforall.org/platform/healthcare
 ```
 
 **Typography:**
+
 - Headline: 28-32pt bold sans-serif (match site's heading font)
 - Three Numbers: 48-60pt bold for the number, 12pt for the description below
 - Body text: 11-12pt, max line length 65 characters
 - URL/QR code area: 10pt monospace
 
 **Icon/image recommendations:**
+
 - Lucide `heart-pulse` icon (matches the healthcare policy icon on the site)
 - Consider a simple graphic showing $5M → $500M with an arrow (the ratio is the visual hook)
 - Avoid stock photos of sad patients — this is a data one-pager, not a sympathy appeal
 
 **Production options:**
+
 - **Canva (free tier):** Use a "one pager" or "fact sheet" template. The site's color palette can be entered as custom brand colors.
 - **Programmatic (developer option):** Astro can generate PDFs using a custom endpoint. The policy frontmatter data (`keyStats`, `summary`, `summaryEs`) contains everything needed to auto-generate one-pagers from policy files.
 - **Professional:** Commission a designer for this first one-pager, then use it as a template for the remaining 5. The investment in one good template pays off across all 6.
 
 **File format:**
+
 - PDF optimized for mobile (under 500KB)
 - Also export as 1080x1080 square PNG for social media sharing
 - Both English and Spanish versions as separate files (not side-by-side on one page — too cramped for mobile reading)

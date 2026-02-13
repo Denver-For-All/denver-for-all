@@ -1,14 +1,14 @@
 ---
-title: "Safe Streets for All (SS4A) — Denver Sidewalk Equity & ADA Compliance Project"
-titleEs: "Calles Seguras para Todos (SS4A) — Proyecto de Equidad de Aceras y Cumplimiento ADA de Denver"
+title: 'Safe Streets for All (SS4A) — Denver Sidewalk Equity & ADA Compliance Project'
+titleEs: 'Calles Seguras para Todos (SS4A) — Proyecto de Equidad de Aceras y Cumplimiento ADA de Denver'
 summary: "Implementation grant proposal template for USDOT Safe Streets for All program to accelerate sidewalk construction and ADA compliance in Denver's highest-need neighborhoods."
-summaryEs: "Plantilla de propuesta de subvención de implementación del programa Calles Seguras para Todos del USDOT para acelerar la construcción de aceras y el cumplimiento ADA en los vecindarios de Denver con mayor necesidad."
-policySlug: "pedestrian-infrastructure"
-grantProgram: "Safe Streets for All (SS4A) Implementation Grant"
-fundingAgency: "U.S. Department of Transportation (USDOT)"
-estimatedAmount: "$10-20M over 3 years"
-deadline: "Typically May-June annually (check grants.gov for current cycle)"
-status: "draft"
+summaryEs: 'Plantilla de propuesta de subvención de implementación del programa Calles Seguras para Todos del USDOT para acelerar la construcción de aceras y el cumplimiento ADA en los vecindarios de Denver con mayor necesidad.'
+policySlug: 'pedestrian-infrastructure'
+grantProgram: 'Safe Streets for All (SS4A) Implementation Grant'
+fundingAgency: 'U.S. Department of Transportation (USDOT)'
+estimatedAmount: '$10-20M over 3 years'
+deadline: 'Typically May-June annually (check grants.gov for current cycle)'
+status: 'draft'
 ---
 
 ## Project Narrative
@@ -30,6 +30,7 @@ status: "draft"
 **Project Area:** City and County of Denver, Colorado (population ~715,000)
 
 **Priority Neighborhoods (ranked by pedestrian fatality rate and sidewalk deficiency):**
+
 - East Colfax
 - Montbello
 - Elyria-Swansea
@@ -55,6 +56,7 @@ status: "draft"
 Denver's comprehensive safety data demonstrates a critical and worsening pedestrian safety crisis:
 
 **Fatal and Serious Injury Data:**
+
 - 93 traffic deaths in 2025 (deadliest year since 2013)
 - 35 pedestrian fatalities in 2025 (34% increase over 2024)
 - Pedestrians represent ~5% of commuters but ~33% of traffic deaths
@@ -62,6 +64,7 @@ Denver's comprehensive safety data demonstrates a critical and worsening pedestr
 - Low-income neighborhoods experience 2x the pedestrian fatality rate of higher-income areas
 
 **Infrastructure Deficiency Data (DOTI Sidewalk Implementation Plan, 2025):**
+
 - 1,235 miles of sidewalk (40%) are less than 5 feet wide and fail ADA standards
 - 358 miles of sidewalk (11%) are completely missing
 - Denver Auditor (2020): sidewalk program was "decades behind schedule and was not designed for ADA compliance"
@@ -72,6 +75,7 @@ Denver's comprehensive safety data demonstrates a critical and worsening pedestr
 ### D. Project Activities & Deliverables
 
 **Activity 1: Priority Sidewalk Construction ($8,000,000)**
+
 - Construct missing sidewalks on approximately 25-35 miles of priority corridors in the 15 target neighborhoods
 - Focus on routes to schools, transit stops, healthcare facilities, and grocery stores
 - All construction to minimum 6-foot width (exceeding ADA 5-foot minimum) to allow wheelchair passing
@@ -79,17 +83,20 @@ Denver's comprehensive safety data demonstrates a critical and worsening pedestr
 - Include tree lawns or physical buffer zones separating sidewalks from vehicle traffic
 
 **Activity 2: ADA Compliance Retrofits ($4,000,000)**
+
 - Retrofit approximately 500 curb ramps to ADA compliance standards
 - Widen existing sub-standard sidewalks to 5-foot minimum on approximately 15-20 miles of arterial corridors
 - Install tactile paving and accessible pedestrian signals at priority intersections
 - Conduct post-construction ADA compliance audits by certified inspectors
 
 **Activity 3: Traffic Calming & Pedestrian Safety ($2,000,000)**
+
 - Install pedestrian refuge islands, raised crosswalks, and curb extensions at high-crash intersections within target neighborhoods
 - Add pedestrian-scale lighting on priority school and transit corridors
 - Implement leading pedestrian intervals at signalized intersections
 
 **Activity 4: Project Management, Community Engagement & Evaluation ($1,000,000)**
+
 - Dedicated project manager and grant compliance staff
 - Community engagement in each target neighborhood (minimum 3 public meetings per neighborhood)
 - Pre/post pedestrian count data collection
@@ -98,13 +105,13 @@ Denver's comprehensive safety data demonstrates a critical and worsening pedestr
 
 ### E. Project Timeline
 
-| Phase | Timeline | Key Milestones |
-|---|---|---|
-| **Planning & Design** | Months 1-6 | Finalize priority corridors, complete engineering design, execute community engagement round 1 |
-| **Procurement** | Months 4-8 | Issue RFPs, award construction contracts (can overlap with design for phased corridors) |
-| **Construction Phase 1** | Months 7-18 | Complete school route and transit corridor sidewalks in 8 highest-priority neighborhoods |
-| **Construction Phase 2** | Months 15-30 | Complete remaining corridors, ADA retrofits, and traffic calming installations |
-| **Closeout & Evaluation** | Months 28-36 | Post-construction audits, pedestrian count data, crash analysis, final report |
+| Phase                     | Timeline     | Key Milestones                                                                                 |
+| ------------------------- | ------------ | ---------------------------------------------------------------------------------------------- |
+| **Planning & Design**     | Months 1-6   | Finalize priority corridors, complete engineering design, execute community engagement round 1 |
+| **Procurement**           | Months 4-8   | Issue RFPs, award construction contracts (can overlap with design for phased corridors)        |
+| **Construction Phase 1**  | Months 7-18  | Complete school route and transit corridor sidewalks in 8 highest-priority neighborhoods       |
+| **Construction Phase 2**  | Months 15-30 | Complete remaining corridors, ADA retrofits, and traffic calming installations                 |
+| **Closeout & Evaluation** | Months 28-36 | Post-construction audits, pedestrian count data, crash analysis, final report                  |
 
 ### F. Alignment with SS4A Program Goals
 
@@ -129,25 +136,25 @@ The requested federal investment of $15 million represents a **6.4:1 local match
 
 ## Budget Summary
 
-| Category | Amount | % of Total |
-|---|---|---|
-| Sidewalk Construction (new) | $8,000,000 | 53% |
-| ADA Compliance Retrofits | $4,000,000 | 27% |
-| Traffic Calming & Pedestrian Safety | $2,000,000 | 13% |
-| Project Management & Evaluation | $1,000,000 | 7% |
-| **Total Federal Request** | **$15,000,000** | **100%** |
-| Local Match (sidewalk fee revenue) | $97,500,000 | — |
-| **Total Project Investment** | **$112,500,000** | — |
+| Category                            | Amount           | % of Total |
+| ----------------------------------- | ---------------- | ---------- |
+| Sidewalk Construction (new)         | $8,000,000       | 53%        |
+| ADA Compliance Retrofits            | $4,000,000       | 27%        |
+| Traffic Calming & Pedestrian Safety | $2,000,000       | 13%        |
+| Project Management & Evaluation     | $1,000,000       | 7%         |
+| **Total Federal Request**           | **$15,000,000**  | **100%**   |
+| Local Match (sidewalk fee revenue)  | $97,500,000      | —          |
+| **Total Project Investment**        | **$112,500,000** | —          |
 
 ## Expected Outcomes
 
-| Metric | Baseline | 3-Year Target |
-|---|---|---|
-| Miles of missing sidewalk in target neighborhoods | ~50 miles | Reduced by 25-35 miles (50-70%) |
-| ADA-compliant curb ramps in target areas | ~40% compliant | ~85% compliant |
-| Pedestrian fatalities in target neighborhoods | 12-15/year | 30% reduction |
-| Pedestrian serious injuries in target neighborhoods | ~45/year | 25% reduction |
-| Residents within 1/4 mile of ADA-compliant route to transit | ~55% | ~80% |
+| Metric                                                      | Baseline       | 3-Year Target                   |
+| ----------------------------------------------------------- | -------------- | ------------------------------- |
+| Miles of missing sidewalk in target neighborhoods           | ~50 miles      | Reduced by 25-35 miles (50-70%) |
+| ADA-compliant curb ramps in target areas                    | ~40% compliant | ~85% compliant                  |
+| Pedestrian fatalities in target neighborhoods               | 12-15/year     | 30% reduction                   |
+| Pedestrian serious injuries in target neighborhoods         | ~45/year       | 25% reduction                   |
+| Residents within 1/4 mile of ADA-compliant route to transit | ~55%           | ~80%                            |
 
 ## Key Data Sources
 

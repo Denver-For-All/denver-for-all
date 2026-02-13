@@ -1,37 +1,37 @@
 ---
-title: "City-Funded Community Land Trusts"
-titleEs: "Fideicomisos de Tierras Comunitarios Financiados por la Ciudad"
-summary: "Permanently affordable homeownership through community-controlled land. Housing that stays affordable forever, not just until the tax credit expires."
-summaryEs: "Propiedad de vivienda permanentemente asequible a través de tierras controladas por la comunidad. Vivienda que permanece asequible para siempre, no solo hasta que expire el crédito fiscal."
-category: "housing"
-icon: "sprout"
+title: 'City-Funded Community Land Trusts'
+titleEs: 'Fideicomisos de Tierras Comunitarios Financiados por la Ciudad'
+summary: 'Permanently affordable homeownership through community-controlled land. Housing that stays affordable forever, not just until the tax credit expires.'
+summaryEs: 'Propiedad de vivienda permanentemente asequible a través de tierras controladas por la comunidad. Vivienda que permanece asequible para siempre, no solo hasta que expire el crédito fiscal.'
+category: 'housing'
+icon: 'sprout'
 order: 6
-status: "draft"
-actionTarget: "mayor"
-grantProposal: "community-land-trusts-hud-home"
+status: 'draft'
+actionTarget: 'mayor'
+grantProposal: 'community-land-trusts-hud-home'
 hasFundingSources: true
 keyStats:
-  - value: "10x"
-    label: "lower foreclosure rate than conventional"
-    labelEs: "menor tasa de ejecucion hipotecaria"
-    context: "CLT homeowners almost never lose their homes — the model is designed to protect them"
-    contextEs: "Los propietarios de CLT casi nunca pierden sus hogares — el modelo esta disenado para protegerlos"
-    source: "Champlain Housing Trust, Burlington VT"
-    theme: "primary"
-  - value: "20-40"
-    label: "CLT homes added per year in Denver"
-    labelEs: "hogares CLT agregados por ano en Denver"
-    context: "At this pace it would take 50+ years to reach 2,500 homes"
-    contextEs: "A este ritmo tomaria mas de 50 anos llegar a 2,500 hogares"
-    source: "Elevation Community Land Trust"
-    theme: "danger"
-  - value: "2,800+"
-    label: "CLT homes built in Burlington since 1984"
-    labelEs: "hogares CLT construidos en Burlington desde 1984"
-    context: "The largest CLT in the US proves the model works at scale, across generations"
-    contextEs: "El CLT mas grande de EE.UU. demuestra que el modelo funciona a escala"
-    source: "Champlain Housing Trust"
-    theme: "secondary"
+  - value: '10x'
+    label: 'lower foreclosure rate than conventional'
+    labelEs: 'menor tasa de ejecucion hipotecaria'
+    context: 'CLT homeowners almost never lose their homes — the model is designed to protect them'
+    contextEs: 'Los propietarios de CLT casi nunca pierden sus hogares — el modelo esta disenado para protegerlos'
+    source: 'Champlain Housing Trust, Burlington VT'
+    theme: 'primary'
+  - value: '20-40'
+    label: 'CLT homes added per year in Denver'
+    labelEs: 'hogares CLT agregados por ano en Denver'
+    context: 'At this pace it would take 50+ years to reach 2,500 homes'
+    contextEs: 'A este ritmo tomaria mas de 50 anos llegar a 2,500 hogares'
+    source: 'Elevation Community Land Trust'
+    theme: 'danger'
+  - value: '2,800+'
+    label: 'CLT homes built in Burlington since 1984'
+    labelEs: 'hogares CLT construidos en Burlington desde 1984'
+    context: 'The largest CLT in the US proves the model works at scale, across generations'
+    contextEs: 'El CLT mas grande de EE.UU. demuestra que el modelo funciona a escala'
+    source: 'Champlain Housing Trust'
+    theme: 'secondary'
 ---
 
 ## The Problem
@@ -55,17 +55,20 @@ However, the scale is far below what is needed. Elevation CLT adds approximately
 **City-seeded CLTs:** Denver funds 5 Community Land Trusts - one for each geographic region of the city - with $10M each in startup capital ($50M total).
 
 **How CLTs work:**
+
 1. The CLT owns the land. Permanently.
 2. Homeowners buy (or rent) the building on the land.
 3. When they sell, resale prices are limited by formula - typically allowing the owner to recoup their investment + equity from improvements + a modest appreciation share (e.g., 25% of market appreciation).
 4. The next buyer gets the home at an affordable price. Forever.
 
 **Governance:** Each CLT is governed by a tripartite board:
+
 - 1/3 CLT residents
 - 1/3 community members (non-resident neighbors)
 - 1/3 public representatives (city appointees with housing expertise)
 
 **Acquisition strategy:**
+
 - Right of first purchase when properties in anti-displacement zones are listed for sale
 - Acquire properties from corporate landlord divestiture (see: Corporate Landlord Ban)
 - Partner with Social Housing Authority for multi-family buildings
@@ -75,14 +78,14 @@ However, the scale is far below what is needed. Elevation CLT adds approximately
 
 ### International Evidence: Community Land Ownership Works
 
-| CLT/Country | Model | Result |
-|------------|-------|--------|
-| **Champlain Housing Trust (Burlington, VT)** | Largest CLT in US. 2,800+ homes since 1984. | Foreclosure rates **10x lower** than conventional mortgages. Homes remain affordable across generations. Model for the movement. |
-| **London CLT (UK)** | Community-led development on public land. First homes delivered in 2017. | Permanently affordable homes in one of the most expensive cities on Earth. Prices locked to local incomes, not the property market. |
-| **Brussels CLT (Belgium)** | Government-supported CLT producing affordable housing since 2012. | Tripartite governance model. Housing affordable to families earning 30-60% of median income. Growing rapidly. |
-| **Dudley Street Neighborhood Initiative (Boston)** | Community-organized CLT in historically redlined neighborhood. Used eminent domain to acquire vacant land. | Prevented gentrification. Built 225+ affordable homes. Community controls its own land. National model for anti-displacement. |
-| **Kenya** | Community Land Act (2016) formalized communal land tenure. | Protects community land rights from speculative acquisition. Different context but same principle: land held in trust for community benefit. |
-| **The Irving at Mile High Vista (Denver)** | 102-unit all-electric affordable housing. ULC community land trust. Prop 123-funded. Opened January 2026. | 99-year affordability guarantee. Proof that Denver can build permanently affordable, sustainable housing right now — and that Proposition 123 funding works. |
+| CLT/Country                                        | Model                                                                                                      | Result                                                                                                                                                       |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Champlain Housing Trust (Burlington, VT)**       | Largest CLT in US. 2,800+ homes since 1984.                                                                | Foreclosure rates **10x lower** than conventional mortgages. Homes remain affordable across generations. Model for the movement.                             |
+| **London CLT (UK)**                                | Community-led development on public land. First homes delivered in 2017.                                   | Permanently affordable homes in one of the most expensive cities on Earth. Prices locked to local incomes, not the property market.                          |
+| **Brussels CLT (Belgium)**                         | Government-supported CLT producing affordable housing since 2012.                                          | Tripartite governance model. Housing affordable to families earning 30-60% of median income. Growing rapidly.                                                |
+| **Dudley Street Neighborhood Initiative (Boston)** | Community-organized CLT in historically redlined neighborhood. Used eminent domain to acquire vacant land. | Prevented gentrification. Built 225+ affordable homes. Community controls its own land. National model for anti-displacement.                                |
+| **Kenya**                                          | Community Land Act (2016) formalized communal land tenure.                                                 | Protects community land rights from speculative acquisition. Different context but same principle: land held in trust for community benefit.                 |
+| **The Irving at Mile High Vista (Denver)**         | 102-unit all-electric affordable housing. ULC community land trust. Prop 123-funded. Opened January 2026.  | 99-year affordability guarantee. Proof that Denver can build permanently affordable, sustainable housing right now — and that Proposition 123 funding works. |
 
 **The CLT model has been proven over 50+ years, across multiple countries and continents, at every scale.** It works because it separates the value of the home (which the owner keeps) from the value of the land (which the community holds). This removes speculation while preserving genuine homeownership.
 

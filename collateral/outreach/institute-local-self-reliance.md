@@ -24,6 +24,7 @@ In 2018, **85% of Denver voters** approved a ballot measure authorizing the city
 ### What We've Built
 
 Denver For All has a comprehensive Municipal Broadband policy proposal that includes:
+
 - Analysis of Denver's 2018 ballot measure and subsequent inaction
 - Comparative case studies: Longmont, Fort Collins, Chattanooga, and other successful municipal networks
 - Cost modeling and implementation pathways for a Denver municipal network ($30/month target)

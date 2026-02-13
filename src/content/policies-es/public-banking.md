@@ -4,6 +4,7 @@
 ## El Problema
 
 Denver deposita cientos de millones de dólares de los contribuyentes en bancos de Wall Street — JPMorgan Chase, Wells Fargo, Bank of America. Estos bancos:
+
 - Cobran tarifas a la ciudad y pagan un interés mínimo sobre los depósitos
 - Usan el dinero de Denver para financiar proyectos de combustibles fósiles, préstamos predatorios y operaciones especulativas
 - Proporcionan préstamos mínimos a pequeños negocios de Denver y vivienda asequible
@@ -23,6 +24,7 @@ Denver deposita sus fondos operativos en bancos comerciales bajo contratos de ge
 Un banco de propiedad pública, con carta municipal, siguiendo el modelo del Bank of North Dakota (operando exitosamente desde 1919).
 
 **Cómo funciona:**
+
 1. Denver deposita sus fondos operativos, ingresos fiscales y reservas en el Banco de Denver en lugar de bancos de Wall Street
 2. El banco usa estos depósitos para hacer préstamos a bajo interés para: desarrollo de vivienda asequible, préstamos a pequeños negocios (prioridad: negocios de propietarios minoritarios, cooperativas de trabajadores), proyectos de energía verde y eficiencia, y adquisiciones de fideicomisos comunitarios de tierras
 3. Los ingresos por intereses regresan a la ciudad — no a los accionistas de Wall Street
@@ -37,6 +39,7 @@ Un banco de propiedad pública, con carta municipal, siguiendo el modelo del Ban
 - **Refinanciamiento de Préstamos Estudiantiles:** Refinanciamiento a menor interés para residentes de Denver con deuda estudiantil (donde sea legalmente permitido)
 
 **Gobernanza:**
+
 - Junta designada por el concejo municipal (no solo por el alcalde)
 - Gestión bancaria profesional con experiencia bancaria
 - Auditoría pública anual
@@ -45,14 +48,14 @@ Un banco de propiedad pública, con carta municipal, siguiendo el modelo del Ban
 
 ### Evidencia Internacional: La Banca Pública es Normal
 
-| Institución | País | Fundada | Activos | Resultado |
-|------------|------|---------|---------|-----------|
-| **Sparkassen de Alemania** (más de 400 cajas de ahorro públicas) | Alemania | Siglo XIX | €1.4 billones en total | Sirven a 50 millones de clientes. Mayor sector bancario de Alemania. Legalmente obligados a servir al interés público. Las ganancias se reinvierten localmente. Crédito a pequeños negocios a tasas que Wall Street no iguala. |
-| **Bank of North Dakota** | EE.UU. | 1919 | ~$7B+ | Único banco público en EE.UU. Más de 100 años, cero pérdidas, retorna más de $100M/año al estado. ND tiene la tasa de fracasos bancarios más baja del país. Sobrevivió la Depresión, 2008, COVID. |
-| **KfW (Kreditanstalt für Wiederaufbau)** | Alemania | 1948 | €546 mil millones | Banco de desarrollo gubernamental. Financia energía verde, vivienda asequible, PYMEs. Motor clave de la Energiewende (transición energética) de Alemania. |
-| **Japan Post Bank** | Japón | 2006 (reestructurado) | ¥224 billones | Mayor depositario del mundo. Acceso universal — sucursal en cada comunidad. Inclusión financiera para poblaciones rurales y desatendidas. |
-| **Banco Nacional de Costa Rica** | Costa Rica | 1914 | Público/mixto | Banco más grande de Centroamérica. El banco público financia el desarrollo mientras los bancos privados sirven a las élites. |
-| **State Bank of India** | India | 1955 | $635 mil millones | Inclusión financiera para más de 450M de titulares de cuentas. Llega a comunidades rurales que los bancos privados ignoran. |
+| Institución                                                      | País       | Fundada               | Activos                | Resultado                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------- | ---------- | --------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sparkassen de Alemania** (más de 400 cajas de ahorro públicas) | Alemania   | Siglo XIX             | €1.4 billones en total | Sirven a 50 millones de clientes. Mayor sector bancario de Alemania. Legalmente obligados a servir al interés público. Las ganancias se reinvierten localmente. Crédito a pequeños negocios a tasas que Wall Street no iguala. |
+| **Bank of North Dakota**                                         | EE.UU.     | 1919                  | ~$7B+                  | Único banco público en EE.UU. Más de 100 años, cero pérdidas, retorna más de $100M/año al estado. ND tiene la tasa de fracasos bancarios más baja del país. Sobrevivió la Depresión, 2008, COVID.                              |
+| **KfW (Kreditanstalt für Wiederaufbau)**                         | Alemania   | 1948                  | €546 mil millones      | Banco de desarrollo gubernamental. Financia energía verde, vivienda asequible, PYMEs. Motor clave de la Energiewende (transición energética) de Alemania.                                                                      |
+| **Japan Post Bank**                                              | Japón      | 2006 (reestructurado) | ¥224 billones          | Mayor depositario del mundo. Acceso universal — sucursal en cada comunidad. Inclusión financiera para poblaciones rurales y desatendidas.                                                                                      |
+| **Banco Nacional de Costa Rica**                                 | Costa Rica | 1914                  | Público/mixto          | Banco más grande de Centroamérica. El banco público financia el desarrollo mientras los bancos privados sirven a las élites.                                                                                                   |
+| **State Bank of India**                                          | India      | 1955                  | $635 mil millones      | Inclusión financiera para más de 450M de titulares de cuentas. Llega a comunidades rurales que los bancos privados ignoran.                                                                                                    |
 
 **La banca pública está extendida a nivel mundial** — Alemania, Japón, India, Costa Rica y docenas de otras naciones dependen de bancos públicos como infraestructura financiera fundamental. La casi total ausencia de banca pública en EE.UU. es inusual entre las grandes economías. Solo en Alemania, los bancos públicos y cooperativos controlan más activos que los bancos privados. Sirven a las comunidades en lugar de extraer de ellas.
 

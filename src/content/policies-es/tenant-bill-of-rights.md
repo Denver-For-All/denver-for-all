@@ -6,6 +6,7 @@
 En Denver, un arrendador puede presentar un desalojo y un inquilino puede perder su hogar en tan solo 48 horas en algunos casos. Mas del 90% de los arrendadores en tribunales de desalojo tienen abogados. Menos del 10% de los inquilinos los tienen. El sistema esta disenado para los arrendadores -- los inquilinos son una ocurrencia tardia.
 
 Mas alla del desalojo, los inquilinos enfrentan:
+
 - Represalias por reportar violaciones al codigo o por organizarse
 - Cierres ilegales y cortes de servicios publicos
 - Robo de depositos de seguridad (arrendadores que retienen depositos sin justificacion)
@@ -38,6 +39,7 @@ Cuando un edificio de alquiler se vende, los inquilinos y las organizaciones de 
 
 **4. Protecciones Contra Represalias**
 Es ilegal que un arrendador aumente el alquiler, reduzca servicios o presente un desalojo dentro de los 12 meses posteriores a que un inquilino:
+
 - Presente una queja ante el departamento de cumplimiento del codigo
 - Reporte una violacion de salud o seguridad
 - Se organice o se una a un sindicato de inquilinos
@@ -50,12 +52,14 @@ La carga de la prueba recae en el arrendador: si una accion adversa ocurre dentr
 Los inquilinos tienen el derecho explicito de formar sindicatos de inquilinos, celebrar reuniones en areas comunes, distribuir literatura y negociar colectivamente con los arrendadores sobre las condiciones del edificio. La interferencia con la organizacion de inquilinos es una violacion con sanciones.
 
 **6. Estandares de Habitabilidad y Cumplimiento**
+
 - Estandares minimos detallados de habitabilidad (calefaccion, agua caliente, control de plagas, seguridad estructural, remediacion de moho)
 - Los inquilinos pueden retener el alquiler y depositarlo en custodia cuando el arrendador no aborde las violaciones de habitabilidad dentro de 14 dias
 - Los inspectores de la ciudad deben responder a las quejas dentro de 72 horas
 - Los infractores reincidentes son colocados en una lista publica de vigilancia de arrendadores
 
 **7. Protecciones de Deposito de Seguridad**
+
 - Depositos limitados a un mes de alquiler
 - Deben ser mantenidos en una cuenta de custodia que genere intereses
 - Se requiere lista detallada de deducciones dentro de 30 dias despues de la mudanza
@@ -74,21 +78,23 @@ Los arrendadores no pueden negar categoricamente la vivienda basandose en el his
 ## Como Lo Pagamos
 
 **Programa de Derecho a Representacion Legal:** $8-12M/ano
+
 - Financiado por: Aumento de tarifa de presentacion de desalojo ($200 por presentacion, pagada por el arrendador), porcion de ingresos del impuesto a la vacancia, reasignacion del gasto en refugios de emergencia (dar vivienda a las personas es mas barato que refugiarlas)
 - Ahorro de costos: El programa de derecho a representacion de NYC ahorra a la ciudad $320M/ano en costos evitados de refugio. Denver veria ahorros proporcionales.
 
 **Oficina de Cumplimiento:** $2-3M/ano
+
 - Financiado por: Tarifas de registro de arrendadores, ingresos por sanciones de violaciones
 
 ### Evidencia Internacional: Las Protecciones para Inquilinos Son Estandar en Otros Paises
 
-| Pais | Modelo | Resultado |
-|---------|-------|--------|
-| **Alemania** | Tenencia de por vida por defecto; los arrendadores solo pueden terminar por "causa justa" limitada. Los *Mietervereine* (asociaciones de inquilinos) representan a mas de 3 millones de miembros en disputas de vivienda. Los aumentos de alquiler estan regulados por indices locales de alquiler (*Mietspiegel*). | Uno de los regimenes mas fuertes de proteccion de inquilinos en el mundo. Mas del 50% de los alemanes alquilan, y la mayoria lo considera una forma estable y digna de vivir -- no un escalon hacia la propiedad. |
-| **Francia** | Los contratos residenciales estandar son de minimo 3 anos (6 anos para arrendadores corporativos). Prohibicion de desalojos en invierno (noviembre-marzo) -- nadie es puesto en la calle en invierno, punto. Los arrendadores deben proporcionar asistencia de reubicacion para cualquier desalojo. | Protecciones fuertes crean estabilidad de vivienda. Los inquilinos pueden planificar sus vidas. La idea de un desalojo en 30 dias seria considerada barbara. |
-| **Paises Bajos** | Los tribunales de alquiler (*Huurcommissie*) adjudican disputas. El gobierno establece alquileres maximos para la mayoria de las viviendas basandose en un sistema de puntos. Los inquilinos pueden impugnar alquileres excesivos retroactivamente. | Un sistema formal asegura la equidad. Los inquilinos tienen respaldo institucional real mas alla de la buena voluntad de cualquier arrendador individual. |
-| **Suecia** | Los sindicatos de inquilinos (*Hyresgastforeningen*) negocian colectivamente los alquileres con los arrendadores en nombre de todos los inquilinos de un edificio o area. Mas de 500,000 miembros. Los alquileres son negociados, no dictados. | Negociacion colectiva para vivienda -- los inquilinos negocian como bloque. Mantiene los alquileres razonables y da a los inquilinos poder real. |
-| **New York City, EE.UU.** | Derecho universal a representacion legal promulgado en 2017. Abogados financiados por la ciudad para todos los inquilinos en tribunales de desalojo en codigos postales cubiertos. | Los desalojos cayeron mas del 30% en areas cubiertas. El 84% de los inquilinos con representacion conservaron sus hogares. El programa ahorra a la ciudad $320M/ano en costos evitados de refugio. |
+| Pais                      | Modelo                                                                                                                                                                                                                                                                                                              | Resultado                                                                                                                                                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alemania**              | Tenencia de por vida por defecto; los arrendadores solo pueden terminar por "causa justa" limitada. Los _Mietervereine_ (asociaciones de inquilinos) representan a mas de 3 millones de miembros en disputas de vivienda. Los aumentos de alquiler estan regulados por indices locales de alquiler (_Mietspiegel_). | Uno de los regimenes mas fuertes de proteccion de inquilinos en el mundo. Mas del 50% de los alemanes alquilan, y la mayoria lo considera una forma estable y digna de vivir -- no un escalon hacia la propiedad. |
+| **Francia**               | Los contratos residenciales estandar son de minimo 3 anos (6 anos para arrendadores corporativos). Prohibicion de desalojos en invierno (noviembre-marzo) -- nadie es puesto en la calle en invierno, punto. Los arrendadores deben proporcionar asistencia de reubicacion para cualquier desalojo.                 | Protecciones fuertes crean estabilidad de vivienda. Los inquilinos pueden planificar sus vidas. La idea de un desalojo en 30 dias seria considerada barbara.                                                      |
+| **Paises Bajos**          | Los tribunales de alquiler (_Huurcommissie_) adjudican disputas. El gobierno establece alquileres maximos para la mayoria de las viviendas basandose en un sistema de puntos. Los inquilinos pueden impugnar alquileres excesivos retroactivamente.                                                                 | Un sistema formal asegura la equidad. Los inquilinos tienen respaldo institucional real mas alla de la buena voluntad de cualquier arrendador individual.                                                         |
+| **Suecia**                | Los sindicatos de inquilinos (_Hyresgastforeningen_) negocian colectivamente los alquileres con los arrendadores en nombre de todos los inquilinos de un edificio o area. Mas de 500,000 miembros. Los alquileres son negociados, no dictados.                                                                      | Negociacion colectiva para vivienda -- los inquilinos negocian como bloque. Mantiene los alquileres razonables y da a los inquilinos poder real.                                                                  |
+| **New York City, EE.UU.** | Derecho universal a representacion legal promulgado en 2017. Abogados financiados por la ciudad para todos los inquilinos en tribunales de desalojo en codigos postales cubiertos.                                                                                                                                  | Los desalojos cayeron mas del 30% en areas cubiertas. El 84% de los inquilinos con representacion conservaron sus hogares. El programa ahorra a la ciudad $320M/ano en costos evitados de refugio.                |
 
 **El patron es claro:** los paises que tratan a los inquilinos como titulares de derechos con apoyo institucional tienen mercados de vivienda estables y menor falta de vivienda. El modelo de EE.UU. de tratar a los inquilinos como ciudadanos de segunda clase con derechos minimos es la excepcion, no la norma.
 

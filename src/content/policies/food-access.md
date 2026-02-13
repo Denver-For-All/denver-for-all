@@ -1,36 +1,36 @@
 ---
-title: "Food Access & Urban Agriculture"
-titleEs: "Acceso a Alimentos y Agricultura Urbana"
-summary: "Eliminate food deserts in Denver by 2030. Healthy corner store initiative. Urban farm expansion on city land. Free school meals for all DPS students. Community food hubs in every food desert. Protect and expand community gardens."
-summaryEs: "Eliminar los desiertos alimentarios en Denver para 2030. Iniciativa de tiendas de esquina saludables. Expansión de granjas urbanas en terrenos municipales. Comidas escolares gratuitas para todos los estudiantes de DPS. Centros comunitarios de alimentos en cada desierto alimentario. Proteger y expandir los jardines comunitarios."
-category: "health"
-icon: "carrot"
+title: 'Food Access & Urban Agriculture'
+titleEs: 'Acceso a Alimentos y Agricultura Urbana'
+summary: 'Eliminate food deserts in Denver by 2030. Healthy corner store initiative. Urban farm expansion on city land. Free school meals for all DPS students. Community food hubs in every food desert. Protect and expand community gardens.'
+summaryEs: 'Eliminar los desiertos alimentarios en Denver para 2030. Iniciativa de tiendas de esquina saludables. Expansión de granjas urbanas en terrenos municipales. Comidas escolares gratuitas para todos los estudiantes de DPS. Centros comunitarios de alimentos en cada desierto alimentario. Proteger y expandir los jardines comunitarios.'
+category: 'health'
+icon: 'carrot'
 order: 22
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "33%"
-    label: "of Denver faces food insecurity"
-    labelEs: "de Denver enfrenta inseguridad alimentaria"
-    context: "Triple the pre-pandemic rate — and climbing after SNAP expansions expired"
-    contextEs: "Triple la tasa pre-pandemia — y subiendo despues de que expiraron las expansiones de SNAP"
-    source: "Denver DDPHE; Hunger Free Colorado"
-    theme: "danger"
-  - value: "93%"
-    label: "of Globeville has no grocery store nearby"
-    labelEs: "de Globeville no tiene supermercado cerca"
-    context: "In Clayton it is 100%. Predominantly Black and Latino neighborhoods."
-    contextEs: "En Clayton es 100%. Vecindarios predominantemente negros y latinos."
-    source: "Denver Human Services Index"
-    theme: "danger"
-  - value: "60%"
-    label: "drop in child mortality in Belo Horizonte"
-    labelEs: "caida en mortalidad infantil en Belo Horizonte"
-    context: "Brazil declared food a right in 1993 — cost just 2% of the city budget"
-    contextEs: "Brasil declaro la alimentacion un derecho en 1993 — costo solo 2% del presupuesto"
-    source: "City of Belo Horizonte"
-    theme: "primary"
+  - value: '33%'
+    label: 'of Denver faces food insecurity'
+    labelEs: 'de Denver enfrenta inseguridad alimentaria'
+    context: 'Triple the pre-pandemic rate — and climbing after SNAP expansions expired'
+    contextEs: 'Triple la tasa pre-pandemia — y subiendo despues de que expiraron las expansiones de SNAP'
+    source: 'Denver DDPHE; Hunger Free Colorado'
+    theme: 'danger'
+  - value: '93%'
+    label: 'of Globeville has no grocery store nearby'
+    labelEs: 'de Globeville no tiene supermercado cerca'
+    context: 'In Clayton it is 100%. Predominantly Black and Latino neighborhoods.'
+    contextEs: 'En Clayton es 100%. Vecindarios predominantemente negros y latinos.'
+    source: 'Denver Human Services Index'
+    theme: 'danger'
+  - value: '60%'
+    label: 'drop in child mortality in Belo Horizonte'
+    labelEs: 'caida en mortalidad infantil en Belo Horizonte'
+    context: 'Brazil declared food a right in 1993 — cost just 2% of the city budget'
+    contextEs: 'Brasil declaro la alimentacion un derecho en 1993 — costo solo 2% del presupuesto'
+    source: 'City of Belo Horizonte'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -94,13 +94,13 @@ These programs matter, but they do not add up to a food system. Denver still lac
 
 ### International Evidence: Food Access as Public Health
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
+| Country/City               | Model                                                                                                                                                                                                                                                                 | Result                                                                                                                                                                                                                 |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Belo Horizonte, Brazil** | Declared food a right of citizenship in 1993. Created a city food agency (SUSAN) running 20 interconnected programs: subsidized restaurants serving nutritious meals for $0.50, direct farm-to-city food distribution, school meal programs. Cost: 2% of city budget. | Child mortality reduced 60% within a decade. Child hospitalization for malnutrition reduced 75%. Poverty reduced 25%. Programs reach 800,000 people daily. Became blueprint for Brazil's national Zero Hunger program. |
-| **Havana, Cuba** | After Soviet collapse cut food imports, converted vacant urban lots to organoponicos (raised-bed organic farms). Labor-intensive, community-managed, no petroleum-based inputs. | Produces 90% of fresh fruits and vegetables consumed in the city. 26,000+ gardens covering 2,400+ hectares. 44,000 urban agricultural workers. 40% of households involved in food production. |
-| **Detroit, USA** | Converted thousands of vacant lots in a post-industrial city to urban farms and gardens. Community-led food sovereignty movement, led by organizations like Keep Growing Detroit and the Detroit Black Community Food Sovereignty Network. | 2,200+ urban farms and gardens engaging 20,000+ residents. City appointed its first Director of Urban Agriculture in 2023. National model for community food sovereignty. |
-| **Copenhagen, Denmark** | City food strategy mandating 90% organic ingredients in all public institution meals, including schools, daycare, and elder care. Achieved without increasing food budgets by investing in kitchen staff training. | Surpassed 90% organic across 900+ municipal kitchens. Over 6,000 fresh school meals prepared daily. Reduced pesticide exposure. Highest percentage of organic public food of any city in the world. |
-| **South Korea** | Universal free school meals movement started in Seoul, expanded to all elementary through high school students nationwide by 2021. Funded by central and local governments. | 5.85 million students fed daily across 19,713 schools. Reduced student misbehavior by 35%. Reduced underachievement by 13%. Eliminated stigma of "free lunch kids." Saves families ~$700/child/year. |
+| **Havana, Cuba**           | After Soviet collapse cut food imports, converted vacant urban lots to organoponicos (raised-bed organic farms). Labor-intensive, community-managed, no petroleum-based inputs.                                                                                       | Produces 90% of fresh fruits and vegetables consumed in the city. 26,000+ gardens covering 2,400+ hectares. 44,000 urban agricultural workers. 40% of households involved in food production.                          |
+| **Detroit, USA**           | Converted thousands of vacant lots in a post-industrial city to urban farms and gardens. Community-led food sovereignty movement, led by organizations like Keep Growing Detroit and the Detroit Black Community Food Sovereignty Network.                            | 2,200+ urban farms and gardens engaging 20,000+ residents. City appointed its first Director of Urban Agriculture in 2023. National model for community food sovereignty.                                              |
+| **Copenhagen, Denmark**    | City food strategy mandating 90% organic ingredients in all public institution meals, including schools, daycare, and elder care. Achieved without increasing food budgets by investing in kitchen staff training.                                                    | Surpassed 90% organic across 900+ municipal kitchens. Over 6,000 fresh school meals prepared daily. Reduced pesticide exposure. Highest percentage of organic public food of any city in the world.                    |
+| **South Korea**            | Universal free school meals movement started in Seoul, expanded to all elementary through high school students nationwide by 2021. Funded by central and local governments.                                                                                           | 5.85 million students fed daily across 19,713 schools. Reduced student misbehavior by 35%. Reduced underachievement by 13%. Eliminated stigma of "free lunch kids." Saves families ~$700/child/year.                   |
 
 Access to food is a human right, not a market privilege. Every international model that has treated food access as public infrastructure has seen dramatic returns: lower healthcare costs, better educational outcomes, reduced poverty, and stronger local economies. Every dollar invested in local food systems generates a multiplier effect, circulating through local farms, food businesses, and communities rather than flowing to distant corporate supply chains. Denver can join this global movement, and the economics are overwhelmingly in our favor.
 

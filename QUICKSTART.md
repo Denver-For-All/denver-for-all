@@ -22,22 +22,22 @@ You're building a campaign or coalition and need a professional web presence wit
 
 Out of the box, this platform gives you:
 
-| Feature | What It Does |
-|---------|-------------|
-| **49 policy pages** | Data-driven proposals with citations, organized by category. Edit the Markdown files in `src/content/policies/` to replace with your city's policies. |
-| **48 Spanish translations** | Full policy translations in `src/content/policies-es/`, following i18n directory conventions. |
-| **Eviction tracker** | Dashboard of eviction filings by landlord and neighborhood. Requires a local court data source. |
-| **Campaign finance tool** | Follow the money — see who's funding your city council. Requires local campaign finance data. |
-| **Data stories** | Scrollytelling visualizations for eviction data, sidewalk conditions, and money in politics. |
-| **Candidate & mayoral trackers** | Questionnaire responses from council and mayoral candidates, published unedited. |
-| **Rent calculator** | Interactive tool showing savings under proposed rent stabilization. |
-| **Tenant rights chatbot** | 24/7 AI-powered know-your-rights in English and Spanish (via vAPI). |
-| **State sponsor tracker** | Colorado legislators sponsoring bills aligned with the platform. |
-| **Resistbot campaigns** | Pre-written letters to elected officials, one tap to send. |
-| **Volunteer signup** | Google Forms integration for recruiting organizers. |
-| **Candidate recruitment** | Application pipeline for progressive candidates. |
-| **Newsletter** | Email capture via Resend (free tier). |
-| **Bilingual support** | English/Spanish toggle with i18n framework ready for more languages. |
+| Feature                          | What It Does                                                                                                                                          |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **49 policy pages**              | Data-driven proposals with citations, organized by category. Edit the Markdown files in `src/content/policies/` to replace with your city's policies. |
+| **48 Spanish translations**      | Full policy translations in `src/content/policies-es/`, following i18n directory conventions.                                                         |
+| **Eviction tracker**             | Dashboard of eviction filings by landlord and neighborhood. Requires a local court data source.                                                       |
+| **Campaign finance tool**        | Follow the money — see who's funding your city council. Requires local campaign finance data.                                                         |
+| **Data stories**                 | Scrollytelling visualizations for eviction data, sidewalk conditions, and money in politics.                                                          |
+| **Candidate & mayoral trackers** | Questionnaire responses from council and mayoral candidates, published unedited.                                                                      |
+| **Rent calculator**              | Interactive tool showing savings under proposed rent stabilization.                                                                                   |
+| **Tenant rights chatbot**        | 24/7 AI-powered know-your-rights in English and Spanish (via vAPI).                                                                                   |
+| **State sponsor tracker**        | Colorado legislators sponsoring bills aligned with the platform.                                                                                      |
+| **Resistbot campaigns**          | Pre-written letters to elected officials, one tap to send.                                                                                            |
+| **Volunteer signup**             | Google Forms integration for recruiting organizers.                                                                                                   |
+| **Candidate recruitment**        | Application pipeline for progressive candidates.                                                                                                      |
+| **Newsletter**                   | Email capture via Resend (free tier).                                                                                                                 |
+| **Bilingual support**            | English/Spanish toggle with i18n framework ready for more languages.                                                                                  |
 
 **Total annual cost:** $70–300 for a basic deployment (domain + optional AI chatbot). Hosting, email routing, newsletter, and forms are all free tier.
 
@@ -53,23 +53,27 @@ All 49 policies live in `src/content/policies/` as Markdown files. Each one look
 
 ```markdown
 ---
-title: "Rent Stabilization"
-category: "housing"
-status: "proposed"
-summary: "Cap annual rent increases at 3% plus inflation..."
+title: 'Rent Stabilization'
+category: 'housing'
+status: 'proposed'
+summary: 'Cap annual rent increases at 3% plus inflation...'
 ---
 
 ## The Problem
+
 [Your local data and framing here]
 
 ## The Policy
+
 [What specifically you're proposing]
 
 ## The Evidence
+
 [Citations, data, comparable cities]
 ```
 
 You don't need to start from scratch. Use Denver's policies as a template and swap in:
+
 - Your city's housing data, wage data, demographic stats
 - Your local laws and ordinances as the baseline
 - Comparable policy wins from similar cities
@@ -78,6 +82,7 @@ You don't need to start from scratch. Use Denver's policies as a template and sw
 ### City-specific references
 
 Search the codebase for "Denver" and replace with your city name. Key files:
+
 - `src/layouts/Layout.astro` — site title, meta tags
 - `src/pages/index.astro` — homepage copy
 - `src/i18n/en.json` and `src/i18n/es.json` — UI strings
@@ -86,6 +91,7 @@ Search the codebase for "Denver" and replace with your city name. Key files:
 ### Data tools
 
 The eviction tracker and campaign finance tools need local data sources. Every city's court system and campaign finance disclosures work differently. See the `workers/` directory for the schema — you'll need to find your local equivalents:
+
 - **Evictions:** County court records, often available via PACER or your county clerk's website
 - **Campaign finance:** Your city/state's ethics commission or secretary of state filings
 
@@ -153,6 +159,7 @@ Create two Google Forms:
 **Candidate application:** Name, email, occupation, connection to your city, why they want to run, which office, willingness to reject corporate PAC money
 
 Update the form URLs in:
+
 - `src/pages/take-action.astro`
 - `src/pages/run-for-denver.astro` (rename this page for your city)
 
@@ -221,16 +228,16 @@ public/              Static assets
 
 ## Cost Summary
 
-| Item | Annual Cost |
-|------|------------|
-| Domain | $10–12 |
-| Cloudflare Pages + Workers | Free |
-| Email routing | Free |
-| Resend (transactional email) | Free tier |
-| Google Forms | Free |
-| vAPI chatbot (est. 20 calls/month) | $60–150 |
-| **Total (without chatbot)** | **~$12** |
-| **Total (with chatbot)** | **$70–162** |
+| Item                               | Annual Cost |
+| ---------------------------------- | ----------- |
+| Domain                             | $10–12      |
+| Cloudflare Pages + Workers         | Free        |
+| Email routing                      | Free        |
+| Resend (transactional email)       | Free tier   |
+| Google Forms                       | Free        |
+| vAPI chatbot (est. 20 calls/month) | $60–150     |
+| **Total (without chatbot)**        | **~$12**    |
+| **Total (with chatbot)**           | **$70–162** |
 
 ## Questions?
 

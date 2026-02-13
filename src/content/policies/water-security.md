@@ -1,34 +1,34 @@
 ---
-title: "Water Security & Conservation"
-titleEs: "Seguridad Hídrica y Conservación del Agua"
+title: 'Water Security & Conservation'
+titleEs: 'Seguridad Hídrica y Conservación del Agua'
 summary: "Protect Denver's water future. Mandatory conservation standards, greywater recycling, drought-resilient infrastructure, and equitable water rates. Denver is a semi-arid city acting like water is unlimited. It isn't."
-summaryEs: "Proteger el futuro hídrico de Denver. Estándares obligatorios de conservación, reciclaje de aguas grises, infraestructura resistente a la sequía y tarifas de agua equitativas. Denver es una ciudad semiárida que actúa como si el agua fuera ilimitada. No lo es."
-category: "climate"
-icon: "droplets"
+summaryEs: 'Proteger el futuro hídrico de Denver. Estándares obligatorios de conservación, reciclaje de aguas grises, infraestructura resistente a la sequía y tarifas de agua equitativas. Denver es una ciudad semiárida que actúa como si el agua fuera ilimitada. No lo es.'
+category: 'climate'
+icon: 'droplets'
 order: 32
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "14-17 in."
-    label: "rain per year — half the national average"
-    labelEs: "lluvia al ano — la mitad del promedio nacional"
-    context: "Denver is a semi-arid city that landscapes like it rains in Seattle"
-    contextEs: "Denver es una ciudad semiarida que se jardinea como si lloviera como en Seattle"
-    theme: "danger"
-  - value: "50%"
-    label: "residential water used on lawn irrigation"
-    labelEs: "agua residencial usada para regar cesped"
-    context: "Kentucky bluegrass needs 30+ inches of water. Denver gets 14-17."
-    contextEs: "El pasto Kentucky bluegrass necesita mas de 30 pulgadas de agua. Denver recibe 14-17."
-    theme: "accent"
-  - value: "-50%"
-    label: "Melbourne cut water use in half — and kept it"
-    labelEs: "Melbourne redujo el uso de agua a la mitad y lo mantuvo"
-    context: "Mandatory conservation during drought, permanent rules after"
-    contextEs: "Conservacion obligatoria durante la sequia, reglas permanentes despues"
-    source: "City of Melbourne"
-    theme: "primary"
+  - value: '14-17 in.'
+    label: 'rain per year — half the national average'
+    labelEs: 'lluvia al ano — la mitad del promedio nacional'
+    context: 'Denver is a semi-arid city that landscapes like it rains in Seattle'
+    contextEs: 'Denver es una ciudad semiarida que se jardinea como si lloviera como en Seattle'
+    theme: 'danger'
+  - value: '50%'
+    label: 'residential water used on lawn irrigation'
+    labelEs: 'agua residencial usada para regar cesped'
+    context: 'Kentucky bluegrass needs 30+ inches of water. Denver gets 14-17.'
+    contextEs: 'El pasto Kentucky bluegrass necesita mas de 30 pulgadas de agua. Denver recibe 14-17.'
+    theme: 'accent'
+  - value: '-50%'
+    label: 'Melbourne cut water use in half — and kept it'
+    labelEs: 'Melbourne redujo el uso de agua a la mitad y lo mantuvo'
+    context: 'Mandatory conservation during drought, permanent rules after'
+    contextEs: 'Conservacion obligatoria durante la sequia, reglas permanentes despues'
+    source: 'City of Melbourne'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -37,7 +37,7 @@ Denver sits in a semi-arid climate that receives approximately 14-17 inches of p
 
 ### The Snowpack Crisis
 
-Colorado's snowpack — the frozen reservoir that feeds Denver's rivers and reservoirs — is declining. The Colorado River basin has experienced a 20+ year megadrought, the worst in 1,200 years (Williams et al., *Science*, 2022). Warmer temperatures cause earlier snowmelt, reducing the amount of water that makes it into reservoirs during peak demand months. The U.S. Bureau of Reclamation has declared unprecedented shortage conditions on the Colorado River, triggering mandatory cutbacks for downstream states. While Denver's direct Colorado River diversions (through the Roberts Tunnel and Moffat Collection System) have senior water rights, the broader basin crisis threatens the entire system's stability.
+Colorado's snowpack — the frozen reservoir that feeds Denver's rivers and reservoirs — is declining. The Colorado River basin has experienced a 20+ year megadrought, the worst in 1,200 years (Williams et al., _Science_, 2022). Warmer temperatures cause earlier snowmelt, reducing the amount of water that makes it into reservoirs during peak demand months. The U.S. Bureau of Reclamation has declared unprecedented shortage conditions on the Colorado River, triggering mandatory cutbacks for downstream states. While Denver's direct Colorado River diversions (through the Roberts Tunnel and Moffat Collection System) have senior water rights, the broader basin crisis threatens the entire system's stability.
 
 ### Denver Water: An Island Unto Itself
 
@@ -99,13 +99,13 @@ Denver Water has implemented tiered water rates (higher per-gallon cost at highe
 
 ### International Evidence: Water-Smart Cities
 
-| City/Country | Model | Result |
-|-------------|-------|--------|
-| **Israel** | National water conservation mandate. Drip irrigation (invented in Israel) universal in agriculture. Desalination plants provide 80% of domestic water. Wastewater recycling rate: 85% (highest in world). | Turned a water-scarce desert nation into a water-surplus country. Per-capita water use dropped 25% while population doubled. Recycled wastewater irrigates more than 50% of agriculture. |
-| **Singapore** | "Four National Taps" strategy: imported water, local catchment, desalinated water, and NEWater (recycled wastewater treated to drinking standards). | NEWater meets 40% of Singapore's water demand. City-state with zero natural water sources now has water security through innovation. Target: 85% non-imported water by 2060. |
-| **Melbourne, Australia** | Mandatory water restrictions during Millennium Drought (1997-2009). Permanent water conservation rules afterward. Rebates for rainwater tanks and efficient fixtures. Target 155: voluntary 155 liters/person/day goal. | Per-capita water use dropped 50% during drought and remained 30% below pre-drought levels permanently. Culture of water conservation became self-sustaining. |
-| **Windhoek, Namibia** | Direct potable reuse since 1968 — recycled wastewater treated to drinking water standards. World's longest-running potable reuse system. | Provides up to 35% of drinking water from recycled wastewater. Proven safe over 50+ years of operation. Model for arid cities worldwide. |
-| **Tucson, AZ** | Rainwater harvesting required for all new commercial development. Greywater reuse permitted and encouraged. Rebates for xeriscaping. | Reduced per-capita water use by 30% since 2000 while population grew. Demonstrates what a southwestern US city can do when it takes water seriously. |
+| City/Country             | Model                                                                                                                                                                                                                   | Result                                                                                                                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Israel**               | National water conservation mandate. Drip irrigation (invented in Israel) universal in agriculture. Desalination plants provide 80% of domestic water. Wastewater recycling rate: 85% (highest in world).               | Turned a water-scarce desert nation into a water-surplus country. Per-capita water use dropped 25% while population doubled. Recycled wastewater irrigates more than 50% of agriculture. |
+| **Singapore**            | "Four National Taps" strategy: imported water, local catchment, desalinated water, and NEWater (recycled wastewater treated to drinking standards).                                                                     | NEWater meets 40% of Singapore's water demand. City-state with zero natural water sources now has water security through innovation. Target: 85% non-imported water by 2060.             |
+| **Melbourne, Australia** | Mandatory water restrictions during Millennium Drought (1997-2009). Permanent water conservation rules afterward. Rebates for rainwater tanks and efficient fixtures. Target 155: voluntary 155 liters/person/day goal. | Per-capita water use dropped 50% during drought and remained 30% below pre-drought levels permanently. Culture of water conservation became self-sustaining.                             |
+| **Windhoek, Namibia**    | Direct potable reuse since 1968 — recycled wastewater treated to drinking water standards. World's longest-running potable reuse system.                                                                                | Provides up to 35% of drinking water from recycled wastewater. Proven safe over 50+ years of operation. Model for arid cities worldwide.                                                 |
+| **Tucson, AZ**           | Rainwater harvesting required for all new commercial development. Greywater reuse permitted and encouraged. Rebates for xeriscaping.                                                                                    | Reduced per-capita water use by 30% since 2000 while population grew. Demonstrates what a southwestern US city can do when it takes water seriously.                                     |
 
 **Denver receives less precipitation than Tucson** and has done less to conserve. Israel turned a desert into agricultural abundance through technology and political will. Singapore achieved water security with zero natural water sources. Denver has advantages these cities don't — mountain snowpack, alluvial aquifers, and existing reservoir infrastructure. What Denver lacks is urgency and policy ambition.
 
@@ -141,7 +141,7 @@ We're attacking the idea that a city receiving 14-17 inches of rain per year sho
 
 ## References
 
-- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020–2021." *Nature Climate Change*. (Worst drought in 1,200 years.)
+- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020–2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
 - U.S. Bureau of Reclamation. Colorado River Basin water supply reports and shortage declarations.
 - Denver Water. Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
 - American Water Works Association. Cost-benefit analysis of demand management vs. supply expansion.

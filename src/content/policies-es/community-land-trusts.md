@@ -22,17 +22,20 @@ Sin embargo, la escala esta muy por debajo de lo necesario. Elevation CLT agrega
 **CLTs financiados por la ciudad:** Denver financia 5 Fideicomisos de Tierras Comunitarios - uno para cada region geografica de la ciudad - con $10M cada uno en capital inicial ($50M en total).
 
 **Como funcionan los CLTs:**
+
 1. El CLT es dueno de la tierra. Permanentemente.
 2. Los propietarios compran (o alquilan) el edificio sobre la tierra.
 3. Cuando venden, los precios de reventa estan limitados por formula - tipicamente permitiendo al propietario recuperar su inversion + capital de mejoras + una participacion modesta en la apreciacion (por ejemplo, 25% de la apreciacion del mercado).
 4. El siguiente comprador obtiene la vivienda a un precio asequible. Para siempre.
 
 **Gobernanza:** Cada CLT es gobernado por una junta tripartita:
+
 - 1/3 residentes del CLT
 - 1/3 miembros de la comunidad (vecinos no residentes)
 - 1/3 representantes publicos (designados por la ciudad con experiencia en vivienda)
 
 **Estrategia de adquisicion:**
+
 - Derecho de primera compra cuando propiedades en zonas anti-desplazamiento se ponen a la venta
 - Adquirir propiedades de la desinversion de arrendadores corporativos (ver: Corporate Landlord Ban)
 - Asociarse con Social Housing Authority para edificios multifamiliares
@@ -42,14 +45,14 @@ Sin embargo, la escala esta muy por debajo de lo necesario. Elevation CLT agrega
 
 ### Evidencia Internacional: La Propiedad Comunitaria de Tierras Funciona
 
-| CLT/Pais | Modelo | Resultado |
-|------------|-------|--------|
-| **Champlain Housing Trust (Burlington, VT)** | El CLT mas grande de EE.UU. Mas de 2,800 viviendas desde 1984. | Tasas de ejecucion hipotecaria **10 veces menores** que las hipotecas convencionales. Las viviendas permanecen asequibles a traves de generaciones. Modelo para el movimiento. |
-| **London CLT (UK)** | Desarrollo liderado por la comunidad en terrenos publicos. Primeras viviendas entregadas en 2017. | Viviendas permanentemente asequibles en una de las ciudades mas caras del planeta. Precios vinculados a los ingresos locales, no al mercado inmobiliario. |
-| **Brussels CLT (Belgium)** | CLT apoyado por el gobierno que produce vivienda asequible desde 2012. | Modelo de gobernanza tripartita. Vivienda asequible para familias que ganan 30-60% del ingreso medio. Creciendo rapidamente. |
-| **Dudley Street Neighborhood Initiative (Boston)** | CLT organizado por la comunidad en un vecindario historicamente discriminado. Uso dominio eminente para adquirir terrenos vacantes. | Previno la gentrificacion. Construyo mas de 225 viviendas asequibles. La comunidad controla su propia tierra. Modelo nacional contra el desplazamiento. |
-| **Kenya** | Community Land Act (2016) formalizo la tenencia comunal de tierras. | Protege los derechos de tierras comunitarias contra la adquisicion especulativa. Contexto diferente pero mismo principio: tierra en fideicomiso para beneficio comunitario. |
-| **The Irving at Mile High Vista (Denver)** | 102 unidades de vivienda asequible completamente electrica. Fideicomiso de tierras comunitario de ULC. Financiado por Prop 123. Abierto en enero de 2026. | Garantia de asequibilidad de 99 anos. Prueba de que Denver puede construir vivienda permanentemente asequible y sostenible ahora mismo — y que el financiamiento de la Proposition 123 funciona. |
+| CLT/Pais                                           | Modelo                                                                                                                                                    | Resultado                                                                                                                                                                                        |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Champlain Housing Trust (Burlington, VT)**       | El CLT mas grande de EE.UU. Mas de 2,800 viviendas desde 1984.                                                                                            | Tasas de ejecucion hipotecaria **10 veces menores** que las hipotecas convencionales. Las viviendas permanecen asequibles a traves de generaciones. Modelo para el movimiento.                   |
+| **London CLT (UK)**                                | Desarrollo liderado por la comunidad en terrenos publicos. Primeras viviendas entregadas en 2017.                                                         | Viviendas permanentemente asequibles en una de las ciudades mas caras del planeta. Precios vinculados a los ingresos locales, no al mercado inmobiliario.                                        |
+| **Brussels CLT (Belgium)**                         | CLT apoyado por el gobierno que produce vivienda asequible desde 2012.                                                                                    | Modelo de gobernanza tripartita. Vivienda asequible para familias que ganan 30-60% del ingreso medio. Creciendo rapidamente.                                                                     |
+| **Dudley Street Neighborhood Initiative (Boston)** | CLT organizado por la comunidad en un vecindario historicamente discriminado. Uso dominio eminente para adquirir terrenos vacantes.                       | Previno la gentrificacion. Construyo mas de 225 viviendas asequibles. La comunidad controla su propia tierra. Modelo nacional contra el desplazamiento.                                          |
+| **Kenya**                                          | Community Land Act (2016) formalizo la tenencia comunal de tierras.                                                                                       | Protege los derechos de tierras comunitarias contra la adquisicion especulativa. Contexto diferente pero mismo principio: tierra en fideicomiso para beneficio comunitario.                      |
+| **The Irving at Mile High Vista (Denver)**         | 102 unidades de vivienda asequible completamente electrica. Fideicomiso de tierras comunitario de ULC. Financiado por Prop 123. Abierto en enero de 2026. | Garantia de asequibilidad de 99 anos. Prueba de que Denver puede construir vivienda permanentemente asequible y sostenible ahora mismo — y que el financiamiento de la Proposition 123 funciona. |
 
 **El modelo CLT ha sido probado durante mas de 50 anos, en multiples paises y continentes, a toda escala.** Funciona porque separa el valor de la vivienda (que el propietario conserva) del valor de la tierra (que la comunidad mantiene). Esto elimina la especulacion mientras preserva la propiedad genuina de vivienda.
 

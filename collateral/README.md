@@ -11,11 +11,13 @@ $200–800/month from small donors funds all ongoing operations: Claude API toke
 ## Collateral
 
 ### Open Collective Setup
+
 - `fiscal-sponsorship/open-collective-assessment.md` — Full assessment, legal compliance, implementation steps
 - `fundraising/transparency-statement.md` — Transparency & accountability statement for the website
 - `fundraising/donation-page-copy.md` — Donation tiers, recurring copy, social sharing, email appeals
 
 ### Partnership Outreach (No Fiscal Status Required)
+
 - `outreach/local-progress-colorado.md` — Join network of progressive local officials
 - `outreach/movement-voter-project.md` — Partner application for organizing funding
 - `outreach/fund-for-housing-opportunity.md` — Housing research partnership
@@ -24,4 +26,5 @@ $200–800/month from small donors funds all ongoing operations: Claude API toke
 - `outreach/institute-local-self-reliance.md` — Municipal broadband research partner
 
 ### Reusable
+
 - `organizational-profile.md` — Core org description, mission, metrics, evidence

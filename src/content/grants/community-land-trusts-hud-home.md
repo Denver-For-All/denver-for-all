@@ -1,14 +1,14 @@
 ---
-title: "HUD HOME — Denver Community Land Trust Expansion"
-titleEs: "HUD HOME — Expansión del Fideicomiso de Tierras Comunitarias de Denver"
+title: 'HUD HOME — Denver Community Land Trust Expansion'
+titleEs: 'HUD HOME — Expansión del Fideicomiso de Tierras Comunitarias de Denver'
 summary: "HUD HOME Investment Partnerships Program grant template for scaling community land trust acquisitions to create 500 permanently affordable homes in Denver's highest-displacement-risk neighborhoods."
-summaryEs: "Plantilla de subvención del Programa de Asociaciones de Inversión HOME de HUD para escalar las adquisiciones de fideicomisos de tierras comunitarias y crear 500 viviendas permanentemente asequibles en los vecindarios de Denver con mayor riesgo de desplazamiento."
-policySlug: "community-land-trusts"
-grantProgram: "HOME Investment Partnerships Program"
-fundingAgency: "U.S. Department of Housing and Urban Development (HUD)"
-estimatedAmount: "$8-12M over 3 years"
-deadline: "Formula allocation (annual); competitive set-asides vary"
-status: "draft"
+summaryEs: 'Plantilla de subvención del Programa de Asociaciones de Inversión HOME de HUD para escalar las adquisiciones de fideicomisos de tierras comunitarias y crear 500 viviendas permanentemente asequibles en los vecindarios de Denver con mayor riesgo de desplazamiento.'
+policySlug: 'community-land-trusts'
+grantProgram: 'HOME Investment Partnerships Program'
+fundingAgency: 'U.S. Department of Housing and Urban Development (HUD)'
+estimatedAmount: '$8-12M over 3 years'
+deadline: 'Formula allocation (annual); competitive set-asides vary'
+status: 'draft'
 ---
 
 ## Project Narrative
@@ -30,6 +30,7 @@ status: "draft"
 **Project Area:** City and County of Denver, Colorado (population ~715,000)
 
 **Priority Neighborhoods (ranked by displacement risk, rent burden, and loss of affordable units):**
+
 - Globeville
 - Elyria-Swansea
 - Sun Valley
@@ -52,17 +53,20 @@ status: "draft"
 Denver's housing affordability crisis has reached a scale that conventional subsidy programs cannot address alone. The data demonstrates an urgent need for permanently affordable homeownership models:
 
 **Housing Cost Data:**
+
 - Denver rents have increased 85% since 2010, with the average one-bedroom apartment now exceeding $1,600/month
 - Median home sale price in Denver exceeded $580,000 in 2024, pricing out households earning below 120% of area median income
 - More than 50% of Denver renters are cost-burdened (paying over 30% of income on housing)
 - Denver lost approximately 20,000 naturally occurring affordable rental units between 2010 and 2024
 
 **Displacement Indicators:**
+
 - Target neighborhoods have experienced 15-40% demographic turnover in the past decade driven by rising costs
 - Communities of color — particularly Latino, Black, and Indigenous households — are disproportionately affected by displacement from historically redlined neighborhoods
 - Displacement severs residents from schools, jobs, healthcare, social networks, and transit access
 
 **Limitations of Current Approaches:**
+
 - Conventional affordable housing subsidies expire after 15-30 year compliance periods, returning units to market rate
 - Denver's existing inclusionary housing ordinance produces hundreds of units annually, but affordability restrictions are time-limited
 - Elevation Community Land Trust currently adds only 20-40 permanently affordable homes per year, constrained by acquisition funding
@@ -73,6 +77,7 @@ Denver's housing affordability crisis has reached a scale that conventional subs
 The community land trust model addresses the root cause of housing unaffordability — speculative land value escalation — by permanently separating land ownership from building ownership:
 
 **How CLTs Work:**
+
 - A nonprofit community land trust acquires land and holds it permanently on behalf of the community
 - Homebuyers purchase the building (house or condo) at a below-market price, but the land beneath it remains owned by the CLT
 - Homeowners pay a modest monthly ground lease fee (typically $25-75/month) that funds ongoing CLT operations
@@ -80,18 +85,22 @@ The community land trust model addresses the root cause of housing unaffordabili
 - This structure removes land speculation from the equation, keeping homes permanently affordable across generations
 
 **Governance Structure:**
+
 - CLTs use a tripartite governance model: one-third CLT resident homeowners, one-third community members from the surrounding neighborhood, and one-third public representatives (city officials, housing experts, nonprofit leaders)
 - This structure ensures accountability to residents, responsiveness to neighborhood needs, and alignment with public policy goals
 
 **Proven Track Record:**
+
 - Champlain Housing Trust (Burlington, VT): 2,800+ permanently affordable homes since 1984, with foreclosure rates 10 times lower than conventional mortgages
 - Dudley Street Neighborhood Initiative (Boston, MA): community-controlled CLT that reversed decades of disinvestment and displacement in Roxbury and North Dorchester
 - London Community Land Trust (UK) and Community Land Trust Brussels (Belgium): international models demonstrating the scalability of CLTs in high-cost urban markets
 
 **Recent Local Success:**
+
 - In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community in West Colfax — one of the 12 target neighborhoods identified in this proposal. The Irving serves households at 20-80% AMI with 99-year affordability through ULC's community land trust, and was one of the first Proposition 123-funded projects to open. Denver HOST provided a $4,080,000 loan, demonstrating the exact type of public investment-CLT partnership this proposal seeks to scale. The Irving proves that the CLT model can deliver permanently affordable, climate-forward housing in Denver's highest-displacement-risk neighborhoods.
 
 **Long-Term Sustainability:**
+
 - CLTs are self-sustaining once established at scale — ground lease fees, resale transaction fees, and stewardship revenues cover ongoing operations
 - Every public dollar invested in CLT acquisition creates a permanently affordable home, unlike time-limited subsidies that require repeated reinvestment
 - Denver HOST already funds some Elevation CLT acquisitions, demonstrating an existing institutional partnership ready to be scaled
@@ -99,6 +108,7 @@ The community land trust model addresses the root cause of housing unaffordabili
 ### E. Project Activities & Deliverables
 
 **Activity 1: Property Acquisition in Anti-Displacement Zones ($6,000,000)**
+
 - Acquire approximately 80-120 properties (single-family homes, duplexes, and small multifamily buildings) in the 12 target neighborhoods
 - Prioritize properties at risk of speculative flipping or conversion to market-rate rentals
 - Execute acquisitions in coordination with Denver HOST's anti-displacement mapping tools and early warning systems
@@ -106,6 +116,7 @@ The community land trust model addresses the root cause of housing unaffordabili
 - Record permanent CLT ground lease restrictions on all acquired parcels
 
 **Activity 2: Rehabilitation and Conversion ($3,000,000)**
+
 - Rehabilitate acquired properties to meet HOME property standards and Denver energy efficiency requirements
 - Convert acquired rental properties to CLT homeownership units where feasible
 - Scope of work per unit: lead-based paint remediation, electrical and plumbing upgrades, accessibility improvements, weatherization, and health and safety repairs
@@ -113,6 +124,7 @@ The community land trust model addresses the root cause of housing unaffordabili
 - All rehabilitated units to meet or exceed HUD Uniform Physical Condition Standards
 
 **Activity 3: CLT Organizational Capacity Building ($1,500,000)**
+
 - Fund Elevation CLT staffing expansion: additional acquisition specialists, homeowner stewardship coordinators, and financial counselors
 - Develop a CLT acquisition pipeline database integrated with Denver HOST's housing data systems
 - Build legal and title infrastructure to streamline ground lease execution and resale processes at higher volume
@@ -120,6 +132,7 @@ The community land trust model addresses the root cause of housing unaffordabili
 - Establish partnerships with Denver-area CDFIs and mortgage lenders to expand CLT-compatible financing products
 
 **Activity 4: Homebuyer Readiness and Stewardship Programs ($500,000)**
+
 - Operate HUD-certified homebuyer education and counseling for prospective CLT purchasers
 - Provide individualized financial coaching and credit repair support for at least 300 households
 - Develop and deliver CLT-specific homeowner stewardship training (maintenance responsibilities, resale procedures, ground lease obligations)
@@ -127,6 +140,7 @@ The community land trust model addresses the root cause of housing unaffordabili
 - Establish a post-purchase support program to ensure long-term homeowner success and reduce default risk
 
 **Activity 5: Project Management ($1,000,000)**
+
 - Dedicated project manager and HOME compliance staff within Denver HOST
 - Quarterly reporting to HUD and city leadership on acquisition, rehabilitation, and occupancy milestones
 - Community engagement in each target neighborhood (minimum 2 public meetings per neighborhood per year)
@@ -135,13 +149,13 @@ The community land trust model addresses the root cause of housing unaffordabili
 
 ### F. Project Timeline
 
-| Phase | Timeline | Key Milestones |
-|---|---|---|
-| **Startup & Capacity Building** | Months 1-6 | Execute subrecipient agreement with Elevation CLT, hire project staff, launch acquisition pipeline, begin homebuyer readiness enrollment |
-| **Acquisition Phase 1** | Months 4-14 | Acquire first 40-60 properties in highest-displacement-risk neighborhoods, begin rehabilitation on earliest acquisitions |
-| **Acquisition Phase 2** | Months 12-24 | Acquire remaining 40-60 properties, complete rehabilitation on Phase 1 units, place first CLT homeowners |
-| **Occupancy & Stewardship** | Months 18-32 | Complete all rehabilitation, execute ground leases, close CLT home sales, provide post-purchase stewardship support |
-| **Closeout & Evaluation** | Months 30-36 | Final occupancy verification, financial closeout, outcome evaluation, submit final report to HUD |
+| Phase                           | Timeline     | Key Milestones                                                                                                                           |
+| ------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup & Capacity Building** | Months 1-6   | Execute subrecipient agreement with Elevation CLT, hire project staff, launch acquisition pipeline, begin homebuyer readiness enrollment |
+| **Acquisition Phase 1**         | Months 4-14  | Acquire first 40-60 properties in highest-displacement-risk neighborhoods, begin rehabilitation on earliest acquisitions                 |
+| **Acquisition Phase 2**         | Months 12-24 | Acquire remaining 40-60 properties, complete rehabilitation on Phase 1 units, place first CLT homeowners                                 |
+| **Occupancy & Stewardship**     | Months 18-32 | Complete all rehabilitation, execute ground leases, close CLT home sales, provide post-purchase stewardship support                      |
+| **Closeout & Evaluation**       | Months 30-36 | Final occupancy verification, financial closeout, outcome evaluation, submit final report to HUD                                         |
 
 ### G. Alignment with HOME Program Objectives
 
@@ -167,28 +181,28 @@ The requested federal investment of $12 million represents a **4.2:1 local match
 
 ## Budget Summary
 
-| Category | Amount | % of Total |
-|---|---|---|
-| Property Acquisition in Anti-Displacement Zones | $6,000,000 | 50% |
-| Rehabilitation and Conversion | $3,000,000 | 25% |
-| CLT Organizational Capacity Building | $1,500,000 | 12.5% |
-| Homebuyer Readiness and Stewardship Programs | $500,000 | 4.2% |
-| Project Management | $1,000,000 | 8.3% |
-| **Total Federal Request (HOME)** | **$12,000,000** | **100%** |
-| Local Match (city bonds, vacancy tax, HOST funds) | $50,000,000 | — |
-| **Total Project Investment** | **$62,000,000** | — |
+| Category                                          | Amount          | % of Total |
+| ------------------------------------------------- | --------------- | ---------- |
+| Property Acquisition in Anti-Displacement Zones   | $6,000,000      | 50%        |
+| Rehabilitation and Conversion                     | $3,000,000      | 25%        |
+| CLT Organizational Capacity Building              | $1,500,000      | 12.5%      |
+| Homebuyer Readiness and Stewardship Programs      | $500,000        | 4.2%       |
+| Project Management                                | $1,000,000      | 8.3%       |
+| **Total Federal Request (HOME)**                  | **$12,000,000** | **100%**   |
+| Local Match (city bonds, vacancy tax, HOST funds) | $50,000,000     | —          |
+| **Total Project Investment**                      | **$62,000,000** | —          |
 
 ## Expected Outcomes
 
-| Metric | Baseline | 3-Year Target |
-|---|---|---|
-| Permanently affordable CLT homes in Denver | ~300 | 800 (500 net new) |
-| Annual CLT acquisition pace | 20-40 units/year | 150-175 units/year |
-| Households receiving homebuyer readiness counseling | ~75/year | 300+ over 3 years |
-| CLT homeowner foreclosure rate | <1% | Maintained below 1% |
-| Median CLT home sale price (% of market) | ~55% of market | Maintained at 50-60% of market |
-| Demographic representation (residents of color in CLT homes) | ~60% | 65%+ (proportional to target neighborhoods) |
-| CLT operational self-sufficiency (ground lease revenue vs. operating costs) | ~40% | 70%+ |
+| Metric                                                                      | Baseline         | 3-Year Target                               |
+| --------------------------------------------------------------------------- | ---------------- | ------------------------------------------- |
+| Permanently affordable CLT homes in Denver                                  | ~300             | 800 (500 net new)                           |
+| Annual CLT acquisition pace                                                 | 20-40 units/year | 150-175 units/year                          |
+| Households receiving homebuyer readiness counseling                         | ~75/year         | 300+ over 3 years                           |
+| CLT homeowner foreclosure rate                                              | <1%              | Maintained below 1%                         |
+| Median CLT home sale price (% of market)                                    | ~55% of market   | Maintained at 50-60% of market              |
+| Demographic representation (residents of color in CLT homes)                | ~60%             | 65%+ (proportional to target neighborhoods) |
+| CLT operational self-sufficiency (ground lease revenue vs. operating costs) | ~40%             | 70%+                                        |
 
 ## Key Data Sources
 

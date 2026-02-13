@@ -1,36 +1,36 @@
 ---
-title: "Parks, Recreation & Public Space"
-titleEs: "Parques, Recreación y Espacio Público"
-summary: "Equitable park access for every neighborhood. Free recreation center programs for youth and seniors. Community gardens in every food desert. Trail connectivity across the city. Parks as public health infrastructure."
-summaryEs: "Acceso equitativo a parques para cada vecindario. Programas gratuitos en centros de recreación para jóvenes y adultos mayores. Jardines comunitarios en cada desierto alimentario. Conectividad de senderos en toda la ciudad. Parques como infraestructura de salud pública."
-category: "community"
-icon: "tree-deciduous"
+title: 'Parks, Recreation & Public Space'
+titleEs: 'Parques, Recreación y Espacio Público'
+summary: 'Equitable park access for every neighborhood. Free recreation center programs for youth and seniors. Community gardens in every food desert. Trail connectivity across the city. Parks as public health infrastructure.'
+summaryEs: 'Acceso equitativo a parques para cada vecindario. Programas gratuitos en centros de recreación para jóvenes y adultos mayores. Jardines comunitarios en cada desierto alimentario. Conectividad de senderos en toda la ciudad. Parques como infraestructura de salud pública.'
+category: 'community'
+icon: 'tree-deciduous'
 order: 80
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "48%"
-    label: "less park space in low-income neighborhoods"
-    labelEs: "menos espacio de parques en vecindarios de bajos ingresos"
-    context: "Denver is ranked 10th nationally but equity within the city is terrible"
-    contextEs: "Denver ocupa el puesto 10 nacional pero la equidad dentro de la ciudad es terrible"
-    source: "Trust for Public Land ParkScore, 2025"
-    theme: "danger"
-  - value: "15-20F"
-    label: "hotter in low-canopy neighborhoods"
-    labelEs: "mas caliente en vecindarios con poco arbolado"
-    context: "The Inverted L along I-25 and I-70 has the least shade and the most heat"
-    contextEs: "La L Invertida a lo largo de I-25 e I-70 tiene menos sombra y mas calor"
-    source: "Denver Digs Trees / The Park People, 2021"
-    theme: "danger"
-  - value: "$95K+"
-    label: "annual cost to jail one youth"
-    labelEs: "costo anual de encarcelar a un joven"
-    context: "Free rec center access and youth programming costs a tiny fraction of that"
-    contextEs: "El acceso gratuito a centros recreativos y programas juveniles cuesta una pequena fraccion"
-    source: "Colorado Division of Youth Services"
-    theme: "accent"
+  - value: '48%'
+    label: 'less park space in low-income neighborhoods'
+    labelEs: 'menos espacio de parques en vecindarios de bajos ingresos'
+    context: 'Denver is ranked 10th nationally but equity within the city is terrible'
+    contextEs: 'Denver ocupa el puesto 10 nacional pero la equidad dentro de la ciudad es terrible'
+    source: 'Trust for Public Land ParkScore, 2025'
+    theme: 'danger'
+  - value: '15-20F'
+    label: 'hotter in low-canopy neighborhoods'
+    labelEs: 'mas caliente en vecindarios con poco arbolado'
+    context: 'The Inverted L along I-25 and I-70 has the least shade and the most heat'
+    contextEs: 'La L Invertida a lo largo de I-25 e I-70 tiene menos sombra y mas calor'
+    source: 'Denver Digs Trees / The Park People, 2021'
+    theme: 'danger'
+  - value: '$95K+'
+    label: 'annual cost to jail one youth'
+    labelEs: 'costo anual de encarcelar a un joven'
+    context: 'Free rec center access and youth programming costs a tiny fraction of that'
+    contextEs: 'El acceso gratuito a centros recreativos y programas juveniles cuesta una pequena fraccion'
+    source: 'Colorado Division of Youth Services'
+    theme: 'accent'
 ---
 
 ## The Problem
@@ -101,15 +101,15 @@ Progress is real but uneven. The 2A sales tax has enabled new investments in und
 
 ### International Evidence: Parks as Public Health
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Copenhagen, Denmark** | Network of pocket parks (under 5,000 sq meters) across the city, plus public harbor baths converting industrial waterfront into free swimming areas. | Research confirms pocket parks serve as "green stepping stones" promoting rest, social connection, and mental health restoration in dense urban areas. Harbor baths draw over 300,000 users annually. |
-| **Singapore** | "City in Nature" plan: over 40% green cover, 7,800 hectares of parks and nature reserves, 380+ km of park connectors. Goal: every household within a 10-minute walk of a park by 2030. | Increased green cover from 36% to over 47% of total land area in 20 years while population grew. 210 km of Nature Ways connect habitats. Proves density and green space are compatible. |
-| **Melbourne, Australia** | Urban Forest Strategy (2012): 20-year plan to double public tree canopy from 22% to 40% by 2040. Planting 3,000+ trees per year. Every tree surveyed, mapped, and given a unique ID. | National leader in urban forest planning. Neighborhood-level precinct plans guide street-by-street implementation. Targeting 40% canopy cover to substantially lower daytime air temperatures. |
-| **Seoul, South Korea** | Cheonggyecheon Stream restoration: removed an elevated freeway and restored a 5.8 km urban waterway with 22 bridges, walkways, and native plantings. | Reduced local temperatures by 3.3-5.9 degrees Celsius. Increased biodiversity. Property values within 500 meters rose 30-50%. 64,000 daily visitors. Became a global model for freeway removal. |
-| **Medellin, Colombia** | 30 Green Corridors (Corredores Verdes) along roads and waterways: 2.5 million plants and 880,000 trees planted. $16.3 million investment ($6.50 per resident). | Reduced average air temperatures by 2 degrees Celsius, surface temperatures by 10.3 degrees Celsius. Respiratory illness dropped from 159.8 to 95.3 per 1,000 residents. Won 2019 Ashden Award. |
+| Country/City             | Model                                                                                                                                                                                  | Result                                                                                                                                                                                                |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Copenhagen, Denmark**  | Network of pocket parks (under 5,000 sq meters) across the city, plus public harbor baths converting industrial waterfront into free swimming areas.                                   | Research confirms pocket parks serve as "green stepping stones" promoting rest, social connection, and mental health restoration in dense urban areas. Harbor baths draw over 300,000 users annually. |
+| **Singapore**            | "City in Nature" plan: over 40% green cover, 7,800 hectares of parks and nature reserves, 380+ km of park connectors. Goal: every household within a 10-minute walk of a park by 2030. | Increased green cover from 36% to over 47% of total land area in 20 years while population grew. 210 km of Nature Ways connect habitats. Proves density and green space are compatible.               |
+| **Melbourne, Australia** | Urban Forest Strategy (2012): 20-year plan to double public tree canopy from 22% to 40% by 2040. Planting 3,000+ trees per year. Every tree surveyed, mapped, and given a unique ID.   | National leader in urban forest planning. Neighborhood-level precinct plans guide street-by-street implementation. Targeting 40% canopy cover to substantially lower daytime air temperatures.        |
+| **Seoul, South Korea**   | Cheonggyecheon Stream restoration: removed an elevated freeway and restored a 5.8 km urban waterway with 22 bridges, walkways, and native plantings.                                   | Reduced local temperatures by 3.3-5.9 degrees Celsius. Increased biodiversity. Property values within 500 meters rose 30-50%. 64,000 daily visitors. Became a global model for freeway removal.       |
+| **Medellin, Colombia**   | 30 Green Corridors (Corredores Verdes) along roads and waterways: 2.5 million plants and 880,000 trees planted. $16.3 million investment ($6.50 per resident).                         | Reduced average air temperatures by 2 degrees Celsius, surface temperatures by 10.3 degrees Celsius. Respiratory illness dropped from 159.8 to 95.3 per 1,000 residents. Won 2019 Ashden Award.       |
 
-The public health evidence is clear. Systematic reviews published in *Preventive Medicine* (2021) confirm that park-based interventions increase physical activity and improve both physical and mental health outcomes. Proximity to parks and green space is associated with reduced depressive symptoms, lower obesity rates, improved cardiovascular health, and better cognitive performance in children. Parks reduce urban heat island effects. Research shows that tree canopy cover of 40% or more can effectively counter the warming effect of impervious surfaces at the city-block scale (Ziter et al., 2019, *Proceedings of the National Academy of Sciences*). Parks improve air quality, reduce stormwater runoff, and provide clean air shelters during wildfire smoke events. Every dollar invested in parks returns multiple dollars in reduced healthcare costs, reduced crime, increased property values, and improved quality of life. Parks are not amenities. They are public health infrastructure.
+The public health evidence is clear. Systematic reviews published in _Preventive Medicine_ (2021) confirm that park-based interventions increase physical activity and improve both physical and mental health outcomes. Proximity to parks and green space is associated with reduced depressive symptoms, lower obesity rates, improved cardiovascular health, and better cognitive performance in children. Parks reduce urban heat island effects. Research shows that tree canopy cover of 40% or more can effectively counter the warming effect of impervious surfaces at the city-block scale (Ziter et al., 2019, _Proceedings of the National Academy of Sciences_). Parks improve air quality, reduce stormwater runoff, and provide clean air shelters during wildfire smoke events. Every dollar invested in parks returns multiple dollars in reduced healthcare costs, reduced crime, increased property values, and improved quality of life. Parks are not amenities. They are public health infrastructure.
 
 ## How We Pay For It
 
@@ -143,7 +143,7 @@ The Trust for Public Land's ParkScore methodology evaluates cities across five c
 - Trust for Public Land. (2025). ParkScore Index: Denver, CO. Score: 75.1/100, national rank: 10th. 97% of residents within a 10-minute walk of a park. $229 per capita park spending.
 - Sasaki / Denver Parks & Recreation. (2019). Game Plan for a Healthy City. Comprehensive parks master plan with equity analysis and investment framework.
 - Denver Parks & Recreation. (2025). Department budget: $97.3M general fund. System includes 250+ urban parks, 30 recreation centers, 32 pools, 14,000 acres of mountain parks.
-- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. *PLOS ONE*. Documented park access disparities along income and racial lines in Denver.
+- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. Documented park access disparities along income and racial lines in Denver.
 - Denver Urban Gardens. (2024). Network of 200+ community gardens and 24 food forests across metro Denver. Largest independent food-producing garden network in the U.S.
 - Great Outdoors Colorado (GOCO). (2024). Largest-ever funding cycle: $117M+ statewide. Includes $7M for High Line Canal improvements in Denver metro.
 - Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." Analysis of discriminatory land use and funding policies.

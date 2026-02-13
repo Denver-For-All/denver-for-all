@@ -1,58 +1,58 @@
 ---
-title: "Reproductive Healthcare Access"
-titleEs: "Acceso a la Atención Médica Reproductiva"
+title: 'Reproductive Healthcare Access'
+titleEs: 'Acceso a la Atención Médica Reproductiva'
 summary: "Defend and expand abortion access in Denver. Ensure Amendment 79's constitutional promise becomes a lived reality — adequate provider reimbursement, clinic sustainability, medication abortion access, and a city that protects patients and providers from federal and interstate threats. Bodily autonomy is non-negotiable."
-summaryEs: "Defender y ampliar el acceso al aborto en Denver. Asegurar que la promesa constitucional de la Enmienda 79 se convierta en una realidad vivida — reembolso adecuado a proveedores, sostenibilidad de clínicas, acceso al aborto con medicamentos, y una ciudad que proteja a pacientes y proveedores de amenazas federales e interestatales. La autonomía corporal no es negociable."
-category: "health"
-icon: "shield-plus"
+summaryEs: 'Defender y ampliar el acceso al aborto en Denver. Asegurar que la promesa constitucional de la Enmienda 79 se convierta en una realidad vivida — reembolso adecuado a proveedores, sostenibilidad de clínicas, acceso al aborto con medicamentos, y una ciudad que proteja a pacientes y proveedores de amenazas federales e interestatales. La autonomía corporal no es negociable.'
+category: 'health'
+icon: 'shield-plus'
 order: 24
-status: "draft"
-actionTarget: "all"
+status: 'draft'
+actionTarget: 'all'
 hasFundingSources: true
 keyStats:
-  - value: "42 to 23"
-    label: "Colorado abortion clinics since 2011"
-    labelEs: "clinicas de aborto en Colorado desde 2011"
-    context: "Clinics nearly halved while abortions rose 88%. Demand up, access down."
-    contextEs: "Las clinicas casi se redujeron a la mitad mientras los abortos aumentaron 88%"
-    source: "Guttmacher Institute, 2024"
-    theme: "danger"
-  - value: "40 to 4,400"
-    label: "Texas patients traveling to Colorado per year"
-    labelEs: "pacientes de Texas viajando a Colorado por ano"
-    context: "After Texas SB 8 and Dobbs, demand exploded 100x in four years"
-    contextEs: "Despues de Texas SB 8 y Dobbs, la demanda se multiplico por 100 en cuatro anos"
-    source: "CDPHE, 2023; AJOG, 2025"
-    theme: "accent"
-  - value: "$7.09"
-    label: "saved for every $1 spent on contraceptive access"
-    labelEs: "ahorrados por cada $1 invertido en acceso a anticonceptivos"
-    context: "Reproductive healthcare is among the highest-return public health investments"
-    contextEs: "La salud reproductiva es una de las inversiones en salud publica con mayor retorno"
-    source: "Guttmacher Institute, 2015"
-    theme: "primary"
+  - value: '42 to 23'
+    label: 'Colorado abortion clinics since 2011'
+    labelEs: 'clinicas de aborto en Colorado desde 2011'
+    context: 'Clinics nearly halved while abortions rose 88%. Demand up, access down.'
+    contextEs: 'Las clinicas casi se redujeron a la mitad mientras los abortos aumentaron 88%'
+    source: 'Guttmacher Institute, 2024'
+    theme: 'danger'
+  - value: '40 to 4,400'
+    label: 'Texas patients traveling to Colorado per year'
+    labelEs: 'pacientes de Texas viajando a Colorado por ano'
+    context: 'After Texas SB 8 and Dobbs, demand exploded 100x in four years'
+    contextEs: 'Despues de Texas SB 8 y Dobbs, la demanda se multiplico por 100 en cuatro anos'
+    source: 'CDPHE, 2023; AJOG, 2025'
+    theme: 'accent'
+  - value: '$7.09'
+    label: 'saved for every $1 spent on contraceptive access'
+    labelEs: 'ahorrados por cada $1 invertido en acceso a anticonceptivos'
+    context: 'Reproductive healthcare is among the highest-return public health investments'
+    contextEs: 'La salud reproductiva es una de las inversiones en salud publica con mayor retorno'
+    source: 'Guttmacher Institute, 2015'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "Amendment 79"
-    title: "Right to Abortion and Health Insurance Coverage"
-    status: "Approved by voters November 2024; effective January 1, 2026"
-    url: "https://www.sos.state.co.us/pubs/elections/Initiatives/titleBoard/filings/2023-2024/89Final.pdf"
-  - billNumber: "SB25-183"
-    title: "Reproductive Health Care Coverage Under Medicaid"
-    status: "Signed into law 2025"
-    url: "https://leg.colorado.gov/bills/sb25-183"
-  - billNumber: "HB26-1085"
-    title: "Do Not Abort Form"
-    status: "Introduced - Opposed"
-    url: "https://leg.colorado.gov/bills/hb26-1085"
-  - billNumber: "HB26-1122"
-    title: "Mandatory Coverage Hormone Replacement Therapy"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/hb26-1122"
+  - billNumber: 'Amendment 79'
+    title: 'Right to Abortion and Health Insurance Coverage'
+    status: 'Approved by voters November 2024; effective January 1, 2026'
+    url: 'https://www.sos.state.co.us/pubs/elections/Initiatives/titleBoard/filings/2023-2024/89Final.pdf'
+  - billNumber: 'SB25-183'
+    title: 'Reproductive Health Care Coverage Under Medicaid'
+    status: 'Signed into law 2025'
+    url: 'https://leg.colorado.gov/bills/sb25-183'
+  - billNumber: 'HB26-1085'
+    title: 'Do Not Abort Form'
+    status: 'Introduced - Opposed'
+    url: 'https://leg.colorado.gov/bills/hb26-1085'
+  - billNumber: 'HB26-1122'
+    title: 'Mandatory Coverage Hormone Replacement Therapy'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/hb26-1122'
 ---
 
 ## The Problem
 
-Bodily autonomy — the right to make decisions about what happens to your own body — is under coordinated attack in the United States. Since the Supreme Court's *Dobbs v. Jackson Women's Health Organization* decision in 2022, which overturned *Roe v. Wade*, 21 states have banned or severely restricted abortion (Guttmacher Institute, 2026). The same political movement targeting abortion access is simultaneously targeting gender-affirming care for trans people, contraception access, and the right to make end-of-life decisions. These are not separate fights. They are the same fight: who controls your body — you, or the government?
+Bodily autonomy — the right to make decisions about what happens to your own body — is under coordinated attack in the United States. Since the Supreme Court's _Dobbs v. Jackson Women's Health Organization_ decision in 2022, which overturned _Roe v. Wade_, 21 states have banned or severely restricted abortion (Guttmacher Institute, 2026). The same political movement targeting abortion access is simultaneously targeting gender-affirming care for trans people, contraception access, and the right to make end-of-life decisions. These are not separate fights. They are the same fight: who controls your body — you, or the government?
 
 Colorado is positioned as a national leader. In November 2024, voters approved **Amendment 79** with 61.6% support, enshrining the right to abortion in the Colorado Constitution and lifting the longstanding ban on public insurance coverage for abortion care. In 2025, the General Assembly passed **SB 25-183**, implementing Amendment 79 by expanding the definition of "family-planning-related services" under Medicaid to include abortion. As of January 1, 2026, abortion care is eligible for Medicaid reimbursement in Colorado for the first time.
 
@@ -146,14 +146,14 @@ You cannot defend what you do not measure. Denver has no public data on reproduc
 
 ### International Evidence: Bodily Autonomy as Policy
 
-| Country | Model | Result |
-|---------|-------|--------|
-| **France** | Abortion fully covered by national health insurance since 2013. No waiting period. Available up to 14 weeks (extended from 12 in 2022). Medication abortion available via telehealth. | Abortion rate stable (not increased by coverage). Near-universal access. No provider shortage because reimbursement covers costs. |
-| **Canada** | Abortion decriminalized since 1988. No gestational limits in federal law. Covered by all provincial health plans. Mifepristone approved 2017 and covered by public insurance. | Access challenges remain in rural areas and some provinces, but urban access is robust. No political movement to recriminalize — settled law. |
-| **New Zealand** | Abortion removed from criminal law in 2020. Available on request up to 20 weeks. Fully funded by public health system. Telehealth medication abortion expanded during COVID. | Treated as routine healthcare. Provider participation is high because the system does not stigmatize the service. |
-| **Uruguay** | Legalized abortion in 2012 in a socially conservative country. Free in public health system. Requires counseling (with 5-day reflection period — criticized by advocates). | Abortion-related maternal mortality dropped to near zero. Safe access replaced dangerous clandestine procedures. Demonstrates that even in conservative contexts, legal access saves lives. |
-| **Ireland** | Legalized abortion by referendum in 2018 (66.4% — similar to Colorado's 61.6%). Implemented through Health (Regulation of Termination of Pregnancy) Act 2018. Free through public health system up to 12 weeks. | Implementation challenges: GP participation lower than expected in some regions due to opt-out provisions. Ireland's experience is directly relevant to Colorado — a voter mandate does not automatically produce access. Provider participation and geographic coverage require active policy support. |
-| **United States** | Post-Dobbs patchwork. 21 states with bans or severe restrictions. Remaining states absorbing displaced demand. No federal insurance coverage (Hyde Amendment). | Colorado is one of the most protective states. But protection without infrastructure is a paper right. The US is the only wealthy democracy where reproductive healthcare access depends on which state you live in. |
+| Country           | Model                                                                                                                                                                                                           | Result                                                                                                                                                                                                                                                                                                  |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **France**        | Abortion fully covered by national health insurance since 2013. No waiting period. Available up to 14 weeks (extended from 12 in 2022). Medication abortion available via telehealth.                           | Abortion rate stable (not increased by coverage). Near-universal access. No provider shortage because reimbursement covers costs.                                                                                                                                                                       |
+| **Canada**        | Abortion decriminalized since 1988. No gestational limits in federal law. Covered by all provincial health plans. Mifepristone approved 2017 and covered by public insurance.                                   | Access challenges remain in rural areas and some provinces, but urban access is robust. No political movement to recriminalize — settled law.                                                                                                                                                           |
+| **New Zealand**   | Abortion removed from criminal law in 2020. Available on request up to 20 weeks. Fully funded by public health system. Telehealth medication abortion expanded during COVID.                                    | Treated as routine healthcare. Provider participation is high because the system does not stigmatize the service.                                                                                                                                                                                       |
+| **Uruguay**       | Legalized abortion in 2012 in a socially conservative country. Free in public health system. Requires counseling (with 5-day reflection period — criticized by advocates).                                      | Abortion-related maternal mortality dropped to near zero. Safe access replaced dangerous clandestine procedures. Demonstrates that even in conservative contexts, legal access saves lives.                                                                                                             |
+| **Ireland**       | Legalized abortion by referendum in 2018 (66.4% — similar to Colorado's 61.6%). Implemented through Health (Regulation of Termination of Pregnancy) Act 2018. Free through public health system up to 12 weeks. | Implementation challenges: GP participation lower than expected in some regions due to opt-out provisions. Ireland's experience is directly relevant to Colorado — a voter mandate does not automatically produce access. Provider participation and geographic coverage require active policy support. |
+| **United States** | Post-Dobbs patchwork. 21 states with bans or severe restrictions. Remaining states absorbing displaced demand. No federal insurance coverage (Hyde Amendment).                                                  | Colorado is one of the most protective states. But protection without infrastructure is a paper right. The US is the only wealthy democracy where reproductive healthcare access depends on which state you live in.                                                                                    |
 
 The lesson from Ireland is particularly relevant: a strong voter mandate (66.4% in favor) did not automatically produce provider participation. Active government support — adequate reimbursement, provider recruitment, geographic access planning — was necessary to turn a constitutional right into a functioning system. Colorado faces the same challenge.
 
@@ -188,7 +188,7 @@ Not entirely, but Denver can prepare. Contingency protocols using misoprostol-on
 
 ## References
 
-- Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022). (Overturned Roe v. Wade; returned abortion regulation to states.)
+- Dobbs v. Jackson Women's Health Organization, 597 U.S. \_\_\_ (2022). (Overturned Roe v. Wade; returned abortion regulation to states.)
 - Guttmacher Institute. (2026). "Abortion Policy in the Absence of Roe." Interactive state-by-state tracker. (21 states with bans or severe restrictions as of 2026.)
 - Guttmacher Institute. (2023). "Monthly Abortion Provision Study." (63% of US abortions are medication abortions using mifepristone.)
 - Guttmacher Institute. (2022). "State-level estimates of changes in abortion patient travel following Dobbs." (Projected 10-25% increase in patients traveling to protective states.)

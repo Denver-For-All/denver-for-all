@@ -30,41 +30,44 @@ Colorado banned local rent control ordinances in **1981** with the Rental Housin
 
 #### Key Provisions (as amended)
 
-| Provision | Detail |
-|-----------|--------|
-| **Local authority** | Counties and municipalities would be authorized to enact rent control ordinances |
-| **Uniform application** | Rent control must be uniformly applied among similarly situated renters and properties |
-| **Floor on caps** | Annual rent increase limits cannot be set below CPI + 3 percentage points, plus reasonable increases for substantial renovations |
-| **New construction exemption** | No rent control on units within 15 years of first certificate of occupancy |
-| **Mobile homes** | Rent control may apply to mobile homes regardless of age |
-| **Nonprofit exemption** | Does not apply to nonprofit housing regulated by HUD fair market rents |
-| **Affordable housing carve-out** | Local governments may still adopt ordinances designed to increase affordable housing supply, regardless of the above guidelines |
+| Provision                        | Detail                                                                                                                           |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Local authority**              | Counties and municipalities would be authorized to enact rent control ordinances                                                 |
+| **Uniform application**          | Rent control must be uniformly applied among similarly situated renters and properties                                           |
+| **Floor on caps**                | Annual rent increase limits cannot be set below CPI + 3 percentage points, plus reasonable increases for substantial renovations |
+| **New construction exemption**   | No rent control on units within 15 years of first certificate of occupancy                                                       |
+| **Mobile homes**                 | Rent control may apply to mobile homes regardless of age                                                                         |
+| **Nonprofit exemption**          | Does not apply to nonprofit housing regulated by HUD fair market rents                                                           |
+| **Affordable housing carve-out** | Local governments may still adopt ordinances designed to increase affordable housing supply, regardless of the above guidelines  |
 
 #### Legislative Timeline
 
-| Date | Action |
-|------|--------|
-| Jan 24, 2023 | Bill introduced in the House |
-| Feb 2023 | Passed House committee |
-| Mar 2023 | House floor debate — nearly 4 hours |
-| Mar 2023 | **Passed the House 40-24** (5 Democrats voted no, along with 19 Republicans) |
-| Apr 25, 2023 | **Killed in Senate Local Government & Housing Committee, 4-3** |
+| Date         | Action                                                                       |
+| ------------ | ---------------------------------------------------------------------------- |
+| Jan 24, 2023 | Bill introduced in the House                                                 |
+| Feb 2023     | Passed House committee                                                       |
+| Mar 2023     | House floor debate — nearly 4 hours                                          |
+| Mar 2023     | **Passed the House 40-24** (5 Democrats voted no, along with 19 Republicans) |
+| Apr 25, 2023 | **Killed in Senate Local Government & Housing Committee, 4-3**               |
 
 #### The Decisive Vote: Sen. Dylan Roberts (D-Avon)
 
 The bill died because **one Democratic senator — Dylan Roberts — sided with 3 Republicans** on the Senate Local Government & Housing Committee.
 
 **Roberts' stated reasons:**
+
 1. **Mountain town spillover:** If one mountain town enacted rent control, it would "push demand to other towns, increasing their rents"
 2. **Development concerns:** "Rent control, even in a local manner like this, could — and probably would — stifle development"
 3. **Vacation rental conversion:** Rent control could "speed the conversion of existing long-term rental units into vacation rentals"
 
 **Counter-arguments from supporters:**
+
 - Sen. Sonya Jaquez Lewis (committee chair, voted yes): "We're missing a huge opportunity here to allow local communities to do something about what is happening in our state"
 - The bill had guardrails (CPI+3% floor, 15-year new construction exemption) specifically to address development concerns
 - The bill was about **local authority**, not mandating rent control
 
 #### Sources
+
 - [Colorado Sun: Colorado's ban on cities, counties enacting rent control will remain in place](https://coloradosun.com/2023/04/26/rent-control-measure-rejected-ban-colorado-legislature/)
 - [CPR News: Colorado rent control bill fails in committee](https://www.cpr.org/2023/04/25/rent-control-fails-legislature/)
 - [Westword: Rent Control Bill Axed in Colorado's Legislative Session](https://www.westword.com/news/rent-control-bill-axed-colorado-legislative-session-2023-16720475/)
@@ -110,21 +113,27 @@ The absence of a rent control repeal bill in 2026 may represent an opening for a
 ## Why HB23-1115 Failed: Root Cause Analysis
 
 ### 1. Senate Math Problem
+
 The bill passed the **House** with a healthy margin (40-24). The problem was the Senate committee, where a single moderate Democrat (Roberts) killed it. This is a **one-vote margin** problem, not a fundamental opposition problem.
 
 ### 2. Governor Opposition
+
 Gov. Polis has consistently opposed rent control. Even if a bill passed both chambers, it would face a veto. This means either:
+
 - Building a veto-proof majority (difficult)
 - Waiting for a more sympathetic governor (2027 inauguration after 2026 election)
 - State ballot initiative (bypasses governor entirely)
 
 ### 3. "Supply vs. Regulation" Framing
+
 Opponents successfully framed the debate as "rent control vs. building more housing," a false binary. The bill's supporters did not effectively counter that HB23-1115 explicitly allowed for supply-side measures alongside rent stabilization.
 
 ### 4. Mountain Town vs. Urban Split
+
 Roberts' concerns about mountain town spillover effects exposed a coalition weakness: the bill's Denver/urban coalition did not adequately address rural/resort community concerns.
 
 ### 5. Real Estate Industry Lobbying
+
 The Colorado Apartment Association, Colorado Bankers Association, and real estate industry lobbied heavily against the bill. Written testimony included claims that rent control "limits new supply" and "removes existing housing from the market."
 
 ---
@@ -137,13 +146,14 @@ Re-introduce an amended version of HB23-1115 that addresses the specific objecti
 
 **Amendments to consider:**
 
-| Roberts Objection | Potential Amendment |
-|-------------------|---------------------|
-| Mountain town spillover | Add population threshold (e.g., only municipalities >50,000 or counties >100,000) or require regional coordination |
-| Stifle development | Strengthen the 15-year new construction exemption; add developer incentive provisions |
-| Vacation rental conversion | Add anti-conversion provisions — units under rent stabilization cannot be converted to short-term rentals |
+| Roberts Objection          | Potential Amendment                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Mountain town spillover    | Add population threshold (e.g., only municipalities >50,000 or counties >100,000) or require regional coordination |
+| Stifle development         | Strengthen the 15-year new construction exemption; add developer incentive provisions                              |
+| Vacation rental conversion | Add anti-conversion provisions — units under rent stabilization cannot be converted to short-term rentals          |
 
 **Additional strengthening amendments:**
+
 - Sunset clause (10-year expiration requiring re-authorization) to reduce perceived risk
 - Require local governments to pair rent stabilization with housing supply goals
 - Include vacancy decontrol prohibition at the state level (prevent weak local implementations)
@@ -154,11 +164,13 @@ Re-introduce an amended version of HB23-1115 that addresses the specific objecti
 Colorado allows citizen-initiated statutes. This bypasses both the legislature and the governor.
 
 **Requirements:**
+
 - Gather signatures equal to 5% of votes cast for Secretary of State in the last general election
 - File with the Title Board at least 6 months before the election
 - Typically need ~125,000–150,000 valid signatures
 
 **Timeline for November 2026 ballot:**
+
 - Title Board filing: by approximately May 2026
 - Signature gathering: May–August 2026
 - This is extremely tight — a 2028 ballot initiative may be more realistic
@@ -168,6 +180,7 @@ Colorado allows citizen-initiated statutes. This bypasses both the legislature a
 As already identified in your LEGISLATION-READY.md, Denver can pass a **trigger ordinance** — a rent stabilization law that automatically takes effect the moment state preemption is lifted.
 
 **Strategic value:**
+
 - Demonstrates concrete demand and political will
 - Creates a ready-made implementation framework
 - Pressures state legislators: "Denver is ready — just lift the ban"
@@ -181,6 +194,7 @@ Denver has **home rule authority** under the Colorado Constitution. A legal theo
 ### Path E: Coalition Building Across Colorado Cities
 
 The 2023 failure was partly a coalition problem. Build a statewide coalition:
+
 - **Denver** (50%+ renters, highest absolute renter population)
 - **Boulder** (history of rent control activism, university town)
 - **Aurora** (growing renter population, diverse community)
@@ -193,14 +207,14 @@ A multi-city coalition sending a unified message to the legislature is harder to
 
 ## Key Legislators to Watch
 
-| Legislator | Role | Position | Notes |
-|-----------|------|----------|-------|
-| Rep. Javier Mabrey (D-Denver) | Lead sponsor | Strong advocate | Has vowed to keep bringing rent control back |
-| Rep. Jennifer Bacon (D-Denver) | Co-sponsor (2026) | Advocate | Assistant Majority Leader |
-| Sen. Dylan Roberts (D-Avon) | Swing vote (2023) | Opposed | His specific objections are addressable with amendments |
-| Gov. Jared Polis | Governor | Opposed | Term-limited; leaves office January 2027 |
-| Sen. Sonya Jaquez Lewis | Committee chair (2023) | Advocate | "We're missing a huge opportunity" |
-| Sen. Julie Gonzales | Sponsor (algorithm ban) | Advocate | Co-sponsored related renter protection bills |
+| Legislator                     | Role                    | Position        | Notes                                                   |
+| ------------------------------ | ----------------------- | --------------- | ------------------------------------------------------- |
+| Rep. Javier Mabrey (D-Denver)  | Lead sponsor            | Strong advocate | Has vowed to keep bringing rent control back            |
+| Rep. Jennifer Bacon (D-Denver) | Co-sponsor (2026)       | Advocate        | Assistant Majority Leader                               |
+| Sen. Dylan Roberts (D-Avon)    | Swing vote (2023)       | Opposed         | His specific objections are addressable with amendments |
+| Gov. Jared Polis               | Governor                | Opposed         | Term-limited; leaves office January 2027                |
+| Sen. Sonya Jaquez Lewis        | Committee chair (2023)  | Advocate        | "We're missing a huge opportunity"                      |
+| Sen. Julie Gonzales            | Sponsor (algorithm ban) | Advocate        | Co-sponsored related renter protection bills            |
 
 ---
 

@@ -4,6 +4,7 @@
 ## El Problema
 
 La guerra contra las drogas ha fracasado. Cincuenta años de criminalización no han reducido el consumo de drogas (National Research Council, 2001; Drug Policy Alliance, 2024) -- han producido:
+
 - Encarcelamiento masivo, desproporcionadamente de hombres negros y latinos
 - Muertes por sobredosis en niveles récord (el fentanilo es ahora la principal causa de muerte para estadounidenses de 18 a 45 años)
 - Más de un billón de dólares desperdiciados en aplicación de la ley que no funciona (NDIC, 2011)
@@ -27,6 +28,7 @@ La Denver Police Protective Association y la oficina del Fiscal de Distrito de D
 ### Ley de Despenalización y Reducción de Daños de Denver
 
 **1. Despenalizar la Posesión Personal**
+
 - La posesión de cualquier sustancia en cantidades de uso personal no es un delito penal en Denver
 - Los umbrales de uso personal establecidos por expertos en salud pública (no por fiscales)
 - La posesión sigue siendo una infracción civil con derivación a servicios de tratamiento -- no cárcel
@@ -34,6 +36,7 @@ La Denver Police Protective Association y la oficina del Fiscal de Distrito de D
 - Este es el modelo de Portugal: despenalización + inversión en tratamiento = reducción de muertes por sobredosis, reducción del VIH, reducción del consumo de drogas
 
 **2. Tratamiento a Demanda**
+
 - Cualquier persona que busque tratamiento por uso de sustancias puede acceder a él dentro de 24 horas -- sin listas de espera
 - Espectro completo: desintoxicación, tratamiento residencial, ambulatorio, tratamiento asistido con medicamentos (TAM), apoyo entre pares
 - Camas de tratamiento financiadas por la ciudad para eliminar listas de espera
@@ -41,6 +44,7 @@ La Denver Police Protective Association y la oficina del Fiscal de Distrito de D
 - Servicios culturalmente competentes, informados sobre trauma y multilingües
 
 **3. Sitios de Consumo Seguro**
+
 - Instalaciones de consumo supervisado donde las personas pueden usar sustancias bajo supervisión médica
 - Prevenir muertes por sobredosis (cero muertes han ocurrido en cualquier sitio de consumo supervisado en el mundo)
 - Proporcionar suministros limpios, naloxona, cuidado de heridas y conexión a tratamiento
@@ -48,18 +52,21 @@ La Denver Police Protective Association y la oficina del Fiscal de Distrito de D
 - Legal bajo la autoridad de gobierno propio de Denver (la ciudad puede declinar enjuiciar)
 
 **4. Naloxona en Todas Partes**
+
 - Naloxona (Narcan) gratuita disponible en todos los edificios municipales, bibliotecas, centros comunitarios, estaciones de transporte
 - Capacitación para todos los primeros respondientes, empleados municipales y miembros de la comunidad dispuestos
 - Sin preguntas, sin identificación requerida
 - Máquinas expendedoras con naloxona en áreas de alta necesidad
 
 **5. Eliminación de Antecedentes**
+
 - Eliminación automática de todas las condenas previas por posesión de drogas en los tribunales de Denver
 - Sin solicitud requerida -- la ciudad revisa todos los registros y elimina las condenas elegibles
 - Notificación inmediata a las personas afectadas
 - Asistencia con la limpieza de registros para condenas estatales y federales (derivación a servicios legales)
 
 **6. Redirigir el Presupuesto de Aplicación de la Ley**
+
 - Cerrar la unidad de Drug Enforcement dentro de la Policía de Denver
 - Redirigir $15-20M/año a tratamiento, reducción de daños y servicios de recuperación
 - La policía se enfoca en crimen violento y tráfico -- no en usuarios
@@ -68,6 +75,7 @@ La Denver Police Protective Association y la oficina del Fiscal de Distrito de D
 ## Cómo Lo Pagamos
 
 **Reasignación presupuestaria:** Aplicación de la ley contra drogas → tratamiento. El nuevo gasto neto es mínimo.
+
 - Tratamiento a Demanda: $20-30M/año (compensado por la reducción de costos de encarcelamiento, sala de emergencias y aplicación de la ley)
 - Sitios de consumo seguro: $3-5M/año (compensado por la reducción de respuesta de emergencia y costos hospitalarios)
 - Programa de naloxona: $1-2M/año
@@ -79,14 +87,14 @@ La Denver Police Protective Association y la oficina del Fiscal de Distrito de D
 
 ### Evidencia Internacional: Todo Enfoque Funciona Mejor Que la Criminalización
 
-| País | Modelo | Resultado |
-|------|--------|-----------|
-| **Portugal** (2001) | Despenalizó todas las drogas. Redirigió el presupuesto de aplicación de la ley a tratamiento. Comisiones de disuasión (profesionales de salud, no jueces) se reúnen con personas sorprendidas consumiendo. | Las infecciones por VIH entre usuarios de drogas cayeron **95%**. Las muertes por sobredosis cayeron **80%**. Las tasas de consumo de drogas están por debajo del promedio de la UE. El encarcelamiento por delitos de drogas cayó dramáticamente. |
-| **Suiza** (1994) | Tratamiento con heroína asistida (THA) -- heroína farmacéutica recetada para adicción severa. Sitios de consumo seguro en cada ciudad importante. | Las muertes por sobredosis cayeron **50%**. La transmisión del VIH cayó **65%**. El crimen asociado con el consumo de drogas cayó dramáticamente. El apoyo público al programa supera el 70%. |
-| **Países Bajos** | Tolerancia pragmática. Los coffee shops venden cannabis legalmente. Sitios de consumo seguro. Énfasis en tratamiento. | Las tasas de consumo de drogas son comparables a países de prohibición estricta. Las muertes por sobredosis entre las más bajas de Europa. El sistema cuesta menos que la criminalización. |
-| **República Checa** (2010) | Despenalizó la posesión personal de todas las drogas. Enfoque centrado en la salud. | Sin aumento en el consumo de drogas. Reducción del estigma. Mejores resultados de salud para los usuarios de drogas. |
-| **Canadá** (Vancouver) | Sitio de consumo supervisado Insite operando desde 2003. Desafío legal llegó a la Corte Suprema (confirmado). | Más de 1,500 intervenciones por sobredosis. Cero muertes. 33% de aumento en la inscripción en programas de desintoxicación por residentes cercanos. Reducción del 65% en la inyección pública. |
-| **EE.UU.** (Guerra contra las Drogas, 1971-presente) | Criminalización. Más de $1 billón gastado en aplicación de la ley. Encarcelamiento masivo. | **La tasa más alta de muertes por sobredosis del mundo. La tasa más alta de encarcelamiento del planeta. El consumo de drogas no ha disminuido.** El enfoque más caro y menos efectivo jamás intentado. |
+| País                                                 | Modelo                                                                                                                                                                                                     | Resultado                                                                                                                                                                                                                                          |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Portugal** (2001)                                  | Despenalizó todas las drogas. Redirigió el presupuesto de aplicación de la ley a tratamiento. Comisiones de disuasión (profesionales de salud, no jueces) se reúnen con personas sorprendidas consumiendo. | Las infecciones por VIH entre usuarios de drogas cayeron **95%**. Las muertes por sobredosis cayeron **80%**. Las tasas de consumo de drogas están por debajo del promedio de la UE. El encarcelamiento por delitos de drogas cayó dramáticamente. |
+| **Suiza** (1994)                                     | Tratamiento con heroína asistida (THA) -- heroína farmacéutica recetada para adicción severa. Sitios de consumo seguro en cada ciudad importante.                                                          | Las muertes por sobredosis cayeron **50%**. La transmisión del VIH cayó **65%**. El crimen asociado con el consumo de drogas cayó dramáticamente. El apoyo público al programa supera el 70%.                                                      |
+| **Países Bajos**                                     | Tolerancia pragmática. Los coffee shops venden cannabis legalmente. Sitios de consumo seguro. Énfasis en tratamiento.                                                                                      | Las tasas de consumo de drogas son comparables a países de prohibición estricta. Las muertes por sobredosis entre las más bajas de Europa. El sistema cuesta menos que la criminalización.                                                         |
+| **República Checa** (2010)                           | Despenalizó la posesión personal de todas las drogas. Enfoque centrado en la salud.                                                                                                                        | Sin aumento en el consumo de drogas. Reducción del estigma. Mejores resultados de salud para los usuarios de drogas.                                                                                                                               |
+| **Canadá** (Vancouver)                               | Sitio de consumo supervisado Insite operando desde 2003. Desafío legal llegó a la Corte Suprema (confirmado).                                                                                              | Más de 1,500 intervenciones por sobredosis. Cero muertes. 33% de aumento en la inscripción en programas de desintoxicación por residentes cercanos. Reducción del 65% en la inyección pública.                                                     |
+| **EE.UU.** (Guerra contra las Drogas, 1971-presente) | Criminalización. Más de $1 billón gastado en aplicación de la ley. Encarcelamiento masivo.                                                                                                                 | **La tasa más alta de muertes por sobredosis del mundo. La tasa más alta de encarcelamiento del planeta. El consumo de drogas no ha disminuido.** El enfoque más caro y menos efectivo jamás intentado.                                            |
 
 **Cada enfoque alternativo -- la despenalización portuguesa, la reducción de daños suiza, el pragmatismo holandés -- produce mejores resultados que la criminalización estadounidense.** La evidencia no es ambigua. La guerra contra las drogas es la política más exhaustivamente refutada de la historia moderna.
 
@@ -102,7 +110,7 @@ Hay más de 200 sitios de consumo supervisado operando en 14 países. Cero muert
 Esta propuesta despenaliza el uso personal, no la distribución. La fabricación y el tráfico siguen siendo delitos penales. La distinción es simple: si estás enfermo, necesitas un médico; si estás vendiendo veneno, enfrentas consecuencias.
 
 **"¿Qué pasa con Oregon? Intentaron la despenalización y la revirtieron."**
-La Measure 110 de Oregon es el contraargumento más común, así que abordémoslo directamente. Oregon despenalizó la posesión en 2020 y parcialmente re-criminalizó en 2024, citando el aumento de muertes por sobredosis. Lo que realmente sucedió: el pico de sobredosis de Oregon siguió la ola nacional de fentanilo y comenzó *antes* de que la Measure 110 entrara en vigor. Los estados que NO despenalizaron vieron aumentos similares o peores. Más críticamente, Oregon no construyó infraestructura de tratamiento -- solo el 10% de los fondos asignados para tratamiento se gastaron en los primeros dos años (Oregon Health Authority, 2023). El fracaso fue de implementación, no del concepto. Nuestra propuesta difiere: redirigimos el presupuesto de aplicación directamente a tratamiento (sin esperar ingresos del impuesto al cannabis), exigimos tratamiento a demanda dentro de 24 horas y establecemos sitios de consumo seguro. Oregon no hizo nada de esto.
+La Measure 110 de Oregon es el contraargumento más común, así que abordémoslo directamente. Oregon despenalizó la posesión en 2020 y parcialmente re-criminalizó en 2024, citando el aumento de muertes por sobredosis. Lo que realmente sucedió: el pico de sobredosis de Oregon siguió la ola nacional de fentanilo y comenzó _antes_ de que la Measure 110 entrara en vigor. Los estados que NO despenalizaron vieron aumentos similares o peores. Más críticamente, Oregon no construyó infraestructura de tratamiento -- solo el 10% de los fondos asignados para tratamiento se gastaron en los primeros dos años (Oregon Health Authority, 2023). El fracaso fue de implementación, no del concepto. Nuestra propuesta difiere: redirigimos el presupuesto de aplicación directamente a tratamiento (sin esperar ingresos del impuesto al cannabis), exigimos tratamiento a demanda dentro de 24 horas y establecemos sitios de consumo seguro. Oregon no hizo nada de esto.
 
 **"¿Qué pasa con el impacto en los vecindarios cerca de los sitios de consumo seguro?"**
 Los estudios de Insite en Vancouver (operando desde 2003), el MSIC de Sídney y las instalaciones europeas muestran consistentemente: el consumo público de drogas disminuye cerca de los sitios de consumo supervisado, las agujas descartadas disminuyen y el crimen no aumenta (Potier et al., Drug and Alcohol Dependence, 2014). La oposición comunitaria es típicamente más alta antes de que los sitios abran y cae bruscamente después de que los residentes ven los resultados reales.

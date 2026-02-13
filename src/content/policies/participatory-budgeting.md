@@ -1,29 +1,29 @@
 ---
 title: "Participatory Budgeting & Citizens' Assemblies"
-titleEs: "Presupuesto Participativo y Asambleas Ciudadanas"
+titleEs: 'Presupuesto Participativo y Asambleas Ciudadanas'
 summary: "You decide how $100M+ of Denver's budget is spent - directly. Plus randomly selected citizens' assemblies to tackle the big questions. Real democracy, not just voting every 4 years."
-summaryEs: "Tú decides cómo se gastan $100M+ del presupuesto de Denver - directamente. Además, asambleas ciudadanas seleccionadas al azar para abordar las grandes preguntas. Democracia real, no solo votar cada 4 años."
-category: "democracy"
-icon: "vote"
+summaryEs: 'Tú decides cómo se gastan $100M+ del presupuesto de Denver - directamente. Además, asambleas ciudadanas seleccionadas al azar para abordar las grandes preguntas. Democracia real, no solo votar cada 4 años.'
+category: 'democracy'
+icon: 'vote'
 order: 55
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "62%"
-    label: "of Denver voters stayed home in 2023"
-    labelEs: "de los votantes de Denver se quedaron en casa en 2023"
-    context: "Only 38% turnout — most residents have no voice in a $1.6B budget"
-    contextEs: "Solo 38% de participacion — la mayoria no tiene voz en un presupuesto de $1.6B"
-    source: "Denver Elections Division, 2023"
-    theme: "danger"
-  - value: "7,000+"
-    label: "cities worldwide use participatory budgeting"
-    labelEs: "ciudades en todo el mundo usan presupuesto participativo"
-    context: "Pioneered in Brazil in 1989 — infant mortality dropped 50% in Porto Alegre"
-    contextEs: "Pionero en Brasil en 1989 — la mortalidad infantil bajo 50% en Porto Alegre"
-    source: "Sintomer et al., 2012"
-    theme: "primary"
+  - value: '62%'
+    label: 'of Denver voters stayed home in 2023'
+    labelEs: 'de los votantes de Denver se quedaron en casa en 2023'
+    context: 'Only 38% turnout — most residents have no voice in a $1.6B budget'
+    contextEs: 'Solo 38% de participacion — la mayoria no tiene voz en un presupuesto de $1.6B'
+    source: 'Denver Elections Division, 2023'
+    theme: 'danger'
+  - value: '7,000+'
+    label: 'cities worldwide use participatory budgeting'
+    labelEs: 'ciudades en todo el mundo usan presupuesto participativo'
+    context: 'Pioneered in Brazil in 1989 — infant mortality dropped 50% in Porto Alegre'
+    contextEs: 'Pionero en Brasil en 1989 — la mortalidad infantil bajo 50% en Porto Alegre'
+    source: 'Sintomer et al., 2012'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -45,6 +45,7 @@ The contrast with Mike Johnston's approach is instructive: major decisions like 
 Pioneered in Porto Alegre, Brazil in 1989 and now used in over 7,000 cities worldwide. Residents directly decide how public money is spent.
 
 **Denver's PB Program:**
+
 - **10% of the city's capital budget** (~$100-150M/year) is allocated through participatory budgeting
 - **Every Denver resident** 14+ can participate (including non-citizens - you don't need to be a voter to have a say in your neighborhood)
 - **Neighborhood assemblies** propose projects: parks, street improvements, community centers, safety infrastructure, environmental remediation
@@ -52,6 +53,7 @@ Pioneered in Porto Alegre, Brazil in 1989 and now used in over 7,000 cities worl
 - **Budget delegates** (elected from neighborhoods) develop proposals into implementable projects with city staff support
 
 **Process (annual cycle):**
+
 1. **Idea collection** (2 months): Neighborhood assemblies generate proposals
 2. **Development** (3 months): Budget delegates work with city engineers and planners to develop proposals into costed, feasible projects
 3. **Exhibition** (1 month): All proposals displayed publicly, online and at community locations
@@ -63,6 +65,7 @@ Pioneered in Porto Alegre, Brazil in 1989 and now used in over 7,000 cities worl
 Adapted from Ireland's Citizens' Assembly model, which resolved the country's most contentious issues (abortion, marriage equality, climate) through democratic deliberation rather than partisan warfare.
 
 **How it works:**
+
 - **Randomly selected** residents (like jury duty, but for policy)
 - **Demographically representative**: assembly mirrors Denver's population by age, race, income, neighborhood, gender
 - **Professional facilitation**: independent facilitators, not politicians
@@ -71,6 +74,7 @@ Adapted from Ireland's Citizens' Assembly model, which resolved the country's mo
 - **Recommendations**: assembly produces detailed policy recommendations that city council must publicly respond to (accept, modify with explanation, or reject with explanation)
 
 **Denver Citizens' Assembly topics (proposed first 3 years):**
+
 - Year 1: Housing affordability and homelessness
 - Year 2: Police and public safety
 - Year 3: Climate and environmental justice
@@ -79,15 +83,16 @@ Adapted from Ireland's Citizens' Assembly model, which resolved the country's mo
 
 ### Participatory Budgeting
 
-| City | Scale | Result |
-|------|-------|--------|
-| **Porto Alegre, Brazil** | Pioneered PB in 1989, 50,000+ participants/year | Infant mortality dropped 50%. Water access reached 98%. Dramatic improvements in low-income neighborhoods. Became model for the world. |
-| **Paris, France** | €500M allocated through PB (2014-2020), 5% of total budget | 300+ projects completed. 10% of residents participate annually. Projects include parks, bike lanes, green spaces, community gardens. |
-| **Helsinki, Finland** | €8.8M PB budget (growing annually) | High participation, innovative proposals, increased trust in government |
-| **New York City** | Largest PB program in US. $40M+/year across 30+ districts. | 100,000+ residents participate. Projects in every borough. Youth participation especially high. |
-| **Madrid, Spain** | €100M PB budget via "Decide Madrid" digital platform | 400,000+ online participants. Proposals include social housing, green infrastructure, public transit. |
+| City                     | Scale                                                      | Result                                                                                                                                 |
+| ------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Porto Alegre, Brazil** | Pioneered PB in 1989, 50,000+ participants/year            | Infant mortality dropped 50%. Water access reached 98%. Dramatic improvements in low-income neighborhoods. Became model for the world. |
+| **Paris, France**        | €500M allocated through PB (2014-2020), 5% of total budget | 300+ projects completed. 10% of residents participate annually. Projects include parks, bike lanes, green spaces, community gardens.   |
+| **Helsinki, Finland**    | €8.8M PB budget (growing annually)                         | High participation, innovative proposals, increased trust in government                                                                |
+| **New York City**        | Largest PB program in US. $40M+/year across 30+ districts. | 100,000+ residents participate. Projects in every borough. Youth participation especially high.                                        |
+| **Madrid, Spain**        | €100M PB budget via "Decide Madrid" digital platform       | 400,000+ online participants. Proposals include social housing, green infrastructure, public transit.                                  |
 
 **Consistent findings across all PB programs:**
+
 - Money flows to previously neglected neighborhoods
 - Infrastructure improves faster in low-income areas
 - Civic engagement increases (especially among youth, immigrants, and low-income residents)
@@ -96,15 +101,16 @@ Adapted from Ireland's Citizens' Assembly model, which resolved the country's mo
 
 ### Citizens' Assemblies
 
-| Country | Issue | Result |
-|---------|-------|--------|
-| **Ireland** | Abortion legalization (2016-2017) | Citizens' Assembly recommended legalization → referendum passed with 66% support. Resolved decades-long deadlock. |
-| **Ireland** | Marriage equality (2013-2014) | Constitutional Convention (similar model) recommended → referendum passed with 62% support. |
-| **France** | Climate policy (2019-2020) | 150 randomly selected citizens produced 149 climate recommendations. Several became law. |
-| **UK** | Climate policy (2020) | Climate Assembly UK produced detailed recommendations on reaching net zero. |
-| **Belgium** | Permanent citizens' assembly in German-speaking community | Ongoing deliberative body that regularly produces policy recommendations. |
+| Country     | Issue                                                     | Result                                                                                                            |
+| ----------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Ireland** | Abortion legalization (2016-2017)                         | Citizens' Assembly recommended legalization → referendum passed with 66% support. Resolved decades-long deadlock. |
+| **Ireland** | Marriage equality (2013-2014)                             | Constitutional Convention (similar model) recommended → referendum passed with 62% support.                       |
+| **France**  | Climate policy (2019-2020)                                | 150 randomly selected citizens produced 149 climate recommendations. Several became law.                          |
+| **UK**      | Climate policy (2020)                                     | Climate Assembly UK produced detailed recommendations on reaching net zero.                                       |
+| **Belgium** | Permanent citizens' assembly in German-speaking community | Ongoing deliberative body that regularly produces policy recommendations.                                         |
 
 **Why random selection works better than elections:**
+
 - Elected officials are disproportionately wealthy, male, white, and older than their constituents
 - Random selection produces assemblies that actually look like the population
 - Participants don't owe donors or lobbyists anything

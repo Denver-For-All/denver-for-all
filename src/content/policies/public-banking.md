@@ -1,41 +1,42 @@
 ---
-title: "Bank of Denver - Public Banking"
-titleEs: "Banco de Denver - Banca Pública"
+title: 'Bank of Denver - Public Banking'
+titleEs: 'Banco de Denver - Banca Pública'
 summary: "A city-owned bank that keeps Denver's money in Denver. Low-interest loans for housing, small businesses, and green energy. Financial services for the unbanked."
-summaryEs: "Un banco de propiedad municipal que mantiene el dinero de Denver en Denver. Préstamos a bajo interés para vivienda, pequeños negocios y energía verde. Servicios financieros para los no bancarizados."
-category: "infrastructure"
-icon: "piggy-bank"
+summaryEs: 'Un banco de propiedad municipal que mantiene el dinero de Denver en Denver. Préstamos a bajo interés para vivienda, pequeños negocios y energía verde. Servicios financieros para los no bancarizados.'
+category: 'infrastructure'
+icon: 'piggy-bank'
 order: 60
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "100+ years"
-    label: "Bank of North Dakota has never lost money"
-    labelEs: "Banco de Dakota del Norte nunca ha perdido dinero"
-    context: "Survived the Depression, 2008, and COVID — returns $100M+/year to the state"
-    contextEs: "Sobrevivio la Depresion, 2008 y COVID — devuelve $100M+/ano al estado"
-    source: "Bank of North Dakota Annual Reports"
-    theme: "primary"
-  - value: "18.4%"
-    label: "of US households unbanked or underbanked"
-    labelEs: "de hogares en EE.UU. sin o con acceso limitado a bancos"
-    context: "Disproportionately communities of color"
-    contextEs: "Desproporcionadamente comunidades de color"
-    source: "FDIC, 2023"
-    theme: "danger"
-  - value: "400+"
-    label: "public savings banks in Germany alone"
-    labelEs: "cajas de ahorro publicas solo en Alemania"
-    context: "Serving 50 million customers — public banking is normal worldwide"
-    contextEs: "Sirviendo a 50 millones de clientes — la banca publica es normal en el mundo"
-    source: "German Sparkassen Association"
-    theme: "secondary"
+  - value: '100+ years'
+    label: 'Bank of North Dakota has never lost money'
+    labelEs: 'Banco de Dakota del Norte nunca ha perdido dinero'
+    context: 'Survived the Depression, 2008, and COVID — returns $100M+/year to the state'
+    contextEs: 'Sobrevivio la Depresion, 2008 y COVID — devuelve $100M+/ano al estado'
+    source: 'Bank of North Dakota Annual Reports'
+    theme: 'primary'
+  - value: '18.4%'
+    label: 'of US households unbanked or underbanked'
+    labelEs: 'de hogares en EE.UU. sin o con acceso limitado a bancos'
+    context: 'Disproportionately communities of color'
+    contextEs: 'Desproporcionadamente comunidades de color'
+    source: 'FDIC, 2023'
+    theme: 'danger'
+  - value: '400+'
+    label: 'public savings banks in Germany alone'
+    labelEs: 'cajas de ahorro publicas solo en Alemania'
+    context: 'Serving 50 million customers — public banking is normal worldwide'
+    contextEs: 'Sirviendo a 50 millones de clientes — la banca publica es normal en el mundo'
+    source: 'German Sparkassen Association'
+    theme: 'secondary'
 ---
 
 ## The Problem
 
 Denver deposits hundreds of millions of taxpayer dollars in Wall Street banks - JPMorgan Chase, Wells Fargo, Bank of America. These banks:
+
 - Charge the city fees and pay minimal interest on deposits
 - Use Denver's money to fund fossil fuel projects, predatory lending, and speculative trading
 - Provide minimal lending to Denver small businesses and affordable housing
@@ -55,6 +56,7 @@ Denver deposits its operating funds in commercial banks under treasury managemen
 A publicly owned, city-chartered bank modeled on the Bank of North Dakota (operating successfully since 1919).
 
 **How it works:**
+
 1. Denver deposits its operating funds, tax revenue, and reserves in the Bank of Denver instead of Wall Street banks
 2. The bank uses these deposits to make low-interest loans for: affordable housing development, small business lending (priority: minority-owned, worker cooperatives), green energy and efficiency projects, and community land trust acquisitions
 3. Interest revenue returns to the city - not to Wall Street shareholders
@@ -69,6 +71,7 @@ A publicly owned, city-chartered bank modeled on the Bank of North Dakota (opera
 - **Student Loan Refinancing:** Lower-interest refinancing for Denver residents with student debt (where legally permissible)
 
 **Governance:**
+
 - Board appointed by city council (not mayor alone)
 - Professional bank management with banking expertise
 - Annual public audit
@@ -77,14 +80,14 @@ A publicly owned, city-chartered bank modeled on the Bank of North Dakota (opera
 
 ### International Evidence: Public Banking Is Normal
 
-| Institution | Country | Founded | Assets | Result |
-|------------|---------|---------|--------|--------|
-| **Germany's Sparkassen** (400+ public savings banks) | Germany | 1800s | €1.4 trillion total | Serve 50 million customers. Largest banking sector in Germany. Legally required to serve the public interest. Profits reinvested locally. Credit to small businesses at rates Wall Street won't match. |
-| **Bank of North Dakota** | USA | 1919 | ~$7B+ | Only public bank in the US. 100+ years, zero losses, returned $100M+/year to state. ND has lowest bank failure rate nationally. Survived Depression, 2008, COVID. |
-| **KfW (Kreditanstalt für Wiederaufbau)** | Germany | 1948 | €546 billion | Government development bank. Funds green energy, affordable housing, SMEs. Key driver of Germany's Energiewende (energy transition). |
-| **Japan Post Bank** | Japan | 2006 (restructured) | ¥224 trillion | Largest deposit holder in the world. Universal access - branch in every community. Financial inclusion for rural and underserved populations. |
-| **Costa Rica's Banco Nacional** | Costa Rica | 1914 | Public/mixed | Largest bank in Central America. Public bank finances development while private banks serve elites. |
-| **India's State Bank of India** | India | 1955 | $635 billion | Financial inclusion for 450M+ account holders. Reaches rural communities that private banks ignore. |
+| Institution                                          | Country    | Founded             | Assets              | Result                                                                                                                                                                                                 |
+| ---------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Germany's Sparkassen** (400+ public savings banks) | Germany    | 1800s               | €1.4 trillion total | Serve 50 million customers. Largest banking sector in Germany. Legally required to serve the public interest. Profits reinvested locally. Credit to small businesses at rates Wall Street won't match. |
+| **Bank of North Dakota**                             | USA        | 1919                | ~$7B+               | Only public bank in the US. 100+ years, zero losses, returned $100M+/year to state. ND has lowest bank failure rate nationally. Survived Depression, 2008, COVID.                                      |
+| **KfW (Kreditanstalt für Wiederaufbau)**             | Germany    | 1948                | €546 billion        | Government development bank. Funds green energy, affordable housing, SMEs. Key driver of Germany's Energiewende (energy transition).                                                                   |
+| **Japan Post Bank**                                  | Japan      | 2006 (restructured) | ¥224 trillion       | Largest deposit holder in the world. Universal access - branch in every community. Financial inclusion for rural and underserved populations.                                                          |
+| **Costa Rica's Banco Nacional**                      | Costa Rica | 1914                | Public/mixed        | Largest bank in Central America. Public bank finances development while private banks serve elites.                                                                                                    |
+| **India's State Bank of India**                      | India      | 1955                | $635 billion        | Financial inclusion for 450M+ account holders. Reaches rural communities that private banks ignore.                                                                                                    |
 
 **Public banking is widespread globally** -- Germany, Japan, India, Costa Rica, and dozens of other nations rely on public banks as core financial infrastructure. The near-total absence of public banking in the US is unusual among large economies. In Germany alone, public and cooperative banks control more assets than private banks. They serve communities instead of extracting from them.
 

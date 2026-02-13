@@ -9,6 +9,7 @@
 ## Category 1: General Denver Community Groups
 
 ### Denver Community Forum / Denver Colorado Community
+
 - **Estimated size:** 50,000-100,000+ members (Denver's largest general community groups)
 - **Tier:** 1 (high-activity, issue-aligned)
 - **Primary policy alignment:** Housing costs, cost of living, public safety, infrastructure, broadband — basically everything. General groups surface whatever is bothering people right now.
@@ -19,6 +20,7 @@
 **Search terms:** `Denver community`, `Denver Colorado`, `Denver discussion`, `Denver neighbors`
 
 ### Denver Politics / Denver Political Discussion
+
 - **Estimated size:** 5,000-20,000 members
 - **Tier:** 1 (high-activity, issue-aligned)
 - **Primary policy alignment:** All policies — this is where explicitly political discussion is welcome
@@ -33,6 +35,7 @@
 ## Category 2: Renter and Housing Groups
 
 ### Denver Renters / Denver Tenant Groups
+
 - **Estimated size:** 2,000-15,000 members
 - **Tier:** 1 (high-activity, issue-aligned)
 - **Primary policy alignment:** Rent stabilization, tenant bill of rights, eviction protections, social housing, housing first
@@ -43,6 +46,7 @@
 **Search terms:** `Denver renters`, `Denver tenants`, `Denver housing`, `Denver apartments`, `renting in Denver`
 
 ### Denver Housing Search / Denver Apartments for Rent
+
 - **Estimated size:** 10,000-50,000+ members
 - **Tier:** 2 (high-activity, indirectly aligned)
 - **Primary policy alignment:** Rent stabilization, social housing, vacancy tax
@@ -57,6 +61,7 @@
 ## Category 3: Parent and Family Groups
 
 ### Denver Parents / Denver Moms / Denver Families
+
 - **Estimated size:** 10,000-50,000+ members (parent groups tend to be very large and active)
 - **Tier:** 1 (high-activity, issue-aligned)
 - **Primary policy alignment:** Universal childcare ($2,200/month costs, CCCAP gaps, 15hr/week Pre-K limitation), living wage ($7/hr gap for families), education, maternal-infant health, parks & recreation
@@ -71,6 +76,7 @@
 ## Category 4: Neighborhood-Specific Groups
 
 ### High Displacement: Globeville / Elyria-Swansea
+
 - **Estimated size:** 1,000-5,000 members
 - **Tier:** 2 (neighborhood-specific)
 - **Primary policy alignment:** Anti-displacement zones, social housing, community land trusts, immigration sanctuary/protection (high Latino population), pedestrian infrastructure (I-70 reconstruction impact)
@@ -81,6 +87,7 @@
 **Search terms:** `Globeville Elyria-Swansea`, `GES Denver`, `Globeville community`, `Elyria-Swansea neighbors`
 
 ### High Displacement: RiNo / Five Points
+
 - **Estimated size:** 2,000-10,000 members
 - **Tier:** 2 (neighborhood-specific)
 - **Primary policy alignment:** Anti-displacement, social housing, corporate landlord ban, vacancy tax (high concentration of investor-owned properties), arts & culture (RiNo arts displacement)
@@ -91,6 +98,7 @@
 **Search terms:** `RiNo Denver`, `Five Points Denver`, `River North Denver`, `Five Points community`
 
 ### High Renter Density: Capitol Hill / Baker
+
 - **Estimated size:** 5,000-15,000 members (Capitol Hill groups tend to be large and active)
 - **Tier:** 2 (neighborhood-specific)
 - **Primary policy alignment:** Rent stabilization, tenant bill of rights, eviction protections, pedestrian infrastructure, transportation/transit, STAR program (high density of mental health crisis calls)
@@ -101,6 +109,7 @@
 **Search terms:** `Capitol Hill Denver`, `Cap Hill Denver`, `Baker neighborhood Denver`, `Capitol Hill community`
 
 ### Underserved: Montbello / Green Valley Ranch / Far Northeast Denver
+
 - **Estimated size:** 2,000-8,000 members
 - **Tier:** 2 (neighborhood-specific)
 - **Primary policy alignment:** Healthcare (healthcare deserts), municipal broadband (underserved by ISPs), public safety (community violence intervention), youth services, food access, parks & recreation
@@ -111,6 +120,7 @@
 **Search terms:** `Montbello Denver`, `Green Valley Ranch Denver`, `GVR community`, `Far Northeast Denver`, `Northeast Denver community`
 
 ### Bilingual Communities: Westwood / Athmar Park / Southwest Denver
+
 - **Estimated size:** 1,000-5,000 members (some groups operate primarily in Spanish)
 - **Tier:** 2 (neighborhood-specific)
 - **Primary policy alignment:** Immigration sanctuary/protection, living wage, universal childcare, healthcare, pedestrian infrastructure, food access
@@ -125,6 +135,7 @@
 ## Category 5: Worker and Professional Groups
 
 ### Denver Service Industry / Restaurant Workers
+
 - **Estimated size:** 2,000-10,000 members
 - **Tier:** 3 (professional/identity-based)
 - **Primary policy alignment:** Living wage ($7/hr gap), one fair wage (tipped minimum wage elimination), paid leave, right to disconnect, gig worker protections
@@ -135,6 +146,7 @@
 **Search terms:** `Denver restaurant workers`, `Denver service industry`, `Denver bartenders`, `Denver food service`, `Denver hospitality workers`
 
 ### Denver Teachers / Education Workers
+
 - **Estimated size:** 1,000-5,000 members
 - **Tier:** 3 (professional/identity-based)
 - **Primary policy alignment:** Education, universal childcare (childcare workers earn $13-16/hr vs. teachers), living wage, works councils, paid leave
@@ -145,6 +157,7 @@
 **Search terms:** `Denver teachers`, `DPS teachers`, `Denver education`, `Colorado teachers Denver`
 
 ### Denver Small Business Owners
+
 - **Estimated size:** 2,000-10,000 members
 - **Tier:** 3 (professional/identity-based)
 - **Primary policy alignment:** Small business economy, municipal broadband (Comcast costs), living wage (framed as consumer purchasing power), public banking
@@ -159,6 +172,7 @@
 ## Category 6: Issue-Specific Groups
 
 ### Denver Transit / Transportation Advocacy
+
 - **Estimated size:** 1,000-10,000 members
 - **Tier:** 3 (professional/identity-based)
 - **Primary policy alignment:** Transportation, pedestrian infrastructure (43% of sidewalks missing/deficient), autonomous vehicles, climate/environment
@@ -169,6 +183,7 @@
 **Search terms:** `Denver transit`, `Denver bike`, `Denver transportation`, `RTD Denver`, `Denver pedestrians`, `Denver walkability`
 
 ### Denver Environmental / Climate Groups
+
 - **Estimated size:** 1,000-5,000 members
 - **Tier:** 3 (professional/identity-based)
 - **Primary policy alignment:** Climate/environment, water security, waste/circular economy, municipal broadband (digital infrastructure as green infrastructure), transportation
@@ -179,6 +194,7 @@
 **Search terms:** `Denver environment`, `Denver climate`, `Denver sustainability`, `Denver clean air`, `Colorado environment Denver`
 
 ### Denver Disability / Accessibility Advocacy
+
 - **Estimated size:** 500-3,000 members
 - **Tier:** 3 (professional/identity-based)
 - **Primary policy alignment:** Disability rights & inclusion, pedestrian infrastructure (ADA compliance), aging & accessibility, public safety (police interactions with disabled people), healthcare, transportation
@@ -195,18 +211,23 @@
 Based on the intersection of group activity, policy alignment, and where Denver For All's data adds the most unique value:
 
 ### 1. Denver Renters / Denver Tenant Group (Tier 1)
+
 **Why first:** Highest policy alignment of any group. Every housing policy speaks directly to this audience. The eviction tracker and know-your-rights chatbot are immediately useful tools that no one else in the comments section can offer. People here are actively dealing with the problems Denver For All's policies address. Every interaction is a potential organizing conversion.
 
 ### 2. Denver Community Forum / Denver Colorado Community (Tier 1)
+
 **Why second:** Largest audience reach. General groups surface the broadest range of policy-relevant discussions — rent, broadband, crime, infrastructure, wages. You'll encounter threads relevant to 30+ of the 49 policies. The audience is more politically diverse than issue-specific groups, which means your data-driven approach reaches people who aren't already convinced.
 
 ### 3. Denver Parents / Denver Moms (Tier 1)
+
 **Why third:** Universal childcare is one of the most emotionally resonant policies with the broadest demographic appeal. The $2,200/month childcare cost, the $7-13 return per $1 invested (Heckman), and the Quebec model (paid for itself) are jaw-dropping data points that perform well in parent groups. Parents share content in group chats — this is the one-pager distribution channel.
 
 ### 4. Capitol Hill Neighborhood Group (Tier 2)
+
 **Why fourth:** Highest renter density in Denver, politically engaged demographic, and directly relevant to rent stabilization, tenant rights, pedestrian infrastructure, and STAR program data. Cap Hill groups tend to be large and active with high engagement. This is also a testing ground — content that works in Capitol Hill can be adapted for other neighborhood groups.
 
 ### 5. Montbello / Green Valley Ranch / Far Northeast Denver (Tier 2)
+
 **Why fifth:** Underserved neighborhoods where Denver For All's data adds the most unique value. These communities are typically ignored by advocacy organizations that focus on central Denver. Showing up with data about their specific healthcare gaps, broadband redlining, and infrastructure deficits demonstrates that the platform serves the whole city — not just the neighborhoods that already get attention. Also critical for credibility with community organizations like Focus Points and for Spanish-language outreach development.
 
 ---

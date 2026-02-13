@@ -1,36 +1,36 @@
 ---
-title: "Youth Services & Opportunity"
-titleEs: "Servicios y Oportunidades para Jóvenes"
-summary: "Guaranteed summer jobs for all Denver teens. Year-round youth centers in every district. Youth advisory council with real budget authority. Mental health counselors in every school. Violence intervention programs."
-summaryEs: "Empleos de verano garantizados para todos los adolescentes de Denver. Centros juveniles durante todo el año en cada distrito. Consejo asesor juvenil con autoridad presupuestaria real. Consejeros de salud mental en cada escuela. Programas de intervención contra la violencia."
-category: "education"
-icon: "baby"
+title: 'Youth Services & Opportunity'
+titleEs: 'Servicios y Oportunidades para Jóvenes'
+summary: 'Guaranteed summer jobs for all Denver teens. Year-round youth centers in every district. Youth advisory council with real budget authority. Mental health counselors in every school. Violence intervention programs.'
+summaryEs: 'Empleos de verano garantizados para todos los adolescentes de Denver. Centros juveniles durante todo el año en cada distrito. Consejo asesor juvenil con autoridad presupuestaria real. Consejeros de salud mental en cada escuela. Programas de intervención contra la violencia.'
+category: 'education'
+icon: 'baby'
 order: 49
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "58%"
-    label: "above national average — Colorado youth suicide"
-    labelEs: "por encima del promedio nacional — suicidio juvenil en Colorado"
-    context: "Suicide is the #1 cause of death for Coloradans ages 10-24"
-    contextEs: "El suicidio es la causa #1 de muerte para coloradenses de 10-24 anos"
-    source: "CO Dept of Public Health and Environment, 2023"
-    theme: "danger"
-  - value: "38%"
-    label: "of DPS students chronically absent"
-    labelEs: "de estudiantes de DPS cronicamente ausentes"
-    context: "More than 1 in 3 students missed 10%+ of school days in 2022-23"
-    contextEs: "Mas de 1 de cada 3 estudiantes falto mas del 10% de los dias escolares"
-    source: "DPS Accountability Reports"
-    theme: "danger"
-  - value: "$7-10"
-    label: "returned for every $1 invested in youth"
-    labelEs: "devueltos por cada $1 invertido en jovenes"
-    context: "Through reduced incarceration, higher earnings, and better health"
-    contextEs: "Mediante menos encarcelamiento, mayores ingresos y mejor salud"
-    source: "Heckman and Masterov; Fight Crime: Invest in Kids"
-    theme: "primary"
+  - value: '58%'
+    label: 'above national average — Colorado youth suicide'
+    labelEs: 'por encima del promedio nacional — suicidio juvenil en Colorado'
+    context: 'Suicide is the #1 cause of death for Coloradans ages 10-24'
+    contextEs: 'El suicidio es la causa #1 de muerte para coloradenses de 10-24 anos'
+    source: 'CO Dept of Public Health and Environment, 2023'
+    theme: 'danger'
+  - value: '38%'
+    label: 'of DPS students chronically absent'
+    labelEs: 'de estudiantes de DPS cronicamente ausentes'
+    context: 'More than 1 in 3 students missed 10%+ of school days in 2022-23'
+    contextEs: 'Mas de 1 de cada 3 estudiantes falto mas del 10% de los dias escolares'
+    source: 'DPS Accountability Reports'
+    theme: 'danger'
+  - value: '$7-10'
+    label: 'returned for every $1 invested in youth'
+    labelEs: 'devueltos por cada $1 invertido en jovenes'
+    context: 'Through reduced incarceration, higher earnings, and better health'
+    contextEs: 'Mediante menos encarcelamiento, mayores ingresos y mejor salud'
+    source: 'Heckman and Masterov; Fight Crime: Invest in Kids'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -52,6 +52,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 ## Our Solution
 
 ### 1. Guaranteed Summer Employment
+
 - City-funded summer jobs for every Denver teen 14-18 who wants one
 - Target: 10,000+ positions per summer (current programs serve roughly 2,000-3,000)
 - Placements in city government, nonprofits, small businesses, parks, and libraries
@@ -61,6 +62,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 - Modeled on Boston's SuccessLink (30+ year track record) and NYC Summer Youth Employment Program (100,000+ placements/year)
 
 ### 2. Year-Round Youth Centers
+
 - Dedicated youth center in every council district (11 centers)
 - Open after school, evenings, and weekends, with hours designed around when youth actually need safe spaces
 - Programming: homework help, arts, music production, sports, coding, career exploration, cooking
@@ -70,6 +72,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 - Safe, affirming space for LGBTQ+ youth
 
 ### 3. Youth Advisory Council with Budget Authority
+
 - Citywide Youth Advisory Council (ages 14-24), elected by Denver youth
 - Real budget authority: allocate $5M/year through youth-led participatory budgeting
 - Formal advisory role on all city policies affecting young people
@@ -78,6 +81,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 - Cross-reference: participatory budgeting policy
 
 ### 4. School-Based Mental Health
+
 - Licensed mental health counselor in every DPS school (elementary through high school)
 - Target ratio: 1 counselor per 250 students (meeting ASCA recommendations)
 - Trauma-informed care training for all school staff, not just counselors
@@ -87,6 +91,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 - Destigmatization campaigns designed and led by students themselves
 
 ### 5. Youth Violence Intervention
+
 - Community-based violence intervention using the credible messenger model (people with lived experience, from affected communities)
 - Hospital-based intervention for youth victims to prevent retaliation cycles
 - Conflict resolution and restorative justice in schools as the default response (not suspension/expulsion)
@@ -95,6 +100,7 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 - Cross-reference: public safety policy
 
 ### 6. Career Pathways & Apprenticeships
+
 - City-facilitated apprenticeships in trades, healthcare, technology, and creative industries
 - Pre-apprenticeship programs for youth 16-18 (paid training, not unpaid)
 - GED and credential support for disconnected youth
@@ -103,13 +109,13 @@ Denver's youth violence prevention efforts are fragmented across multiple city a
 
 ### International Evidence: Invest in Youth, Reduce Crime
 
-| Country/City | Model | Result |
-|-------------|-------|--------|
-| **Finland** | Youth Guarantee: every person under 25 offered employment, education, or training within 3 months of becoming unemployed. Universal access to youth services. | Youth unemployment consistently among lowest in Europe. Youth services treated as investment, not expense. |
-| **Germany** | Dual apprenticeship system: 70% of youth enter structured apprenticeships combining classroom and paid on-the-job training. | Youth unemployment under 6%, one of the lowest in the world. 70% of apprentices hired permanently by their training company. |
-| **Boston, USA** | SuccessLink summer jobs program operating for 30+ years. City-funded, placing thousands of teens in summer employment annually. | Research demonstrates direct correlation between summer employment and reduced youth violence. Program is a model for urban youth investment nationwide. |
-| **Medellín, Colombia** | Massive youth investment in the most violent neighborhoods: education, arts, libraries, job training, public spaces. Youth programming was central to the city's transformation strategy. | Went from the murder capital of the world to a global model of urban renewal. Youth programs were the foundation of the turnaround. |
-| **Scotland** | Whole-system approach to youth justice: community-based alternatives, early intervention, restorative justice, age of criminal responsibility raised to 12. | Youth imprisonment down 83% since 2008. Youth crime dropped dramatically. Proves that investing in alternatives works better than punishment. |
+| Country/City           | Model                                                                                                                                                                                     | Result                                                                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finland**            | Youth Guarantee: every person under 25 offered employment, education, or training within 3 months of becoming unemployed. Universal access to youth services.                             | Youth unemployment consistently among lowest in Europe. Youth services treated as investment, not expense.                                               |
+| **Germany**            | Dual apprenticeship system: 70% of youth enter structured apprenticeships combining classroom and paid on-the-job training.                                                               | Youth unemployment under 6%, one of the lowest in the world. 70% of apprentices hired permanently by their training company.                             |
+| **Boston, USA**        | SuccessLink summer jobs program operating for 30+ years. City-funded, placing thousands of teens in summer employment annually.                                                           | Research demonstrates direct correlation between summer employment and reduced youth violence. Program is a model for urban youth investment nationwide. |
+| **Medellín, Colombia** | Massive youth investment in the most violent neighborhoods: education, arts, libraries, job training, public spaces. Youth programming was central to the city's transformation strategy. | Went from the murder capital of the world to a global model of urban renewal. Youth programs were the foundation of the turnaround.                      |
+| **Scotland**           | Whole-system approach to youth justice: community-based alternatives, early intervention, restorative justice, age of criminal responsibility raised to 12.                               | Youth imprisonment down 83% since 2008. Youth crime dropped dramatically. Proves that investing in alternatives works better than punishment.            |
 
 Investing in youth is the single highest-return public investment a city can make. Every dollar spent on quality youth programs returns $7-10 in reduced incarceration (Heckman & Masterov, 2007; Fight Crime: Invest in Kids, 2020) ($60,000+/year per juvenile in Colorado), reduced healthcare costs, increased lifetime earnings, and increased tax revenue. Punishment is expensive and doesn't work. Prevention is cheaper and does.
 

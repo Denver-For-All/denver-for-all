@@ -1,35 +1,35 @@
 ---
-title: "One Fair Wage - Eliminate Tipped Minimum"
-titleEs: "Un Salario Justo - Eliminar el Salario Mínimo con Propinas"
+title: 'One Fair Wage - Eliminate Tipped Minimum'
+titleEs: 'Un Salario Justo - Eliminar el Salario Mínimo con Propinas'
 summary: "Tips are a bonus, not a wage. Every worker gets the full minimum wage. No more subsidizing restaurants with your server's rent money."
-summaryEs: "Las propinas son un extra, no un salario. Todo trabajador recibe el salario mínimo completo. No más subsidiar restaurantes con el dinero del alquiler de tu mesero."
-category: "labor"
-icon: "utensils"
+summaryEs: 'Las propinas son un extra, no un salario. Todo trabajador recibe el salario mínimo completo. No más subsidiar restaurantes con el dinero del alquiler de tu mesero.'
+category: 'labor'
+icon: 'utensils'
 order: 11
-status: "draft"
-actionTarget: "state"
+status: 'draft'
+actionTarget: 'state'
 hasFundingSources: true
 keyStats:
-  - value: "2x"
-    label: "poverty rate for tipped vs non-tipped workers"
-    labelEs: "tasa de pobreza de trabajadores con propinas vs sin propinas"
-    context: "Tipped workers experience poverty at double the rate of other workers"
-    contextEs: "Los trabajadores con propinas experimentan pobreza al doble de la tasa de otros trabajadores"
-    theme: "danger"
-  - value: "7 states"
-    label: "already eliminated tipped minimum wage"
-    labelEs: "ya eliminaron el salario minimo con propinas"
-    context: "Restaurant job growth in One Fair Wage states exceeds tipped-wage states"
-    contextEs: "El crecimiento de empleo en restaurantes en estados con Un Salario Justo supera a los estados con propinas"
-    source: "Economic Policy Institute, 2023"
-    theme: "primary"
-  - value: "40,000"
-    label: "Denver tipped workers stuck in this system"
-    labelEs: "trabajadores con propinas en Denver atrapados en este sistema"
-    context: "Concentrated in restaurants, bars, hotels, and personal services"
-    contextEs: "Concentrados en restaurantes, bares, hoteles y servicios personales"
-    source: "BLS, 2023"
-    theme: "accent"
+  - value: '2x'
+    label: 'poverty rate for tipped vs non-tipped workers'
+    labelEs: 'tasa de pobreza de trabajadores con propinas vs sin propinas'
+    context: 'Tipped workers experience poverty at double the rate of other workers'
+    contextEs: 'Los trabajadores con propinas experimentan pobreza al doble de la tasa de otros trabajadores'
+    theme: 'danger'
+  - value: '7 states'
+    label: 'already eliminated tipped minimum wage'
+    labelEs: 'ya eliminaron el salario minimo con propinas'
+    context: 'Restaurant job growth in One Fair Wage states exceeds tipped-wage states'
+    contextEs: 'El crecimiento de empleo en restaurantes en estados con Un Salario Justo supera a los estados con propinas'
+    source: 'Economic Policy Institute, 2023'
+    theme: 'primary'
+  - value: '40,000'
+    label: 'Denver tipped workers stuck in this system'
+    labelEs: 'trabajadores con propinas en Denver atrapados en este sistema'
+    context: 'Concentrated in restaurants, bars, hotels, and personal services'
+    contextEs: 'Concentrados en restaurantes, bares, hoteles y servicios personales'
+    source: 'BLS, 2023'
+    theme: 'accent'
 ---
 
 ## The Problem
@@ -37,6 +37,7 @@ keyStats:
 The tipped minimum wage is a legacy of post-slavery economics. After emancipation, restaurants hired Black workers and told them to earn their wages from customer tips - allowing employers to pay nothing. This system persists today.
 
 In Colorado, the tipped minimum is $15.79/hr (2025) - $3+/hr less than the standard minimum. Employers are supposed to make up the difference if tips don't reach the full minimum. In practice:
+
 - Wage theft in tipped industries is rampant - employers routinely fail to make up shortfalls
 - Income is unpredictable and volatile - one slow Tuesday means rent is short
 - Workers are forced to tolerate harassment from customers because their income depends on it
@@ -65,13 +66,13 @@ Colorado's tipped minimum wage is $15.79/hr in 2025 (Colorado Department of Labo
 
 ### International Evidence: Most Countries Never Had a Tipped Minimum
 
-| Country | Tipping Culture | Server Wage | Result |
-|---------|----------------|-------------|--------|
-| **Japan** | Tipping is considered rude. | Full wage + benefits | Restaurant industry thrives. Service quality is legendary. Workers earn a living from their employer, not from customer generosity. |
-| **Australia** | Minimal tipping culture. | $23+ AUD/hr (full minimum) | Restaurant industry is healthy. Servers earn a predictable living. Tipping exists but is bonus, not survival. |
-| **Denmark** | No tipping expected. | $22+/hr via sectoral agreements | Fast food and restaurant workers earn living wages with benefits. Industry functions fine. |
-| **France** | Service charge included in price (*service compris*). | Full wage. | Dining culture that is literally world-famous operates without tipped wages. |
-| **7 US states (CA, WA, OR, MT, AK, MN, NV)** | Full minimum wage required for tipped workers. | Full state minimum ($15-17+/hr) | Restaurant employment growth EXCEEDS tipped-wage states. Workers earn more. Industry thrives. |
+| Country                                      | Tipping Culture                                       | Server Wage                     | Result                                                                                                                              |
+| -------------------------------------------- | ----------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Japan**                                    | Tipping is considered rude.                           | Full wage + benefits            | Restaurant industry thrives. Service quality is legendary. Workers earn a living from their employer, not from customer generosity. |
+| **Australia**                                | Minimal tipping culture.                              | $23+ AUD/hr (full minimum)      | Restaurant industry is healthy. Servers earn a predictable living. Tipping exists but is bonus, not survival.                       |
+| **Denmark**                                  | No tipping expected.                                  | $22+/hr via sectoral agreements | Fast food and restaurant workers earn living wages with benefits. Industry functions fine.                                          |
+| **France**                                   | Service charge included in price (_service compris_). | Full wage.                      | Dining culture that is literally world-famous operates without tipped wages.                                                        |
+| **7 US states (CA, WA, OR, MT, AK, MN, NV)** | Full minimum wage required for tipped workers.        | Full state minimum ($15-17+/hr) | Restaurant employment growth EXCEEDS tipped-wage states. Workers earn more. Industry thrives.                                       |
 
 **The tipped minimum wage is an American invention rooted in post-slavery economics.** Most of the world finds it bizarre that American restaurants pay workers $2-5/hr and expect customers to make up the difference. The seven US states that eliminated tipped wages prove it works here too.
 
@@ -103,9 +104,9 @@ The 2-year tax credit for small businesses specifically addresses this. But the 
 
 ## References
 
-- Colorado Department of Labor and Employment, *2025 Minimum Wage Rates*
-- One Fair Wage, *Tipped Worker Research and Policy Center* reports (onefairwage.org)
-- Economic Policy Institute, "Subminimum Wages in the States," *Policy Brief*, 2023
-- Bureau of Labor Statistics, *Occupational Employment and Wage Statistics*, Denver-Aurora-Lakewood MSA, 2023
-- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," *Industrial Relations* 54(4): 622-647 (2015)
-- National Women's Law Center, *The Tipped Minimum Wage and Its Impact on Women*, 2023
+- Colorado Department of Labor and Employment, _2025 Minimum Wage Rates_
+- One Fair Wage, _Tipped Worker Research and Policy Center_ reports (onefairwage.org)
+- Economic Policy Institute, "Subminimum Wages in the States," _Policy Brief_, 2023
+- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, 2023
+- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," _Industrial Relations_ 54(4): 622-647 (2015)
+- National Women's Law Center, _The Tipped Minimum Wage and Its Impact on Women_, 2023

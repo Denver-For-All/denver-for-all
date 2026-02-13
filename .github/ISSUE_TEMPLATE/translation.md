@@ -1,7 +1,7 @@
 ---
 name: Translation
 about: Contribute or request a Spanish translation
-title: "[Translation] "
+title: '[Translation] '
 labels: translation, spanish
 assignees: ''
 ---

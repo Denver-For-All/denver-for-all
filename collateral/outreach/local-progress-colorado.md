@@ -27,15 +27,15 @@ Denver For All has built what we believe is one of the most comprehensive munici
 
 Our platform directly mirrors Local Progress policy priorities:
 
-| Local Progress Priority | Denver For All Proposal |
-|------------------------|------------------------|
-| Rent control | Rent Stabilization (CPI or 3%, no vacancy decontrol) + preemption history analysis |
-| Tenant right to lease renewal | Tenant Bill of Rights with comprehensive protections |
-| Housing First | 10,000-unit social housing program modeled on Vienna |
-| Living wage | $25/hr minimum indexed to CPI, eliminate tipped minimum |
-| Police alternatives | STAR program expansion backed by Urban Institute data |
-| Participatory budgeting | Full proposal with implementation timeline |
-| Municipal broadband | Full proposal — 85% voter approval in 2018, still not built |
+| Local Progress Priority       | Denver For All Proposal                                                            |
+| ----------------------------- | ---------------------------------------------------------------------------------- |
+| Rent control                  | Rent Stabilization (CPI or 3%, no vacancy decontrol) + preemption history analysis |
+| Tenant right to lease renewal | Tenant Bill of Rights with comprehensive protections                               |
+| Housing First                 | 10,000-unit social housing program modeled on Vienna                               |
+| Living wage                   | $25/hr minimum indexed to CPI, eliminate tipped minimum                            |
+| Police alternatives           | STAR program expansion backed by Urban Institute data                              |
+| Participatory budgeting       | Full proposal with implementation timeline                                         |
+| Municipal broadband           | Full proposal — 85% voter approval in 2018, still not built                        |
 
 ### How We Can Support Local Progress Members
 

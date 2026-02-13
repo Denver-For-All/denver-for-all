@@ -18,6 +18,7 @@ Estos programas son reales, pero están drásticamente subfinanciados en relaci�
 ## Nuestra Solución
 
 ### 1. Ventanilla Única de Permisos e Inicio de Negocios
+
 - Crear una oficina municipal única para todos los permisos y licencias de negocios. Sin más rebotar entre más de 5 departamentos.
 - Máximo de 30 días para permisos estándar de negocios (el objetivo actual de 180 días para permisos de construcción es inaceptable para pequeños operadores)
 - Asistencia gratuita de permisos para negocios con menos de $500K de ingresos (navegar la burocracia no debería requerir un consultor)
@@ -26,6 +27,7 @@ Estos programas son reales, pero están drásticamente subfinanciados en relaci�
 - Procesamiento digital primero con confirmación el mismo día para licencias simples
 
 ### 2. Estabilización de Alquileres Comerciales
+
 - Limitar los aumentos de alquiler comercial al IPC + 2% para inquilinos de pequeños negocios que ocupen espacios de menos de 5,000 pies cuadrados
 - Derecho de primera opción para inquilinos de pequeños negocios cuando su arrendamiento expire, previniendo el desplazamiento sorpresa por inquilinos de cadenas dispuestos a pagar alquileres premium
 - Protecciones anti-desplazamiento en corredores comerciales de rápida gentrificación: RiNo, Five Points, East Colfax, Globeville, Elyria-Swansea y Westwood
@@ -37,12 +39,14 @@ Estos programas son reales, pero están drásticamente subfinanciados en relaci�
 Denver debería construir un ecosistema cooperativo completo, siguiendo el modelo de los programas municipales más exitosos del país. El Democracy at Work Institute (DAWI) y la National League of Cities desarrollaron un [Municipal Playbook for Employee Ownership](https://institute.coop/topics/government-policy) que Denver debería adoptar como marco.
 
 **Incubadora de Negocios Cooperativos**
+
 - Incubadora de negocios cooperativos financiada por la ciudad que proporcione espacio, apoyo legal y capital inicial para negocios de propiedad de los trabajadores
 - Programa de asistencia técnica: incorporación legal, gestión financiera, capacitación en gobernanza democrática y mentoría continua para cooperativas de trabajadores
 - Servicios administrativos compartidos (nómina, contabilidad, RR.HH.) para cooperativas de menos de 25 trabajadores, reduciendo la carga administrativa que acaba con las pequeñas cooperativas
 - Siguiendo el modelo de los Cleveland Evergreen Cooperatives (320 trabajadores en múltiples cooperativas ancladas por compras de hospitales y universidades) y el Preston Model (Reino Unido)
 
 **Pipeline de Conversión de Negocios Legados**
+
 - Este es el componente más urgente. Casi el **50% de las pequeñas empresas de EE.UU. son propiedad de personas en edad de jubilación**, y el 80% de ellas no podrá encontrar comprador (DAWI, 2025). En Denver, eso se traduce en miles de negocios (restaurantes, tiendas, contratistas, proveedores de servicios) en riesgo de cerrar permanentemente dentro de la próxima década. Las compras por empleados preservan empleos, mantienen los negocios locales y construyen riqueza para los trabajadores.
 - **Programa de asistencia para la conversión:** Ayudar a los propietarios de pequeños negocios que se jubilan a vender sus negocios a los empleados en lugar de a cadenas o capital privado. La ciudad proporciona: estructuración legal para fideicomisos de propiedad de empleados (EOTs) y cooperativas de trabajadores, financiamiento a través del fondo de micropréstamos, y 18 meses de mentoría de transición.
 - **Incentivo fiscal por conversión:** Reducción del impuesto a la propiedad por 3 años para negocios que se conviertan a propiedad de los trabajadores. El costo de ingresos es mínimo; la alternativa es el cierre del negocio y locales vacíos.
@@ -50,21 +54,25 @@ Denver debería construir un ecosistema cooperativo completo, siguiendo el model
 - **Meta: 50 conversiones de negocios legados en los primeros 3 años.**
 
 **Enlace Municipal Dedicado para Cooperativas**
+
 - Un puesto de personal dedicado dentro de Denver Economic Development & Opportunity (DEDO) con experiencia en desarrollo cooperativo, siguiendo el modelo de Santa Ana, CA, que designó un City Liaison para eliminar barreras, identificar incentivos y conectar cooperativas con programas municipales
 - El enlace coordina entre departamentos de la ciudad: adquisiciones, permisos, desarrollo de la fuerza laboral y la incubadora cooperativa
 - Informe anual de la economía cooperativa: número de cooperativas, trabajadores-propietarios, ingresos y sectores atendidos, publicado públicamente
 
 **Preferencias de Adquisiciones**
+
 - Preferencia de licitación del 5% en contratos de adquisiciones de la ciudad para cooperativas, poniendo dinero público detrás de modelos de negocios democráticos
 - Estrategia de instituciones ancla: asociarse con Denver Health, DPS, Denver International Airport y CU Denver para dirigir las compras institucionales hacia cooperativas locales, siguiendo el modelo Cleveland Evergreen adaptado para las instituciones ancla de Denver
 - Dividir grandes contratos de servicios institucionales (lavandería, servicio de alimentos, limpieza, jardinería) en lotes accesibles para cooperativas
 
 **Financiamiento Cooperativo**
+
 - Fondo de préstamos cooperativo dedicado dentro del [Banco de Denver](/platform/public-banking) (una vez establecido), porque las cooperativas necesitan capital paciente con términos flexibles que los bancos tradicionales no proporcionan
 - Subvenciones de desarrollo cooperativo: $10,000-$50,000 en subvenciones de inicio para nuevas cooperativas, financiadas a través del fondo revolvente de micropréstamos
 - Asociaciones con CDFI específicamente para financiamiento cooperativo
 
 ### 4. Adquisiciones con Prioridad Local
+
 - Preferencia de licitación del 10% para negocios con sede en Denver en todos los contratos de la ciudad
 - Dividir grandes contratos en lotes más pequeños accesibles para pequeñas empresas. Un contrato de $10M en el que solo firmas nacionales pueden licitar debería ser diez contratos de $1M
 - Mandato de pago rápido: la ciudad paga todas las facturas dentro de 30 días (muchas ciudades y agencias rutinariamente toman más de 90 días, lo que destruye el flujo de caja de las pequeñas empresas)
@@ -72,6 +80,7 @@ Denver debería construir un ecosistema cooperativo completo, siguiendo el model
 - Informes anuales públicos sobre la demografía de las adquisiciones: qué porcentaje de los dólares de la ciudad va a negocios locales, negocios de propietarios BIPOC, pequeñas empresas y cooperativas
 
 ### 5. Micropréstamos y Acceso a Capital
+
 - Fondo de micropréstamos respaldado por la ciudad para negocios con menos de $250K de ingresos, ofreciendo préstamos al 0-3% de interés, porque el 77% de las pequeñas empresas son rechazadas por los grandes bancos
 - Acceso prioritario para negocios de propietarios BIPOC, inmigrantes y mujeres, cerrando la brecha de capital de inicio donde los emprendedores negros comienzan con un tercio del capital de los emprendedores blancos
 - Asistencia técnica vinculada con cada préstamo: planificación de negocios, contabilidad, marketing y apoyo legal, porque el capital solo no es suficiente (los datos de SBA Office of Advocacy y SCORE (2024 Mentoring Impact Report) muestran que las tasas de fracaso bajan dramáticamente con mentoría y apoyo)
@@ -79,6 +88,7 @@ Denver debería construir un ecosistema cooperativo completo, siguiendo el model
 - Asociaciones con Community Development Financial Institutions (CDFI) para aprovechar fondos federales y capital privado junto con la inversión de la ciudad
 
 ### 6. Anti-monopolio y Competencia Local
+
 - Límites de densidad de franquicias y cadenas en distritos comerciales de vecindario: no más del 20% del espacio comercial en planta baja en un distrito puede ser ocupado por negocios de fórmula
 - Restricciones a negocios de fórmula que requieran revisión especial para cadenas con más de 10 ubicaciones que busquen abrir en zonas comerciales de vecindario designadas
 - Apoyo para asociaciones de negocios locales y distritos de mejora de negocios con fondos de igualación de la ciudad
@@ -86,13 +96,13 @@ Denver debería construir un ecosistema cooperativo completo, siguiendo el model
 
 ### Evidencia Internacional: Economía Cooperativa y Negocios Locales
 
-| País/Ciudad | Modelo | Resultado |
-|-------------|--------|-----------|
-| **Mondragón, España** | La red de cooperativas de trabajadores más grande del mundo. Más de 260 cooperativas en manufactura, comercio, finanzas y agricultura. Gobernanza democrática con ratios de pago limitados a 5:1. | Más de 80,000 trabajadores. Durante la crisis de desempleo del 25%+ de España, la región vasca mantuvo las tasas de desempleo a la mitad del promedio nacional. Ni un solo trabajador fue despedido en la recesión de 2008. Tasa de supervivencia cooperativa del 97% en 30 años. |
-| **Preston, Reino Unido** | Preston Model: redirigió las adquisiciones de instituciones ancla a negocios locales. Estrategia de construcción de riqueza comunitaria lanzada en 2012 tras el colapso de un centro comercial propuesto. | £74M redirigidos de vuelta a la economía de Preston. El gasto en adquisiciones locales subió del 5% al 18.2%. 4,500 nuevos empleos creados. El desempleo bajó del 6.5% al 3.1%. Nombrada "Ciudad Más Mejorada del Reino Unido" por PwC (2017). |
-| **Cleveland, OH** | Evergreen Cooperatives: modelo de adquisiciones de instituciones ancla que vincula hospitales y universidades con cooperativas locales de trabajadores para servicios de lavandería, alimentos y energía. | 320 trabajadores-propietarios en múltiples cooperativas. Creció durante COVID cuando otros pequeños negocios cerraron. Evergreen Cooperative Laundry triplicó su tamaño tras conseguir contrato con Cleveland Clinic. Modelo replicado en ciudades de todo EE.UU. |
-| **Emilia Romagna, Italia** | Economía cooperativa centrada en Bolonia. Dos de cada tres residentes son miembros de cooperativas. Las cooperativas producen el 30% del PIB regional. El 85% de los servicios sociales de Bolonia son proporcionados por cooperativas. | El ingreso per cápita subió del 17° al 2° entre las 20 regiones de Italia. 50% más alto que el promedio nacional. Los niveles de desigualdad más bajos de Italia. 5,681 cooperativas activas en la región. |
-| **Portland, OR** | Advance Portland: estrategia de desarrollo económico inclusivo de cinco años (adoptada en 2023). Plan de Acción Anti-desplazamiento. Distritos TIF que redirigen los aumentos de impuestos a la propiedad a la inversión comunitaria. | Inversión dirigida en East Portland y Central City. El distrito TIF de Cully usado como modelo nacional de crecimiento equitativo. Restricciones a negocios de fórmula en distritos de vecindario. Marco explícito anti-desplazamiento que vincula vivienda, transporte y desarrollo económico. |
+| País/Ciudad                | Modelo                                                                                                                                                                                                                                  | Resultado                                                                                                                                                                                                                                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mondragón, España**      | La red de cooperativas de trabajadores más grande del mundo. Más de 260 cooperativas en manufactura, comercio, finanzas y agricultura. Gobernanza democrática con ratios de pago limitados a 5:1.                                       | Más de 80,000 trabajadores. Durante la crisis de desempleo del 25%+ de España, la región vasca mantuvo las tasas de desempleo a la mitad del promedio nacional. Ni un solo trabajador fue despedido en la recesión de 2008. Tasa de supervivencia cooperativa del 97% en 30 años.               |
+| **Preston, Reino Unido**   | Preston Model: redirigió las adquisiciones de instituciones ancla a negocios locales. Estrategia de construcción de riqueza comunitaria lanzada en 2012 tras el colapso de un centro comercial propuesto.                               | £74M redirigidos de vuelta a la economía de Preston. El gasto en adquisiciones locales subió del 5% al 18.2%. 4,500 nuevos empleos creados. El desempleo bajó del 6.5% al 3.1%. Nombrada "Ciudad Más Mejorada del Reino Unido" por PwC (2017).                                                  |
+| **Cleveland, OH**          | Evergreen Cooperatives: modelo de adquisiciones de instituciones ancla que vincula hospitales y universidades con cooperativas locales de trabajadores para servicios de lavandería, alimentos y energía.                               | 320 trabajadores-propietarios en múltiples cooperativas. Creció durante COVID cuando otros pequeños negocios cerraron. Evergreen Cooperative Laundry triplicó su tamaño tras conseguir contrato con Cleveland Clinic. Modelo replicado en ciudades de todo EE.UU.                               |
+| **Emilia Romagna, Italia** | Economía cooperativa centrada en Bolonia. Dos de cada tres residentes son miembros de cooperativas. Las cooperativas producen el 30% del PIB regional. El 85% de los servicios sociales de Bolonia son proporcionados por cooperativas. | El ingreso per cápita subió del 17° al 2° entre las 20 regiones de Italia. 50% más alto que el promedio nacional. Los niveles de desigualdad más bajos de Italia. 5,681 cooperativas activas en la región.                                                                                      |
+| **Portland, OR**           | Advance Portland: estrategia de desarrollo económico inclusivo de cinco años (adoptada en 2023). Plan de Acción Anti-desplazamiento. Distritos TIF que redirigen los aumentos de impuestos a la propiedad a la inversión comunitaria.   | Inversión dirigida en East Portland y Central City. El distrito TIF de Cully usado como modelo nacional de crecimiento equitativo. Restricciones a negocios de fórmula en distritos de vecindario. Marco explícito anti-desplazamiento que vincula vivienda, transporte y desarrollo económico. |
 
 El multiplicador de gasto local es el número más importante en el desarrollo económico. Los estudios de Civic Economics y el Institute for Local Self-Reliance encuentran consistentemente que el 52.9% de cada compra en un negocio independiente local recircula en la economía local, comparado con solo el 13.6% en tiendas de cadena. Un estudio en Portland, Maine estimó que desplazar solo el 10% del gasto del consumidor de cadenas a negocios locales generaría $127 millones en actividad económica local adicional. La New Economics Foundation (Reino Unido) encontró que cada diez libras gastadas en un negocio local de alimentos valían veinticinco libras para la economía local, comparadas con catorce libras en una cadena de supermercados. El Federal Reserve Bank of Atlanta encontró una fuerte correlación entre mayores proporciones de pequeños negocios locales y menores tasas de pobreza. Esto no es un mensaje de "compra local" para sentirse bien. Es matemática económica.
 

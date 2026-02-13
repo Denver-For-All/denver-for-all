@@ -22,6 +22,7 @@ Denver For All is a grassroots civic organization with a detailed, evidence-base
 ### What We've Built
 
 Our Medical Debt Forgiveness policy proposal includes:
+
 - Cost-benefit analysis showing $5M can forgive $100–500M in medical debt
 - Case studies from your partnerships with Toledo ($1.6M → $240M forgiven), New Orleans ($130M), LA County ($5M → $363M+), and others
 - Denver-specific context: Denver Health still sends patients to collections and places liens on homes
@@ -31,15 +32,18 @@ Our Medical Debt Forgiveness policy proposal includes:
 ### What a Partnership Looks Like
 
 **Phase 1 — Research & Advocacy (Now)**
+
 - Denver For All uses our platform (~600 unique visitors/week, growing) and organizing channels to build public support for a Denver medical debt purchase program
 - We engage Denver City Council members with our evidence-based proposal and your track record
 - We launch Resistbot petition campaigns urging council to allocate funds
 
 **Phase 2 — Council Action (2026–2027)**
+
 - Council introduces an ordinance allocating $5M (or another amount) for medical debt purchase
 - Potential funding sources: Denver's general fund, ARPA remaining funds, or dedicated revenue
 
 **Phase 3 — Execution**
+
 - Undue Medical Debt identifies and purchases qualifying Denver medical debt portfolios
 - Debt abolished for Denver residents; impact reported publicly
 

@@ -1,36 +1,36 @@
 ---
-title: "Right to Disconnect & 32-Hour Work Week"
-titleEs: "Derecho a Desconectarse y Semana Laboral de 32 Horas"
+title: 'Right to Disconnect & 32-Hour Work Week'
+titleEs: 'Derecho a Desconectarse y Semana Laboral de 32 Horas'
 summary: "Your boss can't text you at midnight. Your weekend is yours. And the evidence shows we can work 4 days and produce the same output. France, Iceland, Belgium, and Spain already did it."
-summaryEs: "Tu jefe no puede enviarte mensajes a medianoche. Tu fin de semana es tuyo. Y la evidencia muestra que podemos trabajar 4 días y producir lo mismo. Francia, Islandia, Bélgica y España ya lo hicieron."
-category: "labor"
-icon: "phone-off"
+summaryEs: 'Tu jefe no puede enviarte mensajes a medianoche. Tu fin de semana es tuyo. Y la evidencia muestra que podemos trabajar 4 días y producir lo mismo. Francia, Islandia, Bélgica y España ya lo hicieron.'
+category: 'labor'
+icon: 'phone-off'
 order: 15
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "462 hours"
-    label: "more per year Americans work than Germans"
-    labelEs: "mas por ano trabajan los estadounidenses que los alemanes"
-    context: "That is 11+ extra 40-hour work weeks — we are not 11 weeks more productive"
-    contextEs: "Son mas de 11 semanas laborales de 40 horas extra — no somos 11 semanas mas productivos"
-    source: "OECD, 2023"
-    theme: "danger"
-  - value: "92%"
-    label: "of UK companies kept the 4-day week permanently"
-    labelEs: "de las empresas del Reino Unido mantuvieron la semana de 4 dias permanentemente"
-    context: "61 companies, 2,900 workers, 6-month trial — revenue stayed the same or increased"
-    contextEs: "61 empresas, 2,900 trabajadores, prueba de 6 meses — los ingresos se mantuvieron o aumentaron"
-    source: "Autonomy Research, 2023"
-    theme: "primary"
-  - value: "+40%"
-    label: "productivity when Microsoft Japan tried Fridays off"
-    labelEs: "productividad cuando Microsoft Japon probo viernes libres"
-    context: "Closed offices every Friday for a month; electricity costs dropped 23%"
-    contextEs: "Cerraron oficinas cada viernes por un mes; costos de electricidad bajaron 23%"
-    source: "Microsoft Japan, 2019"
-    theme: "primary"
+  - value: '462 hours'
+    label: 'more per year Americans work than Germans'
+    labelEs: 'mas por ano trabajan los estadounidenses que los alemanes'
+    context: 'That is 11+ extra 40-hour work weeks — we are not 11 weeks more productive'
+    contextEs: 'Son mas de 11 semanas laborales de 40 horas extra — no somos 11 semanas mas productivos'
+    source: 'OECD, 2023'
+    theme: 'danger'
+  - value: '92%'
+    label: 'of UK companies kept the 4-day week permanently'
+    labelEs: 'de las empresas del Reino Unido mantuvieron la semana de 4 dias permanentemente'
+    context: '61 companies, 2,900 workers, 6-month trial — revenue stayed the same or increased'
+    contextEs: '61 empresas, 2,900 trabajadores, prueba de 6 meses — los ingresos se mantuvieron o aumentaron'
+    source: 'Autonomy Research, 2023'
+    theme: 'primary'
+  - value: '+40%'
+    label: 'productivity when Microsoft Japan tried Fridays off'
+    labelEs: 'productividad cuando Microsoft Japon probo viernes libres'
+    context: 'Closed offices every Friday for a month; electricity costs dropped 23%'
+    contextEs: 'Cerraron oficinas cada viernes por un mes; costos de electricidad bajaron 23%'
+    source: 'Microsoft Japan, 2019'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -43,13 +43,13 @@ Americans work 400+ more hours per year than German workers. That's 10 extra wee
 
 Denver has **no right-to-disconnect protections or reduced work week provisions**. Colorado does not regulate after-hours work communications. Denver city employees work a standard 40-hour week.
 
-The OECD reports that US workers average 1,811 hours/year compared to Germany's 1,349 hours/year. That is a difference of 462 hours, or more than 11 standard 40-hour work weeks (OECD, *Hours Worked* indicator, 2023).
+The OECD reports that US workers average 1,811 hours/year compared to Germany's 1,349 hours/year. That is a difference of 462 hours, or more than 11 standard 40-hour work weeks (OECD, _Hours Worked_ indicator, 2023).
 
 ## Our Solution
 
 ### 1. Denver Right to Disconnect Ordinance
 
-Adapted from France's *Droit à la déconnexion* (law since 2017):
+Adapted from France's _Droit à la déconnexion_ (law since 2017):
 
 - **After-hours protection:** Employers with 20+ employees must establish clear "disconnect" hours. Outside those hours, employees have no obligation to respond to work communications.
 - **No retaliation:** Employees cannot be disciplined, passed over for promotion, or terminated for not responding during disconnect hours.
@@ -64,6 +64,7 @@ Adapted from France's *Droit à la déconnexion* (law since 2017):
 Phase in a 32-hour standard work week for Denver, starting with city employees and contractors.
 
 **Phase-in:**
+
 - Year 1: City employees move to 32-hour/4-day week at same pay
 - Year 2: City contractors with 50+ employees must offer 32-hour option
 - Year 3: All Denver businesses with 50+ employees implement 32-hour standard (overtime begins at 32 hours)
@@ -72,20 +73,21 @@ Phase in a 32-hour standard work week for Denver, starting with city employees a
 
 ## The Evidence: This Works
 
-| Trial/Country | What They Did | Result |
-|--------------|---------------|--------|
-| **Iceland (2015-2019)** | 2,500 workers moved to 35-36hr weeks. Largest trial in modern history. | Productivity maintained or IMPROVED. Worker wellbeing dramatically improved. Iceland subsequently passed legislation giving workers right to negotiate shorter hours. |
-| **UK 4-Day Week Pilot (2022)** | 61 companies, 2,900 workers. 6-month trial. | 92% of companies continued the policy permanently. Revenue stayed the same or increased. 71% of employees reported reduced burnout. |
-| **Spain (2023-ongoing)** | Government-funded 4-day week pilot for small and medium businesses. | Early results: productivity maintained, reduced absenteeism, lower energy costs. |
-| **Belgium (2022)** | Legal right for workers to compress full-time hours into 4 days. | Workers exercising the right report higher satisfaction, better work-life balance. |
-| **France Right to Disconnect (2017)** | Workers have legal right to ignore after-hours communications. | Reduced burnout, improved boundaries, no productivity loss. Extended to Italy (2017), Spain (2021), Portugal (2021), Belgium (2022). |
-| **Microsoft Japan (2019)** | Closed offices every Friday for a month. | Productivity increased by 40%. Electricity costs dropped 23%. |
+| Trial/Country                         | What They Did                                                          | Result                                                                                                                                                                |
+| ------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Iceland (2015-2019)**               | 2,500 workers moved to 35-36hr weeks. Largest trial in modern history. | Productivity maintained or IMPROVED. Worker wellbeing dramatically improved. Iceland subsequently passed legislation giving workers right to negotiate shorter hours. |
+| **UK 4-Day Week Pilot (2022)**        | 61 companies, 2,900 workers. 6-month trial.                            | 92% of companies continued the policy permanently. Revenue stayed the same or increased. 71% of employees reported reduced burnout.                                   |
+| **Spain (2023-ongoing)**              | Government-funded 4-day week pilot for small and medium businesses.    | Early results: productivity maintained, reduced absenteeism, lower energy costs.                                                                                      |
+| **Belgium (2022)**                    | Legal right for workers to compress full-time hours into 4 days.       | Workers exercising the right report higher satisfaction, better work-life balance.                                                                                    |
+| **France Right to Disconnect (2017)** | Workers have legal right to ignore after-hours communications.         | Reduced burnout, improved boundaries, no productivity loss. Extended to Italy (2017), Spain (2021), Portugal (2021), Belgium (2022).                                  |
+| **Microsoft Japan (2019)**            | Closed offices every Friday for a month.                               | Productivity increased by 40%. Electricity costs dropped 23%.                                                                                                         |
 
 **The pattern is unambiguous:** When people work fewer hours with the same pay, they produce the same output in less time, are healthier, happier, and less likely to quit. Every single major trial has confirmed this.
 
 ### Why It Works (The Economics)
 
 Most knowledge workers are productive for 4-6 hours per day. The remaining time is spent in unnecessary meetings, context switching, performative busyness, and recovering from interruptions. A 32-hour week forces organizations to:
+
 - Eliminate unnecessary meetings
 - Communicate more efficiently
 - Respect focused work time
@@ -123,8 +125,8 @@ Essential services operate on shift schedules, not standard work weeks. A 32-hou
 
 ## References
 
-- OECD, *Hours Worked* indicator (data.oecd.org), 2023
-- France, *Code du travail*, Article L2242-17 (Right to Disconnect, enacted 2017)
-- Autonomy Research, *The Results Are In: The UK's Four-Day Week Pilot*, 2023
-- Iceland, *Association for Sustainability and Democracy (ALDA)*, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
-- Microsoft Japan, *Work-Life Choice Challenge Summer 2019* results
+- OECD, _Hours Worked_ indicator (data.oecd.org), 2023
+- France, _Code du travail_, Article L2242-17 (Right to Disconnect, enacted 2017)
+- Autonomy Research, _The Results Are In: The UK's Four-Day Week Pilot_, 2023
+- Iceland, _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
+- Microsoft Japan, _Work-Life Choice Challenge Summer 2019_ results

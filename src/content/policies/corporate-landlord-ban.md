@@ -1,35 +1,35 @@
 ---
-title: "Ban Corporate Landlords"
-titleEs: "Prohibición de Arrendadores Corporativos"
-summary: "Denver is for humans. Ban institutional investors from buying residential property. Homes are for living, not for hedge fund portfolios."
-summaryEs: "Denver es para humanos. Prohibir a los inversionistas institucionales comprar propiedades residenciales. Los hogares son para vivir, no para portafolios de fondos de cobertura."
-category: "housing"
-icon: "ban"
+title: 'Ban Corporate Landlords'
+titleEs: 'Prohibición de Arrendadores Corporativos'
+summary: 'Denver is for humans. Ban institutional investors from buying residential property. Homes are for living, not for hedge fund portfolios.'
+summaryEs: 'Denver es para humanos. Prohibir a los inversionistas institucionales comprar propiedades residenciales. Los hogares son para vivir, no para portafolios de fondos de cobertura.'
+category: 'housing'
+icon: 'ban'
 order: 5
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "26%"
-    label: "of affordable homes bought by investors"
-    labelEs: "de viviendas asequibles compradas por inversionistas"
+  - value: '26%'
+    label: 'of affordable homes bought by investors'
+    labelEs: 'de viviendas asequibles compradas por inversionistas'
     context: "Families can't compete with all-cash corporate offers on the homes they need most"
-    contextEs: "Las familias no pueden competir con ofertas corporativas en efectivo"
-    source: "Redfin, 2023"
-    theme: "danger"
-  - value: "2-3x"
-    label: "higher eviction rate from corporate landlords"
-    labelEs: "mayor tasa de desalojo de arrendadores corporativos"
-    context: "Wall Street landlords evict at double or triple the rate of individual landlords"
-    contextEs: "Los propietarios de Wall Street desalojan al doble o triple de la tasa de propietarios individuales"
-    theme: "danger"
-  - value: "59%"
-    label: "of Berlin voted to take back housing"
-    labelEs: "de Berlin voto para recuperar la vivienda"
+    contextEs: 'Las familias no pueden competir con ofertas corporativas en efectivo'
+    source: 'Redfin, 2023'
+    theme: 'danger'
+  - value: '2-3x'
+    label: 'higher eviction rate from corporate landlords'
+    labelEs: 'mayor tasa de desalojo de arrendadores corporativos'
+    context: 'Wall Street landlords evict at double or triple the rate of individual landlords'
+    contextEs: 'Los propietarios de Wall Street desalojan al doble o triple de la tasa de propietarios individuales'
+    theme: 'danger'
+  - value: '59%'
+    label: 'of Berlin voted to take back housing'
+    labelEs: 'de Berlin voto para recuperar la vivienda'
     context: "Berlin's 2021 referendum to expropriate 240,000 corporate-held apartments passed decisively"
-    contextEs: "El referendum de Berlin en 2021 para expropiar 240,000 apartamentos corporativos fue aprobado"
-    source: "Berlin 2021 referendum"
-    theme: "primary"
+    contextEs: 'El referendum de Berlin en 2021 para expropiar 240,000 apartamentos corporativos fue aprobado'
+    source: 'Berlin 2021 referendum'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -57,6 +57,7 @@ In August 2024, the U.S. Department of Justice filed a civil antitrust lawsuit a
 
 **1. Acquisition Ban**
 Entities owning 50+ residential units nationally are prohibited from acquiring additional residential property (1-4 units) within Denver city limits. This includes:
+
 - Direct purchases
 - Purchases through subsidiaries, LLCs, or shell companies
 - Rent-to-own schemes that result in corporate ownership
@@ -64,12 +65,14 @@ Entities owning 50+ residential units nationally are prohibited from acquiring a
 
 **2. Divestiture Requirement**
 Existing corporate holders of 50+ units must divest residential properties (1-4 units) within 5 years of ordinance passage. Divestiture must be:
+
 - To individual owner-occupants, community land trusts, or the Social Housing Authority
 - At independently appraised fair market value (no inflated pricing)
 - With right of first refusal for current tenants
 
 **3. Beneficial Ownership Transparency**
 All LLCs and corporate entities owning residential property in Denver must disclose their full beneficial ownership chain - the actual humans who own and profit. No hiding behind shell companies.
+
 - Annual disclosure required
 - Public registry maintained by the city
 - Failure to disclose: property tax assessed at 3x standard rate
@@ -78,19 +81,20 @@ All LLCs and corporate entities owning residential property in Denver must discl
 Property owners and management companies are prohibited from using algorithmic pricing software (RealPage, Yardi, etc.) that coordinates pricing across competing landlords. This is price-fixing, whether done by humans in a room or by an algorithm in a server.
 
 **5. Penalty Structure**
+
 - First violation: $50,000 per property
 - Subsequent violations: $100,000 per property + mandatory divestiture
 - Criminal referral for pattern violations
 
 ### International Evidence: Housing Is Not a Financial Instrument
 
-| Country | Model | Result |
-|---------|-------|--------|
-| **Denmark** | Non-residents and non-Danish companies cannot buy residential property without permission. Owner-occupancy requirements for many housing types. | Housing remains primarily for residents, not investors. Prices are more stable. Homeownership serves families, not portfolios. |
-| **New Zealand** | Banned foreign buyers of existing residential property (2018). | Removed speculative demand. Housing price growth slowed. Domestic buyers face less competition from international capital. |
-| **Germany** | Strong tenant protections and rent regulations make residential property a low-return investment, naturally discouraging speculative acquisition. *Wohnungsgemeinnützigkeit* (housing public benefit) laws historically limited profits on housing. | Corporate landlords exist but operate under heavy regulation. Housing is not the speculative asset class it is in the US. |
-| **Berlin, Germany** | 2021 referendum: 59% voted to expropriate 240,000 apartments from large corporate landlords (Deutsche Wohnen, Vonovia). Implementation ongoing. | Democratic mandate to take housing back from corporate landlords. The movement is global. |
-| **Spain** | Catalonia's new housing law (2023) forces large landlords to rent vacant properties in high-demand areas or face expropriation. | Directly addresses corporate vacancy and speculation. |
+| Country             | Model                                                                                                                                                                                                                                               | Result                                                                                                                         |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Denmark**         | Non-residents and non-Danish companies cannot buy residential property without permission. Owner-occupancy requirements for many housing types.                                                                                                     | Housing remains primarily for residents, not investors. Prices are more stable. Homeownership serves families, not portfolios. |
+| **New Zealand**     | Banned foreign buyers of existing residential property (2018).                                                                                                                                                                                      | Removed speculative demand. Housing price growth slowed. Domestic buyers face less competition from international capital.     |
+| **Germany**         | Strong tenant protections and rent regulations make residential property a low-return investment, naturally discouraging speculative acquisition. _Wohnungsgemeinnützigkeit_ (housing public benefit) laws historically limited profits on housing. | Corporate landlords exist but operate under heavy regulation. Housing is not the speculative asset class it is in the US.      |
+| **Berlin, Germany** | 2021 referendum: 59% voted to expropriate 240,000 apartments from large corporate landlords (Deutsche Wohnen, Vonovia). Implementation ongoing.                                                                                                     | Democratic mandate to take housing back from corporate landlords. The movement is global.                                      |
+| **Spain**           | Catalonia's new housing law (2023) forces large landlords to rent vacant properties in high-demand areas or face expropriation.                                                                                                                     | Directly addresses corporate vacancy and speculation.                                                                          |
 
 **The US, along with a handful of other Anglosphere nations, has uniquely financialized residential housing** -- treating it primarily as an investment vehicle rather than shelter (OECD Housing Policy Dashboard, 2024). Most countries regulate who can buy housing and how it can be used because they recognize that shelter is a human need, not an asset class.
 

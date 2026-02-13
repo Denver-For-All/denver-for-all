@@ -1,41 +1,41 @@
 ---
-title: "Community Safety & Police Reform"
-titleEs: "Seguridad Comunitaria y Reforma Policial"
-summary: "Actually reduce crime through evidence-based investment in communities, not just policing. Civilian oversight with subpoena power. Mental health crisis teams, not armed officers. Community violence intervention. Address root causes: housing, jobs, mental health, and youth opportunity."
-summaryEs: "Reducir el crimen a través de inversión basada en evidencia en las comunidades, no solo vigilancia policial. Supervisión civil con poder de citación. Equipos de crisis de salud mental, no oficiales armados. Intervención comunitaria contra la violencia. Abordar las causas raíz: vivienda, empleo, salud mental y oportunidades para jóvenes."
-category: "safety"
-icon: "shield"
+title: 'Community Safety & Police Reform'
+titleEs: 'Seguridad Comunitaria y Reforma Policial'
+summary: 'Actually reduce crime through evidence-based investment in communities, not just policing. Civilian oversight with subpoena power. Mental health crisis teams, not armed officers. Community violence intervention. Address root causes: housing, jobs, mental health, and youth opportunity.'
+summaryEs: 'Reducir el crimen a través de inversión basada en evidencia en las comunidades, no solo vigilancia policial. Supervisión civil con poder de citación. Equipos de crisis de salud mental, no oficiales armados. Intervención comunitaria contra la violencia. Abordar las causas raíz: vivienda, empleo, salud mental y oportunidades para jóvenes.'
+category: 'safety'
+icon: 'shield'
 order: 41
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 petition:
-  url: "https://resist.bot/petitions/PYOELO"
-  code: "PYOELO"
-  title: "Turn Off Flock Surveillance Cameras"
-  titleEs: "Apagar las Cámaras de Vigilancia Flock"
+  url: 'https://resist.bot/petitions/PYOELO'
+  code: 'PYOELO'
+  title: 'Turn Off Flock Surveillance Cameras'
+  titleEs: 'Apagar las Cámaras de Vigilancia Flock'
 hasFundingSources: true
 keyStats:
-  - value: "531 per 100K"
-    label: "US incarceration rate — highest on Earth"
-    labelEs: "tasa de encarcelamiento de EE.UU. — la mas alta del mundo"
+  - value: '531 per 100K'
+    label: 'US incarceration rate — highest on Earth'
+    labelEs: 'tasa de encarcelamiento de EE.UU. — la mas alta del mundo'
     context: "10x Norway's rate. 76% come back. Norway rehabilitates 80%."
-    contextEs: "10 veces la tasa de Noruega. 76% reincide. Noruega rehabilita al 80%."
-    source: "World Prison Brief"
-    theme: "danger"
-  - value: "$35.3M"
-    label: "Denver paid in police settlements, 2017-2023"
-    labelEs: "Denver pago en acuerdos policiales, 2017-2023"
-    context: "$17.3M in 2023 alone. No independent oversight board can investigate or discipline."
-    contextEs: "$17.3M solo en 2023. Ninguna junta de supervision independiente puede investigar."
-    source: "Denver City Attorney records; Denver Post, 2024"
-    theme: "danger"
-  - value: "50-75%"
-    label: "crime reduction from community investment"
-    labelEs: "reduccion de crimen por inversion comunitaria"
-    context: "Oakland, Glasgow, Bogota, Richmond all outperformed policing-only approaches"
-    contextEs: "Oakland, Glasgow, Bogota, Richmond todos superaron los enfoques de solo policia"
-    source: "Oakland Ceasefire; Glasgow VRU evaluations"
-    theme: "primary"
+    contextEs: '10 veces la tasa de Noruega. 76% reincide. Noruega rehabilita al 80%.'
+    source: 'World Prison Brief'
+    theme: 'danger'
+  - value: '$35.3M'
+    label: 'Denver paid in police settlements, 2017-2023'
+    labelEs: 'Denver pago en acuerdos policiales, 2017-2023'
+    context: '$17.3M in 2023 alone. No independent oversight board can investigate or discipline.'
+    contextEs: '$17.3M solo en 2023. Ninguna junta de supervision independiente puede investigar.'
+    source: 'Denver City Attorney records; Denver Post, 2024'
+    theme: 'danger'
+  - value: '50-75%'
+    label: 'crime reduction from community investment'
+    labelEs: 'reduccion de crimen por inversion comunitaria'
+    context: 'Oakland, Glasgow, Bogota, Richmond all outperformed policing-only approaches'
+    contextEs: 'Oakland, Glasgow, Bogota, Richmond todos superaron los enfoques de solo policia'
+    source: 'Oakland Ceasefire; Glasgow VRU evaluations'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -73,6 +73,7 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 ## Our Solution
 
 ### 1. Independent Civilian Oversight Board
+
 - Elected board (not mayoral appointees) with full subpoena power
 - Authority to investigate complaints, access all records, and impose discipline
 - Budget independent from police department
@@ -80,6 +81,7 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 - Annual audit of police practices published publicly
 
 ### 2. STAR Program Expansion (Non-Police Crisis Response)
+
 - 24/7 coverage with sufficient van units to meet full demand (currently 6-7 units responding to 45% of eligible calls; Urban Institute analysis shows 9-10 concurrent units needed to meet current demand)
 - Mental health professionals and paramedics, without police — STAR van teams pair paramedics or EMTs with behavioral health professionals
 - Strengthen the STAR Community Partner Network, which provides culturally responsive case management and follow-up services after the initial crisis response
@@ -91,13 +93,14 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 
 ### 3. Law Enforcement Assisted Diversion (LEAD) Expansion
 
-STAR handles calls where police don't need to respond at all. But what about when officers *do* encounter someone committing a low-level offense — drug possession, sex work, trespassing, shoplifting driven by addiction? Right now, the default is arrest, booking, prosecution, and the revolving door of incarceration that solves nothing.
+STAR handles calls where police don't need to respond at all. But what about when officers _do_ encounter someone committing a low-level offense — drug possession, sex work, trespassing, shoplifting driven by addiction? Right now, the default is arrest, booking, prosecution, and the revolving door of incarceration that solves nothing.
 
 Denver piloted the LEAD program under Chief Paul Pazen, operating in DPD Districts 1, 2, and 6 with case management through Addiction Research and Treatment Services (ARTS) and the Empowerment Program. LEAD-trained officers redirect people to services instead of arresting them — voluntary, harm-reduction-based case management including housing, job training, substance use treatment, and mental health support. The pilot was funded at approximately $560K/year through state marijuana tax revenue, a fraction of what's needed for citywide impact.
 
-The evidence is strong. Seattle's LEAD program — the original, launched in 2011 — showed participants had **58-60% lower odds of arrest** compared to controls, along with significant improvements in housing stability and employment (Collins et al., *Evaluation and Program Planning*, 2017). LEAD now operates in over 80 cities nationally. The National Institute of Justice rates it as an evidence-based program.
+The evidence is strong. Seattle's LEAD program — the original, launched in 2011 — showed participants had **58-60% lower odds of arrest** compared to controls, along with significant improvements in housing stability and employment (Collins et al., _Evaluation and Program Planning_, 2017). LEAD now operates in over 80 cities nationally. The National Institute of Justice rates it as an evidence-based program.
 
 **Expand LEAD citywide:**
+
 - LEAD-trained officers in every DPD district, not just Districts 1, 2, and 6
 - Funding for dedicated LEAD case managers through community-based organizations (not DPD)
 - Eligibility expanded beyond drug and prostitution offenses to include all low-level, nonviolent offenses driven by poverty, addiction, or mental health
@@ -113,15 +116,18 @@ The evidence is strong. Seattle's LEAD program — the original, launched in 201
 Denver's police budget is approximately $300M/year. We propose a phased reallocation that starts with proven programs and scales based on demonstrated results — not ideology, but outcomes.
 
 **Phase 1 — Immediate (~8% / $25M/year):** Expand programs that are already working in Denver.
+
 - STAR and Co-Responder programs: 24/7 coverage with sufficient van units to meet full demand ($20M) — Urban Institute evaluation shows 16% reduction in arrests and police contacts; program currently meets only 45% of eligible call demand
 - LEAD diversion: citywide expansion ($5M) — Denver pilot already operating in 3 districts; Seattle evaluation shows 58% recidivism reduction
 
 **Phase 2 — Years 2-3 (~15% / $45M/year):** Add evidence-backed prevention programs.
+
 - Community violence intervention ($15M) — Cure Violence model: 50-75% reductions in targeted areas (Oakland, Richmond, Glasgow)
 - Substance use treatment on demand ($10M) — eliminate waitlists; MAT expansion; every dollar here reduces property crime driven by addiction
 - Phase 1 programs continue at full funding ($25M)
 
 **Phase 3 — Years 3-4 (~25% / $75M/year):** Full reallocation, contingent on Phase 1-2 outcomes.
+
 - Youth services and after-school programs ($15M) — youth employment programs reduce violent crime participation by 35-45% (University of Chicago Crime Lab)
 - Restorative justice programs ($10M)
 - Affordable housing contributions ($5M) — cross-funded with housing budget
@@ -130,12 +136,14 @@ Denver's police budget is approximately $300M/year. We propose a phased realloca
 **Why phased?** "Cut the police budget by 25%" is a headline that writes attack ads. "Expand two programs that are already working in Denver, then scale based on results" is a mandate. The destination is the same — $75M redirected to community safety infrastructure — but the path builds public trust and political durability. Each phase is evaluated publicly before the next begins. If something isn't working, we adjust. If it is, we have the evidence to go further.
 
 ### 5. End Qualified Immunity (City Level)
+
 - Denver waives qualified immunity defense for all city employees, including police officers
 - Officers can be held personally liable in civil suits for constitutional violations
 - City provides legal defense only when officer followed policy and training
 - Officers carry personal liability insurance (similar to doctors' malpractice insurance)
 
 ### 6. Use of Force Reforms
+
 - Ban chokeholds and carotid restraints permanently
 - Duty to intervene: officers must stop other officers' excessive force or face equal discipline
 - Duty to report: failure to report excessive force is a firing offense
@@ -148,6 +156,7 @@ Denver's police budget is approximately $300M/year. We propose a phased realloca
   - Cross-reference: [Disability Rights & Inclusion](/platform/disability-rights)
 
 ### 7. Community Violence Intervention
+
 - Fund evidence-based violence intervention programs (Cure Violence model)
 - Credible messengers from affected communities, not police
 - Targeted intervention in highest-violence neighborhoods
@@ -158,30 +167,35 @@ Denver's police budget is approximately $300M/year. We propose a phased realloca
 The single most effective crime reduction strategy is addressing the conditions that produce crime. This is not soft-on-crime idealism — it is what the evidence consistently shows works better than any policing strategy alone.
 
 **Youth Opportunity & Violence Prevention:**
+
 - **Summer and year-round youth employment guarantee** for all Denver residents aged 14-24 in high-crime neighborhoods. Youth employment programs reduce violent crime participation by 35-45% among participants (University of Chicago Crime Lab, READI Chicago evaluation). Cost: $15M/year. Return: incalculable
 - **After-school and evening programming** in every neighborhood with above-average youth violence, open until 10 PM. Crime data consistently shows youth violence peaks between 3-10 PM on weekdays. Programs that fill this window reduce youth crime by 30-40% (Brookings Institution, 2022)
 - **Mentorship programs** pairing at-risk youth with trained credible messengers from their own communities — people who have lived experience and community trust. Not Big Brothers Big Sisters (which works for different populations), but targeted intervention for youth at highest risk of violence involvement
 - **Restorative justice in schools:** Replace school suspensions and expulsions (which push youth into the criminal legal system) with restorative practices. Denver Public Schools has piloted this — expand it citywide with dedicated funding
 
 **Housing Stability = Safety:**
-- Every 10% increase in housing instability correlates with a measurable increase in both property and violent crime (Desmond, *Evicted*, 2016; National Bureau of Economic Research). Denver's eviction crisis is a public safety crisis
+
+- Every 10% increase in housing instability correlates with a measurable increase in both property and violent crime (Desmond, _Evicted_, 2016; National Bureau of Economic Research). Denver's eviction crisis is a public safety crisis
 - **Rapid rehousing for crime victims** who are displaced by violence, preventing the cycle of instability that leads to further victimization or retaliation
 - **Housing support for returning citizens:** People leaving incarceration who receive stable housing within 30 days are 50% less likely to recidivate (Council of State Governments Justice Center). Denver should guarantee transitional housing for every returning citizen
 - Cross-reference: [Social Housing](/platform/social-housing), [Housing First](/platform/housing-first), [Tenant Bill of Rights](/platform/tenant-bill-of-rights)
 
 **Substance Use Treatment as Crime Reduction:**
+
 - Property crime (shoplifting, auto theft, burglary) is overwhelmingly driven by substance use disorders and poverty, not by criminal disposition. Treating addiction reduces property crime more effectively than enforcement
 - **On-demand treatment access:** No waitlists for substance use treatment in Denver. When someone is ready for treatment, the slot must exist that day. Current waitlists of weeks or months mean people continue using and continue offending
 - **Medication-assisted treatment (MAT) expansion:** Ensure every Denver jail, hospital, and community health center offers MAT (methadone, buprenorphine, naltrexone). MAT reduces opioid-related crime by 50-60% among participants (National Institute on Drug Abuse)
 - Cross-reference: [Decriminalize & Heal](/platform/drug-policy)
 
 **Environmental Design (CPTED):**
+
 - **Lighting improvements** in high-crime corridors and public spaces. A randomized controlled trial in New York City found that improved street lighting reduced index crimes by 36% in public housing developments (NYU Furman Center, 2019)
 - **Vacant lot remediation:** Philadelphia's vacant lot cleanup program reduced gun violence by 29% in surrounding areas (University of Pennsylvania, 2018). Denver has thousands of vacant and neglected lots
 - **Natural surveillance:** Design public spaces, transit stops, and pedestrian corridors to maximize visibility and activity. Active, well-maintained public spaces deter crime; abandoned, dark spaces invite it
 - **Community gardens and greening:** Urban greening programs consistently reduce crime in surrounding blocks (Kondo et al., 2016). This is not metaphor — visible community investment signals that someone cares about the space
 
 **Focused Deterrence (for Serious Violent Crime):**
+
 - **Group Violence Intervention (GVI)** / Operation Ceasefire model: Identify the small number of individuals and groups driving the majority of shootings and homicides. Offer them a choice: services and support (jobs, housing, treatment, mentoring) or focused law enforcement attention. This is not mass incarceration — it is precise intervention targeting the 0.5% of the population responsible for the majority of gun violence
 - Oakland's Ceasefire program reduced homicides by 50%. Boston's original Ceasefire cut youth homicides by 63%. The evidence is among the strongest in all of criminology
 - Denver should implement GVI through a partnership between the city, community organizations, and (reformed) law enforcement — with community organizations leading, not police
@@ -202,6 +216,7 @@ Denver's police department operates 111 Flock Safety automatic license plate rea
 The Flock situation demonstrates exactly why Denver needs a surveillance technology oversight ordinance. When the mayor can deploy mass tracking systems without a vote, structure contracts to dodge review thresholds, and withhold audit logs showing federal immigration access to local data, the city's oversight structure has failed. (See: [Government Transparency & Digital Rights](/platform/government-transparency) for our full surveillance oversight proposal.)
 
 Our demands:
+
 - **Immediately deactivate** all Flock cameras until a full council vote authorizes their use with binding privacy safeguards
 - **City council approval required** before any surveillance technology is acquired or deployed. No exceptions, no threshold manipulation
 - **No ICE access** to any Denver surveillance data, with automatic contract termination and criminal referral for violations
@@ -213,27 +228,28 @@ Our demands:
 
 ### International Evidence: Punishment Doesn't Work. Investment Does.
 
-| Country | Model | Incarceration Rate | Recidivism | Result |
-|---------|-------|-------------------|------------|--------|
-| **Norway** | Rehabilitation-focused. Prisons resemble college campuses. Focus on reintegration: job training, education, therapy. Maximum sentence: 21 years. | 54 per 100K | **20%** | One of the lowest crime rates in the world. Prisoners come out as functioning citizens, not hardened criminals. |
-| **Finland** | Open prisons where inmates work, attend school, go home on weekends. Focus on normality and skill-building. | 51 per 100K | **36%** | Crime has been declining for decades. Society saves money because fewer people return to prison. |
-| **Germany** | Prisons run like vocational schools. Inmates learn trades, earn certifications, maintain family relationships. | 69 per 100K | **35-40%** | The goal is explicitly rehabilitation, not punishment. And it works for public safety and for inmates alike. |
-| **Netherlands** | Closing prisons due to falling crime rates. Focus on electronic monitoring, community service, and rehabilitation. | 59 per 100K | **45%** | So few prisoners that they've actually shut down prisons and rented empty cells to Belgium and Norway. |
-| **USA** | Punishment-focused. Overcrowded, violent, minimal rehabilitation. Private prison industry profits from incarceration. | **531 per 100K** (highest in the world) | **76%** | We lock up 10x more people than Norway, spend vastly more, and get vastly worse outcomes. Three-quarters of released prisoners return. The system does not produce safety; it produces repeat offenders. |
+| Country         | Model                                                                                                                                            | Incarceration Rate                      | Recidivism | Result                                                                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Norway**      | Rehabilitation-focused. Prisons resemble college campuses. Focus on reintegration: job training, education, therapy. Maximum sentence: 21 years. | 54 per 100K                             | **20%**    | One of the lowest crime rates in the world. Prisoners come out as functioning citizens, not hardened criminals.                                                                                          |
+| **Finland**     | Open prisons where inmates work, attend school, go home on weekends. Focus on normality and skill-building.                                      | 51 per 100K                             | **36%**    | Crime has been declining for decades. Society saves money because fewer people return to prison.                                                                                                         |
+| **Germany**     | Prisons run like vocational schools. Inmates learn trades, earn certifications, maintain family relationships.                                   | 69 per 100K                             | **35-40%** | The goal is explicitly rehabilitation, not punishment. And it works for public safety and for inmates alike.                                                                                             |
+| **Netherlands** | Closing prisons due to falling crime rates. Focus on electronic monitoring, community service, and rehabilitation.                               | 59 per 100K                             | **45%**    | So few prisoners that they've actually shut down prisons and rented empty cells to Belgium and Norway.                                                                                                   |
+| **USA**         | Punishment-focused. Overcrowded, violent, minimal rehabilitation. Private prison industry profits from incarceration.                            | **531 per 100K** (highest in the world) | **76%**    | We lock up 10x more people than Norway, spend vastly more, and get vastly worse outcomes. Three-quarters of released prisoners return. The system does not produce safety; it produces repeat offenders. |
 
 **The US incarceration rate is the highest on Earth**, exceeding Russia, China, and every authoritarian regime. And our recidivism rate proves it doesn't work. Norway rehabilitates 80% of its prisoners. We rehabilitate 24%.
 
 ### Evidence: Community Investment Reduces Crime
 
-| City | Program | Result |
-|------|---------|--------|
-| **Oakland, CA** | Operation Ceasefire / Group Violence Intervention: identified individuals driving gun violence, offered services + focused enforcement. | Homicides dropped 50% (2012-2018). Shootings declined by similar margins. Most effective gun violence reduction program evaluated in the US. |
-| **Glasgow, Scotland** | Violence Reduction Unit (2005): treated violence as a public health epidemic. Offered job training, mentoring, addiction treatment to those at highest risk. Worked with, not against, communities. | Murder rate dropped 60% over 10 years. Knife crime plummeted. Glasgow went from "murder capital of Europe" to a global model for violence reduction. |
-| **Bogotá, Colombia** | Mayor Antanas Mockus (1995-2003): invested in public space, transit, education, culture. Restricted alcohol sales during peak violence hours. Community-based conflict resolution. | Homicide rate dropped 70%. From one of the most violent cities on Earth to a model of urban transformation — without militarized policing. |
-| **Richmond, CA** | Office of Neighborhood Safety: city employees (not police) work directly with people most likely to shoot or be shot. Paid fellowships for participants who engage with services. | Gun homicides dropped 75% (2007-2019) in a city that tried everything else first. Cost: $3M/year. Savings in emergency healthcare, prosecution, and incarceration: many multiples. |
-| **Philadelphia, PA** | Vacant lot remediation: cleaned up abandoned lots with grass, trees, fencing, and maintenance. Randomized controlled trial by University of Pennsylvania. | Gun violence dropped 29% in surrounding areas. Overall crime dropped significantly. Cost: minimal. Evidence quality: gold standard (RCT). |
+| City                  | Program                                                                                                                                                                                             | Result                                                                                                                                                                             |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Oakland, CA**       | Operation Ceasefire / Group Violence Intervention: identified individuals driving gun violence, offered services + focused enforcement.                                                             | Homicides dropped 50% (2012-2018). Shootings declined by similar margins. Most effective gun violence reduction program evaluated in the US.                                       |
+| **Glasgow, Scotland** | Violence Reduction Unit (2005): treated violence as a public health epidemic. Offered job training, mentoring, addiction treatment to those at highest risk. Worked with, not against, communities. | Murder rate dropped 60% over 10 years. Knife crime plummeted. Glasgow went from "murder capital of Europe" to a global model for violence reduction.                               |
+| **Bogotá, Colombia**  | Mayor Antanas Mockus (1995-2003): invested in public space, transit, education, culture. Restricted alcohol sales during peak violence hours. Community-based conflict resolution.                  | Homicide rate dropped 70%. From one of the most violent cities on Earth to a model of urban transformation — without militarized policing.                                         |
+| **Richmond, CA**      | Office of Neighborhood Safety: city employees (not police) work directly with people most likely to shoot or be shot. Paid fellowships for participants who engage with services.                   | Gun homicides dropped 75% (2007-2019) in a city that tried everything else first. Cost: $3M/year. Savings in emergency healthcare, prosecution, and incarceration: many multiples. |
+| **Philadelphia, PA**  | Vacant lot remediation: cleaned up abandoned lots with grass, trees, fencing, and maintenance. Randomized controlled trial by University of Pennsylvania.                                           | Gun violence dropped 29% in surrounding areas. Overall crime dropped significantly. Cost: minimal. Evidence quality: gold standard (RCT).                                          |
 
 Denver can't reform the state prison system alone, but Denver CAN:
+
 - Redirect police budget to prevention and intervention
 - Implement restorative justice that reduces incarceration
 - End the police-to-prison pipeline for mental health crises and substance use
@@ -296,7 +312,7 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
 - World Prison Brief. International incarceration rate comparisons.
 - Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)
-- Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." *Evaluation and Program Planning*, 64, 49-56. (58-60% lower odds of arrest for LEAD participants vs. controls.)
+- Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." _Evaluation and Program Planning_, 64, 49-56. (58-60% lower odds of arrest for LEAD participants vs. controls.)
 - Colorado Behavioral Health Administration. Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Denver pilot outcomes in DPD Districts 1, 2, and 6.)
 - Denver District Attorney's Office. (2018). Denver Pilot Program launch announcement. LEAD partnership with ARTS and the Empowerment Program.
 - LEAD National Support Bureau. (2024). LEAD program replication data. (80+ cities operating LEAD programs nationally.)
@@ -304,12 +320,12 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 - Cure Violence Global. Program evaluation data. (Community violence intervention outcomes.)
 - University of Chicago Crime Lab. READI Chicago evaluation. (Youth employment and violence reduction.)
 - Brookings Institution. (2022). After-school programming and youth crime timing data.
-- Desmond, M. (2016). *Evicted: Poverty and Profit in the American City*. (Housing instability and crime correlation.)
+- Desmond, M. (2016). _Evicted: Poverty and Profit in the American City_. (Housing instability and crime correlation.)
 - Council of State Governments Justice Center. Reentry housing and recidivism data.
 - National Institute on Drug Abuse. Medication-assisted treatment and crime reduction outcomes.
 - NYU Furman Center. (2019). Randomized controlled trial of street lighting and crime in NYC public housing. (36% reduction.)
 - University of Pennsylvania. (2018). Vacant lot remediation and gun violence reduction in Philadelphia. (29% reduction, RCT.)
-- Kondo, M., et al. (2016). "Effects of greening vacant lots on crime." *Landscape and Urban Planning*.
+- Kondo, M., et al. (2016). "Effects of greening vacant lots on crime." _Landscape and Urban Planning_.
 - Oakland Ceasefire evaluation. (2019). Homicide reduction data 2012-2018.
 - Glasgow Violence Reduction Unit. Program reports and outcome data 2005-2015. (60% murder rate reduction.)
 - Richmond Office of Neighborhood Safety. Program evaluation and gun homicide data 2007-2019. (75% reduction.)

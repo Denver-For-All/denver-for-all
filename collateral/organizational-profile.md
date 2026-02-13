@@ -1,13 +1,15 @@
 # Denver For All — Organizational Profile
 
-*Reusable core description for grant applications, fiscal sponsorship, and outreach.*
+_Reusable core description for grant applications, fiscal sponsorship, and outreach._
 
 ---
 
 ## Organization Name
+
 Denver For All (DenverForAll.org)
 
 ## Contact
+
 - **Email:** info@denverforall.org
 - **Website:** https://denverforall.org
 
@@ -46,20 +48,20 @@ Denver For All is a grassroots political organization building power for working
 
 ## Policy Platform Scope
 
-| Category | Count | Examples |
-|----------|-------|---------|
-| Housing & Displacement | 9 | Social Housing, Rent Stabilization, Community Land Trusts, Vacancy Tax, Tenant Bill of Rights, Housing First |
-| Labor & Wages | 7 | $25 Minimum Wage, One Fair Wage, Sectoral Bargaining, Right to Disconnect |
-| Healthcare | 5 | Medical Debt Forgiveness, Hospital Cost Transparency, STAR Program Expansion |
-| Public Safety | 4 | Police Accountability, Drug Policy Reform, Evidence-based alternatives |
-| Immigration | 4 | Sanctuary City, Anti-Exploitation, Newcomer Reception, Workforce Integration |
-| Infrastructure | 6 | Municipal Broadband, Pedestrian Infrastructure, Public Transit, Public Banking |
-| Climate & Environment | 3 | Decarbonization, Water Security, Circular Economy |
-| Education | 3 | Universal Childcare, Public School Investment, Youth Services |
-| Democracy | 2 | Participatory Budgeting, Government Transparency |
-| Economic Justice | 3 | Guaranteed Income, Small Business Support, Fiscal Reform |
-| Community | 2 | Arts & Culture, Parks & Recreation |
-| Justice | 2 | Reparations/Racial Justice, LGBTQ+ Sanctuary |
+| Category               | Count | Examples                                                                                                     |
+| ---------------------- | ----- | ------------------------------------------------------------------------------------------------------------ |
+| Housing & Displacement | 9     | Social Housing, Rent Stabilization, Community Land Trusts, Vacancy Tax, Tenant Bill of Rights, Housing First |
+| Labor & Wages          | 7     | $25 Minimum Wage, One Fair Wage, Sectoral Bargaining, Right to Disconnect                                    |
+| Healthcare             | 5     | Medical Debt Forgiveness, Hospital Cost Transparency, STAR Program Expansion                                 |
+| Public Safety          | 4     | Police Accountability, Drug Policy Reform, Evidence-based alternatives                                       |
+| Immigration            | 4     | Sanctuary City, Anti-Exploitation, Newcomer Reception, Workforce Integration                                 |
+| Infrastructure         | 6     | Municipal Broadband, Pedestrian Infrastructure, Public Transit, Public Banking                               |
+| Climate & Environment  | 3     | Decarbonization, Water Security, Circular Economy                                                            |
+| Education              | 3     | Universal Childcare, Public School Investment, Youth Services                                                |
+| Democracy              | 2     | Participatory Budgeting, Government Transparency                                                             |
+| Economic Justice       | 3     | Guaranteed Income, Small Business Support, Fiscal Reform                                                     |
+| Community              | 2     | Arts & Culture, Parks & Recreation                                                                           |
+| Justice                | 2     | Reparations/Racial Justice, LGBTQ+ Sanctuary                                                                 |
 
 ## Legislative Readiness
 
@@ -75,6 +77,7 @@ Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Tr
 ## Federal Grant Templates
 
 6 ready-to-file federal grant applications mapped to specific policies:
+
 - HUD HOME (Community Land Trusts, $8–12M)
 - HUD Continuum of Care (Housing First)
 - FEMA BRIC (Emergency Preparedness)
@@ -101,15 +104,15 @@ Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Tr
 
 ## Operating Model
 
-| Item | Annual Cost |
-|------|-------------|
-| Domain registration | $10–12 |
-| Hosting (Cloudflare Pages) | Free |
-| Backend (Cloudflare Workers) | Free |
-| Email routing | Free |
-| Newsletter (EmailOctopus, 2,500 subscribers) | Free |
-| AI Tenant Chatbot (vAPI, ~100 calls/month) | $300–720 |
-| **Total** | **$310–840/year** |
+| Item                                         | Annual Cost       |
+| -------------------------------------------- | ----------------- |
+| Domain registration                          | $10–12            |
+| Hosting (Cloudflare Pages)                   | Free              |
+| Backend (Cloudflare Workers)                 | Free              |
+| Email routing                                | Free              |
+| Newsletter (EmailOctopus, 2,500 subscribers) | Free              |
+| AI Tenant Chatbot (vAPI, ~100 calls/month)   | $300–720          |
+| **Total**                                    | **$310–840/year** |
 
 ## Current Reach
 
@@ -129,6 +132,7 @@ Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Tr
 ## What Funding Supports
 
 Every dollar donated to Denver For All directly supports hard costs — visible on our [Open Collective public ledger](https://opencollective.com/denver-for-all):
+
 - **AI-powered policy research** — Claude API tokens producing evidence-based policy proposals
 - **Resistbot amplification** — petition campaign promotion driving grassroots engagement with elected officials
 - **Data visualizations** — better charts, maps, and interactive dashboards for civic tools

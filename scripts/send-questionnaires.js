@@ -28,7 +28,13 @@ const candidates = [
   // District 6 — Southeast Denver
   { name: 'Mark Montoya', district: 6, email: '', status: 'not-contacted' },
   { name: 'Matt Walter', district: 6, email: '', status: 'not-contacted' },
-  { name: 'Shannon Callahan', district: 6, email: '', status: 'sent', note: 'Sent 10-question version via contact form; resend with updated 7-question version' },
+  {
+    name: 'Shannon Callahan',
+    district: 6,
+    email: '',
+    status: 'sent',
+    note: 'Sent 10-question version via contact form; resend with updated 7-question version',
+  },
   // District 7 — West Denver
   { name: 'Flor Alvidrez', district: 7, email: '', status: 'not-contacted' },
   { name: 'William Fenton II', district: 7, email: '', status: 'not-contacted' },
@@ -120,7 +126,7 @@ async function sendViaResend(candidate, apiKey) {
   const res = await fetch('https://api.resend.com/emails', {
     method: 'POST',
     headers: {
-      'Authorization': `Bearer ${apiKey}`,
+      Authorization: `Bearer ${apiKey}`,
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
@@ -159,28 +165,26 @@ function dryRun(candidate) {
 // CLI
 // ============================================================
 const args = process.argv.slice(2);
-const mode = args.includes('--resend') ? 'resend'
-  : args.includes('--mailto') ? 'mailto'
-  : 'dry-run';
+const mode = args.includes('--resend')
+  ? 'resend'
+  : args.includes('--mailto')
+    ? 'mailto'
+    : 'dry-run';
 
-const candidateFilter = args.includes('--candidate')
-  ? args[args.indexOf('--candidate') + 1]
-  : null;
+const candidateFilter = args.includes('--candidate') ? args[args.indexOf('--candidate') + 1] : null;
 
 const sendAll = args.includes('--all');
 
 let targets = candidates;
 
 if (candidateFilter) {
-  targets = candidates.filter(c =>
-    c.name.toLowerCase().includes(candidateFilter.toLowerCase())
-  );
+  targets = candidates.filter((c) => c.name.toLowerCase().includes(candidateFilter.toLowerCase()));
   if (targets.length === 0) {
     console.error(`No candidate found matching "${candidateFilter}"`);
     process.exit(1);
   }
 } else if (sendAll) {
-  targets = candidates.filter(c => c.status === 'not-contacted');
+  targets = candidates.filter((c) => c.status === 'not-contacted');
 } else if (!candidateFilter && !sendAll) {
   // Default: show status summary
   console.log('\nCandidate Questionnaire Status\n');
@@ -194,13 +198,21 @@ if (candidateFilter) {
     console.log(`${dist}| ${name}| ${status}| ${email}`);
   }
   console.log(`\nTotal: ${candidates.length} candidates`);
-  console.log(`Sent: ${candidates.filter(c => c.status === 'sent').length}`);
-  console.log(`Not contacted: ${candidates.filter(c => c.status === 'not-contacted').length}`);
+  console.log(`Sent: ${candidates.filter((c) => c.status === 'sent').length}`);
+  console.log(`Not contacted: ${candidates.filter((c) => c.status === 'not-contacted').length}`);
   console.log(`\nUsage:`);
-  console.log(`  node scripts/send-questionnaires.js --dry-run --all           # Preview all unsent emails`);
-  console.log(`  node scripts/send-questionnaires.js --dry-run --candidate "Paul Pazen"  # Preview one`);
-  console.log(`  node scripts/send-questionnaires.js --mailto --candidate "Paul Pazen"   # Open in email client`);
-  console.log(`  RESEND_API_KEY=re_xxx node scripts/send-questionnaires.js --resend --all # Send via Resend\n`);
+  console.log(
+    `  node scripts/send-questionnaires.js --dry-run --all           # Preview all unsent emails`,
+  );
+  console.log(
+    `  node scripts/send-questionnaires.js --dry-run --candidate "Paul Pazen"  # Preview one`,
+  );
+  console.log(
+    `  node scripts/send-questionnaires.js --mailto --candidate "Paul Pazen"   # Open in email client`,
+  );
+  console.log(
+    `  RESEND_API_KEY=re_xxx node scripts/send-questionnaires.js --resend --all # Send via Resend\n`,
+  );
   process.exit(0);
 }
 

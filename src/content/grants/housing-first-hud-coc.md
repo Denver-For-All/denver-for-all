@@ -1,14 +1,14 @@
 ---
-title: "HUD Continuum of Care — Denver Housing First Permanent Supportive Housing"
-titleEs: "HUD Continuum of Care — Vivienda de Apoyo Permanente de Vivienda Primero en Denver"
-summary: "HUD CoC program grant template for 500 units of permanent supportive housing and rapid rehousing services to reduce chronic homelessness in Denver using the Housing First model."
-summaryEs: "Plantilla de subvención del programa HUD CoC para 500 unidades de vivienda de apoyo permanente y servicios de realojamiento rápido para reducir la falta de vivienda crónica en Denver utilizando el modelo de Vivienda Primero."
-policySlug: "housing-first"
-grantProgram: "Continuum of Care (CoC) Program"
-fundingAgency: "U.S. Department of Housing and Urban Development (HUD)"
-estimatedAmount: "$12-18M over 3 years"
-deadline: "Typically June-September annually (check HUD CoC NOFO)"
-status: "draft"
+title: 'HUD Continuum of Care — Denver Housing First Permanent Supportive Housing'
+titleEs: 'HUD Continuum of Care — Vivienda de Apoyo Permanente de Vivienda Primero en Denver'
+summary: 'HUD CoC program grant template for 500 units of permanent supportive housing and rapid rehousing services to reduce chronic homelessness in Denver using the Housing First model.'
+summaryEs: 'Plantilla de subvención del programa HUD CoC para 500 unidades de vivienda de apoyo permanente y servicios de realojamiento rápido para reducir la falta de vivienda crónica en Denver utilizando el modelo de Vivienda Primero.'
+policySlug: 'housing-first'
+grantProgram: 'Continuum of Care (CoC) Program'
+fundingAgency: 'U.S. Department of Housing and Urban Development (HUD)'
+estimatedAmount: '$12-18M over 3 years'
+deadline: 'Typically June-September annually (check HUD CoC NOFO)'
+status: 'draft'
 ---
 
 ## Project Narrative
@@ -32,6 +32,7 @@ status: "draft"
 **Continuum of Care:** Metro Denver Homeless Initiative (MDHI), CO-503
 
 **Target Populations:**
+
 - Chronically homeless individuals (HUD-defined: 12+ months continuous or 4+ episodes in 3 years, with disabling condition)
 - Veterans experiencing homelessness
 - Families with children experiencing homelessness
@@ -39,6 +40,7 @@ status: "draft"
 - Individuals exiting institutions (jails, hospitals, behavioral health facilities) into homelessness
 
 **Priority Neighborhoods (ranked by unsheltered count and service need):**
+
 - Capitol Hill / Civic Center
 - Five Points / Curtis Park
 - East Colfax
@@ -57,23 +59,27 @@ status: "draft"
 Denver faces a severe and growing homelessness crisis that the current system of emergency services cannot resolve:
 
 **Scope of Homelessness:**
+
 - ~7,500 people experiencing homelessness on any given night in Denver
 - 9,065 across the metro area (MDHI Point-in-Time Count, 2024)
 - Chronic homelessness has increased steadily as housing costs have outpaced wages
 - Unsheltered homelessness is concentrated in neighborhoods with the fewest affordable housing resources
 
 **Current System Capacity Gap:**
+
 - ~1,300 PSH units currently operating in Denver as of 2024
 - Documented need exceeds available units by thousands
 - Emergency shelter system operates at or above capacity year-round
 - Average wait time for a PSH placement exceeds 12 months through the coordinated entry system
 
 **Cost of the Status Quo:**
+
 - Emergency-system cycling (ER visits, jail bookings, police contacts, shelter stays) costs $40,000-$80,000 per person per year
 - A single chronically homeless individual may generate over $100,000 in annual public costs across systems
 - These expenditures produce no lasting housing outcomes — individuals cycle back into homelessness upon discharge
 
 **The Housing First Evidence Base:**
+
 - Housing First programs achieve 80-90% housing retention rates, compared to 30-50% for Treatment First approaches that require sobriety or program compliance as preconditions
 - Finland adopted Housing First nationally and achieved a 35% reduction in homelessness — the only EU country with declining homelessness
 - Houston housed 25,000+ individuals since 2012, reducing homelessness by 63% using coordinated Housing First strategies
@@ -83,6 +89,7 @@ Denver faces a severe and growing homelessness crisis that the current system of
 ### D. Project Activities & Deliverables
 
 **Activity 1: Permanent Supportive Housing Acquisition & Conversion ($8,000,000)**
+
 - Acquire and convert existing buildings (hotels, motels, underused commercial properties) into 300 PSH units
 - All units to meet HUD Housing Quality Standards (HQS)
 - Units distributed across multiple sites to avoid concentration and promote neighborhood integration
@@ -91,6 +98,7 @@ Denver faces a severe and growing homelessness crisis that the current system of
 - Coordinate with Denver's Social Housing Authority bonding capacity ($200-300M in startup capital from municipal bonds and federal HUD matching) for long-term sustainability beyond the grant period
 
 **Activity 2: Rapid Rehousing Services & Landlord Incentives ($4,000,000)**
+
 - Provide time-limited rental assistance (up to 24 months) for 200 households per year
 - Landlord incentive fund: security deposit guarantees, damage mitigation funds, and signing bonuses to expand private-market unit availability
 - Housing navigation staff to identify and secure units across Denver's rental market
@@ -98,6 +106,7 @@ Denver faces a severe and growing homelessness crisis that the current system of
 - Prioritize families with children and individuals with shorter homelessness histories for rapid rehousing track
 
 **Activity 3: Wraparound Services — Case Management, Mental Health & Addiction Treatment ($3,000,000)**
+
 - Intensive case management at 1:15 staff-to-client ratio for PSH residents
 - On-site behavioral health services including licensed clinical social workers and psychiatric consultation
 - Substance use treatment referrals and harm reduction services (non-abstinence-based)
@@ -106,6 +115,7 @@ Denver faces a severe and growing homelessness crisis that the current system of
 - Partnerships with Denver Health, Mental Health Center of Denver, and community-based organizations
 
 **Activity 4: Coordinated Entry System Upgrade & Data Infrastructure ($1,000,000)**
+
 - Upgrade MDHI's coordinated entry system to improve assessment, prioritization, and matching
 - Integrate data across HOST, Denver Health, Denver Sheriff, and behavioral health providers to identify highest-need individuals (with appropriate privacy protections and consent protocols)
 - Real-time bed/unit availability tracking across all PSH and RRH providers
@@ -113,6 +123,7 @@ Denver faces a severe and growing homelessness crisis that the current system of
 - HMIS data quality improvements to meet HUD reporting requirements and support program evaluation
 
 **Activity 5: Program Evaluation ($1,000,000)**
+
 - Independent third-party evaluation of housing retention, health outcomes, and cost offsets
 - Pre/post analysis of emergency service utilization (ER visits, jail bookings, crisis contacts) for program participants
 - Longitudinal tracking of participant income, employment, and housing stability at 6, 12, 24, and 36 months
@@ -122,13 +133,13 @@ Denver faces a severe and growing homelessness crisis that the current system of
 
 ### E. Project Timeline
 
-| Phase | Timeline | Key Milestones |
-|---|---|---|
-| **Planning & Procurement** | Months 1-6 | Execute subrecipient agreements, finalize site selection, hire program staff, launch coordinated entry upgrades |
-| **Acquisition & Conversion** | Months 4-14 | Acquire properties, complete renovations, obtain certificates of occupancy, begin PSH lease-up |
-| **Full Operations — Year 1** | Months 7-18 | 150 PSH units occupied, 200 RRH households served, wraparound services fully operational |
-| **Full Operations — Year 2** | Months 13-30 | All 300 PSH units occupied, second cohort of 200 RRH households, midpoint evaluation complete |
-| **Stabilization & Closeout** | Months 28-36 | Transition to sustainable funding streams, final evaluation, program continuation planning |
+| Phase                        | Timeline     | Key Milestones                                                                                                  |
+| ---------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Planning & Procurement**   | Months 1-6   | Execute subrecipient agreements, finalize site selection, hire program staff, launch coordinated entry upgrades |
+| **Acquisition & Conversion** | Months 4-14  | Acquire properties, complete renovations, obtain certificates of occupancy, begin PSH lease-up                  |
+| **Full Operations — Year 1** | Months 7-18  | 150 PSH units occupied, 200 RRH households served, wraparound services fully operational                        |
+| **Full Operations — Year 2** | Months 13-30 | All 300 PSH units occupied, second cohort of 200 RRH households, midpoint evaluation complete                   |
+| **Stabilization & Closeout** | Months 28-36 | Transition to sustainable funding streams, final evaluation, program continuation planning                      |
 
 ### F. Alignment with HUD CoC Program Goals
 
@@ -155,32 +166,32 @@ The requested federal investment of $17 million complements Denver's existing in
 
 ## Budget Summary
 
-| Category | Amount | % of Total |
-|---|---|---|
-| PSH Acquisition & Conversion (300 units) | $8,000,000 | 47% |
-| Rapid Rehousing Services & Landlord Incentives (200 households/year) | $4,000,000 | 24% |
-| Wraparound Services (case management, behavioral health, employment) | $3,000,000 | 17% |
-| Coordinated Entry & Data Infrastructure | $1,000,000 | 6% |
-| Program Evaluation | $1,000,000 | 6% |
-| **Total Federal Request** | **$17,000,000** | **100%** |
-| Local Match (HOST, Social Housing Authority, philanthropic) | $4,250,000 | — |
-| **Total Project Investment** | **$21,250,000** | — |
+| Category                                                             | Amount          | % of Total |
+| -------------------------------------------------------------------- | --------------- | ---------- |
+| PSH Acquisition & Conversion (300 units)                             | $8,000,000      | 47%        |
+| Rapid Rehousing Services & Landlord Incentives (200 households/year) | $4,000,000      | 24%        |
+| Wraparound Services (case management, behavioral health, employment) | $3,000,000      | 17%        |
+| Coordinated Entry & Data Infrastructure                              | $1,000,000      | 6%         |
+| Program Evaluation                                                   | $1,000,000      | 6%         |
+| **Total Federal Request**                                            | **$17,000,000** | **100%**   |
+| Local Match (HOST, Social Housing Authority, philanthropic)          | $4,250,000      | —          |
+| **Total Project Investment**                                         | **$21,250,000** | —          |
 
-*Note: HUD CoC program requires a minimum 25% match for most project types. The $4.25M local match represents a 25% match against the federal request, sourced from HOST operating funds, Social Housing Authority capital commitments, and philanthropic contributions.*
+_Note: HUD CoC program requires a minimum 25% match for most project types. The $4.25M local match represents a 25% match against the federal request, sourced from HOST operating funds, Social Housing Authority capital commitments, and philanthropic contributions._
 
 ## Expected Outcomes
 
-| Metric | Baseline | 3-Year Target |
-|---|---|---|
-| New PSH units operational | ~1,300 total in Denver | +300 units (23% increase) |
-| Households served through rapid rehousing | Current capacity | +200 households/year (600 total over 3 years) |
-| Housing retention rate (PSH, 12-month) | Varies by provider | 85%+ |
-| Returns to homelessness (within 12 months of placement) | ~20-25% | <10% |
-| ER visits among PSH participants | ~8-12 visits/person/year | 50% reduction |
-| Jail bookings among PSH participants | ~4-6 bookings/person/year | 60% reduction |
-| Per-person annual cost (PSH vs. emergency system) | $40,000-$80,000 | $15,000-$25,000 |
-| Net public savings per person per year | $0 (current system) | $36,000-$62,000 |
-| Coordinated entry assessment-to-placement time | 12+ months | <6 months |
+| Metric                                                  | Baseline                  | 3-Year Target                                 |
+| ------------------------------------------------------- | ------------------------- | --------------------------------------------- |
+| New PSH units operational                               | ~1,300 total in Denver    | +300 units (23% increase)                     |
+| Households served through rapid rehousing               | Current capacity          | +200 households/year (600 total over 3 years) |
+| Housing retention rate (PSH, 12-month)                  | Varies by provider        | 85%+                                          |
+| Returns to homelessness (within 12 months of placement) | ~20-25%                   | <10%                                          |
+| ER visits among PSH participants                        | ~8-12 visits/person/year  | 50% reduction                                 |
+| Jail bookings among PSH participants                    | ~4-6 bookings/person/year | 60% reduction                                 |
+| Per-person annual cost (PSH vs. emergency system)       | $40,000-$80,000           | $15,000-$25,000                               |
+| Net public savings per person per year                  | $0 (current system)       | $36,000-$62,000                               |
+| Coordinated entry assessment-to-placement time          | 12+ months                | <6 months                                     |
 
 ## Key Data Sources
 
@@ -189,11 +200,11 @@ All data sourced from the Denver For All [Housing First](/platform/housing-first
 - Metro Denver Homeless Initiative (MDHI). (2024). Point-in-Time Count Report
 - City and County of Denver, Department of Housing Stability (HOST). Program data and capacity reports
 - National Alliance to End Homelessness. Housing First research and evidence base
-- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals with a Dual Diagnosis." *American Journal of Public Health*
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals with a Dual Diagnosis." _American Journal of Public Health_
 - Y-Foundation / Finnish Government. National Housing First program evaluation data
 - Houston Coalition for the Homeless. (2024). Annual report on housing placements and homelessness reduction
 - Medicine Hat Community Housing Society. Functional zero homelessness data
-- Culhane, D.P., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." *Housing Policy Debate*
+- Culhane, D.P., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." _Housing Policy Debate_
 - U.S. Department of Housing and Urban Development. (2024). Continuum of Care Program NOFO and guidance documents
 
 ## How to Use This Template

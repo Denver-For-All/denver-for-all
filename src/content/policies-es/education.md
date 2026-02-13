@@ -19,6 +19,7 @@ DPS inscribe aproximadamente 90,000 estudiantes en más de 200 escuelas, incluye
 ## Nuestra Solución
 
 ### 1. Pre-K Universal (Financiado por la Ciudad)
+
 - Pre-K gratuito de jornada completa para cada niño de 3 y 4 años de Denver
 - Sin requisito de ingresos - acceso universal
 - Ubicado en escuelas públicas y centros comunitarios
@@ -26,24 +27,28 @@ DPS inscribe aproximadamente 90,000 estudiantes en más de 200 escuelas, incluye
 - Currículo: basado en el juego, apropiado para el desarrollo, opciones bilingües
 
 ### 2. Comidas Escolares Gratuitas para Todos
+
 - Desayuno y almuerzo universales gratuitos para todos los estudiantes de DPS, independientemente del ingreso familiar
 - Elimina el estigma de la identificación de "almuerzo gratis"
 - Obtenido de granjas locales cuando sea posible
 - Programas de comida de verano en todos los centros comunitarios
 
 ### 3. Programas Extracurriculares en Cada Vecindario
+
 - Programas extracurriculares financiados por la ciudad en cada escuela primaria y secundaria de DPS
 - Artes, deportes, tutoría, programación y música: enriquecimiento integral, mucho más allá de la preparación para exámenes
 - Gratuitos para todos los estudiantes, operando hasta las 6 PM
 - Con personal de trabajadores juveniles capacitados con salarios dignos
 
 ### 4. Asistencia de Vivienda para Maestros
+
 - Unidades de vivienda asequible dedicadas para maestros de DPS (a través de la Social Housing Authority)
 - Asistencia para el pago inicial para maestros que compran en Denver
 - Estipendio de vivienda para maestros en escuelas de alta necesidad
 - Objetivo: que cada maestro que trabaja en Denver pueda pagar vivir en Denver
 
 ### 5. Anti-Privatización
+
 - Moratoria en nuevas aprobaciones de escuelas chárter hasta que las instalaciones de DPS estén completamente financiadas
 - Requerir que las escuelas chárter acepten a todos los estudiantes (incluyendo educación especial y estudiantes de inglés como segundo idioma) a la misma tasa que las escuelas del distrito
 - Transparencia financiera completa para todos los operadores de escuelas chárter
@@ -51,23 +56,24 @@ DPS inscribe aproximadamente 90,000 estudiantes en más de 200 escuelas, incluye
 - Redirigir las tarifas de gestión de escuelas chárter a inversión en el aula
 
 ### 6. Modelo de Escuelas Comunitarias
+
 - Convertir 20 escuelas de alta necesidad en escuelas comunitarias de servicio completo
 - Servicios integrales en el sitio: clínica de salud, despensa de alimentos, educación para padres, asistencia legal, trabajadores sociales
 - Escuelas que sirven como centros comunitarios para todo el vecindario
 
 ### Evidencia Internacional: Cómo Se Ve una Gran Educación
 
-| País | Características Clave | Resultado |
-|------|----------------------|-----------|
-| **Finlandia** | Sin exámenes estandarizados hasta los 16 años. Financiamiento equitativo en todas las escuelas. Los maestros son bien pagados, altamente capacitados (se requiere Maestría) y se les confía autonomía. Comidas gratuitas para todos los estudiantes. Sin escuelas privadas significativas. | Consistentemente entre los primeros a nivel mundial en lectura, matemáticas y ciencias. La brecha más pequeña entre los estudiantes de mayor y menor rendimiento en el mundo. Los maestros son tan respetados como los médicos. |
-| **Francia** | *École maternelle* universal gratuita desde los 3 años. Comidas escolares gratuitas. Financiamiento centralizado equitativo. | 99% de inscripción en preescolar. Sólidos resultados de desarrollo en la primera infancia. |
-| **Suecia** | Educación gratuita desde preescolar hasta la universidad. Comidas escolares gratuitas. Salarios de maestros competitivos. Tamaños máximos de clase obligatorios. | Alto logro educativo, baja desigualdad en los resultados. |
-| **Estonia** | Modelo radical de financiamiento equitativo. Comidas escolares gratuitas. Sólidos programas de primera infancia. Autonomía docente. | País europeo con mejor rendimiento en PISA. Pasó del sistema de la era soviética a nivel mundial en una generación a través de la inversión pública. |
-| **Corea del Sur** | Inversión pública masiva en educación. Salarios de maestros entre los más altos del mundo (comparables a los de ingenieros). Comidas escolares gratuitas. | La tasa de alfabetización más alta del mundo. Transformación económica dramática impulsada por la inversión en educación. |
+| País              | Características Clave                                                                                                                                                                                                                                                                      | Resultado                                                                                                                                                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finlandia**     | Sin exámenes estandarizados hasta los 16 años. Financiamiento equitativo en todas las escuelas. Los maestros son bien pagados, altamente capacitados (se requiere Maestría) y se les confía autonomía. Comidas gratuitas para todos los estudiantes. Sin escuelas privadas significativas. | Consistentemente entre los primeros a nivel mundial en lectura, matemáticas y ciencias. La brecha más pequeña entre los estudiantes de mayor y menor rendimiento en el mundo. Los maestros son tan respetados como los médicos. |
+| **Francia**       | _École maternelle_ universal gratuita desde los 3 años. Comidas escolares gratuitas. Financiamiento centralizado equitativo.                                                                                                                                                               | 99% de inscripción en preescolar. Sólidos resultados de desarrollo en la primera infancia.                                                                                                                                      |
+| **Suecia**        | Educación gratuita desde preescolar hasta la universidad. Comidas escolares gratuitas. Salarios de maestros competitivos. Tamaños máximos de clase obligatorios.                                                                                                                           | Alto logro educativo, baja desigualdad en los resultados.                                                                                                                                                                       |
+| **Estonia**       | Modelo radical de financiamiento equitativo. Comidas escolares gratuitas. Sólidos programas de primera infancia. Autonomía docente.                                                                                                                                                        | País europeo con mejor rendimiento en PISA. Pasó del sistema de la era soviética a nivel mundial en una generación a través de la inversión pública.                                                                            |
+| **Corea del Sur** | Inversión pública masiva en educación. Salarios de maestros entre los más altos del mundo (comparables a los de ingenieros). Comidas escolares gratuitas.                                                                                                                                  | La tasa de alfabetización más alta del mundo. Transformación económica dramática impulsada por la inversión en educación.                                                                                                       |
 
 **El patrón:** Cada país con una gran educación tiene: (1) financiamiento equitativo, (2) maestros bien pagados, (3) comidas gratuitas universales, (4) pre-K sólido, y (5) sin privatización del sistema público. Ninguno de los sistemas educativos con mejor rendimiento en evaluaciones internacionales (OECD PISA, TIMSS) está construido sobre modelos de escuelas chárter o competencia de mercado. El experimento estadounidense con la privatización escolar no tiene evidencia internacional que lo respalde.
 
-**La lección de Finlandia para Denver:** La revolución educativa de Finlandia comenzó con un principio simple: *cada niño merece una gran escuela en su vecindario*. No crearon "elección escolar" - hicieron que cada escuela fuera excelente. Ese es nuestro modelo.
+**La lección de Finlandia para Denver:** La revolución educativa de Finlandia comenzó con un principio simple: _cada niño merece una gran escuela en su vecindario_. No crearon "elección escolar" - hicieron que cada escuela fuera excelente. Ese es nuestro modelo.
 
 ## Cómo Lo Pagamos
 

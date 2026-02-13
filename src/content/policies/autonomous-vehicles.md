@@ -1,35 +1,35 @@
 ---
-title: "Autonomous Vehicle Safety & Accountability"
-titleEs: "Seguridad y Responsabilidad de Vehículos Autónomos"
-summary: "Waymo is coming to Denver. Colorado has almost no rules. We need community safety standards, labor protections for displaced drivers, public transit integration, data privacy safeguards, and local democratic control over how self-driving cars operate on our streets."
-summaryEs: "Waymo está llegando a Denver. Colorado casi no tiene reglas. Necesitamos estándares de seguridad comunitaria, protecciones laborales para conductores desplazados, integración con el transporte público, salvaguardas de privacidad de datos y control democrático local sobre cómo operan los autos autónomos en nuestras calles."
-category: "infrastructure"
-icon: "car"
+title: 'Autonomous Vehicle Safety & Accountability'
+titleEs: 'Seguridad y Responsabilidad de Vehículos Autónomos'
+summary: 'Waymo is coming to Denver. Colorado has almost no rules. We need community safety standards, labor protections for displaced drivers, public transit integration, data privacy safeguards, and local democratic control over how self-driving cars operate on our streets.'
+summaryEs: 'Waymo está llegando a Denver. Colorado casi no tiene reglas. Necesitamos estándares de seguridad comunitaria, protecciones laborales para conductores desplazados, integración con el transporte público, salvaguardas de privacidad de datos y control democrático local sobre cómo operan los autos autónomos en nuestras calles.'
+category: 'infrastructure'
+icon: 'car'
 order: 63
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "0"
-    label: "AV regulations Denver currently has"
-    labelEs: "regulaciones de vehiculos autonomos que Denver tiene actualmente"
-    context: "No permits, no incident reporting, no data privacy rules"
-    contextEs: "Sin permisos, sin reportes de incidentes, sin reglas de privacidad"
-    source: "Colorado SB 17-213"
-    theme: "danger"
-  - value: "85%"
-    label: "more vehicle-miles from ride-hailing vs trips replaced"
-    labelEs: "mas millas-vehiculo de viajes compartidos vs viajes reemplazados"
+  - value: '0'
+    label: 'AV regulations Denver currently has'
+    labelEs: 'regulaciones de vehiculos autonomos que Denver tiene actualmente'
+    context: 'No permits, no incident reporting, no data privacy rules'
+    contextEs: 'Sin permisos, sin reportes de incidentes, sin reglas de privacidad'
+    source: 'Colorado SB 17-213'
+    theme: 'danger'
+  - value: '85%'
+    label: 'more vehicle-miles from ride-hailing vs trips replaced'
+    labelEs: 'mas millas-vehiculo de viajes compartidos vs viajes reemplazados'
     context: "Without rules, AVs increase congestion and emissions — they don't reduce them"
-    contextEs: "Sin reglas, los VA aumentan la congestion y emisiones — no las reducen"
-    source: "UC Davis / Schaller Consulting"
-    theme: "danger"
-  - value: "$0"
-    label: "cost to Denver taxpayers"
-    labelEs: "costo para los contribuyentes de Denver"
-    context: "AV companies pay permit fees, per-trip assessments, and fund the Driver Transition Fund"
-    contextEs: "Las empresas de VA pagan permisos, tasas por viaje y financian el Fondo de Transicion"
-    theme: "primary"
+    contextEs: 'Sin reglas, los VA aumentan la congestion y emisiones — no las reducen'
+    source: 'UC Davis / Schaller Consulting'
+    theme: 'danger'
+  - value: '$0'
+    label: 'cost to Denver taxpayers'
+    labelEs: 'costo para los contribuyentes de Denver'
+    context: 'AV companies pay permit fees, per-trip assessments, and fund the Driver Transition Fund'
+    contextEs: 'Las empresas de VA pagan permisos, tasas por viaje y financian el Fondo de Transicion'
+    theme: 'primary'
 ---
 
 ## The Problem
@@ -56,6 +56,7 @@ Denver has **no autonomous vehicle regulations, permitting framework, or oversig
 Denver's Department of Transportation and Infrastructure (DOTI) has no AV liaison, no incident tracking system, and no formal coordination with Waymo or any other AV operator. The city has not conducted a public impact assessment of AV deployment on traffic patterns, transit ridership, labor markets, or neighborhood quality of life.
 
 By contrast:
+
 - **San Francisco** has fought for local authority through lawsuits, state legislative advocacy, and development of model permitting frameworks, despite California's state preemption of direct municipal regulation.
 - **New York City** permits only 8 test vehicles, requires safety drivers at all times, mandates regular data reporting, and requires cybersecurity certification (NYC Taxi & Limousine Commission, AV Rules, 2024).
 - **Austin** maintains a public AV incident dashboard tracking all reported incidents despite lacking direct regulatory authority (Austin Transportation Department, 2025).
@@ -132,14 +133,14 @@ AVs have the potential to transform mobility for the 61 million Americans with d
 
 ### International & Domestic Evidence: How Other Cities Are Handling AVs
 
-| City/State | Approach | Result |
-|-----------|----------|--------|
-| **California (AB 1777, 2026)** | Emergency response hotlines, two-way communication, geofencing compliance, citation authority, manufacturer liability for AV traffic violations. | Most comprehensive AV accountability law in any US state. Sets the standard for emergency response integration. |
-| **New York City** | Only 8 test vehicles permitted. Safety driver required. Regular data reporting. Cybersecurity certification. Strict municipal permitting. | Demonstrates that meaningful local control is possible and that AV companies will comply with strict requirements. |
-| **Chandler, AZ / Waymo / Via** | Integrated AVs into public microtransit (Chandler Flex). $1-2/ride. Discounts for seniors and people with disabilities. Free for students. | Leading model for AVs complementing rather than competing with public transit. Equity-focused pricing. |
-| **Austin, TX** | Public AV incident dashboard (122 incidents since 2023). No direct regulatory authority due to state preemption, but transparency through data publication. | Shows that transparency is achievable even without direct regulation. |
-| **Texas (SB 2807, 2025)** | State DMV authorization required. Recording devices mandatory. First-responder interaction plans required. | Moved from near-zero regulation to meaningful state-level requirements. |
-| **European Union** | AV Framework Regulation (EU 2022/1426) requires type-approval, cybersecurity certification, and data recording. | Continental-scale regulatory framework with mandatory safety standards. |
+| City/State                     | Approach                                                                                                                                                    | Result                                                                                                             |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **California (AB 1777, 2026)** | Emergency response hotlines, two-way communication, geofencing compliance, citation authority, manufacturer liability for AV traffic violations.            | Most comprehensive AV accountability law in any US state. Sets the standard for emergency response integration.    |
+| **New York City**              | Only 8 test vehicles permitted. Safety driver required. Regular data reporting. Cybersecurity certification. Strict municipal permitting.                   | Demonstrates that meaningful local control is possible and that AV companies will comply with strict requirements. |
+| **Chandler, AZ / Waymo / Via** | Integrated AVs into public microtransit (Chandler Flex). $1-2/ride. Discounts for seniors and people with disabilities. Free for students.                  | Leading model for AVs complementing rather than competing with public transit. Equity-focused pricing.             |
+| **Austin, TX**                 | Public AV incident dashboard (122 incidents since 2023). No direct regulatory authority due to state preemption, but transparency through data publication. | Shows that transparency is achievable even without direct regulation.                                              |
+| **Texas (SB 2807, 2025)**      | State DMV authorization required. Recording devices mandatory. First-responder interaction plans required.                                                  | Moved from near-zero regulation to meaningful state-level requirements.                                            |
+| **European Union**             | AV Framework Regulation (EU 2022/1426) requires type-approval, cybersecurity certification, and data recording.                                             | Continental-scale regulatory framework with mandatory safety standards.                                            |
 
 **The pattern is clear:** Cities and states that proactively regulate AVs get better outcomes than those that allow unregulated deployment. Companies comply with requirements because they need access to markets. Denver's leverage is its 700,000+ residents and growing demand for ride-hailing.
 

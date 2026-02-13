@@ -11,7 +11,10 @@ export const locale = atom<Locale>('en');
 export function t(key: string, lang?: Locale): string {
   const l = lang ?? locale.get();
   const keys = key.split('.');
-  let value: Record<string, unknown> | string | undefined = translations[l] as Record<string, unknown>;
+  let value: Record<string, unknown> | string | undefined = translations[l] as Record<
+    string,
+    unknown
+  >;
   for (const k of keys) {
     if (value == null || typeof value !== 'object') break;
     value = (value as Record<string, unknown>)[k] as Record<string, unknown> | string | undefined;

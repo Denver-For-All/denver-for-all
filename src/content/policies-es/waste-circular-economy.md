@@ -74,6 +74,7 @@ La infraestructura de residuos de Denver ha mejorado en los últimos años, pero
 Colorado es un estado árido que se está volviendo más seco. La Cuenca del Río Colorado, que suministra una porción significativa del agua del Front Range a través de derivaciones transmontañas, enfrenta un déficit estructural que el cambio climático está acelerando. Se proyecta que el suministro de Denver Water enfrentará déficits para la década de 2040 bajo escenarios climáticos moderados (Denver Water Climate Adaptation Plan, 2023). Una economía circular debe incluir agua circular. La reducción de residuos se extiende más allá de los residuos sólidos para tratar el agua como el recurso finito y precioso que es.
 
 **Reutilización de Aguas Grises**
+
 - Legalizar e incentivar sistemas de reutilización de aguas grises en Denver. Las aguas grises (aguas residuales de lavabos, duchas y lavandería, excluyendo inodoros) pueden reutilizarse de manera segura para riego de jardines, descarga de inodoros y sistemas de enfriamiento, reduciendo el consumo de agua del hogar entre un 30-50%.
 - Las regulaciones de aguas grises de Colorado (SB 13-181 y reglas subsiguientes) permiten la reutilización limitada de aguas grises, pero la adopción ha sido mínima debido a la complejidad de los permisos y la falta de incentivos. Denver debería crear un proceso simplificado de permisos y un programa de reembolsos para sistemas de aguas grises residenciales y comerciales.
 - **Reembolso:** $1,000-$3,000 por hogar para la instalación de sistemas de aguas grises, escalonado por complejidad del sistema. Financiado a través de los presupuestos del programa de eficiencia de Denver Water.
@@ -81,17 +82,20 @@ Colorado es un estado árido que se está volviendo más seco. La Cuenca del Rí
 - Ciudades líderes en aguas grises: San Francisco exige plomería lista para aguas grises en nuevos edificios; Tucson ofrece reembolsos y permisos simplificados; los programas de reutilización de aguas grises de Australia han reducido la demanda urbana de agua entre un 15-25% en los municipios participantes.
 
 **Recolección de Agua de Lluvia**
+
 - Colorado legalizó la recolección residencial de agua de lluvia en 2016 (HB 16-1005), permitiendo hasta dos barriles de lluvia de 55 galones por hogar. Denver debería expandir esto con incentivos e infraestructura:
 - Programa gratuito de barriles de lluvia: un barril de 55 galones por hogar, financiado a través de la asociación con Denver Water
 - Recolección de agua de lluvia a escala comunitaria en parques, centros de recreación e instalaciones de la ciudad para riego de paisajes
 - Requisitos de infraestructura verde: todos los nuevos estacionamientos de más de 20 espacios deben incluir superficies permeables y biocanales para captura de aguas pluviales
 
 **Paisajismo Eficiente en Agua**
+
 - Expandir el programa de reembolsos de xeriscaping de Denver Water: aumentar los reembolsos de los niveles actuales a $3/pie cuadrado para conversión de césped a xeriscaping, hasta $6,000 por propiedad
 - Propiedades de la ciudad: convertir todo el césped no recreativo a xeriscaping o plantaciones nativas dentro de 5 años
 - Requisitos para desarrolladores: los nuevos desarrollos residenciales deben limitar el césped al 30% del área ajardinada (consistente con las metas de eficiencia de Denver Water)
 
 **Aguas Pluviales como Recurso**
+
 - Integrar la gestión de aguas pluviales con el programa de infraestructura verde de [Climate & Environmental Justice](/platform/climate-environment)
 - Captura y reutilización de aguas pluviales en instalaciones de la ciudad: la precipitación anual promedio de Denver de 15.6 pulgadas sobre las superficies de propiedad de la ciudad representa millones de galones de agua reutilizable actualmente perdida en los desagües pluviales
 - Humedales construidos para el tratamiento de aguas pluviales en Globeville-Elyria-Swansea, Sun Valley y otros vecindarios propensos a inundaciones, tratando la justicia ambiental y la gestión del agua como un solo problema, no dos
@@ -100,13 +104,13 @@ Colorado es un estado árido que se está volviendo más seco. La Cuenca del Rí
 
 ### Evidencia Internacional: Cero Residuos Es Alcanzable
 
-| País/Ciudad | Modelo | Resultado |
-|-------------|--------|-----------|
-| **San Francisco, EE.UU.** | Compostaje y reciclaje obligatorio desde 2009. Prohibición de vertedero para reciclables y compostables. | 80% de tasa de desvío de residuos, la más alta de cualquier ciudad importante de EE.UU. |
-| **Kamikatsu, Japón** | Sistema de clasificación de 45 categorías, impulsado por la comunidad. Los residentes llevan los residuos a un único centro de recolección y los clasifican ellos mismos. | Casi cero residuos al vertedero. Se convirtió en un modelo global para la eliminación de residuos basada en la comunidad. |
-| **Liubliana, Eslovenia** | Recolección puerta a puerta con precios de pago por cantidad. Invirtió en infraestructura de clasificación y educación pública. | Pasó del 29% al 68% de reciclaje en solo 6 años. Nombrada Capital Verde Europea en 2016. |
-| **Suecia** | Sistema nacional que combina reciclaje, compostaje y valorización energética de residuos residuales. Responsabilidad del productor para embalajes desde 1994. | Solo el 1% de los residuos domésticos va al vertedero. |
-| **Seúl, Corea del Sur** | Tarifas de residuos basadas en volumen desde 1995. Reciclaje obligatorio de residuos alimentarios con recolección dedicada. | El 95% de los residuos alimentarios se recicla en alimento para animales, compost o biogás. |
+| País/Ciudad               | Modelo                                                                                                                                                                    | Resultado                                                                                                                 |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **San Francisco, EE.UU.** | Compostaje y reciclaje obligatorio desde 2009. Prohibición de vertedero para reciclables y compostables.                                                                  | 80% de tasa de desvío de residuos, la más alta de cualquier ciudad importante de EE.UU.                                   |
+| **Kamikatsu, Japón**      | Sistema de clasificación de 45 categorías, impulsado por la comunidad. Los residentes llevan los residuos a un único centro de recolección y los clasifican ellos mismos. | Casi cero residuos al vertedero. Se convirtió en un modelo global para la eliminación de residuos basada en la comunidad. |
+| **Liubliana, Eslovenia**  | Recolección puerta a puerta con precios de pago por cantidad. Invirtió en infraestructura de clasificación y educación pública.                                           | Pasó del 29% al 68% de reciclaje en solo 6 años. Nombrada Capital Verde Europea en 2016.                                  |
+| **Suecia**                | Sistema nacional que combina reciclaje, compostaje y valorización energética de residuos residuales. Responsabilidad del productor para embalajes desde 1994.             | Solo el 1% de los residuos domésticos va al vertedero.                                                                    |
+| **Seúl, Corea del Sur**   | Tarifas de residuos basadas en volumen desde 1995. Reciclaje obligatorio de residuos alimentarios con recolección dedicada.                                               | El 95% de los residuos alimentarios se recicla en alimento para animales, compost o biogás.                               |
 
 Más allá de sus beneficios ambientales, los sistemas de cero residuos son poderosos creadores de empleo. El reciclaje crea un promedio de 9 veces más empleos por tonelada que el vertedero. El compostaje crea al menos 2 veces más empleos que el vertedero. Las operaciones de reutilización y reparación crean hasta 30 veces más empleos (Eco-Cycle; Institute for Local Self-Reliance). Invertir en una economía circular significa invertir en la fuerza laboral de Denver.
 

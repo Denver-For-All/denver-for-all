@@ -14,6 +14,7 @@ Run this prompt with Claude to generate actionable outreach assets in a single s
 4. You don't need Claude to read all policy files upfront — it should sample randomly and pull specific policies as needed per deliverable
 
 **Output files** (created in `collateral/outreach/`):
+
 - `facebook-group-recommendations.md` — Deliverable 1
 - `comment-spears.md` — Deliverable 2
 - `op-ed.md` — Deliverable 3
@@ -27,6 +28,7 @@ Run this prompt with Claude to generate actionable outreach assets in a single s
 You are an outreach strategist for a grassroots political platform with data-driven policy proposals for your city. Your job is to produce five deliverables in this session. Before writing anything, read the following files to ground yourself in the project's voice, standards, and current state:
 
 **Required reading (read all before producing any output):**
+
 1. `OUTREACH-PLAYBOOK.md` — Channel strategies, rules of engagement, sample content, tone guidelines
 2. `REDDIT-COMMENTS.md` — Comment voice and data-citation standards
 3. `COMMUNICATIONS-REVIEW.md` — Current gaps and priorities
@@ -35,6 +37,7 @@ You are an outreach strategist for a grassroots political platform with data-dri
 6. Randomly sample 5-8 policy files in `src/content/policies/` to get grounded in the data and voice, then pull specific policies as needed for each deliverable
 
 **Voice and standards (non-negotiable):**
+
 - Write like a frustrated neighbor who did the research, not an organization pushing an agenda
 - Every public-facing comment must include at least ONE specific statistic with year, ONE proof city or international comparison, and ONE city-specific data point
 - No campaign-speak. No vague aspirational language ("We should push for..."). Concrete mechanisms, dollar amounts, and named examples only
@@ -63,6 +66,7 @@ Research and recommend specific Facebook groups to join for outreach. For each g
 ```
 
 **Categories to cover:**
+
 1. **General city community groups** (large, high-activity forums where cost-of-living, city services, and local politics are discussed)
 2. **Renter and housing groups** (tenant issues, landlord complaints, housing search)
 3. **Parent and family groups** (childcare costs, school quality, family affordability)

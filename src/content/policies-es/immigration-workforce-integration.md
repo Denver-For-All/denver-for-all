@@ -6,6 +6,7 @@
 Denver tiene médicos formados en el extranjero conduciendo Uber, ingenieros trabajando en cocinas y maestros limpiando oficinas. En todo EE.UU., un estimado de 2 millones de inmigrantes con educación universitaria trabajan en empleos que no requieren un título o están completamente desempleados (Migration Policy Institute, 2023). Colorado no es la excepción: el estado enfrenta escasez laboral crítica en atención médica, educación, oficios especializados y tecnología mientras miles de inmigrantes calificados no pueden usar sus credenciales.
 
 Las barreras están apiladas:
+
 - Los títulos extranjeros y las licencias profesionales no son reconocidos, incluso de instituciones acreditadas
 - Los procesos de relicenciamiento requieren años de educación adicional y exámenes, frecuentemente solo en inglés, sin apoyo financiero
 - La experiencia profesional de otros países no cuenta para nada en la mayoría de los marcos de licenciamiento
@@ -30,6 +31,7 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 ### La Denver Immigrant Workforce Integration Act
 
 **1. Oficina de Reconocimiento de Credenciales de Denver**
+
 - Oficina dedicada de la ciudad que evalúa credenciales extranjeras y las mapea a los requisitos de licenciamiento de Colorado
 - Produce un "análisis de brecha de credenciales" individualizado para cada solicitante: qué tiene, qué necesita y el camino más rápido hacia la licenciatura completa
 - Se asocia con DORA para abogar por vías de reconocimiento simplificadas a nivel estatal
@@ -38,6 +40,7 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 - Objetivo: reducir el tiempo promedio desde la evaluación de credenciales hasta el empleo profesional de más de 3 años a menos de 12 meses
 
 **2. Programas de Capacitación Puente**
+
 - Asociaciones financiadas por la ciudad con Community College of Denver, Metropolitan State University y CU Denver para programas puente acelerados en campos de alta escasez:
   - **Atención médica**: programa puente de enfermería para enfermeras formadas en el extranjero, certificación de asistente médico, capacitación de promotores de salud comunitaria
   - **Educación**: vía alternativa de licenciamiento docente para educadores formados en el extranjero, certificación de paraprofesional
@@ -49,6 +52,7 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 - Colocaciones clínicas y de práctica garantizadas a través de asociaciones con empleadores
 
 **3. Red de Mentoría Profesional**
+
 - Empareja a profesionales inmigrantes con profesionales establecidos de Denver en el mismo campo
 - Los mentores proporcionan orientación sobre la cultura laboral estadounidense, networking, exámenes de licenciamiento y avance profesional
 - Mentoría estructurada de 6 meses con hitos claros
@@ -56,6 +60,7 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 - Coordinada a través de las asociaciones industriales y organizaciones profesionales de Denver
 
 **4. Fondo de Emprendimiento Inmigrante**
+
 - Fondo anual de $3M para startups y expansión de negocios de propiedad inmigrante
 - Microcréditos ($5,000-$50,000) a tasas por debajo del mercado para emprendedores inmigrantes
 - Apoyo al desarrollo empresarial: navegación de licencias, desarrollo de planes de negocio, contabilidad, marketing — todo disponible en múltiples idiomas
@@ -64,6 +69,7 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 - Enfoque en corredores comerciales de vecindario donde los negocios inmigrantes ya anclan la vida comunitaria (Federal Blvd, Colfax, Morrison Rd)
 
 **5. Programa de Idioma para el Trabajo**
+
 - Capacitación en idioma inglés específica por ocupación (no ESL genérico)
 - Inglés para atención médica, inglés para construcción, inglés para negocios, inglés para tecnología — vocabulario y habilidades de comunicación para contextos profesionales específicos
 - Ofrecido en ubicaciones comunitarias (bibliotecas, centros recreativos, colegios comunitarios) en horarios vespertinos y de fin de semana
@@ -72,6 +78,7 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 - Componente de alfabetización digital para trabajadores que transicionan a lugares de trabajo habilitados por tecnología
 
 **6. Compromiso de Empleadores e Incentivos de Contratación**
+
 - Denver Inclusive Employer Certification: reconocimiento para negocios que activamente reclutan, contratan y apoyan a trabajadores inmigrantes
 - Los empleadores certificados reciben prioridad en adquisiciones y contrataciones de la ciudad
 - Subsidios salariales por los primeros 6 meses de empleo para trabajadores que completan programas puente (hasta $3,000/empleado)
@@ -80,12 +87,12 @@ Las juntas de licenciamiento profesional pueden resistir el reconocimiento simpl
 
 ### Evidencia: El Reconocimiento de Credenciales Se Paga Solo
 
-| País/Ciudad | Modelo | Resultado |
-|-------------|--------|-----------|
-| **Canadá (Federal)** | El sistema Express Entry evalúa credenciales extranjeras como parte del proceso de inmigración. Los Provincial Nominee Programs emparejan inmigrantes con escasez laboral local. Capacitación puente financiada federalmente. | La tasa de empleo de inmigrantes de Canadá alcanza paridad con los nacidos en el país dentro de 5 años. El reconocimiento de credenciales extranjeras contribuyó un estimado de $20B+ anuales al PIB canadiense (Conference Board of Canada, 2020). |
-| **Alemania** | *Anerkennungsgesetz* (Ley de Reconocimiento, 2012) creó un derecho legal a que las credenciales extranjeras sean evaluadas. Proceso estandarizado de equivalencia en los 16 estados. Capacitación puente financiada por la agencia federal de empleo. | El 80% de los solicitantes recibieron reconocimiento total o parcial. Los trabajadores reconocidos ganaron un 25% más que los que estaban en ocupaciones sin reconocimiento. Los costos del programa se recuperaron a través de mayores ingresos fiscales dentro de 2 años (BIBB, 2021). |
-| **Australia (Victoria)** | Programas de reconocimiento de credenciales para migrantes calificados. Unidades de Calificación en el Extranjero en industrias clave. Capacitación puente y mentoría financiada por el gobierno. | Los migrantes calificados fueron emparejados con empleo apropiado un 40% más rápido que el promedio nacional. La escasez de personal de atención médica se redujo en un 15% en las regiones participantes (Victorian Government, 2022). |
-| **Toronto, Canadá** | El programa de mentoría del Toronto Region Immigrant Employment Council (TRIEC) empareja a inmigrantes con profesionales canadienses. Asociaciones de capacitación puente con universidades. | El 75% de los inmigrantes con mentoría encontraron empleo en su campo dentro de 12 meses. El programa generó $4 en retorno económico por cada $1 invertido (TRIEC, 2021). |
+| País/Ciudad              | Modelo                                                                                                                                                                                                                                                | Resultado                                                                                                                                                                                                                                                                                |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Canadá (Federal)**     | El sistema Express Entry evalúa credenciales extranjeras como parte del proceso de inmigración. Los Provincial Nominee Programs emparejan inmigrantes con escasez laboral local. Capacitación puente financiada federalmente.                         | La tasa de empleo de inmigrantes de Canadá alcanza paridad con los nacidos en el país dentro de 5 años. El reconocimiento de credenciales extranjeras contribuyó un estimado de $20B+ anuales al PIB canadiense (Conference Board of Canada, 2020).                                      |
+| **Alemania**             | _Anerkennungsgesetz_ (Ley de Reconocimiento, 2012) creó un derecho legal a que las credenciales extranjeras sean evaluadas. Proceso estandarizado de equivalencia en los 16 estados. Capacitación puente financiada por la agencia federal de empleo. | El 80% de los solicitantes recibieron reconocimiento total o parcial. Los trabajadores reconocidos ganaron un 25% más que los que estaban en ocupaciones sin reconocimiento. Los costos del programa se recuperaron a través de mayores ingresos fiscales dentro de 2 años (BIBB, 2021). |
+| **Australia (Victoria)** | Programas de reconocimiento de credenciales para migrantes calificados. Unidades de Calificación en el Extranjero en industrias clave. Capacitación puente y mentoría financiada por el gobierno.                                                     | Los migrantes calificados fueron emparejados con empleo apropiado un 40% más rápido que el promedio nacional. La escasez de personal de atención médica se redujo en un 15% en las regiones participantes (Victorian Government, 2022).                                                  |
+| **Toronto, Canadá**      | El programa de mentoría del Toronto Region Immigrant Employment Council (TRIEC) empareja a inmigrantes con profesionales canadienses. Asociaciones de capacitación puente con universidades.                                                          | El 75% de los inmigrantes con mentoría encontraron empleo en su campo dentro de 12 meses. El programa generó $4 en retorno económico por cada $1 invertido (TRIEC, 2021).                                                                                                                |
 
 **Las matemáticas son simples:** una enfermera formada en el extranjero que gana $35,000 conduciendo para Uber contribuye menos a la economía y base tributaria de Denver que esa misma enfermera ganando $75,000 en Denver Health. El reconocimiento de credenciales no cuesta dinero — genera dinero.
 

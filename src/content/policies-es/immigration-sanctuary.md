@@ -6,6 +6,7 @@
 Las operaciones de aplicación de la ley de ICE en Denver y en todo Colorado se han intensificado, aterrorizando a las comunidades inmigrantes y destruyendo familias. Los inmigrantes indocumentados — que pagan impuestos, son dueños de negocios y crían a niños estadounidenses — viven con miedo a la deportación todos los días.
 
 Las políticas actuales de santuario de Denver tienen brechas:
+
 - La policía todavía coopera con ICE en algunas circunstancias
 - ICE realiza operaciones cerca de escuelas, tribunales y hospitales
 - Los residentes indocumentados evitan reportar crímenes, buscar atención médica e inscribir a sus hijos en la escuela
@@ -29,6 +30,7 @@ Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de
 ### La Denver Sanctuary Protection Act
 
 **1. Cero Cooperación con ICE**
+
 - Ningún empleado, departamento o contratista de la ciudad puede cooperar con ICE de ninguna manera
 - Sin compartir información personal, direcciones, ubicaciones de trabajo u horarios
 - Sin honrar detenciones o órdenes de ICE (que son administrativas, no judiciales)
@@ -37,11 +39,13 @@ Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de
 - Violación por cualquier empleado de la ciudad: terminación y responsabilidad personal
 
 **2. Ubicaciones Protegidas**
+
 - Zonas libres de ICE: escuelas, hospitales, tribunales, iglesias, oficinas de la ciudad, transporte público, refugios
 - La ciudad no cooperará con ninguna acción de aplicación de la ley dentro de 1,000 pies de ubicaciones protegidas
 - Letreros en múltiples idiomas en todas las ubicaciones protegidas informando a la comunidad de sus derechos
 
 **3. Programa de Identificación Municipal (Denver ID)**
+
 - Disponible para TODOS los residentes de Denver independientemente del estatus migratorio
 - Aceptada como identificación válida para todos los servicios de la ciudad, tarjetas de biblioteca y negocios locales
 - El proceso de solicitud no requiere prueba de estatus migratorio
@@ -49,6 +53,7 @@ Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de
 - Fomenta la participación en la vida cívica, la banca y la atención médica
 
 **4. Defensa contra Deportación Financiada por la Ciudad**
+
 - Fondo de Defensa Legal de Denver para inmigrantes que enfrentan deportación
 - Asignación anual de $5M para representación legal
 - Cada residente de Denver que enfrenta procedimientos de deportación tiene acceso a un abogado financiado por la ciudad
@@ -56,12 +61,14 @@ Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de
 - Red de respuesta rápida: voluntarios capacitados que responden a redadas de ICE y documentan los encuentros
 
 **5. Aplicación de Leyes Salariales Independientemente del Estatus**
+
 - Las protecciones de robo de salarios y leyes laborales de Denver aplican a todos los trabajadores, independientemente del estatus migratorio
 - Los trabajadores pueden presentar quejas, testificar y recibir remedios sin miedo
 - El estatus migratorio es irrelevante en todos los procedimientos de aplicación de la ley de la ciudad
 - Anti-represalia: los empleadores que amenacen a los trabajadores con deportación enfrentan penalidades aumentadas
 
 **6. Acceso Lingüístico**
+
 - Todos los servicios de la ciudad disponibles en inglés, español y los 5 idiomas principales hablados en Denver
 - Servicios de traducción en tiempo real en todas las oficinas de la ciudad
 - Sistema 311 multilingüe
@@ -70,12 +77,12 @@ Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de
 
 ### Evidencia Internacional: La Inclusión Funciona
 
-| País/Ciudad | Modelo | Resultado |
-|-------------|--------|-----------|
-| **Canadá (Toronto, Montreal)** | Políticas de ciudad santuario. Programas de identificación municipal. Atención médica universal independientemente del estatus. | Las comunidades inmigrantes reportan crímenes, acceden a atención médica, inscriben a sus hijos en la escuela. La seguridad pública mejora cuando las personas no se esconden del gobierno. |
-| **España** | Sistema de *empadronamiento* — todos los residentes se registran en los municipios independientemente del estatus migratorio, obteniendo acceso a atención médica, educación y servicios sociales. | El acceso universal reduce los costos de salud pública. Los trabajadores indocumentados contribuyen a la base tributaria. Los resultados de integración son mucho mejores que los de los países enfocados en la aplicación de la ley. |
-| **Alemania** | El estatus de *Duldung* (tolerancia) proporciona protección temporal y autorización de trabajo. Las ciudades proporcionan servicios de integración incluyendo cursos de idioma y capacitación laboral. | El enfoque de integración produce mejores resultados económicos que la aplicación de la ley. Los inmigrantes contribuyen a la economía en meses en lugar de años. |
-| **Nueva York** | Programa de identificación municipal IDNYC (el más grande de EE.UU.). Derecho a asesoría legal en procedimientos de deportación. Política de rechazo de detenciones. | Más de 1.3M de identificaciones emitidas. Aumentó el reporte de crímenes por parte de inmigrantes. La defensa contra deportación salva familias y mantiene comunidades intactas. |
+| País/Ciudad                    | Modelo                                                                                                                                                                                                 | Resultado                                                                                                                                                                                                                             |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Canadá (Toronto, Montreal)** | Políticas de ciudad santuario. Programas de identificación municipal. Atención médica universal independientemente del estatus.                                                                        | Las comunidades inmigrantes reportan crímenes, acceden a atención médica, inscriben a sus hijos en la escuela. La seguridad pública mejora cuando las personas no se esconden del gobierno.                                           |
+| **España**                     | Sistema de _empadronamiento_ — todos los residentes se registran en los municipios independientemente del estatus migratorio, obteniendo acceso a atención médica, educación y servicios sociales.     | El acceso universal reduce los costos de salud pública. Los trabajadores indocumentados contribuyen a la base tributaria. Los resultados de integración son mucho mejores que los de los países enfocados en la aplicación de la ley. |
+| **Alemania**                   | El estatus de _Duldung_ (tolerancia) proporciona protección temporal y autorización de trabajo. Las ciudades proporcionan servicios de integración incluyendo cursos de idioma y capacitación laboral. | El enfoque de integración produce mejores resultados económicos que la aplicación de la ley. Los inmigrantes contribuyen a la economía en meses en lugar de años.                                                                     |
+| **Nueva York**                 | Programa de identificación municipal IDNYC (el más grande de EE.UU.). Derecho a asesoría legal en procedimientos de deportación. Política de rechazo de detenciones.                                   | Más de 1.3M de identificaciones emitidas. Aumentó el reporte de crímenes por parte de inmigrantes. La defensa contra deportación salva familias y mantiene comunidades intactas.                                                      |
 
 **La evidencia es consistente:** las ciudades que incluyen a los inmigrantes en la vida cívica son más seguras, más saludables y más productivas económicamente. Las ciudades que aterrorizan a las comunidades inmigrantes pagan el costo en emergencias de salud pública, crímenes no reportados y exclusión económica.
 
@@ -93,6 +100,7 @@ No tienes que esperar a cambios de política para protegerte a ti y a tu comunid
 **Guarda la línea directa de la Red de Respuesta Rápida de Colorado:** [1-844-864-8341](tel:18448648341) (1-844-UNITE-41). Si eres testigo de actividad de ICE, llama de inmediato. Voluntarios capacitados responderán las 24 horas del día, los 7 días de la semana, para documentar el encuentro e informar a las personas sobre sus derechos constitucionales. También puedes llamar y presionar 2 para reportar un incidente pasado. Aprende más en [coloradorapidresponsenetwork.com](https://coloradorapidresponsenetwork.com/).
 
 **Descarga una tarjeta de Conoce Tus Derechos** del [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources/know-your-rights) o [ACLU Colorado](https://www.aclu-co.org/know-your-rights/immigrants-rights/). Guárdala en tu billetera y comparte copias con tus vecinos. Derechos clave incluyen:
+
 - **Derecho a guardar silencio.** No tienes que responder preguntas sobre tu estatus migratorio.
 - **No firmes nada** sin consultar a un abogado, incluso si los documentos están en tu idioma.
 - **Pide una orden judicial.** ICE debe presentar una orden judicial válida firmada por un juez para entrar a tu hogar. Una orden administrativa de ICE (Formulario I-200) no es suficiente — no tienes que abrir la puerta.

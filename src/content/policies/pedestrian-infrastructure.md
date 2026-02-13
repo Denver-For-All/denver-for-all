@@ -1,37 +1,37 @@
 ---
-title: "Pedestrian Infrastructure & Sidewalk Equity"
-titleEs: "Infraestructura Peatonal y Equidad en Aceras"
+title: 'Pedestrian Infrastructure & Sidewalk Equity'
+titleEs: 'Infraestructura Peatonal y Equidad en Aceras'
 summary: "Complete Denver's sidewalk network. 43% of Denver's sidewalks are missing or deficient — 1,480 miles. 34% are too narrow for a wheelchair. 9% are missing entirely. Low-income neighborhoods have double the pedestrian death rate. 54% of transit stops have missing sidewalks within a two-minute walk. Prioritize ADA compliance in underserved communities. Make the fee structure progressive. Build a city where you can walk safely whether you own a car or not."
-summaryEs: "Completar la red de aceras de Denver. El 43% de las aceras de Denver faltan o son deficientes — 1,480 millas. El 34% son demasiado estrechas para una silla de ruedas. El 9% no existen. Los vecindarios de bajos ingresos tienen el doble de la tasa de muertes peatonales. El 54% de las paradas de transporte tienen aceras faltantes a dos minutos de distancia. Priorizar el cumplimiento de ADA en comunidades desatendidas. Hacer que la estructura de tarifas sea progresiva. Construir una ciudad donde puedas caminar seguro tengas o no un auto."
-category: "infrastructure"
-icon: "footprints"
+summaryEs: 'Completar la red de aceras de Denver. El 43% de las aceras de Denver faltan o son deficientes — 1,480 millas. El 34% son demasiado estrechas para una silla de ruedas. El 9% no existen. Los vecindarios de bajos ingresos tienen el doble de la tasa de muertes peatonales. El 54% de las paradas de transporte tienen aceras faltantes a dos minutos de distancia. Priorizar el cumplimiento de ADA en comunidades desatendidas. Hacer que la estructura de tarifas sea progresiva. Construir una ciudad donde puedas caminar seguro tengas o no un auto.'
+category: 'infrastructure'
+icon: 'footprints'
 order: 64
-status: "draft"
-actionTarget: "mayor"
-grantProposal: "pedestrian-infrastructure-ss4a"
+status: 'draft'
+actionTarget: 'mayor'
+grantProposal: 'pedestrian-infrastructure-ss4a'
 hasFundingSources: true
 keyStats:
-  - value: "1,480 mi"
-    label: "of sidewalks missing or failing Denverites"
-    labelEs: "de aceras faltantes o fallando a los residentes de Denver"
+  - value: '1,480 mi'
+    label: 'of sidewalks missing or failing Denverites'
+    labelEs: 'de aceras faltantes o fallando a los residentes de Denver'
     context: "43% of Denver's sidewalk network is either missing entirely or too narrow for a wheelchair"
-    contextEs: "El 43% de la red de aceras de Denver falta completamente o es demasiado estrecha para una silla de ruedas"
-    source: "DOTI State of the System Report, January 2026"
-    theme: "danger"
-  - value: "400+ yrs"
-    label: "to finish sidewalks at previous funding pace"
-    labelEs: "para terminar aceras al ritmo de financiamiento anterior"
-    context: "That number is not hyperbole. It is the math of chronic underinvestment."
-    contextEs: "Ese numero no es una hiperbole. Es la matematica de la falta cronica de inversion."
-    source: "Denver Streets Partnership, 2022"
-    theme: "danger"
-  - value: "2x"
-    label: "pedestrian death rate in low-income neighborhoods"
-    labelEs: "tasa de muertes peatonales en vecindarios de bajos ingresos"
-    context: "The same neighborhoods least likely to have sidewalks have the highest fatality rates"
-    contextEs: "Los mismos vecindarios con menos probabilidad de tener aceras tienen las tasas mas altas de muertes peatonales"
-    source: "Denver Streets Partnership, 2022"
-    theme: "accent"
+    contextEs: 'El 43% de la red de aceras de Denver falta completamente o es demasiado estrecha para una silla de ruedas'
+    source: 'DOTI State of the System Report, January 2026'
+    theme: 'danger'
+  - value: '400+ yrs'
+    label: 'to finish sidewalks at previous funding pace'
+    labelEs: 'para terminar aceras al ritmo de financiamiento anterior'
+    context: 'That number is not hyperbole. It is the math of chronic underinvestment.'
+    contextEs: 'Ese numero no es una hiperbole. Es la matematica de la falta cronica de inversion.'
+    source: 'Denver Streets Partnership, 2022'
+    theme: 'danger'
+  - value: '2x'
+    label: 'pedestrian death rate in low-income neighborhoods'
+    labelEs: 'tasa de muertes peatonales en vecindarios de bajos ingresos'
+    context: 'The same neighborhoods least likely to have sidewalks have the highest fatality rates'
+    contextEs: 'Los mismos vecindarios con menos probabilidad de tener aceras tienen las tasas mas altas de muertes peatonales'
+    source: 'Denver Streets Partnership, 2022'
+    theme: 'accent'
 ---
 
 ## The Problem
@@ -74,6 +74,7 @@ Denver passed **Measure 307** (Ordinance 307) in November 2022, which transferre
 In February 2025, Mayor Johnston announced **$75 million in sidewalk construction contracts** — $25 million with Milender White Construction and $50 million with SEMA Construction — for new construction and ADA upgrades. The city released a **Sidewalk Implementation Plan (SIP)** and a State of the System Report (January 2026) documenting the scope of deficiencies.
 
 **The SIP timeline runs through the end of 2026:**
+
 - **Fall 2025–Winter 2026:** Inventory, State of the System Report, and public input on prioritization.
 - **Spring 2026:** Sample conceptual designs, cost estimation, prioritization criteria, and work plan scenarios with public feedback.
 - **Summer–Winter 2026:** Final work plan scenarios and final Sidewalk Implementation Plan.
@@ -137,12 +138,12 @@ Sidewalks are disability infrastructure. The policy should be explicitly linked 
 
 ### International Evidence: Walking Is Infrastructure
 
-| City/Country | Model | Result |
-|---|---|---|
-| **Pontevedra, Spain** | Removed cars from city center entirely. Invested in pedestrian-only streets, widened sidewalks, and universal accessibility design. | Zero pedestrian deaths since 2011 (over 14 years). CO2 emissions down 70%. City center foot traffic up 80%. Named European best practice by the EU. |
-| **Bogotá, Colombia** | Built 1,300 km of dedicated pedestrian and cycling infrastructure, prioritizing low-income southern neighborhoods. Ciclovia closes 121 km of streets to cars every Sunday. | Pedestrian fatalities down 50% in upgraded corridors. Up to 2 million weekly Ciclovia participants. Walking became the safest mode of transport in rebuilt areas. |
-| **Oslo, Norway** | Vision Zero implementation with physical infrastructure: removed downtown parking, narrowed roads, installed bollards, and rebuilt intersections for pedestrian priority. | Zero pedestrian and cyclist deaths in 2019 — in a city of 700,000. Achieved through design, not enforcement. |
-| **Tokyo, Japan** | Residential streets are "living zones" with 30 km/h speed limits, no sidewalk separation needed because cars yield to pedestrians by design and law. Arterials have wide, well-maintained sidewalks with tactile paving for visually impaired pedestrians. | Among the lowest pedestrian fatality rates of any major city. Tactile paving, invented in Japan in 1965, is now standard worldwide. |
+| City/Country              | Model                                                                                                                                                                                                                                                                                                                      | Result                                                                                                                                                                                                                                            |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pontevedra, Spain**     | Removed cars from city center entirely. Invested in pedestrian-only streets, widened sidewalks, and universal accessibility design.                                                                                                                                                                                        | Zero pedestrian deaths since 2011 (over 14 years). CO2 emissions down 70%. City center foot traffic up 80%. Named European best practice by the EU.                                                                                               |
+| **Bogotá, Colombia**      | Built 1,300 km of dedicated pedestrian and cycling infrastructure, prioritizing low-income southern neighborhoods. Ciclovia closes 121 km of streets to cars every Sunday.                                                                                                                                                 | Pedestrian fatalities down 50% in upgraded corridors. Up to 2 million weekly Ciclovia participants. Walking became the safest mode of transport in rebuilt areas.                                                                                 |
+| **Oslo, Norway**          | Vision Zero implementation with physical infrastructure: removed downtown parking, narrowed roads, installed bollards, and rebuilt intersections for pedestrian priority.                                                                                                                                                  | Zero pedestrian and cyclist deaths in 2019 — in a city of 700,000. Achieved through design, not enforcement.                                                                                                                                      |
+| **Tokyo, Japan**          | Residential streets are "living zones" with 30 km/h speed limits, no sidewalk separation needed because cars yield to pedestrians by design and law. Arterials have wide, well-maintained sidewalks with tactile paving for visually impaired pedestrians.                                                                 | Among the lowest pedestrian fatality rates of any major city. Tactile paving, invented in Japan in 1965, is now standard worldwide.                                                                                                               |
 | **Denver, USA (current)** | 43% of sidewalks missing or deficient (1,480 miles). 34% deficient width, 9% missing. 54% of transit stops have missing sidewalks within a 2-min walk. HIN streets account for 50% of fatal crashes on 5% of roads. 93 street deaths in 2025. $75M in contracts against a backlog that would take 400 years at prior pace. | Pedestrians are 5% of commuters but one-third of crash deaths. Low-income neighborhoods have 2x the fatality rate. E. Colfax east of Colorado Blvd: 64% narrow sidewalks with no buffer. Auditor found program "not designed for ADA compliance." |
 
 ## How We Pay For It

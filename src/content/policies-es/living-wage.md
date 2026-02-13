@@ -23,11 +23,11 @@ El salario minimo de Denver es $18.81/hora a partir de enero de 2025, siguiendo 
 
 **Calendario de implementacion gradual:**
 
-| Fecha | Salario Minimo |
-|------|-------------|
-| 2027 | $21.00/hora   |
-| 2028 | $23.00/hora   |
-| 2029 | $25.00/hora   |
+| Fecha | Salario Minimo                              |
+| ----- | ------------------------------------------- |
+| 2027  | $21.00/hora                                 |
+| 2028  | $23.00/hora                                 |
+| 2029  | $25.00/hora                                 |
 | 2030+ | Indexado al IPC de Denver (nunca disminuye) |
 
 **Disposiciones clave:**
@@ -41,14 +41,14 @@ El salario minimo de Denver es $18.81/hora a partir de enero de 2025, siguiendo 
 
 ### Contexto Internacional: El Piso Salarial de Estados Unidos es la Excepcion
 
-| Pais | Salario Minimo (equiv. USD) | Como Se Establece | Resultado |
-|---------|--------------------------|-------------|--------|
-| **Australia** | $15.50/hora (23.23 AUD) | Fair Work Commission independiente revisa anualmente, considera costo de vida | 30 anos sin recesion antes de COVID. Sin desempleo masivo por salario minimo alto. |
-| **Francia** | $13.80/hora (SMIC) | Indexado a la inflacion automaticamente + aumentos periodicos del gobierno | Los trabajadores de bajos salarios tienen poder adquisitivo. La industria restaurantera prospera. |
-| **Reino Unido** | $14.20/hora (11.44 libras, National Living Wage) | Low Pay Commission independiente recomienda, considera datos economicos | Introducido a $5.50 en 1999. Aumentado constantemente a mas de $14 con cero efectos negativos detectables en el empleo (estudios de Arindrajit Dube, reconocido internacionalmente). |
-| **Alemania** | $14.50/hora (12.41 euros) | Minimum Wage Commission + acuerdos sectoriales impulsan mucho mas alto | Introducido en 2015. El empleo AUMENTO despues de la implementacion, contrario a cada prediccion conservadora. |
-| **Dinamarca** | ~$22/hora (sin minimo legal - fijado por acuerdos sectoriales) | Negociaciones sindicato-empleador | Los trabajadores de McDonald's ganan $22/hora + 6 semanas de vacaciones. El Big Mac cuesta $0.35 mas que en EE.UU. |
-| **EE.UU.** | **$7.25/hora** (federal, sin cambios desde 2009) | Se requiere accion del Congreso (politicamente estancado) | **El salario minimo mas bajo en relacion al ingreso medio de cualquier pais de la OCDE.** El salario minimo federal en dolares reales es mas bajo hoy que en 1968. |
+| Pais            | Salario Minimo (equiv. USD)                                    | Como Se Establece                                                             | Resultado                                                                                                                                                                            |
+| --------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Australia**   | $15.50/hora (23.23 AUD)                                        | Fair Work Commission independiente revisa anualmente, considera costo de vida | 30 anos sin recesion antes de COVID. Sin desempleo masivo por salario minimo alto.                                                                                                   |
+| **Francia**     | $13.80/hora (SMIC)                                             | Indexado a la inflacion automaticamente + aumentos periodicos del gobierno    | Los trabajadores de bajos salarios tienen poder adquisitivo. La industria restaurantera prospera.                                                                                    |
+| **Reino Unido** | $14.20/hora (11.44 libras, National Living Wage)               | Low Pay Commission independiente recomienda, considera datos economicos       | Introducido a $5.50 en 1999. Aumentado constantemente a mas de $14 con cero efectos negativos detectables en el empleo (estudios de Arindrajit Dube, reconocido internacionalmente). |
+| **Alemania**    | $14.50/hora (12.41 euros)                                      | Minimum Wage Commission + acuerdos sectoriales impulsan mucho mas alto        | Introducido en 2015. El empleo AUMENTO despues de la implementacion, contrario a cada prediccion conservadora.                                                                       |
+| **Dinamarca**   | ~$22/hora (sin minimo legal - fijado por acuerdos sectoriales) | Negociaciones sindicato-empleador                                             | Los trabajadores de McDonald's ganan $22/hora + 6 semanas de vacaciones. El Big Mac cuesta $0.35 mas que en EE.UU.                                                                   |
+| **EE.UU.**      | **$7.25/hora** (federal, sin cambios desde 2009)               | Se requiere accion del Congreso (politicamente estancado)                     | **El salario minimo mas bajo en relacion al ingreso medio de cualquier pais de la OCDE.** El salario minimo federal en dolares reales es mas bajo hoy que en 1968.                   |
 
 $25/hora en Denver no es radical -- es lo que la aritmetica basica del costo de vida exige, y esta en linea con lo que los trabajadores ganan en paises con economias mas fuertes y tasas de pobreza mas bajas.
 
@@ -57,6 +57,7 @@ $25/hora en Denver no es radical -- es lo que la aritmetica basica del costo de 
 **"Pero, no cerraran los negocios?"**
 
 La evidencia dice que no. Estudios exhaustivos de aumentos de salario minimo en Seattle ($15), San Francisco ($18) y otras ciudades muestran:
+
 - Perdidas de empleo minimas a nulas
 - Menor rotacion de trabajadores (ahorra dinero a los negocios)
 - Mayor gasto del consumidor en la economia local
@@ -65,6 +66,7 @@ La evidencia dice que no. Estudios exhaustivos de aumentos de salario minimo en 
 Los trabajadores que ganan $25/hora gastan ese dinero en Denver -- en negocios de Denver. Este es un estimulo economico que fluye directamente a la economia local, no a cuentas bancarias en el extranjero.
 
 **Lo que $25/hora significa para un trabajador de Denver:**
+
 - Ingreso anual: $52,000 (tiempo completo)
 - Puede pagar alquiler de $1,300/mes (30% del ingreso) -- actualmente por debajo de la media de Denver, pero vivible con companero de vivienda o pareja
 - Puede pagar seguro medico, comida y transporte
@@ -75,6 +77,7 @@ Los trabajadores que ganan $25/hora gastan ese dinero en Denver -- en negocios d
 Los negocios pagan a sus trabajadores. Este no es un programa de gasto gubernamental.
 
 **Apoyo de transicion para pequenos negocios:**
+
 - Credito fiscal de 2 anos para negocios con menos de 20 empleados para compensar el aumento salarial
 - Consultoria empresarial gratuita a traves de Denver Economic Development
 - El mayor gasto del consumidor por salarios mas altos beneficia directamente a los pequenos negocios
@@ -104,9 +107,9 @@ Su argumento: "Costara empleos y perjudicara a los pequenos negocios." Nuestra r
 ## Referencias
 
 - MIT Living Wage Calculator, Denver County, livingwage.mit.edu (consultado en 2024)
-- Bureau of Labor Statistics, *Occupational Employment and Wage Statistics*, Denver-Aurora-Lakewood MSA, mayo 2023
-- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," *Review of Economics and Statistics* 92(4): 945-964 (2010)
-- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," *Quarterly Journal of Economics* 134(3): 1405-1454 (2019)
-- UK Low Pay Commission, *National Minimum Wage Annual Report*, 2023
-- Denver Department of Finance, *Minimum Wage Ordinance Annual Report*, 2024
-- University of Washington, *Seattle Minimum Wage Study*, diversas publicaciones (2017-2023)
+- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, mayo 2023
+- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
+- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
+- UK Low Pay Commission, _National Minimum Wage Annual Report_, 2023
+- Denver Department of Finance, _Minimum Wage Ordinance Annual Report_, 2024
+- University of Washington, _Seattle Minimum Wage Study_, diversas publicaciones (2017-2023)

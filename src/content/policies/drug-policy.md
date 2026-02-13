@@ -1,50 +1,51 @@
 ---
-title: "Decriminalize & Heal"
-titleEs: "Despenalizar y Sanar"
-summary: "Decriminalize all substances for personal use. Redirect enforcement budgets to treatment and recovery. Safe consumption sites. Expunge prior convictions. Harm reduction saves lives."
-summaryEs: "Despenalizar todas las sustancias para uso personal. Redirigir presupuestos de aplicación de la ley a tratamiento y recuperación. Sitios de consumo seguro. Borrar condenas previas. La reducción de daños salva vidas."
-category: "justice"
-icon: "hand-heart"
+title: 'Decriminalize & Heal'
+titleEs: 'Despenalizar y Sanar'
+summary: 'Decriminalize all substances for personal use. Redirect enforcement budgets to treatment and recovery. Safe consumption sites. Expunge prior convictions. Harm reduction saves lives.'
+summaryEs: 'Despenalizar todas las sustancias para uso personal. Redirigir presupuestos de aplicación de la ley a tratamiento y recuperación. Sitios de consumo seguro. Borrar condenas previas. La reducción de daños salva vidas.'
+category: 'justice'
+icon: 'hand-heart'
 order: 70
-status: "draft"
-actionTarget: "state"
+status: 'draft'
+actionTarget: 'state'
 hasFundingSources: true
 keyStats:
-  - value: "827"
-    label: "drug poisoning deaths in Denver in 2023"
-    labelEs: "muertes por envenenamiento de drogas en Denver en 2023"
-    context: "Fentanyl involved in 64%. Denver made 2,800+ drug arrests. Deaths kept rising."
-    contextEs: "El fentanilo estuvo involucrado en el 64%. Denver hizo mas de 2,800 arrestos. Las muertes siguieron subiendo."
-    source: "Denver Office of the Medical Examiner, 2024"
-    theme: "danger"
-  - value: "-95%"
-    label: "HIV among drug users after Portugal decriminalized"
-    labelEs: "VIH entre usuarios de drogas despues de que Portugal descriminalizo"
-    context: "Overdose deaths dropped 80%. Drug use fell below EU average. It works."
-    contextEs: "Las muertes por sobredosis cayeron 80%. El uso cayo por debajo del promedio de la UE. Funciona."
-    source: "SICAD (Portugal), 2023"
-    theme: "primary"
-  - value: "0 deaths"
-    label: "at 200+ supervised consumption sites worldwide"
-    labelEs: "en mas de 200 sitios de consumo supervisado en el mundo"
+  - value: '827'
+    label: 'drug poisoning deaths in Denver in 2023'
+    labelEs: 'muertes por envenenamiento de drogas en Denver en 2023'
+    context: 'Fentanyl involved in 64%. Denver made 2,800+ drug arrests. Deaths kept rising.'
+    contextEs: 'El fentanilo estuvo involucrado en el 64%. Denver hizo mas de 2,800 arrestos. Las muertes siguieron subiendo.'
+    source: 'Denver Office of the Medical Examiner, 2024'
+    theme: 'danger'
+  - value: '-95%'
+    label: 'HIV among drug users after Portugal decriminalized'
+    labelEs: 'VIH entre usuarios de drogas despues de que Portugal descriminalizo'
+    context: 'Overdose deaths dropped 80%. Drug use fell below EU average. It works.'
+    contextEs: 'Las muertes por sobredosis cayeron 80%. El uso cayo por debajo del promedio de la UE. Funciona.'
+    source: 'SICAD (Portugal), 2023'
+    theme: 'primary'
+  - value: '0 deaths'
+    label: 'at 200+ supervised consumption sites worldwide'
+    labelEs: 'en mas de 200 sitios de consumo supervisado en el mundo'
     context: "Vancouver's Insite has had 1,500+ overdose interventions. Zero deaths. Since 2003."
-    contextEs: "Insite de Vancouver ha tenido mas de 1,500 intervenciones de sobredosis. Cero muertes. Desde 2003."
-    source: "Potier et al., Drug and Alcohol Dependence, 2014"
-    theme: "primary"
+    contextEs: 'Insite de Vancouver ha tenido mas de 1,500 intervenciones de sobredosis. Cero muertes. Desde 2003.'
+    source: 'Potier et al., Drug and Alcohol Dependence, 2014'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "HB26-1063"
-    title: "Treating People with Behavioral Health Disorder"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/hb26-1063"
-  - billNumber: "HB26-1020"
-    title: "Colorimetric Field Drug Tests in Drug Possessions"
-    status: "Referred from Judiciary to House Committee of the Whole (amended)"
-    url: "https://leg.colorado.gov/bills/hb26-1020"
+  - billNumber: 'HB26-1063'
+    title: 'Treating People with Behavioral Health Disorder'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/hb26-1063'
+  - billNumber: 'HB26-1020'
+    title: 'Colorimetric Field Drug Tests in Drug Possessions'
+    status: 'Referred from Judiciary to House Committee of the Whole (amended)'
+    url: 'https://leg.colorado.gov/bills/hb26-1020'
 ---
 
 ## The Problem
 
 The war on drugs has failed. Fifty years of criminalization have not reduced drug use (National Research Council, 2001; Drug Policy Alliance, 2024) - they've produced:
+
 - Mass incarceration, disproportionately of Black and Latino men
 - Overdose deaths at record levels (fentanyl is now the leading cause of death for Americans 18-45)
 - Over a trillion dollars wasted on enforcement that doesn't work (NDIC, 2011)
@@ -68,6 +69,7 @@ The Denver Police Protective Association and Denver District Attorney's office a
 ### Denver Decriminalization & Harm Reduction Act
 
 **1. Decriminalize Personal Possession**
+
 - Possession of any substance in personal-use quantities is not a criminal offense in Denver
 - Personal-use thresholds established by public health experts (not prosecutors)
 - Possession remains a civil infraction with referral to treatment services - not jail
@@ -75,6 +77,7 @@ The Denver Police Protective Association and Denver District Attorney's office a
 - This is the Portugal model: decriminalization + treatment investment = reduced overdose deaths, reduced HIV, reduced drug use
 
 **2. Treatment on Demand**
+
 - Anyone seeking substance use treatment can access it within 24 hours - no waitlists
 - Full spectrum: detox, residential treatment, outpatient, medication-assisted treatment (MAT), peer support
 - City-funded treatment beds to eliminate waitlists
@@ -82,6 +85,7 @@ The Denver Police Protective Association and Denver District Attorney's office a
 - Culturally competent, trauma-informed, multilingual services
 
 **3. Safe Consumption Sites**
+
 - Supervised consumption facilities where people can use substances under medical supervision
 - Prevent overdose deaths (zero deaths have occurred in any supervised consumption site worldwide)
 - Provide clean supplies, naloxone, wound care, and connection to treatment
@@ -89,18 +93,21 @@ The Denver Police Protective Association and Denver District Attorney's office a
 - Legal under Denver's home rule authority (city can decline to prosecute)
 
 **4. Naloxone Everywhere**
+
 - Free naloxone (Narcan) available at all city buildings, libraries, community centers, transit stations
 - Training for all first responders, city employees, and willing community members
 - No questions asked, no ID required
 - Vending machines with naloxone in high-need areas
 
 **5. Expungement**
+
 - Automatic expungement of all prior drug possession convictions in Denver courts
 - No application required - city reviews all records and clears eligible convictions
 - Immediate notification to affected individuals
 - Assistance with record clearing for state and federal convictions (referral to legal services)
 
 **6. Redirect Enforcement Budget**
+
 - Close the Drug Enforcement unit within Denver Police
 - Redirect $15-20M/year to treatment, harm reduction, and recovery services
 - Police focus on violent crime and trafficking - not users
@@ -109,6 +116,7 @@ The Denver Police Protective Association and Denver District Attorney's office a
 ## How We Pay For It
 
 **Budget reallocation:** Drug enforcement → treatment. Net new spending is minimal.
+
 - Treatment on Demand: $20-30M/year (offset by reduced incarceration, emergency room, and law enforcement costs)
 - Safe consumption sites: $3-5M/year (offset by reduced emergency response and hospital costs)
 - Naloxone program: $1-2M/year
@@ -120,14 +128,14 @@ The Denver Police Protective Association and Denver District Attorney's office a
 
 ### International Evidence: Every Approach Works Better Than Criminalization
 
-| Country | Model | Result |
-|---------|-------|--------|
-| **Portugal** (2001) | Decriminalized all drugs. Redirected enforcement budget to treatment. Dissuasion commissions (health professionals, not judges) meet with people caught using. | HIV infections among drug users dropped **95%**. Overdose deaths dropped **80%**. Drug use rates below EU average. Incarceration for drug offenses dropped dramatically. |
-| **Switzerland** (1994) | Heroin-assisted treatment (HAT) - prescribed pharmaceutical heroin for severe addiction. Safe consumption sites in every major city. | Overdose deaths dropped **50%**. HIV transmission dropped **65%**. Crime associated with drug use dropped dramatically. Public support for the program exceeds 70%. |
-| **Netherlands** | Pragmatic tolerance. Coffee shops sell cannabis legally. Safe consumption sites. Treatment emphasis. | Drug use rates comparable to strict-prohibition countries. Overdose deaths among lowest in Europe. System costs less than criminalization. |
-| **Czech Republic** (2010) | Decriminalized personal possession of all drugs. Health-focused approach. | No increase in drug use. Reduced stigma. Better health outcomes for drug users. |
-| **Canada** (Vancouver) | Insite supervised consumption site operating since 2003. Legal challenge reached Supreme Court (upheld). | 1,500+ overdose interventions. Zero deaths. 33% increase in detox program enrollment by nearby residents. Reduced public injection by 65%. |
-| **USA** (Drug War, 1971-present) | Criminalization. $1 trillion+ spent on enforcement. Mass incarceration. | **Highest overdose death rate in the world. Highest incarceration rate on Earth. Drug use has not decreased.** The most expensive and least effective approach ever attempted. |
+| Country                          | Model                                                                                                                                                          | Result                                                                                                                                                                         |
+| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Portugal** (2001)              | Decriminalized all drugs. Redirected enforcement budget to treatment. Dissuasion commissions (health professionals, not judges) meet with people caught using. | HIV infections among drug users dropped **95%**. Overdose deaths dropped **80%**. Drug use rates below EU average. Incarceration for drug offenses dropped dramatically.       |
+| **Switzerland** (1994)           | Heroin-assisted treatment (HAT) - prescribed pharmaceutical heroin for severe addiction. Safe consumption sites in every major city.                           | Overdose deaths dropped **50%**. HIV transmission dropped **65%**. Crime associated with drug use dropped dramatically. Public support for the program exceeds 70%.            |
+| **Netherlands**                  | Pragmatic tolerance. Coffee shops sell cannabis legally. Safe consumption sites. Treatment emphasis.                                                           | Drug use rates comparable to strict-prohibition countries. Overdose deaths among lowest in Europe. System costs less than criminalization.                                     |
+| **Czech Republic** (2010)        | Decriminalized personal possession of all drugs. Health-focused approach.                                                                                      | No increase in drug use. Reduced stigma. Better health outcomes for drug users.                                                                                                |
+| **Canada** (Vancouver)           | Insite supervised consumption site operating since 2003. Legal challenge reached Supreme Court (upheld).                                                       | 1,500+ overdose interventions. Zero deaths. 33% increase in detox program enrollment by nearby residents. Reduced public injection by 65%.                                     |
+| **USA** (Drug War, 1971-present) | Criminalization. $1 trillion+ spent on enforcement. Mass incarceration.                                                                                        | **Highest overdose death rate in the world. Highest incarceration rate on Earth. Drug use has not decreased.** The most expensive and least effective approach ever attempted. |
 
 **Every single alternative approach - Portuguese decriminalization, Swiss harm reduction, Dutch pragmatism - produces better outcomes than American criminalization.** The evidence is not ambiguous. The war on drugs is the single most thoroughly disproven policy in modern history.
 
@@ -143,7 +151,7 @@ There are over 200 supervised consumption sites operating in 14 countries. Zero 
 This proposal decriminalizes personal use, not distribution. Manufacturing and trafficking remain criminal offenses. The distinction is simple: if you're sick, you need a doctor; if you're selling poison, you face consequences.
 
 **"What about Oregon? They tried decriminalization and reversed it."**
-Oregon's Measure 110 is the most common counterargument, so let's address it directly. Oregon decriminalized possession in 2020 and partially re-criminalized in 2024, citing rising overdose deaths. What actually happened: Oregon's overdose spike tracked the national fentanyl wave and began *before* Measure 110 took effect. States that did NOT decriminalize saw similar or worse increases. More critically, Oregon failed to build treatment infrastructure -- only 10% of allocated treatment funds were spent in the first two years (Oregon Health Authority, 2023). The failure was implementation, not the concept. Our proposal differs: we redirect enforcement budget directly to treatment (not waiting for cannabis tax revenue), mandate treatment on demand within 24 hours, and establish safe consumption sites. Oregon did none of these.
+Oregon's Measure 110 is the most common counterargument, so let's address it directly. Oregon decriminalized possession in 2020 and partially re-criminalized in 2024, citing rising overdose deaths. What actually happened: Oregon's overdose spike tracked the national fentanyl wave and began _before_ Measure 110 took effect. States that did NOT decriminalize saw similar or worse increases. More critically, Oregon failed to build treatment infrastructure -- only 10% of allocated treatment funds were spent in the first two years (Oregon Health Authority, 2023). The failure was implementation, not the concept. Our proposal differs: we redirect enforcement budget directly to treatment (not waiting for cannabis tax revenue), mandate treatment on demand within 24 hours, and establish safe consumption sites. Oregon did none of these.
 
 **"What about the impact on neighborhoods near safe consumption sites?"**
 Studies from Vancouver's Insite (operating since 2003), Sydney's MSIC, and European facilities consistently show: public drug use decreases near supervised consumption sites, discarded needles decrease, and crime does not increase (Potier et al., Drug and Alcohol Dependence, 2014). Community opposition is typically highest before sites open and drops sharply after residents see actual results.

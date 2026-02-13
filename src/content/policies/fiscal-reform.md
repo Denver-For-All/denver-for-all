@@ -1,37 +1,37 @@
 ---
-title: "Fiscal Reform & Progressive Revenue"
-titleEs: "Reforma Fiscal e Ingresos Progresivos"
+title: 'Fiscal Reform & Progressive Revenue'
+titleEs: 'Reforma Fiscal e Ingresos Progresivos'
 summary: "Fix Denver's broken revenue structure. Replace regressive sales taxes with progressive alternatives. Tackle the budget crisis without cutting services that working families depend on. Make corporations and wealthy property owners pay their fair share."
-summaryEs: "Arreglar la estructura de ingresos rota de Denver. Reemplazar los impuestos regresivos sobre las ventas con alternativas progresivas. Abordar la crisis presupuestaria sin recortar los servicios de los que dependen las familias trabajadoras. Hacer que las corporaciones y los grandes propietarios paguen su parte justa."
-category: "economy"
-icon: "landmark"
+summaryEs: 'Arreglar la estructura de ingresos rota de Denver. Reemplazar los impuestos regresivos sobre las ventas con alternativas progresivas. Abordar la crisis presupuestaria sin recortar los servicios de los que dependen las familias trabajadoras. Hacer que las corporaciones y los grandes propietarios paguen su parte justa.'
+category: 'economy'
+icon: 'landmark'
 order: 77
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "~50%"
-    label: "of Denver revenue from regressive sales tax"
-    labelEs: "de los ingresos de Denver de impuesto regresivo"
-    context: "Families earning $35K pay a higher effective tax rate than those earning $350K"
-    contextEs: "Familias que ganan $35K pagan una tasa efectiva mas alta que las que ganan $350K"
-    source: "Institute on Taxation and Economic Policy, 2018"
-    theme: "danger"
-  - value: "$115-175M"
-    label: "new progressive revenue per year"
-    labelEs: "nuevos ingresos progresivos por ano"
-    context: "Shifts the burden from working families to corporations and luxury property owners"
-    contextEs: "Traslada la carga de familias trabajadoras a corporaciones y propietarios de lujo"
-    theme: "primary"
+  - value: '~50%'
+    label: 'of Denver revenue from regressive sales tax'
+    labelEs: 'de los ingresos de Denver de impuesto regresivo'
+    context: 'Families earning $35K pay a higher effective tax rate than those earning $350K'
+    contextEs: 'Familias que ganan $35K pagan una tasa efectiva mas alta que las que ganan $350K'
+    source: 'Institute on Taxation and Economic Policy, 2018'
+    theme: 'danger'
+  - value: '$115-175M'
+    label: 'new progressive revenue per year'
+    labelEs: 'nuevos ingresos progresivos por ano'
+    context: 'Shifts the burden from working families to corporations and luxury property owners'
+    contextEs: 'Traslada la carga de familias trabajadoras a corporaciones y propietarios de lujo'
+    theme: 'primary'
 relatedLegislation:
-  - billNumber: "HB26-1119"
-    title: "Authority for Different Mill Levy Rates"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/hb26-1119"
-  - billNumber: "SB26-042"
-    title: "Revenue Classification Taxpayers Bill of Rights"
-    status: "Introduced - Assigned to Finance"
-    url: "https://leg.colorado.gov/bills/sb26-042"
+  - billNumber: 'HB26-1119'
+    title: 'Authority for Different Mill Levy Rates'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/hb26-1119'
+  - billNumber: 'SB26-042'
+    title: 'Revenue Classification Taxpayers Bill of Rights'
+    status: 'Introduced - Assigned to Finance'
+    url: 'https://leg.colorado.gov/bills/sb26-042'
 ---
 
 ## The Problem
@@ -110,19 +110,19 @@ New revenue streams are earmarked for services that directly benefit Denver's wo
 
 ### International Evidence: Progressive Revenue Works
 
-| City/Country | Model | Result |
-|-------------|-------|--------|
-| **Vienna, Austria** | High progressive property taxes on commercial and luxury residential. Dedicated housing tax funds the city's famous social housing system. | 60% of residents live in subsidized or public housing. City consistently ranked #1 in quality of life globally. Progressive taxation funds world-class public services. |
-| **Copenhagen, Denmark** | High property and income taxes fund universal services. Transparent budgeting with extensive public participation. | Residents pay more in taxes and get dramatically more in return: free healthcare, free education, excellent transit, clean environment. Consistently ranked among happiest cities globally. |
-| **Seoul, South Korea** | Comprehensive property tax reform targeting speculative holdings and luxury properties. Tiered rates based on number of properties owned. | Reduced speculative real estate investment, stabilized housing prices, generated progressive revenue for urban development. |
-| **Medellín, Colombia** | Progressive property taxation funds "social urbanism" — investments in the poorest neighborhoods through cable cars, libraries, parks, and schools. | Transformed the most dangerous city in the world into a model of urban innovation. Tax revenue directly invested in communities that needed it most. |
-| **Portland, OR** | Corporate head tax (Clean Energy Surcharge on large retailers). Progressive business tax based on revenue and CEO-to-worker pay ratio. | Generates $60-90M/year for clean energy and green jobs, paid by the largest corporations. Passed by voters with 65% support. |
+| City/Country            | Model                                                                                                                                               | Result                                                                                                                                                                                      |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vienna, Austria**     | High progressive property taxes on commercial and luxury residential. Dedicated housing tax funds the city's famous social housing system.          | 60% of residents live in subsidized or public housing. City consistently ranked #1 in quality of life globally. Progressive taxation funds world-class public services.                     |
+| **Copenhagen, Denmark** | High property and income taxes fund universal services. Transparent budgeting with extensive public participation.                                  | Residents pay more in taxes and get dramatically more in return: free healthcare, free education, excellent transit, clean environment. Consistently ranked among happiest cities globally. |
+| **Seoul, South Korea**  | Comprehensive property tax reform targeting speculative holdings and luxury properties. Tiered rates based on number of properties owned.           | Reduced speculative real estate investment, stabilized housing prices, generated progressive revenue for urban development.                                                                 |
+| **Medellín, Colombia**  | Progressive property taxation funds "social urbanism" — investments in the poorest neighborhoods through cable cars, libraries, parks, and schools. | Transformed the most dangerous city in the world into a model of urban innovation. Tax revenue directly invested in communities that needed it most.                                        |
+| **Portland, OR**        | Corporate head tax (Clean Energy Surcharge on large retailers). Progressive business tax based on revenue and CEO-to-worker pay ratio.              | Generates $60-90M/year for clean energy and green jobs, paid by the largest corporations. Passed by voters with 65% support.                                                                |
 
 **The US is an outlier in how little it taxes property and wealth at the local level.** Most peer nations fund local services through progressive property taxation, not regressive sales taxes. Denver's current model — high sales tax, low property tax — is exactly backwards from a progressive perspective.
 
 ## How We Pay For It
 
-This policy *is* the "how we pay for it." Estimated new annual revenue:
+This policy _is_ the "how we pay for it." Estimated new annual revenue:
 
 - Progressive property tax reform: $80-120M/year
 - Large employer head tax: $40-60M/year

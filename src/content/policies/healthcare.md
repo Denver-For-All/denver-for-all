@@ -1,52 +1,52 @@
 ---
-title: "Healthcare as a Right"
-titleEs: "La Salud como un Derecho"
-summary: "Medical debt forgiveness, hospital cost transparency, non-police mental health crisis response, community health centers in every neighborhood, dental care for all, and a behavioral health system that goes beyond crisis response."
-summaryEs: "Condonación de deuda médica, transparencia en costos hospitalarios, respuesta a crisis de salud mental sin policía, centros de salud comunitarios en cada vecindario, atención dental para todos y un sistema de salud conductual que va más allá de la respuesta a crisis."
-category: "health"
-icon: "heart-pulse"
+title: 'Healthcare as a Right'
+titleEs: 'La Salud como un Derecho'
+summary: 'Medical debt forgiveness, hospital cost transparency, non-police mental health crisis response, community health centers in every neighborhood, dental care for all, and a behavioral health system that goes beyond crisis response.'
+summaryEs: 'Condonación de deuda médica, transparencia en costos hospitalarios, respuesta a crisis de salud mental sin policía, centros de salud comunitarios en cada vecindario, atención dental para todos y un sistema de salud conductual que va más allá de la respuesta a crisis.'
+category: 'health'
+icon: 'heart-pulse'
 order: 20
-status: "draft"
-actionTarget: "mayor"
+status: 'draft'
+actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: "530,000/yr"
-    label: "Americans bankrupted by medical debt"
-    labelEs: "estadounidenses en bancarrota por deuda medica"
-    context: "Every other wealthy nation has zero. The US is the only one."
-    contextEs: "Todos los demas paises ricos tienen cero. EE.UU. es el unico."
-    theme: "danger"
-  - value: "$5M to $500M"
-    label: "city funds can erase up to $500M in debt"
-    labelEs: "fondos de la ciudad pueden borrar hasta $500M en deuda"
-    context: "Debt buyers pay 1-5 cents per dollar. The city buys it and cancels it."
-    contextEs: "Los compradores de deuda pagan 1-5 centavos por dolar. La ciudad la compra y la cancela."
-    source: "Undue Medical Debt program"
-    theme: "primary"
-  - value: "48th"
+  - value: '530,000/yr'
+    label: 'Americans bankrupted by medical debt'
+    labelEs: 'estadounidenses en bancarrota por deuda medica'
+    context: 'Every other wealthy nation has zero. The US is the only one.'
+    contextEs: 'Todos los demas paises ricos tienen cero. EE.UU. es el unico.'
+    theme: 'danger'
+  - value: '$5M to $500M'
+    label: 'city funds can erase up to $500M in debt'
+    labelEs: 'fondos de la ciudad pueden borrar hasta $500M en deuda'
+    context: 'Debt buyers pay 1-5 cents per dollar. The city buys it and cancels it.'
+    contextEs: 'Los compradores de deuda pagan 1-5 centavos por dolar. La ciudad la compra y la cancela.'
+    source: 'Undue Medical Debt program'
+    theme: 'primary'
+  - value: '48th'
     label: "Colorado's rank for mental health access"
-    labelEs: "posicion de Colorado en acceso a salud mental"
-    context: "Average wait for a therapy appointment in Denver is 6-8 weeks"
-    contextEs: "Espera promedio para una cita de terapia en Denver es 6-8 semanas"
-    source: "Mental Health America, 2024"
-    theme: "accent"
+    labelEs: 'posicion de Colorado en acceso a salud mental'
+    context: 'Average wait for a therapy appointment in Denver is 6-8 weeks'
+    contextEs: 'Espera promedio para una cita de terapia en Denver es 6-8 semanas'
+    source: 'Mental Health America, 2024'
+    theme: 'accent'
 relatedLegislation:
-  - billNumber: "SB26-008"
-    title: "Mental Health Access"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/sb26-008"
-  - billNumber: "HB26-1002"
-    title: "Provider Participation in Health Insurance"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/hb26-1002"
-  - billNumber: "HB26-1096"
-    title: "Colorado Medicaid Access to Primary Care Services"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/hb26-1096"
-  - billNumber: "SB26-041"
-    title: "Consumer Protections Medical Care Entities"
-    status: "Introduced - Assigned to Health & Human Services"
-    url: "https://leg.colorado.gov/bills/sb26-041"
+  - billNumber: 'SB26-008'
+    title: 'Mental Health Access'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/sb26-008'
+  - billNumber: 'HB26-1002'
+    title: 'Provider Participation in Health Insurance'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/hb26-1002'
+  - billNumber: 'HB26-1096'
+    title: 'Colorado Medicaid Access to Primary Care Services'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/hb26-1096'
+  - billNumber: 'SB26-041'
+    title: 'Consumer Protections Medical Care Entities'
+    status: 'Introduced - Assigned to Health & Human Services'
+    url: 'https://leg.colorado.gov/bills/sb26-041'
 ---
 
 ## The Problem
@@ -54,6 +54,7 @@ relatedLegislation:
 A single hospital stay in Denver can produce a bill of hundreds of thousands of dollars. Medical debt is a leading contributor to bankruptcy in America (Himmelstein et al., 2009; Dobkin et al., 2018 -- see FAQ for discussion of methodology). Denver Health, a public hospital, still sends patients to collections and places liens on homes. The system generates debt, not health.
 
 Meanwhile:
+
 - Denver has insufficient mental health crisis services - police respond to mental health emergencies they're not trained for, with predictable results
 - Entire neighborhoods lack accessible primary care
 - Prescription drugs cost 2-10x what they cost in other countries (RAND Corporation, 2021)
@@ -72,6 +73,7 @@ On dental care, Denver's FQHCs provide some dental services, but waitlists stret
 ## Our Solution
 
 ### 1. Denver Medical Debt Forgiveness Program
+
 - City purchases medical debt portfolios at pennies on the dollar (debt buyers typically pay 1-5 cents per dollar of debt)
 - Cancel all purchased debt - no strings attached
 - Estimated cost: $5M in city funds can forgive $100-500M in medical debt
@@ -79,13 +81,16 @@ On dental care, Denver's FQHCs provide some dental services, but waitlists stret
 - Ongoing program funded by hospital impact fees
 
 ### 2. Hospital Cost Transparency Act
+
 - All Denver hospitals must publish real prices (not chargemaster fiction) for the 200 most common procedures
 - Itemized bills required within 30 days - no more surprise charges appearing months later
 - Price variation reports published by the city quarterly
 - Penalties for price gouging: defined as charging uninsured patients more than 200% of Medicare rates
 
 ### 3. STAR Program (Support Team Assisted Response)
+
 Denver's STAR program is already proven to work. A January 2026 Urban Institute evaluation — the first study nationwide to measure individual-level outcomes following alternative response — found that STAR clients experienced a 16% reduction in subsequent police contacts and a 16% reduction in subsequent arrests, with two to three times larger reductions for people who had experienced homelessness. The program costs $237 per van response versus $1,011 for an average arrest. We expand it to meet its full potential:
+
 - 24/7 coverage with sufficient van units to meet full demand (currently limited to one 12-hour shift with 6-7 van units responding to just 45% of eligible calls; 9-10 concurrent units needed per Urban Institute analysis)
 - Mental health professionals + paramedics respond to mental health crises, substance use incidents, homelessness calls, and welfare checks
 - Expand the STAR Community Partner Network, which provides culturally responsive case management and follow-up care — operating since April 2023 with over 1,200 clients served and nearly 12,000 case management encounters
@@ -94,6 +99,7 @@ Denver's STAR program is already proven to work. A January 2026 Urban Institute 
 - Funding: Redirect 15% of police overtime budget to STAR expansion
 
 ### 4. Community Health Centers
+
 - Federally Qualified Health Center in every Denver neighborhood (currently significant gaps in low-income areas)
 - Sliding-scale fees based on income
 - Primary care, dental, vision, mental health, and substance use treatment
@@ -115,6 +121,7 @@ Denver's reproductive healthcare strategy is detailed in our standalone policy: 
 - Cross-reference: [LGBTQ+ Sanctuary & Protection](/platform/lgbtq-sanctuary) for the bodily autonomy framework connecting reproductive and gender-affirming healthcare
 
 ### 6. Dental Care for All
+
 Dental health is health. The separation of dental coverage from medical coverage is an artifact of insurance history, not biology. Untreated dental disease causes chronic pain, systemic infection, heart disease, diabetes complications, and job loss. It is concentrated in the same low-income neighborhoods that lack every other form of healthcare access.
 
 - **Mobile dental clinics**: city-funded mobile dental units rotating through every food desert and dental desert neighborhood on a weekly schedule — providing cleanings, fillings, extractions, and referrals. No appointment needed. No insurance required. Sliding-scale fees. Philadelphia, Boston, and San Antonio have demonstrated that mobile dental programs reach populations that brick-and-mortar clinics do not
@@ -124,6 +131,7 @@ Dental health is health. The separation of dental coverage from medical coverage
 - **Denture and prosthetic program**: city-funded dentures and dental prosthetics for uninsured and Medicaid adults. Missing teeth affect nutrition, speech, employment, and dignity. Colorado Medicaid does not cover adult dentures. Denver fills the gap
 
 ### 7. Behavioral Health Continuum
+
 STAR handles the crisis. The drug policy handles decriminalization and harm reduction. But between the emergency and the addiction, there is an enormous unmet need: the person who needs a therapist and cannot find one. The child whose anxiety is escalating and whose parents are told the next available appointment is in three months. The veteran, the trauma survivor, the grieving parent — people who need care now, not in eight weeks.
 
 - **Behavioral Health Access Guarantee**: no Denver resident waits more than 2 weeks for an initial outpatient mental health or substance use appointment. City contracts with WellPower, Denver Health behavioral health, and private providers to guarantee appointment availability. The city fills access gaps with direct funding where the market fails
@@ -135,14 +143,14 @@ STAR handles the crisis. The drug policy handles decriminalization and harm redu
 
 ### International Evidence: We Pay More and Get Less
 
-| Country | Model | Cost per Capita | Life Expectancy | Medical Bankruptcies |
-|---------|-------|-----------------|-----------------|---------------------|
-| **Germany** | All-payer rate setting - all insurers pay same negotiated rates. No surprise billing. | $7,383 | 81.4 years | 0 |
-| **Japan** | Government reference pricing for all procedures. | $4,691 | 84.8 years | 0 |
-| **Taiwan** | Single-payer since 1995. Smart card system. | $3,047 | 80.9 years | 0 |
-| **UK (NHS)** | Government-run. Free at point of use. | $5,138 | 81.4 years | 0 |
-| **France** | Universal multi-payer. Government covers 70-100% of costs. | $5,564 | 82.5 years | 0 |
-| **USA** | Market-based. Unregulated pricing. | **$12,555** | **77.5 years** | **530,000/year** |
+| Country      | Model                                                                                 | Cost per Capita | Life Expectancy | Medical Bankruptcies |
+| ------------ | ------------------------------------------------------------------------------------- | --------------- | --------------- | -------------------- |
+| **Germany**  | All-payer rate setting - all insurers pay same negotiated rates. No surprise billing. | $7,383          | 81.4 years      | 0                    |
+| **Japan**    | Government reference pricing for all procedures.                                      | $4,691          | 84.8 years      | 0                    |
+| **Taiwan**   | Single-payer since 1995. Smart card system.                                           | $3,047          | 80.9 years      | 0                    |
+| **UK (NHS)** | Government-run. Free at point of use.                                                 | $5,138          | 81.4 years      | 0                    |
+| **France**   | Universal multi-payer. Government covers 70-100% of costs.                            | $5,564          | 82.5 years      | 0                    |
+| **USA**      | Market-based. Unregulated pricing.                                                    | **$12,555**     | **77.5 years**  | **530,000/year**     |
 
 **We pay the most and live the shortest.** The US spends twice what Germany spends per person and gets 4 fewer years of life expectancy and half a million bankruptcies. A child's NICU stay costs a family $0 in Germany. In Denver, it can cost millions.
 

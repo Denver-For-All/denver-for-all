@@ -30,3 +30,6 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Check translation coverage
+        run: node scripts/translate/check-coverage.js

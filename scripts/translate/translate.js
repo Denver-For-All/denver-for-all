@@ -67,6 +67,7 @@ const args = process.argv.slice(2);
 const langFilter = getArg('--lang');
 const typeFilter = getArg('--type');
 const dryRun = args.includes('--dry-run');
+const ciMode = args.includes('--ci');
 const concurrency = parseInt(getArg('--concurrency') || '3', 10);
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -308,20 +309,30 @@ async function main() {
 
   const startTime = Date.now();
   let totalCalls = 0;
+  let totalFailures = 0;
+  const results = {};
 
   for (const lang of langs) {
     console.log(`\n── ${LANGUAGES[lang].name} (${LANGUAGES[lang].nativeName}) ──`);
     const langOutDir = join(OUTPUT, lang);
     mkdirSync(langOutDir, { recursive: true });
+    results[lang] = {};
 
     for (const type of types) {
       console.log(`\n  → ${type}`);
       try {
         const calls = await TASK_MAP[type](lang);
         totalCalls += calls;
+        results[lang][type] = { status: 'ok', calls };
         console.log(`  ✓ ${type} complete (${calls} API calls)`);
       } catch (err) {
+        totalFailures++;
+        results[lang][type] = { status: 'failed', error: err.message };
         console.error(`  ✗ ${type} FAILED: ${err.message}`);
+        if (ciMode) {
+          console.log(`::warning title=Translation failed: ${lang}/${type}::${err.message}`);
+        }
+        // Continue to next type — don't abort the whole run
       }
     }
   }
@@ -332,6 +343,7 @@ async function main() {
   console.log('  Translation complete!');
   console.log('═══════════════════════════════════════════════════════');
   console.log(`  API calls:     ${totalCalls}`);
+  console.log(`  Failures:      ${totalFailures}`);
   console.log(`  Input tokens:  ${inputTokens.toLocaleString()}`);
   console.log(`  Output tokens: ${outputTokens.toLocaleString()}`);
   console.log(`  Elapsed:       ${elapsed}s`);
@@ -344,10 +356,31 @@ async function main() {
     console.log(`  Est. cost:     $${(costIn + costOut).toFixed(2)} (in: $${costIn.toFixed(2)}, out: $${costOut.toFixed(2)})`);
   }
 
+  // Write machine-readable summary for CI
+  if (ciMode) {
+    const summary = {
+      timestamp: new Date().toISOString(),
+      model: MODEL,
+      apiCalls: totalCalls,
+      failures: totalFailures,
+      inputTokens,
+      outputTokens,
+      elapsedSeconds: parseFloat(elapsed),
+      results,
+    };
+    writeFileSync(join(OUTPUT, 'summary.json'), JSON.stringify(summary, null, 2));
+    console.log(`\n  CI summary written to: ${join(OUTPUT, 'summary.json')}`);
+  }
+
   console.log(`\n  Next steps:`);
   console.log(`  1. Review output in ${OUTPUT}/<lang>/`);
   console.log(`  2. Run: node scripts/translate/hydrate.js to place translations into the codebase`);
   console.log('═══════════════════════════════════════════════════════');
+
+  // In CI, exit non-zero only if ALL translations failed
+  if (ciMode && totalCalls === 0 && totalFailures > 0) {
+    process.exit(1);
+  }
 }
 
 // ─── Helpers ────────────────────────────────────────────────────────────────

@@ -1,0 +1,187 @@
+name: Translate Content
+
+on:
+  workflow_dispatch:
+    inputs:
+      languages:
+        description: 'Languages to translate (comma-separated, or "all")'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - vi
+          - zh
+          - ar
+          - am
+          - vi,zh
+          - ar,am
+      content_types:
+        description: 'Content types to translate (comma-separated, or "all")'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - ui-strings
+          - page-meta
+          - policy-frontmatter
+          - policy-bodies
+          - grant-bodies
+          - ui-strings,page-meta,policy-frontmatter
+      dry_run:
+        description: 'Dry run (no API calls, just show plan)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Extract content
+        run: node scripts/translate/extract-content.js
+
+      - name: Run translation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          LANGS="${{ inputs.languages }}"
+          TYPES="${{ inputs.content_types }}"
+          DRY="${{ inputs.dry_run }}"
+
+          build_cmd() {
+            local cmd="node scripts/translate/translate.js --ci"
+            [ "$1" != "" ] && cmd="$cmd --lang $1"
+            [ "$2" != "" ] && cmd="$cmd --type $2"
+            [ "$DRY" = "true" ] && cmd="$cmd --dry-run"
+            echo "$cmd"
+          }
+
+          if [ "$LANGS" = "all" ] && [ "$TYPES" = "all" ]; then
+            CMD=$(build_cmd "" "")
+            echo "Running: $CMD"
+            $CMD
+          elif [ "$LANGS" = "all" ]; then
+            IFS=',' read -ra TYPE_ARRAY <<< "$TYPES"
+            for type in "${TYPE_ARRAY[@]}"; do
+              CMD=$(build_cmd "" "$type")
+              echo "Running: $CMD"
+              $CMD
+            done
+          elif [ "$TYPES" = "all" ]; then
+            IFS=',' read -ra LANG_ARRAY <<< "$LANGS"
+            for lang in "${LANG_ARRAY[@]}"; do
+              CMD=$(build_cmd "$lang" "")
+              echo "Running: $CMD"
+              $CMD
+            done
+          else
+            IFS=',' read -ra LANG_ARRAY <<< "$LANGS"
+            IFS=',' read -ra TYPE_ARRAY <<< "$TYPES"
+            for lang in "${LANG_ARRAY[@]}"; do
+              for type in "${TYPE_ARRAY[@]}"; do
+                CMD=$(build_cmd "$lang" "$type")
+                echo "Running: $CMD"
+                $CMD
+              done
+            done
+          fi
+
+      - name: Validate translations
+        if: inputs.dry_run == false
+        run: node scripts/translate/validate.js || echo "::warning::Validation found issues — review logs above."
+
+      - name: Hydrate translations into codebase
+        if: inputs.dry_run == false
+        run: node scripts/translate/hydrate.js
+
+      - name: Check for changes
+        if: inputs.dry_run == false
+        id: changes
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create Pull Request
+        if: inputs.dry_run == false && steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          LANGS="${{ inputs.languages }}"
+          TYPES="${{ inputs.content_types }}"
+          DATE=$(date +%Y-%m-%d)
+          BRANCH="translate/${DATE}-${LANGS//,/-}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add -A
+          git commit -m "chore: update translations (${LANGS}, ${TYPES})"
+          git push -u origin "$BRANCH"
+
+          gh pr create \
+            --title "chore: update translations (${LANGS})" \
+            --body "$(cat <<EOF
+          ## Translation Update
+
+          **Languages:** \`${LANGS}\`
+          **Content types:** \`${TYPES}\`
+          **Model:** Claude Haiku 4.5
+          **Date:** ${DATE}
+
+          ### Review checklist
+
+          - [ ] Spot-check Vietnamese (vi) translations
+          - [ ] Spot-check Chinese (zh) translations
+          - [ ] Spot-check Arabic (ar) — verify RTL punctuation
+          - [ ] **Amharic (am) — must be reviewed by native speaker**
+          - [ ] Search for \`[REVIEW:\` flags in Amharic files
+          - [ ] Build passes (\`npm run build\`)
+
+          ### What this PR contains
+
+          Translated content generated by the [Translate Content workflow](../../actions/workflows/translate.yml).
+          Files placed into:
+          - \`src/i18n/<lang>.json\` — UI strings
+          - \`src/i18n/policy-meta-<lang>.json\` — Policy titles/summaries
+          - \`src/content/policies-<lang>/\` — Policy body markdown
+
+          > **Note:** Amharic is a low-resource language for LLMs (12-20% quality gap vs English).
+          > All Amharic translations should be reviewed by a native speaker before merging.
+          EOF
+          )"
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            echo "### Dry Run Complete" >> "$GITHUB_STEP_SUMMARY"
+            echo "No API calls were made. Review the logs for the translation plan." >> "$GITHUB_STEP_SUMMARY"
+          elif [ "${{ steps.changes.outputs.has_changes }}" = "true" ]; then
+            echo "### Translation PR Created" >> "$GITHUB_STEP_SUMMARY"
+            echo "A pull request has been created with the translated content." >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "**Languages:** \`${{ inputs.languages }}\`" >> "$GITHUB_STEP_SUMMARY"
+            echo "**Types:** \`${{ inputs.content_types }}\`" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "### No Changes" >> "$GITHUB_STEP_SUMMARY"
+            echo "All translations are already up to date." >> "$GITHUB_STEP_SUMMARY"
+          fi

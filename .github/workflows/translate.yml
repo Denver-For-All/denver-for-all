@@ -102,7 +102,7 @@ jobs:
 
       - name: Run translation (${{ matrix.language }})
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           TYPES="${{ inputs.content_types }}"
           if [ "$TYPES" = "all" ]; then
@@ -193,7 +193,7 @@ jobs:
 
           **Languages:** \`${LANGS}\`
           **Content types:** \`${TYPES}\`
-          **Model:** Claude Haiku 4.5
+          **Model:** Gemini 2.0 Flash
           **Date:** ${DATE}
 
           ### Review checklist

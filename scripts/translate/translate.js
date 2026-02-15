@@ -2,18 +2,18 @@
 /**
  * translate.js — Batch translation runner for Denver For All
  *
- * Translates all extracted content using the Anthropic API (Claude Haiku 4.5).
+ * Translates all extracted content using the Google Gemini API (Gemini 2.0 Flash).
  * Run extract-content.js first to generate the source material.
  *
  * Usage:
  *   # Translate everything for all 4 new languages:
- *   ANTHROPIC_API_KEY=sk-... node scripts/translate/translate.js
+ *   GEMINI_API_KEY=... node scripts/translate/translate.js
  *
  *   # Translate a single language:
- *   ANTHROPIC_API_KEY=sk-... node scripts/translate/translate.js --lang vi
+ *   GEMINI_API_KEY=... node scripts/translate/translate.js --lang vi
  *
  *   # Translate only a specific content type:
- *   ANTHROPIC_API_KEY=sk-... node scripts/translate/translate.js --lang zh --type ui-strings
+ *   GEMINI_API_KEY=... node scripts/translate/translate.js --lang zh --type ui-strings
  *
  *   # Dry run (show what would be translated without calling the API):
  *   node scripts/translate/translate.js --dry-run
@@ -27,7 +27,7 @@
  *   --concurrency N  Max concurrent API calls (default: 2)
  *
  * Environment:
- *   ANTHROPIC_API_KEY   Required (unless --dry-run)
+ *   GEMINI_API_KEY   Required (unless --dry-run)
  *
  * Output goes to: scripts/translate/output/<lang>/
  */
@@ -37,9 +37,9 @@ import { join, basename } from 'path';
 
 // ─── Config ─────────────────────────────────────────────────────────────────
 
-const MODEL = 'claude-haiku-4-5-20251001';
+const MODEL = 'gemini-2.0-flash';
 const MAX_TOKENS = 8192;
-const API_URL = 'https://api.anthropic.com/v1/messages';
+const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
 const MAX_RETRIES = 6;
 const REQUEST_DELAY_MS = 500; // Minimum ms between API calls to avoid bursts
 
@@ -72,9 +72,9 @@ const dryRun = args.includes('--dry-run');
 const ciMode = args.includes('--ci');
 const concurrency = parseInt(getArg('--concurrency') || '2', 10);
 
-const API_KEY = process.env.ANTHROPIC_API_KEY;
+const API_KEY = process.env.GEMINI_API_KEY;
 if (!API_KEY && !dryRun) {
-  console.error('Error: ANTHROPIC_API_KEY environment variable is required.');
+  console.error('Error: GEMINI_API_KEY environment variable is required.');
   console.error('Set it or use --dry-run to preview the translation plan.');
   process.exit(1);
 }
@@ -157,11 +157,18 @@ async function translate(lang, taskType, content) {
     return '[DRY RUN — no output]';
   }
 
+  const apiUrl = `${API_BASE}/${MODEL}:generateContent?key=${API_KEY}`;
+
   const body = {
-    model: MODEL,
-    max_tokens: MAX_TOKENS,
-    system: systemPrompt,
-    messages: [{ role: 'user', content: userMessage }],
+    systemInstruction: {
+      parts: [{ text: systemPrompt }],
+    },
+    contents: [
+      { role: 'user', parts: [{ text: userMessage }] },
+    ],
+    generationConfig: {
+      maxOutputTokens: MAX_TOKENS,
+    },
   };
 
   await throttle();
@@ -169,12 +176,10 @@ async function translate(lang, taskType, content) {
   // Retry with exponential backoff + jitter
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
     try {
-      const resp = await fetch(API_URL, {
+      const resp = await fetch(apiUrl, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'x-api-key': API_KEY,
-          'anthropic-version': '2023-06-01',
         },
         body: JSON.stringify(body),
       });
@@ -200,10 +205,10 @@ async function translate(lang, taskType, content) {
 
       const data = await resp.json();
       apiCalls++;
-      inputTokens += data.usage?.input_tokens || 0;
-      outputTokens += data.usage?.output_tokens || 0;
+      inputTokens += data.usageMetadata?.promptTokenCount || 0;
+      outputTokens += data.usageMetadata?.candidatesTokenCount || 0;
 
-      return data.content[0].text;
+      return data.candidates[0].content.parts[0].text;
     } catch (err) {
       if (attempt < MAX_RETRIES - 1) {
         const wait = Math.pow(2, attempt + 1) * 1000 + Math.random() * 1000;
@@ -435,9 +440,9 @@ async function main() {
   console.log(`  Output:        ${OUTPUT}`);
 
   if (!dryRun) {
-    // Rough cost estimate for Haiku 4.5 ($0.80/MTok input, $4/MTok output)
-    const costIn = (inputTokens / 1_000_000) * 0.80;
-    const costOut = (outputTokens / 1_000_000) * 4.00;
+    // Rough cost estimate for Gemini 2.0 Flash ($0.10/MTok input, $0.40/MTok output)
+    const costIn = (inputTokens / 1_000_000) * 0.10;
+    const costOut = (outputTokens / 1_000_000) * 0.40;
     console.log(`  Est. cost:     $${(costIn + costOut).toFixed(2)} (in: $${costIn.toFixed(2)}, out: $${costOut.toFixed(2)})`);
   }
 

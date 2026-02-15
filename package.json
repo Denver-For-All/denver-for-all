@@ -16,6 +16,7 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
+    "format:report": "prettier --list-different . | tee prettier-report.txt || true",
     "test": "vitest run",
     "test:watch": "vitest",
     "deploy:evictions": "cd workers/eviction-scraper && npx wrangler deploy",

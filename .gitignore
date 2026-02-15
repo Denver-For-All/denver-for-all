@@ -8,5 +8,6 @@ dist/
 .dev.vars
 .DS_Store
 *.log
+prettier-report.txt
 scripts/translate/output/
 scripts/translate/extracted/

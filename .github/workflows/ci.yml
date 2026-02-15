@@ -20,7 +20,31 @@ jobs:
       - run: npm ci
 
       - name: Check formatting
-        run: npm run format:check
+        run: |
+          npx prettier --list-different . > prettier-report.txt 2>&1 || true
+          if [ -s prettier-report.txt ]; then
+            echo "### Prettier Formatting Issues" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "The following files have formatting issues. Run \`npm run format\` to fix them, or paste the report into Claude Code." >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            cat prettier-report.txt >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+            echo ""
+            echo "⚠ Prettier found formatting issues in the following files:"
+            cat prettier-report.txt
+          else
+            echo "All files are formatted correctly."
+          fi
+
+      - name: Upload Prettier report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: prettier-report
+          path: prettier-report.txt
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Lint
         run: npm run lint

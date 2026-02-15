@@ -3,81 +3,81 @@
 
 ## El Problema
 
-Miles de unidades de vivienda en Denver estan vacantes -- mantenidas por especuladores esperando que los precios suban, por inversionistas que tratan la vivienda como un activo financiero, o simplemente abandonadas por propietarios negligentes. Mientras tanto, 7,500 personas estan sin hogar y miles mas estan a un aumento de alquiler de ser desplazadas.
+Miles de unidades de vivienda en Denver permanecen vacías, retenidas por especuladores que esperan que los precios suban, por inversores que tratan la vivienda como un activo financiero o simplemente abandonadas por propietarios negligentes. Mientras tanto, 7.500 personas no tienen hogar y miles más están a un aumento de alquiler del desplazamiento.
 
-Las viviendas vacias en vecindarios ocupados atraen el crimen, reducen el valor de las propiedades de los vecinos y representan una obscenidad moral en una ciudad con crisis de vivienda.
+Las viviendas vacías en vecindarios ocupados atraen la delincuencia, reducen el valor de las propiedades para los vecinos y representan una obscenidad moral en una ciudad con una crisis de vivienda.
 
 ### Lo Que Denver Hace Actualmente
 
-Denver actualmente **no tiene impuesto a la vacancia ni penalidad por propiedades residenciales vacias**. La American Community Survey (2022) del U.S. Census Bureau estima la tasa de vacancia residencial de Denver en aproximadamente 5-7%, lo que implica 5,000-8,000 unidades vacantes. Algunas de estas estan en el proceso normal de "en venta" o "en alquiler", pero un numero significativo se mantiene vacante por especulacion o simplemente esta abandonado.
+Denver actualmente **no tiene un impuesto a la vivienda vacía ni una sanción por propiedades residenciales vacías**. La Encuesta sobre la Comunidad Estadounidense (American Community Survey) de la Oficina del Censo de los EE. UU. (2022) estima la tasa de viviendas residenciales vacías de Denver en aproximadamente 5-7%, lo que implica entre 5.000 y 8.000 unidades vacías. Algunas de estas están en el proceso normal "en venta" o "en alquiler", pero un número significativo se mantiene vacante para la especulación o simplemente se abandonan.
 
-**Nota legal critica: TABOR.** El Taxpayer Bill of Rights de Colorado (Articulo X, Seccion 20 de la Constitucion de Colorado) requiere aprobacion de los votantes para cualquier nuevo impuesto. Un impuesto a la vacancia en Denver necesitaria ir a los votantes como medida de votacion. Esto no es una barrera -- es un proceso democratico. Los votantes de Denver han aprobado repetidamente medidas de votacion para causas progresistas (banda ancha municipal en 2018, Proposition 123 para vivienda en 2022). Un impuesto a la vacancia con ingresos dedicados a vivienda asequible es una propuesta de votacion fuerte.
+**Nota legal crítica: TABOR.** La Carta de Derechos del Contribuyente de Colorado (Artículo X, Sección 20 de la Constitución de Colorado) requiere la aprobación de los votantes para cualquier impuesto nuevo. Un impuesto a la vivienda vacía en Denver tendría que someterse a votación como una medida electoral. Esto no es una barrera, es un proceso democrático. Los votantes de Denver han aprobado repetidamente medidas electorales para causas progresistas (banda ancha municipal en 2018, Proposición 123 para la vivienda en 2022). Un impuesto a la vivienda vacía con ingresos dedicados a la vivienda asequible es una propuesta electoral sólida.
 
-## Nuestra Solucion
+## Nuestra Solución
 
-### Impuesto Progresivo a la Vacancia
+### Impuesto Progresivo a la Vivienda Vacía
 
-Un impuesto sobre propiedades residenciales que permanezcan vacantes por mas de 6 meses en un ano calendario, que escala con el tiempo:
+Un impuesto sobre las propiedades residenciales que permanecen vacantes durante más de 6 meses en un año calendario, que aumenta con el tiempo:
 
-| Ano Vacante | Tasa Impositiva (% del valor tasado) |
-| ----------- | ------------------------------------ |
-| Ano 1       | 1%                                   |
-| Ano 2       | 2%                                   |
-| Ano 3       | 3%                                   |
-| Ano 4       | 4%                                   |
-| Ano 5+      | 5%                                   |
+| Año Vacante | Tasa de Impuesto (% del valor tasado) |
+| ----------- | ------------------------------ |
+| Año 1      | 1%                             |
+| Año 2      | 2%                             |
+| Año 3      | 3%                             |
+| Año 4      | 4%                             |
+| Año 5+     | 5%                             |
 
-**En una vivienda tasada en $500,000:**
+**En una vivienda tasada en $500.000:**
 
-- Ano 1 vacante: $5,000 de impuesto
-- Ano 3 vacante: $15,000 de impuesto
-- Ano 5+ vacante: $25,000/ano
+- Año 1 vacante: $5.000 de impuesto
+- Año 3 vacante: $15.000 de impuesto
+- Año 5+ vacante: $25.000/año
 
-Esto hace que la especulacion sea cada vez mas costosa mientras da a los propietarios tiempo razonable para renovar o vender.
+Esto hace que la especulación sea cada vez más costosa, al tiempo que brinda a los propietarios un tiempo razonable para renovar o vender.
 
-**Exenciones (limitadas y especificas):**
+**Exenciones (estrechas y específicas):**
 
-- Renovacion activa con permisos validos (maximo 12 meses)
-- Propietario en atencion medica o despliegue militar (documentado)
-- Propiedad activamente listada para venta a valor justo de mercado (maximo 6 meses)
-- Patrimonio en sucesion (maximo 12 meses)
+- Renovación activa con permisos válidos (máximo de 12 meses)
+- Propietario en atención médica o despliegue militar (documentado)
+- Propiedad activamente listada para la venta a valor justo de mercado (máximo de 6 meses)
+- Patrimonio en proceso de sucesión (máximo de 12 meses)
 
 **Sin exenciones para:**
 
 - "Planear renovar" sin permisos
-- Mantener para desarrollo futuro sin cronograma
-- Gestion de portafolio corporativo
-- Viviendas estacionales/vacacionales (si el propietario no tiene residencia principal en Denver)
+- Retener para desarrollo futuro sin cronograma
+- Gestión de cartera corporativa
+- Viviendas de temporada/vacaciones (si el propietario no tiene una residencia principal en Denver)
 
-**Cumplimiento:** Se requiere registro anual de vacancia. Los inspectores de la ciudad verifican la vacancia mediante datos de servicios publicos (agua, electricidad), inspeccion fisica e informes de vecinos. Falta de registro: tasa automatica del 5%.
+**Cumplimiento:** Se requiere el registro anual de vivienda vacía. Los inspectores de la ciudad verifican la vivienda vacía a través de datos de uso de servicios públicos (agua, electricidad), inspección física e informes de vecinos. Falta de registro: tasa automática del 5%.
 
-**Ingresos:** Todos los ingresos del impuesto a la vacancia se dedican al Denver Affordable Housing Trust Fund, especificamente para adquisicion de vivienda social y fideicomisos de tierras comunitarios.
+**Ingresos:** Todos los ingresos del impuesto a la vivienda vacía se dedican al Fondo Fiduciario de Vivienda Asequible de Denver, específicamente para la adquisición de viviendas sociales y los fideicomisos de tierras comunitarias.
 
-**Ingresos estimados:** $50-80M/ano (basado en 5,000-8,000 unidades vacantes estimadas y tasas escalonadas)
+**Ingresos estimados:** $50-80 millones/año (basado en un estimado de 5.000-8.000 unidades vacías y tasas crecientes)
 
-### Evidencia Internacional: Los Impuestos a la Vacancia Funcionan
+### Evidencia Internacional: Los Impuestos a la Vivienda Vacía Funcionan
 
-| Ciudad/Pais                       | Modelo                                                                                       | Resultado                                                                                                                                                         |
-| --------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Vancouver, Canada**             | 1% Empty Homes Tax (2017), aumentado a 3% (2021).                                            | La tasa de vacancia bajo un 25% en el primer ano. Genero mas de $170M CAD en ingresos acumulados (2017-2023). Miles de unidades devueltas al mercado de alquiler. |
-| **Melbourne, Australia**          | 1% Vacant Residential Land Tax sobre propiedades vacantes por 6+ meses.                      | Ingresos dedicados a vivienda asequible. Las propiedades vacantes disminuyeron de manera medible.                                                                 |
-| **Paris, Francia**                | _Taxe sur les logements vacants_ - impuesto progresivo sobre viviendas vacantes por 1+ anos. | Las vacancias en Paris disminuyeron. Los ingresos financian la construccion de vivienda social.                                                                   |
-| **Reino Unido (varios consejos)** | Recargo al council tax de hasta 300% sobre propiedades vacias a largo plazo.                 | Miles de viviendas vacias devueltas al uso.                                                                                                                       |
-| **Washington, DC**                | Impuesto a propiedades vacantes de 5 veces la tasa estandar.                                 | Una de las tasas de impuesto a la vacancia mas altas en EE.UU. Desincentiva la especulacion y el acaparamiento de terrenos.                                       |
+| Ciudad/País              | Modelo                                                                        | Resultado                                                                                                                                        |
+| ------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vancouver, Canadá**     | Impuesto del 1% sobre Viviendas Vacías (2017), aumentado al 3% (2021).                           | La tasa de viviendas vacías se redujo un 25% en el primer año. Generó más de $170 millones CAD en ingresos acumulativos (2017-2023). Miles de unidades regresaron al mercado de alquiler. |
+| **Melbourne, Australia**  | Impuesto del 1% sobre Terrenos Residenciales Vacantes en propiedades vacantes durante más de 6 meses.               | Ingresos dedicados a la vivienda asequible. Las propiedades vacantes disminuyeron de manera medible.                                                              |
+| **París, Francia**         | _Taxe sur les logements vacants_ - impuesto progresivo sobre viviendas vacantes durante más de 1 año. | Las viviendas vacías en París disminuyeron. Los ingresos financian la construcción de viviendas sociales.                                                                      |
+| **Reino Unido (varios concejos)** | Recargo del impuesto municipal de hasta el 300% en propiedades vacías a largo plazo.           | Miles de viviendas vacías fueron puestas nuevamente en uso.                                                                                               |
+| **Washington, DC**        | Impuesto sobre la propiedad vacante a 5 veces la tasa estándar.                                 | Una de las tasas impositivas a la vivienda vacía más altas de los EE. UU. Desalienta la especulación y la acumulación de tierras.                                                     |
 
-**El patron es claro:** las ciudades que gravan propiedades vacantes consistentemente ven disminuir las vacancias y aumentar la oferta de vivienda. Es una de las herramientas de politica de vivienda mas simples y probadas disponibles.
+**El patrón es claro:** las ciudades que gravan las propiedades vacantes constantemente ven disminuir las viviendas vacías y aumentar la oferta de vivienda. Es una de las herramientas de política de vivienda más simples y probadas disponibles.
 
-## Como Lo Pagamos
+## Cómo Lo Financiamos
 
-Este es un generador de ingresos, no un costo. Los costos de administracion ($1-2M/ano) son cubiertos muchas veces por los ingresos generados.
+Este es un generador de ingresos, no un costo. Los costos de administración ($1-2 millones/año) se cubren muchas veces con los ingresos generados.
 
 ## Preguntas Frecuentes
 
-**"Que hay de los derechos de propiedad?"**
-Tienes derecho a ser dueno de propiedad. No tienes derecho a acaparar vivienda durante una crisis. Las ciudades gravan la propiedad para escuelas, carreteras y servicios. Este es el mismo principio: tu propiedad vacante impone costos a la comunidad, y la comunidad tiene derecho a una compensacion.
+**"¿Qué pasa con los derechos de propiedad?"**
+Usted tiene derecho a poseer una propiedad. No tiene derecho a acaparar viviendas durante una crisis. Las ciudades gravan la propiedad para escuelas, carreteras y servicios. Este es el mismo principio: su propiedad vacante impone costos a la comunidad, y la comunidad tiene derecho a una compensación.
 
-**"Los propietarios no simplemente reclamaran que la propiedad esta ocupada?"**
-Los datos de servicios publicos no mienten. Una unidad que usa cero agua y minima electricidad durante 6 meses esta vacante. Combinado con inspecciones fisicas e informes de vecinos, la evasion es dificil y las sanciones por informes falsos son severas.
+**"¿No afirmarán los propietarios que la propiedad está ocupada?"**
+Los datos de los servicios públicos no mienten. Una unidad que usa cero agua y una electricidad mínima durante 6 meses está vacante. Combinado con inspecciones físicas e informes de vecinos, la evasión es difícil y las sanciones por informes falsos son severas.
 
-**"Esto perjudicara a personas que estan renovando."**
-La exencion de renovacion de 12 meses con permisos validos cubre las renovaciones legitimas. Si tu "renovacion" toma 3 anos sin permisos, no es una renovacion -- es especulacion.
+**"Esto perjudicará a las personas que están renovando."**
+La exención de renovación de 12 meses con permisos válidos cubre las renovaciones legítimas. Si su "renovación" toma 3 años sin permisos, no es una renovación, es especulación.

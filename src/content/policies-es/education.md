@@ -3,57 +3,57 @@
 
 ## El Problema
 
-El sistema educativo de Denver reproduce la desigualdad en lugar de abordarla. Los vecindarios de bajos ingresos tienen escuelas con recursos insuficientes. Los maestros no pueden pagar vivir en la ciudad donde enseñan. La expansión de escuelas chárter ha desviado dinero público a operadores privados. Y miles de niños de Denver carecen de acceso a pre-K, programas extracurriculares y comidas escolares.
+El sistema educativo de Denver reproduce la desigualdad en lugar de abordarla. Los vecindarios de bajos ingresos tienen escuelas con pocos recursos. Los maestros no pueden darse el lujo de vivir en la ciudad donde enseñan. La expansión de las escuelas charter ha desviado dinero público a operadores privados. Y miles de niños de Denver carecen de acceso a programas de preescolar, actividades extraescolares y comidas escolares.
 
-- El salario promedio de los maestros de Denver: ~$58K. El alquiler medio en Denver requiere ~$55K solo para vivienda. Los maestros se están yendo.
-- DPS ha impulsado una expansión agresiva de escuelas chárter, desviando fondos por alumno de las escuelas públicas tradicionales
-- Los programas extracurriculares están concentrados en vecindarios adinerados
-- La inseguridad alimentaria afecta a 1 de cada 4 niños de Denver (Hunger Free Colorado, 2023)
+- El salario promedio de los maestros de Denver: ~$58,000. El alquiler medio en Denver requiere ~$55,000 solo para vivienda. Los maestros se están yendo.
+- DPS ha impulsado una agresiva expansión de las escuelas charter, desviando fondos por alumno de las escuelas públicas tradicionales.
+- Los programas extraescolares se concentran en los vecindarios ricos.
+- La inseguridad alimentaria afecta a 1 de cada 4 niños de Denver (Hunger Free Colorado, 2023).
 
 ### Lo Que Denver Hace Actualmente
 
-Colorado aprobó la Proposition EE (2020) y creó el Colorado Department of Early Childhood (CDEC), que ahora provee Pre-K Universal para niños de 4 años (15 horas/semana, con horas adicionales para familias que califican). Este es un comienzo significativo, pero cubre solo a niños de 4 años, es de medio día para la mayoría de las familias, y no aborda la necesidad de jornada completa y todo el año de los padres trabajadores. Nuestra propuesta se expande para incluir a niños de 3 años y proporciona cobertura de jornada completa.
+Colorado aprobó la Proposición EE (2020) y creó el Departamento de la Primera Infancia de Colorado (Colorado Department of Early Childhood, CDEC), que ahora ofrece preescolar universal para niños de 4 años (15 horas/semana, con horas adicionales para las familias que califican). Este es un comienzo significativo, pero cubre solo a niños de 4 años, es de medio día para la mayoría de las familias y no aborda la necesidad de día completo y año completo de los padres que trabajan. Nuestra propuesta se expande para incluir a niños de 3 años y proporciona cobertura de día completo.
 
-DPS inscribe aproximadamente 90,000 estudiantes en más de 200 escuelas, incluyendo aproximadamente 60 escuelas chárter (DPS Annual Report, 2024). El distrito ha perseguido una gestión agresiva de cartera, cerrando escuelas de bajo rendimiento y expandiendo las escuelas chárter, con resultados mixtos. La rotación de maestros en DPS sigue siendo alta. Una encuesta de 2023 de la Denver Classroom Teachers Association encontró que más del 40% de los maestros consideraba irse dentro de 2 años, con los costos de vivienda como la razón principal.
+DPS inscribe a aproximadamente 90,000 estudiantes en más de 200 escuelas, incluyendo aproximadamente 60 escuelas charter (DPS Annual Report, 2024). El distrito ha implementado una gestión de portafolio agresiva, cerrando escuelas de bajo rendimiento y expandiendo las escuelas charter, con resultados mixtos. La rotación de maestros en DPS sigue siendo alta. Una encuesta de la Asociación de Maestros de Denver (Denver Classroom Teachers Association) de 2023 encontró que más del 40% de los maestros consideraron irse en 2 años, siendo los costos de vivienda la razón principal.
 
 ## Nuestra Solución
 
-### 1. Pre-K Universal (Financiado por la Ciudad)
+### 1. Preescolar Universal (Financiado por la Ciudad)
 
-- Pre-K gratuito de jornada completa para cada niño de 3 y 4 años de Denver
-- Sin requisito de ingresos - acceso universal
+- Preescolar gratuito de día completo para todos los niños de Denver de 3 y 4 años
+- Sin requisitos de ingresos: acceso universal
 - Ubicado en escuelas públicas y centros comunitarios
-- Salario digno para maestros de pre-K (a paridad con K-12)
+- Salario digno para los maestros de preescolar (a la par con K-12)
 - Currículo: basado en el juego, apropiado para el desarrollo, opciones bilingües
 
-### 2. Comidas Escolares Gratuitas para Todos
+### 2. Comidas Escolares Gratuitas Para Todos
 
-- Desayuno y almuerzo universales gratuitos para todos los estudiantes de DPS, independientemente del ingreso familiar
+- Desayuno y almuerzo gratuitos universales para todos los estudiantes de DPS, independientemente de los ingresos familiares
 - Elimina el estigma de la identificación de "almuerzo gratis"
 - Obtenido de granjas locales cuando sea posible
-- Programas de comida de verano en todos los centros comunitarios
+- Programas de comidas de verano en todos los centros comunitarios
 
-### 3. Programas Extracurriculares en Cada Vecindario
+### 3. Programas Extraescolares en Cada Vecindario
 
-- Programas extracurriculares financiados por la ciudad en cada escuela primaria y secundaria de DPS
+- Programas extraescolares financiados por la ciudad en cada escuela primaria y secundaria de DPS
 - Artes, deportes, tutoría, programación y música: enriquecimiento integral, mucho más allá de la preparación para exámenes
-- Gratuitos para todos los estudiantes, operando hasta las 6 PM
-- Con personal de trabajadores juveniles capacitados con salarios dignos
+- Gratis para todos los estudiantes, operando hasta las 6 PM
+- Personal capacitado en trabajo juvenil con salarios dignos
 
 ### 4. Asistencia de Vivienda para Maestros
 
-- Unidades de vivienda asequible dedicadas para maestros de DPS (a través de la Social Housing Authority)
-- Asistencia para el pago inicial para maestros que compran en Denver
-- Estipendio de vivienda para maestros en escuelas de alta necesidad
-- Objetivo: que cada maestro que trabaja en Denver pueda pagar vivir en Denver
+- Unidades de vivienda asequible dedicadas para los maestros de DPS (a través de la Autoridad de Vivienda Social)
+- Asistencia para el pago inicial para los maestros que compran en Denver
+- Estipendio de vivienda para los maestros en las escuelas de alta necesidad
+- Objetivo: cada maestro que trabaja en Denver puede permitirse vivir en Denver
 
 ### 5. Anti-Privatización
 
-- Moratoria en nuevas aprobaciones de escuelas chárter hasta que las instalaciones de DPS estén completamente financiadas
-- Requerir que las escuelas chárter acepten a todos los estudiantes (incluyendo educación especial y estudiantes de inglés como segundo idioma) a la misma tasa que las escuelas del distrito
-- Transparencia financiera completa para todos los operadores de escuelas chárter
-- Cerrar las escuelas chárter que tienen rendimiento inferior a las escuelas del distrito comparables
-- Redirigir las tarifas de gestión de escuelas chárter a inversión en el aula
+- Moratoria en nuevas aprobaciones de escuelas charter hasta que las instalaciones de DPS estén totalmente financiadas
+- Requerir que las escuelas charter acepten a todos los estudiantes (incluidos los de educación especial y los estudiantes de inglés como segundo idioma) al mismo ritmo que las escuelas del distrito
+- Transparencia financiera total para todos los operadores de escuelas charter
+- Cerrar las escuelas charter que tengan un rendimiento inferior al de las escuelas del distrito comparables
+- Redirigir las tarifas de gestión de las escuelas charter a la inversión en el aula
 
 ### 6. Modelo de Escuelas Comunitarias
 
@@ -61,46 +61,46 @@ DPS inscribe aproximadamente 90,000 estudiantes en más de 200 escuelas, incluye
 - Servicios integrales en el sitio: clínica de salud, despensa de alimentos, educación para padres, asistencia legal, trabajadores sociales
 - Escuelas que sirven como centros comunitarios para todo el vecindario
 
-### Evidencia Internacional: Cómo Se Ve una Gran Educación
+### Evidencia Internacional: Cómo Es Una Gran Educación
 
-| País              | Características Clave                                                                                                                                                                                                                                                                      | Resultado                                                                                                                                                                                                                       |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Finlandia**     | Sin exámenes estandarizados hasta los 16 años. Financiamiento equitativo en todas las escuelas. Los maestros son bien pagados, altamente capacitados (se requiere Maestría) y se les confía autonomía. Comidas gratuitas para todos los estudiantes. Sin escuelas privadas significativas. | Consistentemente entre los primeros a nivel mundial en lectura, matemáticas y ciencias. La brecha más pequeña entre los estudiantes de mayor y menor rendimiento en el mundo. Los maestros son tan respetados como los médicos. |
-| **Francia**       | _École maternelle_ universal gratuita desde los 3 años. Comidas escolares gratuitas. Financiamiento centralizado equitativo.                                                                                                                                                               | 99% de inscripción en preescolar. Sólidos resultados de desarrollo en la primera infancia.                                                                                                                                      |
-| **Suecia**        | Educación gratuita desde preescolar hasta la universidad. Comidas escolares gratuitas. Salarios de maestros competitivos. Tamaños máximos de clase obligatorios.                                                                                                                           | Alto logro educativo, baja desigualdad en los resultados.                                                                                                                                                                       |
-| **Estonia**       | Modelo radical de financiamiento equitativo. Comidas escolares gratuitas. Sólidos programas de primera infancia. Autonomía docente.                                                                                                                                                        | País europeo con mejor rendimiento en PISA. Pasó del sistema de la era soviética a nivel mundial en una generación a través de la inversión pública.                                                                            |
-| **Corea del Sur** | Inversión pública masiva en educación. Salarios de maestros entre los más altos del mundo (comparables a los de ingenieros). Comidas escolares gratuitas.                                                                                                                                  | La tasa de alfabetización más alta del mundo. Transformación económica dramática impulsada por la inversión en educación.                                                                                                       |
+| País            | Características Clave                                                                                                                                                                                                                            | Resultado                                                                                                                                                                                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Finlandia**     | No hay exámenes estandarizados hasta los 16 años. Igualdad de financiación en todas las escuelas. Los maestros están bien pagados, altamente capacitados (se requiere maestría) y se les confía autonomía. Comidas gratis para todos los estudiantes. No hay escuelas privadas de importancia. | Constantemente clasificado entre los mejores a nivel mundial en lectura, matemáticas y ciencias. La brecha más pequeña entre los estudiantes de mayor y menor rendimiento del mundo. Los maestros son tan respetados como los médicos. |
+| **Francia**       | _École maternelle_ universal gratuita desde los 3 años. Comidas escolares gratuitas. Financiación igualitaria centralizada.                                                                                                                        | 99% de inscripción en preescolar. Sólidos resultados en el desarrollo de la primera infancia.                                                                                                                                                 |
+| **Suecia**        | Educación gratuita desde el preescolar hasta la universidad. Comidas escolares gratuitas. Salarios competitivos para los maestros. Se hacen cumplir los tamaños máximos de las clases.                                                                    | Alto nivel educativo, baja desigualdad en los resultados.                                                                                                                                                                              |
+| **Estonia**       | Modelo radical de financiación igualitaria. Comidas escolares gratuitas. Sólidos programas para la primera infancia. Autonomía del profesorado.                                                                                                                       | El país europeo con mejor rendimiento en PISA. Pasó de un sistema de la era soviética a uno de clase mundial en una generación gracias a la inversión pública.                                                                                   |
+| **Corea del Sur** | Inversión pública masiva en educación. Salarios de los maestros entre los más altos del mundo (comparables a los de los ingenieros). Comidas escolares gratuitas.                                                                                                             | La tasa de alfabetización más alta del mundo. Transformación económica dramática impulsada por la inversión en educación.                                                                                                                       |
 
-**El patrón:** Cada país con una gran educación tiene: (1) financiamiento equitativo, (2) maestros bien pagados, (3) comidas gratuitas universales, (4) pre-K sólido, y (5) sin privatización del sistema público. Ninguno de los sistemas educativos con mejor rendimiento en evaluaciones internacionales (OECD PISA, TIMSS) está construido sobre modelos de escuelas chárter o competencia de mercado. El experimento estadounidense con la privatización escolar no tiene evidencia internacional que lo respalde.
+**El patrón:** Cada país con una gran educación tiene: (1) financiación igualitaria, (2) maestros bien pagados, (3) comidas gratuitas universales, (4) preescolar sólido y (5) no privatización del sistema público. Ninguno de los sistemas educativos con mejor rendimiento en las evaluaciones internacionales (OCDE PISA, TIMSS) se basa en modelos de escuelas charter o de competencia de mercado. El experimento estadounidense con la privatización de las escuelas no tiene evidencia internacional que lo respalde.
 
-**La lección de Finlandia para Denver:** La revolución educativa de Finlandia comenzó con un principio simple: _cada niño merece una gran escuela en su vecindario_. No crearon "elección escolar" - hicieron que cada escuela fuera excelente. Ese es nuestro modelo.
+**La lección de Finlandia para Denver:** La revolución educativa de Finlandia comenzó con un principio simple: _cada niño merece una gran escuela en su vecindario_. No crearon la "libre elección de escuela", sino que hicieron que cada escuela fuera excelente. Ese es nuestro modelo.
 
-## Cómo Lo Pagamos
+## Cómo Lo Financiamos
 
-- Pre-K Universal: $40-50M/año (bonos municipales + fondos federales de Pre-K)
-- Comidas gratuitas: $15-20M/año (parcialmente compensado por reembolso federal)
-- Programas extracurriculares: $20-25M/año
-- Vivienda para maestros: Integrado en el presupuesto de la Social Housing Authority
-- Escuelas comunitarias: $10-15M/año (con subvenciones federales de Community Schools)
-- Total: $85-110M/año. Significativo, pero el presupuesto de Denver es de $1.6B+
+- Preescolar universal: $40-50 millones/año (bonos de la ciudad + fondos federales para preescolar)
+- Comidas gratuitas: $15-20 millones/año (parcialmente compensado por el reembolso federal)
+- Actividades extraescolares: $20-25 millones/año
+- Vivienda para maestros: Integrado en el presupuesto de la Autoridad de Vivienda Social
+- Escuelas comunitarias: $10-15 millones/año (con subvenciones federales para escuelas comunitarias)
+- Total: $85-110 millones/año. Significativo, pero el presupuesto de Denver es de más de $1.6 mil millones.
 
 ## Preguntas Frecuentes
 
-**"¿No es la educación un asunto estatal/distrital, no municipal?"**
-Denver es una ciudad-condado consolidada, y DPS opera dentro de ella. La ciudad puede financiar pre-K, programas extracurriculares y escuelas comunitarias independientemente de DPS. La ciudad también controla la vivienda, lo que afecta directamente la retención de maestros.
+**"¿No es la educación un asunto estatal/del distrito, no un asunto de la ciudad?"**
+Denver es una ciudad-condado consolidada, y DPS opera dentro de ella. La ciudad puede financiar el preescolar, las actividades extraescolares y las escuelas comunitarias independientemente de DPS. La ciudad también controla la vivienda, lo que afecta directamente la retención de maestros.
 
-**"Las escuelas chárter les dan opciones a los padres."**
-La opción sin equidad es solo clasificación. Cuando las escuelas chárter pueden rechazar estudiantes difíciles y las escuelas públicas tradicionales no pueden, la comparación está amañada. Financie todas las escuelas equitativamente primero, luego hable de opciones.
+**"Las escuelas charter les dan a los padres la opción de elegir".**
+La elección sin equidad es solo clasificación. Cuando las escuelas charter pueden rechazar a los estudiantes difíciles y las escuelas públicas tradicionales no pueden, la comparación es manipulada. Financie todas las escuelas por igual primero, luego hable de elección.
 
-**"¿No tiene Colorado ya Pre-K Universal?"**
-Sí. El CDEC de Colorado proporciona 15 horas/semana de Pre-K para niños de 4 años, lo cual es una base sólida. Nuestra propuesta se basa en ello: extender a niños de 3 años, proporcionar cobertura de jornada completa (más allá de las actuales 15 horas/semana), y asegurar que los maestros de Pre-K ganen salarios dignos a paridad con K-12. El programa estatal es un comienzo. Nosotros completamos el trabajo.
+**"¿Colorado no tiene ya preescolar universal?"**
+Sí. El CDEC de Colorado proporciona 15 horas/semana de preescolar para niños de 4 años, lo cual es una base sólida. Nuestra propuesta se basa en ello: se extiende a niños de 3 años, proporciona cobertura de día completo (más allá de las 15 horas/semana actuales) y garantiza que los maestros de preescolar ganen salarios dignos a la par con K-12. El programa estatal es un comienzo. Nosotros terminamos el trabajo.
 
 ## Referencias
 
-- Colorado Department of Early Childhood (CDEC). Datos de inscripción y programa de Pre-K Universal.
-- DPS Annual Report. (2024). Inscripción, conteo de escuelas chárter, financiamiento por alumno.
-- Denver Classroom Teachers Association. (2023). Encuesta de retención de maestros y vivienda.
+- Departamento de la Primera Infancia de Colorado (Colorado Department of Early Childhood, CDEC). Datos de inscripción y programas de preescolar universal.
+- DPS Annual Report. (2024). Inscripción, número de escuelas charter, financiación por alumno.
+- Denver Classroom Teachers Association. (2023). Encuesta sobre retención de maestros y vivienda.
 - Hunger Free Colorado. (2023). Estimaciones de inseguridad alimentaria infantil para Denver.
-- National Center for Education Statistics. Datos de salarios y personal de DPS.
-- OECD PISA Rankings. Datos de comparación educativa internacional.
-- Sahlberg, P. "Finnish Lessons." (Evidencia de la reforma educativa de Finlandia.)
+- Centro Nacional de Estadísticas de la Educación (National Center for Education Statistics). Datos de salarios y personal de DPS.
+- Clasificaciones OECD PISA. Datos de comparación de la educación internacional.
+- Sahlberg, P. "Finnish Lessons". (Evidencia de la reforma educativa de Finlandia).

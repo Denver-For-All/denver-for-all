@@ -3,135 +3,135 @@
 
 ## El Problema
 
-En 2023-2024, Denver recibió más de 40,000 migrantes recién llegados — principalmente solicitantes de asilo de Venezuela, Colombia y otros países (Denver Human Services, 2024). La ciudad gastó más de $100M en refugio de emergencia, alimentos, atención médica y servicios. La respuesta fue heroica pero improvisada: centros recreativos convertidos, contratos de emergencia, organizaciones sin fines de lucro abrumadas y una serie rotativa de refugios temporales.
+En 2023-2024, Denver recibió a más de 40,000 migrantes recién llegados, principalmente solicitantes de asilo de Venezuela, Colombia y otros países (Denver Human Services, 2024). La ciudad gastó más de $100 millones en refugio de emergencia, alimentos, atención médica y servicios. La respuesta fue heroica pero ad hoc: centros de recreación convertidos, contratos de emergencia, organizaciones sin fines de lucro abrumadas y un elenco rotatorio de refugios temporales.
 
-El resultado fue predecible: tensión presupuestaria, reacción política y — lo más importante — personas recién llegadas atrapadas en un limbo durante meses sin autorización de trabajo, vivienda estable o un camino hacia la autosuficiencia. Denver estaba gastando sumas enormes para mantener a las personas con vida mientras la burocracia federal les impedía trabajar.
+El resultado fue predecible: tensión presupuestaria, reacción política y, lo más importante, recién llegados atrapados en el limbo durante meses sin autorización de trabajo, vivienda estable o un camino hacia la autosuficiencia. Denver estaba gastando enormes sumas para mantener a la gente con vida mientras la burocracia federal les impedía trabajar.
 
-Esta no es una crisis única. El cambio climático, la inestabilidad política y los patrones migratorios globales significan que las ciudades seguirán recibiendo personas recién llegadas. Denver necesita infraestructura permanente, no respuestas de emergencia.
+Esta no es una crisis puntual. El cambio climático, la inestabilidad política y los patrones de migración global significan que las ciudades seguirán recibiendo recién llegados. Denver necesita infraestructura permanente, no respuestas de emergencia.
 
-Las fallas fundamentales:
+Las fallas principales:
 
-- Sin proceso sistemático de admisión o evaluación de necesidades
-- Capacidad de refugio construida sobre contratos de emergencia a costos premium
-- Brechas de meses entre la llegada y la autorización de trabajo, durante las cuales las personas dependen completamente de los servicios de la ciudad
-- Sin canal de empleo coordinado conectando a las personas recién llegadas con empleadores de Denver que enfrentan escasez laboral
-- Sin flujo de financiamiento dedicado — los servicios para recién llegados competían con los programas existentes de la ciudad
-- El gobierno federal proporcionó cero reembolso a pesar de que el asilo es una responsabilidad federal
-- Las barreras lingüísticas y culturales retrasaron cada paso del proceso
+- No hay un proceso sistemático de admisión o evaluación de necesidades
+- Capacidad de refugio construida sobre contratos de emergencia a un costo elevado
+- Brechas de meses entre la llegada y la autorización de trabajo, durante las cuales las personas dependen por completo de los servicios de la ciudad
+- No hay una línea de empleo coordinada que conecte a los recién llegados con los empleadores de Denver que enfrentan escasez de mano de obra
+- No hay una fuente de financiamiento dedicada: los servicios para los recién llegados compitieron con los programas existentes de la ciudad
+- El gobierno federal no proporcionó ningún reembolso a pesar de que el asilo es una responsabilidad federal
+- Las barreras lingüísticas y culturales ralentizaron cada paso del proceso
 
 ### Lo Que Denver Hace Actualmente
 
-Denver estableció el Denver Newcomer Program a finales de 2023, coordinando entre Human Services, Public Health y organizaciones comunitarias. La ciudad convirtió centros recreativos y arrendó hoteles para refugio temporal. Denver asignó $89.9M del fondo general y recibió algo de apoyo estatal y filantrópico (Denver Department of Finance, 2024). El Newcomer Workforce Program se asoció con empleadores para ayudar a trabajadores recién autorizados a encontrar empleo.
+Denver creó el Denver Newcomer Program (Programa para Recién Llegados de Denver) a fines de 2023, coordinando a través de Servicios Humanos, Salud Pública y organizaciones comunitarias. La ciudad convirtió centros de recreación y arrendó hoteles para refugio temporal. Denver asignó $89.9 millones del fondo general y recibió algo de apoyo estatal y filantrópico (Denver Department of Finance, 2024). El Newcomer Workforce Program (Programa de Fuerza Laboral para Recién Llegados) se asoció con empleadores para ayudar a los trabajadores recién autorizados a encontrar empleos.
 
-Estos esfuerzos salvaron vidas. Pero fueron reactivos, costosos e insostenibles a escala. El refugio de emergencia cuesta aproximadamente $150/persona/noche; la vivienda transitoria con apoyo de empleo cuesta una fracción de eso y produce residentes autosuficientes (National Alliance to End Homelessness, 2023). Denver demostró que tiene la compasión — necesita la infraestructura.
+Estos esfuerzos salvaron vidas. Pero fueron reactivos, costosos e insostenibles a escala. El refugio de emergencia cuesta aproximadamente $150/persona/noche; la vivienda de transición con apoyo para el empleo cuesta una fracción de eso y produce residentes autosuficientes (National Alliance to End Homelessness, 2023). Denver demostró que tiene la compasión, necesita la infraestructura.
 
-### Quién Se Opone a Esto (y Por Qué)
+### Quién Se Opone A Esto (y Por Qué)
 
-Los conservadores fiscales argumentarán que Denver no puede permitirse una infraestructura permanente para recién llegados. Algunos residentes resienten la percepción de competencia por vivienda y servicios. Los grupos antiinmigrantes enmarcarán cualquier sistema de recepción como un "imán". Contraargumento: la alternativa a la recepción planificada es la recepción no planificada — que cuesta más, produce peores resultados y genera más reacción política. Denver va a recibir personas recién llegadas de todos modos. La pregunta es si gastamos $150/noche en refugio de emergencia o $30/noche en vivienda transitoria que pone a las personas a trabajar en semanas en lugar de meses.
+Los conservadores fiscales argumentarán que Denver no puede permitirse una infraestructura permanente para los recién llegados. Algunos residentes resienten la competencia percibida por la vivienda y los servicios. Los grupos antiinmigración enmarcarán cualquier sistema de recepción como un "imán". Contraargumento: la alternativa a la recepción planificada es la recepción no planificada, que cuesta más, produce peores resultados y genera más reacciones políticas. Denver va a recibir recién llegados de todos modos. La pregunta es si gastamos $150/noche en refugio de emergencia o $30/noche en vivienda de transición que hace que la gente trabaje en semanas en lugar de meses.
 
 ## Nuestra Solución
 
-### La Denver Newcomer Reception & Integration Act
+### La Ley de Recepción e Integración de Recién Llegados de Denver (Denver Newcomer Reception & Integration Act)
 
 **1. Centro de Recepción de Denver**
 
-- Instalación permanente, construida para este propósito (o propiedad municipal existente convertida) para la admisión de recién llegados
-- Proceso centralizado de admisión: evaluación de salud, evaluación de necesidades, evaluación de estatus legal, inventario de habilidades y evaluación lingüística dentro de 48 horas de la llegada
-- Asistencia legal en el sitio para solicitudes de asilo, presentaciones de autorización de trabajo y preparación para el tribunal de inmigración
-- Servicios de la ciudad co-ubicados: inscripción en Denver Human Services, salud pública, inscripción escolar para niños
-- Con personal de gestores de casos multilingües (español, portugués, criollo haitiano y otros idiomas según las llegadas)
+- Instalación de recepción permanente y construida a propósito (o propiedad existente de la ciudad convertida) para la admisión de recién llegados
+- Proceso de admisión centralizado: detección de salud, evaluación de necesidades, evaluación del estado legal, inventario de habilidades y evaluación del idioma dentro de las 48 horas posteriores a la llegada
+- Asistencia legal en el sitio para solicitudes de asilo, presentación de autorizaciones de trabajo y preparación para el tribunal de inmigración
+- Servicios de la ciudad ubicados en el mismo lugar: inscripción en Denver Human Services, salud pública, inscripción escolar para niños
+- Personal capacitado con administradores de casos multilingües (español, portugués, criollo haitiano y otros idiomas según las llegadas)
 - Operado conjuntamente por la ciudad y organizaciones comunitarias contratadas con experiencia demostrada
 
-**2. Canal Rápido de Autorización de Trabajo**
+**2. Línea Rápida de Autorización de Trabajo**
 
-- Equipo legal dedicado enfocado exclusivamente en acelerar la autorización de trabajo (Employment Authorization Documents)
-- Presentación del mismo día de solicitudes de asilo al llegar (el desencadenante legal para la elegibilidad del EAD)
+- Equipo legal dedicado enfocado exclusivamente en agilizar la autorización de trabajo (Employment Authorization Documents o EAD [Documentos de Autorización de Empleo])
+- Presentación el mismo día de las solicitudes de asilo al llegar (el desencadenante legal para la elegibilidad del EAD)
 - Asociaciones con redes legales pro bono y clínicas de facultades de derecho para aumentar la capacidad de presentación
-- Sistema de seguimiento de autorización de trabajo para que los gestores de casos puedan conectar a trabajadores recién autorizados con empleadores inmediatamente
-- Abogacía para designaciones federales de TPS (Temporary Protected Status) y procesamiento acelerado
-- Objetivo: reducir el tiempo promedio desde la llegada hasta la autorización de trabajo de 6+ meses a menos de 90 días a través de estrategia legal y eficiencia en la presentación
+- Sistema de seguimiento de la autorización de trabajo para que los administradores de casos puedan conectar inmediatamente a los trabajadores recién autorizados con los empleadores
+- Defensa de las designaciones federales de TPS (Temporary Protected Status o Estatus de Protección Temporal) y el procesamiento acelerado
+- Objetivo: reducir el tiempo promedio desde la llegada hasta la autorización de trabajo de más de 6 meses a menos de 90 días a través de la estrategia legal y la eficiencia en la presentación
 
-**3. Vivienda Transitoria con Hitos de Empleo**
+**3. Vivienda de Transición con Hitos de Empleo**
 
-- Vivienda transitoria operada por la ciudad o contratada reemplazando el refugio de emergencia
-- Estancias transitorias de 90 días (extensibles a 180 días para familias con niños o aquellos con casos de asilo pendientes)
-- Residentes conectados a servicios de empleo desde el primer día — evaluación de habilidades, elaboración de currículum, preparación para entrevistas, emparejamiento con empleadores
-- Transiciones de vivienda vinculadas a hitos de empleo: a medida que los residentes aseguran ingresos, transicionan a vivienda compartida, luego a vivienda independiente con asistencia de alquiler
-- Asociaciones con Denver Housing Authority para ubicación prioritaria en unidades asequibles
-- Objetivo de costo: $30-50/persona/noche (vs. $150+/noche para refugio de emergencia en hotel)
+- Vivienda de transición operada por la ciudad o contratada que reemplaza el refugio de emergencia
+- Estancias de transición de 90 días (extensibles a 180 días para familias con niños o personas con casos de asilo pendientes)
+- Residentes conectados a servicios de empleo desde el primer día: evaluación de habilidades, creación de currículums, preparación para entrevistas, emparejamiento con empleadores
+- Transiciones de vivienda vinculadas a hitos de empleo: a medida que los residentes aseguran ingresos, hacen la transición a viviendas compartidas, luego a viviendas independientes con asistencia para el alquiler
+- Asociaciones con la Denver Housing Authority (Autoridad de Vivienda de Denver) para la colocación prioritaria en unidades asequibles
+- Objetivo de costo: $30-50/persona/noche (vs. $150+/noche para refugio de emergencia en hoteles)
 
 **4. Programa de Asociación con Empleadores**
 
-- Denver Newcomer Employment Registry: registro voluntario de empleadores con posiciones abiertas dispuestos a contratar trabajadores recién autorizados
-- Enfoque en industrias con escasez laboral documentada: atención médica, construcción, hospitalidad, servicio de alimentos, almacenamiento y transporte
-- Incentivos para empleadores: licencias comerciales simplificadas de la ciudad, reconocimiento en adquisiciones de la ciudad, elegibilidad para reembolso de impuestos
-- Emparejamiento de habilidades: conectar a personas recién llegadas con antecedentes profesionales (enfermeras, ingenieros, maestros, trabajadores de oficios) con posiciones apropiadas y vías de acreditación
-- Requisito de protección laboral: los empleadores participantes deben cumplir con todas las leyes salariales y laborales y no pueden tomar represalias contra los trabajadores
+- Denver Newcomer Employment Registry (Registro de Empleo para Recién Llegados de Denver): registro voluntario de empleadores con puestos vacantes dispuestos a contratar trabajadores recién autorizados
+- Enfoque en industrias con escasez de mano de obra documentada: atención médica, construcción, hotelería, servicio de alimentos, almacenamiento y transporte
+- Incentivos para empleadores: licencias comerciales simplificadas de la ciudad, reconocimiento en las adquisiciones de la ciudad, elegibilidad para el reembolso de impuestos
+- Emparejamiento de habilidades: conectar a los recién llegados con antecedentes profesionales (enfermeras, ingenieros, maestros, comerciantes) con puestos apropiados y vías de credenciales
+- Requisito de protección del trabajador: los empleadores participantes deben cumplir con todas las leyes salariales y laborales y no pueden tomar represalias contra los trabajadores
 
 **5. Fondo de Servicios para Recién Llegados**
 
-- Partida presupuestaria dedicada para recepción e integración de recién llegados — sin competir con programas existentes de la ciudad
-- Financiado a través de una combinación de asignación del fondo general, abogacía de reembolso federal, asociación estatal y contribuciones filantrópicas
-- Informes trimestrales transparentes sobre gastos, resultados (tasas de empleo, transiciones de vivienda, costo por persona recién llegada) y saldo del fondo
-- Activación automática: cuando las llegadas de recién llegados excedan un umbral (por ejemplo, 500/mes), financiamiento adicional de emergencia se activa sin requerir acción del concejo
+- Partida presupuestaria dedicada para la recepción e integración de los recién llegados, que no compite con los programas existentes de la ciudad
+- Financiado a través de una combinación de asignación del fondo general, defensa del reembolso federal, asociación estatal y contrapartida filantrópica
+- Informes trimestrales transparentes sobre gastos, resultados (tasas de empleo, transiciones de vivienda, costo por recién llegado) y saldo del fondo
+- Desencadenante automático: cuando las llegadas de recién llegados exceden un umbral (por ejemplo, 500/mes), se activa financiamiento de emergencia adicional sin requerir la acción del Concejo Municipal
 
 **6. Campaña de Reembolso Federal**
 
-- Demanda formal al gobierno federal para el reembolso completo de los costos de recepción de recién llegados — el asilo es una responsabilidad federal
-- Coalición con otras ciudades receptoras (Nueva York, Chicago, Houston, Los Ángeles) para abogacía conjunta
-- Búsqueda de fondos del FEMA Emergency Food and Shelter Program, subvenciones de la Office of Refugee Resettlement y cualquier flujo federal disponible
-- Asociación estatal: abogar para que Colorado cree un fondo estatal para recién llegados que complemente los recursos de la ciudad
-- Estrategia legal: explorar si las ciudades pueden demandar al gobierno federal por mandatos no financiados relacionados con fallas en el procesamiento de asilo
+- Demanda formal al gobierno federal para el reembolso completo de los costos de recepción de los recién llegados: el asilo es una responsabilidad federal
+- Coalición con otras ciudades receptoras (Nueva York, Chicago, Houston, Los Ángeles) para la defensa conjunta
+- Búsqueda de fondos del Programa de Alimentos y Refugio de Emergencia de FEMA, subvenciones de la Office of Refugee Resettlement (Oficina de Reasentamiento de Refugiados) y cualquier flujo federal disponible
+- Asociación estatal: abogar para que Colorado cree un fondo para recién llegados a nivel estatal que complemente los recursos de la ciudad
+- Estrategia legal: explorar si las ciudades pueden demandar al gobierno federal por mandatos no financiados relacionados con las fallas en el procesamiento de asilo
 
-### Evidencia: Las Ciudades Que Planifican con Anticipación Gastan Menos
+### Evidencia: Las Ciudades Que Planifican Con Anticipación Gastan Menos
 
-| Ciudad/País                       | Modelo                                                                                                                                                                                                                             | Resultado                                                                                                                                                                                                                                                  |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alemania (2015-2016)**          | Recibió 1.2M de solicitantes de asilo. La respuesta de emergencia inicial dio paso a centros sistemáticos _AnkER_ que proporcionan admisión, procesamiento, capacitación lingüística y emparejamiento laboral bajo un mismo techo. | Los resultados de integración mejoraron dramáticamente una vez que la infraestructura sistemática reemplazó la respuesta improvisada. Las tasas de empleo entre los llegados de 2015 alcanzaron el 50% dentro de 3 años, 70% dentro de 5 años (IAB, 2022). |
-| **Canadá (Reasentamiento Sirio)** | Recibió más de 40,000 refugiados sirios en 2015-2016 a través de un modelo coordinado de patrocinio gobierno-comunidad. Las agencias de asentamiento proporcionaron vivienda, idioma y servicios de empleo.                        | El 90% de los refugiados asistidos por el gobierno lograron independencia financiera dentro de 5 años. El modelo de patrocinio privado produjo una integración aún más rápida (Immigration, Refugees and Citizenship Canada, 2019).                        |
-| **Ciudad de Nueva York**          | Recibió más de 200,000 solicitantes de asilo de 2022-2024. Creó Humanitarian Emergency Response and Relief Centers (HERRCs) y el Asylum Seeker Navigation Center para servicios centralizados.                                     | La admisión centralizada de NYC redujo los costos por persona y mejoró la coordinación de servicios. El mandato de Right to Shelter forzó la inversión en infraestructura sistemática (NYC Comptroller, 2024).                                             |
-| **Bogotá, Colombia**              | Recibió más de 500,000 migrantes venezolanos. Creó _Centros de Integración_ proporcionando regularización de estatus legal, atención médica, inscripción educativa y servicios de empleo.                                          | Los migrantes regularizados contribuyeron más de $500M anuales a la economía local. Los centros de integración redujeron la presión sobre los servicios de emergencia y el empleo informal (World Bank, 2023).                                             |
+| Ciudad/País                      | Modelo                                                                                                                                                                                        | Resultado                                                                                                                                                                                                     |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alemania (2015-2016)**         | Recibió 1.2 millones de solicitantes de asilo. La respuesta inicial de emergencia dio paso a centros _AnkER_ sistemáticos que proporcionaron admisión, procesamiento, capacitación en idiomas y búsqueda de empleo bajo un mismo techo. | Los resultados de integración mejoraron drásticamente una vez que la infraestructura sistemática reemplazó la respuesta ad hoc. Las tasas de empleo entre las llegadas de 2015 alcanzaron el 50% en 3 años, el 70% en 5 años (IAB, 2022). |
+| **Canadá (Reasentamiento Sirio)** | Recibió más de 40,000 refugiados sirios en 2015-2016 a través de un modelo coordinado de patrocinio comunitario-gubernamental. Las agencias de asentamiento proporcionaron vivienda, idioma y servicios de empleo.                                            | El 90% de los refugiados asistidos por el gobierno lograron la independencia financiera en 5 años. El modelo de patrocinio privado produjo una integración aún más rápida (Immigration, Refugees and Citizenship Canada, 2019). |
+| **Ciudad de Nueva York**           | Recibió más de 200,000 solicitantes de asilo de 2022 a 2024. Creó Humanitarian Emergency Response and Relief Centers (HERRCs) (Centros Humanitarios de Respuesta y Alivio de Emergencia) y el Asylum Seeker Navigation Center (Centro de Navegación para Solicitantes de Asilo) para servicios centralizados.                | La admisión centralizada de NYC redujo los costos por persona y mejoró la coordinación de servicios. El mandato del Derecho al Refugio obligó a la inversión sistemática en infraestructura (NYC Comptroller, 2024).                    |
+| **Bogotá, Colombia**            | Recibió más de 500,000 migrantes venezolanos. Creó _Centros de Integración_ que brindan regularización del estatus legal, atención médica, inscripción en la educación y servicios de empleo.                                                                   | Los migrantes regularizados contribuyeron con más de $500 millones anuales a la economía local. Los centros de integración redujeron la presión sobre los servicios de emergencia y el empleo informal (Banco Mundial, 2023).                         |
 
-**El patrón es claro:** las ciudades que invierten en infraestructura sistemática de recepción gastan menos por persona recién llegada y logran la autosuficiencia más rápido que las ciudades que dependen de la respuesta de emergencia.
+**El patrón es claro:** las ciudades que invierten en infraestructura de recepción sistemática gastan menos por recién llegado y logran la autosuficiencia más rápido que las ciudades que dependen de la respuesta de emergencia.
 
-## Cómo Lo Pagamos
+## Cómo Lo Financiamos
 
-- Centro de Recepción de Denver (capital): $5-8M único (conversión de propiedad municipal existente)
-- Operaciones del Centro de Recepción: $4M/año
-- Vivienda transitoria (500 unidades): $8M/año (vs. $27M+ para refugio de emergencia equivalente)
-- Equipo legal (canal de autorización de trabajo): $2M/año
+- Centro de Recepción de Denver (capital): $5-8 millones por única vez (conversión de la propiedad existente de la ciudad)
+- Operaciones del Centro de Recepción: $4 millones/año
+- Vivienda de transición (500 unidades): $8 millones/año (vs. más de $27 millones para refugio de emergencia equivalente)
+- Equipo legal (línea de autorización de trabajo): $2 millones/año
 - Programa de asociación con empleadores: $500K/año
-- Asignación base del Fondo de Servicios para Recién Llegados: $5M/año (escalable)
-- Abogacía de reembolso federal (legal/cabildeo): $500K/año
-- **Total: ~$20M/año operativo + $5-8M único de capital**
-- **Ahorro neto vs. modelo de respuesta de emergencia: $15-30M/año** a los volúmenes de llegada de 2023-2024
+- Asignación base del Fondo de Servicios para Recién Llegados: $5 millones/año (escalable)
+- Defensa del reembolso federal (legal/cabildeo): $500K/año
+- **Total: ~$20 millones/año de operación + $5-8 millones de capital por única vez**
+- **Ahorros netos vs. modelo de respuesta de emergencia: $15-30 millones/año** a los volúmenes de llegada de 2023-2024
 
-El modelo de emergencia le costó a Denver más de $100M en un año. El modelo sistemático cuesta menos de una cuarta parte de eso y produce residentes autosuficientes que contribuyen a la economía y base tributaria de Denver.
+El modelo de emergencia le costó a Denver más de $100 millones en un año. El modelo sistemático cuesta menos de una cuarta parte de eso y produce residentes autosuficientes que contribuyen a la economía y la base impositiva de Denver.
 
 ## Preguntas Frecuentes
 
 **"¿No atraerá esto a más migrantes a Denver?"**
-La investigación muestra consistentemente que los migrantes van donde tienen familia, comunidad y oportunidades laborales — no donde los servicios son más generosos (Clemens & Hunt, 2019). Denver recibió más de 40,000 recién llegados antes de que existiera cualquier sistema de recepción sistemático. La pregunta no es si las personas vendrán; es si respondemos efectivamente o desperdiciamos dinero en medidas de emergencia. Ciudades como El Paso y Brownsville, que ofrecieron servicios mínimos, todavía recibieron grandes cantidades de llegadas.
+La investigación muestra consistentemente que los migrantes van a donde tienen familia, comunidad y oportunidades de trabajo, no donde los servicios son más generosos (Clemens & Hunt, 2019). Denver recibió a más de 40,000 recién llegados antes de que existiera cualquier sistema de recepción sistemático. La pregunta no es si la gente vendrá; es si respondemos eficazmente o desperdiciamos dinero en medidas de emergencia. Ciudades como El Paso y Brownsville, que ofrecieron servicios mínimos, aún recibieron una gran cantidad de llegadas.
 
 **"¿En qué se diferencia esto de la respuesta de emergencia que Denver ya hizo?"**
-La respuesta de emergencia fue reactiva: buscando camas de refugio desesperadamente, firmando contratos de emergencia a tarifas premium y dejando a las personas recién llegadas en el limbo durante meses. Esta propuesta es proactiva: infraestructura permanente, autorización de trabajo rápida, canales de empleo y vivienda transitoria que lleva a las personas a la autosuficiencia en semanas en lugar de meses. Es la diferencia entre una visita a urgencias y un sistema de atención primaria.
+La respuesta de emergencia fue reactiva: buscar camas de refugio, firmar contratos de emergencia a tarifas elevadas y dejar a los recién llegados en el limbo durante meses. Esta propuesta es proactiva: infraestructura permanente, autorización de trabajo rápida, líneas de empleo y vivienda de transición que traslada a las personas a la autosuficiencia en semanas en lugar de meses. Es la diferencia entre una visita a la sala de emergencias y un sistema de atención primaria.
 
-**"¿Por qué deberían pagar los contribuyentes de Denver por esto cuando es una responsabilidad federal?"**
-No deberían tener que hacerlo — y esta propuesta incluye abogacía agresiva de reembolso federal. Pero la realidad es que los recién llegados están aquí ahora, y el costo de no hacer nada (servicios de emergencia, situación de calle, crisis de salud pública) excede el costo de la recepción sistemática. Esta propuesta reduce el costo neto de Denver mientras busca dólares federales.
+**"¿Por qué los contribuyentes de Denver deberían pagar por esto cuando es una responsabilidad federal?"**
+No deberían tener que hacerlo, y esta propuesta incluye una defensa agresiva del reembolso federal. Pero la realidad es que los recién llegados están aquí ahora, y el costo de no hacer nada (servicios de emergencia, falta de vivienda, crisis de salud pública) excede el costo de la recepción sistemática. Esta propuesta reduce el costo neto de Denver al tiempo que busca dólares federales.
 
-**"¿Qué hay del impacto en la escasez existente de vivienda asequible de Denver?"**
-Esta es una preocupación real. El componente de vivienda transitoria está diseñado para ser aditivo, no competitivo — nuevas unidades o propiedades convertidas, no desviación del stock existente de vivienda asequible. La asociación con Denver Housing Authority incluye ubicación prioritaria pero dentro de las vacantes existentes, no desplazamiento. El componente de integración laboral también ayuda: los recién llegados empleados en construcción ayudan a construir la vivienda que Denver necesita.
+**"¿Qué pasa con el impacto en la escasez de viviendas asequibles existente en Denver?"**
+Esta es una preocupación real. El componente de vivienda de transición está diseñado para ser aditivo, no competitivo: unidades nuevas o propiedades convertidas, no desviación del stock de viviendas asequibles existente. La asociación con la Denver Housing Authority incluye la colocación prioritaria, pero dentro de la vacante existente, no el desplazamiento. El componente de integración de la fuerza laboral también ayuda: los recién llegados empleados en la construcción ayudan a construir la vivienda que Denver necesita.
 
-**"¿Puede Denver manejar esto si los números de llegadas se disparan nuevamente?"**
-Sí — ese es el punto. El Fondo de Servicios para Recién Llegados incluye una activación automática para financiamiento de emergencia, y el Centro de Recepción proporciona infraestructura escalable. El modelo de emergencia se rompió bajo presión porque no tenía infraestructura. Los sistemas permanentes pueden escalar; las respuestas de emergencia no.
+**"¿Puede Denver manejar esto si los números de llegadas aumentan nuevamente?"**
+Sí, ese es el punto. El Fondo de Servicios para Recién Llegados incluye un desencadenante automático para el financiamiento de emergencia, y el Centro de Recepción proporciona infraestructura escalable. El modelo de emergencia se rompió bajo presión porque no tenía infraestructura. Los sistemas permanentes pueden escalar; las respuestas de emergencia no pueden.
 
 ## Referencias
 
-- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. (Datos de más de $100M y asignación de $89.9M.)
-- Denver Human Services. (2024). Denver Newcomer Program Annual Report. (Cifra de más de 40,000 llegadas.)
-- National Alliance to End Homelessness. (2023). Emergency Shelter vs. Transitional Housing Cost Comparison.
-- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Labor Market Integration of Refugees in Germany. (Tasas de empleo entre los llegados de 2015.)
-- Immigration, Refugees and Citizenship Canada. (2019). Syrian Refugee Resettlement Outcomes Report. (Cifra de 90% de independencia financiera.)
-- NYC Comptroller. (2024). Asylum Seeker Services: Costs and Outcomes.
-- World Bank. (2023). Venezuelan Migration in Colombia: Economic Impacts and Integration Outcomes.
-- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves." Journal of Economic Perspectives. (Evidencia de elección de destino migratorio.)
+- Denver Department of Finance (Departamento de Finanzas de Denver). (2024). Newcomer Services Expenditure Reports (Informes de Gastos de los Servicios para Recién Llegados). (Datos de asignación de más de $100 millones y $89.9 millones).
+- Denver Human Services (Servicios Humanos de Denver). (2024). Denver Newcomer Program Annual Report (Informe Anual del Programa para Recién Llegados de Denver). (Cifra de más de 40,000 llegadas).
+- National Alliance to End Homelessness (Alianza Nacional para Terminar con la Falta de Vivienda). (2023). Emergency Shelter vs. Transitional Housing Cost Comparison (Comparación de Costos de Refugio de Emergencia vs. Vivienda de Transición).
+- IAB (Institut für Arbeitsmarkt- und Berufsforschung) (Instituto para la Investigación del Mercado Laboral y Profesional). (2022). Labor Market Integration of Refugees in Germany (Integración al Mercado Laboral de los Refugiados en Alemania). (Tasas de empleo entre las llegadas de 2015).
+- Immigration, Refugees and Citizenship Canada (Inmigración, Refugiados y Ciudadanía de Canadá). (2019). Syrian Refugee Resettlement Outcomes Report (Informe de Resultados del Reasentamiento de Refugiados Sirios). (Cifra de independencia financiera del 90%).
+- NYC Comptroller (Contralor de la Ciudad de Nueva York). (2024). Asylum Seeker Services: Costs and Outcomes (Servicios para Solicitantes de Asilo: Costos y Resultados).
+- World Bank (Banco Mundial). (2023). Venezuelan Migration in Colombia: Economic Impacts and Integration Outcomes (Migración Venezolana en Colombia: Impactos Económicos y Resultados de Integración).
+- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves" ("Los Efectos en el Mercado Laboral de las Olas de Refugiados"). Journal of Economic Perspectives (Revista de Perspectivas Económicas). (Evidencia de elección de destino de migración).

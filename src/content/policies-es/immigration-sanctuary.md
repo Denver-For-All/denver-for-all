@@ -3,133 +3,133 @@
 
 ## El Problema
 
-Las operaciones de aplicación de la ley de ICE en Denver y en todo Colorado se han intensificado, aterrorizando a las comunidades inmigrantes y destruyendo familias. Los inmigrantes indocumentados — que pagan impuestos, son dueños de negocios y crían a niños estadounidenses — viven con miedo a la deportación todos los días.
+Las operaciones de control migratorio (ICE, por sus siglas en inglés) en Denver y en todo Colorado se han intensificado, aterrorizando a las comunidades inmigrantes y destruyendo familias. Los inmigrantes indocumentados, que pagan impuestos, son dueños de negocios y crían hijos estadounidenses, viven con el temor de la deportación todos los días.
 
-Las políticas actuales de santuario de Denver tienen brechas:
+Las políticas de santuario actuales de Denver tienen lagunas:
 
-- La policía todavía coopera con ICE en algunas circunstancias
-- ICE realiza operaciones cerca de escuelas, tribunales y hospitales
-- Los residentes indocumentados evitan reportar crímenes, buscar atención médica e inscribir a sus hijos en la escuela
-- Los trabajadores enfrentan robo de salarios y explotación porque los empleadores saben que no pueden quejarse sin arriesgar la deportación
-- El acceso lingüístico en los servicios de la ciudad es inconsistente
+- La policía aún coopera con ICE en algunas circunstancias
+- ICE realiza operaciones cerca de escuelas, juzgados y hospitales
+- Los residentes indocumentados evitan denunciar delitos, buscar atención médica e inscribir a sus hijos en la escuela
+- Los trabajadores enfrentan el robo de salarios y la explotación porque los empleadores saben que no pueden quejarse sin correr el riesgo de ser deportados
+- El acceso a los idiomas en los servicios de la ciudad es inconsistente
 
-La comunidad latina de Denver es más del 30% de la población de la ciudad (U.S. Census Bureau, ACS 2023). Nuestras comunidades inmigrantes no son una idea de último momento — son Denver.
+La comunidad latina de Denver representa más del 30% de la población de la ciudad (Oficina del Censo de EE. UU., ACS 2023). Nuestras comunidades inmigrantes no son una ocurrencia tardía, son Denver.
 
 ### Lo Que Denver Hace Actualmente
 
-Denver tiene una ordenanza de santuario existente (Executive Order 136), pero contiene brechas. La policía todavía puede cooperar con ICE en ciertas circunstancias que involucran órdenes de arresto por delitos graves. ICE ha realizado operaciones de aplicación de la ley cerca de escuelas y tribunales de Denver.
+Denver tiene una ordenanza de ciudad santuario existente (Orden Ejecutiva 136), pero contiene lagunas. La policía aún puede cooperar con ICE en ciertas circunstancias relacionadas con órdenes de arresto por delitos graves. ICE ha realizado operaciones de control migratorio cerca de las escuelas y los juzgados de Denver.
 
-**La cuestión del gasto en migrantes:** En 2023-2024, Denver gastó más de $100M en servicios para migrantes recién llegados, incluyendo refugio, alimentos, atención médica y asistencia para autorización de trabajo (Denver Department of Finance, 2024). Esto tensionó los recursos de la ciudad y se convirtió en un punto de conflicto político. Abordemos esto directamente: el costo fue impulsado por el fracaso de la política federal: falta de autorización de trabajo, un sistema de asilo abrumado y cero reembolso federal. El enfoque de Denver For All (identificación municipal, apoyo rápido para autorización de trabajo y acceso lingüístico) pone a las personas a trabajar y pagar impuestos más rápido, reduciendo la curva de costos. La alternativa (negarse a ayudar y empujar a las personas a la situación de calle) cuesta más en servicios de emergencia y produce peores resultados para todos. Las ciudades sin políticas de santuario que recibieron migrantes gastaron cantidades comparables porque el impulsor del costo fue la inacción federal, no la política local.
+**La cuestión del gasto en migrantes:** En 2023-2024, Denver gastó más de $100 millones en servicios para los migrantes recién llegados, incluyendo refugio, comida, atención médica y asistencia para la autorización de trabajo (Departamento de Finanzas de Denver, 2024). Esto tensionó los recursos de la ciudad y se convirtió en un punto álgido político. Abordemos esto directamente: el costo fue impulsado por el fracaso de la política federal: falta de autorización de trabajo, un sistema de asilo sobrecargado y cero reembolso federal. El enfoque de Denver For All (identificación municipal, apoyo rápido para la autorización de trabajo y acceso a los idiomas) hace que las personas trabajen y paguen impuestos más rápido, lo que reduce la curva de costos. La alternativa (negarse a ayudar y empujar a las personas a la falta de vivienda) cuesta más en servicios de emergencia y produce peores resultados para todos. Las ciudades sin políticas de santuario que recibieron migrantes gastaron cantidades comparables porque el factor determinante de los costos fue la inacción federal, no la política local.
 
 ### Quién Se Opone a Esto (y Por Qué)
 
-Los grupos antiinmigrantes y algunos conservadores fiscales citarán el gasto de $100M en migrantes como evidencia de que las políticas de santuario son insostenibles. Algunos grupos empresariales se benefician silenciosamente de la mano de obra indocumentada explotable y se oponen a las protecciones que dan poder de negociación a los trabajadores. Contraargumento: la forma más rápida de reducir costos es poner a las personas a trabajar, lo que requiere identificaciones, acceso lingüístico y apoyo legal, no cooperación con la aplicación de la ley.
+Los grupos antiinmigración y algunos conservadores fiscales citarán el gasto de $100 millones en migrantes como evidencia de que las políticas de santuario son insostenibles. Algunos grupos empresariales se benefician silenciosamente de la mano de obra indocumentada explotable y se oponen a las protecciones que otorgan poder de negociación a los trabajadores. Argumento en contra: la forma más rápida de reducir los costos es lograr que las personas trabajen, lo que requiere identificaciones, acceso a los idiomas y apoyo legal, no la cooperación en el control migratorio.
 
 ## Nuestra Solución
 
-### La Denver Sanctuary Protection Act
+### La Ley de Protección de la Ciudad Santuario de Denver
 
 **1. Cero Cooperación con ICE**
 
 - Ningún empleado, departamento o contratista de la ciudad puede cooperar con ICE de ninguna manera
-- Sin compartir información personal, direcciones, ubicaciones de trabajo u horarios
-- Sin honrar detenciones o órdenes de ICE (que son administrativas, no judiciales)
-- Sin permitir que ICE opere en o cerca de edificios de la ciudad, incluyendo cárceles
-- Sin operaciones conjuntas entre la policía de Denver e ICE
-- Violación por cualquier empleado de la ciudad: terminación y responsabilidad personal
+- No se compartirán información personal, direcciones, lugares de trabajo u horarios
+- No se respetarán las órdenes de detención u órdenes judiciales de ICE (que son administrativas, no judiciales)
+- No se permitirá que ICE opere en o cerca de los edificios de la ciudad, incluyendo las cárceles
+- No habrá operaciones conjuntas entre la policía de Denver e ICE
+- Violación por parte de cualquier empleado de la ciudad: despido y responsabilidad personal
 
-**2. Ubicaciones Protegidas**
+**2. Lugares Protegidos**
 
-- Zonas libres de ICE: escuelas, hospitales, tribunales, iglesias, oficinas de la ciudad, transporte público, refugios
-- La ciudad no cooperará con ninguna acción de aplicación de la ley dentro de 1,000 pies de ubicaciones protegidas
-- Letreros en múltiples idiomas en todas las ubicaciones protegidas informando a la comunidad de sus derechos
+- Zonas libres de ICE: escuelas, hospitales, juzgados, iglesias, oficinas de la ciudad, transporte público, refugios
+- La ciudad no cooperará con ninguna acción de control migratorio dentro de un radio de 1,000 pies de los lugares protegidos
+- Señales en varios idiomas en todos los lugares protegidos que informen a la comunidad sobre sus derechos
 
 **3. Programa de Identificación Municipal (Denver ID)**
 
-- Disponible para TODOS los residentes de Denver independientemente del estatus migratorio
-- Aceptada como identificación válida para todos los servicios de la ciudad, tarjetas de biblioteca y negocios locales
-- El proceso de solicitud no requiere prueba de estatus migratorio
-- Todos los datos de solicitud se destruyen permanentemente después de la emisión de la ID — sin base de datos que ICE pueda citar
+- Disponible para TODOS los residentes de Denver, independientemente de su estatus migratorio
+- Se acepta como identificación válida para todos los servicios de la ciudad, tarjetas de biblioteca y negocios locales
+- El proceso de solicitud no requiere prueba del estatus migratorio
+- Todos los datos de la solicitud se destruyen permanentemente después de la emisión de la identificación: no hay una base de datos para que ICE la cite mediante una orden judicial
 - Fomenta la participación en la vida cívica, la banca y la atención médica
 
-**4. Defensa contra Deportación Financiada por la Ciudad**
+**4. Defensa Contra la Deportación Financiada por la Ciudad**
 
-- Fondo de Defensa Legal de Denver para inmigrantes que enfrentan deportación
-- Asignación anual de $5M para representación legal
-- Cada residente de Denver que enfrenta procedimientos de deportación tiene acceso a un abogado financiado por la ciudad
-- Talleres legales de conozca sus derechos en cada vecindario, en múltiples idiomas
-- Red de respuesta rápida: voluntarios capacitados que responden a redadas de ICE y documentan los encuentros
+- Fondo de Defensa Legal de Denver para inmigrantes que enfrentan la deportación
+- Asignación anual de $5 millones para representación legal
+- Cada residente de Denver que enfrente un proceso de deportación tiene acceso a un abogado financiado por la ciudad
+- Talleres legales de "conozca sus derechos" en cada vecindario, en varios idiomas
+- Red de respuesta rápida: voluntarios capacitados que responden a las redadas de ICE y documentan los encuentros
 
-**5. Aplicación de Leyes Salariales Independientemente del Estatus**
+**5. Cumplimiento Salarial Independientemente del Estatus**
 
-- Las protecciones de robo de salarios y leyes laborales de Denver aplican a todos los trabajadores, independientemente del estatus migratorio
-- Los trabajadores pueden presentar quejas, testificar y recibir remedios sin miedo
-- El estatus migratorio es irrelevante en todos los procedimientos de aplicación de la ley de la ciudad
-- Anti-represalia: los empleadores que amenacen a los trabajadores con deportación enfrentan penalidades aumentadas
+- Las protecciones contra el robo de salarios y laborales de Denver se aplican a todos los trabajadores, independientemente de su estatus migratorio
+- Los trabajadores pueden presentar quejas, testificar y recibir soluciones sin temor
+- El estatus migratorio es irrelevante en todos los procedimientos de cumplimiento de la ciudad
+- Anti-represalias: los empleadores que amenacen a los trabajadores con la deportación enfrentan sanciones mayores
 
-**6. Acceso Lingüístico**
+**6. Acceso a los Idiomas**
 
-- Todos los servicios de la ciudad disponibles en inglés, español y los 5 idiomas principales hablados en Denver
+- Todos los servicios de la ciudad están disponibles en inglés, español y los 5 idiomas más hablados en Denver
 - Servicios de traducción en tiempo real en todas las oficinas de la ciudad
 - Sistema 311 multilingüe
-- Todos los avisos públicos, comunicaciones de emergencia y materiales de votación en múltiples idiomas
-- Preferencias de contratación bilingüe para posiciones de la ciudad de cara al público
+- Todos los avisos públicos, las comunicaciones de emergencia y los materiales de votación en varios idiomas
+- Preferencias de contratación bilingüe para los puestos de la ciudad que atienden al público
 
 ### Evidencia Internacional: La Inclusión Funciona
 
-| País/Ciudad                    | Modelo                                                                                                                                                                                                 | Resultado                                                                                                                                                                                                                             |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Canadá (Toronto, Montreal)** | Políticas de ciudad santuario. Programas de identificación municipal. Atención médica universal independientemente del estatus.                                                                        | Las comunidades inmigrantes reportan crímenes, acceden a atención médica, inscriben a sus hijos en la escuela. La seguridad pública mejora cuando las personas no se esconden del gobierno.                                           |
-| **España**                     | Sistema de _empadronamiento_ — todos los residentes se registran en los municipios independientemente del estatus migratorio, obteniendo acceso a atención médica, educación y servicios sociales.     | El acceso universal reduce los costos de salud pública. Los trabajadores indocumentados contribuyen a la base tributaria. Los resultados de integración son mucho mejores que los de los países enfocados en la aplicación de la ley. |
-| **Alemania**                   | El estatus de _Duldung_ (tolerancia) proporciona protección temporal y autorización de trabajo. Las ciudades proporcionan servicios de integración incluyendo cursos de idioma y capacitación laboral. | El enfoque de integración produce mejores resultados económicos que la aplicación de la ley. Los inmigrantes contribuyen a la economía en meses en lugar de años.                                                                     |
-| **Nueva York**                 | Programa de identificación municipal IDNYC (el más grande de EE.UU.). Derecho a asesoría legal en procedimientos de deportación. Política de rechazo de detenciones.                                   | Más de 1.3M de identificaciones emitidas. Aumentó el reporte de crímenes por parte de inmigrantes. La defensa contra deportación salva familias y mantiene comunidades intactas.                                                      |
+| País/Ciudad                   | Modelo                                                                                                                                                                                   | Resultado                                                                                                                                                                                                          |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Canadá (Toronto, Montreal)** | Políticas de ciudad santuario. Programas de identificación municipal. Atención médica universal independientemente del estatus.                                                               | Las comunidades inmigrantes denuncian delitos, acceden a la atención médica, inscriben a sus hijos en la escuela. La seguridad pública mejora cuando las personas no se esconden del gobierno.                   |
+| **España**                      | Sistema de _empadronamiento_: todos los residentes se registran en los municipios independientemente de su estatus migratorio, obteniendo acceso a la atención médica, la educación y los servicios sociales. | El acceso universal reduce los costos de salud pública. Los trabajadores indocumentados contribuyen a la base impositiva. Los resultados de la integración son mucho mejores que los de los países centrados en el control migratorio. |
+| **Alemania**                    | El estatus de _Duldung_ (tolerancia) proporciona protección temporal y autorización de trabajo. Las ciudades brindan servicios de integración que incluyen cursos de idiomas y capacitación laboral.         | El enfoque centrado en la integración produce mejores resultados económicos que el control migratorio. Los inmigrantes contribuyen a la economía en meses en lugar de años.                                              |
+| **Nueva York**              | Programa de identificación municipal IDNYC (el más grande de EE. UU.). Derecho a un abogado en los procesos de deportación. Política de rechazo de detenciones.                                                                  | Se han emitido más de 1.3 millones de identificaciones. Aumentó la denuncia de delitos por parte de los inmigrantes. La defensa contra la deportación salva a las familias y mantiene intactas a las comunidades.                                    |
 
-**La evidencia es consistente:** las ciudades que incluyen a los inmigrantes en la vida cívica son más seguras, más saludables y más productivas económicamente. Las ciudades que aterrorizan a las comunidades inmigrantes pagan el costo en emergencias de salud pública, crímenes no reportados y exclusión económica.
+**La evidencia es consistente:** las ciudades que incluyen a los inmigrantes en la vida cívica son más seguras, saludables y económicamente productivas. Las ciudades que aterrorizan a las comunidades inmigrantes pagan el costo en emergencias de salud pública, delitos no denunciados y exclusión económica.
 
-## Cómo Lo Pagamos
+## Cómo Lo Financiamos
 
-- Programa de Identificación Municipal: $2M de inicio, $500K/año de operaciones (compensado por tarifa de $15 por ID)
-- Fondo de Defensa Legal: $5M/año
-- Acceso Lingüístico: $3M/año
-- Total: ~$10M/año — menos del 0.5% del presupuesto de Denver, protegiendo al 30%+ de su población
+- Programa de identificación municipal: $2 millones de inicio, $500,000/año de operaciones (compensado con una tarifa de identificación de $15)
+- Fondo de Defensa Legal: $5 millones/año
+- Acceso a los idiomas: $3 millones/año
+- Total: ~$10 millones/año, menos del 0.5% del presupuesto de Denver, protegiendo a más del 30% de su población
 
-## Protégete Ahora Mismo
+## Protéjase Ahora Mismo
 
-No tienes que esperar a cambios de política para protegerte a ti y a tu comunidad. La Constitución protege a todas las personas en los Estados Unidos, independientemente de su estatus migratorio.
+No tiene que esperar a que cambien las políticas para protegerse a sí mismo y a su comunidad. La Constitución protege a todos en los Estados Unidos, independientemente de su estatus migratorio.
 
-**Guarda la línea directa de la Red de Respuesta Rápida de Colorado:** [1-844-864-8341](tel:18448648341) (1-844-UNITE-41). Si eres testigo de actividad de ICE, llama de inmediato. Voluntarios capacitados responderán las 24 horas del día, los 7 días de la semana, para documentar el encuentro e informar a las personas sobre sus derechos constitucionales. También puedes llamar y presionar 2 para reportar un incidente pasado. Aprende más en [coloradorapidresponsenetwork.com](https://coloradorapidresponsenetwork.com/).
+**Guarde la línea directa de la Red de Respuesta Rápida de Colorado:** [1-844-864-8341](tel:18448648341) (1-844-UNITE-41). Si presencia actividad de ICE, llame inmediatamente. Voluntarios capacitados responderán las 24 horas del día, los 7 días de la semana para documentar el encuentro e informar a las personas sobre sus derechos constitucionales. También puede llamar y presionar 2 para informar sobre un incidente pasado. Obtenga más información en [coloradorapidresponsenetwork.com](https://coloradorapidresponsenetwork.com/).
 
-**Descarga una tarjeta de Conoce Tus Derechos** del [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources/know-your-rights) o [ACLU Colorado](https://www.aclu-co.org/know-your-rights/immigrants-rights/). Guárdala en tu billetera y comparte copias con tus vecinos. Derechos clave incluyen:
+**Descargue una tarjeta de Conozca Sus Derechos** del [Immigrant Legal Resource Center](https://www.ilrc.org/community-resources/know-your-rights) o de [ACLU Colorado](https://www.aclu-co.org/know-your-rights/immigrants-rights/). Guárdela en su billetera y comparta copias con sus vecinos. Los derechos clave incluyen:
 
-- **Derecho a guardar silencio.** No tienes que responder preguntas sobre tu estatus migratorio.
-- **No firmes nada** sin consultar a un abogado, incluso si los documentos están en tu idioma.
-- **Pide una orden judicial.** ICE debe presentar una orden judicial válida firmada por un juez para entrar a tu hogar. Una orden administrativa de ICE (Formulario I-200) no es suficiente — no tienes que abrir la puerta.
-- **Tienes derecho a un abogado.** Pide hablar con un abogado antes de responder cualquier pregunta.
+- **Derecho a permanecer en silencio.** No tiene que responder preguntas sobre su estatus migratorio.
+- **No firme nada** sin consultar a un abogado, incluso si los documentos están en su idioma.
+- **Pida una orden judicial.** ICE debe presentar una orden judicial válida firmada por un juez para ingresar a su casa. Una orden administrativa de ICE (Formulario I-200) no es suficiente, no tiene que abrir la puerta.
+- **Tiene derecho a un abogado.** Pida hablar con un abogado antes de responder cualquier pregunta.
 
-**Prepara a tu familia.** La [Rocky Mountain Immigrant Advocacy Network (RMIAN)](https://www.rmian.org/know-your-rights) ofrece un Paquete de Preparación Familiar para ayudarte a tomar pasos proactivos para proteger a tu familia en caso de un encuentro con ICE — incluyendo designar tutores para los niños, organizar documentos importantes y crear un plan de emergencia.
+**Prepare a su familia.** La [Rocky Mountain Immigrant Advocacy Network (RMIAN)](https://www.rmian.org/know-your-rights) ofrece un Paquete de Preparación Familiar para ayudarle a tomar medidas proactivas para proteger a su familia en caso de un encuentro con ICE, incluyendo la designación de tutores para los niños, la organización de documentos importantes y la creación de un plan de emergencia.
 
 ## Preguntas Frecuentes
 
-**"¿No fomenta esto la inmigración ilegal?"**
-Las personas no se mudan a Denver por las políticas de santuario. Se mudan por trabajo, familia y seguridad. Las políticas de santuario no aumentan la inmigración — determinan si los residentes inmigrantes viven con miedo o participan en la vida cívica. Cuando las personas tienen miedo de reportar crímenes, todos están menos seguros.
+**"¿Esto no fomenta la inmigración ilegal?"**
+Las personas no se mudan a Denver debido a las políticas de santuario. Se mudan por trabajo, familia y seguridad. Las políticas de santuario no aumentan la inmigración, determinan si los residentes inmigrantes viven con miedo o participan en la vida cívica. Cuando las personas tienen miedo de denunciar delitos, todos están menos seguros.
 
 **"¿Qué pasa con la seguridad pública?"**
-La investigación revisada por pares muestra consistentemente que las ciudades santuario son más seguras que las ciudades no santuario (Wong, 2017; Martinez-Schuldt & Martinez, 2019). Cuando los inmigrantes pueden reportar crímenes sin miedo, la policía recibe más pistas, más cooperación y más condenas. Las operaciones de ICE hacen a las comunidades MENOS seguras al empujar a las personas a la clandestinidad.
+Las investigaciones revisadas por pares muestran consistentemente que las ciudades santuario son más seguras que las ciudades no santuario (Wong, 2017; Martinez-Schuldt & Martinez, 2019). Cuando los inmigrantes pueden denunciar delitos sin temor, la policía recibe más consejos, más cooperación y más condenas. Las operaciones de ICE hacen que las comunidades sean MENOS seguras al obligar a las personas a la clandestinidad.
 
 **"¿No están obligadas las ciudades a cooperar con ICE?"**
-No. La Décima Enmienda impide que el gobierno federal obligue a los recursos locales a realizar la aplicación federal de la ley. La Corte Suprema confirmó esto en Printz v. United States (1997), y múltiples tribunales de circuito han confirmado las políticas de santuario, incluyendo City of Chicago v. Sessions (7mo Cir., 2018) y City and County of San Francisco v. Sessions (9no Cir., 2018). Denver no tiene obligación de hacer el trabajo de ICE.
+No. La Décima Enmienda impide que el gobierno federal se apropie de los recursos locales para el cumplimiento federal. La Corte Suprema confirmó esto en Printz v. United States (1997), y varios tribunales de circuito han confirmado las políticas de santuario, incluyendo City of Chicago v. Sessions (7th Cir., 2018) y City and County of San Francisco v. Sessions (9th Cir., 2018). Denver no tiene la obligación de hacer el trabajo de ICE.
 
-**"¿Qué hay del gasto de más de $100M en migrantes de Denver? ¿Podemos permitirnos más santuario?"**
-Los costos de migrantes de Denver fueron impulsados por el fracaso federal en procesar solicitudes de asilo y emitir autorizaciones de trabajo, no por la política de santuario. Las ciudades sin políticas de santuario que recibieron migrantes (como El Paso, TX) gastaron cantidades per cápita comparables. Nuestras propuestas (identificación municipal, defensa legal, acceso lingüístico) ponen a las personas a trabajar y pagar impuestos más rápido, que es cómo se reduce el costo. La alternativa es personas sin identificaciones o autorización de trabajo pasando por servicios de emergencia a un costo mayor.
+**"¿Qué pasa con los más de $100 millones de dólares que Denver gasta en migrantes? ¿Podemos permitirnos más santuario?"**
+Los costos de migrantes de Denver fueron impulsados por el fracaso federal en procesar las solicitudes de asilo y emitir autorizaciones de trabajo, no por la política de santuario. Las ciudades sin políticas de santuario que recibieron migrantes (como El Paso, TX) gastaron cantidades comparables per cápita. Nuestras propuestas (identificación municipal, defensa legal, acceso a los idiomas) hacen que las personas trabajen y paguen impuestos más rápido, que es como se reduce el costo. La alternativa son personas sin identificación o autorización de trabajo que pasan por los servicios de emergencia a un costo mayor.
 
-**"¿Qué hay de las amenazas de financiamiento federal?"**
-La administración Trump amenazó con retener fondos federales de las ciudades santuario. Los tribunales federales han bloqueado consistentemente estos intentos como inconstitucionales (ver: City of Chicago v. Sessions). La cantidad real de financiamiento en riesgo históricamente ha sido una fracción de lo que la cooperación con la aplicación de la ley le costaría a la ciudad en confianza comunitaria y seguridad pública.
+**"¿Qué pasa con las amenazas de financiamiento federal?"**
+La administración Trump amenazó con retener fondos federales de las ciudades santuario. Los tribunales federales han bloqueado consistentemente estos intentos por considerarlos inconstitucionales (ver: City of Chicago v. Sessions). La cantidad real de financiamiento en riesgo históricamente ha sido una fracción de lo que la cooperación en el cumplimiento costaría a la ciudad en confianza de la comunidad y seguridad pública.
 
 ## Referencias
 
-- U.S. Census Bureau. American Community Survey (ACS), 2023. (Población latina de Denver.)
-- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. (Gasto de más de $100M en migrantes.)
-- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Datos de seguridad de ciudades santuario.)
-- Printz v. United States, 521 U.S. 898 (1997). (Doctrina anti-comandeering.)
-- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Políticas de santuario confirmadas.)
-- IDNYC Annual Report. (Datos de más de 1.3M de identificaciones municipales emitidas.)
+- U.S. Census Bureau. American Community Survey (ACS), 2023. (Población latina de Denver).
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. (Más de $100 millones de dólares gastados en migrantes).
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy". Center for American Progress. (Datos de seguridad de las ciudades santuario).
+- Printz v. United States, 521 U.S. 898 (1997). (Doctrina anti-apropiación).
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Se confirman las políticas de santuario).
+- IDNYC Annual Report. (Datos de más de 1.3 millones de identificaciones municipales emitidas).

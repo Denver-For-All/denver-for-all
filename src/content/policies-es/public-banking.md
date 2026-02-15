@@ -3,91 +3,91 @@
 
 ## El Problema
 
-Denver deposita cientos de millones de dólares de los contribuyentes en bancos de Wall Street — JPMorgan Chase, Wells Fargo, Bank of America. Estos bancos:
+Denver deposita cientos de millones de dólares de los contribuyentes en bancos de Wall Street: JPMorgan Chase, Wells Fargo, Bank of America. Estos bancos:
 
-- Cobran tarifas a la ciudad y pagan un interés mínimo sobre los depósitos
-- Usan el dinero de Denver para financiar proyectos de combustibles fósiles, préstamos predatorios y operaciones especulativas
-- Proporcionan préstamos mínimos a pequeños negocios de Denver y vivienda asequible
-- Han sido multados repetidamente por fraude, manipulación de mercados y abuso al consumidor
-- Extraen riqueza de Denver y la envían a accionistas en Nueva York
+- Cobran comisiones a la ciudad y pagan intereses mínimos sobre los depósitos
+- Utilizan el dinero de Denver para financiar proyectos de combustibles fósiles, préstamos abusivos y operaciones especulativas
+- Proporcionan préstamos mínimos a las pequeñas empresas y a la vivienda asequible de Denver
+- Han sido multados repetidamente por fraude, manipulación del mercado y abuso al consumidor
+- Extraen riqueza de Denver y la envían a los accionistas en Nueva York
 
-Mientras tanto, el 4.2% de los hogares de EE.UU. no tienen cuenta bancaria y el 14.2% tiene servicios bancarios insuficientes (FDIC National Survey of Unbanked and Underbanked Households, 2023), con tasas más altas en comunidades de color. Los servicios de cambio de cheques y los prestamistas de día de pago se aprovechan de las comunidades de bajos ingresos, cobrando tarifas que atrapan a las personas en ciclos de deuda.
+Mientras tanto, el 4.2% de los hogares estadounidenses no están bancarizados y el 14.2% están subbancarizados (Encuesta Nacional de la FDIC de Hogares No Bancarizados y Subbancarizados, 2023), con tasas más altas en las comunidades de color. Los servicios de cambio de cheques y los prestamistas de día de pago se aprovechan de las comunidades de bajos ingresos, cobrando tarifas que atrapan a las personas en ciclos de deuda.
 
-### Lo que Denver hace actualmente
+### Lo Que Denver Hace Actualmente
 
-Denver deposita sus fondos operativos en bancos comerciales bajo contratos de gestión de tesorería. La ciudad no ha divulgado públicamente los términos específicos, las tasas de interés o los depósitos totales mantenidos en cada banco. Ningún concejal de Denver ha presentado formalmente legislación de banca pública, aunque Los Ángeles, San Francisco y Filadelfia han avanzado propuestas de banca pública en años recientes. California aprobó AB 857 en 2019 que permite la creación de bancos públicos. Colorado no tiene legislación habilitante equivalente, pero la carta de autonomía de Denver proporciona amplia autoridad sobre la gestión financiera de la ciudad.
+Denver deposita sus fondos operativos en bancos comerciales bajo contratos de gestión de tesorería. La ciudad no ha revelado públicamente los términos específicos, las tasas de interés o el total de depósitos mantenidos en cada banco. Ningún miembro del Concejo Municipal de Denver ha presentado formalmente una legislación sobre banca pública, aunque Los Ángeles, San Francisco y Filadelfia han impulsado propuestas de banca pública en los últimos años. California aprobó la AB 857 en 2019, que permite la creación de bancos públicos. Colorado no tiene una legislación habilitante equivalente, pero la carta de autonomía de Denver proporciona una amplia autoridad sobre la gestión financiera de la ciudad.
 
 ## Nuestra Solución
 
 ### El Banco de Denver
 
-Un banco de propiedad pública, con carta municipal, siguiendo el modelo del Bank of North Dakota (operando exitosamente desde 1919).
+Un banco de propiedad pública y autorizado por la ciudad, siguiendo el modelo del Bank of North Dakota (que opera con éxito desde 1919).
 
 **Cómo funciona:**
 
-1. Denver deposita sus fondos operativos, ingresos fiscales y reservas en el Banco de Denver en lugar de bancos de Wall Street
-2. El banco usa estos depósitos para hacer préstamos a bajo interés para: desarrollo de vivienda asequible, préstamos a pequeños negocios (prioridad: negocios de propietarios minoritarios, cooperativas de trabajadores), proyectos de energía verde y eficiencia, y adquisiciones de fideicomisos comunitarios de tierras
-3. Los ingresos por intereses regresan a la ciudad — no a los accionistas de Wall Street
-4. El banco se asocia con (no compite con) cooperativas de ahorro y crédito locales para servicios minoristas
+1. Denver deposita sus fondos operativos, ingresos fiscales y reservas en el Banco de Denver en lugar de en los bancos de Wall Street
+2. El banco utiliza estos depósitos para conceder préstamos a bajo interés para: desarrollo de viviendas asequibles, préstamos a pequeñas empresas (prioridad: cooperativas de trabajadores y empresas propiedad de minorías), proyectos de energía verde y eficiencia energética, y adquisiciones de fideicomisos de tierras comunitarias
+3. Los ingresos por intereses regresan a la ciudad, no a los accionistas de Wall Street
+4. El banco se asocia con (no compite con) las cooperativas de crédito locales para los servicios minoristas
 
 **Programas Clave:**
 
-- **Fondo de Préstamos para Vivienda Asequible:** Tasas de interés por debajo del mercado para desarrolladores de vivienda asequible, fideicomisos comunitarios de tierras y la Social Housing Authority
-- **Préstamos a Pequeños Negocios:** Micropréstamos y préstamos a pequeños negocios que los bancos comerciales no harán — especialmente para negocios en vecindarios desatendidos
-- **Financiamiento de Energía Verde:** Préstamos a bajo interés para instalación solar, eficiencia energética y compra de vehículos eléctricos para residentes y negocios de Denver
-- **Inclusión Financiera:** Servicios bancarios básicos (cuenta corriente, ahorro, tarjetas de débito) para residentes sin cuenta bancaria — sin saldo mínimo, sin tarifas predatorias
-- **Refinanciamiento de Préstamos Estudiantiles:** Refinanciamiento a menor interés para residentes de Denver con deuda estudiantil (donde sea legalmente permitido)
+- **Fondo de Préstamos para Vivienda Asequible:** Tasas de interés por debajo del mercado para promotores de viviendas asequibles, fideicomisos de tierras comunitarias y la Autoridad de Vivienda Social
+- **Préstamos para Pequeñas Empresas:** Microcréditos y préstamos para pequeñas empresas que los bancos comerciales no concederán, especialmente para empresas en barrios desatendidos
+- **Financiación de Energía Verde:** Préstamos a bajo interés para la instalación de energía solar, la eficiencia energética y la compra de vehículos eléctricos para los residentes y las empresas de Denver
+- **Inclusión Financiera:** Servicios bancarios básicos (cuentas corrientes, de ahorro, tarjetas de débito) para los residentes no bancarizados, sin saldo mínimo, sin comisiones abusivas
+- **Refinanciación de Préstamos Estudiantiles:** Refinanciación a bajo interés para los residentes de Denver con deuda estudiantil (cuando esté legalmente permitido)
 
 **Gobernanza:**
 
-- Junta designada por el concejo municipal (no solo por el alcalde)
-- Gestión bancaria profesional con experiencia bancaria
+- Consejo nombrado por el Concejo Municipal (no solo por el Alcalde)
+- Gestión bancaria profesional con experiencia en banca
 - Auditoría pública anual
-- Datos de préstamos transparentes publicados trimestralmente
-- Comité asesor comunitario con asientos reservados para poblaciones desatendidas
+- Datos transparentes de los préstamos publicados trimestralmente
+- Comité asesor comunitario con puestos reservados para poblaciones desatendidas
 
-### Evidencia Internacional: La Banca Pública es Normal
+### Evidencia Internacional: La Banca Pública Es Normal
 
-| Institución                                                      | País       | Fundada               | Activos                | Resultado                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------- | ---------- | --------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sparkassen de Alemania** (más de 400 cajas de ahorro públicas) | Alemania   | Siglo XIX             | €1.4 billones en total | Sirven a 50 millones de clientes. Mayor sector bancario de Alemania. Legalmente obligados a servir al interés público. Las ganancias se reinvierten localmente. Crédito a pequeños negocios a tasas que Wall Street no iguala. |
-| **Bank of North Dakota**                                         | EE.UU.     | 1919                  | ~$7B+                  | Único banco público en EE.UU. Más de 100 años, cero pérdidas, retorna más de $100M/año al estado. ND tiene la tasa de fracasos bancarios más baja del país. Sobrevivió la Depresión, 2008, COVID.                              |
-| **KfW (Kreditanstalt für Wiederaufbau)**                         | Alemania   | 1948                  | €546 mil millones      | Banco de desarrollo gubernamental. Financia energía verde, vivienda asequible, PYMEs. Motor clave de la Energiewende (transición energética) de Alemania.                                                                      |
-| **Japan Post Bank**                                              | Japón      | 2006 (reestructurado) | ¥224 billones          | Mayor depositario del mundo. Acceso universal — sucursal en cada comunidad. Inclusión financiera para poblaciones rurales y desatendidas.                                                                                      |
-| **Banco Nacional de Costa Rica**                                 | Costa Rica | 1914                  | Público/mixto          | Banco más grande de Centroamérica. El banco público financia el desarrollo mientras los bancos privados sirven a las élites.                                                                                                   |
-| **State Bank of India**                                          | India      | 1955                  | $635 mil millones      | Inclusión financiera para más de 450M de titulares de cuentas. Llega a comunidades rurales que los bancos privados ignoran.                                                                                                    |
+| Institución                                          | País       | Fundada               | Activos                | Resultado                                                                                                                                                                                                   |
+| ---------------------------------------------------- | ---------- | --------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sparkassen de Alemania** (más de 400 cajas de ahorro públicas) | Alemania   | Década de 1800         | €1.4 billones en total | Sirven a 50 millones de clientes. El sector bancario más grande de Alemania. Legalmente obligados a servir al interés público. Las ganancias se reinvierten localmente. Crédito a pequeñas empresas a tasas que Wall Street no igualará. |
+| **Bank of North Dakota**                             | EE. UU.   | 1919                  | ~$7 mil millones+       | Único banco público en los EE. UU. Más de 100 años, cero pérdidas, devolvió más de $100 millones al año al estado. ND tiene la tasa de quiebra bancaria más baja a nivel nacional. Sobrevivió a la Depresión, 2008, COVID.                                                                      |
+| **KfW (Kreditanstalt für Wiederaufbau)**             | Alemania   | 1948                  | €546 mil millones       | Banco de desarrollo gubernamental. Financia energía verde, vivienda asequible, PYMES. Motor clave de la Energiewende (transición energética) de Alemania.                                                                    |
+| **Japan Post Bank**                                  | Japón      | 2006 (reestructurado) | ¥224 billones          | El mayor poseedor de depósitos del mundo. Acceso universal: sucursal en cada comunidad. Inclusión financiera para poblaciones rurales y desatendidas.                                                                               |
+| **Banco Nacional de Costa Rica**                      | Costa Rica | 1914                  | Público/mixto         | El banco más grande de América Central. El banco público financia el desarrollo, mientras que los bancos privados sirven a las élites.                                                                                       |
+| **State Bank of India de la India**                  | India      | 1955                  | $635 mil millones       | Inclusión financiera para más de 450 millones de titulares de cuentas. Llega a comunidades rurales que los bancos privados ignoran.                                                                                               |
 
-**La banca pública está extendida a nivel mundial** — Alemania, Japón, India, Costa Rica y docenas de otras naciones dependen de bancos públicos como infraestructura financiera fundamental. La casi total ausencia de banca pública en EE.UU. es inusual entre las grandes economías. Solo en Alemania, los bancos públicos y cooperativos controlan más activos que los bancos privados. Sirven a las comunidades en lugar de extraer de ellas.
+**La banca pública está muy extendida a nivel mundial**: Alemania, Japón, India, Costa Rica y docenas de otras naciones confían en los bancos públicos como infraestructura financiera básica. La ausencia casi total de la banca pública en los EE. UU. es inusual entre las grandes economías. Solo en Alemania, los bancos públicos y cooperativos controlan más activos que los bancos privados. Sirven a las comunidades en lugar de extraer de ellas.
 
-## Cómo lo Pagamos
+## Cómo Lo Financiamos
 
-**Inicio:** $50-100M en capitalización inicial de reservas de la ciudad y bonos. Esto no es gasto — es mover dinero de bancos de Wall Street a un banco de propiedad municipal. El dinero todavía existe.
+**Puesta en marcha:** $50-100 millones en capitalización inicial de las reservas y bonos de la ciudad. Esto no es gasto, es mover dinero de los bancos de Wall Street a un banco de propiedad de la ciudad. El dinero sigue existiendo.
 
-**Continuo:** Autosuficiente a través de ingresos por intereses. El Bank of North Dakota retorna más de $100M/año en ganancias al estado de North Dakota. Escalado para Denver, esto podría generar $20-50M/año en ingresos para la ciudad.
+**En curso:** Autosuficiente a través de los ingresos por intereses. El Bank of North Dakota devuelve más de $100 millones al año en ganancias al estado de North Dakota. A escala para Denver, esto podría generar entre $20 y $50 millones al año en ingresos para la ciudad.
 
 **Costo neto para los contribuyentes:** Negativo. El banco genera ingresos.
 
 ## Preguntas Frecuentes
 
-**"¿No es riesgosa la banca pública?"**
-El Bank of North Dakota ha operado por más de 100 años, a través de la Gran Depresión, la crisis financiera de 2008 y COVID — sin un solo año de pérdidas. North Dakota tiene la tasa de fracasos bancarios más baja del país. La banca pública es banca aburrida — exactamente lo que quieres.
+**"¿No es arriesgada la banca pública?"**
+El Bank of North Dakota ha operado durante más de 100 años, a través de la Gran Depresión, la crisis financiera de 2008 y el COVID, sin un solo año de pérdidas. North Dakota tiene la tasa de quiebra bancaria más baja del país. La banca pública es una banca aburrida, exactamente lo que se quiere.
 
-**"¿Puede una ciudad administrar un banco?"**
-North Dakota lo hace. Alemania tiene más de 400 cajas de ahorro públicas (Sparkassen) que sirven a 50 millones de clientes. La banca pública es la norma en la mayor parte del mundo. EE.UU. es la excepción.
+**"¿Puede una ciudad dirigir un banco?"**
+North Dakota lo hace. Alemania tiene más de 400 cajas de ahorro públicas (Sparkassen) que atienden a 50 millones de clientes. La banca pública es la norma en la mayor parte del mundo. Estados Unidos es la excepción.
 
-**"¿Perjudicará esto a los bancos locales y cooperativas de crédito?"**
-El Banco de Denver se asocia con las cooperativas de crédito locales, no contra ellas. Les proporciona capital de bajo costo para préstamos comunitarios. Compite con Wall Street, no con las instituciones financieras comunitarias.
+**"¿Perjudicará esto a los bancos y cooperativas de crédito locales?"**
+El Banco de Denver se asocia con las cooperativas de crédito locales, no en contra de ellas. Les proporciona capital de bajo costo para préstamos comunitarios. Compite con Wall Street, no con las instituciones financieras comunitarias.
 
-**"¿Qué pasa con el seguro de la FDIC?"**
-El Banco de Denver buscaría el seguro de la FDIC como cualquier otro banco. El Bank of North Dakota tiene seguro de la FDIC. Alternativamente, el banco podría operar bajo un seguro de depósitos a nivel estatal o garantías respaldadas por la ciudad durante el período de inicio. Este es un requisito regulatorio, no una barrera.
+**"¿Qué pasa con el seguro de la FDIC (Corporación Federal de Seguros de Depósitos)?"**
+El Banco de Denver buscaría un seguro de la FDIC como cualquier otro banco. El Bank of North Dakota está asegurado por la FDIC. Alternativamente, el banco podría operar bajo un seguro de depósitos a nivel estatal o garantías respaldadas por la ciudad durante el período de puesta en marcha. Este es un requisito reglamentario, no una barrera.
 
 **"¿Qué pasa si el banco hace malos préstamos?"**
-El Bank of North Dakota tiene un historial de más de 100 años con cero años de pérdidas. Los bancos públicos son estructuralmente más conservadores que los bancos privados porque no enfrentan presión de los accionistas para maximizar los retornos a corto plazo. BND sobrevivió la Gran Depresión, la crisis financiera de 2008 y COVID sin pérdidas.
+El Bank of North Dakota tiene una trayectoria de más de 100 años con cero años de pérdidas. Los bancos públicos son estructuralmente más conservadores que los bancos privados porque no se enfrentan a la presión de los accionistas para maximizar los rendimientos a corto plazo. El BND sobrevivió a la Gran Depresión, la crisis financiera de 2008 y COVID sin pérdidas.
 
 ## Referencias
 
-- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% sin cuenta bancaria, 14.2% con servicios insuficientes a nivel nacional; tasas más altas en comunidades de color.)
-- Bank of North Dakota. Informes anuales y estados financieros. (Más de 100 años, cero años de pérdidas, retornos de más de $100M/año.)
-- California AB 857. (2019). Legislación habilitante de la Public Banking Act.
-- German Sparkassen (Savings Banks Association). Informes financieros. (€1.4 billones en activos, 50M de clientes.)
+- Encuesta Nacional de la FDIC de Hogares No Bancarizados y Subbancarizados. (2023). (4.2% no bancarizados, 14.2% subbancarizados a nivel nacional; tasas más altas en las comunidades de color).
+- Bank of North Dakota. Informes anuales y estados financieros. (Más de 100 años, cero años de pérdidas, más de $100 millones al año de rentabilidad).
+- California AB 857. (2019). Ley de Banca Pública que habilita la legislación.
+- Sparkassen alemanas (Asociación de Cajas de Ahorro). Informes financieros. (€1.4 billones en activos, 50 millones de clientes).
 - Public Banking Institute. Investigación y análisis sobre banca pública municipal.

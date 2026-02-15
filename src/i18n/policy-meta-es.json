@@ -1,0 +1,1088 @@
+{
+  "aging-accessibility": {
+    "title": "Envejecimiento, Discapacidad y Accesibilidad",
+    "summary": "Diseño urbano amigable para las personas mayores, para el grupo demográfico de más rápido crecimiento en Denver. Accesibilidad universal más allá de los mínimos de la ADA (Ley para Estadounidenses con Discapacidades). Expansión de los servicios para adultos mayores. Apoyo a cuidadores. Prevención del aislamiento social.",
+    "keyStats": [
+      {
+        "value": "24%",
+        "label": "de los adultos mayores de Colorado están socialmente aislados",
+        "context": "Vinculado a un aumento del 50% en el riesgo de demencia y tasas de mortalidad comparables al tabaquismo",
+        "source": "CDC, 2021"
+      },
+      {
+        "value": "$10,600+/mo",
+        "label": "por un asilo de ancianos en Colorado",
+        "context": "Envejecer en el hogar con apoyo comunitario cuesta entre $2,000 y $4,000 al mes, una fracción del costo",
+        "source": "Genworth/CareScout, 2024"
+      }
+    ]
+  },
+  "anti-displacement": {
+    "title": "Zonas Contra el Desplazamiento",
+    "summary": "Protección de comunidades alrededor de estaciones de transporte y áreas de desarrollo. No más construcción de tren ligero para gentrificar barrios.",
+    "keyStats": [
+      {
+        "value": "1/2 mile",
+        "label": "de las nuevas estaciones, los alquileres se disparan",
+        "context": "Denver construye transporte y luego las personas a las que estaba destinado a servir son desplazadas",
+        "source": "Federal Reserve Bank of Philadelphia, 2019"
+      },
+      {
+        "value": "8-15%",
+        "label": "de unidades asequibles actualmente requeridas",
+        "source": "Ordenanza EHA de Denver"
+      },
+      {
+        "value": "30%",
+        "label": "de unidades asequibles obligatorias en nuevas construcciones",
+        "context": "En el sitio, sin cargo en lugar de ello. Barcelona y Montreal ya lo hacen con éxito."
+      }
+    ]
+  },
+  "arts-culture": {
+    "title": "Artes, Cultura y Economía Creativa",
+    "summary": "Protección de artistas contra el desplazamiento. Porcentaje para el arte en nuevos desarrollos. Estudio asequible y espacio para presentaciones. Designaciones de distritos culturales. Inversión en la economía creativa de Denver como motor económico.",
+    "keyStats": [
+      {
+        "value": "$3.12B",
+        "label": "las artes de Denver generan más que los deportes profesionales",
+        "context": "14.5 millones de asistentes culturales frente a 4.9 millones combinados para todos los equipos deportivos profesionales de Denver",
+        "source": "CBCA Economic Activity Study, 2024"
+      },
+      {
+        "value": "13.5%",
+        "label": "de los fondos de SCFD llegan a pequeños grupos de arte locales",
+        "context": "Más de 280 pequeñas organizaciones se dividen el 13.5%, mientras que 5 grandes instituciones obtienen el 65.5% de $85 millones",
+        "source": "SCFD Annual Report, 2024"
+      }
+    ]
+  },
+  "autonomous-vehicles": {
+    "title": "Seguridad y Responsabilidad de los Vehículos Autónomos",
+    "summary": "Waymo está llegando a Denver. Colorado casi no tiene reglas. Necesitamos normas de seguridad comunitaria, protecciones laborales para los conductores desplazados, integración del transporte público, garantías de privacidad de datos y control democrático local sobre cómo operan los automóviles autónomos en nuestras calles.",
+    "keyStats": [
+      {
+        "value": "0",
+        "label": "regulaciones de vehículos autónomos que Denver tiene actualmente",
+        "context": "Sin permisos, sin notificación de incidentes, sin reglas de privacidad de datos",
+        "source": "Colorado SB 17-213"
+      },
+      {
+        "value": "85%",
+        "label": "más millas recorridas por vehículos de transporte compartido frente a viajes reemplazados",
+        "source": "UC Davis / Schaller Consulting"
+      },
+      {
+        "value": "$0",
+        "label": "costo para los contribuyentes de Denver",
+        "context": "Las empresas de vehículos autónomos pagan tarifas de permiso, evaluaciones por viaje y financian el Fondo de Transición para Conductores"
+      }
+    ]
+  },
+  "climate-environment": {
+    "title": "Clima y Justicia Ambiental",
+    "summary": "Investigación de la contaminación radiactiva de Rocky Flats que afecta a Denver. Remediación del plomo en el suelo y el agua de Denver. Operaciones municipales 100% renovables para 2030. Justicia ambiental para las comunidades de primera línea.",
+    "keyStats": [
+      {
+        "value": "24,000 yrs",
+        "label": "vida media del plutonio: a 25 km de Denver",
+        "context": "La limpieza de Rocky Flats se declaró completa. El muestreo independiente dice lo contrario.",
+        "source": "N/A"
+      },
+      {
+        "value": "10-15F",
+        "label": "más calor en barrios de bajos ingresos que en barrios ricos",
+        "context": "Las islas de calor urbanas siguen los ingresos y la raza. La cobertura de árboles es del 19.7%; el objetivo es del 30%.",
+        "source": "Trust for Public Land, 2023"
+      },
+      {
+        "value": "300+",
+        "label": "días de sol al año: energía solar sin explotar",
+        "context": "Burlington, VT alcanzó el 100% de energías renovables en 2014. Denver tiene mejor energía solar que casi cualquier ciudad de EE. UU.",
+        "source": "NREL Solar Resource Data"
+      }
+    ]
+  },
+  "community-land-trusts": {
+    "title": "Fideicomisos Comunitarios de la Tierra Financiados por la Ciudad",
+    "summary": "Vivienda en propiedad permanentemente asequible a través de tierras controladas por la comunidad. Vivienda que sigue siendo asequible para siempre, no solo hasta que expire el crédito fiscal.",
+    "keyStats": [
+      {
+        "value": "10x",
+        "label": "menor tasa de ejecuciones hipotecarias que las convencionales",
+        "context": "Los propietarios de CLT casi nunca pierden sus casas: el modelo está diseñado para protegerlos",
+        "source": "Champlain Housing Trust, Burlington VT"
+      },
+      {
+        "value": "20-40",
+        "label": "viviendas CLT añadidas por año en Denver",
+        "context": "A este ritmo, se tardarían más de 50 años en alcanzar las 2,500 viviendas",
+        "source": "Elevation Community Land Trust"
+      },
+      {
+        "value": "2,800+",
+        "label": "viviendas CLT construidas en Burlington desde 1984",
+        "context": "El CLT más grande de los EE. UU. demuestra que el modelo funciona a escala, a través de generaciones",
+        "source": "Champlain Housing Trust"
+      }
+    ]
+  },
+  "corporate-landlord-ban": {
+    "title": "Prohibición de Propietarios Corporativos",
+    "summary": "Denver es para los seres humanos. Prohibir a los inversionistas institucionales comprar propiedades residenciales. Las casas son para vivir, no para carteras de fondos de cobertura.",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "de viviendas asequibles compradas por inversionistas",
+        "source": "Redfin, 2023"
+      },
+      {
+        "value": "2-3x",
+        "label": "mayor tasa de desalojo de propietarios corporativos",
+        "context": "Los propietarios de Wall Street desalojan al doble o triple de la tasa de los propietarios individuales"
+      },
+      {
+        "value": "59%",
+        "label": "de Berlín votó para recuperar la vivienda",
+        "source": "Referéndum de Berlín de 2021"
+      }
+    ]
+  },
+  "disability-rights": {
+    "title": "Derechos e Inclusión de las Personas con Discapacidad",
+    "summary": "Inclusión total para el 10% de los residentes de Denver que viven con discapacidades. Hacer cumplir la ADA con verdaderos dientes. Vivienda accesible en cada nuevo desarrollo. Empleo con apoyo y requisitos para los contratistas de la ciudad. Servicios de vida independiente. Responsabilidad policial por la violencia relacionada con la discapacidad. Nada sobre nosotros sin nosotros.",
+    "keyStats": [
+      {
+        "value": "70,000+",
+        "label": "residentes de Denver viven con una discapacidad",
+        "context": "El 10% de la ciudad: el único grupo minoritario al que cualquiera puede unirse en cualquier momento",
+        "source": "U.S. Census Bureau, ACS 2019-2023"
+      },
+      {
+        "value": "42-point",
+        "label": "brecha de empleo para los habitantes de Colorado con discapacidad",
+        "context": "37.7% empleados frente al 80% para los no discapacitados, y los que trabajan ganan 74 centavos por dólar",
+        "source": "Bureau of Labor Statistics, 2024"
+      },
+      {
+        "value": "$100-600",
+        "label": "por unidad para el diseño universal en nuevas construcciones",
+        "context": "La adaptación posterior cuesta entre $10,000 y $50,000+. Construirlo bien es 100 veces más barato.",
+        "source": "National Association of Home Builders"
+      }
+    ]
+  },
+  "drug-policy": {
+    "title": "Despenalizar y Sanar",
+    "summary": "Despenalizar todas las sustancias para uso personal. Redirigir los presupuestos de aplicación de la ley al tratamiento y la recuperación. Sitios de consumo seguro. Eliminar condenas anteriores. La reducción de daños salva vidas.",
+    "keyStats": [
+      {
+        "value": "827",
+        "label": "muertes por envenenamiento por drogas en Denver en 2023",
+        "context": "Fentanilo involucrado en el 64%. Denver realizó más de 2,800 arrestos por drogas. Las muertes siguieron aumentando.",
+        "source": "Denver Office of the Medical Examiner, 2024"
+      },
+      {
+        "value": "-95%",
+        "label": "VIH entre los usuarios de drogas después de que Portugal despenalizara",
+        "context": "Las muertes por sobredosis se redujeron en un 80%. El uso de drogas cayó por debajo del promedio de la UE. Funciona.",
+        "source": "SICAD (Portugal), 2023"
+      },
+      {
+        "value": "0 deaths",
+        "label": "en más de 200 sitios de consumo supervisado en todo el mundo",
+        "source": "Potier et al., Drug and Alcohol Dependence, 2014"
+      }
+    ]
+  },
+  "education": {
+    "title": "Educación para Cada Niño",
+    "summary": "Pre-K universal, comidas escolares gratuitas, programas extracurriculares en cada vecindario, asistencia para la vivienda de los maestros y no más privatización.",
+    "keyStats": [
+      {
+        "value": "1 in 4",
+        "label": "niños de Denver enfrentan inseguridad alimentaria",
+        "context": "Las comidas gratuitas universales eliminan tanto el hambre como el estigma de la identificación del almuerzo gratuito",
+        "source": "Hunger Free Colorado, 2023"
+      },
+      {
+        "value": "40%+",
+        "label": "de los maestros de DPS (Escuelas Públicas de Denver) consideraron irse en 2 años",
+        "context": "El salario promedio de un maestro es de $58,000, pero solo la vivienda en Denver requiere $55,000",
+        "source": "Denver Classroom Teachers Association, 2023"
+      },
+      {
+        "value": "99%",
+        "label": "inscripción preescolar en Francia (gratuita desde los 3 años)",
+        "context": "Cada sistema educativo de alto rendimiento tiene pre-K universal, comidas gratuitas y maestros bien pagados"
+      }
+    ]
+  },
+  "emergency-preparedness": {
+    "title": "Preparación para emergencias y resiliencia climática",
+    "summary": "Plan de respuesta al humo de incendios forestales con refugios de aire limpio en cada vecindario. Plan de acción para calor extremo con centros de enfriamiento. Preparación para inundaciones e infraestructura verde para aguas pluviales. Centros de resiliencia comunitaria. Respuesta equitativa a desastres.",
+    "keyStats": [
+      {
+        "value": "$1 to $6",
+        "label": "cada dólar en preparación ahorra seis en respuesta",
+        "context": "Denver pagará por los impactos climáticos de cualquier manera; la inversión proactiva salva vidas y dinero",
+        "source": "FEMA / National Institute of Building Sciences, 2019"
+      },
+      {
+        "value": "89",
+        "label": "muertes relacionadas con el calor en Colorado en 2023",
+        "context": "Los residentes de bajos ingresos, los ancianos, los trabajadores al aire libre y las personas sin hogar son los más afectados",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      }
+    ]
+  },
+  "fiscal-reform": {
+    "title": "Reforma fiscal e ingresos progresivos",
+    "summary": "Corregir la estructura de ingresos defectuosa de Denver. Reemplazar los impuestos sobre las ventas regresivos con alternativas progresivas. Abordar la crisis presupuestaria sin recortar los servicios de los que dependen las familias trabajadoras. Hacer que las corporaciones y los propietarios adinerados paguen su parte justa.",
+    "keyStats": [
+      {
+        "value": "~50%",
+        "label": "de los ingresos de Denver provienen de impuestos sobre las ventas regresivos",
+        "context": "Las familias que ganan $35,000 pagan una tasa impositiva efectiva más alta que las que ganan $350,000",
+        "source": "Institute on Taxation and Economic Policy, 2018"
+      },
+      {
+        "value": "$115-175M",
+        "label": "nuevos ingresos progresivos por año",
+        "context": "Traslada la carga de las familias trabajadoras a las corporaciones y los propietarios de bienes de lujo"
+      }
+    ]
+  },
+  "food-access": {
+    "title": "Acceso a alimentos y agricultura urbana",
+    "summary": "Eliminar los desiertos alimentarios en Denver para 2030. Iniciativa de tiendas de barrio saludables. Expansión de granjas urbanas en terrenos municipales. Comidas escolares gratuitas para todos los estudiantes de DPS. Centros comunitarios de alimentos en cada desierto alimentario. Proteger y ampliar los huertos comunitarios.",
+    "keyStats": [
+      {
+        "value": "33%",
+        "label": "de Denver enfrenta inseguridad alimentaria",
+        "context": "El triple de la tasa anterior a la pandemia, y sigue aumentando después de que expiraron las expansiones de SNAP",
+        "source": "Denver DDPHE; Hunger Free Colorado"
+      },
+      {
+        "value": "93%",
+        "label": "de Globeville no tiene una tienda de comestibles cerca",
+        "context": "En Clayton es el 100%. Barrios predominantemente negros y latinos.",
+        "source": "Denver Human Services Index"
+      },
+      {
+        "value": "60%",
+        "label": "caída de la mortalidad infantil en Belo Horizonte",
+        "context": "Brasil declaró la alimentación como un derecho en 1993; costó solo el 2% del presupuesto de la ciudad",
+        "source": "City of Belo Horizonte"
+      }
+    ]
+  },
+  "gig-worker-protections": {
+    "title": "Protecciones para trabajadores de plataformas digitales",
+    "summary": "Si trabaja en Denver, merece las protecciones de Denver. Reclasificar a los trabajadores de plataformas digitales como empleados con la prueba ABC. Acabar con la laguna de explotación.",
+    "keyStats": [
+      {
+        "value": "$200M",
+        "label": "las plataformas gastaron para mantener a los trabajadores como contratistas"
+      },
+      {
+        "value": "50,000",
+        "label": "Trabajadores de plataformas digitales de Denver sin protecciones básicas",
+        "context": "Sin atención médica, sin licencia por enfermedad pagada, sin seguro de desempleo, sin recurso",
+        "source": "McKinsey Global Institute, 2022"
+      },
+      {
+        "value": "28 million",
+        "label": "Trabajadores de plataformas de la UE que obtienen derechos de empleado",
+        "context": "La Directiva de la UE sobre el Trabajo en Plataformas (2024) crea una presunción de empleo en todo el continente",
+        "source": "European Commission, 2021"
+      }
+    ]
+  },
+  "government-transparency": {
+    "title": "Transparencia gubernamental y derechos digitales",
+    "summary": "Ordenanza de supervisión de la tecnología de vigilancia. Datos abiertos para todas las operaciones de la ciudad. Elecciones financiadas con fondos públicos. Divulgación de cabilderos y restricciones de puertas giratorias. Responsabilidad algorítmica para los sistemas de IA de la ciudad. Soberanía de datos e infraestructura pública digital.",
+    "keyStats": [
+      {
+        "value": "2M+",
+        "label": "vehículos fotografiados mensualmente por las cámaras Flock",
+        "source": "Denver Gazette, 2025"
+      },
+      {
+        "value": "$498,509",
+        "label": "Contrato de Flock: justo por debajo del umbral de $500,000",
+        "context": "El Alcalde evitó una votación del concejo de 12-0 en contra de la renovación al estructurar el contrato por debajo del umbral",
+        "source": "Denver Gazette, 2025"
+      },
+      {
+        "value": "5x",
+        "label": "más donantes con vales de democracia",
+        "source": "Georgetown McCabe Center, 2023"
+      }
+    ],
+    "petitionTitle": "Exija la reforma de la Carta de Denver"
+  },
+  "guaranteed-income": {
+    "title": "Ingreso garantizado de Denver",
+    "summary": "Pagos directos en efectivo a los residentes de Denver de menores ingresos. Sin ataduras. Más de 150 ciudades lo han puesto a prueba. Ni una sola mostró una disminución del empleo. El condado de Cook lo hizo permanente. Denver también debería hacerlo.",
+    "keyStats": [
+      {
+        "value": "150+",
+        "label": "Ciudades de EE. UU. probaron el ingreso garantizado",
+        "context": "Ni un solo piloto mostró una disminución del empleo; varios mostraron aumentos",
+        "source": "Mayors for a Guaranteed Income, 2025"
+      },
+      {
+        "value": "12.4%",
+        "label": "de los residentes de Denver por debajo del umbral de pobreza",
+        "context": "En Montbello, Westwood y Sun Valley, las tasas de pobreza superan el 30%",
+        "source": "U.S. Census Bureau, 2023"
+      },
+      {
+        "value": "+12pts",
+        "label": "aumento del empleo en el piloto de Stockton",
+        "context": "El empleo a tiempo completo aumentó del 28% al 40% entre los beneficiarios",
+        "source": "Stockton Economic Empowerment Demonstration"
+      }
+    ]
+  },
+  "healthcare": {
+    "title": "La atención médica como un derecho",
+    "summary": "Condenación de la deuda médica, transparencia de los costos hospitalarios, respuesta a la crisis de salud mental sin participación policial, centros de salud comunitarios en cada vecindario, atención dental para todos y un sistema de salud conductual que va más allá de la respuesta a la crisis.",
+    "keyStats": [
+      {
+        "value": "530,000/yr",
+        "label": "Estadounidenses en bancarrota por deudas médicas",
+        "context": "Todas las demás naciones ricas tienen cero. EE. UU. es el único."
+      },
+      {
+        "value": "$5M to $500M",
+        "label": "Los fondos de la ciudad pueden borrar hasta $500 millones en deudas",
+        "context": "Los compradores de deuda pagan de 1 a 5 centavos por dólar. La ciudad lo compra y lo cancela.",
+        "source": "Undue Medical Debt program"
+      }
+    ]
+  },
+  "housing-first": {
+    "title": "Housing First: Acabar con la falta de vivienda en Denver",
+    "summary": "Primero darles hogares a las personas, luego abordar todo lo demás. Finlandia lo hizo y es el único país de la UE donde la falta de vivienda está disminuyendo. Es más barato que los refugios. Funciona.",
+    "keyStats": [
+      {
+        "value": "9,065",
+        "label": "personas sin hogar en el área metropolitana de Denver",
+        "context": "El conteo puntual de 2024 muestra que la crisis sigue creciendo",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "$40-60K",
+        "label": "costo anual por persona para gestionar la falta de vivienda",
+        "context": "Enfoque de servicios de emergencia. Housing First cuesta entre $15 y $25 mil, menos de la mitad."
+      },
+      {
+        "value": "$15-25K",
+        "label": "costo anual de la vivienda de apoyo permanente",
+        "context": "Finlandia demostró que esto funciona a nivel nacional. Houston demostró que funciona en los EE. UU."
+      }
+    ]
+  },
+  "immigration-anti-exploitation": {
+    "title": "Prevención de la antiexplotación y la trata de personas",
+    "summary": "Aplicación dedicada contra el robo de salarios y la trata de mano de obra. Represión específica de la industria en la construcción, los restaurantes y la agricultura. Protecciones contra la explotación de la vivienda. Los inmigrantes son trabajadores con derechos, no mano de obra desechable.",
+    "keyStats": [
+      {
+        "value": "$50B/yr",
+        "label": "robado a los trabajadores: más que todos los robos",
+        "context": "El robo de salarios empequeñece a todas las demás formas de delitos contra la propiedad en los EE. UU.",
+        "source": "Economic Policy Institute, 2017"
+      },
+      {
+        "value": "11,000+",
+        "label": "víctimas de trata en Colorado en este momento",
+        "context": "Concentrado en la construcción, la agricultura, los restaurantes y el trabajo doméstico",
+        "source": "Colorado Human Trafficking Council, 2023"
+      },
+      {
+        "value": "$50M+",
+        "label": "recuperado para los trabajadores en un año (NYC)",
+        "context": "La aplicación proactiva produce entre 5 y 10 veces más recuperación que esperar las quejas",
+        "source": "NYC Dept. of Consumer and Worker Protection, 2023"
+      }
+    ]
+  },
+  "immigration-newcomer-reception": {
+    "title": "Recepción de recién llegados y apoyo al asilo",
+    "summary": "Infraestructura de recepción sistemática. Apoyo rápido a la autorización de trabajo. Vivienda de transición con conductos de empleo. Defensa del reembolso federal. No más revueltas de emergencia, un plan real.",
+    "keyStats": [
+      {
+        "value": "$150/night",
+        "label": "refugio de emergencia frente a $30/noche de transición",
+        "context": "Denver gastó más de $100 millones en respuesta de emergencia que un sistema planificado podría ofrecer por una cuarta parte del costo",
+        "source": "National Alliance to End Homelessness, 2023"
+      },
+      {
+        "value": "40,000+",
+        "label": "recién llegados llegaron sin un sistema implementado",
+        "context": "Denver demostró que tiene la compasión. Ahora necesita la infraestructura.",
+        "source": "Denver Human Services, 2024"
+      }
+    ]
+  },
+  "immigration-sanctuary": {
+    "title": "Ciudad Santuario Plena",
+    "summary": "Cero cooperación con ICE. Identificación municipal para todos. Defensa contra la deportación financiada por la ciudad. Acceso al idioma en cada servicio. Nuestros vecinos no son criminales.",
+    "keyStats": [
+      {
+        "value": "1.3M+",
+        "label": "identificaciones municipales emitidas solo en Nueva York",
+        "source": "Informe Anual de IDNYC"
+      }
+    ]
+  },
+  "immigration-workforce-integration": {
+    "title": "Integración de la Fuerza Laboral Inmigrante",
+    "summary": "Reconocimiento de credenciales para profesionales formados en el extranjero. Programas puente para cubrir la escasez de mano de obra. Fondo de emprendimiento para inmigrantes. Dejemos de desperdiciar talento: Denver necesita a cada trabajador cualificado que tiene.",
+    "keyStats": [
+      {
+        "value": "2M",
+        "label": "inmigrantes con educación universitaria estancados en trabajos equivocados",
+        "context": "Médicos formados en el extranjero conducen Uber. Ingenieros trabajan en cocinas. Maestros limpian oficinas.",
+        "source": "Migration Policy Institute, 2023"
+      },
+      {
+        "value": "75%",
+        "label": "de los inmigrantes asesorados encontraron trabajo en su campo",
+        "source": "TRIEC, 2021"
+      },
+      {
+        "value": "4:1",
+        "label": "retorno por cada dólar invertido",
+        "source": "TRIEC, 2021"
+      }
+    ]
+  },
+  "lgbtq-sanctuary": {
+    "title": "Santuario y Protección LGBTQ+",
+    "summary": "Protecciones municipales completas contra la discriminación LGBTQ+. Santuario de atención médica para personas trans. Prohibición de la terapia de conversión. Protección contra retrocesos federales. Porque Denver no espera permiso para proteger a su gente.",
+    "keyStats": [
+      {
+        "value": "40%",
+        "label": "de los jóvenes sin hogar son LGBTQ+",
+        "context": "Rechazados desproporcionadamente por sus familias y fallados por todos los sistemas",
+        "source": "True Colors United, 2023"
+      },
+      {
+        "value": "45.5%",
+        "label": "de los adultos LGBTQ+ sufrieron discriminación laboral",
+        "context": "Casi el doble de probabilidades de vivir en la pobreza que las personas no LGBTQ+",
+        "source": "Williams Institute, 2023"
+      },
+      {
+        "value": "395+",
+        "label": "ciudades de EE. UU. con protecciones LGBTQ+ locales",
+        "context": "Las ordenanzas municipales son la forma más común y duradera de protección legal LGBTQ+",
+        "source": "Movement Advancement Project, 2025"
+      }
+    ]
+  },
+  "living-wage": {
+    "title": "Salario Mínimo de $25",
+    "summary": "Un verdadero salario digno para una ciudad real. $25/hora es lo que una familia de cuatro necesita para sobrevivir en Denver, y aún no es suficiente para los padres solteros.",
+    "keyStats": [
+      {
+        "value": "$25/hr",
+        "label": "lo que una familia de cuatro realmente necesita",
+        "context": "Calculadora de Salario Digno del MIT para el Condado de Denver, y aún no es suficiente para los padres solteros",
+        "source": "MIT Living Wage Calculator, 2024"
+      },
+      {
+        "value": "$42-44/hr",
+        "label": "salario digno para un padre soltero con un hijo",
+        "context": "El salario mínimo actual cubre menos de la mitad de lo que necesita un padre soltero",
+        "source": "MIT Living Wage Calculator, Denver County"
+      }
+    ]
+  },
+  "maternal-infant-health": {
+    "title": "Equidad en la Salud Materno-Infantil",
+    "summary": "Acabar con las disparidades raciales en los resultados de los partos. Doulas comunitarias para cada parto de Medicaid. Apoyo familiar y orientación financiera en la UCIN (Unidad de Cuidados Intensivos Neonatales). Rendición de cuentas contra el racismo en los hospitales. Visitas domiciliarias en cada vecindario. Ningún padre debería enfrentarse al acoso racista mientras su hijo lucha por su vida.",
+    "keyStats": [
+      {
+        "value": "2-3x",
+        "label": "tasa de morbilidad grave para las personas de raza negra que dan a luz",
+        "context": "No se explica por los ingresos o el seguro. Se explica por el racismo en la prestación de la atención.",
+        "source": "Comité de Revisión de la Mortalidad Materna de Colorado, 2023"
+      },
+      {
+        "value": "39%",
+        "label": "menos cesáreas con el apoyo de una doula",
+        "context": "Mayores beneficios para las personas de raza negra y latinas que dan a luz",
+        "source": "Revisión Cochrane, Bohren et al., 2017"
+      },
+      {
+        "value": "1.8 vs 5.6",
+        "label": "muertes infantiles por cada 1,000: Finlandia vs EE. UU.",
+        "context": "EE. UU. tiene la tasa de mortalidad infantil más alta entre las naciones ricas",
+        "source": "CDC WONDER, 2023"
+      }
+    ]
+  },
+  "municipal-broadband": {
+    "title": "Banda Ancha Municipal",
+    "summary": "Red de fibra óptica propiedad de la ciudad. Gigabit por $30/mes. Nivel gratuito para hogares de bajos ingresos. Neutralidad de la red garantizada. No más monopolio de Comcast.",
+    "keyStats": [
+      {
+        "value": "85%",
+        "label": "de los votantes de Denver dijeron que sí, hace 7 años",
+        "source": "Medida Electoral 2J de Denver, 2018"
+      },
+      {
+        "value": "$80-120/mo",
+        "label": "usted le paga a Comcast vs. $30/mes por gigabit municipal",
+        "context": "Comcast cobra 3-4 veces más por velocidades más lentas con límites de datos"
+      },
+      {
+        "value": "900+",
+        "label": "comunidades de EE. UU. ya tienen banda ancha municipal",
+        "context": "Superan constantemente a los ISP (proveedores de servicios de internet) privados en velocidad, precio y fiabilidad",
+        "source": "Institute for Local Self-Reliance, 2025"
+      }
+    ]
+  },
+  "one-fair-wage": {
+    "title": "Un Salario Justo - Eliminar el Mínimo para Propinas",
+    "summary": "Las propinas son una bonificación, no un salario. Cada trabajador recibe el salario mínimo completo. No más subsidios a los restaurantes con el dinero del alquiler de su camarero.",
+    "keyStats": [
+      {
+        "value": "2x",
+        "label": "tasa de pobreza para los trabajadores que reciben propinas frente a los que no las reciben",
+        "context": "Los trabajadores que reciben propinas experimentan la pobreza al doble de la tasa de otros trabajadores"
+      },
+      {
+        "value": "7 states",
+        "label": "ya eliminaron el salario mínimo para propinas",
+        "context": "El crecimiento del empleo en restaurantes en los estados de Un Salario Justo supera a los estados con salario de propinas",
+        "source": "Economic Policy Institute, 2023"
+      },
+      {
+        "value": "40,000",
+        "label": "Trabajadores de Denver que reciben propinas están atrapados en este sistema",
+        "context": "Concentrados en restaurantes, bares, hoteles y servicios personales",
+        "source": "BLS, 2023"
+      }
+    ]
+  },
+  "paid-leave": {
+    "title": "Licencia Pagada Universal",
+    "summary": "6 meses de licencia parental pagada. Mínimo de 4 semanas de vacaciones pagadas. Días de enfermedad pagados ilimitados. Todos los demás países ricos hacen esto. Estados Unidos es el único que no lo hace.",
+    "keyStats": [
+      {
+        "value": "1 of 6",
+        "label": "países en la Tierra sin licencia parental pagada",
+        "context": "Estados Unidos está en compañía de Papúa Nueva Guinea, no de naciones pares"
+      },
+      {
+        "value": "1 in 4",
+        "label": "Trabajadores estadounidenses sin días de vacaciones pagados",
+        "context": "Los europeos obtienen entre 20 y 30 días; uno de cada cuatro estadounidenses no obtiene nada"
+      }
+    ]
+  },
+  "parks-recreation": {
+    "title": "Parques, Recreación y Espacio Público",
+    "summary": "Acceso equitativo a los parques para cada vecindario. Programas gratuitos de centros de recreación para jóvenes y personas mayores. Huertos comunitarios en cada desierto alimentario. Conectividad de senderos en toda la ciudad. Los parques como infraestructura de salud pública.",
+    "keyStats": [
+      {
+        "value": "48%",
+        "label": "menos espacio de parque en barrios de bajos ingresos",
+        "context": "Denver ocupa el décimo lugar a nivel nacional, pero la equidad dentro de la ciudad es terrible",
+        "source": "Trust for Public Land ParkScore, 2025"
+      },
+      {
+        "value": "15-20F",
+        "label": "más calor en barrios con poca vegetación",
+        "context": "La L invertida a lo largo de la I-25 y la I-70 tiene la menor sombra y el mayor calor",
+        "source": "Denver Digs Trees / The Park People, 2021"
+      },
+      {
+        "value": "$95K+",
+        "label": "costo anual de encarcelar a un joven",
+        "context": "El acceso gratuito al centro de recreación y la programación juvenil cuestan una pequeña fracción de eso",
+        "source": "Colorado Division of Youth Services"
+      }
+    ]
+  },
+  "participatory-budgeting": {
+    "title": "Presupuesto Participativo y Asambleas Ciudadanas",
+    "summary": "Usted decide cómo se gastan más de $100 millones del presupuesto de Denver, directamente. Además, asambleas ciudadanas seleccionadas al azar para abordar las grandes preguntas. Democracia real, no solo votar cada 4 años.",
+    "keyStats": [
+      {
+        "value": "62%",
+        "label": "de los votantes de Denver se quedaron en casa en 2023",
+        "context": "Solo el 38% de participación: la mayoría de los residentes no tienen voz en un presupuesto de $1.6 mil millones",
+        "source": "Denver Elections Division, 2023"
+      },
+      {
+        "value": "7,000+",
+        "label": "ciudades de todo el mundo utilizan el presupuesto participativo",
+        "context": "Fue pionero en Brasil en 1989: la mortalidad infantil se redujo en un 50% en Porto Alegre",
+        "source": "Sintomer et al., 2012"
+      }
+    ]
+  },
+  "pedestrian-infrastructure": {
+    "title": "Infraestructura peatonal e igualdad de aceras",
+    "summary": "Complete la red de aceras de Denver. El 43% de las aceras de Denver faltan o son deficientes: 1,480 millas. El 34% son demasiado estrechas para una silla de ruedas. El 9% faltan por completo. Los vecindarios de bajos ingresos tienen el doble de la tasa de mortalidad peatonal. El 54% de las paradas de transporte público no tienen aceras a dos minutos a pie. Priorice el cumplimiento de la ADA en las comunidades marginadas. Haga que la estructura de tarifas sea progresiva. Construya una ciudad donde pueda caminar con seguridad, tanto si tiene coche como si no.",
+    "keyStats": [
+      {
+        "value": "1,480 mi",
+        "label": "de aceras que faltan o fallan a los residentes de Denver",
+        "source": "Informe del Estado del Sistema de DOTI, enero de 2026"
+      },
+      {
+        "value": "400+ yrs",
+        "label": "para terminar las aceras al ritmo de financiación anterior",
+        "context": "Ese número no es una hipérbole. Es la matemática de la falta de inversión crónica.",
+        "source": "Denver Streets Partnership, 2022"
+      },
+      {
+        "value": "2x",
+        "label": "tasa de mortalidad peatonal en barrios de bajos ingresos",
+        "context": "Los mismos barrios con menos probabilidades de tener aceras tienen las tasas de mortalidad más altas",
+        "source": "Denver Streets Partnership, 2022"
+      }
+    ]
+  },
+  "power-reliability": {
+    "title": "Fiabilidad energética y energía municipal",
+    "summary": "Acabe con los fallos del monopolio de Xcel. Opción de energía municipal para Denver. Energía de respaldo obligatoria para las instalaciones críticas. Protecciones de seguridad vital para los residentes médicamente vulnerables. Utilice la renovación de la franquicia para exigir responsabilidades o construir la nuestra propia.",
+    "keyStats": [
+      {
+        "value": "352 min",
+        "label": "promedio de interrupción por cliente en 2024",
+        "context": "Casi 6 horas sin electricidad, el doble que el año anterior",
+        "source": "Informe de la PUC de Colorado, 2025"
+      },
+      {
+        "value": "30%",
+        "label": "aumento de la tarifa mientras se recorta el personal en un 10%",
+        "context": "Xcel aumentó las tarifas un 30% entre 2022 y 2024, al tiempo que recortaba la plantilla que mantiene la red",
+        "source": "Colorado Sun, 2025"
+      },
+      {
+        "value": "30-40%",
+        "label": "tarifas más bajas en las empresas de servicios públicos municipales (SMUD)",
+        "source": "American Public Power Association, 2024"
+      }
+    ]
+  },
+  "prison-labor": {
+    "title": "Fin del trabajo penitenciario forzado",
+    "summary": "Los votantes de Colorado prohibieron la esclavitud y la servidumbre involuntaria en 2018. Siete años después, las personas encarceladas siguen enfrentándose a castigos por negarse a trabajar por centavos. Haga cumplir la Enmienda A. Ponga fin al trabajo forzado. Garantice la protección en el lugar de trabajo, salarios justos y la participación voluntaria en todos los programas de trabajo penitenciario.",
+    "keyStats": [
+      {
+        "value": "$0.33–$1.61",
+        "label": "por hora: lo que Colorado paga a los trabajadores encarcelados",
+        "context": "El salario mínimo es de $14.81/hora. Los trabajadores encarcelados ganan entre el 2 y el 11% de eso. Sin protecciones de la OSHA. Sin días de enfermedad.",
+        "source": "ACLU, Informe sobre el trabajo en cautiverio, 2022"
+      },
+      {
+        "value": "65%",
+        "label": "de los votantes de Colorado que prohibieron la servidumbre involuntaria en 2018",
+        "context": "La Enmienda A fue aprobada con casi dos tercios de apoyo. El CDOC no cambió nada. Los trabajadores siguen enfrentándose a castigos por negarse.",
+        "source": "Secretaría de Estado de Colorado, Resultados de las elecciones de 2018"
+      },
+      {
+        "value": "800,000+",
+        "label": "trabajadores encarcelados en todo el país en programas de trabajo penitenciario",
+        "context": "Generando más de $11,000 millones en bienes y servicios al año. Salario promedio: $0.13-$0.52/hora. Una industria de $11 mil millones construida sobre el trabajo en cautiverio.",
+        "source": "ACLU, Informe sobre el trabajo en cautiverio, 2022"
+      }
+    ]
+  },
+  "public-banking": {
+    "title": "Banco de Denver - Banca Pública",
+    "summary": "Un banco de propiedad de la ciudad que mantiene el dinero de Denver en Denver. Préstamos a bajo interés para vivienda, pequeñas empresas y energía verde. Servicios financieros para los no bancarizados.",
+    "keyStats": [
+      {
+        "value": "100+ years",
+        "label": "El Banco de Dakota del Norte nunca ha perdido dinero",
+        "context": "Sobrevivió a la Depresión, a 2008 y a COVID: devuelve más de $100 millones al año al estado",
+        "source": "Informes anuales del Banco de Dakota del Norte"
+      },
+      {
+        "value": "18.4%",
+        "label": "de los hogares estadounidenses no bancarizados o con servicios bancarios insuficientes",
+        "context": "Desproporcionadamente comunidades de color",
+        "source": "FDIC, 2023"
+      },
+      {
+        "value": "400+",
+        "label": "cajas de ahorro públicas solo en Alemania",
+        "context": "Sirviendo a 50 millones de clientes: la banca pública es normal en todo el mundo",
+        "source": "Asociación Alemana de Sparkassen"
+      }
+    ]
+  },
+  "public-safety": {
+    "title": "Seguridad comunitaria y reforma policial",
+    "summary": "Reducir realmente la delincuencia mediante la inversión basada en la evidencia en las comunidades, no solo en la policía. Supervisión civil con poder de citación. Equipos de crisis de salud mental, no agentes armados. Intervención comunitaria contra la violencia. Abordar las causas profundas: vivienda, empleo, salud mental y oportunidades para los jóvenes.",
+    "keyStats": [
+      {
+        "value": "531 per 100K",
+        "label": "Tasa de encarcelamiento en EE. UU.: la más alta del mundo",
+        "source": "World Prison Brief"
+      },
+      {
+        "value": "$35.3M",
+        "label": "Denver pagó en acuerdos policiales, 2017-2023",
+        "context": "$17.3 millones solo en 2023. Ninguna junta de supervisión independiente puede investigar o disciplinar.",
+        "source": "Registros del Abogado de la Ciudad de Denver; Denver Post, 2024"
+      },
+      {
+        "value": "50-75%",
+        "label": "reducción de la delincuencia gracias a la inversión comunitaria",
+        "context": "Oakland, Glasgow, Bogotá y Richmond superaron todos los enfoques exclusivos de la policía",
+        "source": "Oakland Ceasefire; Evaluaciones de la VRU de Glasgow"
+      }
+    ],
+    "petitionTitle": "Apague las cámaras de vigilancia Flock"
+  },
+  "rent-control": {
+    "title": "Ley de Estabilización de Alquileres de Denver",
+    "summary": "Límite máximo a los aumentos de alquileres en el IPC o el 3%, lo que sea menor. Sin descontrol de la vivienda desocupada. Sin lagunas. Protección real para cada inquilino de Denver.",
+    "keyStats": [
+      {
+        "value": "85%",
+        "label": "aumento del alquiler desde 2010",
+        "context": "Los alquileres de Denver han superado la inflación en 3 veces en los últimos 15 años",
+        "source": "Índice de alquiler observado de Zillow (ZORI), MSA de Denver-Aurora-Lakewood"
+      },
+      {
+        "value": "$1,600+",
+        "label": "alquiler promedio de un apartamento de 1 dormitorio",
+        "source": "Informe nacional de alquileres de ApartmentList, 2024"
+      },
+      {
+        "value": "0",
+        "label": "protecciones de estabilización de alquileres en Colorado",
+        "context": "La ley estatal CRS 38-12-301 (desde 1981) prohíbe TODO control de alquileres local. 4 intentos de derogación han fracasado."
+      },
+      {
+        "value": "150K+",
+        "label": "unidades de alquiler afectadas",
+        "context": "Más del 50% de los residentes de Denver son inquilinos sin ninguna protección contra aumentos arbitrarios",
+        "source": "Encuesta sobre la Comunidad Americana, 2022"
+      }
+    ]
+  },
+  "reparations-racial-justice": {
+    "title": "Reparaciones y justicia racial",
+    "summary": "Denver tiene una historia específica de daño racial: la discriminación por motivos raciales en la vivienda, el desplazamiento por renovación urbana, la contaminación de Rocky Flats y la segregación continua. Evanston demostró que las ciudades pueden actuar. Denver debería ser la siguiente.",
+    "keyStats": [
+      {
+        "value": "10:1",
+        "label": "relación entre la riqueza de los hogares blancos y negros en Denver",
+        "context": "Hogar blanco promedio ~$250,000. Hogar negro promedio ~$24,000.",
+        "source": "Encuesta de la Reserva Federal sobre las Finanzas del Consumidor, 2022"
+      },
+      {
+        "value": "11 years",
+        "label": "diferencia en la esperanza de vida entre los barrios de Denver",
+        "context": "Las vidas más cortas en las comunidades más pobres y racialmente segregadas",
+        "source": "Instituto de Salud de Colorado, 2022"
+      },
+      {
+        "value": "$6.2M",
+        "label": "Evanston demostró que las ciudades pueden hacer reparaciones",
+        "context": "Primera ciudad de EE. UU. en desembolsar reparaciones con financiación pública: 132 destinatarios",
+        "source": "Ciudad de Evanston, 2025"
+      }
+    ]
+  },
+  "reproductive-healthcare": {
+    "title": "Acceso a la atención de la salud reproductiva",
+    "summary": "Defienda y amplíe el acceso al aborto en Denver. Asegúrese de que la promesa constitucional de la Enmienda 79 se convierta en una realidad vivida: reembolso adecuado a los proveedores, sostenibilidad de las clínicas, acceso al aborto con medicamentos y una ciudad que proteja a los pacientes y proveedores de las amenazas federales e interestatales. La autonomía corporal no es negociable.",
+    "keyStats": [
+      {
+        "value": "42 to 23",
+        "label": "Clínicas de aborto en Colorado desde 2011",
+        "context": "Las clínicas se redujeron casi a la mitad, mientras que los abortos aumentaron un 88%. Aumenta la demanda, disminuye el acceso.",
+        "source": "Instituto Guttmacher, 2024"
+      },
+      {
+        "value": "40 to 4,400",
+        "label": "Pacientes de Texas que viajan a Colorado por año",
+        "context": "Después de la SB 8 de Texas y Dobbs, la demanda explotó 100 veces en cuatro años",
+        "source": "CDPHE, 2023; AJOG, 2025"
+      },
+      {
+        "value": "$7.09",
+        "label": "ahorrado por cada $1 gastado en acceso a anticonceptivos",
+        "context": "La atención de la salud reproductiva se encuentra entre las inversiones en salud pública de mayor rendimiento",
+        "source": "Instituto Guttmacher, 2015"
+      }
+    ]
+  },
+  "right-to-disconnect": {
+    "title": "Derecho a la desconexión y semana laboral de 32 horas",
+    "summary": "Su jefe no puede enviarle mensajes de texto a medianoche. Su fin de semana es suyo. Y la evidencia muestra que podemos trabajar 4 días y producir el mismo resultado. Francia, Islandia, Bélgica y España ya lo hicieron.",
+    "keyStats": [
+      {
+        "value": "462 hours",
+        "label": "más por año trabajan los estadounidenses que los alemanes",
+        "context": "Son más de 11 semanas adicionales de trabajo de 40 horas: no somos 11 semanas más productivos",
+        "source": "OCDE, 2023"
+      },
+      {
+        "value": "92%",
+        "label": "de las empresas del Reino Unido mantuvieron la semana de 4 días de forma permanente",
+        "context": "61 empresas, 2,900 trabajadores, prueba de 6 meses: los ingresos se mantuvieron iguales o aumentaron",
+        "source": "Autonomy Research, 2023"
+      },
+      {
+        "value": "+40%",
+        "label": "productividad cuando Microsoft Japón probó los viernes libres",
+        "context": "Oficinas cerradas todos los viernes durante un mes; los costos de electricidad se redujeron en un 23%",
+        "source": "Microsoft Japón, 2019"
+      }
+    ]
+  },
+  "sectoral-bargaining": {
+    "title": "Negociación sectorial y juntas salariales",
+    "summary": "Negociaciones salariales en toda la industria en lugar de la sindicalización empresa por empresa. Todos los trabajadores de restaurantes cubiertos. Todos los trabajadores de hoteles protegidos. El modelo europeo, adaptado para Denver.",
+    "keyStats": [
+      {
+        "value": "94%",
+        "label": "de los trabajadores del sector privado de EE. UU. no tienen sindicato",
+        "context": "El modelo estadounidense empresa por empresa está roto por diseño",
+        "source": "BLS, 2024"
+      },
+      {
+        "value": "7.2%",
+        "label": "tasa de afiliación sindical en Colorado",
+        "context": "Por debajo del promedio nacional ya bajo del 10%; la hospitalidad está cerca de cero",
+        "source": "BLS, 2023"
+      }
+    ]
+  },
+  "small-business-economy": {
+    "title": "Pequeñas Empresas y Economía Local",
+    "summary": "Permisos simplificados para pequeñas empresas. Estabilización del alquiler comercial. Ecosistema completo de cooperativas de trabajadores con una línea de conversión de negocios tradicionales. Adquisiciones municipales que priorizan lo local. Microcréditos para empresarios BIPOC. Cumplimiento de las leyes antimonopolio.",
+    "keyStats": [
+      {
+        "value": "405",
+        "label": "Restaurantes de Denver cerrados en 2 años",
+        "context": "Cierres netos 2022-2024: reemplazados por cadenas",
+        "source": "Colorado Restaurant Association, 2024"
+      },
+      {
+        "value": "$45 vs $14",
+        "label": "el gasto local crea 3 veces más actividad económica",
+        "context": "Cada $100 en un negocio local genera $45 a nivel local, frente a $14 en una cadena",
+        "source": "Civic Economics; Institute for Local Self-Reliance"
+      },
+      {
+        "value": "77%",
+        "label": "de las pequeñas empresas rechazadas por los grandes bancos",
+        "context": "Los empresarios negros comienzan con 1/3 del capital de los empresarios blancos"
+      }
+    ]
+  },
+  "social-housing": {
+    "title": "La Ley de Vivienda Social de Denver",
+    "summary": "10,000 viviendas de propiedad pública y asequibles de forma permanente. De ingresos mixtos, gobernadas democráticamente y financiadas sin aumentar sus impuestos.",
+    "keyStats": [
+      {
+        "value": "7,500",
+        "label": "personas sin hogar en una noche cualquiera",
+        "context": "La lista de espera de la Sección 8 dura años y los propietarios se niegan a aceptar los vales de todos modos",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "60%",
+        "label": "de Viena alojada en viviendas públicas",
+        "source": "Wiener Wohnen, 2023"
+      },
+      {
+        "value": "$400-600K",
+        "label": "costo actual del subsidio por unidad",
+        "context": "La vivienda social cuesta entre $200,000 y $350,000 por unidad. Pagamos el doble para que los promotores se queden con las ganancias.",
+        "source": "Datos del programa Denver HOST / LIHTC"
+      }
+    ]
+  },
+  "tenant-bill-of-rights": {
+    "title": "Carta de Derechos de los Inquilinos de Denver",
+    "summary": "Derecho universal a la asesoría jurídica, notificación con 90 días de antelación para los aumentos de alquiler, protecciones contra represalias y el derecho a organizarse. Cada inquilino merece dignidad.",
+    "keyStats": [
+      {
+        "value": "15,953",
+        "label": "demandas de desalojo en Denver (2025)",
+        "context": "72% por encima de los niveles prepandémicos. Denver va en contra de la tendencia nacional.",
+        "source": "Denver County Court, Princeton Eviction Lab"
+      },
+      {
+        "value": "62%",
+        "label": "de los casos terminan con un fallo a favor del propietario",
+        "context": "Solo el 0.7% de los inquilinos presentaron una respuesta en 2025. La mayoría pierde por falta de comparecencia.",
+        "source": "Colorado Judicial Branch SB24-064 Dashboard"
+      },
+      {
+        "value": "4-5 wks",
+        "label": "desde la presentación hasta el desalojo en Colorado",
+        "context": "Uno de los plazos de desalojo más rápidos del país"
+      }
+    ]
+  },
+  "transportation": {
+    "title": "Transporte y Tránsito Público",
+    "summary": "Tránsito RTD gratuito para residentes de bajos ingresos. Carriles bici protegidos en todos los corredores principales. Visión Cero con aplicación real. Reforma del estacionamiento para reducir los costos de la vivienda. Equidad en el tránsito para los barrios marginados. Marco de ciudad de 15 minutos para que cada residente de Denver pueda satisfacer sus necesidades diarias a pie o en bicicleta.",
+    "keyStats": [
+      {
+        "value": "93",
+        "label": "personas muertas en las calles de Denver en 2025",
+        "context": "El año más mortífero desde 2013. Muertes de peatones aumentaron un 34%. Visión Cero está fallando.",
+        "source": "Denver Vision Zero Dashboard, 2025"
+      },
+      {
+        "value": "38%",
+        "label": "caída en el número de pasajeros de RTD desde 2019",
+        "context": "De 105.8 millones a 65.2 millones de pasajeros, mientras que las ciudades pares se recuperaron a más del 85%",
+        "source": "Denver Post, October 2025"
+      },
+      {
+        "value": "$3.5B/yr",
+        "label": "perdido por la congestión del tráfico en Denver",
+        "context": "El tránsito gratuito cuesta $35 millones, lo que representa el 1% de las pérdidas por congestión",
+        "source": "Texas A&M Transportation Institute, 2025"
+      }
+    ]
+  },
+  "universal-childcare": {
+    "title": "Cuidado Infantil Universal",
+    "summary": "Cuidado infantil financiado con fondos públicos a partir de los 6 meses. Limitado a $200/mes para cualquier familia. Gratuito para personas de bajos ingresos. Porque ningún padre o madre debería tener que elegir entre trabajar y criar a sus hijos.",
+    "keyStats": [
+      {
+        "value": "$2,200/mo",
+        "label": "el cuidado infantil cuesta más que la matrícula universitaria",
+        "context": "El cuidado infantil en Denver cuesta entre $16,800 y $26,400 al año por niño, más que la matrícula de CU Boulder",
+        "source": "Economic Policy Institute, 2023"
+      },
+      {
+        "value": "$13-16/hr",
+        "label": "salarios de pobreza para los trabajadores de cuidado infantil",
+        "context": "Las personas responsables de la etapa de desarrollo más crítica ganan menos que los trabajadores de comida rápida",
+        "source": "BLS, área metropolitana de Denver, 2024"
+      },
+      {
+        "value": "$7-13",
+        "label": "devuelto por cada $1 invertido en la primera infancia",
+        "context": "La inversión pública con mayor rendimiento disponible",
+        "source": "James Heckman, economista laureado con el Nobel, 2006"
+      }
+    ]
+  },
+  "vacancy-tax": {
+    "title": "Impuesto sobre la Vivienda Vacía en Unidades Vacías",
+    "summary": "Impuesto progresivo sobre las propiedades residenciales vacías. No se puede tener viviendas vacías mientras la gente duerme en la calle.",
+    "keyStats": [
+      {
+        "value": "5,000-8,000",
+        "label": "viviendas vacías en Denver",
+        "context": "7,500 personas no tienen hogar mientras miles de unidades permanecen vacías para la especulación",
+        "source": "U.S. Census Bureau, ACS 2022"
+      },
+      {
+        "value": "$50-80M",
+        "label": "ingresos anuales estimados para Denver",
+        "context": "Cada dólar se destina al Fondo Fiduciario de Vivienda Asequible para vivienda social y CLT (fideicomisos de tierras comunitarias)"
+      }
+    ]
+  },
+  "waste-circular-economy": {
+    "title": "Reducción de Residuos y Economía Circular",
+    "summary": "Compostaje universal en la acera. Desvío del 90% de los residuos para 2035. Prohibiciones de bolsas de plástico y poliestireno. Derecho a la reparación. Responsabilidad del productor por los residuos de envases. Operaciones municipales sin residuos. Resiliencia hídrica y reutilización de aguas grises para el futuro árido de Colorado.",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "residuos desviados: el 74% va al vertedero",
+        "source": "Denverite, 2024"
+      },
+      {
+        "value": "9x",
+        "label": "más empleos del reciclaje que del vertido",
+        "context": "La reutilización y la reparación crean hasta 30 veces más. Cero residuos es un programa de empleos.",
+        "source": "Eco-Cycle; Institute for Local Self-Reliance"
+      }
+    ]
+  },
+  "water-security": {
+    "title": "Seguridad y Conservación del Agua",
+    "summary": "Proteja el futuro hídrico de Denver. Normas de conservación obligatorias, reciclaje de aguas grises, infraestructura resistente a la sequía y tarifas de agua equitativas. Denver es una ciudad semiárida que actúa como si el agua fuera ilimitada. No lo es.",
+    "keyStats": [
+      {
+        "value": "14-17 in.",
+        "label": "lluvia por año: la mitad del promedio nacional",
+        "context": "Denver es una ciudad semiárida que tiene paisajes como si lloviera en Seattle"
+      },
+      {
+        "value": "50%",
+        "label": "agua residencial utilizada en el riego del césped",
+        "context": "El pasto azul de Kentucky necesita más de 30 pulgadas de agua. Denver recibe entre 14 y 17."
+      },
+      {
+        "value": "-50%",
+        "label": "Melbourne redujo el uso de agua a la mitad, y lo mantuvo",
+        "context": "Conservación obligatoria durante la sequía, normas permanentes después",
+        "source": "City of Melbourne"
+      }
+    ]
+  },
+  "works-councils": {
+    "title": "Consejos de Empresa y Codeterminación de los Trabajadores",
+    "summary": "Los trabajadores eligen consejos en cada lugar de trabajo con poder real sobre la programación, la seguridad y los despidos. Los trabajadores se sientan en los consejos de administración de las empresas. Así es como Alemania se convirtió en una potencia industrial: tratando a los trabajadores como socios, no como costes.",
+    "keyStats": [
+      {
+        "value": "350:1",
+        "label": "Relación entre el salario del director general y el del trabajador en la actualidad",
+        "context": "Desde 20:1 en 1965, los trabajadores son más productivos, los directores generales se llevaron todas las ganancias",
+        "source": "Economic Policy Institute, 2022"
+      },
+      {
+        "value": "40M+",
+        "label": "Trabajadores alemanes cubiertos por los consejos de empresa",
+        "context": "Ley desde 1952: mayor productividad, menor rotación, salarios más altos que en Estados Unidos",
+        "source": "German Works Constitution Act"
+      },
+      {
+        "value": "12,000",
+        "label": "Empleados de la ciudad de Denver: el punto de partida",
+        "context": "La ciudad tiene autoridad directa para implementar consejos de empresa para su propia fuerza laboral hoy"
+      }
+    ]
+  },
+  "youth-services": {
+    "title": "Servicios y Oportunidades para la Juventud",
+    "summary": "Trabajos de verano garantizados para todos los adolescentes de Denver. Centros juveniles durante todo el año en cada distrito. Consejo asesor juvenil con autoridad presupuestaria real. Consejeros de salud mental en cada escuela. Programas de intervención contra la violencia.",
+    "keyStats": [
+      {
+        "value": "58%",
+        "label": "por encima del promedio nacional: suicidio de jóvenes en Colorado",
+        "context": "El suicidio es la principal causa de muerte de los habitantes de Colorado de entre 10 y 24 años",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      },
+      {
+        "value": "38%",
+        "label": "de estudiantes de DPS con ausencias crónicas",
+        "context": "Más de 1 de cada 3 estudiantes faltó al 10% o más de los días de escuela en 2022-23",
+        "source": "DPS Accountability Reports"
+      },
+      {
+        "value": "$7-10",
+        "label": "devuelto por cada $1 invertido en la juventud",
+        "context": "A través de la reducción del encarcelamiento, mayores ingresos y una mejor salud",
+        "source": "Heckman and Masterov; Fight Crime: Invest in Kids"
+      }
+    ]
+  }
+}

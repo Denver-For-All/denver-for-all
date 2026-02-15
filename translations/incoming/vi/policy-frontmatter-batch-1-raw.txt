@@ -1,0 +1,222 @@
+```json
+{
+  "aging-accessibility": {
+    "title": "Tuổi Già, Khả Năng Tiếp Cận & Hỗ Trợ Người Khuyết Tật",
+    "summary": "Thiết kế thành phố thân thiện với người lớn tuổi cho nhóm dân số phát triển nhanh nhất của Denver. Khả năng tiếp cận phổ quát vượt quá mức tối thiểu của ADA. Mở rộng các dịch vụ cho người cao niên. Hỗ trợ người chăm sóc. Phòng ngừa sự cô lập xã hội.",
+    "keyStats": [
+      {
+        "value": "24%",
+        "label": "người cao niên ở Colorado bị cô lập về mặt xã hội",
+        "context": "Liên quan đến việc tăng 50% nguy cơ mắc chứng mất trí nhớ và tỷ lệ tử vong tương đương với hút thuốc",
+        "source": "CDC, 2021"
+      },
+      {
+        "value": "$10,600+/mo",
+        "label": "cho một viện dưỡng lão ở Colorado",
+        "context": "Sống tại chỗ với sự hỗ trợ của cộng đồng tốn $2,000-$4,000/tháng — một phần nhỏ",
+        "source": "Genworth/CareScout, 2024"
+      }
+    ]
+  },
+  "anti-displacement": {
+    "title": "Khu Vực Chống Di Dời",
+    "summary": "Bảo vệ cộng đồng xung quanh các trạm trung chuyển và khu vực phát triển. Không xây dựng đường sắt nhẹ để làm giàu cho các khu dân cư nữa.",
+    "keyStats": [
+      {
+        "value": "1/2 mile",
+        "label": "từ các trạm mới, giá thuê tăng đột biến",
+        "context": "Denver xây dựng hệ thống giao thông công cộng, sau đó những người đáng lẽ được phục vụ lại bị di dời",
+        "source": "Federal Reserve Bank of Philadelphia, 2019"
+      },
+      {
+        "value": "8-15%",
+        "label": "số lượng căn hộ giá cả phải chăng hiện đang được yêu cầu",
+        "source": "Sắc lệnh EHA của Denver"
+      },
+      {
+        "value": "30%",
+        "label": "số lượng căn hộ giá cả phải chăng bắt buộc trong các công trình xây dựng mới",
+        "context": "Ngay tại chỗ, không tính phí thay thế. Barcelona và Montreal đã thực hiện thành công việc này."
+      }
+    ]
+  },
+  "arts-culture": {
+    "title": "Văn Hóa Nghệ Thuật & Nền Kinh Tế Sáng Tạo",
+    "summary": "Bảo vệ nghệ sĩ khỏi bị di dời. Phần trăm dành cho nghệ thuật trong các công trình xây dựng mới. Không gian biểu diễn và studio giá cả phải chăng. Chỉ định khu văn hóa. Đầu tư vào nền kinh tế sáng tạo của Denver như một động cơ kinh tế.",
+    "keyStats": [
+      {
+        "value": "$3.12B",
+        "label": "nghệ thuật Denver tạo ra nhiều hơn thể thao chuyên nghiệp",
+        "context": "14.5 triệu người tham dự các sự kiện văn hóa so với 4.9 triệu người tham dự các sự kiện thể thao chuyên nghiệp của Denver cộng lại",
+        "source": "CBCA Economic Activity Study, 2024"
+      },
+      {
+        "value": "13.5%",
+        "label": "quỹ SCFD đến được các nhóm nghệ thuật địa phương nhỏ",
+        "context": "Hơn 280 tổ chức nhỏ chia nhau 13.5% trong khi 5 tổ chức lớn nhận 65.5% trong số $85 triệu",
+        "source": "SCFD Annual Report, 2024"
+      }
+    ]
+  },
+  "autonomous-vehicles": {
+    "title": "An Toàn & Trách Nhiệm Giải Trình của Xe Tự Hành",
+    "summary": "Waymo sắp đến Denver. Colorado hầu như không có quy tắc nào. Chúng ta cần các tiêu chuẩn an toàn cộng đồng, bảo vệ quyền lợi cho người lao động là tài xế bị mất việc, tích hợp giao thông công cộng, bảo vệ quyền riêng tư dữ liệu và kiểm soát dân chủ địa phương đối với cách xe tự lái hoạt động trên đường phố của chúng ta.",
+    "keyStats": [
+      {
+        "value": "0",
+        "label": "quy định về xe tự hành mà Denver hiện có",
+        "context": "Không có giấy phép, không báo cáo sự cố, không có quy tắc về quyền riêng tư dữ liệu",
+        "source": "Colorado SB 17-213"
+      },
+      {
+        "value": "85%",
+        "label": "số dặm xe tăng thêm từ việc đi chung xe so với số chuyến đi được thay thế",
+        "source": "UC Davis / Schaller Consulting"
+      },
+      {
+        "value": "$0",
+        "label": "chi phí cho người nộp thuế ở Denver",
+        "context": "Các công ty AV trả phí giấy phép, phí đánh giá trên mỗi chuyến đi và tài trợ cho Quỹ Chuyển Đổi Tài Xế (Driver Transition Fund)",
+      }
+    ]
+  },
+  "climate-environment": {
+    "title": "Khí Hậu & Công Bằng Môi Trường",
+    "summary": "Điều tra ô nhiễm phóng xạ từ Rocky Flats ảnh hưởng đến Denver. Cải tạo chì trong đất và nước ở Denver. 100% hoạt động của thành phố bằng năng lượng tái tạo vào năm 2030. Công bằng môi trường cho các cộng đồng tuyến đầu.",
+    "keyStats": [
+      {
+        "value": "24,000 yrs",
+        "label": "chu kỳ bán rã của plutonium — cách Denver 16 dặm",
+        "context": "Việc dọn dẹp Rocky Flats được tuyên bố là hoàn tất. Lấy mẫu độc lập cho thấy điều ngược lại.",
+      },
+      {
+        "value": "10-15F",
+        "label": "nóng hơn ở các khu dân cư có thu nhập thấp so với các khu dân cư giàu có",
+        "context": "Đảo nhiệt đô thị tuân theo thu nhập và chủng tộc. Tán cây là 19.7% — mục tiêu là 30%.",
+        "source": "Trust for Public Land, 2023"
+      },
+      {
+        "value": "300+",
+        "label": "ngày nắng mỗi năm — năng lượng mặt trời chưa được khai thác",
+        "context": "Burlington, VT đạt 100% năng lượng tái tạo vào năm 2014. Denver có năng lượng mặt trời tốt hơn hầu hết mọi thành phố của Hoa Kỳ.",
+        "source": "NREL Solar Resource Data"
+      }
+    ]
+  },
+  "community-land-trusts": {
+    "title": "Quỹ Đất Cộng Đồng Do Thành Phố Tài Trợ",
+    "summary": "Quyền sở hữu nhà ở giá cả phải chăng vĩnh viễn thông qua đất do cộng đồng kiểm soát. Nhà ở luôn có giá cả phải chăng, không chỉ đến khi hết hạn tín dụng thuế.",
+    "keyStats": [
+      {
+        "value": "10x",
+        "label": "tỷ lệ tịch thu nhà thấp hơn so với thông thường",
+        "context": "Những người sở hữu nhà CLT hầu như không bao giờ mất nhà — mô hình này được thiết kế để bảo vệ họ",
+        "source": "Champlain Housing Trust, Burlington VT"
+      },
+      {
+        "value": "20-40",
+        "label": "số lượng nhà CLT được thêm vào mỗi năm ở Denver",
+        "context": "Với tốc độ này, sẽ mất hơn 50 năm để đạt được 2,500 ngôi nhà",
+        "source": "Elevation Community Land Trust"
+      },
+      {
+        "value": "2,800+",
+        "label": "số lượng nhà CLT được xây dựng ở Burlington kể từ năm 1984",
+        "context": "CLT lớn nhất ở Hoa Kỳ chứng minh mô hình này hoạt động ở quy mô lớn, qua nhiều thế hệ",
+        "source": "Champlain Housing Trust"
+      }
+    ]
+  },
+  "corporate-landlord-ban": {
+    "title": "Cấm Chủ Đất Doanh Nghiệp",
+    "summary": "Denver là dành cho con người. Cấm các nhà đầu tư tổ chức mua bất động sản dân cư. Nhà là để ở, không phải để làm danh mục đầu tư của quỹ đầu cơ.",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "số lượng nhà ở giá cả phải chăng được các nhà đầu tư mua",
+        "source": "Redfin, 2023"
+      },
+      {
+        "value": "2-3x",
+        "label": "tỷ lệ đuổi người thuê nhà cao hơn từ các chủ đất doanh nghiệp",
+        "context": "Các chủ đất Phố Wall đuổi người thuê nhà với tỷ lệ gấp đôi hoặc gấp ba so với các chủ đất cá nhân"
+      },
+      {
+        "value": "59%",
+        "label": "người dân Berlin đã bỏ phiếu để lấy lại nhà ở",
+        "source": "Cuộc trưng cầu dân ý ở Berlin năm 2021"
+      }
+    ]
+  },
+  "disability-rights": {
+    "title": "Quyền & Hòa Nhập cho Người Khuyết Tật",
+    "summary": "Hòa nhập đầy đủ cho 10% cư dân Denver đang sống chung với khuyết tật. Thực thi ADA một cách triệt để. Nhà ở dễ tiếp cận trong mọi công trình xây dựng mới. Hỗ trợ việc làm và yêu cầu đối với nhà thầu thành phố. Dịch vụ sống độc lập. Trách nhiệm giải trình của cảnh sát đối với bạo lực liên quan đến khuyết tật. Không có gì về chúng tôi mà không có chúng tôi.",
+    "keyStats": [
+      {
+        "value": "70,000+",
+        "label": "cư dân Denver sống chung với khuyết tật",
+        "context": "10% dân số thành phố — nhóm thiểu số mà bất kỳ ai cũng có thể tham gia bất cứ lúc nào",
+        "source": "U.S. Census Bureau, ACS 2019-2023"
+      },
+      {
+        "value": "42-point",
+        "label": "khoảng cách việc làm cho người Colorado khuyết tật",
+        "context": "37.7% có việc làm so với 80% đối với người không khuyết tật — và những người làm việc kiếm được 74 xu trên một đô la",
+        "source": "Bureau of Labor Statistics, 2024"
+      },
+      {
+        "value": "$100-600",
+        "label": "cho mỗi căn hộ để thiết kế phổ quát trong các công trình xây dựng mới",
+        "context": "Việc trang bị thêm sau này tốn $10,000-$50,000+. Xây dựng đúng ngay từ đầu rẻ hơn 100 lần.",
+        "source": "National Association of Home Builders"
+      }
+    ]
+  },
+  "drug-policy": {
+    "title": "Phi Tội Phạm Hóa & Chữa Lành",
+    "summary": "Phi tội phạm hóa tất cả các chất để sử dụng cá nhân. Chuyển hướng ngân sách thực thi sang điều trị và phục hồi. Các địa điểm tiêu thụ an toàn. Xóa bỏ các bản án trước đây. Giảm thiểu tác hại cứu sống nhiều người.",
+    "keyStats": [
+      {
+        "value": "827",
+        "label": "ca tử vong do ngộ độc ma túy ở Denver năm 2023",
+        "context": "Fentanyl liên quan đến 64%. Denver đã thực hiện hơn 2,800 vụ bắt giữ liên quan đến ma túy. Số ca tử vong tiếp tục tăng.",
+        "source": "Denver Office of the Medical Examiner, 2024"
+      },
+      {
+        "value": "-95%",
+        "label": "HIV trong số những người sử dụng ma túy sau khi Bồ Đào Nha phi tội phạm hóa",
+        "context": "Số ca tử vong do dùng thuốc quá liều giảm 80%. Sử dụng ma túy giảm xuống dưới mức trung bình của EU. Nó hiệu quả.",
+        "source": "SICAD (Portugal), 2023"
+      },
+      {
+        "value": "0 deaths",
+        "label": "tại hơn 200 địa điểm tiêu thụ được giám sát trên toàn thế giới",
+        "source": "Potier et al., Drug and Alcohol Dependence, 2014"
+      }
+    ]
+  },
+  "education": {
+    "title": "Giáo Dục Cho Mọi Trẻ Em",
+    "summary": "Chương trình Mẫu Giáo Phổ Cập, bữa ăn miễn phí ở trường, các chương trình sau giờ học ở mọi khu dân cư, hỗ trợ nhà ở cho giáo viên và không tư nhân hóa nữa.",
+    "keyStats": [
+      {
+        "value": "1 in 4",
+        "label": "trẻ em ở Denver phải đối mặt với tình trạng mất an toàn thực phẩm",
+        "context": "Bữa ăn miễn phí phổ quát giúp loại bỏ cả nạn đói và sự kỳ thị khi xác định bữa trưa miễn phí",
+        "source": "Hunger Free Colorado, 2023"
+      },
+      {
+        "value": "40%+",
+        "label": "giáo viên DPS cân nhắc rời đi trong vòng 2 năm",
+        "context": "Mức lương trung bình của giáo viên là $58K nhưng chỉ riêng nhà ở ở Denver đã cần $55K",
+        "source": "Denver Classroom Teachers Association, 2023"
+      },
+      {
+        "value": "99%",
+        "label": "tỷ lệ nhập học mẫu giáo ở Pháp (miễn phí từ 3 tuổi)",
+        "context": "Mọi hệ thống giáo dục hoạt động hàng đầu đều có chương trình mẫu giáo phổ cập, bữa ăn miễn phí và giáo viên được trả lương cao"
+      }
+    ]
+  }
+}
+```

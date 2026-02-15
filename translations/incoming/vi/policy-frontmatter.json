@@ -1,0 +1,871 @@
+{
+  "emergency-preparedness": {
+    "title": "Ứng Phó Khẩn Cấp & Khả Năng Thích Ứng với Biến Đổi Khí Hậu",
+    "summary": "Kế hoạch ứng phó với khói cháy rừng với các khu trú ẩn không khí sạch ở mọi khu dân cư. Kế hoạch hành động ứng phó với nhiệt độ khắc nghiệt với các trung tâm làm mát. Chuẩn bị sẵn sàng ứng phó với lũ lụt và cơ sở hạ tầng thoát nước mưa xanh. Các trung tâm phục hồi cộng đồng. Ứng phó thảm họa công bằng.",
+    "keyStats": [
+      {
+        "value": "$1 to $6",
+        "label": "mỗi đô la đầu tư vào công tác chuẩn bị giúp tiết kiệm sáu đô la chi phí ứng phó",
+        "context": "Denver sẽ phải trả giá cho những tác động của biến đổi khí hậu dù bằng cách nào — đầu tư chủ động giúp cứu sống người dân và tiết kiệm tiền bạc",
+        "source": "FEMA / National Institute of Building Sciences, 2019"
+      },
+      {
+        "value": "89",
+        "label": "ca tử vong liên quan đến nhiệt độ cao ở Colorado năm 2023",
+        "context": "Cư dân có thu nhập thấp, người già, người lao động ngoài trời và người vô gia cư phải chịu ảnh hưởng nặng nề nhất",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      }
+    ]
+  },
+  "fiscal-reform": {
+    "title": "Cải Cách Tài Chính & Nguồn Thu Lũy Tiến",
+    "summary": "Sửa chữa cơ cấu doanh thu bị phá vỡ của Denver. Thay thế thuế doanh thu lũy thoái bằng các giải pháp lũy tiến. Giải quyết cuộc khủng hoảng ngân sách mà không cắt giảm các dịch vụ mà các gia đình lao động phụ thuộc vào. Buộc các tập đoàn và chủ sở hữu tài sản giàu có phải trả phần công bằng của họ.",
+    "keyStats": [
+      {
+        "value": "~50%",
+        "label": "doanh thu của Denver từ thuế doanh thu lũy thoái",
+        "context": "Các gia đình kiếm được $35 nghìn đô phải trả mức thuế suất hiệu quả cao hơn so với những người kiếm được $350 nghìn đô",
+        "source": "Institute on Taxation and Economic Policy, 2018"
+      },
+      {
+        "value": "$115-175M",
+        "label": "doanh thu lũy tiến mới mỗi năm",
+        "context": "Chuyển gánh nặng từ các gia đình lao động sang các tập đoàn và chủ sở hữu bất động sản sang trọng"
+      }
+    ]
+  },
+  "food-access": {
+    "title": "Tiếp Cận Thực Phẩm & Nông Nghiệp Đô Thị",
+    "summary": "Xóa bỏ tình trạng thiếu lương thực ở Denver vào năm 2030. Sáng kiến cửa hàng góc phố lành mạnh. Mở rộng trang trại đô thị trên đất thành phố. Bữa ăn học đường miễn phí cho tất cả học sinh DPS. Các trung tâm thực phẩm cộng đồng ở mọi khu vực thiếu lương thực. Bảo vệ và mở rộng các khu vườn cộng đồng.",
+    "keyStats": [
+      {
+        "value": "33%",
+        "label": "cư dân Denver phải đối mặt với tình trạng mất an ninh lương thực",
+        "context": "Gấp ba lần tỷ lệ trước đại dịch — và tăng lên sau khi các chương trình mở rộng SNAP hết hạn",
+        "source": "Denver DDPHE; Hunger Free Colorado"
+      },
+      {
+        "value": "93%",
+        "label": "khu Globeville không có cửa hàng tạp hóa nào gần đó",
+        "context": "Ở Clayton là 100%. Các khu dân cư chủ yếu là người Da đen và La-tinh.",
+        "source": "Denver Human Services Index"
+      },
+      {
+        "value": "60%",
+        "label": "giảm tỷ lệ tử vong ở trẻ em ở Belo Horizonte",
+        "context": "Brazil tuyên bố thực phẩm là quyền vào năm 1993 — chỉ tốn 2% ngân sách thành phố",
+        "source": "City of Belo Horizonte"
+      }
+    ]
+  },
+  "gig-worker-protections": {
+    "title": "Bảo Vệ Người Lao Động Thời Vụ",
+    "summary": "Nếu bạn làm việc ở Denver, bạn xứng đáng được hưởng các biện pháp bảo vệ của Denver. Phân loại lại người lao động thời vụ là nhân viên theo bài kiểm tra ABC. Chấm dứt lỗ hổng khai thác.",
+    "keyStats": [
+      {
+        "value": "$200M",
+        "label": "các nền tảng đã chi để giữ người lao động là nhà thầu"
+      },
+      {
+        "value": "50,000",
+        "label": "người lao động thời vụ ở Denver không được bảo vệ cơ bản",
+        "context": "Không được chăm sóc sức khỏe, không được nghỉ phép có lương, không được bảo hiểm thất nghiệp, không có quyền truy đòi",
+        "source": "McKinsey Global Institute, 2022"
+      },
+      {
+        "value": "28 million",
+        "label": "người lao động nền tảng EU có được quyền của người lao động",
+        "context": "Chỉ thị về Công việc Nền tảng của EU (2024) tạo ra sự suy đoán về việc làm trên toàn lục địa",
+        "source": "European Commission, 2021"
+      }
+    ]
+  },
+  "government-transparency": {
+    "title": "Minh Bạch Chính Phủ & Quyền Kỹ Thuật Số",
+    "summary": "Sắc lệnh giám sát công nghệ giám sát. Dữ liệu mở cho tất cả các hoạt động của thành phố. Các cuộc bầu cử được tài trợ công khai. Tiết lộ người vận động hành lang và các hạn chế về cửa quay. Trách nhiệm giải trình thuật toán cho các hệ thống AI của thành phố. Chủ quyền dữ liệu và cơ sở hạ tầng công cộng kỹ thuật số.",
+    "keyStats": [
+      {
+        "value": "2M+",
+        "label": "xe cộ được chụp ảnh hàng tháng bởi camera Flock",
+        "source": "Denver Gazette, 2025"
+      },
+      {
+        "value": "$498,509",
+        "label": "Hợp đồng Flock — chỉ dưới ngưỡng $500 nghìn đô",
+        "context": "Thị trưởng đã bỏ qua cuộc bỏ phiếu 12-0 của hội đồng chống lại việc gia hạn bằng cách cấu trúc hợp đồng dưới ngưỡng",
+        "source": "Denver Gazette, 2025"
+      },
+      {
+        "value": "5x",
+        "label": "nhiều nhà tài trợ hơn với phiếu thưởng dân chủ",
+        "source": "Georgetown McCabe Center, 2023"
+      }
+    ],
+    "petitionTitle": "Yêu cầu Cải cách Hiến chương Denver"
+  },
+  "guaranteed-income": {
+    "title": "Thu Nhập Đảm Bảo Denver",
+    "summary": "Thanh toán tiền mặt trực tiếp cho cư dân có thu nhập thấp nhất của Denver. Không ràng buộc. Hơn 150 thành phố đã thử nghiệm điều này. Không một thành phố nào cho thấy tình trạng giảm việc làm. Cook County đã biến nó thành vĩnh viễn. Denver cũng nên như vậy.",
+    "keyStats": [
+      {
+        "value": "150+",
+        "label": "các thành phố của Hoa Kỳ đã thử nghiệm thu nhập đảm bảo",
+        "context": "Không một thử nghiệm nào cho thấy tình trạng giảm việc làm — nhiều thử nghiệm cho thấy sự gia tăng",
+        "source": "Mayors for a Guaranteed Income, 2025"
+      },
+      {
+        "value": "12.4%",
+        "label": "cư dân Denver dưới mức nghèo khổ",
+        "context": "Ở Montbello, Westwood và Sun Valley, tỷ lệ nghèo vượt quá 30%",
+        "source": "U.S. Census Bureau, 2023"
+      },
+      {
+        "value": "+12pts",
+        "label": "tăng việc làm trong thử nghiệm Stockton",
+        "context": "Việc làm toàn thời gian đã tăng từ 28% lên 40% trong số những người nhận",
+        "source": "Stockton Economic Empowerment Demonstration"
+      }
+    ]
+  },
+  "healthcare": {
+    "title": "Chăm Sóc Sức Khỏe là Quyền",
+    "summary": "Xóa nợ y tế, minh bạch chi phí bệnh viện, ứng phó khủng hoảng sức khỏe tâm thần phi cảnh sát, trung tâm y tế cộng đồng ở mọi khu dân cư, chăm sóc răng miệng cho tất cả mọi người và một hệ thống sức khỏe hành vi vượt ra ngoài ứng phó khủng hoảng.",
+    "keyStats": [
+      {
+        "value": "530,000/yr",
+        "label": "người Mỹ bị phá sản vì nợ y tế",
+        "context": "Mọi quốc gia giàu có khác đều có số không. Hoa Kỳ là quốc gia duy nhất."
+      },
+      {
+        "value": "$5M to $500M",
+        "label": "tiền của thành phố có thể xóa tới $500M nợ",
+        "context": "Người mua nợ trả 1-5 xu cho mỗi đô la. Thành phố mua nó và hủy bỏ nó.",
+        "source": "Undue Medical Debt program"
+      }
+    ]
+  },
+  "housing-first": {
+    "title": "Ưu Tiên Nhà Ở - Chấm Dứt Tình Trạng Vô Gia Cư ở Denver",
+    "summary": "Cung cấp nhà ở cho mọi người trước, sau đó giải quyết mọi vấn đề khác. Phần Lan đã làm được điều đó và là quốc gia duy nhất trong EU có tình trạng vô gia cư đang giảm. Nó rẻ hơn so với các khu trú ẩn. Nó hoạt động.",
+    "keyStats": [
+      {
+        "value": "9,065",
+        "label": "người trải qua tình trạng vô gia cư ở khu vực đô thị Denver",
+        "context": "Thống kê Điểm Thời gian năm 2024 cho thấy cuộc khủng hoảng tiếp tục gia tăng",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "$40-60K",
+        "label": "chi phí hàng năm cho mỗi người để quản lý tình trạng vô gia cư",
+        "context": "Cách tiếp cận dịch vụ khẩn cấp. Ưu Tiên Nhà Ở có chi phí $15-25 nghìn đô — chưa bằng một nửa.",
+        "source": ""
+      },
+      {
+        "value": "$15-25K",
+        "label": "chi phí hàng năm cho nhà ở hỗ trợ thường xuyên",
+        "context": "Phần Lan đã chứng minh điều này hoạt động trên toàn quốc. Houston đã chứng minh điều này hoạt động ở Hoa Kỳ.",
+        "source": ""
+      }
+    ]
+  },
+  "immigration-anti-exploitation": {
+    "title": "Phòng Chống Bóc Lột & Buôn Bán Người",
+    "summary": "Thực thi chuyên trách chống lại hành vi trộm cắp tiền lương và buôn bán lao động. Đàn áp theo ngành cụ thể đối với xây dựng, nhà hàng và nông nghiệp. Bảo vệ chống khai thác nhà ở. Người nhập cư là người lao động có quyền, không phải lao động dùng một lần.",
+    "keyStats": [
+      {
+        "value": "$50B/yr",
+        "label": "bị đánh cắp từ người lao động — nhiều hơn tất cả các vụ cướp",
+        "context": "Trộm cắp tiền lương làm lu mờ mọi hình thức tội phạm tài sản khác ở Hoa Kỳ",
+        "source": "Economic Policy Institute, 2017"
+      },
+      {
+        "value": "11,000+",
+        "label": "nạn nhân buôn người ở Colorado ngay bây giờ",
+        "context": "Tập trung vào xây dựng, nông nghiệp, nhà hàng và công việc gia đình",
+        "source": "Colorado Human Trafficking Council, 2023"
+      },
+      {
+        "value": "$50M+",
+        "label": "thu hồi cho người lao động trong một năm (NYC)",
+        "context": "Thực thi chủ động tạo ra thu hồi nhiều hơn 5-10 lần so với chờ đợi khiếu nại",
+        "source": "NYC Dept. of Consumer and Worker Protection, 2023"
+      }
+    ]
+  },
+  "immigration-newcomer-reception": {
+    "title": "Tiếp Đón Người Mới & Hỗ Trợ Tị Nạn",
+    "summary": "Cơ sở hạ tầng tiếp đón có hệ thống. Hỗ trợ cấp phép làm việc nhanh chóng. Nhà ở chuyển tiếp với các đường dẫn việc làm. Vận động chính sách hoàn trả của liên bang. Không còn những cuộc tranh giành khẩn cấp - một kế hoạch thực sự.",
+    "keyStats": [
+      {
+        "value": "$150/night",
+        "label": "khu trú ẩn khẩn cấp so với $30/đêm chuyển tiếp",
+        "context": "Denver đã chi hơn $100 triệu đô la cho ứng phó khẩn cấp mà một hệ thống có kế hoạch có thể cung cấp với một phần tư chi phí",
+        "source": "National Alliance to End Homelessness, 2023"
+      },
+      {
+        "value": "40,000+",
+        "label": "người mới đến mà không có hệ thống tại chỗ",
+        "context": "Denver đã chứng minh rằng họ có lòng trắc ẩn. Bây giờ nó cần cơ sở hạ tầng.",
+        "source": "Denver Human Services, 2024"
+      }
+    ]
+  },
+  "immigration-sanctuary": {
+    "title": "Thành Phố Tị Nạn Toàn Diện",
+    "summary": "Không hợp tác với ICE. Cấp ID thành phố cho tất cả mọi người. Thành phố tài trợ bảo vệ chống trục xuất. Tiếp cận ngôn ngữ trong mọi dịch vụ. Những người hàng xóm của chúng ta không phải là tội phạm.",
+    "keyStats": [
+      {
+        "value": "1.3M+",
+        "label": "ID thành phố đã được cấp riêng tại NYC",
+        "source": "Báo cáo Thường niên IDNYC"
+      }
+    ]
+  },
+  "immigration-workforce-integration": {
+    "title": "Hội Nhập Lực Lượng Lao Động Nhập Cư",
+    "summary": "Công nhận bằng cấp cho các chuyên gia được đào tạo ở nước ngoài. Các chương trình cầu nối để giải quyết tình trạng thiếu hụt lao động. Quỹ khởi nghiệp cho người nhập cư. Đừng lãng phí tài năng - Denver cần mọi lao động có tay nghề.",
+    "keyStats": [
+      {
+        "value": "2M",
+        "label": "người nhập cư có trình độ đại học bị mắc kẹt trong những công việc không phù hợp",
+        "context": "Bác sĩ được đào tạo ở nước ngoài lái Uber. Kỹ sư làm việc trong bếp. Giáo viên dọn dẹp văn phòng.",
+        "source": "Viện Chính sách Di cư, 2023"
+      },
+      {
+        "value": "75%",
+        "label": "người nhập cư được hướng dẫn tìm được việc làm trong lĩnh vực của họ",
+        "source": "TRIEC, 2021"
+      },
+      {
+        "value": "4:1",
+        "label": "lợi nhuận trên mỗi đô la đầu tư",
+        "source": "TRIEC, 2021"
+      }
+    ]
+  },
+  "lgbtq-sanctuary": {
+    "title": "Khu Bảo Tồn & Bảo Vệ LGBTQ+",
+    "summary": "Bảo vệ chống phân biệt đối xử LGBTQ+ toàn diện của thành phố. Khu bảo tồn chăm sóc sức khỏe cho người chuyển giới. Cấm liệu pháp chuyển đổi. Bảo vệ khỏi sự thoái trào của liên bang. Bởi vì Denver không chờ đợi sự cho phép để bảo vệ người dân của mình.",
+    "keyStats": [
+      {
+        "value": "40%",
+        "label": "thanh niên vô gia cư là LGBTQ+",
+        "context": "Bị gia đình từ chối một cách không cân xứng và thất bại bởi mọi hệ thống",
+        "source": "True Colors United, 2023"
+      },
+      {
+        "value": "45.5%",
+        "label": "người lớn LGBTQ+ phải đối mặt với sự phân biệt đối xử trong công việc",
+        "context": "Gần gấp đôi khả năng sống trong nghèo đói so với những người không phải là LGBTQ+",
+        "source": "Viện Williams, 2023"
+      },
+      {
+        "value": "395+",
+        "label": "thành phố của Hoa Kỳ có các biện pháp bảo vệ LGBTQ+ tại địa phương",
+        "context": "Sắc lệnh thành phố là hình thức bảo vệ pháp lý LGBTQ+ phổ biến và bền vững nhất",
+        "source": "Dự án Thúc đẩy Phong trào, 2025"
+      }
+    ]
+  },
+  "living-wage": {
+    "title": "Mức Lương Tối Thiểu $25",
+    "summary": "Một mức lương đủ sống thực sự cho một thành phố thực sự. $25/giờ là số tiền mà một gia đình bốn người cần để tồn tại ở Denver - và vẫn không đủ cho các bậc cha mẹ đơn thân.",
+    "keyStats": [
+      {
+        "value": "$25/hr",
+        "label": "là những gì một gia đình bốn người thực sự cần",
+        "context": "Máy tính Mức Lương Đủ Sống của MIT cho Quận Denver - và vẫn không đủ cho các bậc cha mẹ đơn thân",
+        "source": "Máy tính Mức Lương Đủ Sống của MIT, 2024"
+      },
+      {
+        "value": "$42-44/hr",
+        "label": "mức lương đủ sống cho một cha/mẹ đơn thân có một con",
+        "context": "Mức lương tối thiểu hiện tại chỉ trang trải chưa đến một nửa những gì một cha/mẹ đơn thân cần",
+        "source": "Máy tính Mức Lương Đủ Sống của MIT, Quận Denver"
+      }
+    ]
+  },
+  "maternal-infant-health": {
+    "title": "Công Bằng Sức Khỏe Bà Mẹ & Trẻ Sơ Sinh",
+    "summary": "Chấm dứt sự khác biệt chủng tộc trong các kết quả sinh nở. Hỗ trợ chuyên viên chăm sóc sau sinh tại cộng đồng cho mỗi ca sinh Medicaid. Hỗ trợ gia đình NICU và hướng dẫn tài chính. Trách nhiệm giải trình chống phân biệt chủng tộc trong bệnh viện. Thăm khám tại nhà ở mọi khu phố. Không cha mẹ nào phải đối mặt với hành vi quấy rối phân biệt chủng tộc khi con họ chiến đấu giành sự sống.",
+    "keyStats": [
+      {
+        "value": "2-3x",
+        "label": "tỷ lệ mắc bệnh nghiêm trọng đối với người da đen",
+        "context": "Không được giải thích bằng thu nhập hoặc bảo hiểm. Được giải thích bằng phân biệt chủng tộc trong cung cấp dịch vụ chăm sóc.",
+        "source": "Ủy ban Rà soát Tử vong Mẹ Colorado, 2023"
+      },
+      {
+        "value": "39%",
+        "label": "ít ca mổ lấy thai hơn với sự hỗ trợ của chuyên viên chăm sóc sau sinh",
+        "context": "Lợi ích lớn nhất cho người da đen và người gốc La-tinh",
+        "source": "Đánh giá Cochrane, Bohren et al., 2017"
+      },
+      {
+        "value": "1.8 vs 5.6",
+        "label": "số ca tử vong ở trẻ sơ sinh trên 1.000 — Phần Lan so với Hoa Kỳ",
+        "context": "Hoa Kỳ có tỷ lệ tử vong ở trẻ sơ sinh cao nhất trong số các quốc gia giàu có",
+        "source": "CDC WONDER, 2023"
+      }
+    ]
+  },
+  "municipal-broadband": {
+    "title": "Băng Thông Rộng Đô Thị",
+    "summary": "Mạng cáp quang thuộc sở hữu của thành phố. Gigabit $30/tháng. Gói miễn phí cho các hộ gia đình có thu nhập thấp. Đảm bảo tính trung lập của mạng. Không còn độc quyền Comcast.",
+    "keyStats": [
+      {
+        "value": "85%",
+        "label": "cử tri Denver đã nói có — 7 năm trước",
+        "source": "Biện pháp Bầu cử Denver 2J, 2018"
+      },
+      {
+        "value": "$80-120/mo",
+        "label": "bạn trả cho Comcast so với gigabit đô thị $30/tháng",
+        "context": "Comcast tính phí gấp 3-4 lần cho tốc độ chậm hơn với giới hạn dữ liệu"
+      },
+      {
+        "value": "900+",
+        "label": "cộng đồng Hoa Kỳ đã có băng thông rộng đô thị",
+        "context": "Chúng luôn vượt trội hơn các ISP tư nhân về tốc độ, giá cả và độ tin cậy",
+        "source": "Viện Tự lực Địa phương, 2025"
+      }
+    ]
+  },
+  "one-fair-wage": {
+    "title": "Một Mức Lương Công Bằng - Loại Bỏ Mức Lương Tối Thiểu Có Tiền Boa",
+    "summary": "Tiền boa là một khoản tiền thưởng, không phải là tiền lương. Mọi công nhân đều được trả mức lương tối thiểu đầy đủ. Không còn trợ cấp cho các nhà hàng bằng tiền thuê nhà của người phục vụ của bạn.",
+    "keyStats": [
+      {
+        "value": "2x",
+        "label": "tỷ lệ nghèo đói cho người lao động có tiền boa so với không có tiền boa",
+        "context": "Người lao động có tiền boa trải qua tình trạng nghèo đói với tỷ lệ gấp đôi so với những người lao động khác"
+      },
+      {
+        "value": "7 states",
+        "label": "đã loại bỏ mức lương tối thiểu có tiền boa",
+        "context": "Tăng trưởng việc làm nhà hàng ở các tiểu bang Một Mức Lương Công Bằng vượt quá các tiểu bang có mức lương tiền boa",
+        "source": "Viện Chính sách Kinh tế, 2023"
+      },
+      {
+        "value": "40,000",
+        "label": "người lao động Denver bị mắc kẹt trong hệ thống này",
+        "context": "Tập trung ở các nhà hàng, quán bar, khách sạn và dịch vụ cá nhân",
+        "source": "BLS, 2023"
+      }
+    ]
+  },
+  "paid-leave": {
+    "title": "Nghỉ Phép Có Lương Phổ Quát",
+    "summary": "6 tháng nghỉ phép có lương cho cha mẹ. Tối thiểu 4 tuần nghỉ phép có lương. Số ngày nghỉ ốm có lương không giới hạn. Mọi quốc gia giàu có khác đều làm điều này. Mỹ là quốc gia duy nhất không làm.",
+    "keyStats": [
+      {
+        "value": "1 of 6",
+        "label": "các quốc gia trên Trái đất không có nghỉ phép có lương cho cha mẹ",
+        "context": "Hoa Kỳ sánh vai với Papua New Guinea, không phải các quốc gia ngang hàng"
+      },
+      {
+        "value": "1 in 4",
+        "label": "người lao động Hoa Kỳ không có ngày nghỉ phép có lương",
+        "context": "Người châu Âu được nghỉ 20-30 ngày; một phần tư người Mỹ không được gì"
+      }
+    ]
+  },
+  "parks-recreation": {
+    "title": "Công Viên, Giải Trí & Không Gian Công Cộng",
+    "summary": "Tiếp cận công viên công bằng cho mọi khu phố. Các chương trình trung tâm giải trí miễn phí cho thanh niên và người cao niên. Vườn cộng đồng ở mọi vùng thiếu lương thực. Kết nối đường mòn trên toàn thành phố. Công viên là cơ sở hạ tầng y tế công cộng.",
+    "keyStats": [
+      {
+        "value": "48%",
+        "label": "ít không gian công viên hơn ở các khu dân cư có thu nhập thấp",
+        "context": "Denver được xếp hạng thứ 10 trên toàn quốc nhưng sự công bằng trong thành phố là rất tệ",
+        "source": "Trust for Public Land ParkScore, 2025"
+      },
+      {
+        "value": "15-20F",
+        "label": "nóng hơn ở các khu dân cư có tán cây thấp",
+        "context": "Hình chữ L ngược dọc theo I-25 và I-70 có ít bóng râm nhất và nóng nhất",
+        "source": "Denver Digs Trees / The Park People, 2021"
+      },
+      {
+        "value": "$95K+",
+        "label": "chi phí hàng năm để bỏ tù một thanh niên",
+        "context": "Truy cập trung tâm giải trí miễn phí và lập trình thanh niên tốn một phần nhỏ chi phí đó",
+        "source": "Bộ phận Dịch vụ Thanh niên Colorado"
+      }
+    ]
+  },
+  "participatory-budgeting": {
+    "title": "Ngân Sách Có Sự Tham Gia & Hội Đồng Công Dân",
+    "summary": "Bạn quyết định cách chi tiêu hơn $100 triệu đô la từ ngân sách của Denver - trực tiếp. Thêm vào đó là các hội đồng công dân được chọn ngẫu nhiên để giải quyết các câu hỏi lớn. Dân chủ thực sự, không chỉ bỏ phiếu 4 năm một lần.",
+    "keyStats": [
+      {
+        "value": "62%",
+        "label": "cử tri Denver ở nhà vào năm 2023",
+        "context": "Chỉ có 38% cử tri đi bầu — hầu hết cư dân không có tiếng nói trong ngân sách $1,6 tỷ đô la",
+        "source": "Phòng Bầu cử Denver, 2023"
+      },
+      {
+        "value": "7,000+",
+        "label": "các thành phố trên toàn thế giới sử dụng lập ngân sách có sự tham gia",
+        "context": "Tiên phong ở Brazil năm 1989 — tỷ lệ tử vong ở trẻ sơ sinh giảm 50% ở Porto Alegre",
+        "source": "Sintomer et al., 2012"
+      }
+    ]
+  },
+  "pedestrian-infrastructure": {
+    "title": "Cơ Sở Hạ Tầng Dành Cho Người Đi Bộ & Công Bằng Về Vỉa Hè",
+    "summary": "Hoàn thiện mạng lưới vỉa hè của Denver. 43% vỉa hè của Denver bị thiếu hoặc không đạt tiêu chuẩn — 1.480 dặm. 34% quá hẹp đối với xe lăn. 9% hoàn toàn không có. Các khu dân cư có thu nhập thấp có tỷ lệ tử vong do tai nạn giao thông của người đi bộ cao gấp đôi. 54% các trạm trung chuyển giao thông công cộng không có vỉa hè trong phạm vi hai phút đi bộ. Ưu tiên tuân thủ ADA (Đạo luật Người Khuyết Tật Hoa Kỳ) tại các cộng đồng chưa được phục vụ đầy đủ. Xây dựng một thành phố nơi bạn có thể đi bộ an toàn dù bạn có sở hữu xe hơi hay không.",
+    "keyStats": [
+      {
+        "value": "1,480 mi",
+        "label": "dặm vỉa hè bị thiếu hoặc xuống cấp gây nguy hiểm cho người dân Denver",
+        "source": "Báo Cáo Hiện Trạng Hệ Thống DOTI, Tháng 1 năm 2026"
+      },
+      {
+        "value": "400+ yrs",
+        "label": "năm để hoàn thành vỉa hè với tốc độ tài trợ trước đây",
+        "context": "Con số đó không phải là cường điệu. Đó là phép toán của việc thiếu đầu tư mãn tính.",
+        "source": "Denver Streets Partnership, 2022"
+      },
+      {
+        "value": "2x",
+        "label": "tỷ lệ tử vong của người đi bộ ở các khu dân cư có thu nhập thấp",
+        "context": "Các khu dân cư ít có khả năng có vỉa hè nhất lại có tỷ lệ tử vong cao nhất",
+        "source": "Denver Streets Partnership, 2022"
+      }
+    ]
+  },
+  "power-reliability": {
+    "title": "Độ Tin Cậy Của Nguồn Điện & Năng Lượng Đô Thị",
+    "summary": "Chấm dứt những thất bại độc quyền của Xcel. Lựa chọn năng lượng đô thị cho Denver. Nguồn điện dự phòng bắt buộc cho các cơ sở quan trọng. Các biện pháp bảo vệ an toàn tính mạng cho cư dân dễ bị tổn thương về mặt y tế. Sử dụng việc gia hạn nhượng quyền để yêu cầu trách nhiệm giải trình hoặc tự xây dựng.",
+    "keyStats": [
+      {
+        "value": "352 min",
+        "label": "thời gian mất điện trung bình trên mỗi khách hàng vào năm 2024",
+        "context": "Gần 6 giờ không có điện — gấp đôi so với năm trước",
+        "source": "Thông tin tóm tắt của Colorado PUC, 2025"
+      },
+      {
+        "value": "30%",
+        "label": "tăng giá trong khi cắt giảm 10% nhân viên",
+        "context": "Xcel đã tăng giá 30% từ năm 2022-2024 trong khi cắt giảm lực lượng lao động bảo trì lưới điện",
+        "source": "Colorado Sun, 2025"
+      },
+      {
+        "value": "30-40%",
+        "label": "giá thấp hơn tại các tiện ích công cộng (SMUD)",
+        "source": "Hiệp Hội Năng Lượng Công Cộng Hoa Kỳ, 2024"
+      }
+    ]
+  },
+  "prison-labor": {
+    "title": "Chấm Dứt Lao Động Trong Tù Bị Ép Buộc",
+    "summary": "Cử tri Colorado đã cấm chế độ nô lệ và cưỡng bức lao động vào năm 2018. Bảy năm sau, những người bị giam giữ vẫn phải đối mặt với hình phạt nếu từ chối làm việc với đồng lương ít ỏi. Thực thi Tu Chính Án A. Chấm dứt lao động cưỡng bức. Đảm bảo các biện pháp bảo vệ tại nơi làm việc, mức lương công bằng và sự tham gia tự nguyện vào tất cả các chương trình làm việc trong tù.",
+    "keyStats": [
+      {
+        "value": "$0.33–$1.61",
+        "label": "mỗi giờ — số tiền mà Colorado trả cho những người lao động bị giam giữ",
+        "context": "Mức lương tối thiểu là $14,81/giờ. Công nhân bị giam giữ kiếm được 2-11% số đó. Không có biện pháp bảo vệ OSHA. Không có ngày nghỉ ốm.",
+        "source": "ACLU, Báo Cáo Lao Động Bị Giam Cầm, 2022"
+      },
+      {
+        "value": "65%",
+        "label": "cử tri Colorado đã cấm cưỡng bức lao động vào năm 2018",
+        "context": "Tu Chính Án A đã được thông qua với gần hai phần ba số phiếu ủng hộ. CDOC (Sở Cải Huấn Colorado) không thay đổi gì. Công nhân vẫn phải đối mặt với hình phạt nếu từ chối.",
+        "source": "Bộ Trưởng Ngoại Giao Colorado, Kết Quả Bầu Cử Năm 2018"
+      },
+      {
+        "value": "800,000+",
+        "label": "công nhân bị giam giữ trên toàn quốc trong các chương trình lao động trong tù",
+        "context": "Tạo ra hơn 11 tỷ đô la hàng hóa và dịch vụ hàng năm. Mức lương trung bình: $0,13-$0,52/giờ. Một ngành công nghiệp trị giá 11 tỷ đô la được xây dựng dựa trên lao động bị giam cầm.",
+        "source": "ACLU, Báo Cáo Lao Động Bị Giam Cầm, 2022"
+      }
+    ]
+  },
+  "public-banking": {
+    "title": "Ngân Hàng Denver - Ngân Hàng Công",
+    "summary": "Một ngân hàng thuộc sở hữu của thành phố, giữ tiền của Denver ở Denver. Các khoản vay lãi suất thấp cho nhà ở, các doanh nghiệp nhỏ và năng lượng xanh. Dịch vụ tài chính cho những người không có tài khoản ngân hàng.",
+    "keyStats": [
+      {
+        "value": "100+ years",
+        "label": "Ngân hàng North Dakota chưa bao giờ bị mất tiền",
+        "context": "Sống sót qua cuộc Đại Suy Thoái, năm 2008 và COVID — trả lại hơn 100 triệu đô la/năm cho tiểu bang",
+        "source": "Báo Cáo Hàng Năm của Ngân Hàng North Dakota"
+      },
+      {
+        "value": "18.4%",
+        "label": "hộ gia đình Hoa Kỳ không có tài khoản ngân hàng hoặc không đủ dịch vụ ngân hàng",
+        "context": "Không cân xứng ở các cộng đồng da màu",
+        "source": "FDIC, 2023"
+      },
+      {
+        "value": "400+",
+        "label": "ngân hàng tiết kiệm công ở riêng Đức",
+        "context": "Phục vụ 50 triệu khách hàng — ngân hàng công là bình thường trên toàn thế giới",
+        "source": "Hiệp Hội Sparkassen Đức"
+      }
+    ]
+  },
+  "public-safety": {
+    "title": "An Toàn Cộng Đồng & Cải Cách Cảnh Sát",
+    "summary": "Thực sự giảm tội phạm thông qua đầu tư dựa trên bằng chứng vào cộng đồng, không chỉ là hoạt động trị an. Giám sát dân sự với quyền trát hầu tòa. Các đội ứng phó khủng hoảng sức khỏe tâm thần, không phải sĩ quan vũ trang. Can thiệp bạo lực cộng đồng. Giải quyết các nguyên nhân gốc rễ: nhà ở, việc làm, sức khỏe tâm thần và cơ hội cho thanh niên.",
+    "keyStats": [
+      {
+        "value": "531 per 100K",
+        "label": "Tỷ lệ giam giữ của Hoa Kỳ — cao nhất trên Trái Đất",
+        "source": "World Prison Brief"
+      },
+      {
+        "value": "$35.3M",
+        "label": "Denver đã trả trong các vụ dàn xếp liên quan đến cảnh sát, 2017-2023",
+        "context": "17,3 triệu đô la chỉ riêng trong năm 2023. Không có ban giám sát độc lập nào có thể điều tra hoặc kỷ luật.",
+        "source": "Hồ sơ của Luật Sư Thành Phố Denver; Denver Post, 2024"
+      },
+      {
+        "value": "50-75%",
+        "label": "giảm tội phạm từ đầu tư cộng đồng",
+        "context": "Oakland, Glasgow, Bogota, Richmond đều vượt trội hơn các phương pháp tiếp cận chỉ dựa vào hoạt động trị an",
+        "source": "Oakland Ceasefire; Đánh giá VRU của Glasgow"
+      }
+    ],
+    "petitionTitle": "Tắt Camera Giám Sát Flock"
+  },
+  "rent-control": {
+    "title": "Đạo Luật Ổn Định Tiền Thuê Nhà Denver",
+    "summary": "Giới hạn cứng về việc tăng tiền thuê nhà ở mức CPI (Chỉ Số Giá Tiêu Dùng) hoặc 3%, tùy theo mức nào thấp hơn. Không kiểm soát việc bỏ trống. Không có lỗ hổng. Bảo vệ thực sự cho mọi người thuê nhà ở Denver.",
+    "keyStats": [
+      {
+        "value": "85%",
+        "label": "tăng tiền thuê nhà kể từ năm 2010",
+        "context": "Tiền thuê nhà ở Denver đã vượt xa lạm phát gấp 3 lần trong 15 năm qua",
+        "source": "Chỉ Số Tiền Thuê Quan Sát Được (ZORI) của Zillow, Denver-Aurora-Lakewood MSA"
+      },
+      {
+        "value": "$1,600+",
+        "label": "tiền thuê trung bình cho căn hộ 1 phòng ngủ",
+        "source": "Báo Cáo Tiền Thuê Nhà Toàn Quốc của ApartmentList, 2024"
+      },
+      {
+        "value": "0",
+        "label": "các biện pháp bảo vệ ổn định tiền thuê nhà ở Colorado",
+        "context": "Luật tiểu bang CRS 38-12-301 (từ năm 1981) cấm TẤT CẢ việc kiểm soát tiền thuê nhà tại địa phương. 4 nỗ lực bãi bỏ đã thất bại."
+      },
+      {
+        "value": "150K+",
+        "label": "số lượng đơn vị cho thuê bị ảnh hưởng",
+        "context": "Hơn 50% cư dân Denver là người thuê nhà và không được bảo vệ trước những đợt tăng giá tùy tiện",
+        "source": "Khảo Sát Cộng Đồng Hoa Kỳ, 2022"
+      }
+    ]
+  },
+  "reparations-racial-justice": {
+    "title": "Bồi Thường & Công Bằng Chủng Tộc",
+    "summary": "Denver có một lịch sử cụ thể về tổn hại chủng tộc: phân biệt chủng tộc trong nhà ở (redlining), di dời do đổi mới đô thị, ô nhiễm Rocky Flats và sự phân biệt chủng tộc đang diễn ra. Evanston đã chứng minh các thành phố có thể hành động. Denver nên là thành phố tiếp theo.",
+    "keyStats": [
+      {
+        "value": "10:1",
+        "label": "tỷ lệ giàu có giữa hộ gia đình da trắng và da đen ở Denver",
+        "context": "Hộ gia đình da trắng trung bình ~250 nghìn đô la. Hộ gia đình da đen trung bình ~24 nghìn đô la.",
+        "source": "Khảo Sát Tài Chính Tiêu Dùng của Cục Dự Trữ Liên Bang, 2022"
+      },
+      {
+        "value": "11 years",
+        "label": "khoảng cách tuổi thọ giữa các khu dân cư ở Denver",
+        "context": "Tuổi thọ ngắn nhất ở các cộng đồng nghèo nhất, bị phân biệt chủng tộc nhiều nhất",
+        "source": "Viện Y Tế Colorado, 2022"
+      },
+      {
+        "value": "$6.2M",
+        "label": "Evanston đã chứng minh các thành phố có thể thực hiện bồi thường",
+        "context": "Thành phố đầu tiên của Hoa Kỳ giải ngân tiền bồi thường do nhà nước tài trợ — 132 người nhận",
+        "source": "Thành Phố Evanston, 2025"
+      }
+    ]
+  },
+  "reproductive-healthcare": {
+    "title": "Tiếp Cận Dịch Vụ Chăm Sóc Sức Khỏe Sinh Sản",
+    "summary": "Bảo vệ và mở rộng khả năng tiếp cận dịch vụ phá thai ở Denver. Đảm bảo lời hứa hiến pháp của Tu Chính Án 79 trở thành hiện thực — hoàn trả đầy đủ cho nhà cung cấp dịch vụ, tính bền vững của phòng khám, khả năng tiếp cận phá thai bằng thuốc và một thành phố bảo vệ bệnh nhân và nhà cung cấp dịch vụ khỏi các mối đe dọa liên bang và giữa các tiểu bang. Quyền tự chủ về cơ thể là bất khả xâm phạm.",
+    "keyStats": [
+      {
+        "value": "42 to 23",
+        "label": "phòng khám phá thai ở Colorado kể từ năm 2011",
+        "context": "Số lượng phòng khám gần như giảm một nửa trong khi số ca phá thai tăng 88%. Nhu cầu tăng, khả năng tiếp cận giảm.",
+        "source": "Viện Guttmacher, 2024"
+      },
+      {
+        "value": "40 to 4,400",
+        "label": "bệnh nhân Texas đến Colorado mỗi năm",
+        "context": "Sau Texas SB 8 và Dobbs, nhu cầu tăng đột biến gấp 100 lần trong bốn năm",
+        "source": "CDPHE, 2023; AJOG, 2025"
+      },
+      {
+        "value": "$7.09",
+        "label": "tiết kiệm được cho mỗi $1 chi cho việc tiếp cận các biện pháp tránh thai",
+        "context": "Chăm sóc sức khỏe sinh sản là một trong những khoản đầu tư y tế công cộng mang lại lợi nhuận cao nhất",
+        "source": "Viện Guttmacher, 2015"
+      }
+    ]
+  },
+  "right-to-disconnect": {
+    "title": "Quyền Ngắt Kết Nối & Tuần Làm Việc 32 Giờ",
+    "summary": "Sếp của bạn không thể nhắn tin cho bạn lúc nửa đêm. Cuối tuần là của bạn. Và bằng chứng cho thấy chúng ta có thể làm việc 4 ngày và tạo ra sản lượng tương đương. Pháp, Iceland, Bỉ và Tây Ban Nha đã làm được điều đó.",
+    "keyStats": [
+      {
+        "value": "462 hours",
+        "label": "nhiều hơn mỗi năm người Mỹ làm việc so với người Đức",
+        "context": "Đó là hơn 11 tuần làm việc 40 giờ — chúng ta không sản xuất nhiều hơn 11 tuần",
+        "source": "OECD, 2023"
+      },
+      {
+        "value": "92%",
+        "label": "các công ty Vương quốc Anh giữ tuần làm việc 4 ngày vĩnh viễn",
+        "context": "61 công ty, 2.900 công nhân, thử nghiệm 6 tháng — doanh thu giữ nguyên hoặc tăng",
+        "source": "Autonomy Research, 2023"
+      },
+      {
+        "value": "+40%",
+        "label": "năng suất khi Microsoft Nhật Bản thử cho nghỉ ngày thứ Sáu",
+        "context": "Đóng cửa văn phòng vào mỗi thứ Sáu trong một tháng; chi phí điện giảm 23%",
+        "source": "Microsoft Nhật Bản, 2019"
+      }
+    ]
+  },
+  "sectoral-bargaining": {
+    "title": "Thương Lượng Theo Ngành & Hội Đồng Tiền Lương",
+    "summary": "Đàm phán tiền lương trên toàn ngành thay vì liên hiệp hóa từng công ty. Mọi công nhân nhà hàng đều được bảo vệ. Mọi công nhân khách sạn đều được bảo vệ. Mô hình châu Âu, được điều chỉnh cho Denver.",
+    "keyStats": [
+      {
+        "value": "94%",
+        "label": "công nhân khu vực tư nhân Hoa Kỳ không có công đoàn",
+        "context": "Mô hình từng công ty của Mỹ bị phá vỡ theo thiết kế",
+        "source": "BLS, 2024"
+      },
+      {
+        "value": "7.2%",
+        "label": "tỷ lệ thành viên công đoàn ở Colorado",
+        "context": "Dưới mức trung bình thấp của quốc gia là 10%; ngành khách sạn gần bằng không",
+        "source": "BLS, 2023"
+      }
+    ]
+  },
+  "small-business-economy": {
+    "title": "Kinh Tế Địa Phương & Doanh Nghiệp Nhỏ",
+    "summary": "Quy trình cấp phép tinh giản cho doanh nghiệp nhỏ. Ổn định giá thuê thương mại. Hệ sinh thái hợp tác xã công nhân hoàn chỉnh với lộ trình chuyển đổi doanh nghiệp kế thừa. Ưu tiên mua sắm công cho doanh nghiệp địa phương. Khoản vay siêu nhỏ cho doanh nhân BIPOC. Thực thi chống độc quyền.",
+    "keyStats": [
+      {
+        "value": "405",
+        "label": "Nhà hàng Denver đóng cửa trong 2 năm",
+        "context": "Đóng cửa ròng 2022-2024 — được thay thế bởi các chuỗi nhà hàng",
+        "source": "Colorado Restaurant Association, 2024"
+      },
+      {
+        "value": "$45 vs $14",
+        "label": "chi tiêu địa phương tạo ra hoạt động kinh tế gấp 3 lần",
+        "context": "Cứ mỗi $100 tại một doanh nghiệp địa phương sẽ tạo ra $45 tại địa phương so với $14 tại một chuỗi",
+        "source": "Civic Economics; Institute for Local Self-Reliance"
+      },
+      {
+        "value": "77%",
+        "label": "doanh nghiệp nhỏ bị các ngân hàng lớn từ chối",
+        "context": "Các doanh nhân da màu bắt đầu với số vốn bằng 1/3 so với các doanh nhân da trắng"
+      }
+    ]
+  },
+  "social-housing": {
+    "title": "Đạo Luật Nhà Ở Xã Hội Denver",
+    "summary": "10.000 căn nhà thuộc sở hữu công, giá cả phải chăng vĩnh viễn. Hỗn hợp thu nhập, được quản lý dân chủ và được tài trợ mà không tăng thuế của bạn.",
+    "keyStats": [
+      {
+        "value": "7,500",
+        "label": "người vô gia cư vào bất kỳ đêm nào",
+        "context": "Danh sách chờ Mục 8 kéo dài hàng năm trời và chủ nhà từ chối chấp nhận phiếu trợ cấp",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "60%",
+        "label": "số người ở Vienna sống trong nhà ở công cộng",
+        "source": "Wiener Wohnen, 2023"
+      },
+      {
+        "value": "$400-600K",
+        "label": "chi phí trợ cấp hiện tại trên mỗi căn hộ",
+        "context": "Nhà ở xã hội có chi phí $200-350K mỗi căn. Chúng ta trả gấp đôi để các nhà phát triển giữ lợi nhuận.",
+        "source": "Denver HOST / LIHTC program data"
+      }
+    ]
+  },
+  "tenant-bill-of-rights": {
+    "title": "Tuyên Ngôn Quyền Của Người Thuê Nhà Denver",
+    "summary": "Quyền được tư vấn pháp lý phổ quát, thông báo tăng tiền thuê nhà 90 ngày, bảo vệ chống trả đũa và quyền tổ chức. Mọi người thuê nhà đều xứng đáng được tôn trọng.",
+    "keyStats": [
+      {
+        "value": "15,953",
+        "label": "hồ sơ trục xuất ở Denver (2025)",
+        "context": "Cao hơn 72% so với mức trước đại dịch. Denver đi ngược lại xu hướng quốc gia.",
+        "source": "Denver County Court, Princeton Eviction Lab"
+      },
+      {
+        "value": "62%",
+        "label": "số vụ kết thúc bằng phán quyết có lợi cho chủ nhà",
+        "context": "Chỉ có 0,7% người thuê nhà nộp đơn trả lời vào năm 2025. Hầu hết thua kiện do không có mặt.",
+        "source": "Colorado Judicial Branch SB24-064 Dashboard"
+      },
+      {
+        "value": "4-5 wks",
+        "label": "từ khi nộp đơn đến khi bị trục xuất ở Colorado",
+        "context": "Một trong những khung thời gian trục xuất nhanh nhất trong nước"
+      }
+    ]
+  },
+  "transportation": {
+    "title": "Giao Thông & Vận Tải Công Cộng",
+    "summary": "Miễn phí vận chuyển RTD cho cư dân có thu nhập thấp. Làn đường dành cho xe đạp được bảo vệ trên mọi hành lang chính. Tầm nhìn Số không với việc thực thi thực tế. Cải cách đỗ xe để giảm chi phí nhà ở. Công bằng vận tải cho các khu dân cư chưa được phục vụ. Khung thành phố 15 phút để mọi người dân Denver có thể tiếp cận các nhu cầu hàng ngày bằng cách đi bộ hoặc đi xe đạp.",
+    "keyStats": [
+      {
+        "value": "93",
+        "label": "người thiệt mạng trên đường phố Denver vào năm 2025",
+        "context": "Năm nguy hiểm nhất kể từ năm 2013. Số người đi bộ thiệt mạng tăng 34%. Tầm nhìn Số không đang thất bại.",
+        "source": "Denver Vision Zero Dashboard, 2025"
+      },
+      {
+        "value": "38%",
+        "label": "lượng hành khách RTD giảm kể từ năm 2019",
+        "context": "Từ 105,8 triệu xuống 65,2 triệu hành khách trong khi các thành phố ngang hàng phục hồi lên 85%+",
+        "source": "Denver Post, October 2025"
+      },
+      {
+        "value": "$3.5B/yr",
+        "label": "mất do tắc nghẽn giao thông ở Denver",
+        "context": "Giao thông công cộng miễn phí có chi phí $35 triệu — chỉ bằng 1% thiệt hại do tắc nghẽn",
+        "source": "Texas A&M Transportation Institute, 2025"
+      }
+    ]
+  },
+  "universal-childcare": {
+    "title": "Chăm Sóc Trẻ Em Toàn Diện",
+    "summary": "Chăm sóc trẻ em được tài trợ công từ 6 tháng tuổi. Giới hạn ở mức $200/tháng cho bất kỳ gia đình nào. Miễn phí cho người có thu nhập thấp. Bởi vì không bậc cha mẹ nào phải lựa chọn giữa làm việc và nuôi dạy con cái.",
+    "keyStats": [
+      {
+        "value": "$2,200/mo",
+        "label": "chi phí chăm sóc trẻ em cao hơn học phí đại học",
+        "context": "Chi phí chăm sóc trẻ em ở Denver là $16.800-26.400/năm trên mỗi trẻ — cao hơn học phí của CU Boulder",
+        "source": "Economic Policy Institute, 2023"
+      },
+      {
+        "value": "$13-16/hr",
+        "label": "tiền lương nghèo đói cho người chăm sóc trẻ em",
+        "context": "Những người chịu trách nhiệm cho giai đoạn phát triển quan trọng nhất lại kiếm được ít hơn công nhân thức ăn nhanh",
+        "source": "BLS, Denver metro area, 2024"
+      },
+      {
+        "value": "$7-13",
+        "label": "trả lại cho mỗi $1 đầu tư vào tuổi thơ",
+        "context": "Khoản đầu tư công mang lại lợi nhuận cao nhất hiện có",
+        "source": "James Heckman, Nobel laureate economist, 2006"
+      }
+    ]
+  },
+  "vacancy-tax": {
+    "title": "Thuế Bất Động Sản Bỏ Trống",
+    "summary": "Thuế lũy tiến đối với các bất động sản dân cư bỏ trống. Bạn không thể ngồi trên những ngôi nhà trống trong khi mọi người ngủ trên đường phố.",
+    "keyStats": [
+      {
+        "value": "5,000-8,000",
+        "label": "ngôi nhà bỏ trống ở Denver",
+        "context": "7.500 người vô gia cư trong khi hàng ngàn căn hộ bị bỏ trống để đầu cơ",
+        "source": "U.S. Census Bureau, ACS 2022"
+      },
+      {
+        "value": "$50-80M",
+        "label": "doanh thu hàng năm ước tính cho Denver",
+        "context": "Mỗi đô la được chuyển đến Quỹ Tín Thác Nhà Ở Giá Rẻ cho nhà ở xã hội và CLT"
+      }
+    ]
+  },
+  "waste-circular-economy": {
+    "title": "Giảm Chất Thải & Kinh Tế Tuần Hoàn",
+    "summary": "Ủ phân hữu cơ bên lề đường phổ quát. Chuyển hướng 90% chất thải vào năm 2035. Lệnh cấm túi nhựa và polystyrene. Quyền sửa chữa. Trách nhiệm của nhà sản xuất đối với chất thải bao bì. Hoạt động thành phố không chất thải. Khả năng phục hồi nguồn nước và tái sử dụng nước xám cho tương lai khô hạn của Colorado.",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "chất thải được chuyển hướng — 74% được đưa đến bãi chôn lấp",
+        "source": "Denverite, 2024"
+      },
+      {
+        "value": "9x",
+        "label": "nhiều việc làm hơn từ tái chế so với chôn lấp",
+        "context": "Tái sử dụng và sửa chữa tạo ra số lượng việc làm gấp 30 lần. Không chất thải là một chương trình việc làm.",
+        "source": "Eco-Cycle; Institute for Local Self-Reliance"
+      }
+    ]
+  },
+  "water-security": {
+    "title": "An Ninh Nguồn Nước & Bảo Tồn",
+    "summary": "Bảo vệ tương lai nguồn nước của Denver. Các tiêu chuẩn bảo tồn bắt buộc, tái chế nước xám, cơ sở hạ tầng chống hạn hán và giá nước công bằng. Denver là một thành phố bán khô hạn hành động như thể nguồn nước là vô hạn. Nó không phải vậy.",
+    "keyStats": [
+      {
+        "value": "14-17 in.",
+        "label": "lượng mưa mỗi năm — bằng một nửa mức trung bình của quốc gia",
+        "context": "Denver là một thành phố bán khô hạn có cảnh quan như thể trời mưa ở Seattle"
+      },
+      {
+        "value": "50%",
+        "label": "lượng nước dân dụng sử dụng cho tưới cỏ",
+        "context": "Cỏ xanh Kentucky cần hơn 30 inch nước. Denver nhận được 14-17 inch."
+      },
+      {
+        "value": "-50%",
+        "label": "Melbourne cắt giảm một nửa lượng nước sử dụng — và giữ nguyên",
+        "context": "Bảo tồn bắt buộc trong thời gian hạn hán, các quy tắc vĩnh viễn sau đó",
+        "source": "City of Melbourne"
+      }
+    ]
+  },
+  "works-councils": {
+    "title": "Hội Đồng Công Nhân & Đồng Quyết Định Của Người Lao Động",
+    "summary": "Người lao động bầu ra các hội đồng tại mọi nơi làm việc với quyền lực thực sự đối với việc lập kế hoạch, an toàn và sa thải. Người lao động tham gia vào hội đồng quản trị công ty. Đây là cách nước Đức trở thành một cường quốc công nghiệp - bằng cách đối xử với người lao động như đối tác, không phải chi phí.",
+    "keyStats": [
+      {
+        "value": "350:1",
+        "label": "Tỷ lệ lương CEO trên lương công nhân ngày nay",
+        "context": "Tăng từ 20:1 vào năm 1965 — người lao động làm việc hiệu quả hơn, các CEO đã lấy tất cả lợi nhuận",
+        "source": "Economic Policy Institute, 2022"
+      },
+      {
+        "value": "40M+",
+        "label": "Công nhân Đức được bảo vệ bởi hội đồng công nhân",
+        "context": "Luật từ năm 1952 — năng suất cao hơn, doanh thu thấp hơn, tiền lương cao hơn so với Hoa Kỳ",
+        "source": "German Works Constitution Act"
+      },
+      {
+        "value": "12,000",
+        "label": "Nhân viên thành phố Denver — điểm khởi đầu",
+        "context": "Thành phố có quyền trực tiếp thực hiện các hội đồng công nhân cho lực lượng lao động của riêng mình ngay hôm nay"
+      }
+    ]
+  },
+  "youth-services": {
+    "title": "Dịch Vụ & Cơ Hội Cho Thanh Thiếu Niên",
+    "summary": "Đảm bảo công việc mùa hè cho tất cả thanh thiếu niên Denver. Trung tâm thanh thiếu niên hoạt động quanh năm ở mọi khu vực. Hội đồng tư vấn thanh thiếu niên có quyền quyết định ngân sách thực tế. Chuyên viên tư vấn sức khỏe tâm thần trong mọi trường học. Các chương trình can thiệp bạo lực.",
+    "keyStats": [
+      {
+        "value": "58%",
+        "label": "cao hơn mức trung bình quốc gia — Tự tử ở thanh thiếu niên Colorado",
+        "context": "Tự tử là nguyên nhân gây tử vong số 1 đối với người dân Colorado từ 10-24 tuổi",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      },
+      {
+        "value": "38%",
+        "label": "học sinh DPS vắng mặt kinh niên",
+        "context": "Hơn 1 trên 3 học sinh vắng mặt 10%+ số ngày học trong năm 2022-23",
+        "source": "DPS Accountability Reports"
+      },
+      {
+        "value": "$7-10",
+        "label": "trả lại cho mỗi $1 đầu tư vào thanh thiếu niên",
+        "context": "Thông qua giảm giam giữ, thu nhập cao hơn và sức khỏe tốt hơn",
+        "source": "Heckman and Masterov; Fight Crime: Invest in Kids"
+      }
+    ]
+  }
+}

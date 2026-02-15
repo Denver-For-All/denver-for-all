@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Denver For All",
+    "description": "በ Denver ውስጥ የኢኮኖሚ ፍትህ እንቅስቃሴ። ሁሉም ሰው መኖር፣ መሥራትና ማደግ የሚችልበትን ከተማ መገንባት።"
+  },
+  "about": {
+    "title": "ስለ",
+    "description": "Denver For All በ Denver ውስጥ ለሚሠሩ ሰዎች የፖለቲካ ኃይልን የሚገነባ የሕዝብ ንቅናቄ ነው።"
+  },
+  "platform": {
+    "title": "መድረክ",
+    "description": "ለመኖሪያ ቤት፣ ለሠራተኛ፣ ለጤና፣ ለአየር ንብረት፣ ለሕዝብ ደህንነት፣ ለትምህርት እና ለሌሎችም አጠቃላይና በመረጃ ላይ የተመሰረቱ የፖሊሲ (ፖሊሲ — የመንግስት አካሄድ) ሃሳቦች።"
+  },
+  "tools": {
+    "title": "መሳሪያዎች",
+    "description": "በ Denver ውስጥ ኃይልን ተጠያቂ ለማድረግ ነፃና ክፍት ምንጭ መሣሪያዎች።"
+  },
+  "takeAction": {
+    "title": "እርምጃ ይውሰዱ",
+    "description": "እንቅስቃሴውን ይቀላቀሉ። በጎ ፈቃደኛ ይሁኑ፣ ይለግሱ፣ ለቢሮ ይወዳደሩ ወይም ለሁሉም የሚጠቅም Denver ለመገንባት ያግዙ።"
+  },
+  "runForDenver": {
+    "title": "ለ Denver ይወዳደሩ",
+    "description": "Denver For All ለ 2027 የ Denver ከተማ ምክር ቤት (የከተማ ምክር ቤት — City Council) ምርጫ የሰራተኛ ክፍል እጩዎችን እየመለመለ ነው።"
+  }
+}

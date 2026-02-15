@@ -1,0 +1,81 @@
+{
+  "site": {
+    "title": "Denver For All",
+    "tagline": "Un movimiento por la justicia económica en Denver",
+    "description": "Construyendo un Denver donde todos puedan permitirse vivir, trabajar y prosperar."
+  },
+  "nav": {
+    "home": "Inicio",
+    "platform": "Plataforma",
+    "runForDenver": "Postúlate para Denver",
+    "takeAction": "Actúa",
+    "tools": "Herramientas",
+    "about": "Acerca de",
+    "language": "Español"
+  },
+  "hero": {
+    "headline": "Denver Nos Pertenece a Todos",
+    "subheadline": "No solo a los desarrolladores. No solo a los propietarios. No solo a las corporaciones. A todos nosotros.",
+    "cta": "Lee la Plataforma",
+    "ctaSecondary": "Únete al Movimiento"
+  },
+  "email": {
+    "heading": "Únete al Movimiento",
+    "subheading": "Recibe actualizaciones sobre propuestas de políticas, acciones y cómo luchar por un Denver que funcione para todos.",
+    "placeholder": "tu@email.com",
+    "button": "Regístrate",
+    "privacy": "Respetamos tu privacidad. Cancela la suscripción en cualquier momento."
+  },
+  "platform": {
+    "heading": "La Plataforma",
+    "subheading": "Políticas integrales basadas en datos para un Denver justo. Cada propuesta incluye el problema, la solución y cómo lo financiamos.",
+    "readMore": "Leer la Propuesta Completa",
+    "categories": {
+      "housing": "Vivienda y Personas sin Hogar",
+      "labor": "Trabajadores y Salarios",
+      "climate": "Clima y Medio Ambiente",
+      "health": "Atención Médica",
+      "safety": "Seguridad Pública",
+      "education": "Educación",
+      "immigration": "Inmigración",
+      "infrastructure": "Infraestructura y Servicios",
+      "justice": "Justicia Penal",
+      "democracy": "Democracia y Gobernanza",
+      "economy": "Pequeñas Empresas y Economía",
+      "community": "Comunidad y Cultura"
+    }
+  },
+  "runForDenver": {
+    "heading": "Postúlate para Denver",
+    "subheading": "Tenemos la plataforma, los voluntarios y la energía. Necesitamos un candidato que luche por ella.",
+    "criteria": "Lo Que Buscamos",
+    "applyHeading": "¿Listo para Postularte?",
+    "applyButton": "Cuéntanos Sobre Ti"
+  },
+  "tools": {
+    "heading": "Herramientas para el Pueblo",
+    "subheading": "Herramientas gratuitas de código abierto para responsabilizar al poder y proteger tus derechos.",
+    "evictionTracker": "Rastreador de Desalojos de Denver",
+    "evictionDesc": "Panel en vivo de las solicitudes de desalojo por propietario y vecindario.",
+    "rentCalculator": "Calculadora de Control de Alquileres",
+    "rentCalcDesc": "Mira cuánto ahorrarías con nuestro plan de estabilización de alquileres.",
+    "campaignFinance": "Sigue el Dinero",
+    "campaignFinanceDesc": "Mira quién financia a los miembros de tu Concejo Municipal y cómo votan.",
+    "chatbot": "Conoce Tus Derechos",
+    "chatbotDesc": "Asistente de derechos de los inquilinos 24/7 en inglés y español."
+  },
+  "footer": {
+    "tagline": "Construido por el pueblo, para el pueblo.",
+    "openSource": "Este sitio es de código abierto.",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "builtWith": "Construido con solidaridad y herramientas de código abierto."
+  },
+  "policy": {
+    "problem": "El Problema",
+    "solution": "Nuestra Solución",
+    "funding": "Cómo Lo Financiamos",
+    "faq": "Preguntas Frecuentes",
+    "backToPlatform": "Volver a la Plataforma"
+  }
+}

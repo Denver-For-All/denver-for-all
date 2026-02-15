@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Denver For All",
+    "description": "Một phong trào vì công bằng kinh tế ở Denver. Xây dựng một thành phố nơi mọi người có thể sống, làm việc và phát triển."
+  },
+  "about": {
+    "title": "Về Chúng Tôi",
+    "description": "Denver For All là một phong trào cơ sở đang xây dựng quyền lực chính trị cho người lao động ở Denver."
+  },
+  "platform": {
+    "title": "Chương Trình",
+    "description": "Các đề xuất chính sách toàn diện, dựa trên dữ liệu cho nhà ở, lao động, y tế, khí hậu, an toàn công cộng, giáo dục, v.v."
+  },
+  "tools": {
+    "title": "Công Cụ",
+    "description": "Các công cụ mã nguồn mở, miễn phí để buộc những người nắm quyền ở Denver phải chịu trách nhiệm."
+  },
+  "takeAction": {
+    "title": "Hành Động",
+    "description": "Tham gia phong trào. Tình nguyện, quyên góp, tranh cử hoặc giúp xây dựng một thành phố Denver phục vụ mọi người."
+  },
+  "runForDenver": {
+    "title": "Tranh Cử Denver",
+    "description": "Denver For All đang tuyển mộ các ứng cử viên thuộc tầng lớp lao động cho cuộc bầu cử Hội Đồng Thành Phố Denver năm 2027."
+  }
+}

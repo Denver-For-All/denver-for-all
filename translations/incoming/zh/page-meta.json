@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Denver For All",
+    "description": "为丹佛经济正义而奋斗的运动。 建设一个每个人都能负担得起生活、工作和繁荣的城市。"
+  },
+  "about": {
+    "title": "关于",
+    "description": "Denver For All 是一场基层运动，旨在为丹佛的劳动人民建设政治力量。"
+  },
+  "platform": {
+    "title": "平台",
+    "description": "全面的、数据驱动的政策提案，涵盖住房、劳工、健康、气候、公共安全、教育等。"
+  },
+  "tools": {
+    "title": "工具",
+    "description": "免费的开源工具，用于在丹佛追究当权者的责任。"
+  },
+  "takeAction": {
+    "title": "参与行动",
+    "description": "加入这场运动。 志愿服务、捐款、竞选公职，或帮助建设一个为所有人服务的丹佛。"
+  },
+  "runForDenver": {
+    "title": "竞选丹佛",
+    "description": "Denver For All 正在为 2027 年丹佛市议会选举招募工人阶级候选人。"
+  }
+}

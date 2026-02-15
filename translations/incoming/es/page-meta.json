@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Denver For All",
+    "description": "Un movimiento por la justicia económica en Denver. Construyendo una ciudad donde todos puedan vivir, trabajar y prosperar."
+  },
+  "about": {
+    "title": "Acerca de",
+    "description": "Denver For All es un movimiento de base que construye poder político para los trabajadores en Denver."
+  },
+  "platform": {
+    "title": "Plataforma",
+    "description": "Propuestas de política integrales y basadas en datos para vivienda, trabajo, salud, clima, seguridad pública, educación y más."
+  },
+  "tools": {
+    "title": "Herramientas",
+    "description": "Herramientas gratuitas de código abierto para responsabilizar al poder en Denver."
+  },
+  "takeAction": {
+    "title": "Actúa",
+    "description": "Únete al movimiento. Sé voluntario, dona, postúlate para un cargo o ayuda a construir un Denver que funcione para todos."
+  },
+  "runForDenver": {
+    "title": "Postúlate para Denver",
+    "description": "Denver For All está reclutando candidatos de la clase trabajadora para las elecciones del Concejo Municipal de Denver de 2027."
+  }
+}

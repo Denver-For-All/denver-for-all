@@ -1,0 +1,224 @@
+```json
+{
+  "small-business-economy": {
+    "title": "小企业与本地经济",
+    "summary": "简化小企业审批流程。商业租金稳定。建立完整的工人合作社生态系统及传统企业转型渠道。优先本地企业采购。为BIPOC企业家提供小额贷款。加强反垄断执法。",
+    "keyStats": [
+      {
+        "value": "405",
+        "label": "丹佛2年内倒闭的餐馆数量",
+        "context": "2022-2024年净倒闭数量——被连锁店取代",
+        "source": "Colorado Restaurant Association, 2024"
+      },
+      {
+        "value": "$45 vs $14",
+        "label": "本地消费创造3倍的经济效益",
+        "context": "在本地企业每消费$100，可在本地产生$45的经济效益，而连锁店仅为$14",
+        "source": "Civic Economics; Institute for Local Self-Reliance"
+      },
+      {
+        "value": "77%",
+        "label": "小企业贷款被大型银行拒绝的比例",
+        "context": "黑人企业家创业启动资金仅为白人企业家的1/3"
+      }
+    ]
+  },
+  "social-housing": {
+    "title": "丹佛社会住房法案",
+    "summary": "建设10,000套公有、永久性可负担住房。实行混合收入、民主管理模式，且无需增加您的税收。",
+    "keyStats": [
+      {
+        "value": "7,500",
+        "label": "每晚无家可归者人数",
+        "context": "第八节房屋补助计划（Section 8）的等候名单很长，而且房东拒绝接受补助券",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "60%",
+        "label": "维也纳公共住房覆盖率",
+        "source": "Wiener Wohnen, 2023"
+      },
+      {
+        "value": "$400-600K",
+        "label": "目前每套住房的补贴成本",
+        "context": "社会住房的成本为每套$20-35万。我们支付双倍的费用，却让开发商保留利润。",
+        "source": "Denver HOST / LIHTC program data"
+      }
+    ]
+  },
+  "tenant-bill-of-rights": {
+    "title": "丹佛租户权利法案",
+    "summary": "普及法律顾问服务、90天租金上涨通知、反报复保护以及组织起来的权利。每位租户都应享有尊严。",
+    "keyStats": [
+      {
+        "value": "15,953",
+        "label": "丹佛的驱逐备案数量（2025年）",
+        "context": "比疫情前水平高出72%。丹佛逆全国趋势而行。",
+        "source": "Denver County Court, Princeton Eviction Lab"
+      },
+      {
+        "value": "62%",
+        "label": "案件以房东胜诉告终的比例",
+        "context": "2025年，只有0.7%的租户提出了答辩。大多数人因未应诉而败诉。",
+        "source": "Colorado Judicial Branch SB24-064 Dashboard"
+      },
+      {
+        "value": "4-5 wks",
+        "label": "从备案到科罗拉多州驱逐的时间",
+        "context": "是美国驱逐时间线最短的州之一"
+      }
+    ]
+  },
+  "transportation": {
+    "title": "交通与公共交通",
+    "summary": "为低收入居民提供免费RTD公交服务。在每条主要干道上设置受保护的自行车道。通过实际执法实现“零死亡愿景”（Vision Zero）。通过停车改革来降低住房成本。为服务欠缺的社区提供公平的交通。构建15分钟城市框架，让每位丹佛居民都能步行或骑自行车满足日常需求。",
+    "keyStats": [
+      {
+        "value": "93",
+        "label": "2025年丹佛街道上的死亡人数",
+        "context": "2013年以来死亡人数最多的一年。行人死亡人数增加了34%。零死亡愿景正在失败。",
+        "source": "Denver Vision Zero Dashboard, 2025"
+      },
+      {
+        "value": "38%",
+        "label": "自2019年以来RTD乘客量下降的比例",
+        "context": "从1.058亿人次降至6520万人次，而其他同等城市已恢复至85%以上",
+        "source": "Denver Post, October 2025"
+      },
+      {
+        "value": "$3.5B/yr",
+        "label": "丹佛因交通拥堵造成的损失",
+        "context": "免费公交的成本为$3500万——仅占交通拥堵损失的1%",
+        "source": "Texas A&M Transportation Institute, 2025"
+      }
+    ]
+  },
+  "universal-childcare": {
+    "title": "普及儿童保育",
+    "summary": "为6个月以上的儿童提供公共资助的儿童保育服务。任何家庭的费用上限为每月$200。低收入家庭免费。因为不应该有父母需要在工作和抚养孩子之间做出选择。",
+    "keyStats": [
+      {
+        "value": "$2,200/mo",
+        "label": "儿童保育费用高于大学学费",
+        "context": "丹佛的儿童保育费用为每个孩子每年$16,800-$26,400——高于科罗拉多大学博尔德分校的学费",
+        "source": "Economic Policy Institute, 2023"
+      },
+      {
+        "value": "$13-16/hr",
+        "label": "儿童保育工作者的贫困工资",
+        "context": "负责最关键发展阶段的人的收入低于快餐店员工",
+        "source": "BLS, Denver metro area, 2024"
+      },
+      {
+        "value": "$7-13",
+        "label": "早期儿童教育每投入$1的回报",
+        "context": "是目前可获得的最高回报公共投资",
+        "source": "James Heckman, Nobel laureate economist, 2006"
+      }
+    ]
+  },
+  "vacancy-tax": {
+    "title": "空置房屋税",
+    "summary": "对空置住宅物业征收累进税。当人们露宿街头时，你不应该让房屋空置。",
+    "keyStats": [
+      {
+        "value": "5,000-8,000",
+        "label": "丹佛的空置房屋数量",
+        "context": "当7500人无家可归时，数千套房屋却因投机而空置",
+        "source": "U.S. Census Bureau, ACS 2022"
+      },
+      {
+        "value": "$50-80M",
+        "label": "丹佛预计的年度收入",
+        "context": "每一美元都将进入可负担住房信托基金，用于社会住房和社区土地信托（CLTs）"
+      }
+    ]
+  },
+  "waste-circular-economy": {
+    "title": "减少浪费与循环经济",
+    "summary": "普及路边堆肥。到2035年实现90%的废物转移率。禁止塑料袋和聚苯乙烯。维修权。生产者承担包装废弃物责任。零浪费城市运营。为了科罗拉多州干旱的未来，实现水的可持续利用和中水回用。",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "废物转移率——74%的废物被送往垃圾填埋场",
+        "source": "Denverite, 2024"
+      },
+      {
+        "value": "9x",
+        "label": "回收利用比垃圾填埋创造更多就业机会",
+        "context": "再利用和维修创造的就业机会多达30倍。零浪费是一项就业计划。",
+        "source": "Eco-Cycle; Institute for Local Self-Reliance"
+      }
+    ]
+  },
+  "water-security": {
+    "title": "水安全与节约",
+    "summary": "保护丹佛的用水未来。强制性节水标准、中水回收、抗旱基础设施和公平的水费。丹佛是一个半干旱城市，却表现得好像水是无限的。事实并非如此。",
+    "keyStats": [
+      {
+        "value": "14-17 in.",
+        "label": "年降雨量——仅为全国平均水平的一半",
+        "context": "丹佛是一个半干旱城市，其景观却像西雅图一样"
+      },
+      {
+        "value": "50%",
+        "label": "住宅用水用于草坪灌溉的比例",
+        "context": "肯塔基蓝草需要30多英寸的水。丹佛只有14-17英寸。",
+      },
+      {
+        "value": "-50%",
+        "label": "墨尔本将用水量减少了一半——并保持了下来",
+        "context": "干旱期间强制节约用水，之后实行永久性规则",
+        "source": "City of Melbourne"
+      }
+    ]
+  },
+  "works-councils": {
+    "title": "职工委员会与工人共同决定权",
+    "summary": "工人在每个工作场所选举产生委员会，该委员会有权决定排班、安全和裁员等事项。工人进入公司董事会。这就是德国成为工业强国的方式——将工人视为合作伙伴，而不是成本。",
+    "keyStats": [
+      {
+        "value": "350:1",
+        "label": "如今CEO与工人的薪酬比率",
+        "context": "从1965年的20:1上升——工人的生产力更高，CEO却拿走了所有的收益",
+        "source": "Economic Policy Institute, 2022"
+      },
+      {
+        "value": "40M+",
+        "label": "德国职工委员会覆盖的工人数量",
+        "context": "自1952年以来的法律——生产力更高、离职率更低、工资高于美国",
+        "source": "German Works Constitution Act"
+      },
+      {
+        "value": "12,000",
+        "label": "丹佛市雇员——起点",
+        "context": "市政府有权立即为其自身员工实施职工委员会"
+      }
+    ]
+  },
+  "youth-services": {
+    "title": "青年服务与机会",
+    "summary": "保障所有丹佛青少年都能获得暑期工作。在每个区设立全年开放的青年中心。设立具有实际预算权限的青年咨询委员会。在每所学校配备心理健康顾问。实施暴力干预计划。",
+    "keyStats": [
+      {
+        "value": "58%",
+        "label": "高于全国平均水平——科罗拉多州青年自杀率",
+        "context": "自杀是科罗拉多州10-24岁人群的首要死因",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      },
+      {
+        "value": "38%",
+        "label": "DPS学生长期缺勤率",
+        "context": "超过三分之一的学生在2022-23学年缺课10%以上",
+        "source": "DPS Accountability Reports"
+      },
+      {
+        "value": "$7-10",
+        "label": "青年工作每投入$1的回报",
+        "context": "通过减少监禁、提高收入和改善健康状况",
+        "source": "Heckman and Masterov; Fight Crime: Invest in Kids"
+      }
+    ]
+  }
+}
+```

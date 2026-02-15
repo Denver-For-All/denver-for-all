@@ -10,10 +10,12 @@ on:
         type: choice
         options:
           - all
+          - es
           - vi
           - zh
           - ar
           - am
+          - es,vi
           - vi,zh
           - ar,am
       content_types:
@@ -48,7 +50,7 @@ jobs:
       - id: set-matrix
         run: |
           if [ "${{ inputs.languages }}" = "all" ]; then
-            echo 'matrix={"language":["vi","zh","ar","am"]}' >> "$GITHUB_OUTPUT"
+            echo 'matrix={"language":["es","vi","zh","ar","am"]}' >> "$GITHUB_OUTPUT"
           else
             IFS=',' read -ra LANGS <<< "${{ inputs.languages }}"
             JSON=$(printf '"%s",' "${LANGS[@]}" | sed 's/,$//')
@@ -83,7 +85,7 @@ jobs:
     strategy:
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
       fail-fast: false
-      max-parallel: 2
+      max-parallel: 3
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
@@ -138,6 +140,9 @@ jobs:
           cache: 'npm'
 
       - run: npm ci
+
+      - name: Extract English reference content
+        run: node scripts/translate/extract-content.js
 
       - name: Download translation artifacts
         uses: actions/download-artifact@v4
@@ -198,6 +203,7 @@ jobs:
 
           ### Review checklist
 
+          - [ ] Spot-check Spanish (es) translations
           - [ ] Spot-check Vietnamese (vi) translations
           - [ ] Spot-check Chinese (zh) translations
           - [ ] Spot-check Arabic (ar) — verify RTL punctuation

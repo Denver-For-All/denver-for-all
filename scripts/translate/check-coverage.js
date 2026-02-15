@@ -23,8 +23,8 @@ const SRC = join(ROOT, 'src');
 const isCI = !!process.env.CI;
 const isStrict = process.argv.includes('--strict');
 
-const LOCALES = ['vi', 'zh', 'ar', 'am'];
-const LOCALE_NAMES = { vi: 'Vietnamese', zh: 'Chinese', ar: 'Arabic', am: 'Amharic' };
+const LOCALES = ['es', 'vi', 'zh', 'ar', 'am'];
+const LOCALE_NAMES = { es: 'Spanish', vi: 'Vietnamese', zh: 'Chinese', ar: 'Arabic', am: 'Amharic' };
 
 let warnings = 0;
 let errors = 0;

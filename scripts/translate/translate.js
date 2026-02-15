@@ -41,9 +41,12 @@ const MODEL = 'gemini-2.0-flash';
 const MAX_TOKENS = 8192;
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
 const MAX_RETRIES = 6;
-const REQUEST_DELAY_MS = 500; // Minimum ms between API calls to avoid bursts
+// Gemini 2.0 Flash limits: 2,000 RPM / 4M TPM / unlimited RPD
+// 100ms delay ≈ 10 req/s max, well within 2K RPM (33 req/s)
+const REQUEST_DELAY_MS = 100;
 
 const LANGUAGES = {
+  es: { name: 'Spanish', nativeName: 'Español' },
   vi: { name: 'Vietnamese', nativeName: 'Tiếng Việt' },
   zh: { name: 'Chinese (Simplified)', nativeName: '简体中文' },
   ar: { name: 'Arabic', nativeName: 'العربية' },
@@ -70,7 +73,7 @@ const langFilter = getArg('--lang');
 const typeFilter = getArg('--type');
 const dryRun = args.includes('--dry-run');
 const ciMode = args.includes('--ci');
-const concurrency = parseInt(getArg('--concurrency') || '2', 10);
+const concurrency = parseInt(getArg('--concurrency') || '5', 10);
 
 const API_KEY = process.env.GEMINI_API_KEY;
 if (!API_KEY && !dryRun) {

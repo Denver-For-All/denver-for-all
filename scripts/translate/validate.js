@@ -23,7 +23,7 @@ const ROOT = new URL('../../', import.meta.url).pathname;
 const OUTPUT = join(ROOT, 'scripts/translate/output');
 const EXTRACTED = join(ROOT, 'scripts/translate/extracted');
 
-const LANGUAGES = { vi: 'Vietnamese', zh: 'Chinese', ar: 'Arabic', am: 'Amharic' };
+const LANGUAGES = { es: 'Spanish', vi: 'Vietnamese', zh: 'Chinese', ar: 'Arabic', am: 'Amharic' };
 
 const args = process.argv.slice(2);
 const langFilter = args.includes('--lang') ? args[args.indexOf('--lang') + 1] : null;

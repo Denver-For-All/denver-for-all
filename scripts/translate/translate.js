@@ -24,7 +24,7 @@
  *                      ui-strings, page-meta, policy-frontmatter,
  *                      policy-bodies, grant-bodies
  *   --dry-run        Show translation plan without calling the API
- *   --concurrency N  Max concurrent API calls (default: 3)
+ *   --concurrency N  Max concurrent API calls (default: 2)
  *
  * Environment:
  *   ANTHROPIC_API_KEY   Required (unless --dry-run)
@@ -40,6 +40,8 @@ import { join, basename } from 'path';
 const MODEL = 'claude-haiku-4-5-20251001';
 const MAX_TOKENS = 8192;
 const API_URL = 'https://api.anthropic.com/v1/messages';
+const MAX_RETRIES = 6;
+const REQUEST_DELAY_MS = 500; // Minimum ms between API calls to avoid bursts
 
 const LANGUAGES = {
   vi: { name: 'Vietnamese', nativeName: 'Tiếng Việt' },
@@ -68,7 +70,7 @@ const langFilter = getArg('--lang');
 const typeFilter = getArg('--type');
 const dryRun = args.includes('--dry-run');
 const ciMode = args.includes('--ci');
-const concurrency = parseInt(getArg('--concurrency') || '3', 10);
+const concurrency = parseInt(getArg('--concurrency') || '2', 10);
 
 const API_KEY = process.env.ANTHROPIC_API_KEY;
 if (!API_KEY && !dryRun) {
@@ -104,6 +106,44 @@ function loadTaskPrompt(task) {
 let apiCalls = 0;
 let inputTokens = 0;
 let outputTokens = 0;
+let lastRequestTime = 0;
+
+/**
+ * Throttle API calls to avoid bursting into rate limits.
+ */
+async function throttle() {
+  const now = Date.now();
+  const elapsed = now - lastRequestTime;
+  if (elapsed < REQUEST_DELAY_MS) {
+    await sleep(REQUEST_DELAY_MS - elapsed);
+  }
+  lastRequestTime = Date.now();
+}
+
+/**
+ * Strip markdown code fences and stray text from LLM JSON responses.
+ * Models sometimes wrap JSON in ```json ... ``` despite instructions not to.
+ */
+function cleanJsonResponse(text) {
+  let cleaned = text.trim();
+
+  // Remove markdown code fences: ```json ... ``` or ``` ... ```
+  const fenceMatch = cleaned.match(/^```(?:json)?\s*\n?([\s\S]*?)\n?```\s*$/);
+  if (fenceMatch) {
+    cleaned = fenceMatch[1].trim();
+  }
+
+  // If it still doesn't start with {, try to find JSON object boundaries
+  if (!cleaned.startsWith('{') && !cleaned.startsWith('[')) {
+    const firstBrace = cleaned.indexOf('{');
+    const lastBrace = cleaned.lastIndexOf('}');
+    if (firstBrace !== -1 && lastBrace > firstBrace) {
+      cleaned = cleaned.slice(firstBrace, lastBrace + 1);
+    }
+  }
+
+  return cleaned;
+}
 
 async function translate(lang, taskType, content) {
   const langPrompt = loadLangPrompt(lang);
@@ -124,8 +164,10 @@ async function translate(lang, taskType, content) {
     messages: [{ role: 'user', content: userMessage }],
   };
 
-  // Retry with exponential backoff
-  for (let attempt = 0; attempt < 4; attempt++) {
+  await throttle();
+
+  // Retry with exponential backoff + jitter
+  for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
     try {
       const resp = await fetch(API_URL, {
         method: 'POST',
@@ -138,8 +180,15 @@ async function translate(lang, taskType, content) {
       });
 
       if (resp.status === 429 || resp.status >= 500) {
-        const wait = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  ⏳ Rate limited/error (${resp.status}), retrying in ${wait / 1000}s...`);
+        if (attempt >= MAX_RETRIES - 1) break; // will throw below
+        // Prefer retry-after header; fall back to exponential backoff + jitter
+        const retryAfter = resp.headers.get('retry-after');
+        const baseWait = retryAfter
+          ? parseFloat(retryAfter) * 1000
+          : Math.pow(2, attempt + 1) * 1000;
+        const jitter = Math.random() * 1000;
+        const wait = baseWait + jitter;
+        console.log(`  ⏳ Rate limited/error (${resp.status}), retrying in ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`);
         await sleep(wait);
         continue;
       }
@@ -156,15 +205,18 @@ async function translate(lang, taskType, content) {
 
       return data.content[0].text;
     } catch (err) {
-      if (attempt < 3) {
-        const wait = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  ⏳ Error: ${err.message}, retrying in ${wait / 1000}s...`);
+      if (attempt < MAX_RETRIES - 1) {
+        const wait = Math.pow(2, attempt + 1) * 1000 + Math.random() * 1000;
+        console.log(`  ⏳ Error: ${err.message}, retrying in ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`);
         await sleep(wait);
       } else {
         throw err;
       }
     }
   }
+
+  // All retries exhausted (e.g. persistent 429s) — throw instead of returning undefined
+  throw new Error(`All ${MAX_RETRIES} retry attempts exhausted`);
 }
 
 // ─── Translation Tasks ─────────────────────────────────────────────────────
@@ -174,7 +226,13 @@ async function translateUIStrings(lang) {
   const result = await translate(lang, 'ui-strings', content);
   const outDir = join(OUTPUT, lang);
   mkdirSync(outDir, { recursive: true });
-  writeFileSync(join(outDir, 'ui-strings.json'), result);
+  try {
+    const parsed = JSON.parse(cleanJsonResponse(result));
+    writeFileSync(join(outDir, 'ui-strings.json'), JSON.stringify(parsed, null, 2));
+  } catch {
+    console.warn('  ⚠ Could not parse ui-strings JSON. Saving raw output.');
+    writeFileSync(join(outDir, 'ui-strings.json'), result);
+  }
   return 1;
 }
 
@@ -183,7 +241,13 @@ async function translatePageMeta(lang) {
   const result = await translate(lang, 'page-meta', content);
   const outDir = join(OUTPUT, lang);
   mkdirSync(outDir, { recursive: true });
-  writeFileSync(join(outDir, 'page-meta.json'), result);
+  try {
+    const parsed = JSON.parse(cleanJsonResponse(result));
+    writeFileSync(join(outDir, 'page-meta.json'), JSON.stringify(parsed, null, 2));
+  } catch {
+    console.warn('  ⚠ Could not parse page-meta JSON. Saving raw output.');
+    writeFileSync(join(outDir, 'page-meta.json'), result);
+  }
   return 1;
 }
 
@@ -211,12 +275,12 @@ async function translatePolicyFrontmatter(lang) {
     const result = await translate(lang, 'policy-frontmatter', chunkJson);
     calls++;
 
-    // Parse and merge
+    // Parse and merge — clean markdown fences that the model may add
     try {
-      const parsed = JSON.parse(result);
+      const parsed = JSON.parse(cleanJsonResponse(result));
       Object.assign(allTranslated, parsed);
     } catch {
-      // If JSON parse fails, save raw and flag
+      // If JSON parse fails even after cleaning, save raw and flag
       console.warn(`  ⚠ Could not parse JSON for batch ${Math.floor(i / CHUNK_SIZE) + 1}. Saving raw output.`);
       writeFileSync(join(outDir, `policy-frontmatter-batch-${Math.floor(i / CHUNK_SIZE) + 1}-raw.txt`), result);
     }
@@ -233,9 +297,9 @@ async function translatePolicyBodies(lang) {
   mkdirSync(outDir, { recursive: true });
 
   let calls = 0;
-  const batches = [];
+  let failures = 0;
 
-  // Process in parallel batches
+  // Process in parallel batches (concurrency limits simultaneous requests)
   for (let i = 0; i < files.length; i += concurrency) {
     const batch = files.slice(i, i + concurrency);
     const promises = batch.map(async (file) => {
@@ -243,15 +307,24 @@ async function translatePolicyBodies(lang) {
       const content = readFileSync(join(bodiesDir, file), 'utf8');
       console.log(`  Translating policy: ${slug} (${LANGUAGES[lang].name})...`);
 
-      // For very long policies, the 8192 max_tokens might truncate.
-      // Use a higher limit for body content.
-      const result = await translate(lang, 'policy-body', content);
-      writeFileSync(join(outDir, file), result);
-      calls++;
+      try {
+        const result = await translate(lang, 'policy-body', content);
+        writeFileSync(join(outDir, file), result);
+        calls++;
+      } catch (err) {
+        failures++;
+        console.error(`  ✗ Failed to translate ${slug}: ${err.message}`);
+        if (ciMode) {
+          console.log(`::warning title=Policy translation failed: ${lang}/${slug}::${err.message}`);
+        }
+      }
     });
     await Promise.all(promises);
   }
 
+  if (failures > 0) {
+    console.warn(`  ⚠ ${failures} policy translation(s) failed (${calls} succeeded)`);
+  }
   return calls;
 }
 
@@ -263,15 +336,27 @@ async function translateGrantBodies(lang) {
   mkdirSync(outDir, { recursive: true });
 
   let calls = 0;
+  let failures = 0;
   for (const file of files) {
     const slug = basename(file, '.md');
     const content = readFileSync(join(bodiesDir, file), 'utf8');
     console.log(`  Translating grant: ${slug} (${LANGUAGES[lang].name})...`);
-    const result = await translate(lang, 'grant-body', content);
-    writeFileSync(join(outDir, file), result);
-    calls++;
+    try {
+      const result = await translate(lang, 'grant-body', content);
+      writeFileSync(join(outDir, file), result);
+      calls++;
+    } catch (err) {
+      failures++;
+      console.error(`  ✗ Failed to translate grant ${slug}: ${err.message}`);
+      if (ciMode) {
+        console.log(`::warning title=Grant translation failed: ${lang}/${slug}::${err.message}`);
+      }
+    }
   }
 
+  if (failures > 0) {
+    console.warn(`  ⚠ ${failures} grant translation(s) failed (${calls} succeeded)`);
+  }
   return calls;
 }
 

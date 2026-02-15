@@ -25,6 +25,7 @@ const OUTPUT = join(ROOT, 'scripts/translate/output');
 const SRC = join(ROOT, 'src');
 
 const LANGUAGES = {
+  es: 'Spanish',
   vi: 'Vietnamese',
   zh: 'Chinese (Simplified)',
   ar: 'Arabic',

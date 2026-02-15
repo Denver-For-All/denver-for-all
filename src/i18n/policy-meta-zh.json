@@ -1,0 +1,669 @@
+{
+  "emergency-preparedness": {
+    "title": "应急准备与气候适应能力",
+    "summary": "制定野火烟雾应对计划，在每个社区设立清洁空气避难所。制定极端高温行动计划，设立降温中心。加强洪水防御和绿色雨水基础设施建设。建立社区适应中心。实现公平的灾害应对。",
+    "keyStats": [
+      {
+        "value": "$1 to $6",
+        "label": "每1美元的准备工作可节省6美元的应对费用",
+        "context": "无论如何，Denver都将为气候影响付出代价——积极主动的投资可以挽救生命和金钱",
+        "source": "FEMA / National Institute of Building Sciences, 2019"
+      },
+      {
+        "value": "89",
+        "label": "2023年科罗拉多州与高温相关的死亡人数",
+        "context": "低收入居民、老年人、户外工作者和无家可归者承受的痛苦最为严重",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      }
+    ]
+  },
+  "fiscal-reform": {
+    "title": "财政改革与累进收入",
+    "summary": "纠正Denver的收入结构问题。用累进税代替累退销售税。在不削减工薪家庭赖以生存的服务的前提下，解决预算危机。让企业和富有的业主支付其应付的份额。",
+    "keyStats": [
+      {
+        "value": "~50%",
+        "label": "Denver收入来自累退销售税的比例",
+        "context": "收入为3.5万美元的家庭的实际税率高于收入为35万美元的家庭",
+        "source": "Institute on Taxation and Economic Policy, 2018"
+      },
+      {
+        "value": "$115-175M",
+        "label": "每年新增累进收入",
+        "context": "将负担从工薪家庭转移到企业和豪华房地产所有者"
+      }
+    ]
+  },
+  "food-access": {
+    "title": "食物获取与城市农业",
+    "summary": "到2030年消除Denver的食物荒漠。推行健康的社区商店计划。扩大城市土地上的城市农场。为所有DPS学生提供免费学校午餐。在每个食物荒漠中建立社区食物中心。保护和扩大社区花园。",
+    "keyStats": [
+      {
+        "value": "33%",
+        "label": "的Denver面临食物保障问题",
+        "context": "是疫情前的三倍——并且在SNAP（补充营养援助计划）扩张结束后还在攀升",
+        "source": "Denver DDPHE; Hunger Free Colorado"
+      },
+      {
+        "value": "93%",
+        "label": "的Globeville附近没有杂货店",
+        "context": "在Clayton，这一比例为100%。主要是黑人和拉丁裔社区。",
+        "source": "Denver Human Services Index"
+      },
+      {
+        "value": "60%",
+        "label": "贝洛奥里藏特儿童死亡率下降",
+        "context": "巴西于1993年宣布食物是一项权利——仅占城市预算的2%",
+        "source": "City of Belo Horizonte"
+      }
+    ]
+  },
+  "gig-worker-protections": {
+    "title": "零工工人保护",
+    "summary": "如果您在Denver工作，您就应该得到Denver的保护。使用ABC测试将零工工人重新划分为雇员。结束剥削漏洞。",
+    "keyStats": [
+      {
+        "value": "$200M",
+        "label": "平台为保持工人作为合同工而花费的金额"
+      },
+      {
+        "value": "50,000",
+        "label": "没有基本保护的Denver零工工人",
+        "context": "没有医疗保健、没有带薪病假、没有失业保险、没有追索权",
+        "source": "McKinsey Global Institute, 2022"
+      },
+      {
+        "value": "28 million",
+        "label": "欧盟平台工人获得雇员权利",
+        "context": "欧盟平台工作指令（2024）在整个欧洲大陆建立了雇佣推定",
+        "source": "European Commission, 2021"
+      }
+    ]
+  },
+  "government-transparency": {
+    "title": "政府透明度与数字权利",
+    "summary": "监督技术监督条例。所有城市运营的开放数据。公共资助的选举。游说者披露和旋转门限制。城市人工智能系统的算法问责制。数据主权和数字公共基础设施。",
+    "keyStats": [
+      {
+        "value": "2M+",
+        "label": "Flock摄像头每月拍摄的车辆",
+        "source": "Denver Gazette, 2025"
+      },
+      {
+        "value": "$498,509",
+        "label": "Flock合同——略低于50万美元的门槛",
+        "context": "市长通过将合同金额控制在门槛以下，绕过了市议会12比0的反对续签投票",
+        "source": "Denver Gazette, 2025"
+      },
+      {
+        "value": "5x",
+        "label": "使用民主券的捐助者更多",
+        "source": "Georgetown McCabe Center, 2023"
+      }
+    ],
+    "petitionTitle": "要求Denver宪章改革"
+  },
+  "guaranteed-income": {
+    "title": "Denver保障收入",
+    "summary": "向Denver的最低收入居民直接支付现金。没有任何附加条件。150多个城市已经试点了这项计划。没有一个城市出现就业减少的情况。库克县已将其永久化。Denver也应该这样做。",
+    "keyStats": [
+      {
+        "value": "150+",
+        "label": "美国城市测试了保障收入",
+        "context": "没有一项试点显示就业减少——多项试点显示就业增加",
+        "source": "Mayors for a Guaranteed Income, 2025"
+      },
+      {
+        "value": "12.4%",
+        "label": "的Denver居民低于贫困线",
+        "context": "在Montbello、Westwood和Sun Valley，贫困率超过30%",
+        "source": "U.S. Census Bureau, 2023"
+      },
+      {
+        "value": "+12pts",
+        "label": "斯托克顿试点项目就业增加",
+        "context": "领取者中的全职就业率从28%上升到40%",
+        "source": "Stockton Economic Empowerment Demonstration"
+      }
+    ]
+  },
+  "healthcare": {
+    "title": "医疗保健作为一项权利",
+    "summary": "医疗债务减免、医院费用透明化、非警察精神健康危机应对、每个社区的社区卫生中心、全民牙科保健，以及超越危机应对的行为健康系统。",
+    "keyStats": [
+      {
+        "value": "530,000/yr",
+        "label": "美国人因医疗债务而破产",
+        "context": "其他每个富裕国家都是零。美国是唯一一个。"
+      },
+      {
+        "value": "$5M to $500M",
+        "label": "城市资金可以消除高达5亿美元的债务",
+        "context": "债务购买者支付每美元1-5美分。城市购买并注销它。",
+        "source": "Undue Medical Debt program"
+      }
+    ]
+  },
+  "housing-first": {
+    "title": "住房优先——结束Denver的无家可归现象",
+    "summary": "首先给人提供住房，然后再解决其他问题。芬兰做到了，并且是欧盟中唯一一个无家可归现象正在减少的国家。它比庇护所更便宜。它奏效。",
+    "keyStats": [
+      {
+        "value": "9,065",
+        "label": "在Denver都会区经历无家可归的人",
+        "context": "2024年的时点统计显示危机持续加剧",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "$40-60K",
+        "label": "管理人均无家可归问题的年度成本",
+        "context": "紧急服务方法。住房优先的成本为1.5万至2.5万美元——不到一半。",
+        "source": ""
+      },
+      {
+        "value": "$15-25K",
+        "label": "永久性支持住房的年度成本",
+        "context": "芬兰证明了这在全国范围内有效。休斯顿证明了这在美国有效。"
+      }
+    ]
+  },
+  "immigration-anti-exploitation": {
+    "title": "反剥削和预防人口贩运",
+    "summary": "专门打击盗窃工资和劳动人口贩运的行为。针对建筑、餐饮和农业等行业的行业专项打击。住房剥削保护。移民是享有权利的工人，而不是一次性劳动力。",
+    "keyStats": [
+      {
+        "value": "$50B/yr",
+        "label": "从工人那里偷走的——超过所有抢劫案的总和",
+        "context": "在美国，工资盗窃使其他所有形式的财产犯罪相形见绌",
+        "source": "Economic Policy Institute, 2017"
+      },
+      {
+        "value": "11,000+",
+        "label": "目前科罗拉多州的人口贩运受害者",
+        "context": "集中在建筑、农业、餐饮和家政工作中",
+        "source": "Colorado Human Trafficking Council, 2023"
+      },
+      {
+        "value": "$50M+",
+        "label": "一年内为工人追回的金额（纽约市）",
+        "context": "积极主动的执法比等待投诉产生的追回金额多5-10倍",
+        "source": "NYC Dept. of Consumer and Worker Protection, 2023"
+      }
+    ]
+  },
+  "immigration-newcomer-reception": {
+    "title": "新移民接待和庇护支持",
+    "summary": "系统性的接待基础设施。快速的工作许可支持。提供就业渠道的过渡性住房。联邦报销倡导。不再有紧急情况——而是一个真正的计划。",
+    "keyStats": [
+      {
+        "value": "$150/night",
+        "label": "紧急避难所与30美元/晚的过渡性住房",
+        "context": "Denver在紧急应对方面花费了超过1亿美元，而计划系统可以用四分之一的成本交付",
+        "source": "National Alliance to End Homelessness, 2023"
+      },
+      {
+        "value": "40,000+",
+        "label": "新移民在没有任何系统的情况下抵达",
+        "context": "Denver证明了它有同情心。现在它需要基础设施。",
+        "source": "Denver Human Services, 2024"
+      }
+    ]
+  },
+  "pedestrian-infrastructure": {
+    "title": "行人基础设施与人行道公平",
+    "summary": "完善Denver的人行道网络。Denver有43%的人行道缺失或不完善——共1480英里。34%的人行道对于轮椅来说过于狭窄。9%的人行道完全缺失。低收入社区的行人死亡率是其他社区的两倍。54%的公交站点在两分钟步行路程内缺少人行道。优先考虑在服务欠缺的社区遵守ADA（美国残疾人法案）。使收费结构具有累进性。建设一个无论您是否拥有汽车都可以安全步行的城市。",
+    "keyStats": [
+      {
+        "value": "1,480 mi",
+        "label": "人行道缺失或存在缺陷",
+        "source": "DOTI系统状态报告，2026年1月"
+      },
+      {
+        "value": "400+ yrs",
+        "label": "以之前的资金投入速度完成人行道建设",
+        "context": "这个数字并非夸张。这是长期投资不足的数学结果。",
+        "source": "Denver街道合作组织，2022年"
+      },
+      {
+        "value": "2x",
+        "label": "低收入社区的行人死亡率",
+        "context": "最不可能拥有人行道的社区，其死亡率最高",
+        "source": "Denver街道合作组织，2022年"
+      }
+    ]
+  },
+  "power-reliability": {
+    "title": "电力可靠性与市政能源",
+    "summary": "结束Xcel（能源公司）的垄断失败。为Denver提供市政电力选项。为关键设施提供强制性备用电源。为医疗上脆弱的居民提供生命安全保护。利用特许经营权续签来要求Xcel承担责任，或建立我们自己的电力系统。",
+    "keyStats": [
+      {
+        "value": "352 min",
+        "label": "2024年每位客户的平均停电时间",
+        "context": "近6小时无电——是前一年的两倍",
+        "source": "Colorado州公共事业委员会简报，2025年"
+      },
+      {
+        "value": "30%",
+        "label": "在裁员10%的同时提高费率",
+        "context": "Xcel在2022-2024年间提高了30%的费率，同时削减了维护电网的员工",
+        "source": "Colorado太阳报，2025年"
+      },
+      {
+        "value": "30-40%",
+        "label": "市政公用事业公司（SMUD）的费率较低",
+        "source": "美国公共电力协会，2024年"
+      }
+    ]
+  },
+  "prison-labor": {
+    "title": "停止强制监狱劳动",
+    "summary": "Colorado选民在2018年禁止了奴隶制和非自愿奴役。七年后，被监禁者仍然因为拒绝以微薄的工资工作而面临惩罚。执行A修正案。结束强制劳动。保证所有监狱工作计划中的工作场所保护、公平工资和自愿参与。",
+    "keyStats": [
+      {
+        "value": "$0.33–$1.61",
+        "label": "每小时——Colorado支付给被监禁工人的工资",
+        "context": "最低工资为每小时$14.81。被监禁的工人只能获得其中的2-11%。没有OSHA（职业安全与健康管理局）的保护，没有病假。",
+        "source": "ACLU（美国公民自由联盟），《囚禁劳工报告》，2022年"
+      },
+      {
+        "value": "65%",
+        "label": "2018年禁止非自愿奴役的Colorado选民",
+        "context": "A修正案以近三分之二的支持率获得通过。CDOC（Colorado州惩教署）没有任何改变。工人仍然因为拒绝工作而面临惩罚。",
+        "source": "Colorado州州务卿，2018年选举结果"
+      },
+      {
+        "value": "800,000+",
+        "label": "全国范围内参与监狱劳动计划的被监禁工人",
+        "context": "每年产生超过$110亿的商品和服务。平均工资：每小时$0.13-$0.52。一个建立在囚禁劳工基础上的价值$110亿的产业。",
+        "source": "ACLU（美国公民自由联盟），《囚禁劳工报告》，2022年"
+      }
+    ]
+  },
+  "public-banking": {
+    "title": "Denver银行 - 公共银行",
+    "summary": "一家城市拥有的银行，将Denver的资金留在Denver。为住房、小企业和绿色能源提供低息贷款。为没有银行账户的人提供金融服务。",
+    "keyStats": [
+      {
+        "value": "100+ years",
+        "label": "North Dakota银行从未亏损",
+        "context": "在经济大萧条、2008年金融危机和COVID疫情中幸存下来——每年向该州返还超过$1亿美元",
+        "source": "North Dakota银行年度报告"
+      },
+      {
+        "value": "18.4%",
+        "label": "美国没有银行账户或银行服务不足的家庭",
+        "context": "有色人种社区所占比例过高",
+        "source": "FDIC（联邦存款保险公司），2023年"
+      },
+      {
+        "value": "400+",
+        "label": "仅在德国就有公共储蓄银行",
+        "context": "为5000万客户提供服务——公共银行在世界范围内很常见",
+        "source": "德国储蓄银行协会"
+      }
+    ]
+  },
+  "public-safety": {
+    "title": "社区安全与警察改革",
+    "summary": "通过基于证据的社区投资来真正减少犯罪，而不仅仅是依靠警力。具有传票权的公民监督。心理健康危机处理小组，而不是武装警察。社区暴力干预。解决根本原因：住房、就业、心理健康和青年机会。",
+    "keyStats": [
+      {
+        "value": "531 per 100K",
+        "label": "美国的监禁率——全球最高",
+        "source": "世界监狱简报"
+      },
+      {
+        "value": "$35.3M",
+        "label": "Denver在2017-2023年支付的警察和解金",
+        "context": "仅2023年就达到$1730万。没有独立的监督委员会可以进行调查或处分。",
+        "source": "Denver市律师记录；Denver邮报，2024年"
+      },
+      {
+        "value": "50-75%",
+        "label": "社区投资减少犯罪",
+        "context": "奥克兰、格拉斯哥、波哥大、里士满都优于仅依靠警力的方法",
+        "source": "奥克兰停火计划；格拉斯哥VRU评估"
+      }
+    ],
+    "petitionTitle": "关闭Flock监控摄像头"
+  },
+  "rent-control": {
+    "title": "Denver租金稳定法案",
+    "summary": "将租金涨幅严格限制在CPI（消费者价格指数）或3%以内，以较低者为准。没有空置解除管制。没有漏洞。为每一位Denver租房者提供真正的保护。",
+    "keyStats": [
+      {
+        "value": "85%",
+        "label": "自2010年以来的租金增长",
+        "context": "在过去的15年中，Denver的租金涨幅超过通货膨胀率的3倍",
+        "source": "Zillow观察租金指数（ZORI），Denver-Aurora-Lakewood MSA"
+      },
+      {
+        "value": "$1,600+",
+        "label": "平均一居室租金",
+        "source": "ApartmentList全国租金报告，2024年"
+      },
+      {
+        "value": "0",
+        "label": "Colorado州的租金稳定保护",
+        "context": "州法律CRS 38-12-301（自1981年起）禁止所有地方租金管制。四次废除尝试均失败。",
+        "source": " "
+      },
+      {
+        "value": "150K+",
+        "label": "受影响的租赁单位",
+        "context": "超过50%的Denver居民是租房者，他们没有任何保护来防止任意涨价",
+        "source": "美国社区调查，2022年"
+      }
+    ]
+  },
+  "reparations-racial-justice": {
+    "title": "赔偿与种族正义",
+    "summary": "Denver有其特定的种族伤害历史：红线歧视、城市更新造成的流离失所、Rocky Flats（洛基弗拉茨核武器工厂）的污染以及持续存在的种族隔离。Evanston（埃文斯顿市）证明城市可以采取行动。Denver应该是下一个。",
+    "keyStats": [
+      {
+        "value": "10:1",
+        "label": "Denver白人与黑人家庭的财富比率",
+        "context": "白人家庭的平均财富约为$25万美元。黑人家庭的平均财富约为$2.4万美元。",
+        "source": "美联储消费者财务调查，2022年"
+      },
+      {
+        "value": "11 years",
+        "label": "Denver各社区之间的预期寿命差距",
+        "context": "最贫穷、种族隔离最严重的社区的寿命最短",
+        "source": "Colorado健康研究所，2022年"
+      },
+      {
+        "value": "$6.2M",
+        "label": "Evanston证明城市可以进行赔偿",
+        "context": "美国第一个支付公共资金赔偿的城市——132名受益者",
+        "source": "Evanston市，2025年"
+      }
+    ]
+  },
+  "reproductive-healthcare": {
+    "title": "生殖健康保健服务",
+    "summary": "捍卫和扩大Denver的堕胎服务。确保第79号修正案的宪法承诺成为现实——充分的提供者报销、诊所可持续性、药物流产服务，以及一个保护患者和提供者免受联邦和州际威胁的城市。身体自主权是不容谈判的。",
+    "keyStats": [
+      {
+        "value": "42 to 23",
+        "label": "自2011年以来Colorado的堕胎诊所",
+        "context": "诊所数量几乎减半，而堕胎数量增加了88%。需求增加，服务减少。",
+        "source": "Guttmacher研究所，2024年"
+      },
+      {
+        "value": "40 to 4,400",
+        "label": "每年前往Colorado的德克萨斯州患者",
+        "context": "在德克萨斯州SB 8法案和Dobbs案之后，四年内需求激增了100倍",
+        "source": "CDPHE（Colorado州公共卫生与环境部）, 2023; AJOG, 2025"
+      },
+      {
+        "value": "$7.09",
+        "label": "每投入$1用于避孕服务所节省的费用",
+        "context": "生殖健康保健服务是回报最高的公共卫生投资之一",
+        "source": "Guttmacher研究所，2015年"
+      }
+    ]
+  },
+  "right-to-disconnect": {
+    "title": "离线权与32小时工作制",
+    "summary": "你的老板不能在午夜给你发短信。你的周末是你的。而且有证据表明，我们工作4天可以产生相同的产出。法国、冰岛、比利时和西班牙已经做到了。",
+    "keyStats": [
+      {
+        "value": "462 hours",
+        "label": "美国人比德国人每年工作的时间",
+        "context": "相当于11个以上额外的40小时工作周——我们的生产力并没有高出11周",
+        "source": "OECD（经济合作与发展组织），2023年"
+      },
+      {
+        "value": "92%",
+        "label": "英国公司永久保留了4天工作制",
+        "context": "61家公司，2900名工人，为期6个月的试验——收入保持不变或增加",
+        "source": "Autonomy Research，2023年"
+      },
+      {
+        "value": "+40%",
+        "label": "日本微软尝试周五休息时的生产力",
+        "context": "每月每周五关闭办公室；电力成本下降了23%",
+        "source": "日本微软，2019年"
+      }
+    ]
+  },
+  "sectoral-bargaining": {
+    "title": "行业集体谈判与工资委员会",
+    "summary": "全行业工资谈判，而不是公司对公司的工会化。每个餐厅工人都受到保护。每个酒店工人都受到保护。为Denver量身定制的欧洲模式。",
+    "keyStats": [
+      {
+        "value": "94%",
+        "label": "美国私营部门工人没有工会",
+        "context": "美国的“公司对公司”模式从设计上就存在缺陷",
+        "source": "BLS（美国劳工统计局），2024年"
+      },
+      {
+        "value": "7.2%",
+        "label": "Colorado州工会会员率",
+        "context": "低于本已很低的10%的全国平均水平；酒店业几乎为零",
+        "source": "BLS（美国劳工统计局），2023年"
+      }
+    ]
+  },
+  "small-business-economy": {
+    "title": "小企业与地方经济",
+    "summary": "简化小企业许可流程。商业租金稳定化。建立完整的工人合作社生态系统和传统企业转型渠道。优先本地的城市采购。为BIPOC（黑人、原住民及有色人种）企业家提供小额贷款。加强反垄断执法。",
+    "keyStats": [
+      {
+        "value": "405",
+        "label": "丹佛两年内倒闭的餐馆数量",
+        "context": "2022-2024年净倒闭数量——被连锁店取代",
+        "source": "Colorado Restaurant Association, 2024"
+      },
+      {
+        "value": "$45 vs $14",
+        "label": "本地消费创造3倍的经济活动",
+        "context": "在本地企业每消费$100，将产生$45的本地经济活动，而连锁店仅为$14",
+        "source": "Civic Economics; Institute for Local Self-Reliance"
+      },
+      {
+        "value": "77%",
+        "label": "小企业被大型银行拒绝贷款的比例",
+        "context": "黑人企业家创业的初始资金只有白人的1/3"
+      }
+    ]
+  },
+  "social-housing": {
+    "title": "丹佛社会住房法案",
+    "summary": "建设10,000套公共所有、永久负担得起的住房。实行混合收入、民主管理模式，且无需增加您的税收。",
+    "keyStats": [
+      {
+        "value": "7,500",
+        "label": "每晚无家可归的人数",
+        "context": "第八条款（Section 8）的等候名单很长，而且房东拒绝接受代金券",
+        "source": "MDHI Point-in-Time Count, 2024"
+      },
+      {
+        "value": "60%",
+        "label": "维也纳公共住房的覆盖率",
+        "source": "Wiener Wohnen, 2023"
+      },
+      {
+        "value": "$400-600K",
+        "label": "目前每套住房的补贴成本",
+        "context": "社会住房每套成本为$20-35万。我们花费双倍的价钱，只为让开发商保留利润。",
+        "source": "Denver HOST / LIHTC program data"
+      }
+    ]
+  },
+  "tenant-bill-of-rights": {
+    "title": "丹佛租户权利法案",
+    "summary": "普及法律顾问权、租金上涨提前90天通知、反报复保护以及组织权利。每位租户都应享有尊严。",
+    "keyStats": [
+      {
+        "value": "15,953",
+        "label": "丹佛的驱逐备案数量 (2025)",
+        "context": "比疫情前水平高出72%。丹佛逆全国趋势而行。",
+        "source": "Denver County Court, Princeton Eviction Lab"
+      },
+      {
+        "value": "62%",
+        "label": "案件最终判决房东胜诉的比例",
+        "context": "2025年，只有0.7%的租户提出了答辩。大多数因未应诉而败诉。",
+        "source": "Colorado Judicial Branch SB24-064 Dashboard"
+      },
+      {
+        "value": "4-5 wks",
+        "label": "从备案到在科罗拉多州被驱逐的时间",
+        "context": "美国驱逐时间最快的地区之一"
+      }
+    ]
+  },
+  "transportation": {
+    "title": "交通与公共交通",
+    "summary": "为低收入居民提供免费RTD交通。在每条主要干道上设置受保护的自行车道。实施真正的“零死亡愿景”（Vision Zero）。进行停车改革以降低住房成本。为服务欠缺的社区提供交通公平。推行“15分钟城市”框架，让每位丹佛市民都可以步行或骑自行车满足日常需求。",
+    "keyStats": [
+      {
+        "value": "93",
+        "label": "2025年丹佛街头丧生的人数",
+        "context": "2013年以来死亡人数最多的一年。行人死亡人数上升34%。“零死亡愿景”正在失败。",
+        "source": "Denver Vision Zero Dashboard, 2025"
+      },
+      {
+        "value": "38%",
+        "label": "自2019年以来RTD乘客人数的降幅",
+        "context": "从1.058亿人次降至6520万人次，而同类城市已恢复至85%以上",
+        "source": "Denver Post, October 2025"
+      },
+      {
+        "value": "$3.5B/yr",
+        "label": "丹佛因交通拥堵造成的损失",
+        "context": "免费交通的成本为$3500万——仅占拥堵损失的1%",
+        "source": "Texas A&M Transportation Institute, 2025"
+      }
+    ]
+  },
+  "universal-childcare": {
+    "title": "普及儿童保育",
+    "summary": "为6个月以上的儿童提供公共资助的儿童保育服务。任何家庭的费用上限为每月$200。低收入家庭免费。因为不应让任何父母在工作和抚养孩子之间做出选择。",
+    "keyStats": [
+      {
+        "value": "$2,200/mo",
+        "label": "儿童保育费用高于大学学费",
+        "context": "丹佛的儿童保育费用为每年每个孩子$16,800-$26,400，高于科罗拉多大学博尔德分校的学费",
+        "source": "Economic Policy Institute, 2023"
+      },
+      {
+        "value": "$13-16/hr",
+        "label": "儿童保育工作者的贫困工资",
+        "context": "负责儿童发展最关键阶段的人，收入低于快餐店员工",
+        "source": "BLS, Denver metro area, 2024"
+      },
+      {
+        "value": "$7-13",
+        "label": "对幼儿教育每投资$1的回报",
+        "context": "现有回报最高的公共投资",
+        "source": "James Heckman, Nobel laureate economist, 2006"
+      }
+    ]
+  },
+  "vacancy-tax": {
+    "title": "空置房屋税",
+    "summary": "对空置住宅征收累进税。当人们露宿街头时，你不应该让房屋空置。",
+    "keyStats": [
+      {
+        "value": "5,000-8,000",
+        "label": "丹佛空置房屋数量",
+        "context": "7,500人无家可归，而数千套房屋空置以待投机",
+        "source": "U.S. Census Bureau, ACS 2022"
+      },
+      {
+        "value": "$50-80M",
+        "label": "丹佛预计的年度收入",
+        "context": "每一美元都将用于经济适用房信托基金，以建设社会住房和社区土地信托（CLT）"
+      }
+    ]
+  },
+  "waste-circular-economy": {
+    "title": "减少浪费与循环经济",
+    "summary": "普及路边堆肥收集。到2035年实现90%的废物转移。禁止塑料袋和聚苯乙烯。维修权。生产者承担包装废弃物责任。零废弃城市运营。为科罗拉多州干旱的未来做好水的复原力和灰水再利用。",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "废物转移率——74%进入垃圾填埋场",
+        "source": "Denverite, 2024"
+      },
+      {
+        "value": "9x",
+        "label": "回收利用比垃圾填埋创造更多就业机会",
+        "context": "再利用和维修创造的就业机会高达30倍。零浪费是一项就业计划。",
+        "source": "Eco-Cycle; Institute for Local Self-Reliance"
+      }
+    ]
+  },
+  "water-security": {
+    "title": "水资源安全与保护",
+    "summary": "保护丹佛的未来水资源。强制性节水标准、灰水回收、抗旱基础设施和公平的水费。丹佛是一个半干旱城市，却表现得好像水资源是无限的。事实并非如此。",
+    "keyStats": [
+      {
+        "value": "14-17 in.",
+        "label": "年降雨量——只有全国平均水平的一半",
+        "context": "丹佛是一个半干旱城市，但景观绿化却像西雅图一样"
+      },
+      {
+        "value": "50%",
+        "label": "住宅用水用于草坪灌溉的比例",
+        "context": "肯塔基蓝草需要30多英寸的水。丹佛只有14-17英寸。"
+      },
+      {
+        "value": "-50%",
+        "label": "墨尔本将用水量减少了一半——并保持了这一水平",
+        "context": "干旱期间强制节约用水，之后实行永久性规定",
+        "source": "City of Melbourne"
+      }
+    ]
+  },
+  "works-councils": {
+    "title": "劳资委员会与工人共同决定权",
+    "summary": "工人在每个工作场所选举产生委员会，对排班、安全和裁员拥有实际权力。工人进入公司董事会。这就是德国成为工业强国的原因——将工人视为合作伙伴，而非成本。",
+    "keyStats": [
+      {
+        "value": "350:1",
+        "label": "当今CEO与工人的薪酬比率",
+        "context": "从1965年的20:1上升——工人的生产力更高，但CEO拿走了所有收益",
+        "source": "Economic Policy Institute, 2022"
+      },
+      {
+        "value": "40M+",
+        "label": "德国劳资委员会覆盖的工人数量",
+        "context": "自1952年以来的法律——生产力更高，离职率更低，工资高于美国",
+        "source": "German Works Constitution Act"
+      },
+      {
+        "value": "12,000",
+        "label": "丹佛市雇员——起点",
+        "context": "市政府有权立即为其自身员工实施劳资委员会"
+      }
+    ]
+  },
+  "youth-services": {
+    "title": "青年服务与机会",
+    "summary": "保证所有丹佛青少年都能获得暑期工作。在每个区设立全年开放的青年中心。成立拥有实际预算权力的青年咨询委员会。在每所学校配备心理健康辅导员。推行暴力干预计划。",
+    "keyStats": [
+      {
+        "value": "58%",
+        "label": "高于全国平均水平——科罗拉多州青少年自杀率",
+        "context": "自杀是10-24岁科罗拉多州居民的首要死因",
+        "source": "CO Dept of Public Health and Environment, 2023"
+      },
+      {
+        "value": "38%",
+        "label": "DPS（丹佛公立学校）学生长期缺勤率",
+        "context": "2022-23学年，超过三分之一的学生缺课10%以上",
+        "source": "DPS Accountability Reports"
+      },
+      {
+        "value": "$7-10",
+        "label": "对青年每投资$1的回报",
+        "context": "通过减少监禁、提高收入和改善健康状况",
+        "source": "Heckman and Masterov; Fight Crime: Invest in Kids"
+      }
+    ]
+  }
+}

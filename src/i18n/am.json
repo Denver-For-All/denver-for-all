@@ -1,0 +1,81 @@
+{
+  "site": {
+    "title": "Denver For All",
+    "tagline": "በዴንቨር የኢኮኖሚ ፍትሕ እንቅስቃሴ",
+    "description": "ሁሉም ሰው መኖር፣ መሥራት እና ማደግ የሚችልበትን ዴንቨር መገንባት።"
+  },
+  "nav": {
+    "home": "መነሻ",
+    "platform": "መድረክ",
+    "runForDenver": "ለዴንቨር መወዳደር",
+    "takeAction": "እርምጃ ይውሰዱ",
+    "tools": "መሳሪያዎች",
+    "about": "ስለ",
+    "language": "English"
+  },
+  "hero": {
+    "headline": "ዴንቨር የሁላችንም ናት",
+    "subheadline": "ገንቢዎች ብቻ አይደሉም። አከራዮች ብቻ አይደሉም። ኮርፖሬሽኖች ብቻ አይደሉም። ሁላችንም።",
+    "cta": "መድረኩን ያንብቡ",
+    "ctaSecondary": "እንቅስቃሴውን ይቀላቀሉ"
+  },
+  "email": {
+    "heading": "እንቅስቃሴውን ይቀላቀሉ",
+    "subheading": "በፖሊሲ ሃሳቦች፣ እርምጃዎች እና ለሁሉም በሚሰራ ዴንቨር እንዴት መታገል እንደሚችሉ ላይ መረጃ ያግኙ።",
+    "placeholder": "your@email.com",
+    "button": "ይመዝገቡ",
+    "privacy": "ግላዊነትዎን እናከብራለን። በማንኛውም ጊዜ ከደንበኝነት ምዝገባ መውጣት ይችላሉ።"
+  },
+  "platform": {
+    "heading": "መድረኩ",
+    "subheading": "ለፍትሃዊ ዴንቨር አጠቃላይ፣ በመረጃ ላይ የተመሰረቱ ፖሊሲዎች። እያንዳንዱ ሃሳብ ችግሩን፣ መፍትሄውን እና እንዴት እንደምንከፍል ያካትታል።",
+    "readMore": "ሙሉውን ሃሳብ ያንብቡ",
+    "categories": {
+      "housing": "ቤቶች እና ቤት-አልባነት",
+      "labor": "ሰራተኞች እና ደሞዝ",
+      "climate": "የአየር ንብረት እና አካባቢ",
+      "health": "የጤና እንክብካቤ",
+      "safety": "የህዝብ ደህንነት",
+      "education": "ትምህርት",
+      "immigration": "ስደት",
+      "infrastructure": "መሠረተ ልማት እና አገልግሎቶች",
+      "justice": "የወንጀል ፍትህ",
+      "democracy": "ዴሞክራሲ እና አስተዳደር",
+      "economy": "አነስተኛ ንግድ እና ኢኮኖሚ",
+      "community": "ማህበረሰብ እና ባህል"
+    }
+  },
+  "runForDenver": {
+    "heading": "ለዴንቨር መወዳደር",
+    "subheading": "መድረኩ፣ በጎ ፈቃደኞቹ እና ጉልበቱ አለን። ለሱ የሚታገል እጩ ያስፈልገናል።",
+    "criteria": "ምን እንፈልጋለን",
+    "applyHeading": "ለመወዳደር ዝግጁ ነዎት፧",
+    "applyButton": "ስለራስዎ ይንገሩን"
+  },
+  "tools": {
+    "heading": "ለመላው ህዝብ የሚሆኑ መሣሪያዎች",
+    "subheading": "ኃይልን ተጠያቂ ለማድረግ እና መብቶችዎን ለመጠበቅ ነፃ፣ የክፍት ምንጭ መሣሪያዎች።",
+    "evictionTracker": "የዴንቨር ማስለቀቂያ መከታተያ",
+    "evictionDesc": "በአከራይ እና በአካባቢ የቀጥታ የማስለቀቂያ ፋይሎች ዳሽቦርድ።",
+    "rentCalculator": "የኪራይ ቁጥጥር ማስያ",
+    "rentCalcDesc": "በኪራይ ማረጋጊያ እቅዳችን ምን ያህል መቆጠብ እንደሚችሉ ይመልከቱ።",
+    "campaignFinance": "ገንዘቡን ይከታተሉ",
+    "campaignFinanceDesc": "የምክር ቤት አባላትዎን ማን እንደሚደግፍ እና እንዴት እንደሚመርጡ ይመልከቱ።",
+    "chatbot": "መብቶችዎን ይወቁ",
+    "chatbotDesc": "የ24/7 የኪራይ መብቶች ረዳት በእንግሊዝኛ እና ስፓኒሽ።"
+  },
+  "footer": {
+    "tagline": "በሕዝብ የተገነባ፣ ለሕዝብ።",
+    "openSource": "ይህ ጣቢያ የክፍት ምንጭ ነው።",
+    "contact": "ያግኙን",
+    "privacy": "ግላዊነት",
+    "builtWith": "በአንድነት እና በክፍት ምንጭ መሣሪያዎች የተገነባ።"
+  },
+  "policy": {
+    "problem": "ችግሩ",
+    "solution": "የእኛ መፍትሔ",
+    "funding": "እንዴት እንከፍላለን",
+    "faq": "በተደጋጋሚ የሚጠየቁ ጥያቄዎች",
+    "backToPlatform": "ወደ መድረክ ይመለሱ"
+  }
+}

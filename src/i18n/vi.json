@@ -1,0 +1,81 @@
+{
+  "site": {
+    "title": "Denver For All",
+    "tagline": "Một Phong Trào Vì Công Bằng Kinh Tế ở Denver",
+    "description": "Xây dựng một thành phố Denver nơi mọi người có thể sống, làm việc và phát triển."
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "platform": "Cương Lĩnh",
+    "runForDenver": "Ứng Cử Cho Denver",
+    "takeAction": "Hành Động",
+    "tools": "Công Cụ",
+    "about": "Giới Thiệu",
+    "language": "English"
+  },
+  "hero": {
+    "headline": "Denver Thuộc Về Tất Cả Chúng Ta",
+    "subheadline": "Không chỉ nhà đầu tư. Không chỉ chủ nhà. Không chỉ tập đoàn. Tất cả chúng ta.",
+    "cta": "Đọc Cương Lĩnh",
+    "ctaSecondary": "Tham Gia Phong Trào"
+  },
+  "email": {
+    "heading": "Tham Gia Phong Trào",
+    "subheading": "Nhận thông tin cập nhật về các đề xuất chính sách, hành động và cách đấu tranh cho một Denver phục vụ mọi người.",
+    "placeholder": "email@cuaban.com",
+    "button": "Đăng Ký",
+    "privacy": "Chúng tôi tôn trọng sự riêng tư của bạn. Hủy đăng ký bất cứ lúc nào."
+  },
+  "platform": {
+    "heading": "Cương Lĩnh",
+    "subheading": "Các chính sách toàn diện, dựa trên dữ liệu cho một Denver công bằng. Mỗi đề xuất bao gồm vấn đề, giải pháp và nguồn tài chính.",
+    "readMore": "Đọc Đề Xuất Đầy Đủ",
+    "categories": {
+      "housing": "Gia Cư & Vô Gia Cư",
+      "labor": "Người Lao Động & Tiền Lương",
+      "climate": "Khí Hậu & Môi Trường",
+      "health": "Chăm Sóc Sức Khỏe",
+      "safety": "An Toàn Công Cộng",
+      "education": "Giáo Dục",
+      "immigration": "Nhập Cư",
+      "infrastructure": "Cơ Sở Hạ Tầng & Dịch Vụ",
+      "justice": "Tư Pháp Hình Sự",
+      "democracy": "Dân Chủ & Quản Trị",
+      "economy": "Kinh Tế & Doanh Nghiệp Nhỏ",
+      "community": "Cộng Đồng & Văn Hóa"
+    }
+  },
+  "runForDenver": {
+    "heading": "Ứng Cử Cho Denver",
+    "subheading": "Chúng tôi có cương lĩnh, tình nguyện viên và năng lượng. Chúng tôi cần một ứng cử viên sẽ đấu tranh cho nó.",
+    "criteria": "Những Gì Chúng Tôi Tìm Kiếm",
+    "applyHeading": "Sẵn Sàng Ứng Cử?",
+    "applyButton": "Giới Thiệu Bản Thân"
+  },
+  "tools": {
+    "heading": "Công Cụ Cho Người Dân",
+    "subheading": "Các công cụ mã nguồn mở, miễn phí để quy trách nhiệm cho chính quyền và bảo vệ quyền của bạn.",
+    "evictionTracker": "Công Cụ Theo Dõi Trục Xuất Denver",
+    "evictionDesc": "Bảng điều khiển trực tiếp về các đơn trục xuất theo chủ nhà và khu phố.",
+    "rentCalculator": "Công Cụ Tính Toán Kiểm Soát Tiền Thuê",
+    "rentCalcDesc": "Xem bạn sẽ tiết kiệm được bao nhiêu theo kế hoạch ổn định tiền thuê của chúng tôi.",
+    "campaignFinance": "Theo Dõi Dòng Tiền",
+    "campaignFinanceDesc": "Xem ai tài trợ cho các thành viên hội đồng của bạn và cách họ bỏ phiếu.",
+    "chatbot": "Biết Quyền Của Bạn",
+    "chatbotDesc": "Trợ lý quyền của người thuê nhà 24/7 bằng tiếng Anh và tiếng Tây Ban Nha."
+  },
+  "footer": {
+    "tagline": "Được xây dựng bởi người dân, vì người dân.",
+    "openSource": "Trang web này là mã nguồn mở.",
+    "contact": "Liên Hệ",
+    "privacy": "Quyền Riêng Tư",
+    "builtWith": "Được xây dựng bằng tinh thần đoàn kết và các công cụ mã nguồn mở."
+  },
+  "policy": {
+    "problem": "Vấn Đề",
+    "solution": "Giải Pháp Của Chúng Tôi",
+    "funding": "Nguồn Tài Chính",
+    "faq": "Các Câu Hỏi Thường Gặp",
+    "backToPlatform": "Trở Lại Cương Lĩnh"
+  }
+}

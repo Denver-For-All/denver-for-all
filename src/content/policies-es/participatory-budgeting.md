@@ -3,125 +3,125 @@
 
 ## El Problema
 
-El presupuesto anual de Denver supera los $1.6 mil millones. Los residentes casi no tienen voz en cómo se gasta. El Concejo Municipal celebra audiencias públicas a las que pocos asisten, y la oficina del alcalde dirige las prioridades. El resultado: los presupuestos reflejan los intereses de los desarrolladores, cabilderos y grupos políticamente conectados, no de los residentes comunes de Denver.
+El presupuesto anual de Denver supera los $1.6 mil millones. Los residentes casi no tienen voz ni voto en cómo se gasta. El Concejo Municipal realiza audiencias públicas a las que pocos asisten, y la oficina del Alcalde impulsa las prioridades. El resultado: los presupuestos reflejan los intereses de los promotores inmobiliarios, los lobistas y los grupos con conexiones políticas, no los residentes comunes de Denver.
 
-Mientras tanto, la confianza en el gobierno local es baja y está disminuyendo. La gente siente, correctamente, que su voz no importa. La participación electoral en la elección municipal de Denver de 2023 fue del 38% (Denver Elections Division). Eso es mejor que algunos años, pero aún significa que el 62% de los votantes registrados se quedaron en casa. El sistema es técnicamente democrático pero funcionalmente no responde.
+Mientras tanto, la confianza en el gobierno local es baja y está disminuyendo. La gente siente, correctamente, que su voz no importa. La participación electoral en las elecciones municipales de Denver de 2023 fue del 38% (División de Elecciones de Denver). Eso es mejor que algunos años, pero aún significa que el 62% de los votantes registrados se quedaron en casa. El sistema es técnicamente democrático, pero funcionalmente insensible.
 
-### Lo que Denver hace actualmente
+### Lo Que Denver Hace Actualmente
 
-Denver tiene una división de Neighborhood Engagement y celebra audiencias públicas sobre el presupuesto, pero estas son en gran parte performativas. El presupuesto es redactado por la oficina del alcalde, presentado al concejo, y los períodos de comentarios públicos son limitados. Denver nunca ha experimentado con presupuesto participativo a ninguna escala. Algunos vecindarios de Denver tienen establecimiento informal de prioridades a través de Registered Neighborhood Organizations (RNOs), pero estas no tienen autoridad vinculante sobre la asignación presupuestaria y tienden a ser dominadas por propietarios de vivienda y residentes mayores y más ricos.
+Denver tiene una división de Participación Vecinal y realiza audiencias públicas sobre el presupuesto, pero estas son en gran medida representaciones teatrales. El presupuesto es redactado por la oficina del Alcalde, presentado al Concejo, y los períodos de comentarios públicos son limitados. Denver nunca ha experimentado con la presupuestación participativa a ninguna escala. Algunos vecindarios de Denver tienen un establecimiento de prioridades informal a través de Organizaciones Vecinales Registradas (RNO, por sus siglas en inglés), pero estas no tienen autoridad vinculante sobre la asignación del presupuesto y tienden a estar dominadas por propietarios de viviendas y residentes mayores y más ricos.
 
-El contraste con el enfoque de Mike Johnston es instructivo: decisiones importantes como el contrato de vigilancia de Flock Safety se impulsaron sin participación pública significativa. El déficit democrático no es abstracto; es cómo opera la ciudad de manera rutinaria.
+El contraste con el enfoque de Mike Johnston es instructivo: decisiones importantes como el contrato de vigilancia de Flock Safety se impulsaron sin una participación pública significativa. El déficit democrático no es abstracto; es la forma en que la ciudad opera de forma rutinaria.
 
 ## Nuestra Solución
 
-### 1. Presupuesto Participativo (PP)
+### 1. Presupuestación Participativa (PB)
 
-Pionero en Porto Alegre, Brasil en 1989 y ahora utilizado en más de 7,000 ciudades en todo el mundo. Los residentes deciden directamente cómo se gasta el dinero público.
+Iniciada en Porto Alegre, Brasil, en 1989 y ahora utilizada en más de 7,000 ciudades en todo el mundo. Los residentes deciden directamente cómo se gasta el dinero público.
 
-**Programa de PP de Denver:**
+**Programa de PB de Denver:**
 
-- **10% del presupuesto de capital de la ciudad** (~$100-150M/año) se asigna a través del presupuesto participativo
-- **Cada residente de Denver** de 14+ años puede participar (incluyendo no ciudadanos — no necesitas ser votante para tener voz en tu vecindario)
-- **Asambleas vecinales** proponen proyectos: parques, mejoras de calles, centros comunitarios, infraestructura de seguridad, remediación ambiental
-- **Voto de los residentes** selecciona los proyectos ganadores — en línea + presencial, con boletas multilingües
-- **Delegados presupuestarios** (elegidos de los vecindarios) desarrollan las propuestas en proyectos implementables con apoyo del personal municipal
+- **El 10% del presupuesto de capital de la ciudad** (aproximadamente $100-150 millones/año) se asigna a través de la presupuestación participativa.
+- **Cada residente de Denver** mayor de 14 años puede participar (incluidos los no ciudadanos; no es necesario ser votante para tener voz en su vecindario).
+- **Las asambleas vecinales** proponen proyectos: parques, mejoras de calles, centros comunitarios, infraestructura de seguridad, remediación ambiental.
+- **El voto de los residentes** selecciona los proyectos ganadores: en línea y en persona, con boletas multilingües.
+- **Los delegados de presupuesto** (elegidos de los vecindarios) desarrollan propuestas en proyectos implementables con el apoyo del personal de la ciudad.
 
 **Proceso (ciclo anual):**
 
-1. **Recolección de ideas** (2 meses): Las asambleas vecinales generan propuestas
-2. **Desarrollo** (3 meses): Los delegados presupuestarios trabajan con ingenieros y planificadores de la ciudad para desarrollar las propuestas en proyectos costeados y factibles
-3. **Exhibición** (1 mes): Todas las propuestas se exhiben públicamente, en línea y en ubicaciones comunitarias
-4. **Votación** (2 semanas): Todos los residentes votan sobre los proyectos finales
-5. **Implementación** (continua): La ciudad implementa los proyectos ganadores con un panel de seguimiento público
+1. **Recopilación de ideas** (2 meses): Las asambleas vecinales generan propuestas.
+2. **Desarrollo** (3 meses): Los delegados de presupuesto trabajan con ingenieros y planificadores de la ciudad para desarrollar propuestas en proyectos factibles y con costos calculados.
+3. **Exhibición** (1 mes): Todas las propuestas se exhiben públicamente, en línea y en lugares comunitarios.
+4. **Votación** (2 semanas): Todos los residentes votan sobre los proyectos finales.
+5. **Implementación** (en curso): La ciudad implementa los proyectos ganadores con un panel de seguimiento público.
 
 ### 2. Asambleas Ciudadanas
 
-Adaptadas del modelo de la Citizens' Assembly de Irlanda, que resolvió los temas más contenciosos del país (aborto, matrimonio igualitario, clima) a través de la deliberación democrática en lugar de la guerra partidista.
+Adaptado del modelo de Asamblea Ciudadana de Irlanda, que resolvió los problemas más polémicos del país (aborto, igualdad matrimonial, clima) a través de la deliberación democrática en lugar de la guerra partidista.
 
 **Cómo funciona:**
 
-- **Selección aleatoria** de residentes (como el deber de jurado, pero para políticas)
-- **Demográficamente representativa**: la asamblea refleja la población de Denver por edad, raza, ingreso, vecindario, género
-- **Facilitación profesional**: facilitadores independientes, no políticos
-- **Testimonio de expertos**: la asamblea escucha a investigadores, comunidades afectadas, profesionales
-- **Deliberación**: semanas de discusión estructurada, aprendizaje y debate
-- **Recomendaciones**: la asamblea produce recomendaciones de política detalladas a las que el concejo municipal debe responder públicamente (aceptar, modificar con explicación, o rechazar con explicación)
+- **Residentes seleccionados al azar** (como el servicio de jurado, pero para la política).
+- **Demográficamente representativa**: la asamblea refleja la población de Denver por edad, raza, ingresos, vecindario, género.
+- **Facilitación profesional**: facilitadores independientes, no políticos.
+- **Testimonio de expertos**: la asamblea escucha a investigadores, comunidades afectadas, profesionales.
+- **Deliberación**: semanas de discusión estructurada, aprendizaje y debate.
+- **Recomendaciones**: la asamblea produce recomendaciones de política detalladas a las que el Concejo Municipal debe responder públicamente (aceptar, modificar con explicación o rechazar con explicación).
 
-**Temas de la Asamblea Ciudadana de Denver (primeros 3 años propuestos):**
+**Temas de la Asamblea Ciudadana de Denver (propuestos para los primeros 3 años):**
 
-- Año 1: Asequibilidad de la vivienda y personas sin hogar
+- Año 1: Asequibilidad de la vivienda y falta de vivienda
 - Año 2: Policía y seguridad pública
 - Año 3: Clima y justicia ambiental
 
 ## La Evidencia: Esto Funciona
 
-### Presupuesto Participativo
+### Presupuestación Participativa
 
-| Ciudad                   | Escala                                                                       | Resultado                                                                                                                                                           |
-| ------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Porto Alegre, Brasil** | Pionero del PP en 1989, más de 50,000 participantes/año                      | La mortalidad infantil bajó un 50%. El acceso al agua alcanzó el 98%. Mejoras dramáticas en vecindarios de bajos ingresos. Se convirtió en modelo para el mundo.    |
-| **París, Francia**       | €500M asignados a través del PP (2014-2020), 5% del presupuesto total        | Más de 300 proyectos completados. El 10% de los residentes participa anualmente. Los proyectos incluyen parques, ciclovías, espacios verdes, jardines comunitarios. |
-| **Helsinki, Finlandia**  | Presupuesto de PP de €8.8M (creciendo anualmente)                            | Alta participación, propuestas innovadoras, aumento de confianza en el gobierno                                                                                     |
-| **Nueva York, EE.UU.**   | Programa de PP más grande de EE.UU. Más de $40M/año en más de 30 distritos.  | Más de 100,000 residentes participan. Proyectos en cada distrito. La participación juvenil es especialmente alta.                                                   |
-| **Madrid, España**       | Presupuesto de PP de €100M a través de la plataforma digital "Decide Madrid" | Más de 400,000 participantes en línea. Las propuestas incluyen vivienda social, infraestructura verde, transporte público.                                          |
+| Ciudad                     | Escala                                                      | Resultado                                                                                                                                 |
+| ------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Porto Alegre, Brasil** | Pionera en PB en 1989, más de 50,000 participantes/año     | La mortalidad infantil se redujo en un 50%. El acceso al agua alcanzó el 98%. Mejoras dramáticas en los vecindarios de bajos ingresos. Se convirtió en un modelo para el mundo. |
+| **París, Francia**        | €500 millones asignados a través de PB (2014-2020), 5% del presupuesto total | Más de 300 proyectos completados. El 10% de los residentes participan anualmente. Los proyectos incluyen parques, carriles para bicicletas, espacios verdes, huertos comunitarios.   |
+| **Helsinki, Finlandia**    | Presupuesto de PB de €8.8 millones (creciendo anualmente)                      | Alta participación, propuestas innovadoras, mayor confianza en el gobierno                                                                |
+| **Nueva York, EE. UU.**   | El programa de PB más grande de EE. UU. Más de $40 millones/año en más de 30 distritos. | Más de 100,000 residentes participan. Proyectos en cada distrito. La participación juvenil es especialmente alta.                                        |
+| **Madrid, España**        | Presupuesto de PB de €100 millones a través de la plataforma digital "Decide Madrid"       | Más de 400,000 participantes en línea. Las propuestas incluyen viviendas sociales, infraestructura verde, transporte público.                                  |
 
-**Hallazgos consistentes en todos los programas de PP:**
+**Hallazgos consistentes en todos los programas de PB:**
 
-- El dinero fluye hacia vecindarios previamente descuidados
-- La infraestructura mejora más rápido en áreas de bajos ingresos
-- La participación cívica aumenta (especialmente entre jóvenes, inmigrantes y residentes de bajos ingresos)
-- La confianza en el gobierno aumenta de manera medible
-- El gasto es más eficiente (los residentes saben lo que sus vecindarios necesitan)
+- El dinero fluye a vecindarios previamente descuidados
+- La infraestructura mejora más rápido en las áreas de bajos ingresos
+- La participación cívica aumenta (especialmente entre los jóvenes, los inmigrantes y los residentes de bajos ingresos)
+- La confianza en el gobierno aumenta notablemente
+- El gasto es más eficiente (los residentes saben lo que necesitan sus vecindarios)
 
 ### Asambleas Ciudadanas
 
-| País            | Tema                                                      | Resultado                                                                                                                       |
-| --------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Irlanda**     | Legalización del aborto (2016-2017)                       | La Asamblea Ciudadana recomendó la legalización → el referéndum pasó con el 66% de apoyo. Resolvió un estancamiento de décadas. |
-| **Irlanda**     | Matrimonio igualitario (2013-2014)                        | La Convención Constitucional (modelo similar) recomendó → el referéndum pasó con el 62% de apoyo.                               |
-| **Francia**     | Política climática (2019-2020)                            | 150 ciudadanos seleccionados al azar produjeron 149 recomendaciones climáticas. Varias se convirtieron en ley.                  |
-| **Reino Unido** | Política climática (2020)                                 | La Climate Assembly UK produjo recomendaciones detalladas para alcanzar la neutralidad de carbono.                              |
-| **Bélgica**     | Asamblea ciudadana permanente en la comunidad germanófona | Órgano deliberativo continuo que regularmente produce recomendaciones de política.                                              |
+| País     | Asunto                                                     | Resultado                                                                                                            |
+| ----------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Irlanda** | Legalización del aborto (2016-2017)                         | La Asamblea Ciudadana recomendó la legalización → el referéndum fue aprobado con un 66% de apoyo. Resolvió un estancamiento de décadas. |
+| **Irlanda** | Igualdad matrimonial (2013-2014)                             | La Convención Constitucional (modelo similar) recomendó → el referéndum fue aprobado con un 62% de apoyo.                       |
+| **Francia**  | Política climática (2019-2020)                                | 150 ciudadanos seleccionados al azar produjeron 149 recomendaciones climáticas. Varias se convirtieron en ley.                          |
+| **Reino Unido**      | Política climática (2020)                                     | La Asamblea Climática del Reino Unido produjo recomendaciones detalladas sobre cómo alcanzar el objetivo de cero emisiones netas.                                       |
+| **Bélgica** | Asamblea ciudadana permanente en la comunidad de habla alemana | Organismo deliberativo continuo que produce regularmente recomendaciones de política.                                         |
 
 **Por qué la selección aleatoria funciona mejor que las elecciones:**
 
 - Los funcionarios electos son desproporcionadamente ricos, hombres, blancos y mayores que sus electores
 - La selección aleatoria produce asambleas que realmente se parecen a la población
-- Los participantes no le deben nada a donantes ni cabilderos
-- La deliberación (escuchar evidencia, discutir con pares) produce decisiones mejor informadas que los eslóganes de campaña
+- Los participantes no le deben nada a los donantes ni a los lobistas
+- La deliberación (escuchar evidencia, discutir con sus compañeros) produce decisiones mejor informadas que los fragmentos de sonido de la campaña
 
-## Cómo lo Pagamos
+## Cómo Lo Financiamos
 
-- **Administración del presupuesto participativo:** $2-3M/año (0.15% del presupuesto que se asigna)
-- **Asambleas ciudadanas:** $1-2M por asamblea (estipendios para participantes, facilitación, testimonio de expertos, lugar)
-- **Total:** $4-5M/año para una participación democrática dramáticamente mejorada
+- **Administración de la presupuestación participativa:** $2-3 millones/año (0.15% del presupuesto que se asigna)
+- **Asambleas ciudadanas:** $1-2 millones por asamblea (estipendios para los participantes, facilitación, testimonio de expertos, sede)
+- **Total:** $4-5 millones/año para una participación democrática dramáticamente mejorada
 
-Esto es un error de redondeo en un presupuesto de $1.6 mil millones — y la evidencia muestra que el PP produce un gasto más eficiente que la asignación burocrática.
+Este es un error de redondeo en un presupuesto de $1.6 mil millones, y la evidencia muestra que la PB produce un gasto más eficiente que la asignación burocrática.
 
 ## Preguntas Frecuentes
 
 **"La gente común no puede tomar decisiones presupuestarias."**
-Las toman mejor de lo que esperarías. El programa de PP de Porto Alegre produjo una infraestructura más equitativa que décadas de presupuesto dirigido por expertos. Y las asambleas ciudadanas consistentemente producen recomendaciones bien razonadas y basadas en evidencia — porque los participantes realmente escuchan la evidencia, a diferencia de la mayoría de los políticos.
+Las toman mejor de lo que cabría esperar. El programa de PB de Porto Alegre produjo una infraestructura más equitativa que décadas de presupuestación impulsada por expertos. Y las asambleas ciudadanas producen consistentemente recomendaciones bien razonadas y basadas en la evidencia, porque los participantes realmente escuchan la evidencia, a diferencia de la mayoría de los políticos.
 
-**"Esto ralentizará al gobierno."**
-El ciclo del PP funciona en paralelo al proceso presupuestario regular. Las asambleas ciudadanas se convocan para preguntas específicas en plazos específicos. Ninguno reemplaza la gobernanza existente — la complementan con legitimidad democrática.
+**"Esto ralentizará el gobierno."**
+El ciclo de PB se ejecuta paralelamente al proceso presupuestario regular. Las asambleas ciudadanas se convocan para preguntas específicas en plazos específicos. Ninguno reemplaza la gobernanza existente, la complementan con legitimidad democrática.
 
 **"¿Qué pasa con las personas que no participan?"**
-Más personas participan en el PP que las que votan en elecciones municipales. Y la selección aleatoria para las asambleas ciudadanas asegura la representación incluso sin autoselección. Estas herramientas llegan a personas que las elecciones no alcanzan.
+Más personas participan en la PB que votan en las elecciones municipales. Y la selección aleatoria para las asambleas ciudadanas garantiza la representación incluso sin la autoselección. Estas herramientas llegan a personas a las que las elecciones no llegan.
 
-**"¿No será capturado por intereses especiales?"**
-Más difícil de capturar que las elecciones. El PP usa una persona-un voto (sin donaciones de campaña). Las asambleas ciudadanas usan selección aleatoria (sin cabildeo). Ambos son estructuralmente más resistentes a la captura de intereses especiales que el sistema actual.
+**"¿No será esto capturado por intereses especiales?"**
+Más difícil de capturar que las elecciones. La PB utiliza un voto por persona (sin donaciones de campaña). Las asambleas ciudadanas utilizan la selección aleatoria (sin cabildeo). Ambos son estructuralmente más resistentes a la captura de intereses especiales que el sistema actual.
 
 **"¿Qué impide que los vecindarios ricos dominen el proceso?"**
-Los programas de PP que funcionan usan asignación ponderada por equidad: los distritos con mayores tasas de pobreza reciben asignaciones per cápita más grandes. El alcance a comunidades subrepresentadas está integrado en el proceso. El programa de PP de NYC tiene tasas de participación más altas entre residentes de bajos ingresos y personas de color que las elecciones estándar. La selección aleatoria para las asambleas ciudadanas está estratificada por demografía, garantizando la representación.
+Los programas de PB que funcionan utilizan la asignación ponderada por equidad: los distritos con tasas de pobreza más altas reciben asignaciones per cápita más grandes. La divulgación a las comunidades subrepresentadas está integrada en el proceso. El programa de PB de la ciudad de Nueva York tiene tasas de participación más altas entre los residentes de bajos ingresos y las personas de color que las elecciones estándar. La selección aleatoria para las asambleas ciudadanas está estratificada por datos demográficos, lo que garantiza la representación.
 
 ## Referencias
 
-- Denver Elections Division. (2023). Datos de participación electoral municipal. (38% de participación.)
-- City of Denver Annual Budget. (2024). Cifras del presupuesto total y del presupuesto de capital.
-- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Estudio para la Agencia Federal Alemana de Educación Cívica. (Datos de más de 7,000 ciudades.)
-- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Resultados de Porto Alegre.)
-- PBNYC (Participatory Budgeting New York City). Informes anuales y datos de participación.
-- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Diseño de asambleas ciudadanas.)
-- Irish Citizens' Assembly. Informes sobre la Octava Enmienda (2017) y Matrimonio Igualitario (2014).
+- División de Elecciones de Denver. (2023). Datos de participación en las elecciones municipales. (38% de participación).
+- Presupuesto Anual de la Ciudad de Denver. (2024). Cifras del presupuesto total y del presupuesto de capital.
+- Sintomer, Y., et al. (2012). "Presupuestación Participativa en Todo el Mundo". Estudio para la Agencia Federal Alemana para la Educación Cívica. (Datos de más de 7,000 ciudades).
+- Cabannes, Y. (2004). "La presupuestación participativa: una contribución significativa a la democracia participativa". Medio Ambiente y Urbanización. (Resultados de Porto Alegre).
+- PBNYC (Presupuestación Participativa de la Ciudad de Nueva York). Informes anuales y datos de participación.
+- Farrell, D., et al. (2019). "Mini-Públicos Deliberativos: Características Centrales del Diseño". Centro para la Democracia Deliberativa y la Gobernanza Global. (Diseño de la asamblea ciudadana).
+- Asamblea Ciudadana Irlandesa. Informes sobre la Octava Enmienda (2017) y la Igualdad Matrimonial (2014).

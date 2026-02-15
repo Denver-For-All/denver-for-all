@@ -3,87 +3,87 @@
 
 ## El Problema
 
-Desde 2020, los inversionistas institucionales - firmas de capital privado, fondos de cobertura y companias de arrendadores corporativos - han estado comprando viviendas unifamiliares y edificios de departamentos en Denver a un ritmo acelerado. Estas entidades:
+Desde 2020, los inversores institucionales (empresas de capital privado, fondos de cobertura y empresas corporativas de arrendamiento) han estado comprando viviendas unifamiliares y edificios de apartamentos en todo Denver a un ritmo acelerado. Estas entidades:
 
 - Compran viviendas con ofertas en efectivo con las que las familias individuales no pueden competir
-- Convierten viviendas ocupadas por propietarios en alquileres, reduciendo las tasas de propiedad de vivienda
-- Maximizan la extraccion de alquiler a traves de software de precios algoritmicos (como RealPage, actualmente enfrentando demandas federales antimonopolio)
+- Convierten viviendas ocupadas por sus propietarios en alquileres, reduciendo las tasas de propiedad de vivienda
+- Maximizan la extracción de rentas a través de software de fijación de precios algorítmicos (como RealPage, que actualmente enfrenta demandas federales antimonopolio)
 - Minimizan el mantenimiento para maximizar los retornos a los accionistas
-- Presentan desalojos a tasas 2-3 veces mayores que los arrendadores individuales
+- Presentan desalojos a tasas de 2 a 3 veces más altas que los arrendadores individuales
 - Rinden cuentas a Wall Street, no a Denver
 
-Cuando Blackstone, Invitation Homes o Progress Residential compra una vivienda en tu vecindario, esa vivienda nunca mas sera asequible para que una familia la compre. Se convierte en una maquina de extraccion permanente.
+Cuando Blackstone, Invitation Homes o Progress Residential compran una vivienda en su vecindario, esa vivienda nunca más será asequible para que una familia la compre. Se convierte en una máquina de extracción permanente.
 
 ### Lo Que Denver Hace Actualmente
 
-Denver **no tiene restricciones sobre la propiedad institucional de propiedades residenciales**. A nivel nacional, los inversionistas compraron aproximadamente el 26% de las viviendas unifamiliares de bajo precio vendidas en 2023, y aproximadamente el 18.5% de todas las viviendas vendidas (datos de Redfin). En Denver especificamente, Invitation Homes (propiedad de Blackstone) es uno de los mayores arrendadores de viviendas unifamiliares, con cientos de propiedades en el area metropolitana. Progress Residential y American Homes 4 Rent tambien mantienen portafolios significativos en Denver.
+Denver **no tiene restricciones sobre la propiedad institucional de bienes inmuebles residenciales**. A nivel nacional, los inversores compraron aproximadamente el 26% de las viviendas unifamiliares de bajo precio vendidas en 2023, y alrededor del 18.5% de todas las viviendas vendidas (datos de Redfin). Específicamente en Denver, Invitation Homes (propiedad de Blackstone) es uno de los mayores arrendadores de viviendas unifamiliares, con cientos de propiedades en el área metropolitana. Progress Residential y American Homes 4 Rent también mantienen importantes carteras en Denver.
 
-En agosto de 2024, el U.S. Department of Justice presento una demanda civil antimonopolio contra RealPage, alegando que su software de precios algoritmicos permitio a los arrendadores coordinar aumentos de alquiler por encima del mercado -- constituyendo efectivamente fijacion de precios. (Demandas colectivas privadas fueron presentadas a partir de finales de 2022.) Multiples companias de gestion de propiedades del area de Denver han sido identificadas como clientes de RealPage.
+En agosto de 2024, el Departamento de Justicia de EE. UU. presentó una demanda civil antimonopolio contra RealPage, alegando que su software de fijación de precios algorítmicos permitió a los arrendadores coordinar aumentos de alquileres por encima del mercado, lo que constituye una fijación de precios efectiva. (Se presentaron demandas colectivas privadas a partir de finales de 2022). Varias empresas de administración de propiedades del área de Denver han sido identificadas como clientes de RealPage.
 
-## Nuestra Solucion
+## Nuestra Solución
 
-### La Ley Denver Homes for Humans
+### La Ley de Denver de Viviendas para Humanos (Denver Homes for Humans Act)
 
-**1. Prohibicion de Adquisicion**
-Las entidades que posean 50+ unidades residenciales a nivel nacional tienen prohibido adquirir propiedades residenciales adicionales (1-4 unidades) dentro de los limites de la ciudad de Denver. Esto incluye:
+**1. Prohibición de Adquisiciones**
+Las entidades que posean más de 50 unidades residenciales a nivel nacional tienen prohibido adquirir propiedades residenciales adicionales (de 1 a 4 unidades) dentro de los límites de la ciudad de Denver. Esto incluye:
 
 - Compras directas
-- Compras a traves de subsidiarias, LLCs o companias fantasma
-- Esquemas de alquiler con opcion a compra que resulten en propiedad corporativa
-- Adquisiciones por ejecucion hipotecaria
+- Compras a través de subsidiarias, LLC o empresas fantasma
+- Esquemas de alquiler con opción a compra que resulten en propiedad corporativa
+- Adquisiciones por ejecución hipotecaria
 
-**2. Requisito de Desinversion**
-Los tenedores corporativos existentes de 50+ unidades deben desinvertir las propiedades residenciales (1-4 unidades) dentro de 5 anos de la aprobacion de la ordenanza. La desinversion debe ser:
+**2. Requisito de Desinversión**
+Los actuales titulares corporativos de más de 50 unidades deben desinvertir en propiedades residenciales (de 1 a 4 unidades) dentro de los 5 años posteriores a la aprobación de la ordenanza. La desinversión debe ser:
 
-- A propietarios-ocupantes individuales, fideicomisos de tierras comunitarios o la Social Housing Authority
+- A ocupantes propietarios individuales, fideicomisos de tierras comunitarias o la Autoridad de Vivienda Social
 - Al valor justo de mercado tasado independientemente (sin precios inflados)
-- Con derecho de primera oferta para los inquilinos actuales
+- Con derecho de preferencia para los inquilinos actuales
 
-**3. Transparencia de Propiedad Beneficiaria**
-Todas las LLCs y entidades corporativas que posean propiedades residenciales en Denver deben divulgar su cadena completa de propiedad beneficiaria -- las personas reales que poseen y se benefician. Sin esconderse detras de companias fantasma.
+**3. Transparencia de la Propiedad Beneficial**
+Todas las LLC y entidades corporativas que posean propiedades residenciales en Denver deben divulgar su cadena completa de propiedad beneficial: los humanos reales que poseen y se benefician. No se permite esconderse detrás de empresas fantasma.
 
-- Divulgacion anual requerida
-- Registro publico mantenido por la ciudad
-- Falta de divulgacion: impuesto a la propiedad tasado a 3 veces la tasa estandar
+- Divulgación anual requerida
+- Registro público mantenido por la ciudad
+- Incumplimiento de la divulgación: impuesto sobre la propiedad evaluado a 3 veces la tasa estándar
 
-**4. Prohibicion de Precios Algoritmicos**
-Los propietarios y companias de gestion de propiedades tienen prohibido usar software de precios algoritmicos (RealPage, Yardi, etc.) que coordine precios entre arrendadores competidores. Esto es fijacion de precios, ya sea hecho por humanos en una habitacion o por un algoritmo en un servidor.
+**4. Prohibición de Fijación de Precios Algorítmicos**
+Los propietarios y las empresas de administración tienen prohibido utilizar software de fijación de precios algorítmicos (RealPage, Yardi, etc.) que coordine los precios entre los arrendadores competidores. Esto es fijación de precios, ya sea hecha por humanos en una sala o por un algoritmo en un servidor.
 
 **5. Estructura de Sanciones**
 
-- Primera violacion: $50,000 por propiedad
-- Violaciones subsiguientes: $100,000 por propiedad + desinversion obligatoria
-- Referencia criminal por violaciones sistematicas
+- Primera violación: $50,000 por propiedad
+- Violaciones posteriores: $100,000 por propiedad + desinversión obligatoria
+- Remisión penal por violaciones de patrón
 
-### Evidencia Internacional: La Vivienda No Es un Instrumento Financiero
+### Evidencia Internacional: La Vivienda No Es Un Instrumento Financiero
 
-| Pais                 | Modelo                                                                                                                                                                                                                                                                                                                  | Resultado                                                                                                                                                                           |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Dinamarca**        | Los no residentes y las companias no danesas no pueden comprar propiedades residenciales sin permiso. Requisitos de ocupacion por propietario para muchos tipos de vivienda.                                                                                                                                            | La vivienda sigue siendo principalmente para residentes, no para inversionistas. Los precios son mas estables. La propiedad de vivienda sirve a las familias, no a los portafolios. |
-| **Nueva Zelanda**    | Prohibio a compradores extranjeros de propiedades residenciales existentes (2018).                                                                                                                                                                                                                                      | Elimino la demanda especulativa. El crecimiento de precios de vivienda se desacelero. Los compradores nacionales enfrentan menos competencia del capital internacional.             |
-| **Alemania**         | Fuertes protecciones para inquilinos y regulaciones de alquiler hacen de la propiedad residencial una inversion de bajo retorno, desincentivando naturalmente la adquisicion especulativa. Las leyes de _Wohnungsgemeinnuetzigkeit_ (beneficio publico de vivienda) historicamente limitaron las ganancias en vivienda. | Los arrendadores corporativos existen pero operan bajo regulacion pesada. La vivienda no es la clase de activo especulativo que es en EE.UU.                                        |
-| **Berlin, Alemania** | Referendum de 2021: el 59% voto por expropiar 240,000 departamentos de grandes arrendadores corporativos (Deutsche Wohnen, Vonovia). Implementacion en curso.                                                                                                                                                           | Mandato democratico para recuperar la vivienda de los arrendadores corporativos. El movimiento es global.                                                                           |
-| **Espana**           | La nueva ley de vivienda de Cataluna (2023) obliga a los grandes arrendadores a alquilar propiedades vacantes en areas de alta demanda o enfrentar expropiacion.                                                                                                                                                        | Aborda directamente la vacancia corporativa y la especulacion.                                                                                                                      |
+| País               | Modelo                                                                                                                                                                                                                                      | Resultado                                                                                                                            |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Dinamarca**      | Los no residentes y las empresas no danesas no pueden comprar propiedades residenciales sin permiso. Requisitos de ocupación por el propietario para muchos tipos de vivienda.                                                                | La vivienda sigue siendo principalmente para los residentes, no para los inversores. Los precios son más estables. La propiedad de vivienda sirve a las familias, no a las carteras.      |
+| **Nueva Zelanda**  | Prohibió a los compradores extranjeros de propiedades residenciales existentes (2018).                                                                                                                                                       | Eliminó la demanda especulativa. El crecimiento del precio de la vivienda se desaceleró. Los compradores nacionales enfrentan menos competencia del capital internacional.                       |
+| **Alemania**       | Las fuertes protecciones para los inquilinos y las regulaciones de alquileres hacen que la propiedad residencial sea una inversión de bajo rendimiento, lo que naturalmente desalienta la adquisición especulativa. Las leyes de _Wohnungsgemeinnützigkeit_ (beneficio público de la vivienda) históricamente limitaron las ganancias en la vivienda. | Los arrendadores corporativos existen, pero operan bajo una fuerte regulación. La vivienda no es la clase de activo especulativo que es en los EE. UU.                                           |
+| **Berlín, Alemania** | Referéndum de 2021: el 59% votó a favor de expropiar 240,000 apartamentos de grandes arrendadores corporativos (Deutsche Wohnen, Vonovia). Implementación en curso.                                                                         | Mandato democrático para recuperar la vivienda de los arrendadores corporativos. El movimiento es global.                                   |
+| **España**         | La nueva ley de vivienda de Cataluña (2023) obliga a los grandes arrendadores a alquilar propiedades vacías en áreas de alta demanda o enfrentar la expropiación.                                                                               | Aborda directamente la vacancia y la especulación corporativa.                                                                              |
 
-**EE.UU., junto con un punado de otras naciones anglosajonas, ha financiarizado de manera unica la vivienda residencial** -- tratandola principalmente como un vehiculo de inversion en lugar de refugio (OECD Housing Policy Dashboard, 2024). La mayoria de los paises regulan quien puede comprar vivienda y como puede ser utilizada porque reconocen que el refugio es una necesidad humana, no una clase de activo.
+**Los EE. UU., junto con un puñado de otras naciones de la angloesfera, han financiarizado de manera única la vivienda residencial**, tratándola principalmente como un vehículo de inversión en lugar de refugio (OECD Housing Policy Dashboard, 2024). La mayoría de los países regulan quién puede comprar vivienda y cómo se puede utilizar porque reconocen que el refugio es una necesidad humana, no una clase de activo.
 
-## Como Lo Pagamos
+## Cómo Lo Financiamos
 
-Esta es una regulacion, no un programa de gasto. Los costos de cumplimiento ($1-2M/ano) son cubiertos por las sanciones por violaciones y la tarifa del registro de transparencia ($500/entidad/ano).
+Esta es una regulación, no un programa de gasto. Los costos de aplicación ($1-2 millones/año) están cubiertos por las sanciones por violación y la tarifa del registro de transparencia ($500/entidad/año).
 
 ## Preguntas Frecuentes
 
-**"Es esto legal?"**
-Las ciudades regulan quien puede operar negocios dentro de sus limites todo el tiempo. Esto no es diferente de las leyes de zonificacion que restringen la actividad comercial en areas residenciales. La propiedad ya esta sujeta a una extensa regulacion.
+**"¿Es esto legal?"**
+Las ciudades regulan quién puede operar negocios dentro de sus límites todo el tiempo. Esto no es diferente de las leyes de zonificación que restringen la actividad comercial en áreas residenciales. La propiedad de la propiedad ya está sujeta a una amplia regulación.
 
-**"Esto no reducira la vivienda de alquiler disponible?"**
-Los arrendadores corporativos no construyen vivienda -- compran vivienda existente y extraen alquileres mas altos. Cada unidad que son obligados a vender queda disponible para un comprador individual, una cooperativa o un fideicomiso de tierras comunitario. La vivienda no desaparece.
+**"¿No reducirá esto la vivienda de alquiler disponible?"**
+Los arrendadores corporativos no construyen viviendas, compran viviendas existentes y extraen alquileres más altos. Cada unidad que se ven obligados a vender se vuelve disponible para un comprador individual, una cooperativa o un fideicomiso de tierras comunitario. La vivienda no desaparece.
 
-**"Que pasa con los pequenos arrendadores con multiples propiedades?"**
-El umbral de 50 unidades se dirige especificamente a inversionistas institucionales, no a la persona que posee un duplex o unas cuantas propiedades de alquiler. Los pequenos arrendadores no son el problema.
+**"¿Qué pasa con los pequeños arrendadores con múltiples propiedades?"**
+El umbral de 50 unidades se dirige específicamente a los inversores institucionales, no a la persona que posee un dúplex o algunas propiedades de alquiler. Los pequeños arrendadores no son el problema.
 
-**"Que hay de los complejos de departamentos?"**
-Los edificios multifamiliares grandes (50+ unidades) estan excluidos de la prohibicion de adquisicion porque siempre han sido propiedad de inversionistas. El enfoque esta en propiedades residenciales de 1-4 unidades -- las viviendas que las familias deberian poder comprar.
+**"¿Qué pasa con los complejos de apartamentos?"**
+Los grandes edificios multifamiliares (más de 50 unidades) están excluidos de la prohibición de adquisición porque siempre han sido propiedad de inversores. La atención se centra en las propiedades residenciales de 1 a 4 unidades, las viviendas que las familias deberían poder comprar.
 
-**"La desinversion forzada no causara una venta de liquidacion que desplome los valores de propiedad?"**
-El cronograma de desinversion de 5 anos es deliberadamente lo suficientemente largo para prevenir una venta de liquidacion. Al ritmo actual de ventas de viviendas en Denver (~30,000 transacciones por ano en el area metropolitana), el volumen de desinversion institucional representaria una pequena fraccion de la actividad total del mercado. Los arrendadores corporativos en Denver poseen miles de unidades, no cientos de miles. El requisito de vender al valor justo de mercado tasado independientemente -- no a precios de liquidacion -- previene el subcotizar. Y el derecho de primera oferta para los inquilinos actuales, fideicomisos de tierras comunitarios y la Social Housing Authority asegura que las unidades vayan a compradores alineados con la mision, no al siguiente arrendador corporativo en la fila. El proceso de expropiacion de Berlin, votado por el 59% de los residentes en 2021, procede en un cronograma similar de varios anos sin perturbacion del mercado.
+**"¿No causará la desinversión forzada una venta de liquidación que colapse los valores de las propiedades?"**
+El cronograma de desinversión de 5 años es deliberadamente lo suficientemente largo como para evitar una venta de liquidación. Al ritmo actual de ventas de viviendas de Denver (aproximadamente 30,000 transacciones por año en el área metropolitana), el volumen de desinversión institucional representaría una pequeña fracción de la actividad total del mercado. Los arrendadores corporativos en Denver tienen miles de unidades, no cientos de miles. El requisito de vender al valor justo de mercado tasado independientemente, no a precios en dificultades, evita la subcotización. Y el derecho de preferencia para los inquilinos actuales, los fideicomisos de tierras comunitarias y la Autoridad de Vivienda Social garantiza que las unidades vayan a compradores alineados con la misión, no al próximo arrendador corporativo en la fila. El proceso de expropiación de Berlín, votado por el 59% de los residentes en 2021, está procediendo en un cronograma similar de varios años sin interrupción del mercado.

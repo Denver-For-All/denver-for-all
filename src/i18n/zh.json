@@ -1,0 +1,81 @@
+{
+  "site": {
+    "title": "Denver For All",
+    "tagline": "丹佛经济正义运动",
+    "description": "建设一个每个人都能负担得起生活、工作和发展的丹佛。"
+  },
+  "nav": {
+    "home": "主页",
+    "platform": "平台",
+    "runForDenver": "竞选丹佛",
+    "takeAction": "采取行动",
+    "tools": "工具",
+    "about": "关于",
+    "language": "English"
+  },
+  "hero": {
+    "headline": "丹佛属于我们所有人",
+    "subheadline": "不仅仅是开发商。不仅仅是房东。不仅仅是公司。而是我们所有人。",
+    "cta": "阅读平台内容",
+    "ctaSecondary": "加入运动"
+  },
+  "email": {
+    "heading": "加入运动",
+    "subheading": "获取关于政策提案、行动以及如何为一个为所有人服务的丹佛而战的最新信息。",
+    "placeholder": "your@email.com",
+    "button": "注册",
+    "privacy": "我们尊重您的隐私。随时取消订阅。"
+  },
+  "platform": {
+    "heading": "平台",
+    "subheading": "为公正的丹佛制定的全面的、数据驱动的政策。每个提案都包括问题、解决方案以及资金来源。",
+    "readMore": "阅读完整提案",
+    "categories": {
+      "housing": "住房与无家可归者",
+      "labor": "工人和工资",
+      "climate": "气候与环境",
+      "health": "医疗保健",
+      "safety": "公共安全",
+      "education": "教育",
+      "immigration": "移民",
+      "infrastructure": "基础设施与服务",
+      "justice": "刑事司法",
+      "democracy": "民主与治理",
+      "economy": "小型企业与经济",
+      "community": "社区与文化"
+    }
+  },
+  "runForDenver": {
+    "heading": "竞选丹佛",
+    "subheading": "我们拥有平台、志愿者和活力。我们需要一位会为之奋斗的候选人。",
+    "criteria": "我们正在寻找什么",
+    "applyHeading": "准备好参选了吗？",
+    "applyButton": "告诉我们您的情况"
+  },
+  "tools": {
+    "heading": "人民的工具",
+    "subheading": "免费的开源工具，用于追究当权者的责任并保护您的权利。",
+    "evictionTracker": "丹佛驱逐追踪器",
+    "evictionDesc": "按房东和社区划分的驱逐备案的实时仪表板。",
+    "rentCalculator": "租金管制计算器",
+    "rentCalcDesc": "了解在我们的租金稳定计划下您能节省多少钱。",
+    "campaignFinance": "追踪资金",
+    "campaignFinanceDesc": "了解谁资助了您的市议员以及他们如何投票。",
+    "chatbot": "了解您的权利",
+    "chatbotDesc": "提供英语和西班牙语24/7租户权利助理。"
+  },
+  "footer": {
+    "tagline": "由人民建造，为了人民。",
+    "openSource": "本网站是开源的。",
+    "contact": "联系方式",
+    "privacy": "隐私",
+    "builtWith": "以团结和开源工具构建。"
+  },
+  "policy": {
+    "problem": "问题",
+    "solution": "我们的解决方案",
+    "funding": "资金来源",
+    "faq": "常见问题",
+    "backToPlatform": "返回平台"
+  }
+}

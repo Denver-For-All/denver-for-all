@@ -8,3 +8,5 @@ dist/
 .dev.vars
 .DS_Store
 *.log
+scripts/translate/output/
+scripts/translate/extracted/

@@ -9,6 +9,7 @@
   },
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node scripts/translate/hydrate-incoming.js",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",

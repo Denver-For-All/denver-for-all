@@ -13,15 +13,18 @@
  *   node scripts/translate/hydrate.js               # Hydrate all languages
  *   node scripts/translate/hydrate.js --lang vi      # Hydrate only Vietnamese
  *   node scripts/translate/hydrate.js --dry-run      # Show what would be written
+ *   node scripts/translate/hydrate.js --source translations/incoming  # Custom source dir
  *
  * This script is safe to run multiple times — it overwrites existing files.
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs';
-import { join } from 'path';
+import { join, resolve } from 'path';
 
 const ROOT = new URL('../../', import.meta.url).pathname;
-const OUTPUT = join(ROOT, 'scripts/translate/output');
+const args = process.argv.slice(2);
+const sourceArg = getArg('--source');
+const OUTPUT = sourceArg ? resolve(ROOT, sourceArg) : join(ROOT, 'scripts/translate/output');
 const SRC = join(ROOT, 'src');
 
 const LANGUAGES = {
@@ -32,7 +35,6 @@ const LANGUAGES = {
   am: 'Amharic',
 };
 
-const args = process.argv.slice(2);
 const langFilter = getArg('--lang');
 const dryRun = args.includes('--dry-run');
 const langs = langFilter ? [langFilter] : Object.keys(LANGUAGES);
@@ -41,6 +43,7 @@ let filesWritten = 0;
 
 console.log('═══════════════════════════════════════════════════════');
 console.log('  Denver For All — Hydrate Translations');
+console.log(`  Source: ${OUTPUT}`);
 console.log(`  Mode: ${dryRun ? 'DRY RUN' : 'LIVE'}`);
 console.log('═══════════════════════════════════════════════════════\n');
 

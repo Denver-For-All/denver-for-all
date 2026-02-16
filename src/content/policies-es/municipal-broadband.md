@@ -3,110 +3,110 @@
 
 ## El Problema
 
-Los residentes de Denver pagan $80-120/mes por internet que es más lento, menos confiable y más caro de lo que los residentes de ciudades con internet municipal reciben. Comcast y CenturyLink operan como un duopolio de facto, proporcionando:
+Los residentes de Denver pagan entre $80 y $120 al mes por internet que es más lento, menos confiable y más caro que el que reciben los residentes de ciudades con banda ancha municipal. Comcast y CenturyLink operan como un duopolio de facto, proporcionando:
 
-- Velocidades inconsistentes que rara vez igualan las tarifas anunciadas
+- Velocidades inconsistentes que rara vez coinciden con las tarifas anunciadas
 - Límites de datos diseñados para extraer tarifas adicionales
-- Servicio al cliente deficiente (Comcast es consistentemente calificada como la empresa más odiada en Estados Unidos)
-- Cabildeo contra cualquier competencia, incluyendo internet municipal
-- Discriminación geográfica: subinversión en vecindarios de bajos ingresos y minorías
+- Mala atención al cliente (Comcast está calificada constantemente como la compañía más odiada en Estados Unidos)
+- Cabildeo en contra de cualquier competencia, incluyendo la banda ancha municipal
+- Redlining: falta de inversión en vecindarios de bajos ingresos y minoritarios
 
-El acceso a internet es infraestructura esencial — requerido para la escuela, el trabajo, la atención médica y la participación cívica. Tratarlo como un producto de lujo controlado por monopolios es una falla de política.
+El acceso a internet es infraestructura esencial, necesaria para la escuela, el trabajo, la atención médica y la participación cívica. Tratarlo como un producto de lujo controlado por monopolios es un fracaso político.
 
 ### Lo Que Denver Hace Actualmente (Y Lo Que Los Votantes Ya Aprobaron)
 
-**En 2018, los votantes de Denver aprobaron la Ballot Measure 2J con un 85% de apoyo, autorizando a la ciudad a proporcionar internet municipal.** Eso fue hace siete años. Denver no ha construido una red municipal de internet.
+**En 2018, los votantes de Denver aprobaron la Medida Electoral 2J con un 85% de apoyo, autorizando a la ciudad a proporcionar banda ancha municipal.** Eso fue hace siete años. Denver no ha construido una red de banda ancha municipal.
 
-Colorado anteriormente tenía la SB 05-152, que restringía a los municipios de ofrecer servicios de internet. Las ciudades tenían que celebrar una votación para excluirse. Los votantes de Denver hicieron exactamente eso, de manera abrumadora. Desde entonces, la ciudad ha realizado estudios de factibilidad y pequeños programas piloto pero no se ha comprometido con una construcción de fibra a nivel de toda la ciudad.
+Colorado anteriormente tenía la SB 05-152, que restringía a los municipios la oferta de servicios de banda ancha. Las ciudades tenían que celebrar una votación para optar por no participar. Los votantes de Denver hicieron exactamente eso, de manera abrumadora. Desde entonces, la ciudad ha realizado estudios de viabilidad y pequeños programas piloto, pero no se ha comprometido a la construcción de una red de fibra óptica en toda la ciudad.
 
-Mientras tanto, Longmont (30 millas al norte) construyó NextLight, que ofrece gigabit por $50/mes, logró rentabilidad dentro de 5 años y tiene más del 90% de satisfacción del cliente (NextLight Annual Report, 2023). Fort Collins construyó Connexion a pesar de una campaña de oposición financiada por Comcast de $150M, y está en camino a la rentabilidad.
+Mientras tanto, Longmont (a 30 millas al norte) construyó NextLight, que ofrece gigabit por $50 al mes, logró la rentabilidad en 5 años y tiene más del 90% de satisfacción del cliente (Informe Anual de NextLight, 2023). Fort Collins construyó Connexion a pesar de una campaña de oposición financiada por Comcast de $150 millones, y está en camino a la rentabilidad.
 
 **Los votantes de Denver dijeron que sí. El mandato existe. La pregunta es por qué el ayuntamiento no ha actuado al respecto.**
 
-### Quién Se Opone a Esto (y Por Qué)
+### Quién Se Opone A Esto (Y Por Qué)
 
-Comcast y CenturyLink/Lumen son los principales opositores. Gastaron $150M tratando de derrotar la medida de internet de Fort Collins y han cabildado fuertemente a nivel estatal contra el internet municipal. La industria de telecomunicaciones dona a candidatos del concejo municipal de Denver y a legisladores estatales. Siga el dinero: rastree las contribuciones de campaña de los PAC de telecomunicaciones a los funcionarios que han retrasado la implementación de la Measure 2J.
+Comcast y CenturyLink/Lumen son los principales opositores. Gastaron $150 millones tratando de derrotar la medida electoral de banda ancha de Fort Collins y han presionado fuertemente a nivel estatal contra la banda ancha municipal. La industria de las telecomunicaciones dona a los candidatos al Concejo Municipal de Denver y a los legisladores estatales. Siga el dinero: rastree las contribuciones de campaña de los PAC de telecomunicaciones a los funcionarios que han retrasado la implementación de la Medida 2J.
 
 ## Nuestra Solución
 
-### Denver Fiber - Internet de Propiedad Municipal
+### Denver Fiber: Banda Ancha de Propiedad Municipal
 
 **Infraestructura:**
 
-- Red de fibra óptica de propiedad municipal que llega a cada dirección en Denver
+- Red de fibra óptica de propiedad de la ciudad que llega a todas las direcciones en Denver
 - Velocidades simétricas de gigabit (1 Gbps de subida y bajada) para todos los niveles
-- Sin límites de datos. Sin limitación. Sin tarifas ocultas.
+- Sin límites de datos. Sin estrangulamiento. Sin tarifas ocultas.
 
 **Precios:**
 
-| Nivel          | Velocidad | Precio                           |
-| -------------- | --------- | -------------------------------- |
-| Básico         | 100 Mbps  | $15/mes                          |
-| Estándar       | 500 Mbps  | $25/mes                          |
-| Gigabit        | 1 Gbps    | $30/mes                          |
-| Bajos ingresos | 100 Mbps  | Gratis (calificado por ingresos) |
+| Nivel        | Velocidad | Precio                   |
+| ----------- | -------- | ----------------------- |
+| Básico      | 100 Mbps | $15/mes                  |
+| Estándar   | 500 Mbps | $25/mes                  |
+| Gigabit    | 1 Gbps   | $30/mes                  |
+| Bajos Ingresos | 100 Mbps | Gratis (calificado por ingresos) |
 
-Compare con Comcast: $80-120/mes por velocidades comparables con límites de datos y aumentos de precio anuales.
+Compare con Comcast: $80-120/mes por velocidades comparables con límites de datos y aumentos de precios anuales.
 
 **Características clave:**
 
-- **Neutralidad de red garantizada** — sin bloqueo de contenido, limitación o priorización de pago. Escrito en el estatuto.
+- **Neutralidad de la red garantizada**: sin bloqueo de contenido, estrangulamiento o priorización pagada. Escrito en la carta constitutiva.
 - **Sin límites de datos.** Nunca.
 - **Privacidad por defecto.** Denver Fiber no vende, comparte ni monetiza los datos de navegación de los clientes.
-- **Nivel gratuito** para hogares al 200% del nivel federal de pobreza o por debajo
+- **Nivel gratuito** para hogares que estén en o por debajo del 200% del nivel federal de pobreza
 - **Programas de alfabetización digital** en bibliotecas y centros comunitarios
 - **WiFi público gratuito** en todos los parques, centros comunitarios y estaciones de tránsito
 
-**Plan de implementación:**
+**Plan de despliegue:**
 
-- Año 1-2: Infraestructura troncal y primeros vecindarios (priorizar áreas desatendidas)
+- Año 1-2: Infraestructura troncal y primeros vecindarios (priorizar las áreas desatendidas)
 - Año 3-4: Expandir al 50% de las direcciones de Denver
 - Año 5-7: Completar la construcción en toda la ciudad
 - Los ingresos de los primeros suscriptores financian la expansión continua
 
 ### Evidencia Internacional: El Internet Público Es Normal
 
-| País/Ciudad          | Modelo                                                                                    | Velocidad                   | Precio          | Resultado                                                                                                                           |
-| -------------------- | ----------------------------------------------------------------------------------------- | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Corea del Sur**    | Inversión gubernamental en infraestructura de internet.                                   | 1 Gbps+ estándar            | ~$30/mes        | El internet más rápido del mundo. 98% de penetración.                                                                               |
-| **Rumania**          | Pequeños ISP locales construyeron fibra con mínima regulación.                            | 1 Gbps estándar             | ~$10/mes        | Más rápido y más barato que el internet de EE.UU. a 1/4 del PIB per cápita. Prueba de que la competencia baja los precios.          |
-| **Finlandia**        | Derecho legal al acceso a internet (2010). Inversión gubernamental en áreas desatendidas. | 100 Mbps mínimo garantizado | Varía           | El internet declarado un derecho legal. Acceso universal independientemente de la ubicación o ingresos.                             |
-| **Chattanooga, TN**  | EPB Fiber de propiedad municipal. Primer gigabit en el hemisferio occidental (2010).      | 10 Gbps disponible          | $68/mes gigabit | Rentable. Atrae negocios tecnológicos. Motor de desarrollo económico.                                                               |
-| **Longmont, CO**     | Internet municipal NextLight. A 30 millas de Denver.                                      | 1 Gbps                      | $50/mes         | Rentable dentro de 5 años. Más del 90% de satisfacción del cliente. Prueba de concepto en el patio trasero de Denver.               |
-| **Fort Collins, CO** | Internet municipal Connexion.                                                             | 1 Gbps                      | $60/mes         | En camino a la rentabilidad. Los residentes votaron 57% a favor a pesar de la campaña de oposición financiada por Comcast de $150M. |
+| País/Ciudad         | Modelo                                                                              | Velocidad                       | Precio         | Resultado                                                                                                     |
+| -------------------- | ---------------------------------------------------------------------------------- | --------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Corea del Sur**     | Inversión en infraestructura de banda ancha liderada por el gobierno.                | 1 Gbps+ estándar            | ~$30/mes    | El internet más rápido del mundo. 98% de penetración.                                                           |
+| **Rumania**          | Pequeños ISP locales construyeron fibra con una regulación mínima.                   | 1 Gbps estándar             | ~$10/mes    | Más rápido y barato que la banda ancha de EE. UU. con 1/4 del PIB per cápita. Prueba de que la competencia reduce los precios. |
+| **Finlandia**          | Derecho legal al acceso a la banda ancha (2010). Inversión del gobierno en áreas desatendidas. | 100 Mbps mínimo garantizado | Varía        | La banda ancha se declara un derecho legal. Acceso universal independientemente de la ubicación o los ingresos.                       |
+| **Chattanooga, TN**  | EPB Fiber de propiedad de la ciudad. Primer gigabit en el hemisferio occidental (2010). | 10 Gbps disponible           | $68/mes gig | Rentable. Atrae a empresas de tecnología. Motor de desarrollo económico.                                         |
+| **Longmont, CO**     | Banda ancha municipal NextLight. A 30 millas de Denver.                              | 1 Gbps                      | $50/mes     | Rentable en 5 años. Más del 90% de satisfacción del cliente. Prueba de concepto en el patio trasero de Denver.              |
+| **Fort Collins, CO** | Banda ancha municipal Connexion.                                                     | 1 Gbps                      | $60/mes     | En camino a la rentabilidad. Los residentes votaron un 57% a favor a pesar de la campaña de oposición financiada por Comcast de $150 millones. |
 
-**EE.UU. paga más por peor internet que la mayoría del mundo desarrollado** porque dejamos que los monopolios controlen la infraestructura. El internet municipal rompe el monopolio, y la evidencia de las ciudades que lo han hecho muestra consistentemente mejores velocidades, precios más bajos y beneficio comunitario (Institute for Local Self-Reliance, base de datos Community Broadband Networks, 2025).
+**Estados Unidos paga más por un internet peor que la mayoría de los países desarrollados** porque permitimos que los monopolios controlen la infraestructura. La banda ancha municipal rompe el monopolio, y la evidencia de las ciudades que lo han hecho muestra consistentemente mejores velocidades, precios más bajos y beneficios para la comunidad (Instituto para la Autosuficiencia Local, base de datos de Redes de Banda Ancha Comunitarias, 2025).
 
-## Cómo Lo Pagamos
+## Cómo Lo Financiamos
 
-**Costo de capital:** $300-500M para la construcción de fibra en toda la ciudad (basado en despliegues comparables en otras ciudades)
+**Costo de capital:** $300-500 millones para la construcción de fibra en toda la ciudad (basado en implementaciones comparables en otras ciudades)
 
-**Financiamiento:** Bonos de ingresos respaldados por tarifas de suscriptores. Las redes de internet municipal en Chattanooga, Longmont (CO) y Fort Collins (CO) son todas financieramente autosuficientes.
+**Financiación:** Bonos de ingresos respaldados por las tarifas de los suscriptores. Las redes de banda ancha municipal en Chattanooga, Longmont (CO) y Fort Collins (CO) son todas financieramente autosuficientes.
 
-**Longmont, Colorado** (30 millas al norte de Denver) hizo exactamente esto. Internet municipal NextLight: gigabit por $50/mes, rentable dentro de 5 años, adorado por los residentes. Si Longmont puede hacerlo, Denver puede hacerlo.
+**Longmont, Colorado** (a 30 millas al norte de Denver) hizo exactamente esto. Banda ancha municipal NextLight: gigabit por $50/mes, rentable en 5 años, amada por los residentes. Si Longmont puede hacerlo, Denver puede hacerlo.
 
-**Costo neto para los contribuyentes:** Negativo dentro de 5-7 años. Los ingresos por suscriptores exceden el servicio de deuda y los costos operativos.
+**Costo neto para los contribuyentes:** Negativo en 5-7 años. Los ingresos de los suscriptores exceden el servicio de la deuda y los costos operativos.
 
 ## Preguntas Frecuentes
 
 **"El gobierno no puede administrar un ISP."**
-Longmont, CO lo hace. Chattanooga, TN lo hace. Más de 900 comunidades en EE.UU. tienen internet municipal. Consistentemente superan a los ISP privados en velocidad, confiabilidad, precio y satisfacción del cliente.
+Longmont, CO lo hace. Chattanooga, TN lo hace. Más de 900 comunidades en los EE. UU. tienen banda ancha municipal. Superan constantemente a los ISP privados en velocidad, confiabilidad, precio y satisfacción del cliente.
 
-**"Esto es competencia desleal con empresas privadas."**
-Comcast y CenturyLink han tenido décadas para proporcionar un buen servicio asequible. Eligieron ganancias de monopolio en su lugar. Si no pueden competir con una red administrada por la ciudad, esa es su falla, no la nuestra.
+**"Esta es una competencia desleal con las empresas privadas."**
+Comcast y CenturyLink han tenido décadas para proporcionar un servicio bueno y asequible. En cambio, eligieron ganancias de monopolio. Si no pueden competir con una red administrada por la ciudad, ese es su fracaso, no el nuestro.
 
 **"¿No costará esto demasiado?"**
-La red de fibra de Longmont fue rentable dentro de 5 años. Fort Collins está en camino para lo mismo. La infraestructura se paga sola a través de las tarifas de suscriptores. Esto es una inversión, no un gasto.
+La red de fibra de Longmont fue rentable en 5 años. Fort Collins está en camino para lo mismo. La infraestructura se paga sola a través de las tarifas de los suscriptores. Esta es una inversión, no un gasto.
 
-**"¿No aprobaron ya los votantes de Denver esto? ¿Qué pasó?"**
-Sí. En 2018, el 85% de los votantes de Denver aprobaron la Ballot Measure 2J autorizando el internet municipal. La ciudad ha realizado estudios de factibilidad pero no se ha comprometido con una construcción. Tenemos la intención de hacer que la ciudad cumpla con el mandato que los votantes ya le dieron.
+**"¿No aprobaron ya esto los votantes de Denver? ¿Qué pasó?"**
+Sí. En 2018, el 85% de los votantes de Denver aprobaron la Medida Electoral 2J que autorizaba la banda ancha municipal. La ciudad ha realizado estudios de viabilidad pero no se ha comprometido con una construcción. Tenemos la intención de obligar a la ciudad a cumplir con el mandato que los votantes ya le dieron.
 
 ## Referencias
 
-- Denver Ballot Measure 2J (2018). 85.34% de votos a favor. (Denver Elections Division.)
-- Colorado SB 05-152. (Restricción anterior a nivel estatal sobre internet municipal, que requería voto local de exclusión.)
-- NextLight (Longmont, CO). Informes anuales y estados financieros. (Rentabilidad dentro de 5 años, más del 90% de satisfacción.)
-- Fort Collins Connexion. Informes operativos. (Gasto de oposición de Comcast: registros de financiamiento de campaña de Fort Collins.)
-- ACSI (American Customer Satisfaction Index). Informe anual de telecomunicaciones. (Comcast con la calificación más baja entre los principales ISP.)
-- FCC Broadband Deployment Report. (Datos de velocidad y disponibilidad.)
-- Institute for Local Self-Reliance. Base de datos "Community Broadband Networks". (Más de 900 redes municipales de internet a nivel nacional.)
+- Medida Electoral 2J de Denver (2018). 85.34% de votos a favor. (División de Elecciones de Denver).
+- Colorado SB 05-152. (Antigua restricción a nivel estatal sobre la banda ancha municipal, que requiere la exclusión voluntaria mediante votación local).
+- NextLight (Longmont, CO). Informes anuales y estados financieros. (Rentabilidad en 5 años, más del 90% de satisfacción).
+- Connexion de Fort Collins. Informes operativos. (Gasto de oposición de Comcast: registros de financiación de campaña de Fort Collins).
+- ACSI (Índice Americano de Satisfacción del Cliente). Informe anual de telecomunicaciones. (Comcast el ISP principal con la calificación más baja).
+- Informe de Despliegue de Banda Ancha de la FCC (Comisión Federal de Comunicaciones). (Datos de velocidad y disponibilidad).
+- Instituto para la Autosuficiencia Local. Base de datos de "Redes de Banda Ancha Comunitarias". (Más de 900 redes de banda ancha municipales en todo el país).

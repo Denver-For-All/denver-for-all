@@ -58,6 +58,35 @@ const ghRepo = 'Denver-For-All/denver-for-all';
 const issueTitle = encodeURIComponent(`Feedback: ${policy.data.title}`);
 const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](https://denverforall.org/platform/${policy.slug})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
+
+// U5: Legislative progress stage computation (server-side, from existing frontmatter)
+const legislation = policy.data.relatedLegislation || [];
+const legStatuses = legislation.map(b => b.status.toLowerCase());
+
+const stageOrganizing =
+  hasPetition || hasCouncilChampion || policy.data.status === 'published' || legislation.length > 0;
+const stageIntroduced = legStatuses.some(
+  s => s.includes('introduced') || s.includes('assigned') || s.includes('referred'),
+);
+const stageCommittee = legStatuses.some(
+  s =>
+    s.includes('committee') ||
+    s.includes('second reading') ||
+    s.includes('third reading') ||
+    s.includes('passed'),
+);
+const stageEnacted = legStatuses.some(
+  s => s.includes('signed') || s.includes('enacted') || s.includes('law'),
+);
+
+type ProgressStage = { en: string; es: string; active: boolean };
+const progressStages: ProgressStage[] = [
+  { en: 'Drafted', es: 'Redactada', active: true },
+  { en: 'Organizing', es: 'Organizando', active: stageOrganizing },
+  { en: 'Introduced', es: 'Presentada', active: stageIntroduced },
+  { en: 'Committee', es: 'Comité', active: stageCommittee },
+  { en: 'Enacted', es: 'Promulgada', active: stageEnacted },
+];
 ---
 
 <Layout title={policy.data.title} description={policy.data.summary} image={`/og/${policy.data.category}.png`} ogType="article">
@@ -77,6 +106,24 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           {policy.data.summary}
         </p>
       </header>
+
+      <!-- U5: Legislative progress indicator -->
+      <div class="progress-tracker" aria-label="Legislative progress">
+        <span class="progress-tracker__label" data-en="Legislative Status" data-es="Estado Legislativo">
+          Legislative Status
+        </span>
+        <ol class="progress-tracker__stages">
+          {progressStages.map((stage, i) => (
+            <li
+              class={`progress-stage${stage.active ? ' progress-stage--active' : ''}`}
+              aria-current={stage.active && (i === progressStages.filter(s => s.active).length - 1) ? 'step' : undefined}
+            >
+              <span class="progress-stage__dot"></span>
+              <span class="progress-stage__label" data-en={stage.en} data-es={stage.es}>{stage.en}</span>
+            </li>
+          ))}
+        </ol>
+      </div>
 
       <div class="policy-share-inline">
         <span class="policy-share-inline__label" data-en="Share" data-es="Compartir">Share</span>
@@ -447,6 +494,101 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
     font-weight: 600;
     font-size: 0.9rem;
     color: var(--color-primary);
+  }
+
+  /* U5: Legislative progress tracker */
+  .progress-tracker {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 0.875rem 1.25rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius);
+    border: 1px solid var(--color-border);
+    flex-wrap: wrap;
+  }
+
+  .progress-tracker__label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .progress-tracker__stages {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 0;
+    flex: 1;
+    min-width: 0;
+    flex-wrap: wrap;
+  }
+
+  .progress-stage {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-shrink: 0;
+  }
+
+  /* Connector line between stages */
+  .progress-stage + .progress-stage::before {
+    content: '';
+    display: block;
+    width: 1.5rem;
+    height: 2px;
+    background: var(--color-border);
+    margin-right: 0.4rem;
+    flex-shrink: 0;
+  }
+
+  .progress-stage--active + .progress-stage--active::before {
+    background: var(--color-primary);
+  }
+
+  .progress-stage__dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--color-border);
+    border: 2px solid var(--color-border);
+    flex-shrink: 0;
+    transition: background 0.2s;
+  }
+
+  .progress-stage--active .progress-stage__dot {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+  }
+
+  /* Highlight the most-advanced active stage */
+  .progress-stage--active:last-child .progress-stage__dot,
+  .progress-stage--active:not(:has(~ .progress-stage--active)) .progress-stage__dot {
+    box-shadow: 0 0 0 3px rgba(13, 115, 119, 0.2);
+  }
+
+  .progress-stage__label {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--color-text-light);
+    white-space: nowrap;
+  }
+
+  .progress-stage--active .progress-stage__label {
+    color: var(--color-text);
+    font-weight: 600;
+  }
+
+  @media (max-width: 540px) {
+    .progress-tracker {
+      flex-direction: column;
+      align-items: flex-start;
+    }
   }
 
   .policy-share-inline {

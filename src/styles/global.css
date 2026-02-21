@@ -292,3 +292,160 @@ html[lang='es'] [data-lang='en'] {
     padding: 1.5rem;
   }
 }
+
+/* ============================================================
+   U3: Focus-visible styles
+   Consistent keyboard-navigation outlines using primary color.
+   Only shown for keyboard navigation, not mouse/touch.
+   ============================================================ */
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Remove browser default focus ring on click/tap for mouse users */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* ============================================================
+   U2: Dark mode
+   Remaps all color custom properties for dark backgrounds.
+   Primary color is lightened slightly for WCAG AA contrast.
+   ============================================================ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-primary: #14a3a8;
+    --color-primary-dark: #0d7377;
+    --color-primary-light: #4db8b3;
+    --color-secondary: #4a8fd4;
+    --color-secondary-light: #7ab5e8;
+    --color-accent: #e0b95a;
+    --color-accent-light: #f5d98a;
+    --color-danger: #e05c4a;
+
+    --color-bg: #0d1117;
+    --color-bg-alt: #151c25;
+    --color-bg-card: #1a2332;
+    --color-text: #e2e8f0;
+    --color-text-muted: #94a3b8;
+    --color-text-light: #64748b;
+    --color-border: #2d3748;
+
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+    --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* ============================================================
+   U4: Print stylesheet
+   Hides navigation, CTAs, filter bar, and email captures.
+   Formats policy content cleanly for printing / PDF export.
+   ============================================================ */
+@media print {
+  /* Hide interactive / non-content elements */
+  header,
+  footer,
+  nav,
+  .filter-bar,
+  .skip-link,
+  .btn,
+  .email-capture,
+  .policy-card__link,
+  .donation-cta,
+  .policy-action-cta,
+  .shareable-stat-card {
+    display: none !important;
+  }
+
+  /* Base print typography */
+  html,
+  body {
+    font-size: 11pt;
+    color: #000;
+    background: #fff;
+    line-height: 1.5;
+  }
+
+  /* Expand content to full page width */
+  .container,
+  .policy-content {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Links: show URL inline */
+  a[href]::after {
+    content: ' (' attr(href) ')';
+    font-size: 0.8em;
+    color: #444;
+  }
+
+  /* Suppress URL display for local/icon links */
+  a[href^="#"]::after,
+  a[href^="/"]::after {
+    content: '';
+  }
+
+  /* Headings */
+  h1 {
+    font-size: 20pt;
+    margin-bottom: 0.5rem;
+  }
+
+  h2 {
+    font-size: 14pt;
+    color: #000;
+    border-bottom: 1px solid #000;
+    margin-top: 2rem;
+    page-break-after: avoid;
+  }
+
+  h3 {
+    font-size: 12pt;
+    page-break-after: avoid;
+  }
+
+  /* Tables */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 10pt;
+  }
+
+  th,
+  td {
+    border: 1px solid #ccc;
+    padding: 0.35rem 0.5rem;
+    text-align: left;
+  }
+
+  th {
+    background: #f0f0f0;
+    font-weight: 600;
+  }
+
+  /* Avoid breaking inside key elements */
+  blockquote,
+  li,
+  td {
+    page-break-inside: avoid;
+  }
+
+  /* Policy content blockquote */
+  .policy-content blockquote {
+    border-left: 3px solid #000;
+    padding-left: 1rem;
+    color: #333;
+    font-style: italic;
+    background: none;
+  }
+
+  /* Key stats strip (if visible) */
+  .key-stats {
+    display: none !important;
+  }
+}

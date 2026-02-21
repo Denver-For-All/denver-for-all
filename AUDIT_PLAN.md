@@ -1,86 +1,74 @@
 # Denver For All — Codebase Audit Plan
-*Generated: 2026-02-21*
+*Generated: 2026-02-21 | Updated: 2026-02-21*
 
-This document tracks the findings from a full codebase/platform audit and the implementation plan for addressing them. Work through items in order; commit after each.
+This document tracks the findings from a full codebase/platform audit and the implementation plan for addressing them.
 
 ---
 
-## Policy Gaps
+## Policy Gaps — Round 1 (Completed)
 
-Six new policy documents to write, following the existing Markdown + Zod frontmatter format. Each needs: problem statement, proposed solution, evidence, local context, FAQs, funding sources, keyStats, and a matching Spanish stub in `policies-es/`.
+All six high/medium-priority policies from the initial audit have been written, reviewed, and merged via PR #72.
 
 | # | Slug | Category | Priority | Status |
 |---|------|----------|----------|--------|
-| P1 | `zoning-reform` | housing | High | [ ] |
-| P2 | `short-term-rental-regulation` | housing | High | [ ] |
-| P3 | `mental-health-crisis-response` | safety | High | [ ] |
-| P4 | `ranked-choice-voting` | democracy | High | [ ] |
-| P5 | `worker-cooperative-development` | economy | Medium | [ ] |
-| P6 | `campaign-finance-reform` | democracy | Medium | [ ] |
-
-### P1 — Zoning Reform & Land Use (`housing`)
-Eliminate exclusionary single-family-only zoning, legalize ADUs citywide, remove minimum parking requirements near transit, and upzone major corridors. This is the foundational supply-side reform that makes every other housing policy more effective.
-
-### P2 — Short-Term Rental Regulation (`housing`)
-AirBnB/VRBO have removed thousands of Denver units from the long-term rental market. Restrict STRs to primary residences, cap investor-owned STR licenses, and create an enforcement fund from licensing fees.
-
-### P3 — Mental Health Crisis Response (`safety`)
-Fully fund and expand Denver's STAR (Support Team Assisted Response) program citywide. Route non-violent mental health 911 calls to civilian responders. End the practice of deploying armed officers to mental health crises.
-
-### P4 — Ranked Choice Voting & Electoral Reform (`democracy`)
-Implement ranked-choice voting for all city elections, end the runoff system, and create public campaign financing via small-dollar matching to amplify small donors over large ones.
-
-### P5 — Worker Cooperative Development (`economy`)
-Create a City co-op incubator, fund business-to-cooperative conversions (especially for retiring owners), and prioritize worker-owned businesses in city contracting.
-
-### P6 — Campaign Finance Reform (`democracy`)
-Concrete policy proposals: stricter LLC disclosure rules, lower contribution limits, small-dollar matching program for city elections. (Distinct from the money-in-politics tracking *tool* already in the platform.)
+| P1 | `zoning-reform` | housing | High | ✅ Done |
+| P2 | `short-term-rental-regulation` | housing | High | ✅ Done |
+| P3 | `mental-health-crisis-response` | safety | High | ✅ Done |
+| P4 | `ranked-choice-voting` | democracy | High | ✅ Done |
+| P5 | `worker-cooperative-development` | economy | Medium | ✅ Done |
+| P6 | `campaign-finance-reform` | democracy | Medium | ✅ Done |
 
 ---
 
-## UI/UX Improvements
+## UI/UX Improvements (Completed)
+
+All high/medium-priority UX improvements merged via PR #72. U6 (Dynamic OG images) was deferred — low priority, requires Satori or a Worker approach, and the generic OG image is acceptable for now.
 
 | # | Item | Impact | Status |
 |---|------|--------|--------|
-| U1 | Policy search + category filter on `/platform` | High | [ ] |
-| U2 | Dark mode (`prefers-color-scheme`) | High | [ ] |
-| U3 | Custom `focus-visible` styles | Medium | [ ] |
-| U4 | Print stylesheet for policy pages | Medium | [ ] |
-| U5 | Policy status progress indicator on policy pages | Medium | [ ] |
-| U6 | Dynamic `og:image` per policy (social sharing) | Low | [ ] |
-
-### U1 — Policy Search + Category Filter
-Add a filter bar to `/src/pages/platform/index.astro` so users can click a category chip to show only that category's policies, and type in a search box to filter by title/summary. All client-side, no backend needed.
-
-### U2 — Dark Mode
-Add `prefers-color-scheme: dark` media query to `src/styles/global.css` remapping the existing CSS custom properties. The variable system makes this straightforward.
-
-### U3 — Custom `focus-visible` Styles
-Add `:focus-visible` outline styles to `global.css` consistent with `--color-primary`. Improves keyboard nav UX and WCAG 2.1 AA compliance.
-
-### U4 — Print Stylesheet
-Add `@media print` block to `global.css` (or a dedicated `print.css`) that hides nav, footer, CTAs, and formats policy content cleanly for printing/PDF. Organizers need this.
-
-### U5 — Policy Status Progress Indicator
-Add a visual "Legislative Progress" component to policy detail pages showing the pipeline: Draft → Proposed → Committee → Vote → Passed. Driven by the existing `status` frontmatter field (extend with more granular `legislativeStatus` if needed).
-
-### U6 — Dynamic OG Images
-Generate per-policy Open Graph images so shares on Twitter/Facebook show the policy title and a key stat rather than a generic image. Can be done with Satori or a simple Cloudflare Worker approach.
+| U1 | Policy search + category filter on `/platform` | High | ✅ Done |
+| U2 | Dark mode (`prefers-color-scheme`) | High | ✅ Done |
+| U3 | Custom `focus-visible` styles | Medium | ✅ Done |
+| U4 | Print stylesheet for policy pages | Medium | ✅ Done |
+| U5 | Policy status progress indicator on policy pages | Medium | ✅ Done |
+| U6 | Dynamic `og:image` per policy (social sharing) | Low | ⏸ Deferred |
 
 ---
 
-## Implementation Order
+## Policy Gaps — Round 2 (Lower-Priority, From Original Issue)
 
-1. [ ] P1 — Zoning Reform policy
-2. [ ] P2 — Short-Term Rental Regulation policy
-3. [ ] P3 — Mental Health Crisis Response policy
-4. [ ] P4 — Ranked Choice Voting policy
-5. [ ] P5 — Worker Cooperative Development policy
-6. [ ] P6 — Campaign Finance Reform policy
-7. [ ] U1 — Policy search + category filter
-8. [ ] U2 — Dark mode
-9. [ ] U3 — Focus-visible styles
-10. [ ] U4 — Print stylesheet
-11. [ ] U5 — Policy status progress indicator
-12. [ ] U6 — Dynamic OG images
-13. [ ] CI check: `npm run lint && npm run test && npm run build`
+Five additional policies that were mentioned in the original issue but not included in the first audit plan. These were skipped in round 1 because the top-6 were higher priority. Adding them now.
+
+| # | Slug | Category | Priority | Status |
+|---|------|----------|----------|--------|
+| P7 | `anti-surveillance-facial-recognition-ban` | justice | Medium | [ ] |
+| P8 | `consumer-financial-protection` | economy | Medium | [ ] |
+| P9 | `anti-harassment-tenant-protections` | housing | Lower | [ ] |
+| P10 | `green-jobs-just-transition` | climate | Lower | [ ] |
+| P11 | `foster-care-child-welfare` | community | Lower | [ ] |
+
+### P7 — Anti-Surveillance / Facial Recognition Ban (`justice`)
+Denver has no ordinance restricting biometric surveillance or predictive policing technology. Cities across the country have banned facial recognition. A concrete ban on city use of facial recognition, license plate reader networks for civil matters, and algorithmic risk-scoring tools in criminal justice would make Denver a leader in digital civil liberties.
+
+### P8 — Consumer Financial Protection (`economy`)
+Payday lenders, rent-to-own schemes, and predatory auto loans cluster in Denver's lower-income and minority neighborhoods. A City-level consumer protection ordinance — tighter caps on APR, requirements for plain-language disclosures, and a municipal credit union expansion program — is distinct from the public banking policy and fills a gap in the economy category.
+
+### P9 — Anti-Harassment Protections for Tenants (`housing`)
+Landlord harassment — utility shutoffs, lockouts, nuisance inspections, threats, and constructive eviction — is distinct from rent control and from the Tenant Bill of Rights. Denver lacks a standalone anti-harassment ordinance with meaningful civil penalties and a private right of action.
+
+### P10 — Green Jobs / Just Transition (`climate`)
+The climate section addresses environmental policy but lacks a specific job-creation and workforce-transition component. A Green Jobs program would fund job training for fossil-fuel workers transitioning to clean energy, create apprenticeship programs in solar/weatherization/transit, and set local-hire requirements for publicly funded climate projects.
+
+### P11 — Foster Care & Child Welfare Reform (`community`)
+No existing policy addresses children in the foster care system. Denver's child welfare system is chronically underfunded, with high caseloads, poor outcomes for youth aging out of care, and a lack of culturally responsive services. This policy would address kinship care support, transition-age youth housing, and caseload reduction.
+
+---
+
+## Implementation Order (Round 2)
+
+1. [ ] P7 — Anti-Surveillance / Facial Recognition Ban
+2. [ ] P8 — Consumer Financial Protection
+3. [ ] P9 — Anti-Harassment Tenant Protections
+4. [ ] P10 — Green Jobs / Just Transition
+5. [ ] P11 — Foster Care & Child Welfare Reform
+6. [ ] CI check: `npm run lint && npm run test && npm run build`

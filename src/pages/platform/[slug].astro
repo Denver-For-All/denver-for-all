@@ -8,6 +8,7 @@ import ShareableStatCard from '../../components/ShareableStatCard';
 import '../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
 import { getCollection, getEntry } from 'astro:content';
+import { siteConfig, siteUrl } from '@config/site';
 
 export async function getStaticPaths() {
   const policies = await getCollection('policies');
@@ -54,9 +55,10 @@ const categoryMap: Record<string, string> = {
 };
 const categoryEs = categoryMap[policy.data.category] || policy.data.category;
 
-const ghRepo = 'Denver-For-All/denver-for-all';
+const ghRepo = siteConfig.githubRepo;
+const policyUrl = siteUrl(`/platform/${policy.slug}`);
 const issueTitle = encodeURIComponent(`Feedback: ${policy.data.title}`);
-const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](https://denverforall.org/platform/${policy.slug})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
+const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](${policyUrl})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 
 // U5: Legislative progress stage computation (server-side, from existing frontmatter)
@@ -128,7 +130,7 @@ const progressStages: ProgressStage[] = [
       <div class="policy-share-inline">
         <span class="policy-share-inline__label" data-en="Share" data-es="Compartir">Share</span>
         <a
-          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`${policyUrl}`)}`}
           target="_blank"
           rel="noopener"
           class="policy-share-inline__btn"
@@ -137,7 +139,7 @@ const progressStages: ProgressStage[] = [
           X
         </a>
         <a
-          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`${policyUrl}`)}`}
           target="_blank"
           rel="noopener"
           class="policy-share-inline__btn"
@@ -146,7 +148,7 @@ const progressStages: ProgressStage[] = [
           FB
         </a>
         <a
-          href={`https://www.reddit.com/submit?url=https://denverforall.org/platform/${policy.slug}&title=${encodeURIComponent(policy.data.title)}`}
+          href={`https://www.reddit.com/submit?url=${policyUrl}&title=${encodeURIComponent(policy.data.title)}`}
           target="_blank"
           rel="noopener"
           class="policy-share-inline__btn"
@@ -232,7 +234,7 @@ const progressStages: ProgressStage[] = [
           <h3 data-en="Share This Proposal" data-es="Comparte Esta Propuesta">Share This Proposal</h3>
           <div class="policy-share__links">
             <a
-              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`${policyUrl}`)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
@@ -242,7 +244,7 @@ const progressStages: ProgressStage[] = [
               X / Twitter
             </a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/platform/${policy.slug}`)}`}
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`${policyUrl}`)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
@@ -250,7 +252,7 @@ const progressStages: ProgressStage[] = [
               Facebook
             </a>
             <a
-              href={`https://www.reddit.com/submit?url=https://denverforall.org/platform/${policy.slug}&title=${encodeURIComponent(policy.data.title)}`}
+              href={`https://www.reddit.com/submit?url=${policyUrl}&title=${encodeURIComponent(policy.data.title)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"

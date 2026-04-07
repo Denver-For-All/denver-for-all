@@ -8,6 +8,7 @@ import ShareableStatCard from '../../../components/ShareableStatCard';
 import '../../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
 import { getCollection, getEntry } from 'astro:content';
+import { siteConfig, siteUrl } from '@config/site';
 
 export async function getStaticPaths() {
   const policiesEs = await getCollection('policies-es');
@@ -49,9 +50,10 @@ const categoryMap: Record<string, string> = {
 };
 const categoryEs = categoryMap[policy.data.category] || policy.data.category;
 
-const ghRepo = 'Denver-For-All/denver-for-all';
+const ghRepo = siteConfig.githubRepo;
+const policyUrl = siteUrl(`/es/platform/${policy.slug}`);
 const issueTitle = encodeURIComponent(`Feedback: ${policy.data.titleEs}`);
-const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Política:** [${policy.data.titleEs}](https://denverforall.org/es/platform/${policy.slug})\n**Categoría:** ${categoryEs}\n\n---\n\n### ¿Qué comentarios tienes?\n\n_Por favor describe tus comentarios, correcciones o sugerencias a continuación:_\n\n\n\n### Contexto adicional\n\n_Agrega cualquier otro contexto, fuentes de datos o referencias aquí._\n`);
+const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Política:** [${policy.data.titleEs}](${policyUrl})\n**Categoría:** ${categoryEs}\n\n---\n\n### ¿Qué comentarios tienes?\n\n_Por favor describe tus comentarios, correcciones o sugerencias a continuación:_\n\n\n\n### Contexto adicional\n\n_Agrega cualquier otro contexto, fuentes de datos o referencias aquí._\n`);
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
@@ -76,7 +78,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
       <div class="policy-share-inline">
         <span class="policy-share-inline__label">Compartir</span>
         <a
-          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.titleEs)}&url=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.titleEs)}&url=${encodeURIComponent(`${policyUrl}`)}`}
           target="_blank"
           rel="noopener"
           class="policy-share-inline__btn"
@@ -85,7 +87,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           X
         </a>
         <a
-          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`${policyUrl}`)}`}
           target="_blank"
           rel="noopener"
           class="policy-share-inline__btn"
@@ -94,7 +96,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           FB
         </a>
         <a
-          href={`https://www.reddit.com/submit?url=https://denverforall.org/es/platform/${policy.slug}&title=${encodeURIComponent(policy.data.titleEs)}`}
+          href={`https://www.reddit.com/submit?url=${policyUrl}&title=${encodeURIComponent(policy.data.titleEs)}`}
           target="_blank"
           rel="noopener"
           class="policy-share-inline__btn"
@@ -176,7 +178,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           <h3>Comparte Esta Propuesta</h3>
           <div class="policy-share__links">
             <a
-              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.titleEs)}&url=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.titleEs)}&url=${encodeURIComponent(`${policyUrl}`)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
@@ -184,7 +186,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
               X / Twitter
             </a>
             <a
-              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://denverforall.org/es/platform/${policy.slug}`)}`}
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`${policyUrl}`)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"
@@ -192,7 +194,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
               Facebook
             </a>
             <a
-              href={`https://www.reddit.com/submit?url=https://denverforall.org/es/platform/${policy.slug}&title=${encodeURIComponent(policy.data.titleEs)}`}
+              href={`https://www.reddit.com/submit?url=${policyUrl}&title=${encodeURIComponent(policy.data.titleEs)}`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"

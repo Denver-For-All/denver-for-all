@@ -1,3 +1,4 @@
+# Fork: update name and CORS_ORIGIN to match your city (see src/config/site.ts)
 name = "dfa-campaign-finance"
 main = "src/index.ts"
 compatibility_date = "2024-12-01"
@@ -12,4 +13,5 @@ database_name = "campaign-finance"
 database_id = "" # Set after creating D1 database via: wrangler d1 create campaign-finance
 
 [vars]
+# Fork: update to match siteConfig.url in src/config/site.ts
 CORS_ORIGIN = "https://denverforall.org"

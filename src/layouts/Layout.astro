@@ -2,6 +2,7 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
+import { siteConfig, siteName } from '@config/site';
 
 import type { Locale } from '../i18n/utils';
 
@@ -14,8 +15,8 @@ interface Props {
 }
 
 const {
-  title = 'Denver For All',
-  description = 'A movement for economic justice in Denver. Building a city where everyone can afford to live, work, and thrive.',
+  title = siteConfig.name.en,
+  description = siteConfig.description.en,
   locale,
   image,
   ogType = 'website',
@@ -24,7 +25,8 @@ const {
 // Determine locale: explicit prop > URL prefix > default 'en'
 const lang: Locale = locale ?? (Astro.url.pathname.startsWith('/es/') || Astro.url.pathname === '/es' ? 'es' : 'en');
 
-const fullTitle = title === 'Denver For All' ? title : `${title} | Denver For All`;
+const brandName = siteName(lang);
+const fullTitle = title === siteConfig.name.en || title === siteConfig.name.es ? title : `${title} | ${brandName}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImage = new URL(image || '/og/default.png', Astro.site).href;
 
@@ -56,7 +58,7 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
     <meta property="og:description" content={description} />
     <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonicalURL.href} />
-    <meta property="og:site_name" content="Denver For All" />
+    <meta property="og:site_name" content={brandName} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />

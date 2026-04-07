@@ -3,6 +3,7 @@ Translate the following federal grant proposal document (markdown) for the Denve
 **IMPORTANT:** Grant proposals are formal government documents. Use the most formal register available in the target language. This should read like an official government funding application.
 
 Guidelines:
+
 - Maintain the formal, technical tone throughout
 - Preserve ALL markdown formatting exactly
 - Preserve ALL links — translate link text but keep URLs as-is

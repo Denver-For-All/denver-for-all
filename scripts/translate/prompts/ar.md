@@ -1,6 +1,7 @@
 Translate the following content from English to **Arabic (العربية)**.
 
 Language-specific guidelines:
+
 - Use **Modern Standard Arabic (MSA / الفصحى)** — not any regional dialect (not Egyptian, Levantine, Iraqi, etc.)
 - Use formal register appropriate for civic/government communication
 - For civic/legal terms, use standard Arabic administrative terminology (e.g., "policy" → "سياسة", "legislation" → "تشريع", "ordinance" → "مرسوم")

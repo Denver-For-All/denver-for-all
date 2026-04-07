@@ -27,7 +27,7 @@ keyStats:
   - value: '5.8 GW'
     label: 'pending data center power demand on Xcel grid'
     labelEs: 'demanda de energía pendiente de centros de datos en la red de Xcel'
-    context: 'Nearly equal to Xcel''s entire existing Colorado capacity of 6.2 GW. This demand requires 24/7 firm power that intermittent renewables alone cannot provide.'
+    context: "Nearly equal to Xcel's entire existing Colorado capacity of 6.2 GW. This demand requires 24/7 firm power that intermittent renewables alone cannot provide."
     contextEs: 'Casi igual a toda la capacidad existente de Xcel en Colorado de 6.2 GW. Esta demanda requiere energía firme 24/7 que las renovables intermitentes solas no pueden proveer.'
     source: 'Colorado Sun, 2025'
     theme: 'danger'
@@ -172,14 +172,14 @@ Denver's readiness plan should track HALEU supply milestones as a gating factor 
 
 ### International and Domestic Evidence
 
-| Project / Country | Model | Result |
-|---|---|---|
-| **France** | 70% of electricity from nuclear for 50+ years. State-owned EDF operates 56 reactors. | Among the lowest electricity prices and lowest carbon emissions in Europe. Demonstrates nuclear at national scale for decades. |
-| **Ontario, Canada** | 60% nuclear electricity. Bruce Power operates the world's largest nuclear station. Refurbishment of existing fleet. | Clean baseload enables Ontario to have one of the cleanest grids in North America. Electricity prices competitive with fossil fuels. |
-| **South Korea** | Standardized reactor design (APR-1400) built on time and on budget. Export program to UAE (Barakah). | Proves nuclear can be built affordably through design standardization and institutional learning — the exact model SMR proponents are pursuing. |
-| **Dow Seadrift, TX (planned)** | First Xe-100 deployment: 4-pack (320 MW) at Dow chemical facility for electricity and industrial process heat. X-energy ARDP demonstration project. | Will establish real-world Xe-100 construction costs and operational performance. Denver should benchmark against these results — not projections. |
-| **Amazon / X-energy** | AWS committed $500M investment in X-energy. Energy Northwest partnership for 320 MW initial deployment (4 Xe-100 modules), expandable to 960 MW (12 modules). | Major private capital validating Xe-100 commercial viability. AWS needs 24/7 clean power for data centers — the same need Colorado faces. |
-| **NuScale / UAMPS (cautionary)** | 462 MW light-water SMR project. Costs rose from $5.3B to $9.3B. Only 26% of output subscribed. Canceled November 2023. | Demonstrates the danger of premature commitment, unreliable cost estimates, and wrong first-customer selection. Denver must learn these lessons. |
+| Project / Country                | Model                                                                                                                                                         | Result                                                                                                                                            |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **France**                       | 70% of electricity from nuclear for 50+ years. State-owned EDF operates 56 reactors.                                                                          | Among the lowest electricity prices and lowest carbon emissions in Europe. Demonstrates nuclear at national scale for decades.                    |
+| **Ontario, Canada**              | 60% nuclear electricity. Bruce Power operates the world's largest nuclear station. Refurbishment of existing fleet.                                           | Clean baseload enables Ontario to have one of the cleanest grids in North America. Electricity prices competitive with fossil fuels.              |
+| **South Korea**                  | Standardized reactor design (APR-1400) built on time and on budget. Export program to UAE (Barakah).                                                          | Proves nuclear can be built affordably through design standardization and institutional learning — the exact model SMR proponents are pursuing.   |
+| **Dow Seadrift, TX (planned)**   | First Xe-100 deployment: 4-pack (320 MW) at Dow chemical facility for electricity and industrial process heat. X-energy ARDP demonstration project.           | Will establish real-world Xe-100 construction costs and operational performance. Denver should benchmark against these results — not projections. |
+| **Amazon / X-energy**            | AWS committed $500M investment in X-energy. Energy Northwest partnership for 320 MW initial deployment (4 Xe-100 modules), expandable to 960 MW (12 modules). | Major private capital validating Xe-100 commercial viability. AWS needs 24/7 clean power for data centers — the same need Colorado faces.         |
+| **NuScale / UAMPS (cautionary)** | 462 MW light-water SMR project. Costs rose from $5.3B to $9.3B. Only 26% of output subscribed. Canceled November 2023.                                        | Demonstrates the danger of premature commitment, unreliable cost estimates, and wrong first-customer selection. Denver must learn these lessons.  |
 
 ## How We Pay For It
 

@@ -42,6 +42,7 @@ Crear una Oficina de Aplicación de STR dedicada dentro del Departamento de Exci
 ### 4. Fondo de Retorno de Vivienda STR
 
 Las multas y tarifas de licencias se dedican a un **Fondo de Retorno de Vivienda STR** para:
+
 - Adquirir unidades STR anteriores como alquileres permanentemente asequibles.
 - Proporcionar asistencia de reubicación.
 - Financiar el programa de financiamiento de ADU.
@@ -49,6 +50,7 @@ Las multas y tarifas de licencias se dedican a un **Fondo de Retorno de Vivienda
 ### 5. Período de Transición
 
 Los titulares de licencias existentes que actualmente operan STR que no son residencia primaria tienen un **período de transición de 12 meses** para:
+
 - Convertir su unidad a alquiler a largo plazo (con un incentivo de $5,000), o
 - Vender la unidad (con derecho de primera opción de compra para la Autoridad de Vivienda Social de Denver).
 
@@ -56,11 +58,11 @@ Los titulares de licencias existentes que actualmente operan STR que no son resi
 
 ### Ciudades Que Han Actuado
 
-| Ciudad | Política | Resultado |
-|---|---|---|
+| Ciudad                              | Política                                                                                              | Resultado                                                   |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **Nueva York** (Ley Local 18, 2023) | Requerido que los anfitriones estén presentes; plataformas prohibidas de listar unidades no conformes | Los listados de Airbnb cayeron de ~22,000 a ~3,000 en meses |
-| **Santa Mónica, CA** | Ordenanza estricta de residencia primaria con responsabilidad de la plataforma | Los listados de STR cayeron un 80% |
-| **Ámsterdam, Países Bajos** | Límite de 30 noches al año; intercambio de datos de plataformas requerido | Los listados de STR disminuyeron más del 30% |
+| **Santa Mónica, CA**                | Ordenanza estricta de residencia primaria con responsabilidad de la plataforma                        | Los listados de STR cayeron un 80%                          |
+| **Ámsterdam, Países Bajos**         | Límite de 30 noches al año; intercambio de datos de plataformas requerido                             | Los listados de STR disminuyeron más del 30%                |
 
 ## Contexto Local
 
@@ -78,20 +80,20 @@ La Ley Local 18 de Nueva York demuestra que sí. La clave es la responsabilidad 
 
 ## Cómo Lo Financiamos
 
-| Fuente de Ingresos | Monto Anual Estimado |
-|---|---|
-| Tarifas de licencias de STR ($500/año por licencia) | ~$1.75M |
-| Ingresos por multas | ~$2–5M/año |
-| Cumplimiento del impuesto de hospedaje | ~$1–2M/año |
-| **Total** | **~$5–9M/año** |
+| Fuente de Ingresos                                  | Monto Anual Estimado |
+| --------------------------------------------------- | -------------------- |
+| Tarifas de licencias de STR ($500/año por licencia) | ~$1.75M              |
+| Ingresos por multas                                 | ~$2–5M/año           |
+| Cumplimiento del impuesto de hospedaje              | ~$1–2M/año           |
+| **Total**                                           | **~$5–9M/año**       |
 
 Costos operativos de la Oficina de Aplicación de STR: ~$1.5M/año. Superávit neto dedicado al Fondo de Retorno de Vivienda STR: ~$3–7M/año.
 
 ## Referencias
 
-- Barron, K., Kung, E. y Proserpio, D. *The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb.* Review of Financial Studies, 2021.
-- Oficina de Desarrollo Económico de Denver. *Denver Housing Market Analysis.* 2023.
-- Inside Airbnb. *Conjunto de datos de Denver, Colorado.* 2024.
-- McGeehan, P. *New York's Airbnb Crackdown: A Year Later.* New York Times, 2024.
-- Concejo Municipal de Nueva York. *Ley Local 18 de 2022.*
-- División de Planificación de Santa Mónica. *Home-Sharing Ordinance Annual Report.* 2020.
+- Barron, K., Kung, E. y Proserpio, D. _The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb._ Review of Financial Studies, 2021.
+- Oficina de Desarrollo Económico de Denver. _Denver Housing Market Analysis._ 2023.
+- Inside Airbnb. _Conjunto de datos de Denver, Colorado._ 2024.
+- McGeehan, P. _New York's Airbnb Crackdown: A Year Later._ New York Times, 2024.
+- Concejo Municipal de Nueva York. _Ley Local 18 de 2022._
+- División de Planificación de Santa Mónica. _Home-Sharing Ordinance Annual Report._ 2020.

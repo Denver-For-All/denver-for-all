@@ -114,14 +114,14 @@ Thị trường băng thông rộng của Denver cho thấy những thất bại
 
 ### E. Lịch Trình Dự Án
 
-| Giai Đoạn                         | Thời Gian      | Các Cột Mốc Quan Trọng                                                                                                                                                 |
-| --------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lập Kế Hoạch & Thiết Kế**        | Tháng 1-9     | Hoàn thành thiết kế kỹ thuật mạng lưới, đảm bảo giấy phép, thực hiện vòng tương tác cộng đồng 1, thuê nhân viên cốt lõi                                                       |
-| **Mua Sắm**                       | Tháng 6-12    | Phát hành RFP (yêu cầu đề xuất) cho việc xây dựng cáp quang, thiết bị và hệ thống vận hành; trao hợp đồng (chồng chéo với việc lập kế hoạch cho các hành lang theo giai đoạn) |
-| **Xây Dựng Trục Chính**           | Tháng 10-24   | Hoàn thành vòng cáp quang trục chính kết nối tất cả 14 khu dân cư mục tiêu, triển khai các trung tâm tập hợp                                                                |
-| **Triển Khai "Last-Mile" Giai Đoạn 1** | Tháng 18-36   | Kết nối cáp quang đến tận nhà hoạt động ở 8 khu dân cư đầu tiên (~12.000-15.000 địa chỉ); bắt đầu ghi danh người đăng ký và cung cấp gói miễn phí                                    |
-| **Triển Khai "Last-Mile" Giai Đoạn 2** | Tháng 30-42   | Hoàn thành 6 khu dân cư còn lại (~8.000-15.000 địa chỉ bổ sung); các chương trình công bằng kỹ thuật số hoạt động đầy đủ                                                         |
-| **Đóng Sổ & Đánh Giá**            | Tháng 40-48   | Kiểm tra tốc độ và độ tin cậy sau triển khai, khảo sát mức độ hài lòng của người đăng ký, đánh giá tính bền vững tài chính, báo cáo cuối cùng cho Văn Phòng Băng Thông Rộng Colorado            |
+| Giai Đoạn                              | Thời Gian   | Các Cột Mốc Quan Trọng                                                                                                                                                               |
+| -------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lập Kế Hoạch & Thiết Kế**            | Tháng 1-9   | Hoàn thành thiết kế kỹ thuật mạng lưới, đảm bảo giấy phép, thực hiện vòng tương tác cộng đồng 1, thuê nhân viên cốt lõi                                                              |
+| **Mua Sắm**                            | Tháng 6-12  | Phát hành RFP (yêu cầu đề xuất) cho việc xây dựng cáp quang, thiết bị và hệ thống vận hành; trao hợp đồng (chồng chéo với việc lập kế hoạch cho các hành lang theo giai đoạn)        |
+| **Xây Dựng Trục Chính**                | Tháng 10-24 | Hoàn thành vòng cáp quang trục chính kết nối tất cả 14 khu dân cư mục tiêu, triển khai các trung tâm tập hợp                                                                         |
+| **Triển Khai "Last-Mile" Giai Đoạn 1** | Tháng 18-36 | Kết nối cáp quang đến tận nhà hoạt động ở 8 khu dân cư đầu tiên (~12.000-15.000 địa chỉ); bắt đầu ghi danh người đăng ký và cung cấp gói miễn phí                                    |
+| **Triển Khai "Last-Mile" Giai Đoạn 2** | Tháng 30-42 | Hoàn thành 6 khu dân cư còn lại (~8.000-15.000 địa chỉ bổ sung); các chương trình công bằng kỹ thuật số hoạt động đầy đủ                                                             |
+| **Đóng Sổ & Đánh Giá**                 | Tháng 40-48 | Kiểm tra tốc độ và độ tin cậy sau triển khai, khảo sát mức độ hài lòng của người đăng ký, đánh giá tính bền vững tài chính, báo cáo cuối cùng cho Văn Phòng Băng Thông Rộng Colorado |
 
 ### F. Phù Hợp Với Các Mục Tiêu Của Chương Trình BEAD
 
@@ -147,29 +147,29 @@ Denver đã thiết lập một nền tảng vững chắc cho băng thông rộ
 
 ## Tóm Tắt Ngân Sách
 
-| Hạng Mục                                     | Số Tiền                         | % Tổng Số |
-| -------------------------------------------- | ------------------------------ | ---------- |
-| Cơ Sở Hạ Tầng Cáp Quang Trục Chính                | $15.000.000                    | 44%        |
-| Cáp Quang "Last-Mile" Đến Tận Nhà              | $12.000.000                    | 35%        |
-| Các Chương Trình Công Bằng Kỹ Thuật Số                      | $3.000.000                     | 9%         |
-| Trung Tâm Điều Hành Mạng Lưới & Nhân Sự         | $2.000.000                     | 6%         |
-| Lập Kế Hoạch, Thiết Kế & Tương Tác Cộng Đồng | $2.000.000                     | 6%         |
-| **Tổng Yêu Cầu Tài Trợ Con BEAD**              | **$34.000.000**                | **100%**   |
-| Đối Ứng Địa Phương (trái phiếu doanh thu / quỹ thành phố)     | Sẽ được xác định theo yêu cầu đối ứng của CBO | —          |
-| **Các Giai Đoạn Tương Lai (xây dựng toàn thành phố)**        | **$300-500 triệu (tổng ước tính)**     | —          |
+| Hạng Mục                                                  | Số Tiền                                       | % Tổng Số |
+| --------------------------------------------------------- | --------------------------------------------- | --------- |
+| Cơ Sở Hạ Tầng Cáp Quang Trục Chính                        | $15.000.000                                   | 44%       |
+| Cáp Quang "Last-Mile" Đến Tận Nhà                         | $12.000.000                                   | 35%       |
+| Các Chương Trình Công Bằng Kỹ Thuật Số                    | $3.000.000                                    | 9%        |
+| Trung Tâm Điều Hành Mạng Lưới & Nhân Sự                   | $2.000.000                                    | 6%        |
+| Lập Kế Hoạch, Thiết Kế & Tương Tác Cộng Đồng              | $2.000.000                                    | 6%        |
+| **Tổng Yêu Cầu Tài Trợ Con BEAD**                         | **$34.000.000**                               | **100%**  |
+| Đối Ứng Địa Phương (trái phiếu doanh thu / quỹ thành phố) | Sẽ được xác định theo yêu cầu đối ứng của CBO | —         |
+| **Các Giai Đoạn Tương Lai (xây dựng toàn thành phố)**     | **$300-500 triệu (tổng ước tính)**            | —         |
 
 ## Kết Quả Dự Kiến
 
-| Số Liệu                                         | Cơ Sở                       | Mục Tiêu 4 Năm                                           |
-| ---------------------------------------------- | ------------------------------ | ------------------------------------------------------- |
-| Số địa chỉ có cáp quang đô thị                      | 0                              | 20.000-30.000                                           |
-| Giá dịch vụ gigabit                          | $80-120/tháng (hiện tại)      | $30/tháng (Denver Fiber)                                |
-| Số hộ gia đình thu nhập thấp tham gia gói miễn phí       | 0                              | 3.000+                                                  |
-| Tốc độ tải xuống trung bình (người đăng ký) | Thay đổi; thường dưới mức quảng cáo | 1 Gbps đối xứng (đảm bảo)                           |
-| Cư dân hoàn thành các chương trình kiến thức kỹ thuật số | 0                              | 2.000+                                                  |
-| Thiết bị được phân phối cho các hộ gia đình đủ điều kiện   | 0                              | 1.500+                                                  |
-| Tỷ lệ tiếp nhận người đăng ký mạng lưới ở các khu vực được phục vụ   | 0%                             | 40-50% (phù hợp với các tiêu chuẩn băng thông rộng đô thị) |
-| Doanh thu hàng năm từ người đăng ký (khi ổn định)   | $0                             | Đủ để trang trải chi phí hoạt động và trả nợ    |
+| Số Liệu                                                            | Cơ Sở                               | Mục Tiêu 4 Năm                                             |
+| ------------------------------------------------------------------ | ----------------------------------- | ---------------------------------------------------------- |
+| Số địa chỉ có cáp quang đô thị                                     | 0                                   | 20.000-30.000                                              |
+| Giá dịch vụ gigabit                                                | $80-120/tháng (hiện tại)            | $30/tháng (Denver Fiber)                                   |
+| Số hộ gia đình thu nhập thấp tham gia gói miễn phí                 | 0                                   | 3.000+                                                     |
+| Tốc độ tải xuống trung bình (người đăng ký)                        | Thay đổi; thường dưới mức quảng cáo | 1 Gbps đối xứng (đảm bảo)                                  |
+| Cư dân hoàn thành các chương trình kiến thức kỹ thuật số           | 0                                   | 2.000+                                                     |
+| Thiết bị được phân phối cho các hộ gia đình đủ điều kiện           | 0                                   | 1.500+                                                     |
+| Tỷ lệ tiếp nhận người đăng ký mạng lưới ở các khu vực được phục vụ | 0%                                  | 40-50% (phù hợp với các tiêu chuẩn băng thông rộng đô thị) |
+| Doanh thu hàng năm từ người đăng ký (khi ổn định)                  | $0                                  | Đủ để trang trải chi phí hoạt động và trả nợ               |
 
 ## Các Nguồn Dữ Liệu Chính
 

@@ -15,11 +15,11 @@ Las reglas de financiamiento de campañas de Denver permiten contribuciones indi
 
 ### 1. Reducir los Límites de Contribución
 
-| Cargo | Límite Actual | Límite Propuesto |
-|---|---|---|
-| Alcalde | $10,000/elección | $2,500/elección |
-| Concejo Municipal | $2,000/elección | $1,000/elección |
-| Junta Escolar | $2,000/elección | $1,000/elección |
+| Cargo             | Límite Actual    | Límite Propuesto |
+| ----------------- | ---------------- | ---------------- |
+| Alcalde           | $10,000/elección | $2,500/elección  |
+| Concejo Municipal | $2,000/elección  | $1,000/elección  |
+| Junta Escolar     | $2,000/elección  | $1,000/elección  |
 
 ### 2. Divulgación de LLC y Agrupación Corporativa
 
@@ -28,6 +28,7 @@ Requerir la **divulgación del beneficiario final** para todas las contribucione
 ### 3. Programa de Correspondencia de Pequeñas Donaciones
 
 Crear un **Fondo de Democracia de Denver**:
+
 - Por cada dólar recaudado de un residente de Denver en contribuciones de $50 o menos, el Fondo aporta **$6** (correspondencia 6:1).
 - La participación es voluntaria con límites de gasto más bajos y mayor divulgación.
 - Umbral de elegibilidad: 200 donantes calificados para carreras del consejo, 1,000 para alcalde.
@@ -46,11 +47,11 @@ Crear una **Junta de Supervisión de Financiamiento de Campañas independiente d
 
 ## Evidencia
 
-| Programa | Resultado Clave |
-|---|---|
-| **Nueva York (desde 1988, 7:1 desde 2021)** | 61% más de pequeños donantes en 2021; campo de candidatos más diverso (NYC CFB, 2022) |
-| **Connecticut (estatal, desde 2008)** | Influencia de grandes donantes dramáticamente reducida; más primarias disputadas (Malbin et al., 2012) |
-| **Condado de Montgomery, MD (6:1)** | Aumento del 50%+ en candidatos participantes (Junta de Finanzas de Campaña de Montgomery, 2020) |
+| Programa                                    | Resultado Clave                                                                                        |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Nueva York (desde 1988, 7:1 desde 2021)** | 61% más de pequeños donantes en 2021; campo de candidatos más diverso (NYC CFB, 2022)                  |
+| **Connecticut (estatal, desde 2008)**       | Influencia de grandes donantes dramáticamente reducida; más primarias disputadas (Malbin et al., 2012) |
+| **Condado de Montgomery, MD (6:1)**         | Aumento del 50%+ en candidatos participantes (Junta de Finanzas de Campaña de Montgomery, 2020)        |
 
 ## Contexto Local
 
@@ -66,16 +67,16 @@ Parcialmente. Pero la evidencia de las jurisdicciones con programas de correspon
 
 ## Cómo Lo Financiamos
 
-| Elemento | Costo Anual |
-|---|---|
-| Fondo de Democracia de Denver | ~$4–6M por ciclo electoral |
-| Junta de Supervisión de Financiamiento de Campañas | ~$750K/año |
-| Tecnología de divulgación mejorada | ~$250K único, ~$100K/año mantenimiento |
+| Elemento                                           | Costo Anual                            |
+| -------------------------------------------------- | -------------------------------------- |
+| Fondo de Democracia de Denver                      | ~$4–6M por ciclo electoral             |
+| Junta de Supervisión de Financiamiento de Campañas | ~$750K/año                             |
+| Tecnología de divulgación mejorada                 | ~$250K único, ~$100K/año mantenimiento |
 
 ## Referencias
 
 - Ordenanza de Financiamiento de Campañas de Denver. Ciudad y Condado de Denver, 2024.
-- La Raja, R. y Schaffner, B. *Campaign Finance and Political Polarization.* University of Michigan Press, 2015.
-- Malbin, M. et al. *Small Donors, Big Democracy.* The Campaign Finance Institute, 2012.
-- Junta de Finanzas de Campaña de la Ciudad de Nueva York. *Informe Anual.* 2022.
-- Primo, D. y Milyo, J. *Campaign Finance Laws and Political Efficacy.* Election Law Journal, 2006.
+- La Raja, R. y Schaffner, B. _Campaign Finance and Political Polarization._ University of Michigan Press, 2015.
+- Malbin, M. et al. _Small Donors, Big Democracy._ The Campaign Finance Institute, 2012.
+- Junta de Finanzas de Campaña de la Ciudad de Nueva York. _Informe Anual._ 2022.
+- Primo, D. y Milyo, J. _Campaign Finance Laws and Political Efficacy._ Election Law Journal, 2006.

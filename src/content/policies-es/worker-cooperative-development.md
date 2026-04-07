@@ -37,12 +37,14 @@ Objetivo: 50 conversiones de cooperativas de trabajadores en los primeros cuatro
 ### 3. Preferencia Cooperativa en Contratación Municipal
 
 Modificar las Reglas de Compras de Denver para:
+
 - Otorgar una **preferencia de oferta del 5%** a las cooperativas de trabajadores y empresas de propiedad de empleados en contratos de la ciudad.
 - Requerir que las solicitudes de propuestas para contratos de servicios personales incluyan la propiedad de los trabajadores como criterio evaluado.
 
 ### 4. Centro de Asistencia Técnica para Negocios Cooperativos
 
 Financiar un **Centro de Negocios Cooperativos de Denver** que proporcione:
+
 - Talleres regulares de "Cooperativa 101" y programas de cohorte.
 - Una **clínica legal cooperativa** en asociación con escuelas de derecho de Denver.
 - Servicios en español y multilingüe en todo momento.
@@ -50,16 +52,17 @@ Financiar un **Centro de Negocios Cooperativos de Denver** que proporcione:
 ### 5. Piloto de Cuidado en el Hogar Cooperativo
 
 Lanzar un **Programa Piloto de Cuidado en el Hogar Cooperativo** en asociación con los Servicios Humanos de Denver:
+
 - Contratar preferentemente con cooperativas de cuidado en el hogar de propiedad de trabajadores.
 - Proporcionar una subvención inicial de $2M para la formación de una nueva cooperativa de cuidado en el hogar de Denver.
 
 ## Evidencia
 
-| Hallazgo | Evidencia |
-|---|---|
+| Hallazgo                         | Evidencia                                                                                                                            |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Resiliencia a las recesiones** | Las cooperativas de trabajadores muestran tasas de fracaso 2.5 veces menores durante las recesiones (Birchall y Ketilson, OIT, 2009) |
-| **Estabilidad del empleo** | Las cooperativas reducen las horas de trabajo en lugar de despedir trabajadores durante las recesiones (Pencavel et al., 2006) |
-| **Prima salarial** | Los trabajadores propietarios en cooperativas ganan un 30% más en promedio (Dube y Freeman, 2010) |
+| **Estabilidad del empleo**       | Las cooperativas reducen las horas de trabajo en lugar de despedir trabajadores durante las recesiones (Pencavel et al., 2006)       |
+| **Prima salarial**               | Los trabajadores propietarios en cooperativas ganan un 30% más en promedio (Dube y Freeman, 2010)                                    |
 
 ### Programas Modelo
 
@@ -81,18 +84,18 @@ El fondo de desarrollo cooperativo está basado en incentivos, no es obligatorio
 
 ## Cómo Lo Financiamos
 
-| Fuente de Financiamiento | Monto |
-|---|---|
-| Fondo General de Denver | ~$8M (capitalización inicial) |
-| Subvenciones federales de la EDA | ~$7M |
-| Inversión CDFI | ~$5M |
-| Presupuesto operativo de la OED de Denver | ~$1.5M/año |
+| Fuente de Financiamiento                  | Monto                         |
+| ----------------------------------------- | ----------------------------- |
+| Fondo General de Denver                   | ~$8M (capitalización inicial) |
+| Subvenciones federales de la EDA          | ~$7M                          |
+| Inversión CDFI                            | ~$5M                          |
+| Presupuesto operativo de la OED de Denver | ~$1.5M/año                    |
 
 ## Referencias
 
-- Birchall, J. y Ketilson, L.H. *Resilience of the Cooperative Business Model in Times of Crisis.* OIT, 2009.
-- Asamblea General de Colorado. HB24-1092, *Worker Cooperative Corporations Act.* 2024.
-- Dube, A. y Freeman, R. *Complementarity of Shared Compensation and Decision-Making Systems.* NBER, 2010.
-- Centro Nacional de Propiedad de los Empleados. *Employee Ownership and Economic Well-Being.* 2023.
-- Project Equity. *The Ownership Crisis: Retiring Boomer Business Owners.* 2023.
-- Federación de Cooperativas de Trabajadores de EE. UU. *Informe Anual.* 2023.
+- Birchall, J. y Ketilson, L.H. _Resilience of the Cooperative Business Model in Times of Crisis._ OIT, 2009.
+- Asamblea General de Colorado. HB24-1092, _Worker Cooperative Corporations Act._ 2024.
+- Dube, A. y Freeman, R. _Complementarity of Shared Compensation and Decision-Making Systems._ NBER, 2010.
+- Centro Nacional de Propiedad de los Empleados. _Employee Ownership and Economic Well-Being._ 2023.
+- Project Equity. _The Ownership Crisis: Retiring Boomer Business Owners._ 2023.
+- Federación de Cooperativas de Trabajadores de EE. UU. _Informe Anual._ 2023.

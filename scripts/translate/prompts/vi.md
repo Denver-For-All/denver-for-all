@@ -1,6 +1,7 @@
 Translate the following content from English to **Vietnamese (Tiếng Việt)**.
 
 Language-specific guidelines:
+
 - Use formal written Vietnamese appropriate for civic/government communication
 - Use Southern Vietnamese conventions where register differences exist (phổ thông miền Nam), as this is for Denver residents
 - Preserve all Vietnamese diacritical marks precisely — this is critical for meaning

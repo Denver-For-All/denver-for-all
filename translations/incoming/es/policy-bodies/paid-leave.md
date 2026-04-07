@@ -14,13 +14,13 @@ El **programa FAMLI de Colorado** (Family and Medical Leave Insurance, Seguro de
 
 FAMLI es un paso importante hacia adelante. Nuestra propuesta se basa en ello:
 
-| Característica                               | Colorado FAMLI                                      | Denver For All           |
-| -------------------------------------------- | --------------------------------------------------- | ------------------------ |
-| Permiso parental                             | 12 semanas                                            | **26 semanas** (6 meses) |
-| Reemplazo salarial                           | 90% hasta $1,100/semana                               | **100% hasta $75K de salario** |
-| Permiso por enfermedad                       | No cubierto (el HFWA separado de Colorado proporciona 48 horas) | **Ilimitado**            |
-| Vacaciones mínimas                           | No abordado                                         | **4 semanas mínimo**     |
-| Permiso parental reservado ("cuota para padres/madres") | No                                                  | **8 semanas por padre/madre** |
+| Característica                                          | Colorado FAMLI                                                  | Denver For All                 |
+| ------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------ |
+| Permiso parental                                        | 12 semanas                                                      | **26 semanas** (6 meses)       |
+| Reemplazo salarial                                      | 90% hasta $1,100/semana                                         | **100% hasta $75K de salario** |
+| Permiso por enfermedad                                  | No cubierto (el HFWA separado de Colorado proporciona 48 horas) | **Ilimitado**                  |
+| Vacaciones mínimas                                      | No abordado                                                     | **4 semanas mínimo**           |
+| Permiso parental reservado ("cuota para padres/madres") | No                                                              | **8 semanas por padre/madre**  |
 
 El programa de Denver complementa a FAMLI; no lo duplica. Las primeras 12 semanas se pagarían a través de FAMLI; el programa de Denver extiende la cobertura más allá de los límites de FAMLI y agrega disposiciones que FAMLI no cubre (permiso por enfermedad ilimitado, vacaciones mínimas, cuotas de permiso parental reservadas).
 
@@ -63,15 +63,15 @@ El programa de Denver complementa a FAMLI; no lo duplica. Las primeras 12 semana
 
 Estados Unidos es el caso atípico mundial extremo. Así es como se ve la normalidad:
 
-| País        | Permiso parental                         | Vacaciones                       | Permiso por enfermedad                            | Resultado Económico                                                             |
-| ----------- | --------------------------------------- | -------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **Suecia**  | 480 días (compartidos), 90% de salario | 25 días mínimo                   | Ilimitado, 80% de salario                           | La décima economía más grande del mundo, constantemente clasificada como la mejor en calidad de vida |
-| **Alemania** | 14 meses al 65% de salario               | 20 días mínimo (la mayoría obtiene 30) | 6 semanas de salario completo, luego 70%            | La economía más grande de Europa, desempleo por debajo de EE. UU.                |
-| **Dinamarca** | 52 semanas (compartidas)                  | 25 días mínimo                   | Salario completo durante la enfermedad              | La mayor satisfacción con la vida en el mundo                                   |
-| **Finlandia** | 320 días (compartidos)                  | 25 días mínimo                   | Salario completo, los primeros 10 días pagados por el empleador | El mejor sistema educativo del mundo, constantemente en la cima del IDH           |
-| **Francia**  | 16 semanas maternales + 28 días paternales | 25 días mínimo                   | Salario completo por hasta 3 años (enfermedad grave)  | La séptima economía más grande del mundo                                        |
-| **Noruega**  | 49 semanas al 100% o 59 semanas al 80%   | 25 días mínimo                   | Ilimitado, 100% de salario (primer año)            | El IDH más alto del mundo                                                        |
-| **EE. UU.**   | 0 días pagados                         | 0 días garantizados                | 0 días de garantía federal                        | La mayor mortalidad materna en el mundo desarrollado                            |
+| País          | Permiso parental                           | Vacaciones                             | Permiso por enfermedad                                          | Resultado Económico                                                                                  |
+| ------------- | ------------------------------------------ | -------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Suecia**    | 480 días (compartidos), 90% de salario     | 25 días mínimo                         | Ilimitado, 80% de salario                                       | La décima economía más grande del mundo, constantemente clasificada como la mejor en calidad de vida |
+| **Alemania**  | 14 meses al 65% de salario                 | 20 días mínimo (la mayoría obtiene 30) | 6 semanas de salario completo, luego 70%                        | La economía más grande de Europa, desempleo por debajo de EE. UU.                                    |
+| **Dinamarca** | 52 semanas (compartidas)                   | 25 días mínimo                         | Salario completo durante la enfermedad                          | La mayor satisfacción con la vida en el mundo                                                        |
+| **Finlandia** | 320 días (compartidos)                     | 25 días mínimo                         | Salario completo, los primeros 10 días pagados por el empleador | El mejor sistema educativo del mundo, constantemente en la cima del IDH                              |
+| **Francia**   | 16 semanas maternales + 28 días paternales | 25 días mínimo                         | Salario completo por hasta 3 años (enfermedad grave)            | La séptima economía más grande del mundo                                                             |
+| **Noruega**   | 49 semanas al 100% o 59 semanas al 80%     | 25 días mínimo                         | Ilimitado, 100% de salario (primer año)                         | El IDH más alto del mundo                                                                            |
+| **EE. UU.**   | 0 días pagados                             | 0 días garantizados                    | 0 días de garantía federal                                      | La mayor mortalidad materna en el mundo desarrollado                                                 |
 
 **La correlación es clara:** los países con permisos pagados generosos tienen economías MÁS FUERTES, mayor productividad, menores costos de atención médica, menor mortalidad infantil y poblaciones más felices.
 

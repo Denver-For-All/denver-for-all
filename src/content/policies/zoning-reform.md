@@ -102,6 +102,7 @@ The statewide ADU law is a floor, not a ceiling. Denver should go further:
 The current discretionary rezoning process gives organized neighborhood opposition veto-like power over housing. A small, motivated group of neighbors can block any project by flooding public hearings and raising procedural objections. This is a structural problem, not a people problem.
 
 Reform the process so that:
+
 - Projects that comply with the City's adopted plans (Blueprint Denver, Neighborhood Plans) receive **administrative approval**, not City Council votes subject to political pressure.
 - **City Council rezoning votes require a supermajority to deny** a conforming application — reversing the current burden of proof.
 - Community benefit agreements for large developments are negotiated transparently and consistently, not extracted through behind-the-scenes political deals.
@@ -110,13 +111,13 @@ Reform the process so that:
 
 ### Zoning Reform Works — The Research
 
-| City / Study | Policy | Result |
-|---|---|---|
-| **Minneapolis, MN** | Eliminated single-family-only zoning citywide (2019) | Rents fell 11% relative to comparable cities 2019–2023 (University of Minnesota, 2024) |
-| **Auckland, New Zealand** | Upzoned 75% of residential land (2016) | Construction nearly tripled; rent growth significantly below national average (Greenaway-McGrevy & Phillips, 2023) |
-| **Tokyo, Japan** | National land-use framework allows mixed-use and density everywhere | Rents have remained roughly flat in real terms for 30 years despite massive population growth (Harding, 2022) |
-| **Portland, OR** | Eliminated single-family zoning, legalized missing middle citywide (2021) | Hundreds of duplexes and triplexes permitted that would previously have been illegal (Sightline Institute, 2023) |
-| **California SB 9 (2021)** | Statewide duplex legalization | Enabled tens of thousands of additional units; most growth occurred in high-cost coastal communities (Manville et al., 2023) |
+| City / Study               | Policy                                                                    | Result                                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Minneapolis, MN**        | Eliminated single-family-only zoning citywide (2019)                      | Rents fell 11% relative to comparable cities 2019–2023 (University of Minnesota, 2024)                                       |
+| **Auckland, New Zealand**  | Upzoned 75% of residential land (2016)                                    | Construction nearly tripled; rent growth significantly below national average (Greenaway-McGrevy & Phillips, 2023)           |
+| **Tokyo, Japan**           | National land-use framework allows mixed-use and density everywhere       | Rents have remained roughly flat in real terms for 30 years despite massive population growth (Harding, 2022)                |
+| **Portland, OR**           | Eliminated single-family zoning, legalized missing middle citywide (2021) | Hundreds of duplexes and triplexes permitted that would previously have been illegal (Sightline Institute, 2023)             |
+| **California SB 9 (2021)** | Statewide duplex legalization                                             | Enabled tens of thousands of additional units; most growth occurred in high-cost coastal communities (Manville et al., 2023) |
 
 The mechanism is straightforward: when it is legal to build more homes, more homes get built. When supply grows alongside demand, prices moderate. This does not replace the need for affordable housing programs — market-rate housing serves moderate and higher incomes, social housing serves lower incomes — but zoning reform is what allows both to scale.
 
@@ -161,15 +162,15 @@ The savings are substantial: every new market-rate unit built without public sub
 
 ## References
 
-- Denver Community Planning and Development. *Blueprint Denver.* 2019.
-- Colorado General Assembly. HB23-1255, *Accessory Dwelling Units.* 2023.
-- Colorado General Assembly. HB24-1313, *Transit-Oriented Communities.* 2024.
-- Greenaway-McGrevy, R. & Phillips, P. *Housing Affordability in Auckland.* University of Auckland, 2023.
-- Harding, R. *Why Tokyo is the model for housing affordability.* Financial Times, 2022.
-- Manville, M., et al. *The Effect of California's SB 9 on Housing Supply.* UCLA Lewis Center, 2023.
-- Mast, E. *JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market.* Journal of Urban Economics, 2021.
-- Rosenthal, S. *Are Private Markets and Filtering a Viable Source of Low-Income Housing?* American Economic Review, 2014.
-- Sightline Institute. *Oregon's Middle Housing Law: Year Two Update.* 2023.
-- University of Minnesota. *Minneapolis 2040 — Rent and Housing Supply Outcomes.* 2024.
-- U.S. Census Bureau, American Community Survey. *Denver Housing Tenure Data.* 2023.
-- Victoria Transport Policy Institute / Parking Reform Network. *Parking Cost and Reform Analysis.* 2023.
+- Denver Community Planning and Development. _Blueprint Denver._ 2019.
+- Colorado General Assembly. HB23-1255, _Accessory Dwelling Units._ 2023.
+- Colorado General Assembly. HB24-1313, _Transit-Oriented Communities._ 2024.
+- Greenaway-McGrevy, R. & Phillips, P. _Housing Affordability in Auckland._ University of Auckland, 2023.
+- Harding, R. _Why Tokyo is the model for housing affordability._ Financial Times, 2022.
+- Manville, M., et al. _The Effect of California's SB 9 on Housing Supply._ UCLA Lewis Center, 2023.
+- Mast, E. _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics, 2021.
+- Rosenthal, S. _Are Private Markets and Filtering a Viable Source of Low-Income Housing?_ American Economic Review, 2014.
+- Sightline Institute. _Oregon's Middle Housing Law: Year Two Update._ 2023.
+- University of Minnesota. _Minneapolis 2040 — Rent and Housing Supply Outcomes._ 2024.
+- U.S. Census Bureau, American Community Survey. _Denver Housing Tenure Data._ 2023.
+- Victoria Transport Policy Institute / Parking Reform Network. _Parking Cost and Reform Analysis._ 2023.

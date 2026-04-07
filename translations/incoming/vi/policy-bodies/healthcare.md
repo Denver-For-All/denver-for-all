@@ -92,14 +92,14 @@ STAR xử lý cuộc khủng hoảng. Chính sách về ma túy xử lý việc 
 
 ### Bằng Chứng Quốc Tế: Chúng Ta Trả Nhiều Hơn Và Nhận Được Ít Hơn
 
-| Quốc Gia     | Mô Hình                                                                                    | Chi Phí Bình Quân Đầu Người | Tuổi Thọ         | Phá Sản Y Tế  |
-| ----------- | ---------------------------------------------------------------------------------------- | --------------------- | -------------- | ------------ |
-| **Đức**     | Thiết lập tỷ lệ trả tiền cho tất cả - tất cả các công ty bảo hiểm đều trả cùng một mức giá đã thương lượng. Không có hóa đơn bất ngờ. | 7.383 đô la             | 81,4 năm        | 0            |
-| **Nhật Bản** | Định giá tham chiếu của chính phủ cho tất cả các thủ thuật.                                          | 4.691 đô la             | 84,8 năm        | 0            |
-| **Đài Loan**  | Người trả tiền duy nhất kể từ năm 1995. Hệ thống thẻ thông minh.                                            | 3.047 đô la             | 80,9 năm        | 0            |
-| **Vương Quốc Anh (NHS)** | Do chính phủ điều hành. Miễn phí tại thời điểm sử dụng.                                                      | 5.138 đô la             | 81,4 năm        | 0            |
-| **Pháp**    | Đa người trả tiền phổ quát. Chính phủ chi trả 70-100% chi phí.                                             | 5.564 đô la             | 82,5 năm        | 0            |
-| **Hoa Kỳ**   | Dựa trên thị trường. Định giá không được kiểm soát.                                                        | **12.555 đô la**        | **77,5 năm**    | **530.000/năm** |
+| Quốc Gia                 | Mô Hình                                                                                                                               | Chi Phí Bình Quân Đầu Người | Tuổi Thọ     | Phá Sản Y Tế    |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------ | --------------- |
+| **Đức**                  | Thiết lập tỷ lệ trả tiền cho tất cả - tất cả các công ty bảo hiểm đều trả cùng một mức giá đã thương lượng. Không có hóa đơn bất ngờ. | 7.383 đô la                 | 81,4 năm     | 0               |
+| **Nhật Bản**             | Định giá tham chiếu của chính phủ cho tất cả các thủ thuật.                                                                           | 4.691 đô la                 | 84,8 năm     | 0               |
+| **Đài Loan**             | Người trả tiền duy nhất kể từ năm 1995. Hệ thống thẻ thông minh.                                                                      | 3.047 đô la                 | 80,9 năm     | 0               |
+| **Vương Quốc Anh (NHS)** | Do chính phủ điều hành. Miễn phí tại thời điểm sử dụng.                                                                               | 5.138 đô la                 | 81,4 năm     | 0               |
+| **Pháp**                 | Đa người trả tiền phổ quát. Chính phủ chi trả 70-100% chi phí.                                                                        | 5.564 đô la                 | 82,5 năm     | 0               |
+| **Hoa Kỳ**               | Dựa trên thị trường. Định giá không được kiểm soát.                                                                                   | **12.555 đô la**            | **77,5 năm** | **530.000/năm** |
 
 **Chúng ta trả nhiều nhất và sống ngắn nhất.** Hoa Kỳ chi gấp đôi số tiền mà Đức chi cho mỗi người và có tuổi thọ ít hơn 4 năm và nửa triệu vụ phá sản. Một lần nằm viện NICU của một đứa trẻ khiến một gia đình tốn 0 đô la ở Đức. Ở Denver, nó có thể tốn hàng triệu đô la.
 

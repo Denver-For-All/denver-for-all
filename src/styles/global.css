@@ -385,8 +385,8 @@ html[lang='es'] [data-lang='en'] {
   }
 
   /* Suppress URL display for local/icon links */
-  a[href^="#"]::after,
-  a[href^="/"]::after {
+  a[href^='#']::after,
+  a[href^='/']::after {
     content: '';
   }
 

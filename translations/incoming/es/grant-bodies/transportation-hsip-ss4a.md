@@ -114,13 +114,13 @@ La trayectoria de Denver se está alejando decididamente de su objetivo de Visi�
 
 ### E. Cronograma del Proyecto
 
-| Fase                     | Cronograma    | Hitos Clave                                                                                                                                                                                                                                       |
-| ------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planificación y Diseño** | Meses 1-8   | Completar las auditorías de seguridad vial en los 20 sitios de intersección; finalizar el diseño de ingeniería para los rediseños de intersección y los carriles para bicicletas protegidos; ejecutar la ronda 1 de participación comunitaria; adquirir equipos automatizados de control de velocidad |
-| **Adquisiciones**          | Meses 5-10  | Emitir solicitudes de propuestas (Request For Proposals, RFP) para los contratos de construcción; adjudicar los contratos de rediseño de intersecciones y construcción de carriles para bicicletas; ejecutar los acuerdos con los proveedores de control automatizado (puede superponerse con el diseño para el trabajo por fases)                 |
-| **Fase de Construcción 1** | Meses 9-20  | Completar los rediseños de intersección en las 10 ubicaciones de mayor prioridad; instalar el control automatizado de la velocidad en las primeras 20 zonas escolares; completar las mejoras de señales peatonales en 50 intersecciones; comenzar la construcción de carriles para bicicletas protegidos en las primeras 8-10 millas                 |
-| **Fase de Construcción 2** | Meses 18-30 | Completar los 10 rediseños de intersección restantes; instalar el control automatizado de la velocidad en las zonas escolares restantes; completar todas las mejoras de señales peatonales; completar la construcción de carriles para bicicletas protegidos en los corredores restantes                                       |
-| **Cierre y Evaluación**    | Meses 28-36 | Recopilación de datos de velocidad y accidentes posteriores a la construcción; evaluación de seguridad a los 24 meses en los sitios de la Fase 1; evaluación de 12 meses en los sitios de la Fase 2; informe final y análisis de replicabilidad; encuestas de seguimiento de la percepción de la comunidad                                     |
+| Fase                       | Cronograma  | Hitos Clave                                                                                                                                                                                                                                                                                                                          |
+| -------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Planificación y Diseño** | Meses 1-8   | Completar las auditorías de seguridad vial en los 20 sitios de intersección; finalizar el diseño de ingeniería para los rediseños de intersección y los carriles para bicicletas protegidos; ejecutar la ronda 1 de participación comunitaria; adquirir equipos automatizados de control de velocidad                                |
+| **Adquisiciones**          | Meses 5-10  | Emitir solicitudes de propuestas (Request For Proposals, RFP) para los contratos de construcción; adjudicar los contratos de rediseño de intersecciones y construcción de carriles para bicicletas; ejecutar los acuerdos con los proveedores de control automatizado (puede superponerse con el diseño para el trabajo por fases)   |
+| **Fase de Construcción 1** | Meses 9-20  | Completar los rediseños de intersección en las 10 ubicaciones de mayor prioridad; instalar el control automatizado de la velocidad en las primeras 20 zonas escolares; completar las mejoras de señales peatonales en 50 intersecciones; comenzar la construcción de carriles para bicicletas protegidos en las primeras 8-10 millas |
+| **Fase de Construcción 2** | Meses 18-30 | Completar los 10 rediseños de intersección restantes; instalar el control automatizado de la velocidad en las zonas escolares restantes; completar todas las mejoras de señales peatonales; completar la construcción de carriles para bicicletas protegidos en los corredores restantes                                             |
+| **Cierre y Evaluación**    | Meses 28-36 | Recopilación de datos de velocidad y accidentes posteriores a la construcción; evaluación de seguridad a los 24 meses en los sitios de la Fase 1; evaluación de 12 meses en los sitios de la Fase 2; informe final y análisis de replicabilidad; encuestas de seguimiento de la percepción de la comunidad                           |
 
 ### F. Alineación con los Objetivos de los Programas HSIP y SS4A
 
@@ -143,31 +143,31 @@ Este proyecto promueve los objetivos tanto del Programa de Mejora de la Segurida
 
 ## Resumen del Presupuesto
 
-| Categoría                                                       | Monto            | % del Total |
-| -------------------------------------------------------------- | ---------------- | ---------- |
-| Rediseños de Intersecciones (20 principales de la Red de Lesiones Graves) | $8,000,000       | 44%        |
-| Construcción de Carriles para Bicicletas Protegidos (corredores de alta siniestralidad) | $5,000,000       | 28%        |
-| Control Automatizado de la Velocidad (zonas escolares)                 | $2,000,000       | 11%        |
-| Mejoras de Señales Peatonales (Red de Lesiones Graves)               | $2,000,000       | 11%        |
-| Gestión de Proyectos, Participación y Evaluación                     | $1,000,000       | 6%         |
-| **Solicitud Federal Total**                                     | **$18,000,000**  | **100%**   |
-| Contrapartida Local (presupuesto de capital del DOTI + fondos de Visión Cero) | $5,400,000       | —          |
-| **Inversión Total del Proyecto**                                 | **$23,400,000**  | —          |
+| Categoría                                                                               | Monto           | % del Total |
+| --------------------------------------------------------------------------------------- | --------------- | ----------- |
+| Rediseños de Intersecciones (20 principales de la Red de Lesiones Graves)               | $8,000,000      | 44%         |
+| Construcción de Carriles para Bicicletas Protegidos (corredores de alta siniestralidad) | $5,000,000      | 28%         |
+| Control Automatizado de la Velocidad (zonas escolares)                                  | $2,000,000      | 11%         |
+| Mejoras de Señales Peatonales (Red de Lesiones Graves)                                  | $2,000,000      | 11%         |
+| Gestión de Proyectos, Participación y Evaluación                                        | $1,000,000      | 6%          |
+| **Solicitud Federal Total**                                                             | **$18,000,000** | **100%**    |
+| Contrapartida Local (presupuesto de capital del DOTI + fondos de Visión Cero)           | $5,400,000      | —           |
+| **Inversión Total del Proyecto**                                                        | **$23,400,000** | —           |
 
 **Nota sobre la División Federal/Local:** Los fondos del HSIP están disponibles con una contrapartida federal/local de 90/10 para proyectos de seguridad en las autopistas de ayuda federal. Las Subvenciones de Implementación SS4A requieren una contrapartida local mínima del 20%. El presupuesto anterior asume una proporción federal/local combinada de 77/23. La contrapartida local de Denver se financiará a través de las asignaciones presupuestarias de capital existentes del DOTI para Visión Cero e infraestructura para bicicletas, lo que demuestra que la ciudad está complementando — no reemplazando — la inversión local en seguridad con fondos federales. El gasto anual de la ciudad en Visión Cero e infraestructura para bicicletas de $5-10 millones por año (presupuesto de capital del DOTI) y los $13.4 millones invertidos en carriles para bicicletas entre 2018 y 2023 demuestran un compromiso local sostenido.
 
 ## Resultados Esperados
 
-| Métrica                                                              | Línea de Base                          | Objetivo a 3 Años                           |
-| ------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------- |
-| Muertes anuales por accidentes de tráfico (en toda la ciudad)             | 93 (2025)                             | Reducción del 20-30% (65-74)                |
-| Muertes anuales de peatones (en toda la ciudad)                         | 35 (2025)                             | Reducción del 30-40% (21-25)                |
-| Accidentes en intersecciones rediseñadas                            | Varía según el sitio (promedio ~25/año) | Reducción del 40% por intersección            |
-| Velocidad del percentil 85 en zonas escolares con control automatizado | Estimada 30-35 mph                    | Reducida a 20-25 mph                        |
-| Millas de carriles para bicicletas protegidos                         | 254 millas en total (protección limitada) | +15-20 millas de carriles físicamente protegidos |
-| Muertes y lesiones graves de ciclistas en los corredores del proyecto   | ~8-12 lesiones graves/año              | Reducción del 30%                             |
-| Intersecciones con intervalos de adelanto para peatones en la Red de Lesiones Graves | Implementación limitada                 | 80-100 intersecciones mejoradas              |
-| Cumplimiento de las señales peatonales con las normas APS              | ~35% de las intersecciones de la Red de Lesiones Graves | ~75% de las intersecciones de la Red de Lesiones Graves |
+| Métrica                                                                              | Línea de Base                                           | Objetivo a 3 Años                                       |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------- |
+| Muertes anuales por accidentes de tráfico (en toda la ciudad)                        | 93 (2025)                                               | Reducción del 20-30% (65-74)                            |
+| Muertes anuales de peatones (en toda la ciudad)                                      | 35 (2025)                                               | Reducción del 30-40% (21-25)                            |
+| Accidentes en intersecciones rediseñadas                                             | Varía según el sitio (promedio ~25/año)                 | Reducción del 40% por intersección                      |
+| Velocidad del percentil 85 en zonas escolares con control automatizado               | Estimada 30-35 mph                                      | Reducida a 20-25 mph                                    |
+| Millas de carriles para bicicletas protegidos                                        | 254 millas en total (protección limitada)               | +15-20 millas de carriles físicamente protegidos        |
+| Muertes y lesiones graves de ciclistas en los corredores del proyecto                | ~8-12 lesiones graves/año                               | Reducción del 30%                                       |
+| Intersecciones con intervalos de adelanto para peatones en la Red de Lesiones Graves | Implementación limitada                                 | 80-100 intersecciones mejoradas                         |
+| Cumplimiento de las señales peatonales con las normas APS                            | ~35% de las intersecciones de la Red de Lesiones Graves | ~75% de las intersecciones de la Red de Lesiones Graves |
 
 **Metodología de Reducción de Accidentes:** Los resultados esperados se basan en los Factores de Modificación de Accidentes (Crash Modification Factors, CMFs) publicados del Centro de Intercambio de CMF de la FHWA. Los rediseños de intersecciones que combinan extensiones de bordillo, pasos de peatones elevados y movimientos de giro restringidos tienen CMFs documentados de 0.47-0.70 para accidentes de peatones. Los intervalos de adelanto para peatones reducen los accidentes de peatones y vehículos en un 13% estimado (CMF = 0.87). El control automatizado de la velocidad en las zonas escolares reduce los accidentes con lesiones en un 20-40% en las implementaciones de ciudades similares (IIHS, 2024). Los carriles para bicicletas protegidos reducen el riesgo de lesiones de los ciclistas en un 75% en comparación con los carriles no protegidos (Teschke et al., 2012).
 

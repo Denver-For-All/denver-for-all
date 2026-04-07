@@ -92,13 +92,13 @@ Dữ liệu an toàn toàn diện của Denver cho thấy một cuộc khủng h
 
 ### E. Tiến Độ Dự Án
 
-| Giai Đoạn                    | Thời Gian      | Các Mốc Quan Trọng                                                                         |
-| ---------------------------- | ------------- | ------------------------------------------------------------------------------------------ |
-| **Lập Kế Hoạch & Thiết Kế** | Tháng 1-6      | Hoàn thiện các hành lang ưu tiên, hoàn thành thiết kế kỹ thuật, thực hiện vòng 1 tham gia cộng đồng |
-| **Mua Sắm**                | Tháng 4-8      | Phát hành RFP (Yêu cầu Đề xuất), trao hợp đồng xây dựng (có thể trùng với thiết kế cho các hành lang theo giai đoạn) |
-| **Giai Đoạn Xây Dựng 1**     | Tháng 7-18     | Hoàn thành vỉa hè trên tuyến đường đến trường và hành lang giao thông công cộng tại 8 khu dân cư có mức ưu tiên cao nhất |
-| **Giai Đoạn Xây Dựng 2**     | Tháng 15-30    | Hoàn thành các hành lang còn lại, cải tạo ADA và lắp đặt giảm tốc độ giao thông          |
-| **Kết Thúc & Đánh Giá**       | Tháng 28-36    | Kiểm toán sau xây dựng, dữ liệu đếm số lượng người đi bộ, phân tích tai nạn, báo cáo cuối cùng    |
+| Giai Đoạn                   | Thời Gian   | Các Mốc Quan Trọng                                                                                                       |
+| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Lập Kế Hoạch & Thiết Kế** | Tháng 1-6   | Hoàn thiện các hành lang ưu tiên, hoàn thành thiết kế kỹ thuật, thực hiện vòng 1 tham gia cộng đồng                      |
+| **Mua Sắm**                 | Tháng 4-8   | Phát hành RFP (Yêu cầu Đề xuất), trao hợp đồng xây dựng (có thể trùng với thiết kế cho các hành lang theo giai đoạn)     |
+| **Giai Đoạn Xây Dựng 1**    | Tháng 7-18  | Hoàn thành vỉa hè trên tuyến đường đến trường và hành lang giao thông công cộng tại 8 khu dân cư có mức ưu tiên cao nhất |
+| **Giai Đoạn Xây Dựng 2**    | Tháng 15-30 | Hoàn thành các hành lang còn lại, cải tạo ADA và lắp đặt giảm tốc độ giao thông                                          |
+| **Kết Thúc & Đánh Giá**     | Tháng 28-36 | Kiểm toán sau xây dựng, dữ liệu đếm số lượng người đi bộ, phân tích tai nạn, báo cáo cuối cùng                           |
 
 ### F. Phù Hợp Với Các Mục Tiêu của Chương Trình SS4A
 
@@ -123,25 +123,25 @@ Khoản đầu tư liên bang được yêu cầu là $15 triệu thể hiện *
 
 ## Tóm Tắt Ngân Sách
 
-| Danh Mục                                  | Số Tiền            | % Tổng Số |
-| ----------------------------------------- | ------------------ | -------- |
-| Xây Dựng Vỉa Hè (mới)                    | $8.000.000         | 53%      |
-| Cải Tạo Tuân Thủ ADA                      | $4.000.000         | 27%      |
-| Giảm Tốc Độ Giao Thông & An Toàn Đi Bộ    | $2.000.000         | 13%      |
-| Quản Lý Dự Án & Đánh Giá                 | $1.000.000         | 7%       |
-| **Tổng Số Tiền Yêu Cầu từ Liên Bang**     | **$15.000.000**    | **100%** |
-| Đối Ứng Địa Phương (doanh thu phí vỉa hè) | $97.500.000        | —        |
-| **Tổng Đầu Tư Dự Án**                    | **$112.500.000**   | —        |
+| Danh Mục                                  | Số Tiền          | % Tổng Số |
+| ----------------------------------------- | ---------------- | --------- |
+| Xây Dựng Vỉa Hè (mới)                     | $8.000.000       | 53%       |
+| Cải Tạo Tuân Thủ ADA                      | $4.000.000       | 27%       |
+| Giảm Tốc Độ Giao Thông & An Toàn Đi Bộ    | $2.000.000       | 13%       |
+| Quản Lý Dự Án & Đánh Giá                  | $1.000.000       | 7%        |
+| **Tổng Số Tiền Yêu Cầu từ Liên Bang**     | **$15.000.000**  | **100%**  |
+| Đối Ứng Địa Phương (doanh thu phí vỉa hè) | $97.500.000      | —         |
+| **Tổng Đầu Tư Dự Án**                     | **$112.500.000** | —         |
 
 ## Kết Quả Dự Kiến
 
-| Chỉ Số                                                      | Mức Cơ Sở    | Mục Tiêu 3 Năm                  |
-| ----------------------------------------------------------- | ----------- | ------------------------------ |
-| Số dặm vỉa hè bị thiếu trong các khu dân cư mục tiêu           | ~50 dặm     | Giảm 25-35 dặm (50-70%)        |
-| Đường dốc lên vỉa hè tuân thủ ADA trong các khu vực mục tiêu | ~40% tuân thủ | ~85% tuân thủ                 |
-| Số người chết do tai nạn giao thông trong các khu dân cư mục tiêu   | 12-15/năm   | Giảm 30%                      |
-| Số người bị thương nặng do tai nạn giao thông trong các khu dân cư mục tiêu | ~45/năm     | Giảm 25%                      |
-| Cư dân trong vòng 1/4 dặm của tuyến đường tuân thủ ADA đến phương tiện công cộng | ~55%        | ~80%                           |
+| Chỉ Số                                                                           | Mức Cơ Sở     | Mục Tiêu 3 Năm          |
+| -------------------------------------------------------------------------------- | ------------- | ----------------------- |
+| Số dặm vỉa hè bị thiếu trong các khu dân cư mục tiêu                             | ~50 dặm       | Giảm 25-35 dặm (50-70%) |
+| Đường dốc lên vỉa hè tuân thủ ADA trong các khu vực mục tiêu                     | ~40% tuân thủ | ~85% tuân thủ           |
+| Số người chết do tai nạn giao thông trong các khu dân cư mục tiêu                | 12-15/năm     | Giảm 30%                |
+| Số người bị thương nặng do tai nạn giao thông trong các khu dân cư mục tiêu      | ~45/năm       | Giảm 25%                |
+| Cư dân trong vòng 1/4 dặm của tuyến đường tuân thủ ADA đến phương tiện công cộng | ~55%          | ~80%                    |
 
 ## Nguồn Dữ Liệu Chính
 

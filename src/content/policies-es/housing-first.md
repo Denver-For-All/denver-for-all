@@ -110,13 +110,13 @@ Sam Tsemberis en Pathways to Housing (Nueva York) fue pionero en Housing First (
 
 **Costo neto: Negativo.** Housing First (Vivienda Primero) es **más barato** que el sistema actual.
 
-| Categoría de Costo      | Modelo Actual (por persona/año) | Housing First (por persona/año) |
-| ------------------------ | -------------------------------- | -------------------------------- |
-| Refugio de emergencia   | $30 000-50 000                   | $0                               |
-| Visitas a la sala de urgencias | $15 000-25 000                   | $3000-5000                     |
-| Cárcel/policía         | $10 000-20 000                   | $1000-3000                     |
-| Vivienda de apoyo       | $0                               | $15 000-25 000                   |
-| **TOTAL**              | **$55 000-95 000**               | **$19 000-33 000**               |
+| Categoría de Costo             | Modelo Actual (por persona/año) | Housing First (por persona/año) |
+| ------------------------------ | ------------------------------- | ------------------------------- |
+| Refugio de emergencia          | $30 000-50 000                  | $0                              |
+| Visitas a la sala de urgencias | $15 000-25 000                  | $3000-5000                      |
+| Cárcel/policía                 | $10 000-20 000                  | $1000-3000                      |
+| Vivienda de apoyo              | $0                              | $15 000-25 000                  |
+| **TOTAL**                      | **$55 000-95 000**              | **$19 000-33 000**              |
 
 **Ahorro por persona alojada: $36 000-62 000/año.**
 

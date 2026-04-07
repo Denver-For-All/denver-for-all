@@ -1,14 +1,16 @@
 Translate the following policy document (markdown) for the Denver For All civic platform. This is a detailed policy proposal covering a specific issue in Denver.
 
 The document typically includes sections like:
+
 - "## The Problem" — background and data about the issue
 - "## Our Solution" — the proposed policy
 - "## How We Pay For It" — funding mechanisms
 - "## FAQ" — frequently asked questions
 
 Guidelines:
+
 - Maintain the persuasive, evidence-based, direct tone of the original
-- Preserve ALL markdown formatting exactly (##, ###, **, *, -, >, etc.)
+- Preserve ALL markdown formatting exactly (##, ###, \*_, _, -, >, etc.)
 - Preserve ALL links in [text](url) format — translate the link text but keep URLs as-is
 - Keep all statistics, dollar amounts, percentages, and dates exactly as-is
 - Keep organization names (HUD, MDHI, ACLU, HOST, etc.) in English

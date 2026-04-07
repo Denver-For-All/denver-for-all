@@ -17,12 +17,12 @@ Denver actualmente **no tiene impuesto a la vivienda vacía ni sanción por prop
 Un impuesto sobre las propiedades residenciales que permanecen vacías durante más de 6 meses en un año calendario, que aumenta con el tiempo:
 
 | Año Vacante | Tasa de Impuesto (% del valor tasado) |
-| ----------- | ------------------------------ |
-| Año 1      | 1%                             |
-| Año 2      | 2%                             |
-| Año 3      | 3%                             |
-| Año 4      | 4%                             |
-| Año 5+     | 5%                             |
+| ----------- | ------------------------------------- |
+| Año 1       | 1%                                    |
+| Año 2       | 2%                                    |
+| Año 3       | 3%                                    |
+| Año 4       | 4%                                    |
+| Año 5+      | 5%                                    |
 
 **En una casa tasada en $500,000:**
 
@@ -54,13 +54,13 @@ Esto hace que la especulación sea cada vez más cara, al tiempo que les da a lo
 
 ### Evidencia Internacional: Los Impuestos a la Vivienda Vacía Funcionan
 
-| Ciudad/País              | Modelo                                                                        | Resultado                                                                                                                                        |
-| ------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Vancouver, Canadá**     | Impuesto a la Vivienda Vacía del 1% (2017), aumentado al 3% (2021).                           | La tasa de vivienda vacía se redujo un 25% en el primer año. Generó más de $170 millones CAD en ingresos acumulados (2017-2023). Miles de unidades regresaron al mercado de alquiler. |
-| **Melbourne, Australia**  | Impuesto sobre Terrenos Residenciales Vacantes del 1% en propiedades vacantes durante más de 6 meses.               | Ingresos dedicados a la vivienda asequible. Las propiedades vacantes disminuyeron de manera medible.                                                              |
-| **París, Francia**         | _Taxe sur les logements vacants_ - impuesto progresivo sobre viviendas vacantes durante más de 1 año. | Las viviendas vacías en París disminuyeron. Los ingresos financian la construcción de vivienda social.                                                                      |
-| **Reino Unido (varios concejos)** | Recargo del impuesto municipal de hasta el 300% en propiedades vacías a largo plazo.           | Miles de casas vacías se volvieron a utilizar.                                                                                               |
-| **Washington, DC**        | Impuesto a la propiedad vacante a 5 veces la tasa estándar.                                 | Una de las tasas de impuesto a la vivienda vacía más altas de los EE. UU. Desalienta la especulación y la acumulación de tierras.                                                     |
+| Ciudad/País                       | Modelo                                                                                                | Resultado                                                                                                                                                                             |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vancouver, Canadá**             | Impuesto a la Vivienda Vacía del 1% (2017), aumentado al 3% (2021).                                   | La tasa de vivienda vacía se redujo un 25% en el primer año. Generó más de $170 millones CAD en ingresos acumulados (2017-2023). Miles de unidades regresaron al mercado de alquiler. |
+| **Melbourne, Australia**          | Impuesto sobre Terrenos Residenciales Vacantes del 1% en propiedades vacantes durante más de 6 meses. | Ingresos dedicados a la vivienda asequible. Las propiedades vacantes disminuyeron de manera medible.                                                                                  |
+| **París, Francia**                | _Taxe sur les logements vacants_ - impuesto progresivo sobre viviendas vacantes durante más de 1 año. | Las viviendas vacías en París disminuyeron. Los ingresos financian la construcción de vivienda social.                                                                                |
+| **Reino Unido (varios concejos)** | Recargo del impuesto municipal de hasta el 300% en propiedades vacías a largo plazo.                  | Miles de casas vacías se volvieron a utilizar.                                                                                                                                        |
+| **Washington, DC**                | Impuesto a la propiedad vacante a 5 veces la tasa estándar.                                           | Una de las tasas de impuesto a la vivienda vacía más altas de los EE. UU. Desalienta la especulación y la acumulación de tierras.                                                     |
 
 **El patrón es claro:** las ciudades que gravan las propiedades vacantes constantemente ven disminuir las viviendas vacías y aumentar la oferta de vivienda. Es una de las herramientas de política de vivienda más simples y probadas disponibles.
 

@@ -43,7 +43,7 @@ relatedLegislation:
 
 Denver's city elections are broken in a specific, fixable way. Here is how they currently work:
 
-In a competitive race with three or more candidates, if no one gets more than 50% of the vote in May, the top two candidates advance to a runoff election in July. That runoff is expensive, poorly attended, and often produces a winner who a majority of voters in the May election voted *against*.
+In a competitive race with three or more candidates, if no one gets more than 50% of the vote in May, the top two candidates advance to a runoff election in July. That runoff is expensive, poorly attended, and often produces a winner who a majority of voters in the May election voted _against_.
 
 This is not a bug in the system. This is the system. And it has predictable effects:
 
@@ -66,6 +66,7 @@ The question is not whether voters preferred Johnston or Brough. The question is
 Amend the Denver City Charter to replace the current primary-plus-runoff system with **ranked choice voting (RCV)** for all Denver City Council and mayoral elections.
 
 Under RCV:
+
 - Voters rank candidates in order of preference: 1st choice, 2nd choice, 3rd choice, and so on.
 - If no candidate receives a majority of first-choice votes, the last-place candidate is eliminated. Voters who ranked that candidate first have their votes transferred to their second choice.
 - This process repeats — round by round — until one candidate holds a majority of the remaining active votes.
@@ -83,6 +84,7 @@ Denver currently operates an opt-in registration system. Roughly 30% of eligible
 ### 3. Expand Early Voting and Vote Centers
 
 Denver has made progress on mail ballots — Colorado's all-mail ballot system is one of the best in the country — but in-person early voting options remain limited. Expand:
+
 - **Vote center hours:** 10-day early voting period for all city elections, with centers open evenings and weekends.
 - **Vote center locations:** At least one vote center per City Council district, plus additional centers at high-traffic community locations (libraries, community centers, transit hubs).
 - **Same-day registration** at all vote centers.
@@ -90,6 +92,7 @@ Denver has made progress on mail ballots — Colorado's all-mail ballot system i
 ### 4. Nonpartisan, Independent Redistricting
 
 Denver's City Council districts are drawn by the City Council itself — an obvious conflict of interest. Adopt an **independent redistricting commission** model:
+
 - 11 members: 4 appointed by Democrats, 4 by Republicans, 3 selected by the first 8.
 - Criteria: population equality, Voting Rights Act compliance, geographic compactness, and — explicitly last — incumbent or party advantage.
 - Open hearings in each district before maps are adopted.
@@ -98,6 +101,7 @@ Denver's City Council districts are drawn by the City Council itself — an obvi
 ### 5. Publicly Financed Small-Dollar Matching
 
 Create a **small-dollar matching program** for Denver city elections:
+
 - For each dollar donated by a Denver resident (up to $50 per donor), the public matching fund contributes $6.
 - This amplifies the voice of small donors — the constituents candidates actually represent — relative to large institutional donors.
 - Participation is voluntary but candidates who accept public matching funds agree to lower overall contribution limits and spending caps.
@@ -108,13 +112,13 @@ This is modeled on New York City's 6:1 matching program, which produced a dramat
 
 ### RCV Outcomes in Practice
 
-| Jurisdiction | Adoption | Key Outcome |
-|---|---|---|
-| **Alaska** (statewide, 2022) | Statewide RCV for federal and state offices | Democrat Mary Peltola won the 2022 congressional special election over two Republican candidates — demonstrating the system elects the candidate with broadest support, regardless of party |
-| **New York City** (2021) | Citywide RCV for primaries | 70% of voters reported it was easy to use; more diverse slate of candidates ran; the Democratic mayoral primary resolved without a runoff |
-| **Minneapolis** (2009–present) | RCV for all city elections | Eliminated costly runoffs; increased candidate diversity; consistently high voter satisfaction in post-election surveys |
-| **Maine** (2016–present) | RCV for federal elections | Upheld by courts; voters strongly supported it in retention vote; produced clear majority winners in close multi-candidate races |
-| **San Francisco** (2004–present) | RCV for city offices | Saved the city an estimated $10–15M in runoff costs over 15 years; produced more diverse winning candidates |
+| Jurisdiction                     | Adoption                                    | Key Outcome                                                                                                                                                                                 |
+| -------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alaska** (statewide, 2022)     | Statewide RCV for federal and state offices | Democrat Mary Peltola won the 2022 congressional special election over two Republican candidates — demonstrating the system elects the candidate with broadest support, regardless of party |
+| **New York City** (2021)         | Citywide RCV for primaries                  | 70% of voters reported it was easy to use; more diverse slate of candidates ran; the Democratic mayoral primary resolved without a runoff                                                   |
+| **Minneapolis** (2009–present)   | RCV for all city elections                  | Eliminated costly runoffs; increased candidate diversity; consistently high voter satisfaction in post-election surveys                                                                     |
+| **Maine** (2016–present)         | RCV for federal elections                   | Upheld by courts; voters strongly supported it in retention vote; produced clear majority winners in close multi-candidate races                                                            |
+| **San Francisco** (2004–present) | RCV for city offices                        | Saved the city an estimated $10–15M in runoff costs over 15 years; produced more diverse winning candidates                                                                                 |
 
 ### Research on RCV Effects
 
@@ -149,12 +153,12 @@ Most RCV implementations allow voters to rank up to 5–10 candidates; you don't
 
 RCV is a cost-saving measure, not a cost:
 
-| Item | Annual Impact |
-|---|---|
-| Eliminate July runoff elections | Save ~$2M per election cycle |
-| Small-dollar matching fund | ~$3–5M per election cycle (new spending) |
+| Item                                 | Annual Impact                                   |
+| ------------------------------------ | ----------------------------------------------- |
+| Eliminate July runoff elections      | Save ~$2M per election cycle                    |
+| Small-dollar matching fund           | ~$3–5M per election cycle (new spending)        |
 | Independent redistricting commission | ~$500K per redistricting cycle (every 10 years) |
-| Net over a 4-year council term | Approximately cost-neutral to slight savings |
+| Net over a 4-year council term       | Approximately cost-neutral to slight savings    |
 
 The small-dollar matching fund requires new spending, but it is offset by runoff savings and produces substantial democratic value: more candidates, more small donors, and elected officials less dependent on large institutional donors.
 
@@ -162,11 +166,11 @@ The matching fund can be capitalized through a transfer from the city's general 
 
 ## References
 
-- Coll, J. et al. *Ranked Choice Voting and Representation.* MIT Election Data and Science Lab, 2022.
-- Colorado General Assembly. HB24-1190, *Ranked Choice Voting — Municipal Elections Authorization.* 2024.
-- Denver Elections Division. *Historical Turnout and Cost Data.* 2023.
-- Donovan, T. et al. *Campaign Civility Under Preferential and Plurality Voting.* Electoral Studies, 2016.
-- FairVote. *Ranked Choice Voting in Practice.* 2025.
-- FairVote. *Voter Satisfaction Evidence.* 2024.
-- New York City Campaign Finance Board. *Small-Dollar Matching Program Impact Report.* 2022.
-- Colorado Secretary of State. *Voter Registration Statistics.* 2024.
+- Coll, J. et al. _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab, 2022.
+- Colorado General Assembly. HB24-1190, _Ranked Choice Voting — Municipal Elections Authorization._ 2024.
+- Denver Elections Division. _Historical Turnout and Cost Data._ 2023.
+- Donovan, T. et al. _Campaign Civility Under Preferential and Plurality Voting._ Electoral Studies, 2016.
+- FairVote. _Ranked Choice Voting in Practice._ 2025.
+- FairVote. _Voter Satisfaction Evidence._ 2024.
+- New York City Campaign Finance Board. _Small-Dollar Matching Program Impact Report._ 2022.
+- Colorado Secretary of State. _Voter Registration Statistics._ 2024.

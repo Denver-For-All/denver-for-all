@@ -36,11 +36,11 @@ Comcast và CenturyLink/Lumen là những đối thủ chính. Họ đã chi $15
 
 **Giá cả:**
 
-| Gói         | Tốc độ   | Giá                      |
-| ----------- | -------- | ------------------------ |
-| Cơ bản     | 100 Mbps | $15/tháng                |
-| Tiêu chuẩn | 500 Mbps | $25/tháng                |
-| Gigabit    | 1 Gbps   | $30/tháng                |
+| Gói           | Tốc độ   | Giá                              |
+| ------------- | -------- | -------------------------------- |
+| Cơ bản        | 100 Mbps | $15/tháng                        |
+| Tiêu chuẩn    | 500 Mbps | $25/tháng                        |
+| Gigabit       | 1 Gbps   | $30/tháng                        |
 | Thu nhập thấp | 100 Mbps | Miễn phí (đủ điều kiện thu nhập) |
 
 So sánh với Comcast: $80-120/tháng cho tốc độ tương đương với giới hạn dữ liệu và tăng giá hàng năm.
@@ -63,14 +63,14 @@ So sánh với Comcast: $80-120/tháng cho tốc độ tương đương với gi
 
 ### Bằng Chứng Quốc Tế: Internet Công Cộng Là Bình Thường
 
-| Quốc gia/Thành phố   | Mô hình                                                                             | Tốc độ                       | Giá           | Kết quả                                                                                                               |
-| --------------------- | ----------------------------------------------------------------------------------- | --------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Hàn Quốc**          | Đầu tư cơ sở hạ tầng băng thông rộng do chính phủ dẫn đầu.                               | 1 Gbps+ tiêu chuẩn           | ~$30/tháng     | Internet nhanh nhất thế giới. Độ phủ 98%.                                                                           |
-| **Romania**           | Các ISP địa phương nhỏ xây dựng cáp quang với quy định tối thiểu.                         | 1 Gbps tiêu chuẩn            | ~$10/tháng     | Nhanh hơn và rẻ hơn băng thông rộng của Hoa Kỳ với 1/4 GDP trên đầu người. Bằng chứng cho thấy cạnh tranh làm giảm giá. |
-| **Phần Lan**          | Quyền hợp pháp để truy cập băng thông rộng (2010). Chính phủ đầu tư vào các khu vực chưa được phục vụ. | Tối thiểu 100 Mbps được đảm bảo | Thay đổi      | Băng thông rộng được tuyên bố là một quyền hợp pháp. Khả năng truy cập phổ cập bất kể địa điểm hoặc thu nhập.                   |
-| **Chattanooga, TN** | EPB Fiber thuộc sở hữu thành phố. Gigabit đầu tiên ở Tây bán cầu (2010).                  | 10 Gbps có sẵn            | $68/tháng gig | Có lợi nhuận. Thu hút các doanh nghiệp công nghệ. Động cơ phát triển kinh tế.                                           |
-| **Longmont, CO**      | Băng thông rộng đô thị NextLight. Cách Denver 30 dặm.                               | 1 Gbps                      | $50/tháng     | Có lợi nhuận trong vòng 5 năm. Mức độ hài lòng của khách hàng trên 90%. Bằng chứng về tính khả thi ngay tại sân sau của Denver.    |
-| **Fort Collins, CO** | Băng thông rộng đô thị Connexion.                                                     | 1 Gbps                      | $60/tháng     | Đang trên đà đạt được lợi nhuận. Cư dân đã bỏ phiếu 57% ủng hộ mặc dù chiến dịch phản đối trị giá $150 triệu do Comcast tài trợ.  |
+| Quốc gia/Thành phố   | Mô hình                                                                                                | Tốc độ                          | Giá           | Kết quả                                                                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Hàn Quốc**         | Đầu tư cơ sở hạ tầng băng thông rộng do chính phủ dẫn đầu.                                             | 1 Gbps+ tiêu chuẩn              | ~$30/tháng    | Internet nhanh nhất thế giới. Độ phủ 98%.                                                                                        |
+| **Romania**          | Các ISP địa phương nhỏ xây dựng cáp quang với quy định tối thiểu.                                      | 1 Gbps tiêu chuẩn               | ~$10/tháng    | Nhanh hơn và rẻ hơn băng thông rộng của Hoa Kỳ với 1/4 GDP trên đầu người. Bằng chứng cho thấy cạnh tranh làm giảm giá.          |
+| **Phần Lan**         | Quyền hợp pháp để truy cập băng thông rộng (2010). Chính phủ đầu tư vào các khu vực chưa được phục vụ. | Tối thiểu 100 Mbps được đảm bảo | Thay đổi      | Băng thông rộng được tuyên bố là một quyền hợp pháp. Khả năng truy cập phổ cập bất kể địa điểm hoặc thu nhập.                    |
+| **Chattanooga, TN**  | EPB Fiber thuộc sở hữu thành phố. Gigabit đầu tiên ở Tây bán cầu (2010).                               | 10 Gbps có sẵn                  | $68/tháng gig | Có lợi nhuận. Thu hút các doanh nghiệp công nghệ. Động cơ phát triển kinh tế.                                                    |
+| **Longmont, CO**     | Băng thông rộng đô thị NextLight. Cách Denver 30 dặm.                                                  | 1 Gbps                          | $50/tháng     | Có lợi nhuận trong vòng 5 năm. Mức độ hài lòng của khách hàng trên 90%. Bằng chứng về tính khả thi ngay tại sân sau của Denver.  |
+| **Fort Collins, CO** | Băng thông rộng đô thị Connexion.                                                                      | 1 Gbps                          | $60/tháng     | Đang trên đà đạt được lợi nhuận. Cư dân đã bỏ phiếu 57% ủng hộ mặc dù chiến dịch phản đối trị giá $150 triệu do Comcast tài trợ. |
 
 **Hoa Kỳ trả nhiều tiền hơn cho dịch vụ internet tệ hơn so với hầu hết các nước phát triển** vì chúng ta để các tập đoàn độc quyền kiểm soát cơ sở hạ tầng. Băng thông rộng do thành phố quản lý phá vỡ thế độc quyền, và bằng chứng từ các thành phố đã thực hiện điều đó cho thấy tốc độ tốt hơn, giá thấp hơn và lợi ích cộng đồng (Viện Tự lực Địa phương, cơ sở dữ liệu Mạng lưới Băng thông rộng Cộng đồng, 2025).
 

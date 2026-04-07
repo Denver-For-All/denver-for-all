@@ -91,7 +91,7 @@ for (const lang of langs) {
     const destDir = join(SRC, 'content', `policies-${lang}`);
     mkdirSync(destDir, { recursive: true });
 
-    const files = readdirSync(policyBodiesDir).filter(f => f.endsWith('.md'));
+    const files = readdirSync(policyBodiesDir).filter((f) => f.endsWith('.md'));
     for (const file of files) {
       const content = readFileSync(join(policyBodiesDir, file), 'utf8');
       // Wrap in empty frontmatter (matching policies-es pattern)
@@ -120,9 +120,11 @@ for (const lang of langs) {
   // 5. Grant Bodies — informational
   const grantBodiesDir = join(langDir, 'grant-bodies');
   if (existsSync(grantBodiesDir)) {
-    const files = readdirSync(grantBodiesDir).filter(f => f.endsWith('.md'));
+    const files = readdirSync(grantBodiesDir).filter((f) => f.endsWith('.md'));
     if (files.length > 0) {
-      console.log(`  ℹ Grant bodies: ${files.length} translated grants available in ${rel(grantBodiesDir)}/`);
+      console.log(
+        `  ℹ Grant bodies: ${files.length} translated grants available in ${rel(grantBodiesDir)}/`,
+      );
       console.log(`    (Grant translation is optional — these are technical government documents)`);
     }
   }

@@ -20,9 +20,7 @@ if (!existsSync(INCOMING)) {
   process.exit(0);
 }
 
-const langs = readdirSync(INCOMING).filter(
-  (f) => f !== '.gitkeep' && !f.startsWith('.')
-);
+const langs = readdirSync(INCOMING).filter((f) => f !== '.gitkeep' && !f.startsWith('.'));
 
 if (langs.length === 0) {
   process.exit(0);
@@ -35,7 +33,7 @@ try {
   execFileSync(
     process.execPath,
     [join(ROOT, 'scripts/translate/hydrate.js'), '--source', 'translations/incoming'],
-    { stdio: 'inherit', cwd: ROOT }
+    { stdio: 'inherit', cwd: ROOT },
   );
 } catch (err) {
   console.error('Translation hydration failed:', err.message);

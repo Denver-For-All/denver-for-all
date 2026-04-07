@@ -70,13 +70,13 @@ Dado que la ley laboral federal anula algunas regulaciones del lugar de trabajo,
 
 ## La Evidencia: Esto Funciona
 
-| País            | Modelo                                                                 | Cobertura      | Resultado                                                                                  |
-| ----------------- | --------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------- |
-| **Alemania**        | Consejos de empresa obligatorios (más de 5 empleados), cogestión del consejo (más de 500) | Más de 40 millones de trabajadores | Mayor productividad, menor rotación, 12% menos desigualdad (Gini) que EE. UU.                     |
-| **Austria**         | Consejos de empresa en todas las empresas con más de 5 empleados                         | Integral        | Una de las tasas de huelga más bajas de Europa, porque las disputas se resuelven internamente |
-| **Países Bajos** | Consejos de empresa en empresas con más de 50 empleados                            | Amplia cobertura  | Los trabajadores informan la mayor satisfacción laboral en Europa                                     |
-| **Suecia**          | Representación en el consejo en todas las empresas con más de 25 empleados              | Universal       | La economía más competitiva del mundo según el Foro Económico Mundial                               |
-| **Dinamarca**       | Representación en el consejo en empresas con más de 35 empleados                  | Universal       | El modelo de "flexiguridad" combina la voz de los trabajadores con el dinamismo económico                      |
+| País             | Modelo                                                                                    | Cobertura                          | Resultado                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Alemania**     | Consejos de empresa obligatorios (más de 5 empleados), cogestión del consejo (más de 500) | Más de 40 millones de trabajadores | Mayor productividad, menor rotación, 12% menos desigualdad (Gini) que EE. UU.                 |
+| **Austria**      | Consejos de empresa en todas las empresas con más de 5 empleados                          | Integral                           | Una de las tasas de huelga más bajas de Europa, porque las disputas se resuelven internamente |
+| **Países Bajos** | Consejos de empresa en empresas con más de 50 empleados                                   | Amplia cobertura                   | Los trabajadores informan la mayor satisfacción laboral en Europa                             |
+| **Suecia**       | Representación en el consejo en todas las empresas con más de 25 empleados                | Universal                          | La economía más competitiva del mundo según el Foro Económico Mundial                         |
+| **Dinamarca**    | Representación en el consejo en empresas con más de 35 empleados                          | Universal                          | El modelo de "flexiguridad" combina la voz de los trabajadores con el dinamismo económico     |
 
 **La idea central:** Los países donde los trabajadores tienen poder estructural en el lugar de trabajo son MÁS RICOS, no más pobres. Tienen economías más fuertes, menor desigualdad, mayor innovación y mejor calidad de vida. La voz de los trabajadores no es un coste, es una ventaja competitiva.
 

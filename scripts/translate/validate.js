@@ -39,7 +39,9 @@ console.log('══════════════════════�
 const enUI = JSON.parse(readFileSync(join(EXTRACTED, 'ui-strings.json'), 'utf8'));
 const enMeta = JSON.parse(readFileSync(join(EXTRACTED, 'page-meta.json'), 'utf8'));
 const enFM = JSON.parse(readFileSync(join(EXTRACTED, 'policy-frontmatter.json'), 'utf8'));
-const enPolicyFiles = readdirSync(join(EXTRACTED, 'policy-bodies')).filter(f => f.endsWith('.md'));
+const enPolicyFiles = readdirSync(join(EXTRACTED, 'policy-bodies')).filter((f) =>
+  f.endsWith('.md'),
+);
 
 for (const lang of langs) {
   const langDir = join(OUTPUT, lang);
@@ -63,7 +65,11 @@ for (const lang of langs) {
       }
       const identical = findIdenticalValues(enUI, translated);
       if (identical.length > 0) {
-        warn(lang, 'ui-strings', `Possibly untranslated (identical to English): ${identical.join(', ')}`);
+        warn(
+          lang,
+          'ui-strings',
+          `Possibly untranslated (identical to English): ${identical.join(', ')}`,
+        );
       }
       console.log(`  ✓ ui-strings.json: ${countKeys(translated)} keys validated`);
     } catch (err) {
@@ -78,7 +84,7 @@ for (const lang of langs) {
   } else {
     try {
       const translated = JSON.parse(readFileSync(metaFile, 'utf8'));
-      const missingPages = Object.keys(enMeta).filter(k => !translated[k]);
+      const missingPages = Object.keys(enMeta).filter((k) => !translated[k]);
       if (missingPages.length > 0) {
         warn(lang, 'page-meta', `Missing pages: ${missingPages.join(', ')}`);
       }
@@ -95,7 +101,7 @@ for (const lang of langs) {
   } else {
     try {
       const translated = JSON.parse(readFileSync(fmFile, 'utf8'));
-      const missingSlugs = Object.keys(enFM).filter(k => !translated[k]);
+      const missingSlugs = Object.keys(enFM).filter((k) => !translated[k]);
       if (missingSlugs.length > 0) {
         warn(lang, 'policy-frontmatter', `Missing policies: ${missingSlugs.join(', ')}`);
       }
@@ -108,7 +114,9 @@ for (const lang of langs) {
           warn(lang, 'policy-frontmatter', `Empty summary for ${slug}`);
         }
       }
-      console.log(`  ✓ policy-frontmatter.json: ${Object.keys(translated).length} policies validated`);
+      console.log(
+        `  ✓ policy-frontmatter.json: ${Object.keys(translated).length} policies validated`,
+      );
     } catch (err) {
       warn(lang, 'policy-frontmatter', `Invalid JSON: ${err.message}`);
     }
@@ -119,8 +127,8 @@ for (const lang of langs) {
   if (!existsSync(bodiesDir)) {
     warn(lang, 'policy-bodies', 'Directory missing');
   } else {
-    const translatedFiles = readdirSync(bodiesDir).filter(f => f.endsWith('.md'));
-    const missingFiles = enPolicyFiles.filter(f => !translatedFiles.includes(f));
+    const translatedFiles = readdirSync(bodiesDir).filter((f) => f.endsWith('.md'));
+    const missingFiles = enPolicyFiles.filter((f) => !translatedFiles.includes(f));
     if (missingFiles.length > 0) {
       warn(lang, 'policy-bodies', `Missing files: ${missingFiles.join(', ')}`);
     }

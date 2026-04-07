@@ -120,13 +120,13 @@ Denver se enfrenta a una crisis de falta de vivienda grave y creciente que el si
 
 ### E. Cronograma del Proyecto
 
-| Fase                         | Cronograma    | Hitos Clave                                                                                                    |
-| ---------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------- |
-| **Planificación y Adquisición** | Meses 1-6   | Ejecutar acuerdos de subreceptores, finalizar la selección del sitio, contratar personal del programa, lanzar actualizaciones coordinadas de entrada |
-| **Adquisición y Conversión**  | Meses 4-14  | Adquirir propiedades, completar renovaciones, obtener certificados de ocupación, comenzar el arrendamiento de PSH          |
-| **Operaciones Completas — Año 1** | Meses 7-18  | 150 unidades de PSH ocupadas, 200 hogares de RRH atendidos, servicios integrales totalmente operativos                     |
-| **Operaciones Completas — Año 2** | Meses 13-30 | Todas las 300 unidades de PSH ocupadas, segunda cohorte de 200 hogares de RRH, evaluación de mitad de período completa                |
-| **Estabilización y Cierre**    | Meses 28-36 | Transición a flujos de financiación sostenibles, evaluación final, planificación de la continuación del programa                     |
+| Fase                              | Cronograma  | Hitos Clave                                                                                                                                          |
+| --------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planificación y Adquisición**   | Meses 1-6   | Ejecutar acuerdos de subreceptores, finalizar la selección del sitio, contratar personal del programa, lanzar actualizaciones coordinadas de entrada |
+| **Adquisición y Conversión**      | Meses 4-14  | Adquirir propiedades, completar renovaciones, obtener certificados de ocupación, comenzar el arrendamiento de PSH                                    |
+| **Operaciones Completas — Año 1** | Meses 7-18  | 150 unidades de PSH ocupadas, 200 hogares de RRH atendidos, servicios integrales totalmente operativos                                               |
+| **Operaciones Completas — Año 2** | Meses 13-30 | Todas las 300 unidades de PSH ocupadas, segunda cohorte de 200 hogares de RRH, evaluación de mitad de período completa                               |
+| **Estabilización y Cierre**       | Meses 28-36 | Transición a flujos de financiación sostenibles, evaluación final, planificación de la continuación del programa                                     |
 
 ### F. Alineación con los Objetivos del Programa CoC de HUD
 
@@ -153,32 +153,32 @@ La inversión federal solicitada de $17 millones complementa la infraestructura 
 
 ## Resumen del Presupuesto
 
-| Categoría                                                               | Monto           | % del Total |
-| ---------------------------------------------------------------------- | --------------- | ---------- |
-| Adquisición y Conversión de PSH (300 unidades)                            | $8,000,000      | 47%        |
-| Servicios de Reubicación Rápida e Incentivos para Propietarios (200 hogares/año) | $4,000,000      | 24%        |
-| Servicios Integrales (manejo de casos, salud conductual, empleo)          | $3,000,000      | 17%        |
-| Entrada Coordinada e Infraestructura de Datos                               | $1,000,000      | 6%         |
-| Evaluación del Programa                                                    | $1,000,000      | 6%         |
-| **Solicitud Federal Total**                                               | **$17,000,000** | **100%**   |
-| Contrapartida Local (HOST, Autoridad de Vivienda Social, filantrópica)   | $4,250,000      | —          |
-| **Inversión Total del Proyecto**                                          | **$21,250,000** | —          |
+| Categoría                                                                        | Monto           | % del Total |
+| -------------------------------------------------------------------------------- | --------------- | ----------- |
+| Adquisición y Conversión de PSH (300 unidades)                                   | $8,000,000      | 47%         |
+| Servicios de Reubicación Rápida e Incentivos para Propietarios (200 hogares/año) | $4,000,000      | 24%         |
+| Servicios Integrales (manejo de casos, salud conductual, empleo)                 | $3,000,000      | 17%         |
+| Entrada Coordinada e Infraestructura de Datos                                    | $1,000,000      | 6%          |
+| Evaluación del Programa                                                          | $1,000,000      | 6%          |
+| **Solicitud Federal Total**                                                      | **$17,000,000** | **100%**    |
+| Contrapartida Local (HOST, Autoridad de Vivienda Social, filantrópica)           | $4,250,000      | —           |
+| **Inversión Total del Proyecto**                                                 | **$21,250,000** | —           |
 
 _Nota: El programa CoC de HUD requiere una contrapartida mínima del 25% para la mayoría de los tipos de proyectos. La contrapartida local de $4.25 millones representa una contrapartida del 25% con respecto a la solicitud federal, proveniente de los fondos operativos de HOST, los compromisos de capital de la Autoridad de Vivienda Social y las contribuciones filantrópicas._
 
 ## Resultados Esperados
 
-| Métrica                                                   | Línea de Base               | Objetivo a 3 Años                               |
-| --------------------------------------------------------- | ------------------------- | --------------------------------------------- |
-| Nuevas unidades de PSH operativas                            | ~1,300 en total en Denver | +300 unidades (aumento del 23%)                |
-| Hogares atendidos a través de la reubicación rápida          | Capacidad actual          | +200 hogares/año (600 en total en 3 años)     |
-| Tasa de retención de vivienda (PSH, 12 meses)               | Varía según el proveedor   | 85%+                                          |
-| Regreso a la falta de vivienda (dentro de los 12 meses de la colocación) | ~20-25%                   | <10%                                          |
-| Visitas a la sala de emergencias entre los participantes de PSH | ~8-12 visitas/persona/año | Reducción del 50%                             |
-| Reservas en la cárcel entre los participantes de PSH         | ~4-6 reservas/persona/año | Reducción del 60%                             |
-| Costo anual por persona (PSH vs. sistema de emergencia)      | $40,000-$80,000           | $15,000-$25,000                               |
-| Ahorro público neto por persona por año                    | $0 (sistema actual)       | $36,000-$62,000                               |
-| Tiempo de evaluación a colocación de la entrada coordinada    | 12+ meses                | <6 meses                                     |
+| Métrica                                                                  | Línea de Base             | Objetivo a 3 Años                         |
+| ------------------------------------------------------------------------ | ------------------------- | ----------------------------------------- |
+| Nuevas unidades de PSH operativas                                        | ~1,300 en total en Denver | +300 unidades (aumento del 23%)           |
+| Hogares atendidos a través de la reubicación rápida                      | Capacidad actual          | +200 hogares/año (600 en total en 3 años) |
+| Tasa de retención de vivienda (PSH, 12 meses)                            | Varía según el proveedor  | 85%+                                      |
+| Regreso a la falta de vivienda (dentro de los 12 meses de la colocación) | ~20-25%                   | <10%                                      |
+| Visitas a la sala de emergencias entre los participantes de PSH          | ~8-12 visitas/persona/año | Reducción del 50%                         |
+| Reservas en la cárcel entre los participantes de PSH                     | ~4-6 reservas/persona/año | Reducción del 60%                         |
+| Costo anual por persona (PSH vs. sistema de emergencia)                  | $40,000-$80,000           | $15,000-$25,000                           |
+| Ahorro público neto por persona por año                                  | $0 (sistema actual)       | $36,000-$62,000                           |
+| Tiempo de evaluación a colocación de la entrada coordinada               | 12+ meses                 | <6 meses                                  |
 
 ## Fuentes de Datos Clave
 

@@ -107,13 +107,13 @@ Sam Tsemberis tại Pathways to Housing (New York) đã đi tiên phong trong Ho
 
 **Chi phí ròng: Âm.** Housing First **rẻ hơn** so với hệ thống hiện tại.
 
-| Loại Chi Phí      | Mô Hình Hiện Tại (mỗi người/năm) | Housing First (mỗi người/năm) |
-| ------------------ | ------------------------------- | ------------------------------- |
-| Khu tạm trú khẩn cấp  | $30.000-50.000                  | $0                              |
-| Thăm phòng cấp cứu          | $15.000-25.000                  | $3.000-5.000                    |
-| Nhà tù/cảnh sát        | $10.000-20.000                  | $1.000-3.000                    |
-| Nhà ở hỗ trợ | $0                              | $15.000-25.000                  |
-| **TỔNG CỘNG**          | **$55.000-95.000**              | **$19.000-33.000**              |
+| Loại Chi Phí         | Mô Hình Hiện Tại (mỗi người/năm) | Housing First (mỗi người/năm) |
+| -------------------- | -------------------------------- | ----------------------------- |
+| Khu tạm trú khẩn cấp | $30.000-50.000                   | $0                            |
+| Thăm phòng cấp cứu   | $15.000-25.000                   | $3.000-5.000                  |
+| Nhà tù/cảnh sát      | $10.000-20.000                   | $1.000-3.000                  |
+| Nhà ở hỗ trợ         | $0                               | $15.000-25.000                |
+| **TỔNG CỘNG**        | **$55.000-95.000**               | **$19.000-33.000**            |
 
 **Tiết kiệm trên mỗi người có nhà ở: $36.000-62.000/năm.**
 

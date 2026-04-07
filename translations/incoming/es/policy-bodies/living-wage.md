@@ -20,11 +20,11 @@ El salario mínimo de Denver es de $18.81/hr a partir de enero de 2025, luego de
 
 **Calendario de Implementación Gradual:**
 
-| Fecha   | Salario Mínimo                             |
-| ----- | --------------------------------------- |
-| 2027  | $21.00/hr                               |
-| 2028  | $23.00/hr                               |
-| 2029  | $25.00/hr                               |
+| Fecha | Salario Mínimo                              |
+| ----- | ------------------------------------------- |
+| 2027  | $21.00/hr                                   |
+| 2028  | $23.00/hr                                   |
+| 2029  | $25.00/hr                                   |
 | 2030+ | Indexado al IPC de Denver (nunca disminuye) |
 
 **Disposiciones Clave:**
@@ -38,14 +38,14 @@ El salario mínimo de Denver es de $18.81/hr a partir de enero de 2025, luego de
 
 ### Contexto Internacional: El Salario Mínimo de Estados Unidos es la Excepción
 
-| País          | Salario Mínimo (equivalente en USD)                                 | Cómo Se Establece                                                              | Resultado                                                                                                                                                           |
-| ------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Australia** | $15.50/hr (23.23 AUD)                                        | La Comisión de Trabajo Justo Independiente revisa anualmente, considera el costo de vida | 30 años sin recesión antes de COVID. No hay desempleo masivo por un salario mínimo alto.                                                                                |
-| **Francia**   | $13.80/hr (SMIC)                                             | Indexado a la inflación automáticamente + aumentos periódicos del gobierno         | Los trabajadores con salarios bajos tienen poder adquisitivo. La industria restaurantera prospera.                                                                               |
-| **Reino Unido** | $14.20/hr (£11.44, Salario Digno Nacional)                    | La Comisión de Salarios Bajos Independiente recomienda, considera datos económicos    | Introducido a $5.50 en 1999. Aumentó constantemente a más de $14 sin efectos negativos detectables en el empleo (estudios de Arindrajit Dube, reconocido internacionalmente). |
-| **Alemania**  | $14.50/hr (€12.41)                                           | La Comisión de Salario Mínimo + los acuerdos sectoriales impulsan mucho más alto          | Introducido en 2015. El empleo AUMENTÓ después de la implementación, contrariamente a todas las predicciones conservadoras.                                                     |
-| **Dinamarca**  | ~$22/hr (sin mínimo legal - establecido por acuerdos sectoriales) | Negociaciones entre sindicatos y empleadores                                       | Los trabajadores de McDonald's ganan $22/hr + 6 semanas de vacaciones. El Big Mac cuesta $0.35 más que en los EE. UU.                                                                  |
-| **EE. UU.**    | **$7.25/hr** (federal, sin cambios desde 2009)                 | Se requiere acción del Congreso (políticamente estancado)                       | **El salario mínimo más bajo en relación con el ingreso medio de cualquier país de la OCDE.** El salario mínimo federal en dólares reales es más bajo hoy que en 1968.                |
+| País            | Salario Mínimo (equivalente en USD)                               | Cómo Se Establece                                                                        | Resultado                                                                                                                                                                     |
+| --------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Australia**   | $15.50/hr (23.23 AUD)                                             | La Comisión de Trabajo Justo Independiente revisa anualmente, considera el costo de vida | 30 años sin recesión antes de COVID. No hay desempleo masivo por un salario mínimo alto.                                                                                      |
+| **Francia**     | $13.80/hr (SMIC)                                                  | Indexado a la inflación automáticamente + aumentos periódicos del gobierno               | Los trabajadores con salarios bajos tienen poder adquisitivo. La industria restaurantera prospera.                                                                            |
+| **Reino Unido** | $14.20/hr (£11.44, Salario Digno Nacional)                        | La Comisión de Salarios Bajos Independiente recomienda, considera datos económicos       | Introducido a $5.50 en 1999. Aumentó constantemente a más de $14 sin efectos negativos detectables en el empleo (estudios de Arindrajit Dube, reconocido internacionalmente). |
+| **Alemania**    | $14.50/hr (€12.41)                                                | La Comisión de Salario Mínimo + los acuerdos sectoriales impulsan mucho más alto         | Introducido en 2015. El empleo AUMENTÓ después de la implementación, contrariamente a todas las predicciones conservadoras.                                                   |
+| **Dinamarca**   | ~$22/hr (sin mínimo legal - establecido por acuerdos sectoriales) | Negociaciones entre sindicatos y empleadores                                             | Los trabajadores de McDonald's ganan $22/hr + 6 semanas de vacaciones. El Big Mac cuesta $0.35 más que en los EE. UU.                                                         |
+| **EE. UU.**     | **$7.25/hr** (federal, sin cambios desde 2009)                    | Se requiere acción del Congreso (políticamente estancado)                                | **El salario mínimo más bajo en relación con el ingreso medio de cualquier país de la OCDE.** El salario mínimo federal en dólares reales es más bajo hoy que en 1968.        |
 
 $25/hr en Denver no es radical, es lo que exige la aritmética básica del costo de vida, y está en línea con lo que ganan los trabajadores en países con economías más fuertes y tasas de pobreza más bajas.
 

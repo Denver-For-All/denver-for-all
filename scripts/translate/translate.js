@@ -84,7 +84,9 @@ if (!API_KEY && !dryRun) {
 
 // Validate filters
 if (langFilter && !LANGUAGES[langFilter]) {
-  console.error(`Error: Unknown language "${langFilter}". Valid: ${Object.keys(LANGUAGES).join(', ')}`);
+  console.error(
+    `Error: Unknown language "${langFilter}". Valid: ${Object.keys(LANGUAGES).join(', ')}`,
+  );
   process.exit(1);
 }
 if (typeFilter && !CONTENT_TYPES.includes(typeFilter)) {
@@ -166,9 +168,7 @@ async function translate(lang, taskType, content) {
     systemInstruction: {
       parts: [{ text: systemPrompt }],
     },
-    contents: [
-      { role: 'user', parts: [{ text: userMessage }] },
-    ],
+    contents: [{ role: 'user', parts: [{ text: userMessage }] }],
     generationConfig: {
       maxOutputTokens: MAX_TOKENS,
     },
@@ -196,7 +196,9 @@ async function translate(lang, taskType, content) {
           : Math.pow(2, attempt + 1) * 1000;
         const jitter = Math.random() * 1000;
         const wait = baseWait + jitter;
-        console.log(`  ⏳ Rate limited/error (${resp.status}), retrying in ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+        console.log(
+          `  ⏳ Rate limited/error (${resp.status}), retrying in ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`,
+        );
         await sleep(wait);
         continue;
       }
@@ -215,7 +217,9 @@ async function translate(lang, taskType, content) {
     } catch (err) {
       if (attempt < MAX_RETRIES - 1) {
         const wait = Math.pow(2, attempt + 1) * 1000 + Math.random() * 1000;
-        console.log(`  ⏳ Error: ${err.message}, retrying in ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`);
+        console.log(
+          `  ⏳ Error: ${err.message}, retrying in ${Math.round(wait / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`,
+        );
         await sleep(wait);
       } else {
         throw err;
@@ -279,7 +283,9 @@ async function translatePolicyFrontmatter(lang) {
       chunk[slug] = policies[slug];
     }
     const chunkJson = JSON.stringify(chunk, null, 2);
-    console.log(`  Translating policy frontmatter batch ${Math.floor(i / CHUNK_SIZE) + 1}/${Math.ceil(slugs.length / CHUNK_SIZE)}...`);
+    console.log(
+      `  Translating policy frontmatter batch ${Math.floor(i / CHUNK_SIZE) + 1}/${Math.ceil(slugs.length / CHUNK_SIZE)}...`,
+    );
     const result = await translate(lang, 'policy-frontmatter', chunkJson);
     calls++;
 
@@ -289,8 +295,13 @@ async function translatePolicyFrontmatter(lang) {
       Object.assign(allTranslated, parsed);
     } catch {
       // If JSON parse fails even after cleaning, save raw and flag
-      console.warn(`  ⚠ Could not parse JSON for batch ${Math.floor(i / CHUNK_SIZE) + 1}. Saving raw output.`);
-      writeFileSync(join(outDir, `policy-frontmatter-batch-${Math.floor(i / CHUNK_SIZE) + 1}-raw.txt`), result);
+      console.warn(
+        `  ⚠ Could not parse JSON for batch ${Math.floor(i / CHUNK_SIZE) + 1}. Saving raw output.`,
+      );
+      writeFileSync(
+        join(outDir, `policy-frontmatter-batch-${Math.floor(i / CHUNK_SIZE) + 1}-raw.txt`),
+        result,
+      );
     }
   }
 
@@ -300,7 +311,7 @@ async function translatePolicyFrontmatter(lang) {
 
 async function translatePolicyBodies(lang) {
   const bodiesDir = join(EXTRACTED, 'policy-bodies');
-  const files = readdirSync(bodiesDir).filter(f => f.endsWith('.md'));
+  const files = readdirSync(bodiesDir).filter((f) => f.endsWith('.md'));
   const outDir = join(OUTPUT, lang, 'policy-bodies');
   mkdirSync(outDir, { recursive: true });
 
@@ -339,7 +350,7 @@ async function translatePolicyBodies(lang) {
 async function translateGrantBodies(lang) {
   const bodiesDir = join(EXTRACTED, 'grant-bodies');
   if (!existsSync(bodiesDir)) return 0;
-  const files = readdirSync(bodiesDir).filter(f => f.endsWith('.md'));
+  const files = readdirSync(bodiesDir).filter((f) => f.endsWith('.md'));
   const outDir = join(OUTPUT, lang, 'grant-bodies');
   mkdirSync(outDir, { recursive: true });
 
@@ -394,7 +405,7 @@ async function main() {
   console.log('  Denver For All — Translation Pipeline');
   console.log('═══════════════════════════════════════════════════════');
   console.log(`  Model:       ${MODEL}`);
-  console.log(`  Languages:   ${langs.map(l => `${l} (${LANGUAGES[l].nativeName})`).join(', ')}`);
+  console.log(`  Languages:   ${langs.map((l) => `${l} (${LANGUAGES[l].nativeName})`).join(', ')}`);
   console.log(`  Types:       ${types.join(', ')}`);
   console.log(`  Concurrency: ${concurrency}`);
   console.log(`  Mode:        ${dryRun ? 'DRY RUN' : 'LIVE'}`);
@@ -444,9 +455,11 @@ async function main() {
 
   if (!dryRun) {
     // Rough cost estimate for Gemini 2.0 Flash ($0.10/MTok input, $0.40/MTok output)
-    const costIn = (inputTokens / 1_000_000) * 0.10;
-    const costOut = (outputTokens / 1_000_000) * 0.40;
-    console.log(`  Est. cost:     $${(costIn + costOut).toFixed(2)} (in: $${costIn.toFixed(2)}, out: $${costOut.toFixed(2)})`);
+    const costIn = (inputTokens / 1_000_000) * 0.1;
+    const costOut = (outputTokens / 1_000_000) * 0.4;
+    console.log(
+      `  Est. cost:     $${(costIn + costOut).toFixed(2)} (in: $${costIn.toFixed(2)}, out: $${costOut.toFixed(2)})`,
+    );
   }
 
   // Write machine-readable summary for CI
@@ -467,7 +480,9 @@ async function main() {
 
   console.log(`\n  Next steps:`);
   console.log(`  1. Review output in ${OUTPUT}/<lang>/`);
-  console.log(`  2. Run: node scripts/translate/hydrate.js to place translations into the codebase`);
+  console.log(
+    `  2. Run: node scripts/translate/hydrate.js to place translations into the codebase`,
+  );
   console.log('═══════════════════════════════════════════════════════');
 
   // In CI, exit non-zero only if ALL translations failed
@@ -484,10 +499,10 @@ function getArg(name) {
 }
 
 function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-main().catch(err => {
+main().catch((err) => {
   console.error('Fatal error:', err);
   process.exit(1);
 });

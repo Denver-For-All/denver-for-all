@@ -46,11 +46,11 @@ Reformar el proceso para que los proyectos que cumplan con los planes adoptados 
 
 ### La Reforma de Zonificación Funciona
 
-| Ciudad / Estudio | Política | Resultado |
-|---|---|---|
-| **Minneapolis, MN** | Eliminó la zonificación exclusiva para viviendas unifamiliares (2019) | Los alquileres cayeron un 11% en relación con ciudades comparables en 2019–2023 (Universidad de Minnesota, 2024) |
-| **Auckland, Nueva Zelanda** | Reclasificó el 75% del suelo residencial (2016) | La construcción casi se triplicó; el crecimiento de los alquileres estuvo significativamente por debajo del promedio nacional (Greenaway-McGrevy y Phillips, 2023) |
-| **Tokio, Japón** | El marco nacional de uso del suelo permite el uso mixto y la densidad en todas partes | Los alquileres se han mantenido aproximadamente estables en términos reales durante 30 años a pesar del enorme crecimiento de la población (Harding, 2022) |
+| Ciudad / Estudio            | Política                                                                              | Resultado                                                                                                                                                          |
+| --------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Minneapolis, MN**         | Eliminó la zonificación exclusiva para viviendas unifamiliares (2019)                 | Los alquileres cayeron un 11% en relación con ciudades comparables en 2019–2023 (Universidad de Minnesota, 2024)                                                   |
+| **Auckland, Nueva Zelanda** | Reclasificó el 75% del suelo residencial (2016)                                       | La construcción casi se triplicó; el crecimiento de los alquileres estuvo significativamente por debajo del promedio nacional (Greenaway-McGrevy y Phillips, 2023) |
+| **Tokio, Japón**            | El marco nacional de uso del suelo permite el uso mixto y la densidad en todas partes | Los alquileres se han mantenido aproximadamente estables en términos reales durante 30 años a pesar del enorme crecimiento de la población (Harding, 2022)         |
 
 ## Contexto Local
 
@@ -83,11 +83,11 @@ Los ahorros son sustanciales: cada nueva unidad a precio de mercado construida s
 
 ## Referencias
 
-- Denver Community Planning and Development. *Blueprint Denver.* 2019.
-- Asamblea General de Colorado. HB23-1255, *Accessory Dwelling Units.* 2023.
-- Asamblea General de Colorado. HB24-1313, *Transit-Oriented Communities.* 2024.
-- Greenaway-McGrevy, R. y Phillips, P. *Housing Affordability in Auckland.* Universidad de Auckland, 2023.
-- Harding, R. *Why Tokyo is the model for housing affordability.* Financial Times, 2022.
-- Mast, E. *JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market.* Journal of Urban Economics, 2021.
-- Universidad de Minnesota. *Minneapolis 2040 — Rent and Housing Supply Outcomes.* 2024.
-- Oficina del Censo de EE. UU., Encuesta sobre la Comunidad Estadounidense. *Denver Housing Tenure Data.* 2023.
+- Denver Community Planning and Development. _Blueprint Denver._ 2019.
+- Asamblea General de Colorado. HB23-1255, _Accessory Dwelling Units._ 2023.
+- Asamblea General de Colorado. HB24-1313, _Transit-Oriented Communities._ 2024.
+- Greenaway-McGrevy, R. y Phillips, P. _Housing Affordability in Auckland._ Universidad de Auckland, 2023.
+- Harding, R. _Why Tokyo is the model for housing affordability._ Financial Times, 2022.
+- Mast, E. _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics, 2021.
+- Universidad de Minnesota. _Minneapolis 2040 — Rent and Housing Supply Outcomes._ 2024.
+- Oficina del Censo de EE. UU., Encuesta sobre la Comunidad Estadounidense. _Denver Housing Tenure Data._ 2023.

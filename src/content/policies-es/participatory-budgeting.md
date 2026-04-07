@@ -58,13 +58,13 @@ Adaptado del modelo de Asamblea Ciudadana de Irlanda, que resolvió los problema
 
 ### Presupuestación Participativa
 
-| Ciudad                     | Escala                                                      | Resultado                                                                                                                                 |
-| ------------------------ | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Porto Alegre, Brasil** | Pionera en PB en 1989, más de 50,000 participantes/año   | La mortalidad infantil se redujo en un 50%. El acceso al agua alcanzó el 98%. Mejoras drásticas en los barrios de bajos ingresos. Se convirtió en un modelo para el mundo. |
-| **París, Francia**        | 500 millones de euros asignados a través de PB (2014-2020), 5% del presupuesto total | Más de 300 proyectos completados. El 10% de los residentes participan anualmente. Los proyectos incluyen parques, carriles bici, espacios verdes, huertos comunitarios.   |
-| **Helsinki, Finlandia**    | Presupuesto de PB de 8.8 millones de euros (creciendo anualmente)                         | Alta participación, propuestas innovadoras, mayor confianza en el gobierno                                                                |
-| **Nueva York, EE. UU.**        | El programa de PB más grande de EE. UU. Más de $40 millones al año en más de 30 distritos. | Más de 100,000 residentes participan. Proyectos en todos los distritos. La participación de los jóvenes es especialmente alta.                                        |
-| **Madrid, España**        | Presupuesto de PB de 100 millones de euros a través de la plataforma digital "Decide Madrid"       | Más de 400,000 participantes en línea. Las propuestas incluyen vivienda social, infraestructura verde, transporte público.                                  |
+| Ciudad                   | Escala                                                                                       | Resultado                                                                                                                                                                  |
+| ------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Porto Alegre, Brasil** | Pionera en PB en 1989, más de 50,000 participantes/año                                       | La mortalidad infantil se redujo en un 50%. El acceso al agua alcanzó el 98%. Mejoras drásticas en los barrios de bajos ingresos. Se convirtió en un modelo para el mundo. |
+| **París, Francia**       | 500 millones de euros asignados a través de PB (2014-2020), 5% del presupuesto total         | Más de 300 proyectos completados. El 10% de los residentes participan anualmente. Los proyectos incluyen parques, carriles bici, espacios verdes, huertos comunitarios.    |
+| **Helsinki, Finlandia**  | Presupuesto de PB de 8.8 millones de euros (creciendo anualmente)                            | Alta participación, propuestas innovadoras, mayor confianza en el gobierno                                                                                                 |
+| **Nueva York, EE. UU.**  | El programa de PB más grande de EE. UU. Más de $40 millones al año en más de 30 distritos.   | Más de 100,000 residentes participan. Proyectos en todos los distritos. La participación de los jóvenes es especialmente alta.                                             |
+| **Madrid, España**       | Presupuesto de PB de 100 millones de euros a través de la plataforma digital "Decide Madrid" | Más de 400,000 participantes en línea. Las propuestas incluyen vivienda social, infraestructura verde, transporte público.                                                 |
 
 **Hallazgos consistentes en todos los programas de PB:**
 
@@ -76,13 +76,13 @@ Adaptado del modelo de Asamblea Ciudadana de Irlanda, que resolvió los problema
 
 ### Asambleas Ciudadanas
 
-| País     | Asunto                                                     | Resultado                                                                                                            |
-| ----------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Irlanda** | Legalización del aborto (2016-2017)                         | La Asamblea Ciudadana recomendó la legalización → el referéndum se aprobó con un 66% de apoyo. Resolvió un estancamiento de décadas. |
-| **Irlanda** | Igualdad matrimonial (2013-2014)                             | La Convención Constitucional (modelo similar) recomendó → el referéndum se aprobó con un 62% de apoyo.                       |
-| **Francia**  | Política climática (2019-2020)                                | 150 ciudadanos seleccionados al azar produjeron 149 recomendaciones climáticas. Varias se convirtieron en ley.                          |
-| **Reino Unido**      | Política climática (2020)                                     | La Asamblea Climática del Reino Unido produjo recomendaciones detalladas sobre cómo alcanzar el cero neto.                                       |
-| **Bélgica** | Asamblea permanente de ciudadanos en la comunidad de habla alemana | Órgano deliberativo continuo que produce regularmente recomendaciones de política.                                         |
+| País            | Asunto                                                             | Resultado                                                                                                                            |
+| --------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Irlanda**     | Legalización del aborto (2016-2017)                                | La Asamblea Ciudadana recomendó la legalización → el referéndum se aprobó con un 66% de apoyo. Resolvió un estancamiento de décadas. |
+| **Irlanda**     | Igualdad matrimonial (2013-2014)                                   | La Convención Constitucional (modelo similar) recomendó → el referéndum se aprobó con un 62% de apoyo.                               |
+| **Francia**     | Política climática (2019-2020)                                     | 150 ciudadanos seleccionados al azar produjeron 149 recomendaciones climáticas. Varias se convirtieron en ley.                       |
+| **Reino Unido** | Política climática (2020)                                          | La Asamblea Climática del Reino Unido produjo recomendaciones detalladas sobre cómo alcanzar el cero neto.                           |
+| **Bélgica**     | Asamblea permanente de ciudadanos en la comunidad de habla alemana | Órgano deliberativo continuo que produce regularmente recomendaciones de política.                                                   |
 
 **Por qué la selección aleatoria funciona mejor que las elecciones:**
 

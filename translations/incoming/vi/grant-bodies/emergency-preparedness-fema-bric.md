@@ -99,14 +99,14 @@ Denver đang phải đối mặt với một loạt các hiểm họa khí hậu
 
 ### E. Tiến Độ Thời Gian Dự Án
 
-| Giai Đoạn                                                      | Thời Gian     | Các Mốc Quan Trọng                                                                                                                                                                                             |
-| :------------------------------------------------------------- | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lập Kế Hoạch, Thiết Kế & Cấp Phép**                          | Tháng 1-8   | Hoàn thiện việc lựa chọn địa điểm trung tâm, hoàn thành thiết kế kỹ thuật cho cơ sở hạ tầng xanh, thực hiện vòng 1 tham gia cộng đồng tại cả 10 khu dân cư, xin giấy phép                                                 |
-| **Mua Sắm & Ký Hợp Đồng**                                    | Tháng 6-10  | Phát hành RFP (yêu cầu đề xuất) cho việc lắp đặt năng lượng mặt trời, xây dựng cơ sở hạ tầng xanh và trồng cây; trao hợp đồng (theo từng giai đoạn để trùng lặp với việc hoàn thành thiết kế)                              |
-| **Giai Đoạn Xây Dựng 1 — Các Trung Tâm & Cơ Sở Hạ Tầng Xanh** | Tháng 9-20  | Hoàn thành xây dựng trên 3 trung tâm ứng phó đầu tiên, lắp đặt cơ sở hạ tầng xanh thu gom nước mưa tại 3 khu dân cư ưu tiên cao nhất, bắt đầu trồng cây                                                                |
-| **Giai Đoạn Xây Dựng 2 — Các Địa Điểm Còn Lại & Giảm Thiểu Nhiệt** | Tháng 18-30 | Hoàn thành 3 trung tâm ứng phó còn lại, hoàn thành lắp đặt cơ sở hạ tầng xanh và bề mặt mát, hoàn thành chương trình trồng cây                                                                                           |
-| **Kích Hoạt Hệ Thống & Nâng Cao Nhận Thức Cộng Đồng**           | Tháng 6-32  | Triển khai hệ thống cảnh báo sớm, đào tạo tình nguyện viên CERT (liên tục), thực hiện diễn tập trên bàn, thiết lập các thỏa thuận tương trợ                                                                        |
-| **Kết Thúc & Đánh Giá**                                      | Tháng 30-36 | Giám sát hiệu suất sau xây dựng, lập bản đồ nhiệt, phân tích dữ liệu nước mưa, khảo sát cộng đồng, báo cáo đánh giá cuối cùng                                                                                           |
+| Giai Đoạn                                                          | Thời Gian   | Các Mốc Quan Trọng                                                                                                                                                                            |
+| :----------------------------------------------------------------- | :---------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lập Kế Hoạch, Thiết Kế & Cấp Phép**                              | Tháng 1-8   | Hoàn thiện việc lựa chọn địa điểm trung tâm, hoàn thành thiết kế kỹ thuật cho cơ sở hạ tầng xanh, thực hiện vòng 1 tham gia cộng đồng tại cả 10 khu dân cư, xin giấy phép                     |
+| **Mua Sắm & Ký Hợp Đồng**                                          | Tháng 6-10  | Phát hành RFP (yêu cầu đề xuất) cho việc lắp đặt năng lượng mặt trời, xây dựng cơ sở hạ tầng xanh và trồng cây; trao hợp đồng (theo từng giai đoạn để trùng lặp với việc hoàn thành thiết kế) |
+| **Giai Đoạn Xây Dựng 1 — Các Trung Tâm & Cơ Sở Hạ Tầng Xanh**      | Tháng 9-20  | Hoàn thành xây dựng trên 3 trung tâm ứng phó đầu tiên, lắp đặt cơ sở hạ tầng xanh thu gom nước mưa tại 3 khu dân cư ưu tiên cao nhất, bắt đầu trồng cây                                       |
+| **Giai Đoạn Xây Dựng 2 — Các Địa Điểm Còn Lại & Giảm Thiểu Nhiệt** | Tháng 18-30 | Hoàn thành 3 trung tâm ứng phó còn lại, hoàn thành lắp đặt cơ sở hạ tầng xanh và bề mặt mát, hoàn thành chương trình trồng cây                                                                |
+| **Kích Hoạt Hệ Thống & Nâng Cao Nhận Thức Cộng Đồng**              | Tháng 6-32  | Triển khai hệ thống cảnh báo sớm, đào tạo tình nguyện viên CERT (liên tục), thực hiện diễn tập trên bàn, thiết lập các thỏa thuận tương trợ                                                   |
+| **Kết Thúc & Đánh Giá**                                            | Tháng 30-36 | Giám sát hiệu suất sau xây dựng, lập bản đồ nhiệt, phân tích dữ liệu nước mưa, khảo sát cộng đồng, báo cáo đánh giá cuối cùng                                                                 |
 
 ### F. Phù Hợp Với Các Ưu Tiên Của Chương Trình BRIC
 
@@ -134,32 +134,32 @@ Khoản đầu tư liên bang được yêu cầu là $14 triệu, so với kho�
 
 ## Tóm Tắt Ngân Sách
 
-| Danh Mục                                               | Số Tiền            | % Tổng Cộng |
-| :----------------------------------------------------- | :----------------- | :--------- |
-| Các Trung Tâm Ứng Phó Cộng Đồng Năng Lượng Mặt Trời (6 địa điểm) | $6.000.000        | 43%        |
-| Cơ Sở Hạ Tầng Xanh Thu Gom Nước Mưa                      | $4.000.000        | 29%        |
-| Giảm Thiểu Nhiệt Đô Thị (tán cây xanh & bề mặt mát)       | $2.500.000        | 18%        |
-| Nâng Cao Nhận Thức Cộng Đồng & Hệ Thống Cảnh Báo Sớm       | $1.500.000        | 10%        |
-| **Tổng Yêu Cầu Liên Bang**                             | **$14.000.000**   | **100%**   |
-| Đối Ứng Địa Phương (Quỹ Thoát Nước Mưa, ngân sách CASR, OEM) | $115.000.000+     | —          |
-| **Tổng Đầu Tư Dự Án**                                 | **$129.000.000+** | —          |
+| Danh Mục                                                         | Số Tiền           | % Tổng Cộng |
+| :--------------------------------------------------------------- | :---------------- | :---------- |
+| Các Trung Tâm Ứng Phó Cộng Đồng Năng Lượng Mặt Trời (6 địa điểm) | $6.000.000        | 43%         |
+| Cơ Sở Hạ Tầng Xanh Thu Gom Nước Mưa                              | $4.000.000        | 29%         |
+| Giảm Thiểu Nhiệt Đô Thị (tán cây xanh & bề mặt mát)              | $2.500.000        | 18%         |
+| Nâng Cao Nhận Thức Cộng Đồng & Hệ Thống Cảnh Báo Sớm             | $1.500.000        | 10%         |
+| **Tổng Yêu Cầu Liên Bang**                                       | **$14.000.000**   | **100%**    |
+| Đối Ứng Địa Phương (Quỹ Thoát Nước Mưa, ngân sách CASR, OEM)     | $115.000.000+     | —           |
+| **Tổng Đầu Tư Dự Án**                                            | **$129.000.000+** | —           |
 
 _Lưu ý: BRIC yêu cầu tỷ lệ chia sẻ chi phí không phải liên bang tối thiểu là 25% (75/25). Đối ứng địa phương của Denver vượt xa ngưỡng này. Chỉ riêng đóng góp của Quỹ Thoát Nước Mưa đã cung cấp doanh thu địa phương chuyên dụng, được ghi nhận. Các đóng góp hiện vật bổ sung từ CASR, OEM, Sở Công Viên và Giải Trí Denver và các tổ chức đối tác cộng đồng tiếp tục củng cố đối ứng._
 
 ## Các Kết Quả Dự Kiến
 
-| Số Liệu                                                   | Đường Cơ Sở                      | Mục Tiêu 3 Năm                      |
-| :-------------------------------------------------------- | :----------------------------- | :---------------------------------- |
-| Các trung tâm ứng phó có nguồn điện dự phòng & khả năng không khí sạch | 0 đang hoạt động                 | 6 hoạt động đầy đủ                 |
-| Cư dân trong vòng 15 phút đi bộ đến một trung tâm ứng phó   | ~5% ở các khu dân cư mục tiêu   | ~70% ở các khu dân cư mục tiêu       |
-| Năng lực trú ẩn khẩn cấp độc lập với lưới điện (giờ)          | 0 (phụ thuộc vào lưới điện)            | 72+ giờ mỗi trung tâm                  |
-| Lượng nước mưa chảy tràn cao điểm tại các địa điểm được xử lý   | Đường cơ sở hiện tại              | Giảm thiểu tối thiểu 20%              |
-| Các sự kiện tràn cống kết hợp ở các khu vực được xử lý          | Tần suất hiện tại             | Giảm 30%                      |
-| Độ che phủ tán cây xanh ở các khu dân cư mục tiêu             | 8-12% (so với mức trung bình 20% của toàn thành phố) | 15-18%                             |
-| Nhiệt độ bề mặt ở các khu vực xử lý bề mặt mát              | Cao hơn 10-15°F (5,5-8,3°C) so với các khu vực có tán cây che phủ  | Giảm 10°F (5,5°C) trên các bề mặt được xử lý |
-| Tình nguyện viên CERT được đào tạo ở các khu dân cư mục tiêu      | ~50                           | 200+                               |
-| Cư dân đăng ký hệ thống cảnh báo sớm đa ngôn ngữ          | Phạm vi phủ sóng hạn chế              | 50.000+ ở các khu dân cư mục tiêu    |
-| Số lượt khám cấp cứu liên quan đến nắng nóng ở các khu vực mục tiêu | Đường cơ sở hiện tại              | Giảm 25%                      |
+| Số Liệu                                                                | Đường Cơ Sở                                                       | Mục Tiêu 3 Năm                               |
+| :--------------------------------------------------------------------- | :---------------------------------------------------------------- | :------------------------------------------- |
+| Các trung tâm ứng phó có nguồn điện dự phòng & khả năng không khí sạch | 0 đang hoạt động                                                  | 6 hoạt động đầy đủ                           |
+| Cư dân trong vòng 15 phút đi bộ đến một trung tâm ứng phó              | ~5% ở các khu dân cư mục tiêu                                     | ~70% ở các khu dân cư mục tiêu               |
+| Năng lực trú ẩn khẩn cấp độc lập với lưới điện (giờ)                   | 0 (phụ thuộc vào lưới điện)                                       | 72+ giờ mỗi trung tâm                        |
+| Lượng nước mưa chảy tràn cao điểm tại các địa điểm được xử lý          | Đường cơ sở hiện tại                                              | Giảm thiểu tối thiểu 20%                     |
+| Các sự kiện tràn cống kết hợp ở các khu vực được xử lý                 | Tần suất hiện tại                                                 | Giảm 30%                                     |
+| Độ che phủ tán cây xanh ở các khu dân cư mục tiêu                      | 8-12% (so với mức trung bình 20% của toàn thành phố)              | 15-18%                                       |
+| Nhiệt độ bề mặt ở các khu vực xử lý bề mặt mát                         | Cao hơn 10-15°F (5,5-8,3°C) so với các khu vực có tán cây che phủ | Giảm 10°F (5,5°C) trên các bề mặt được xử lý |
+| Tình nguyện viên CERT được đào tạo ở các khu dân cư mục tiêu           | ~50                                                               | 200+                                         |
+| Cư dân đăng ký hệ thống cảnh báo sớm đa ngôn ngữ                       | Phạm vi phủ sóng hạn chế                                          | 50.000+ ở các khu dân cư mục tiêu            |
+| Số lượt khám cấp cứu liên quan đến nắng nóng ở các khu vực mục tiêu    | Đường cơ sở hiện tại                                              | Giảm 25%                                     |
 
 ## Các Nguồn Dữ Liệu Chính
 

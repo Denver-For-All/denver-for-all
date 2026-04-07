@@ -90,6 +90,7 @@ The estimated public cost of a single unresolved mental health crisis spiraling 
 Expand STAR from its current limited hours and geographic coverage to full **24-hour, 7-day-per-week** operation in **all six Denver Police Districts**.
 
 This requires:
+
 - **Tripling the STAR team count** from the current ~10 teams to approximately 30 teams to cover all shifts and districts.
 - **Expanding the STAR call-type criteria** in Denver's 911 dispatch system. Any call involving a mental health crisis, substance use, homelessness, or welfare check with no report of weapons or violence should be eligible for STAR dispatch.
 - **Co-response protocols** for calls that begin as potential STAR calls but where the situation is unclear. A STAR team and a police officer dispatch together; the officer stands by unless needed.
@@ -97,6 +98,7 @@ This requires:
 ### 2. Dedicated Mental Health Crisis Line — Separate from 911
 
 Create a **dedicated Denver mental health crisis line** (separate from 911) that routes directly to STAR clinicians. This provides:
+
 - A lower-barrier path for people in crisis or their families who don't want to call police.
 - A direct connection to community mental health resources, peer support specialists, and mobile crisis teams.
 - Integration with Colorado's 988 Suicide and Crisis Lifeline, which launched federally in 2022.
@@ -106,6 +108,7 @@ The line should be staffed by licensed clinicians and peer support specialists (
 ### 3. Crisis Stabilization Centers — Alternatives to the ER
 
 Fund at least **three community-based crisis stabilization centers** in high-need Denver neighborhoods. These are walk-in or STAR-referral facilities providing:
+
 - Short-term crisis stabilization (up to 23 hours) without involuntary commitment.
 - Immediate connection to outpatient mental health treatment, housing support, and peer services.
 - Medical evaluation and, where appropriate, medically-supervised withdrawal management.
@@ -115,6 +118,7 @@ Crisis stabilization centers reduce ER overcrowding, reduce unnecessary hospital
 ### 4. Peer Support Workforce Development
 
 STAR's model works partly because it includes **peer support specialists** — people with lived experience of mental health crises who can connect with callers and clients in ways that clinical professionals alone cannot. Expand the peer support workforce by:
+
 - Funding a Denver Peer Support Training Academy in partnership with community mental health centers.
 - Creating a career pathway: peer support → certified recovery coach → licensed counselor, with city funding for education and certification.
 - Prioritizing hiring from communities most affected by the crisis response system: people of color, people who have been incarcerated, unhoused people.
@@ -122,6 +126,7 @@ STAR's model works partly because it includes **peer support specialists** — p
 ### 5. Data, Transparency, and Accountability
 
 Publish quarterly dashboards tracking:
+
 - STAR call volume, response times, and outcomes by district.
 - Police responses to behavioral health calls: outcomes, use-of-force incidents, ER referrals, arrests.
 - Comparison of per-call costs: STAR vs. police vs. combined ER + jail outcomes.
@@ -134,13 +139,13 @@ This data already exists within city systems. Making it public holds the program
 
 The Denver STAR program is one of the most studied civilian crisis response programs in the country:
 
-| Study | Finding |
-|---|---|
-| Dee & Pyne, *NBER Working Paper*, 2022 | STAR reduced crime in covered areas by 8–12% relative to uncovered areas |
-| University of Denver STAR Evaluation, 2022 | Zero arrests, zero uses of force in 2,300+ responses; high client satisfaction |
-| Denver STAR Program Report, 2023 | Cost per response ~$500 vs. $1,000+ for police response |
-| CAHOOTS (Eugene, OR), 30-year evaluation | Civilian crisis program handles 24% of all 911 calls without police; model for STAR |
-| National Alliance on Mental Illness, 2022 | Unresolved mental health crises cost $40,000–$80,000 per individual cycle |
+| Study                                      | Finding                                                                             |
+| ------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Dee & Pyne, _NBER Working Paper_, 2022     | STAR reduced crime in covered areas by 8–12% relative to uncovered areas            |
+| University of Denver STAR Evaluation, 2022 | Zero arrests, zero uses of force in 2,300+ responses; high client satisfaction      |
+| Denver STAR Program Report, 2023           | Cost per response ~$500 vs. $1,000+ for police response                             |
+| CAHOOTS (Eugene, OR), 30-year evaluation   | Civilian crisis program handles 24% of all 911 calls without police; model for STAR |
+| National Alliance on Mental Illness, 2022  | Unresolved mental health crises cost $40,000–$80,000 per individual cycle           |
 
 Denver is not pioneering unproven territory. Eugene, Oregon's CAHOOTS program has operated for over 30 years. Olympia, Washington; Portland; Denver; and dozens of other cities have confirmed the model. The barriers to scaling STAR are political and budgetary — not evidential.
 
@@ -176,22 +181,22 @@ Officers are freed up to focus on actual crime, which is what most officers pref
 
 Full 24/7 citywide STAR expansion would require approximately $25–30M/year in operating funding.
 
-| Funding Source | Estimated Amount |
-|---|---|
-| Redirect from police overtime (behavioral health calls) | ~$8–10M |
-| Colorado Behavioral Health Administration state grants (SB23-008) | ~$5–7M |
-| Federal SAMHSA Community Mental Health Block Grants | ~$3–5M |
-| Denver General Fund (new appropriation) | ~$7–10M |
+| Funding Source                                                    | Estimated Amount |
+| ----------------------------------------------------------------- | ---------------- |
+| Redirect from police overtime (behavioral health calls)           | ~$8–10M          |
+| Colorado Behavioral Health Administration state grants (SB23-008) | ~$5–7M           |
+| Federal SAMHSA Community Mental Health Block Grants               | ~$3–5M           |
+| Denver General Fund (new appropriation)                           | ~$7–10M          |
 
 This is a reallocation, not new spending. The city currently spends this money — and more — on the expensive, ineffective back end of mental health crises: ER visits, jail, repeat emergency response. Moving funding upstream to crisis prevention and civilian response saves money over any three-to-five-year horizon.
 
 ## References
 
-- Dee, T. & Pyne, J. *A Community Response Approach to Mental Health and Substance Use Crises Reduced Crime.* Science Advances / NBER, 2022.
-- Denver Police Department. *911 Call Classification Data.* Reported in Denver Post, 2023.
-- Denver STAR Program. *Annual Report.* 2023.
-- National Alliance on Mental Illness. *The Cost of Mental Health Crises.* 2022.
-- University of Denver, Sturm College of Law. *STAR Program Evaluation.* 2022.
-- Colorado General Assembly. SB23-008, *Behavioral Health Administration.*
-- Colorado General Assembly. HB24-1309, *Mental Health Crisis Response Co-Responder Program.*
-- White Bird Clinic. *CAHOOTS Program.* Eugene, Oregon. 30-year evaluation data.
+- Dee, T. & Pyne, J. _A Community Response Approach to Mental Health and Substance Use Crises Reduced Crime._ Science Advances / NBER, 2022.
+- Denver Police Department. _911 Call Classification Data._ Reported in Denver Post, 2023.
+- Denver STAR Program. _Annual Report._ 2023.
+- National Alliance on Mental Illness. _The Cost of Mental Health Crises._ 2022.
+- University of Denver, Sturm College of Law. _STAR Program Evaluation._ 2022.
+- Colorado General Assembly. SB23-008, _Behavioral Health Administration._
+- Colorado General Assembly. HB24-1309, _Mental Health Crisis Response Co-Responder Program._
+- White Bird Clinic. _CAHOOTS Program._ Eugene, Oregon. 30-year evaluation data.

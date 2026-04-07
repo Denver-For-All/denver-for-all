@@ -37,7 +37,8 @@ console.log(`✓ Extracted UI strings (${countKeys(enJson)} keys)`);
 const pageMetaSrc = readFileSync(join(ROOT, 'src/i18n/page-meta.ts'), 'utf8');
 const pageMeta = {};
 // Match each page block:  key: { title: { en: '...' }, description: { en: '...' } }
-const pageBlockRe = /(\w+):\s*\{[^}]*title:\s*\{\s*en:\s*'([^']+)'[^}]*\}[^}]*description:\s*\{\s*en:\s*'([^']+)'/g;
+const pageBlockRe =
+  /(\w+):\s*\{[^}]*title:\s*\{\s*en:\s*'([^']+)'[^}]*\}[^}]*description:\s*\{\s*en:\s*'([^']+)'/g;
 let m;
 while ((m = pageBlockRe.exec(pageMetaSrc)) !== null) {
   pageMeta[m[1]] = { title: m[2], description: m[3] };
@@ -47,7 +48,7 @@ console.log(`✓ Extracted page metadata (${Object.keys(pageMeta).length} pages)
 
 // ─── 3. Policy Frontmatter ─────────────────────────────────────────────────
 const policiesDir = join(ROOT, 'src/content/policies');
-const policyFiles = readdirSync(policiesDir).filter(f => f.endsWith('.md'));
+const policyFiles = readdirSync(policiesDir).filter((f) => f.endsWith('.md'));
 const policyFrontmatter = {};
 
 for (const file of policyFiles) {
@@ -87,11 +88,13 @@ for (const file of policyFiles) {
   writeFileSync(join(OUT, 'policy-bodies', `${slug}.md`), body);
   totalPolicyWords += body.split(/\s+/).length;
 }
-console.log(`✓ Extracted policy bodies (${policyFiles.length} files, ~${totalPolicyWords.toLocaleString()} words)`);
+console.log(
+  `✓ Extracted policy bodies (${policyFiles.length} files, ~${totalPolicyWords.toLocaleString()} words)`,
+);
 
 // ─── 5. Grant Frontmatter + Bodies ─────────────────────────────────────────
 const grantsDir = join(ROOT, 'src/content/grants');
-const grantFiles = readdirSync(grantsDir).filter(f => f.endsWith('.md'));
+const grantFiles = readdirSync(grantsDir).filter((f) => f.endsWith('.md'));
 const grantFrontmatter = {};
 
 for (const file of grantFiles) {
@@ -119,7 +122,9 @@ console.log(`\nContent summary:`);
 console.log(`  UI strings:          ${countKeys(enJson)} keys`);
 console.log(`  Page metadata:       ${Object.keys(pageMeta).length} pages`);
 console.log(`  Policy frontmatter:  ${Object.keys(policyFrontmatter).length} policies`);
-console.log(`  Policy bodies:       ${policyFiles.length} files (~${totalPolicyWords.toLocaleString()} words)`);
+console.log(
+  `  Policy bodies:       ${policyFiles.length} files (~${totalPolicyWords.toLocaleString()} words)`,
+);
 console.log(`  Grant frontmatter:   ${Object.keys(grantFrontmatter).length} grants`);
 console.log(`  Grant bodies:        ${grantFiles.length} files`);
 

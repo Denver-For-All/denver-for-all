@@ -92,13 +92,13 @@ Los datos integrales de seguridad de Denver demuestran una crisis de seguridad p
 
 ### E. Cronograma del Proyecto
 
-| Fase                         | Cronograma   | Hitos Clave                                                                                     |
-| ---------------------------- | ------------ | ------------------------------------------------------------------------------------------------ |
-| **Planificación y Diseño**   | Meses 1-6    | Finalizar los corredores prioritarios, completar el diseño de ingeniería, ejecutar la ronda 1 de participación comunitaria |
-| **Adquisiciones**            | Meses 4-8    | Emitir Solicitudes de Propuestas (RFP), adjudicar contratos de construcción (puede superponerse con el diseño para corredores por fases) |
-| **Fase de Construcción 1** | Meses 7-18   | Completar las aceras de las rutas escolares y los corredores de transporte público en los 8 vecindarios de mayor prioridad |
-| **Fase de Construcción 2** | Meses 15-30  | Completar los corredores restantes, las modernizaciones de la ADA y las instalaciones de pacificación del tráfico         |
-| **Cierre y Evaluación**      | Meses 28-36  | Auditorías posteriores a la construcción, datos de conteo de peatones, análisis de accidentes, informe final                  |
+| Fase                       | Cronograma  | Hitos Clave                                                                                                                              |
+| -------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planificación y Diseño** | Meses 1-6   | Finalizar los corredores prioritarios, completar el diseño de ingeniería, ejecutar la ronda 1 de participación comunitaria               |
+| **Adquisiciones**          | Meses 4-8   | Emitir Solicitudes de Propuestas (RFP), adjudicar contratos de construcción (puede superponerse con el diseño para corredores por fases) |
+| **Fase de Construcción 1** | Meses 7-18  | Completar las aceras de las rutas escolares y los corredores de transporte público en los 8 vecindarios de mayor prioridad               |
+| **Fase de Construcción 2** | Meses 15-30 | Completar los corredores restantes, las modernizaciones de la ADA y las instalaciones de pacificación del tráfico                        |
+| **Cierre y Evaluación**    | Meses 28-36 | Auditorías posteriores a la construcción, datos de conteo de peatones, análisis de accidentes, informe final                             |
 
 ### F. Alineación con los Objetivos del Programa SS4A
 
@@ -123,25 +123,25 @@ La inversión federal solicitada de $15 millones representa una **relación de c
 
 ## Resumen del Presupuesto
 
-| Categoría                                  | Monto            | % del Total |
-| ------------------------------------------ | ---------------- | ---------- |
-| Construcción de Aceras (nuevas)            | $8,000,000       | 53%        |
-| Modernizaciones de Cumplimiento de la ADA | $4,000,000       | 27%        |
-| Pacificación del Tráfico y Seguridad Peatonal | $2,000,000       | 13%        |
-| Gestión y Evaluación del Proyecto          | $1,000,000       | 7%         |
-| **Solicitud Federal Total**                | **$15,000,000**  | **100%**   |
-| Contrapartida Local (ingresos por tarifas de aceras) | $97,500,000      | —          |
-| **Inversión Total del Proyecto**           | **$112,500,000** | —          |
+| Categoría                                            | Monto            | % del Total |
+| ---------------------------------------------------- | ---------------- | ----------- |
+| Construcción de Aceras (nuevas)                      | $8,000,000       | 53%         |
+| Modernizaciones de Cumplimiento de la ADA            | $4,000,000       | 27%         |
+| Pacificación del Tráfico y Seguridad Peatonal        | $2,000,000       | 13%         |
+| Gestión y Evaluación del Proyecto                    | $1,000,000       | 7%          |
+| **Solicitud Federal Total**                          | **$15,000,000**  | **100%**    |
+| Contrapartida Local (ingresos por tarifas de aceras) | $97,500,000      | —           |
+| **Inversión Total del Proyecto**                     | **$112,500,000** | —           |
 
 ## Resultados Esperados
 
-| Métrica                                                                 | Línea de Base | Objetivo a 3 Años                 |
-| ----------------------------------------------------------------------- | ------------- | ---------------------------------- |
-| Millas de acera faltante en los vecindarios objetivo                     | ~50 millas    | Reducido en 25-35 millas (50-70%) |
-| Rampas de acera que cumplen con la ADA en las áreas objetivo              | ~40% cumplen   | ~85% cumplen                     |
-| Muertes de peatones en los vecindarios objetivo                         | 12-15/año     | Reducción del 30%                  |
-| Lesiones graves de peatones en los vecindarios objetivo                   | ~45/año       | Reducción del 25%                  |
-| Residentes a 1/4 de milla de una ruta que cumple con la ADA al transporte público | ~55%          | ~80%                           |
+| Métrica                                                                           | Línea de Base | Objetivo a 3 Años                 |
+| --------------------------------------------------------------------------------- | ------------- | --------------------------------- |
+| Millas de acera faltante en los vecindarios objetivo                              | ~50 millas    | Reducido en 25-35 millas (50-70%) |
+| Rampas de acera que cumplen con la ADA en las áreas objetivo                      | ~40% cumplen  | ~85% cumplen                      |
+| Muertes de peatones en los vecindarios objetivo                                   | 12-15/año     | Reducción del 30%                 |
+| Lesiones graves de peatones en los vecindarios objetivo                           | ~45/año       | Reducción del 25%                 |
+| Residentes a 1/4 de milla de una ruta que cumple con la ADA al transporte público | ~55%          | ~80%                              |
 
 ## Fuentes de Datos Clave
 

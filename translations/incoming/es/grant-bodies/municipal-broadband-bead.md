@@ -114,14 +114,14 @@ El mercado de banda ancha de Denver demuestra las fallas de un duopolio no compe
 
 ### E. Cronograma del Proyecto
 
-| Fase                            | Cronograma     | Hitos Clave                                                                                                                                                          |
-| -------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planificación e Ingeniería**       | Meses 1-9   | Completar el diseño de ingeniería de la red, asegurar los permisos, ejecutar la ronda 1 de participación comunitaria, contratar al personal central                                       |
-| **Adquisiciones**                  | Meses 6-12  | Emitir Solicitudes de Propuestas (RFPs, por sus siglas en inglés) para la construcción de fibra, equipos y sistemas de operaciones; adjudicar contratos (se superpone con la planificación de corredores por fases) |
-| **Construcción de la Red Troncal**        | Meses 10-24 | Completar el anillo de fibra troncal que conecta los 14 barrios objetivo, desplegar centros de agregación                                                                   |
-| **Despliegue de Última Milla Fase 1** | Meses 18-36 | Conexiones de fibra hasta el hogar activas en los primeros 8 barrios (~12,000-15,000 direcciones); comenzar la inscripción de suscriptores y el aprovisionamiento de nivel gratuito           |
-| **Despliegue de Última Milla Fase 2** | Meses 30-42 | Completar los 6 barrios restantes (~8,000-15,000 direcciones adicionales); programas de equidad digital totalmente operativos                                                              |
-| **Cierre y Evaluación**        | Meses 40-48 | Auditorías de velocidad y confiabilidad posteriores al despliegue, encuesta de satisfacción de los suscriptores, evaluación de la sostenibilidad financiera, informe final a la Oficina de Banda Ancha de Colorado |
+| Fase                                  | Cronograma  | Hitos Clave                                                                                                                                                                                                         |
+| ------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planificación e Ingeniería**        | Meses 1-9   | Completar el diseño de ingeniería de la red, asegurar los permisos, ejecutar la ronda 1 de participación comunitaria, contratar al personal central                                                                 |
+| **Adquisiciones**                     | Meses 6-12  | Emitir Solicitudes de Propuestas (RFPs, por sus siglas en inglés) para la construcción de fibra, equipos y sistemas de operaciones; adjudicar contratos (se superpone con la planificación de corredores por fases) |
+| **Construcción de la Red Troncal**    | Meses 10-24 | Completar el anillo de fibra troncal que conecta los 14 barrios objetivo, desplegar centros de agregación                                                                                                           |
+| **Despliegue de Última Milla Fase 1** | Meses 18-36 | Conexiones de fibra hasta el hogar activas en los primeros 8 barrios (~12,000-15,000 direcciones); comenzar la inscripción de suscriptores y el aprovisionamiento de nivel gratuito                                 |
+| **Despliegue de Última Milla Fase 2** | Meses 30-42 | Completar los 6 barrios restantes (~8,000-15,000 direcciones adicionales); programas de equidad digital totalmente operativos                                                                                       |
+| **Cierre y Evaluación**               | Meses 40-48 | Auditorías de velocidad y confiabilidad posteriores al despliegue, encuesta de satisfacción de los suscriptores, evaluación de la sostenibilidad financiera, informe final a la Oficina de Banda Ancha de Colorado  |
 
 ### F. Alineación con los Objetivos del Programa BEAD
 
@@ -147,29 +147,29 @@ Denver ha establecido una base sólida para la banda ancha municipal y está pre
 
 ## Resumen del Presupuesto
 
-| Categoría                                     | Monto                         | % del Total |
-| -------------------------------------------- | ------------------------------ | ---------- |
-| Infraestructura de Fibra Troncal                | $15,000,000                    | 44%        |
-| Fibra hasta el Hogar de Última Milla              | $12,000,000                    | 35%        |
-| Programas de Equidad Digital                      | $3,000,000                     | 9%         |
-| Centro de Operaciones de Red y Personal         | $2,000,000                     | 6%         |
-| Planificación, Ingeniería y Participación Comunitaria | $2,000,000                     | 6%         |
-| **Solicitud Total de Subvención BEAD**              | **$34,000,000**                | **100%**   |
-| Contrapartida Local (bonos de ingresos / fondos de la ciudad)     | Por determinar según los requisitos de contrapartida de CBO (Colorado Broadband Office) | —          |
-| **Fases Futuras (construcción en toda la ciudad)**        | **$300-500M (total estimado)**     | —          |
+| Categoría                                                     | Monto                                                                                   | % del Total |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------- |
+| Infraestructura de Fibra Troncal                              | $15,000,000                                                                             | 44%         |
+| Fibra hasta el Hogar de Última Milla                          | $12,000,000                                                                             | 35%         |
+| Programas de Equidad Digital                                  | $3,000,000                                                                              | 9%          |
+| Centro de Operaciones de Red y Personal                       | $2,000,000                                                                              | 6%          |
+| Planificación, Ingeniería y Participación Comunitaria         | $2,000,000                                                                              | 6%          |
+| **Solicitud Total de Subvención BEAD**                        | **$34,000,000**                                                                         | **100%**    |
+| Contrapartida Local (bonos de ingresos / fondos de la ciudad) | Por determinar según los requisitos de contrapartida de CBO (Colorado Broadband Office) | —           |
+| **Fases Futuras (construcción en toda la ciudad)**            | **$300-500M (total estimado)**                                                          | —           |
 
 ## Resultados Esperados
 
-| Métrica                                         | Línea de Base                       | Objetivo a 4 Años                                           |
-| ---------------------------------------------- | ------------------------------ | ------------------------------------------------------- |
-| Direcciones con fibra municipal disponible       | 0                              | 20,000-30,000                                           |
-| Precio del servicio de gigabit                          | $80-120/mes (operador incumbente)      | $30/mes (Denver Fiber)                                |
-| Hogares de bajos ingresos inscritos en el nivel gratuito       | 0                              | 3,000+                                                  |
-| Velocidad de descarga promedio entregada (suscriptores) | Varía; a menudo por debajo de lo anunciado | 1 Gbps simétrico (garantizado)                           |
-| Residentes que completan programas de alfabetización digital | 0                              | 2,000+                                                  |
-| Dispositivos distribuidos a hogares que califican   | 0                              | 1,500+                                                  |
-| Tasa de aceptación de suscriptores de red en áreas atendidas   | 0%                             | 40-50% (consistente con los puntos de referencia de banda ancha municipal) |
-| Ingresos anuales de los suscriptores (en la estabilización)   | $0                             | Suficiente para cubrir los costos operativos y el servicio de la deuda    |
+| Métrica                                                      | Línea de Base                              | Objetivo a 4 Años                                                          |
+| ------------------------------------------------------------ | ------------------------------------------ | -------------------------------------------------------------------------- |
+| Direcciones con fibra municipal disponible                   | 0                                          | 20,000-30,000                                                              |
+| Precio del servicio de gigabit                               | $80-120/mes (operador incumbente)          | $30/mes (Denver Fiber)                                                     |
+| Hogares de bajos ingresos inscritos en el nivel gratuito     | 0                                          | 3,000+                                                                     |
+| Velocidad de descarga promedio entregada (suscriptores)      | Varía; a menudo por debajo de lo anunciado | 1 Gbps simétrico (garantizado)                                             |
+| Residentes que completan programas de alfabetización digital | 0                                          | 2,000+                                                                     |
+| Dispositivos distribuidos a hogares que califican            | 0                                          | 1,500+                                                                     |
+| Tasa de aceptación de suscriptores de red en áreas atendidas | 0%                                         | 40-50% (consistente con los puntos de referencia de banda ancha municipal) |
+| Ingresos anuales de los suscriptores (en la estabilización)  | $0                                         | Suficiente para cubrir los costos operativos y el servicio de la deuda     |
 
 ## Fuentes de Datos Clave
 

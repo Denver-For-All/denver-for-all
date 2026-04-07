@@ -55,25 +55,25 @@ node scripts/translate/hydrate.js
 
 ## Target Languages
 
-| Code | Language | Script | LLM Quality | Notes |
-|------|----------|--------|-------------|-------|
-| `vi` | Vietnamese | Latin (diacritics) | Good | Check diacritical marks carefully |
-| `zh` | Chinese (Simplified) | CJK | Excellent | Text will be more compact than English |
-| `ar` | Arabic | Arabic (RTL) | Good | Uses MSA; RTL requires CSS work |
-| `am` | Amharic | Ge'ez (Ethiopic) | Fair | **Needs heavy human review** |
+| Code | Language             | Script             | LLM Quality | Notes                                  |
+| ---- | -------------------- | ------------------ | ----------- | -------------------------------------- |
+| `vi` | Vietnamese           | Latin (diacritics) | Good        | Check diacritical marks carefully      |
+| `zh` | Chinese (Simplified) | CJK                | Excellent   | Text will be more compact than English |
+| `ar` | Arabic               | Arabic (RTL)       | Good        | Uses MSA; RTL requires CSS work        |
+| `am` | Amharic              | Ge'ez (Ethiopic)   | Fair        | **Needs heavy human review**           |
 
 ## Cost Estimate
 
 Using Gemini 2.0 Flash (`gemini-2.0-flash`) at $0.10/MTok input, $0.40/MTok output:
 
-| Content | Per Language | 4 Languages |
-|---------|-------------|-------------|
-| UI strings (59 keys) | ~$0.001 | ~$0.004 |
-| Page meta (6 pages) | ~$0.001 | ~$0.004 |
-| Policy frontmatter (50 policies) | ~$0.006 | ~$0.024 |
-| Policy bodies (50 docs, ~106K words) | ~$0.18 | ~$0.72 |
-| Grant bodies (6 docs) | ~$0.02 | ~$0.08 |
-| **Total** | **~$0.21** | **~$0.83** |
+| Content                              | Per Language | 4 Languages |
+| ------------------------------------ | ------------ | ----------- |
+| UI strings (59 keys)                 | ~$0.001      | ~$0.004     |
+| Page meta (6 pages)                  | ~$0.001      | ~$0.004     |
+| Policy frontmatter (50 policies)     | ~$0.006      | ~$0.024     |
+| Policy bodies (50 docs, ~106K words) | ~$0.18       | ~$0.72      |
+| Grant bodies (6 docs)                | ~$0.02       | ~$0.08      |
+| **Total**                            | **~$0.21**   | **~$0.83**  |
 
 Total: **~252 API calls, estimated $0.50-1.00** for all 4 languages.
 
@@ -111,11 +111,13 @@ extracted/
 Calls the Gemini API with carefully crafted prompts for each content type × language combination.
 
 **Prompt structure:**
+
 - **System prompt** (`prompts/system.md`): Base translation rules (formatting, proper nouns, etc.)
 - **Language prompt** (`prompts/<lang>.md`): Language-specific register, terminology, script notes
 - **Task prompt** (`prompts/tasks/<type>.md`): Content-type-specific instructions (JSON format, markdown rules)
 
 **Options:**
+
 - `--lang <code>`: Translate only one language
 - `--type <type>`: Translate only one content type
 - `--concurrency N`: Max parallel API calls (default: 3)
@@ -124,6 +126,7 @@ Calls the Gemini API with carefully crafted prompts for each content type × lan
 **Rate limiting:** Automatic retry with exponential backoff on 429/5xx errors.
 
 **Output:**
+
 ```
 output/
 ├── vi/
@@ -143,6 +146,7 @@ output/
 ### 3. Validate (`validate.js`)
 
 Checks translated output for:
+
 - Missing JSON keys (compared to English source)
 - Invalid JSON
 - Empty or suspiciously short translations
@@ -154,14 +158,15 @@ Checks translated output for:
 
 Places validated translations into the codebase:
 
-| Translated Content | Destination |
-|-------------------|-------------|
-| UI strings | `src/i18n/<lang>.json` |
-| Policy frontmatter | `src/i18n/policy-meta-<lang>.json` |
-| Policy bodies | `src/content/policies-<lang>/<slug>.md` |
-| Page meta | Prints snippets to add to `page-meta.ts` manually |
+| Translated Content | Destination                                       |
+| ------------------ | ------------------------------------------------- |
+| UI strings         | `src/i18n/<lang>.json`                            |
+| Policy frontmatter | `src/i18n/policy-meta-<lang>.json`                |
+| Policy bodies      | `src/content/policies-<lang>/<slug>.md`           |
+| Page meta          | Prints snippets to add to `page-meta.ts` manually |
 
 **Remaining manual steps after hydration:**
+
 1. Update `src/i18n/utils.ts` — import new locale JSONs, expand `Locale` type
 2. Update `src/i18n/page-meta.ts` — add new locale entries
 3. Update `src/content/config.ts` — register new `policies-<lang>` collections
@@ -170,6 +175,7 @@ Places validated translations into the codebase:
 ## Tips
 
 ### Translate incrementally
+
 ```bash
 # Start with UI strings to test the pipeline
 GEMINI_API_KEY=... node scripts/translate/translate.js --lang vi --type ui-strings
@@ -179,10 +185,13 @@ GEMINI_API_KEY=... node scripts/translate/translate.js --lang vi --type policy-b
 ```
 
 ### Re-extract after content changes
+
 If policies are added or updated, re-run extraction before translating:
+
 ```bash
 node scripts/translate/extract-content.js
 ```
 
 ### Amharic quality
+
 The Amharic prompt instructs the model to add `[REVIEW: explanation]` flags for uncertain translations. The validation script counts these flags. **All Amharic output should be reviewed by a native speaker** before publishing — partner with the Ethiopian Community Center.

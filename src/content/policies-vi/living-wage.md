@@ -23,11 +23,11 @@ Mức lương tối thiểu của Denver là $18.81/giờ kể từ tháng 1 nă
 
 **Lịch trình tăng lương theo giai đoạn:**
 
-| Ngày    | Mức Lương Tối Thiểu                       |
-| ------- | ------------------------------------------ |
-| Năm 2027 | $21.00/giờ                                |
-| Năm 2028 | $23.00/giờ                                |
-| Năm 2029 | $25.00/giờ                                |
+| Ngày      | Mức Lương Tối Thiểu                         |
+| --------- | ------------------------------------------- |
+| Năm 2027  | $21.00/giờ                                  |
+| Năm 2028  | $23.00/giờ                                  |
+| Năm 2029  | $25.00/giờ                                  |
 | Năm 2030+ | Điều chỉnh theo CPI của Denver (không giảm) |
 
 **Các điều khoản chính:**
@@ -41,14 +41,14 @@ Mức lương tối thiểu của Denver là $18.81/giờ kể từ tháng 1 nă
 
 ### Bối Cảnh Quốc Tế: Mức Sàn Tiền Lương của Hoa Kỳ là Ngoại Lệ
 
-| Quốc Gia     | Mức Lương Tối Thiểu (tương đương USD)                                | Cách Thiết Lập                                                                     | Kết Quả                                                                                                                                                     |
-| ----------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Úc**      | $15.50/giờ (23.23 AUD)                                                | Ủy ban Việc làm Công bằng Độc lập xem xét hàng năm, xem xét chi phí sinh hoạt          | 30 năm không suy thoái trước COVID. Không có tình trạng thất nghiệp hàng loạt do mức lương tối thiểu cao.                                                     |
-| **Pháp**    | $13.80/giờ (SMIC)                                                     | Tự động điều chỉnh theo lạm phát + tăng lương định kỳ của chính phủ                   | Công nhân lương thấp có sức mua. Ngành công nghiệp nhà hàng phát triển mạnh.                                                                                |
-| **Vương Quốc Anh** | $14.20/giờ (£11.44, Mức Lương Đủ Sống Quốc Gia)                       | Ủy ban Lương Thấp Độc lập khuyến nghị, xem xét dữ liệu kinh tế                        | Được giới thiệu ở mức $5.50 vào năm 1999. Tăng đều đặn lên $14+ mà không có bất kỳ tác động tiêu cực nào đến việc làm (các nghiên cứu của Arindrajit Dube, được quốc tế công nhận). |
-| **Đức**     | $14.50/giờ (€12.41)                                                   | Ủy ban Lương Tối Thiểu + các thỏa thuận theo ngành thúc đẩy cao hơn nhiều              | Được giới thiệu vào năm 2015. Việc làm TĂNG LÊN sau khi thực hiện, trái ngược với mọi dự đoán bảo thủ.                                                        |
-| **Đan Mạch**  | ~$22/giờ (không có mức tối thiểu theo luật định - được thiết lập bằng các thỏa thuận theo ngành) | Đàm phán giữa công đoàn và người sử dụng lao động                                  | Công nhân McDonald's kiếm được $22/giờ + 6 tuần nghỉ phép. Big Mac có giá cao hơn $0.35 so với ở Mỹ.                                                      |
-| **Hoa Kỳ**    | **$7.25/giờ** (liên bang, không thay đổi kể từ năm 2009)             | Yêu cầu hành động của Quốc hội (bế tắc chính trị)                                  | **Mức lương tối thiểu thấp nhất so với thu nhập trung bình của bất kỳ quốc gia OECD nào.** Mức lương tối thiểu liên bang tính theo đô la thực tế thấp hơn ngày nay so với năm 1968. |
+| Quốc Gia           | Mức Lương Tối Thiểu (tương đương USD)                                                            | Cách Thiết Lập                                                                | Kết Quả                                                                                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Úc**             | $15.50/giờ (23.23 AUD)                                                                           | Ủy ban Việc làm Công bằng Độc lập xem xét hàng năm, xem xét chi phí sinh hoạt | 30 năm không suy thoái trước COVID. Không có tình trạng thất nghiệp hàng loạt do mức lương tối thiểu cao.                                                                           |
+| **Pháp**           | $13.80/giờ (SMIC)                                                                                | Tự động điều chỉnh theo lạm phát + tăng lương định kỳ của chính phủ           | Công nhân lương thấp có sức mua. Ngành công nghiệp nhà hàng phát triển mạnh.                                                                                                        |
+| **Vương Quốc Anh** | $14.20/giờ (£11.44, Mức Lương Đủ Sống Quốc Gia)                                                  | Ủy ban Lương Thấp Độc lập khuyến nghị, xem xét dữ liệu kinh tế                | Được giới thiệu ở mức $5.50 vào năm 1999. Tăng đều đặn lên $14+ mà không có bất kỳ tác động tiêu cực nào đến việc làm (các nghiên cứu của Arindrajit Dube, được quốc tế công nhận). |
+| **Đức**            | $14.50/giờ (€12.41)                                                                              | Ủy ban Lương Tối Thiểu + các thỏa thuận theo ngành thúc đẩy cao hơn nhiều     | Được giới thiệu vào năm 2015. Việc làm TĂNG LÊN sau khi thực hiện, trái ngược với mọi dự đoán bảo thủ.                                                                              |
+| **Đan Mạch**       | ~$22/giờ (không có mức tối thiểu theo luật định - được thiết lập bằng các thỏa thuận theo ngành) | Đàm phán giữa công đoàn và người sử dụng lao động                             | Công nhân McDonald's kiếm được $22/giờ + 6 tuần nghỉ phép. Big Mac có giá cao hơn $0.35 so với ở Mỹ.                                                                                |
+| **Hoa Kỳ**         | **$7.25/giờ** (liên bang, không thay đổi kể từ năm 2009)                                         | Yêu cầu hành động của Quốc hội (bế tắc chính trị)                             | **Mức lương tối thiểu thấp nhất so với thu nhập trung bình của bất kỳ quốc gia OECD nào.** Mức lương tối thiểu liên bang tính theo đô la thực tế thấp hơn ngày nay so với năm 1968. |
 
 Mức $25/giờ ở Denver không phải là cấp tiến - đó là những gì mà tính toán chi phí sinh hoạt cơ bản yêu cầu, và nó phù hợp với những gì công nhân kiếm được ở các quốc gia có nền kinh tế mạnh hơn và tỷ lệ nghèo đói thấp hơn.
 

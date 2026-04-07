@@ -17,13 +17,13 @@ Cái giá phải trả về mặt con người: cha mẹ đi làm trở lại ch
 
 FAMLI là một bước tiến quan trọng. Đề xuất của chúng tôi xây dựng dựa trên nó:
 
-| Tính năng                                      | FAMLI của Colorado                                   | Denver For All             |
-| --------------------------------------------- | ---------------------------------------------------- | -------------------------- |
-| Nghỉ phép dành cho cha mẹ                        | 12 tuần                                             | **26 tuần** (6 tháng)    |
-| Thay thế lương                                  | 90% lên đến $1,100/tuần                                | **100% lên đến lương $75K** |
-| Nghỉ bệnh                                      | Không được bảo hiểm (HFWA riêng của Colorado cung cấp 48 giờ) | **Không giới hạn**              |
-| Số ngày nghỉ phép tối thiểu                       | Không đề cập                                        | **Tối thiểu 4 tuần**        |
-| Nghỉ phép dành riêng cho cha mẹ ("hạn ngạch cho cha/mẹ") | Không                                                   | **8 tuần cho mỗi phụ huynh**     |
+| Tính năng                                                | FAMLI của Colorado                                            | Denver For All               |
+| -------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------- |
+| Nghỉ phép dành cho cha mẹ                                | 12 tuần                                                       | **26 tuần** (6 tháng)        |
+| Thay thế lương                                           | 90% lên đến $1,100/tuần                                       | **100% lên đến lương $75K**  |
+| Nghỉ bệnh                                                | Không được bảo hiểm (HFWA riêng của Colorado cung cấp 48 giờ) | **Không giới hạn**           |
+| Số ngày nghỉ phép tối thiểu                              | Không đề cập                                                  | **Tối thiểu 4 tuần**         |
+| Nghỉ phép dành riêng cho cha mẹ ("hạn ngạch cho cha/mẹ") | Không                                                         | **8 tuần cho mỗi phụ huynh** |
 
 Chương trình của Denver bổ sung cho FAMLI; nó không trùng lặp với nó. 12 tuần đầu tiên sẽ được thanh toán thông qua FAMLI; chương trình của Denver mở rộng phạm vi bảo hiểm vượt quá giới hạn của FAMLI và bổ sung các điều khoản mà FAMLI không bao gồm (nghỉ bệnh không giới hạn, số ngày nghỉ phép tối thiểu, hạn ngạch nghỉ phép dành riêng cho cha mẹ).
 
@@ -66,15 +66,15 @@ Chương trình của Denver bổ sung cho FAMLI; nó không trùng lặp với 
 
 Hoa Kỳ là trường hợp ngoại lệ toàn cầu cực đoan. Đây là những gì bình thường trông như thế nào:
 
-| Quốc gia    | Nghỉ Phép Dành Cho Cha Mẹ                       | Nghỉ Phép                      | Nghỉ Phép Vì Bệnh                                | Kết Quả Kinh Tế                                                          |
-| ----------- | ------------------------------------ | ----------------------------- | -------------------------------------------- | -------------------------------------------------------------------------- |
-| **Thụy Điển** | 480 ngày (chia sẻ), 90% lương           | Tối thiểu 25 ngày               | Không giới hạn, 80% lương                           | Nền kinh tế lớn thứ 10 thế giới, liên tục được xếp hạng tốt nhất về chất lượng cuộc sống |
-| **Đức**     | 14 tháng với 65% lương                 | Tối thiểu 20 ngày (hầu hết được 30) | 6 tuần lương đầy đủ, sau đó 70%                   | Nền kinh tế lớn nhất ở châu Âu, tỷ lệ thất nghiệp thấp hơn Hoa Kỳ                           |
-| **Đan Mạch** | 52 tuần (chia sẻ)                    | Tối thiểu 25 ngày               | Lương đầy đủ trong thời gian bị bệnh                      | Mức độ hài lòng với cuộc sống cao nhất trên thế giới                                     |
-| **Phần Lan** | 320 ngày (chia sẻ)                    | Tối thiểu 25 ngày               | Lương đầy đủ, 10 ngày đầu tiên do người sử dụng lao động trả        | Hệ thống giáo dục tốt nhất trên thế giới, liên tục đứng đầu HDI                   |
-| **Pháp**    | 16 tuần cho mẹ + 28 ngày cho cha | Tối thiểu 25 ngày               | Lương đầy đủ trong tối đa 3 năm (bệnh nặng) | Nền kinh tế lớn thứ 7 trên thế giới                                           |
-| **Na Uy**    | 49 tuần với 100% hoặc 59 tuần với 80%  | Tối thiểu 25 ngày               | Không giới hạn, 100% lương (năm đầu tiên)             | HDI cao nhất trên thế giới                                                   |
-| **Hoa Kỳ**   | 0 ngày có lương                          | 0 ngày được đảm bảo             | 0 ngày đảm bảo liên bang                     | Tỷ lệ tử vong mẹ cao nhất trong thế giới phát triển                          |
+| Quốc gia      | Nghỉ Phép Dành Cho Cha Mẹ             | Nghỉ Phép                           | Nghỉ Phép Vì Bệnh                                            | Kết Quả Kinh Tế                                                                          |
+| ------------- | ------------------------------------- | ----------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Thụy Điển** | 480 ngày (chia sẻ), 90% lương         | Tối thiểu 25 ngày                   | Không giới hạn, 80% lương                                    | Nền kinh tế lớn thứ 10 thế giới, liên tục được xếp hạng tốt nhất về chất lượng cuộc sống |
+| **Đức**       | 14 tháng với 65% lương                | Tối thiểu 20 ngày (hầu hết được 30) | 6 tuần lương đầy đủ, sau đó 70%                              | Nền kinh tế lớn nhất ở châu Âu, tỷ lệ thất nghiệp thấp hơn Hoa Kỳ                        |
+| **Đan Mạch**  | 52 tuần (chia sẻ)                     | Tối thiểu 25 ngày                   | Lương đầy đủ trong thời gian bị bệnh                         | Mức độ hài lòng với cuộc sống cao nhất trên thế giới                                     |
+| **Phần Lan**  | 320 ngày (chia sẻ)                    | Tối thiểu 25 ngày                   | Lương đầy đủ, 10 ngày đầu tiên do người sử dụng lao động trả | Hệ thống giáo dục tốt nhất trên thế giới, liên tục đứng đầu HDI                          |
+| **Pháp**      | 16 tuần cho mẹ + 28 ngày cho cha      | Tối thiểu 25 ngày                   | Lương đầy đủ trong tối đa 3 năm (bệnh nặng)                  | Nền kinh tế lớn thứ 7 trên thế giới                                                      |
+| **Na Uy**     | 49 tuần với 100% hoặc 59 tuần với 80% | Tối thiểu 25 ngày                   | Không giới hạn, 100% lương (năm đầu tiên)                    | HDI cao nhất trên thế giới                                                               |
+| **Hoa Kỳ**    | 0 ngày có lương                       | 0 ngày được đảm bảo                 | 0 ngày đảm bảo liên bang                                     | Tỷ lệ tử vong mẹ cao nhất trong thế giới phát triển                                      |
 
 **Mối tương quan là rõ ràng:** Các quốc gia có chế độ nghỉ phép có lương hào phóng có nền kinh tế MẠNH MẼ HƠN, năng suất cao hơn, chi phí chăm sóc sức khỏe thấp hơn, tỷ lệ tử vong ở trẻ sơ sinh thấp hơn và dân số hạnh phúc hơn.
 

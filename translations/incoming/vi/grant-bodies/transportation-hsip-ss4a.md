@@ -114,13 +114,13 @@ Quỹ đạo của Denver đang di chuyển một cách quyết định ra khỏ
 
 ### E. Tiến Độ Dự Án
 
-| Giai Đoạn                   | Thời Gian    | Các Cột Mốc Quan Trọng                                                                                                                                                                                                             |
-| -------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lập Kế Hoạch & Thiết Kế** | Tháng 1-8  | Hoàn thành Kiểm Toán An Toàn Đường Bộ tại tất cả 20 địa điểm giao lộ; hoàn thiện thiết kế kỹ thuật cho việc thiết kế lại giao lộ và làn đường xe đạp được bảo vệ; thực hiện vòng 1 tương tác cộng đồng; mua sắm thiết bị thực thi tốc độ tự động |
-| **Mua Sắm**                | Tháng 5-10 | Phát hành RFP cho hợp đồng xây dựng; trao hợp đồng thiết kế lại giao lộ và xây dựng làn đường xe đạp; thực hiện thỏa thuận với nhà cung cấp thực thi tự động (có thể trùng lặp với thiết kế cho công việc theo giai đoạn)                                |
-| **Giai Đoạn Xây Dựng 1**     | Tháng 9-20 | Hoàn thành việc thiết kế lại giao lộ tại 10 địa điểm có mức độ ưu tiên cao nhất; lắp đặt hệ thống thực thi tốc độ tự động ở 20 khu vực trường học đầu tiên; hoàn thành việc nâng cấp tín hiệu dành cho người đi bộ tại 50 giao lộ; bắt đầu xây dựng làn đường xe đạp được bảo vệ trên 8-10 dặm đầu tiên         |
-| **Giai Đoạn Xây Dựng 2**     | Tháng 18-30 | Hoàn thành 10 thiết kế lại giao lộ còn lại; lắp đặt hệ thống thực thi tốc độ tự động ở các khu vực trường học còn lại; hoàn thành tất cả các nâng cấp tín hiệu dành cho người đi bộ; hoàn thành việc xây dựng làn đường xe đạp được bảo vệ trên các hành lang còn lại                                          |
-| **Kết Thúc & Đánh Giá**      | Tháng 28-36 | Thu thập dữ liệu tốc độ và tai nạn sau xây dựng; đánh giá an toàn 24 tháng tại các địa điểm Giai đoạn 1; đánh giá 12 tháng tại các địa điểm Giai đoạn 2; báo cáo cuối cùng và phân tích khả năng nhân rộng; khảo sát theo dõi nhận thức của cộng đồng                                                    |
+| Giai Đoạn                   | Thời Gian   | Các Cột Mốc Quan Trọng                                                                                                                                                                                                                                                                                  |
+| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lập Kế Hoạch & Thiết Kế** | Tháng 1-8   | Hoàn thành Kiểm Toán An Toàn Đường Bộ tại tất cả 20 địa điểm giao lộ; hoàn thiện thiết kế kỹ thuật cho việc thiết kế lại giao lộ và làn đường xe đạp được bảo vệ; thực hiện vòng 1 tương tác cộng đồng; mua sắm thiết bị thực thi tốc độ tự động                                                        |
+| **Mua Sắm**                 | Tháng 5-10  | Phát hành RFP cho hợp đồng xây dựng; trao hợp đồng thiết kế lại giao lộ và xây dựng làn đường xe đạp; thực hiện thỏa thuận với nhà cung cấp thực thi tự động (có thể trùng lặp với thiết kế cho công việc theo giai đoạn)                                                                               |
+| **Giai Đoạn Xây Dựng 1**    | Tháng 9-20  | Hoàn thành việc thiết kế lại giao lộ tại 10 địa điểm có mức độ ưu tiên cao nhất; lắp đặt hệ thống thực thi tốc độ tự động ở 20 khu vực trường học đầu tiên; hoàn thành việc nâng cấp tín hiệu dành cho người đi bộ tại 50 giao lộ; bắt đầu xây dựng làn đường xe đạp được bảo vệ trên 8-10 dặm đầu tiên |
+| **Giai Đoạn Xây Dựng 2**    | Tháng 18-30 | Hoàn thành 10 thiết kế lại giao lộ còn lại; lắp đặt hệ thống thực thi tốc độ tự động ở các khu vực trường học còn lại; hoàn thành tất cả các nâng cấp tín hiệu dành cho người đi bộ; hoàn thành việc xây dựng làn đường xe đạp được bảo vệ trên các hành lang còn lại                                   |
+| **Kết Thúc & Đánh Giá**     | Tháng 28-36 | Thu thập dữ liệu tốc độ và tai nạn sau xây dựng; đánh giá an toàn 24 tháng tại các địa điểm Giai đoạn 1; đánh giá 12 tháng tại các địa điểm Giai đoạn 2; báo cáo cuối cùng và phân tích khả năng nhân rộng; khảo sát theo dõi nhận thức của cộng đồng                                                   |
 
 ### F. Phù Hợp Với Các Mục Tiêu Của Chương Trình HSIP và SS4A
 
@@ -143,31 +143,31 @@ Dự án này thúc đẩy cả các mục tiêu của Chương Trình Cải Thi
 
 ## Tóm Tắt Ngân Sách
 
-| Danh Mục                                                    | Số Tiền         | % Tổng Số |
-| ----------------------------------------------------------- | -------------- | -------- |
-| Thiết Kế Lại Giao Lộ (20 Điểm Đen Tai Nạn hàng đầu)            | $8.000.000     | 44%      |
-| Xây Dựng Làn Đường Xe Đạp Được Bảo Vệ (các hành lang có số vụ tai nạn cao) | $5.000.000     | 28%      |
-| Thực Thi Tốc Độ Tự Động (khu vực trường học)                  | $2.000.000     | 11%      |
-| Cải Thiện Tín Hiệu Dành Cho Người Đi Bộ (Mạng Lưới Điểm Đen Tai Nạn) | $2.000.000     | 11%      |
-| Quản Lý Dự Án, Tương Tác & Đánh Giá                        | $1.000.000     | 6%       |
-| **Tổng Số Yêu Cầu Liên Bang**                               | **$18.000.000** | **100%** |
-| Đối Ứng Địa Phương (ngân sách vốn của DOTI + quỹ Tầm Nhìn Số Không Thương Vong Giao Thông) | $5.400.000     | —        |
-| **Tổng Đầu Tư Dự Án**                                     | **$23.400.000** | —        |
+| Danh Mục                                                                                   | Số Tiền         | % Tổng Số |
+| ------------------------------------------------------------------------------------------ | --------------- | --------- |
+| Thiết Kế Lại Giao Lộ (20 Điểm Đen Tai Nạn hàng đầu)                                        | $8.000.000      | 44%       |
+| Xây Dựng Làn Đường Xe Đạp Được Bảo Vệ (các hành lang có số vụ tai nạn cao)                 | $5.000.000      | 28%       |
+| Thực Thi Tốc Độ Tự Động (khu vực trường học)                                               | $2.000.000      | 11%       |
+| Cải Thiện Tín Hiệu Dành Cho Người Đi Bộ (Mạng Lưới Điểm Đen Tai Nạn)                       | $2.000.000      | 11%       |
+| Quản Lý Dự Án, Tương Tác & Đánh Giá                                                        | $1.000.000      | 6%        |
+| **Tổng Số Yêu Cầu Liên Bang**                                                              | **$18.000.000** | **100%**  |
+| Đối Ứng Địa Phương (ngân sách vốn của DOTI + quỹ Tầm Nhìn Số Không Thương Vong Giao Thông) | $5.400.000      | —         |
+| **Tổng Đầu Tư Dự Án**                                                                      | **$23.400.000** | —         |
 
 **Lưu ý về Phân Chia Liên Bang/Địa Phương:** Quỹ HSIP có sẵn với tỷ lệ đối ứng liên bang/địa phương là 90/10 cho các dự án an toàn trên đường cao tốc do liên bang hỗ trợ. Tài Trợ Thực Hiện SS4A yêu cầu đối ứng địa phương tối thiểu 20%. Ngân sách trên giả định tỷ lệ liên bang/địa phương hỗn hợp là 77/23. Khoản đối ứng địa phương của Denver sẽ được tài trợ thông qua các khoản phân bổ ngân sách vốn DOTI hiện có cho Tầm Nhìn Số Không Thương Vong Giao Thông và cơ sở hạ tầng xe đạp, chứng minh rằng thành phố đang bổ sung — chứ không thay thế — khoản đầu tư an toàn địa phương bằng quỹ liên bang. Chi tiêu hàng năm của thành phố cho Tầm Nhìn Số Không Thương Vong Giao Thông và cơ sở hạ tầng xe đạp là 5-10 triệu đô la mỗi năm (ngân sách vốn của DOTI) và 13,4 triệu đô la đầu tư vào làn đường xe đạp từ năm 2018 đến năm 2023 chứng minh cam kết địa phương bền vững.
 
 ## Kết Quả Dự Kiến
 
-| Số Liệu                                                                | Đường Cơ Sở                                 | Mục Tiêu 3 Năm                                |
-| ----------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------- |
-| Số người chết do giao thông hàng năm (toàn thành phố)                    | 93 (2025)                                 | Giảm 20-30% (65-74)                          |
-| Số người đi bộ thiệt mạng hàng năm (toàn thành phố)                      | 35 (2025)                                 | Giảm 30-40% (21-25)                          |
-| Tai nạn tại các giao lộ được thiết kế lại                                 | Thay đổi theo địa điểm (trung bình ~25/năm) | Giảm 40% trên mỗi giao lộ                  |
-| Tốc độ phân vị thứ 85 trong khu vực trường học có thực thi tự động          | Ước tính 30-35 dặm/giờ                      | Giảm xuống 20-25 dặm/giờ                      |
-| Số dặm làn đường xe đạp được bảo vệ                                      | Tổng cộng 254 dặm (bảo vệ hạn chế)         | +15-20 dặm làn đường được bảo vệ vật lý       |
-| Số người đi xe đạp thiệt mạng và bị thương nghiêm trọng trên các hành lang dự án | ~8-12 thương tích nghiêm trọng/năm            | Giảm 30%                                     |
-| Các giao lộ có Khoảng Thời Gian Dành Cho Người Đi Bộ Dẫn Đầu trên Mạng Lưới Điểm Đen Tai Nạn | Triển khai hạn chế                        | 80-100 giao lộ được nâng cấp                 |
-| Sự tuân thủ tín hiệu dành cho người đi bộ với các tiêu chuẩn APS            | ~35% số giao lộ trên Mạng Lưới Điểm Đen Tai Nạn | ~75% số giao lộ trên Mạng Lưới Điểm Đen Tai Nạn |
+| Số Liệu                                                                                      | Đường Cơ Sở                                     | Mục Tiêu 3 Năm                                  |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
+| Số người chết do giao thông hàng năm (toàn thành phố)                                        | 93 (2025)                                       | Giảm 20-30% (65-74)                             |
+| Số người đi bộ thiệt mạng hàng năm (toàn thành phố)                                          | 35 (2025)                                       | Giảm 30-40% (21-25)                             |
+| Tai nạn tại các giao lộ được thiết kế lại                                                    | Thay đổi theo địa điểm (trung bình ~25/năm)     | Giảm 40% trên mỗi giao lộ                       |
+| Tốc độ phân vị thứ 85 trong khu vực trường học có thực thi tự động                           | Ước tính 30-35 dặm/giờ                          | Giảm xuống 20-25 dặm/giờ                        |
+| Số dặm làn đường xe đạp được bảo vệ                                                          | Tổng cộng 254 dặm (bảo vệ hạn chế)              | +15-20 dặm làn đường được bảo vệ vật lý         |
+| Số người đi xe đạp thiệt mạng và bị thương nghiêm trọng trên các hành lang dự án             | ~8-12 thương tích nghiêm trọng/năm              | Giảm 30%                                        |
+| Các giao lộ có Khoảng Thời Gian Dành Cho Người Đi Bộ Dẫn Đầu trên Mạng Lưới Điểm Đen Tai Nạn | Triển khai hạn chế                              | 80-100 giao lộ được nâng cấp                    |
+| Sự tuân thủ tín hiệu dành cho người đi bộ với các tiêu chuẩn APS                             | ~35% số giao lộ trên Mạng Lưới Điểm Đen Tai Nạn | ~75% số giao lộ trên Mạng Lưới Điểm Đen Tai Nạn |
 
 **Phương Pháp Luận Giảm Tai Nạn:** Kết quả dự kiến dựa trên các Yếu Tố Sửa Đổi Tai Nạn (CMF) đã được công bố từ Trung Tâm Thanh Toán CMF của FHWA. Việc thiết kế lại giao lộ kết hợp việc kéo dài lề đường, vạch kẻ đường được nâng lên và các chuyển động rẽ bị hạn chế đã ghi lại CMF từ 0,47-0,70 cho các vụ tai nạn người đi bộ. Khoảng Thời Gian Dành Cho Người Đi Bộ Dẫn Đầu làm giảm tai nạn giữa người đi bộ và xe cộ ước tính 13% (CMF = 0,87). Việc thực thi tốc độ tự động trong khu vực trường học làm giảm tai nạn gây thương tích từ 20-40% trong các đợt triển khai thành phố ngang hàng (IIHS, 2024). Làn đường xe đạp được bảo vệ làm giảm nguy cơ thương tích cho người đi xe đạp 75% so với làn đường không được bảo vệ (Teschke et al., 2012).
 

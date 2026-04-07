@@ -20,12 +20,12 @@ Denver hiện **không có thuế đối với nhà bỏ trống hoặc hình ph
 Đánh thuế đối với các bất động sản dân cư bị bỏ trống hơn 6 tháng trong một năm dương lịch, tăng dần theo thời gian:
 
 | Số Năm Bỏ Trống | Mức Thuế (% giá trị ước tính) |
-| ------------- | ---------------------------- |
-| Năm 1         | 1%                           |
-| Năm 2         | 2%                           |
-| Năm 3         | 3%                           |
-| Năm 4         | 4%                           |
-| Năm 5+        | 5%                           |
+| --------------- | ----------------------------- |
+| Năm 1           | 1%                            |
+| Năm 2           | 2%                            |
+| Năm 3           | 3%                            |
+| Năm 4           | 4%                            |
+| Năm 5+          | 5%                            |
 
 **Đối với một ngôi nhà được định giá 500.000 đô la:**
 
@@ -57,13 +57,13 @@ Denver hiện **không có thuế đối với nhà bỏ trống hoặc hình ph
 
 ### Bằng Chứng Quốc Tế: Thuế Nhà Bỏ Trống Có Hiệu Quả
 
-| Thành Phố/Quốc Gia          | Mô Hình                                                                         | Kết Quả                                                                                                                                             |
-| --------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Vancouver, Canada**      | Thuế Nhà Trống 1% (2017), tăng lên 3% (2021).                                   | Tỷ lệ nhà bỏ trống giảm 25% trong năm đầu tiên. Tạo ra hơn 170 triệu đô la Canada doanh thu lũy kế (2017-2023). Hàng ngàn căn nhà được đưa trở lại thị trường cho thuê. |
-| **Melbourne, Australia**   | Thuế Đất ở Bỏ Trống 1% đối với các bất động sản bị bỏ trống hơn 6 tháng.                | Doanh thu dành cho nhà ở giá cả phải chăng. Các bất động sản bỏ trống giảm đáng kể.                                                                     |
-| **Paris, France**          | _Taxe sur les logements vacants_ - thuế lũy tiến đối với nhà ở bỏ trống từ 1 năm trở lên. | Số lượng nhà bỏ trống ở Paris giảm. Doanh thu tài trợ cho việc xây dựng nhà ở xã hội.                                                                         |
-| **Vương quốc Anh (nhiều hội đồng)** | Phụ phí thuế hội đồng lên đến 300% đối với các bất động sản bỏ trống dài hạn.            | Hàng ngàn ngôi nhà bỏ trống được đưa trở lại sử dụng.                                                                                                |
-| **Washington, DC**         | Thuế bất động sản bỏ trống gấp 5 lần mức tiêu chuẩn.                                  | Một trong những mức thuế nhà bỏ trống cao nhất ở Hoa Kỳ. Ngăn chặn đầu cơ và tích trữ đất đai.                                                                  |
+| Thành Phố/Quốc Gia                  | Mô Hình                                                                                   | Kết Quả                                                                                                                                                                 |
+| ----------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vancouver, Canada**               | Thuế Nhà Trống 1% (2017), tăng lên 3% (2021).                                             | Tỷ lệ nhà bỏ trống giảm 25% trong năm đầu tiên. Tạo ra hơn 170 triệu đô la Canada doanh thu lũy kế (2017-2023). Hàng ngàn căn nhà được đưa trở lại thị trường cho thuê. |
+| **Melbourne, Australia**            | Thuế Đất ở Bỏ Trống 1% đối với các bất động sản bị bỏ trống hơn 6 tháng.                  | Doanh thu dành cho nhà ở giá cả phải chăng. Các bất động sản bỏ trống giảm đáng kể.                                                                                     |
+| **Paris, France**                   | _Taxe sur les logements vacants_ - thuế lũy tiến đối với nhà ở bỏ trống từ 1 năm trở lên. | Số lượng nhà bỏ trống ở Paris giảm. Doanh thu tài trợ cho việc xây dựng nhà ở xã hội.                                                                                   |
+| **Vương quốc Anh (nhiều hội đồng)** | Phụ phí thuế hội đồng lên đến 300% đối với các bất động sản bỏ trống dài hạn.             | Hàng ngàn ngôi nhà bỏ trống được đưa trở lại sử dụng.                                                                                                                   |
+| **Washington, DC**                  | Thuế bất động sản bỏ trống gấp 5 lần mức tiêu chuẩn.                                      | Một trong những mức thuế nhà bỏ trống cao nhất ở Hoa Kỳ. Ngăn chặn đầu cơ và tích trữ đất đai.                                                                          |
 
 **Xu hướng rất rõ ràng:** các thành phố đánh thuế các bất động sản bỏ trống liên tục thấy số lượng nhà bỏ trống giảm và nguồn cung nhà ở tăng lên. Đây là một trong những công cụ chính sách nhà ở đơn giản nhất, đã được chứng minh hiệu quả nhất hiện có.
 

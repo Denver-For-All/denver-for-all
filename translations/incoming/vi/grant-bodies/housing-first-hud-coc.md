@@ -120,13 +120,13 @@ Denver đang đối mặt với một cuộc khủng hoảng vô gia cư nghiêm
 
 ### E. Lịch Trình Dự Án
 
-| Giai Đoạn                         | Thời Gian     | Các Mốc Quan Trọng                                                                                                 |
-| --------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Lập Kế Hoạch & Mua Sắm**         | Tháng 1-6     | Thực hiện các thỏa thuận với người nhận phụ, hoàn thiện việc lựa chọn địa điểm, thuê nhân viên chương trình, khởi động nâng cấp tiếp cận phối hợp |
-| **Mua Lại & Chuyển Đổi**           | Tháng 4-14    | Mua lại tài sản, hoàn thành cải tạo, lấy giấy chứng nhận cư trú, bắt đầu cho thuê PSH                               |
-| **Hoạt Động Đầy Đủ — Năm 1**       | Tháng 7-18    | 150 đơn vị PSH có người ở, phục vụ 200 hộ gia đình RRH, các dịch vụ hỗ trợ toàn diện hoạt động đầy đủ                        |
-| **Hoạt Động Đầy Đủ — Năm 2**       | Tháng 13-30   | Tất cả 300 đơn vị PSH có người ở, nhóm 200 hộ gia đình RRH thứ hai, hoàn thành đánh giá giữa kỳ                         |
-| **Ổn Định & Kết Thúc**           | Tháng 28-36   | Chuyển đổi sang các dòng tài trợ bền vững, đánh giá cuối cùng, lập kế hoạch tiếp tục chương trình                       |
+| Giai Đoạn                    | Thời Gian   | Các Mốc Quan Trọng                                                                                                                                |
+| ---------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lập Kế Hoạch & Mua Sắm**   | Tháng 1-6   | Thực hiện các thỏa thuận với người nhận phụ, hoàn thiện việc lựa chọn địa điểm, thuê nhân viên chương trình, khởi động nâng cấp tiếp cận phối hợp |
+| **Mua Lại & Chuyển Đổi**     | Tháng 4-14  | Mua lại tài sản, hoàn thành cải tạo, lấy giấy chứng nhận cư trú, bắt đầu cho thuê PSH                                                             |
+| **Hoạt Động Đầy Đủ — Năm 1** | Tháng 7-18  | 150 đơn vị PSH có người ở, phục vụ 200 hộ gia đình RRH, các dịch vụ hỗ trợ toàn diện hoạt động đầy đủ                                             |
+| **Hoạt Động Đầy Đủ — Năm 2** | Tháng 13-30 | Tất cả 300 đơn vị PSH có người ở, nhóm 200 hộ gia đình RRH thứ hai, hoàn thành đánh giá giữa kỳ                                                   |
+| **Ổn Định & Kết Thúc**       | Tháng 28-36 | Chuyển đổi sang các dòng tài trợ bền vững, đánh giá cuối cùng, lập kế hoạch tiếp tục chương trình                                                 |
 
 ### F. Phù Hợp Với Các Mục Tiêu Của Chương Trình CoC của HUD
 
@@ -153,32 +153,32 @@ Khoản đầu tư liên bang được yêu cầu là $17 triệu bổ sung cho 
 
 ## Tóm Tắt Ngân Sách
 
-| Hạng Mục                                                               | Số Tiền          | % Tổng Số |
-| ---------------------------------------------------------------------- | --------------- | -------- |
-| Mua Lại & Chuyển Đổi PSH (300 đơn vị)                                 | $8,000,000      | 47%      |
-| Dịch Vụ Tái Định Cư Nhanh & Ưu Đãi Cho Chủ Nhà (200 hộ gia đình/năm) | $4,000,000      | 24%      |
-| Dịch Vụ Hỗ Trợ Toàn Diện (quản lý ca bệnh, sức khỏe hành vi, việc làm) | $3,000,000      | 17%      |
-| Tiếp Cận Phối Hợp & Cơ Sở Hạ Tầng Dữ Liệu                                | $1,000,000      | 6%       |
-| Đánh Giá Chương Trình                                                    | $1,000,000      | 6%       |
-| **Tổng Số Yêu Cầu Liên Bang**                                          | **$17,000,000** | **100%** |
-| Đối Ứng Địa Phương (HOST, Cơ Quan Nhà Ở Xã Hội, từ thiện)              | $4,250,000      | —        |
-| **Tổng Số Đầu Tư Dự Án**                                               | **$21,250,000** | —        |
+| Hạng Mục                                                               | Số Tiền         | % Tổng Số |
+| ---------------------------------------------------------------------- | --------------- | --------- |
+| Mua Lại & Chuyển Đổi PSH (300 đơn vị)                                  | $8,000,000      | 47%       |
+| Dịch Vụ Tái Định Cư Nhanh & Ưu Đãi Cho Chủ Nhà (200 hộ gia đình/năm)   | $4,000,000      | 24%       |
+| Dịch Vụ Hỗ Trợ Toàn Diện (quản lý ca bệnh, sức khỏe hành vi, việc làm) | $3,000,000      | 17%       |
+| Tiếp Cận Phối Hợp & Cơ Sở Hạ Tầng Dữ Liệu                              | $1,000,000      | 6%        |
+| Đánh Giá Chương Trình                                                  | $1,000,000      | 6%        |
+| **Tổng Số Yêu Cầu Liên Bang**                                          | **$17,000,000** | **100%**  |
+| Đối Ứng Địa Phương (HOST, Cơ Quan Nhà Ở Xã Hội, từ thiện)              | $4,250,000      | —         |
+| **Tổng Số Đầu Tư Dự Án**                                               | **$21,250,000** | —         |
 
 _Lưu ý: Chương trình CoC của HUD yêu cầu mức đối ứng tối thiểu 25% cho hầu hết các loại dự án. Mức đối ứng địa phương $4.25 triệu thể hiện mức đối ứng 25% so với yêu cầu liên bang, có nguồn từ quỹ hoạt động của HOST, các cam kết vốn của Cơ Quan Nhà Ở Xã Hội và đóng góp từ thiện._
 
 ## Kết Quả Dự Kiến
 
-| Số Liệu                                                   | Cơ Sở                      | Mục Tiêu 3 Năm                               |
-| --------------------------------------------------------- | -------------------------- | -------------------------------------------- |
-| Các đơn vị PSH mới đi vào hoạt động                        | ~1,300 tổng số ở Denver     | +300 đơn vị (tăng 23%)                        |
-| Các hộ gia đình được phục vụ thông qua tái định cư nhanh | Năng lực hiện tại             | +200 hộ gia đình/năm (tổng cộng 600 trong 3 năm) |
-| Tỷ lệ duy trì nhà ở (PSH, 12 tháng)                       | Thay đổi theo nhà cung cấp | 85%+                                         |
-| Số lần quay trở lại tình trạng vô gia cư (trong vòng 12 tháng kể từ khi sắp xếp) | ~20-25%                    | <10%                                         |
-| Số lần thăm khám phòng cấp cứu trong số những người tham gia PSH   | ~8-12 lần thăm khám/người/năm | Giảm 50%                                      |
-| Số lần ghi danh vào tù trong số những người tham gia PSH       | ~4-6 lần ghi danh/người/năm   | Giảm 60%                                      |
-| Chi phí hàng năm trên mỗi người (PSH so với hệ thống khẩn cấp) | $40,000-$80,000            | $15,000-$25,000                              |
-| Tiết kiệm công ròng trên mỗi người mỗi năm                 | $0 (hệ thống hiện tại)       | $36,000-$62,000                              |
-| Thời gian từ đánh giá đến sắp xếp tiếp cận phối hợp        | 12+ tháng                 | <6 tháng                                      |
+| Số Liệu                                                                          | Cơ Sở                         | Mục Tiêu 3 Năm                                   |
+| -------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------ |
+| Các đơn vị PSH mới đi vào hoạt động                                              | ~1,300 tổng số ở Denver       | +300 đơn vị (tăng 23%)                           |
+| Các hộ gia đình được phục vụ thông qua tái định cư nhanh                         | Năng lực hiện tại             | +200 hộ gia đình/năm (tổng cộng 600 trong 3 năm) |
+| Tỷ lệ duy trì nhà ở (PSH, 12 tháng)                                              | Thay đổi theo nhà cung cấp    | 85%+                                             |
+| Số lần quay trở lại tình trạng vô gia cư (trong vòng 12 tháng kể từ khi sắp xếp) | ~20-25%                       | <10%                                             |
+| Số lần thăm khám phòng cấp cứu trong số những người tham gia PSH                 | ~8-12 lần thăm khám/người/năm | Giảm 50%                                         |
+| Số lần ghi danh vào tù trong số những người tham gia PSH                         | ~4-6 lần ghi danh/người/năm   | Giảm 60%                                         |
+| Chi phí hàng năm trên mỗi người (PSH so với hệ thống khẩn cấp)                   | $40,000-$80,000               | $15,000-$25,000                                  |
+| Tiết kiệm công ròng trên mỗi người mỗi năm                                       | $0 (hệ thống hiện tại)        | $36,000-$62,000                                  |
+| Thời gian từ đánh giá đến sắp xếp tiếp cận phối hợp                              | 12+ tháng                     | <6 tháng                                         |
 
 ## Các Nguồn Dữ Liệu Chính
 

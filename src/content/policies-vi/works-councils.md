@@ -70,13 +70,13 @@ Vì luật lao động liên bang phủ quyết một số quy định về nơi
 
 ## Bằng Chứng: Điều Này Hiệu Quả
 
-| Quốc Gia         | Mô Hình                                                                 | Phạm Vi Bao Phủ       | Kết Quả                                                                              |
-| --------------- | --------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------- |
-| **Đức**     | Hội đồng công nhân bắt buộc (từ 5 nhân viên trở lên), đồng quyết định của hội đồng quản trị (từ 500 trở lên) | Hơn 40 triệu công nhân   | Năng suất cao hơn, tỷ lệ luân chuyển thấp hơn, bất bình đẳng thấp hơn 12% (Gini) so với Hoa Kỳ            |
-| **Áo**     | Hội đồng công nhân trong tất cả các công ty có từ 5 nhân viên trở lên                         | Toàn Diện  | Một trong những tỷ lệ đình công thấp nhất ở Châu Âu - vì các tranh chấp được giải quyết nội bộ |
-| **Hà Lan** | Hội đồng công nhân trong các công ty có từ 50 nhân viên trở lên                            | Phạm vi rộng | Công nhân báo cáo mức độ hài lòng trong công việc cao nhất ở Châu Âu                                   |
-| **Thụy Điển**      | Đại diện hội đồng quản trị trong tất cả các công ty có từ 25 nhân viên trở lên              | Phổ Quát      | Nền kinh tế cạnh tranh nhất thế giới theo Diễn đàn Kinh tế Thế giới                           |
-| **Đan Mạch**     | Đại diện hội đồng quản trị trong các công ty có từ 35 nhân viên trở lên                  | Phổ Quát      | Mô hình "Linh hoạt An toàn" kết hợp tiếng nói của người lao động với sự năng động kinh tế                    |
+| Quốc Gia      | Mô Hình                                                                                                      | Phạm Vi Bao Phủ        | Kết Quả                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------- |
+| **Đức**       | Hội đồng công nhân bắt buộc (từ 5 nhân viên trở lên), đồng quyết định của hội đồng quản trị (từ 500 trở lên) | Hơn 40 triệu công nhân | Năng suất cao hơn, tỷ lệ luân chuyển thấp hơn, bất bình đẳng thấp hơn 12% (Gini) so với Hoa Kỳ |
+| **Áo**        | Hội đồng công nhân trong tất cả các công ty có từ 5 nhân viên trở lên                                        | Toàn Diện              | Một trong những tỷ lệ đình công thấp nhất ở Châu Âu - vì các tranh chấp được giải quyết nội bộ |
+| **Hà Lan**    | Hội đồng công nhân trong các công ty có từ 50 nhân viên trở lên                                              | Phạm vi rộng           | Công nhân báo cáo mức độ hài lòng trong công việc cao nhất ở Châu Âu                           |
+| **Thụy Điển** | Đại diện hội đồng quản trị trong tất cả các công ty có từ 25 nhân viên trở lên                               | Phổ Quát               | Nền kinh tế cạnh tranh nhất thế giới theo Diễn đàn Kinh tế Thế giới                            |
+| **Đan Mạch**  | Đại diện hội đồng quản trị trong các công ty có từ 35 nhân viên trở lên                                      | Phổ Quát               | Mô hình "Linh hoạt An toàn" kết hợp tiếng nói của người lao động với sự năng động kinh tế      |
 
 **Thông tin cốt lõi:** Các quốc gia nơi người lao động có quyền lực mang tính cấu trúc tại nơi làm việc GIÀU CÓ hơn, không nghèo hơn. Họ có nền kinh tế mạnh hơn, bất bình đẳng thấp hơn, đổi mới cao hơn và chất lượng cuộc sống tốt hơn. Tiếng nói của người lao động không phải là một chi phí - đó là một lợi thế cạnh tranh.
 

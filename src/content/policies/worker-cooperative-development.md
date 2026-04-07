@@ -83,6 +83,7 @@ The fund is capitalized through a combination of city general fund appropriation
 Partner with Denver's Small Business Development Center, SCORE, and industry associations to **proactively identify retiring business owners** and offer worker conversion as a succession option.
 
 The program provides:
+
 - **Free succession planning consultations** for business owners over 60 with no current succession plan.
 - **Worker readiness assessments** — working with current employees of identified businesses to gauge interest and readiness for cooperative ownership.
 - **Seller financing incentives** — state tax credits for business owners who sell to their employees on favorable terms, modeled on Colorado's 2024 WCEA (pending extension).
@@ -114,6 +115,7 @@ Fund a **Denver Cooperative Business Center** — a co-located technical assista
 Denver's aging population creates growing demand for homecare services. The homecare industry is characterized by low wages, high turnover, poor working conditions, and racial stratification. It is also an industry where worker cooperative models have succeeded nationally (e.g., the Cooperative Care model in New York).
 
 Launch a **Cooperative Homecare Pilot Program** in partnership with Denver Human Services:
+
 - Contract preferentially with worker-owned homecare cooperatives for city-funded homecare services.
 - Provide a $2M seed grant for formation and working capital for a new Denver homecare cooperative.
 - Use the city's purchasing power to ensure the cooperative has a sustainable client base from day one.
@@ -124,13 +126,13 @@ Launch a **Cooperative Homecare Pilot Program** in partnership with Denver Human
 
 Worker cooperatives are not a theoretical ideal. They are a thoroughly studied economic institution with decades of performance data:
 
-| Finding | Evidence |
-|---|---|
-| **Recession resilience** | Worker cooperatives show 2.5x lower failure rates during recessions than comparable conventional firms (Birchall & Ketilson, ILO, 2009) |
-| **Employment stability** | Co-ops reduce worker hours rather than laying off workers during downturns, maintaining employment levels (Pencavel et al., 2006) |
-| **Wage premium** | Worker-owners in cooperatives earn 30% more on average than comparable employees in conventional firms (Dube & Freeman, 2010) |
-| **Productivity** | Meta-analysis of 43 studies found cooperatives are at least as productive as conventional firms, often more so (Doucouliagos, 1995; replicated in multiple subsequent studies) |
-| **Wealth building** | Worker-owners accumulate significantly more asset wealth than comparable employees in conventional firms (NCEO, 2023) |
+| Finding                  | Evidence                                                                                                                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Recession resilience** | Worker cooperatives show 2.5x lower failure rates during recessions than comparable conventional firms (Birchall & Ketilson, ILO, 2009)                                        |
+| **Employment stability** | Co-ops reduce worker hours rather than laying off workers during downturns, maintaining employment levels (Pencavel et al., 2006)                                              |
+| **Wage premium**         | Worker-owners in cooperatives earn 30% more on average than comparable employees in conventional firms (Dube & Freeman, 2010)                                                  |
+| **Productivity**         | Meta-analysis of 43 studies found cooperatives are at least as productive as conventional firms, often more so (Doucouliagos, 1995; replicated in multiple subsequent studies) |
+| **Wealth building**      | Worker-owners accumulate significantly more asset wealth than comparable employees in conventional firms (NCEO, 2023)                                                          |
 
 ### Model Programs
 
@@ -170,14 +172,15 @@ Worker cooperatives operate across virtually every industry. They are particular
 
 ## How We Pay For It
 
-| Funding Source | Amount |
-|---|---|
-| Denver General Fund | ~$8M (initial capitalization) |
-| Federal EDA (Economic Development Administration) grants | ~$7M |
-| CDFI (Community Development Financial Institution) investment | ~$5M |
-| City of Denver OED operating budget (technical assistance staff) | ~$1.5M/year |
+| Funding Source                                                   | Amount                        |
+| ---------------------------------------------------------------- | ----------------------------- |
+| Denver General Fund                                              | ~$8M (initial capitalization) |
+| Federal EDA (Economic Development Administration) grants         | ~$7M                          |
+| CDFI (Community Development Financial Institution) investment    | ~$5M                          |
+| City of Denver OED operating budget (technical assistance staff) | ~$1.5M/year                   |
 
 **Projected returns:**
+
 - 50 cooperative conversions preserving ~2,000 jobs at risk of closure: ~$150M in preserved annual payroll
 - New cooperative formations adding ~500 jobs in first four years
 - Reduced public assistance costs as worker-owners build asset wealth
@@ -187,11 +190,11 @@ The Cooperative Development Fund is designed as a revolving fund: loan repayment
 
 ## References
 
-- Birchall, J. & Ketilson, L.H. *Resilience of the Cooperative Business Model in Times of Crisis.* ILO, 2009.
-- Colorado General Assembly. HB24-1092, *Worker Cooperative Corporations Act.* 2024.
-- Doucouliagos, C. *Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms.* Industrial and Labor Relations Review, 1995.
-- Dube, A. & Freeman, R. *Complementarity of Shared Compensation and Decision-Making Systems.* NBER, 2010.
-- National Center for Employee Ownership. *Employee Ownership and Economic Well-Being.* 2023.
-- Pencavel, J. et al. *Wages, Employment, and Capital in Capitalist and Worker-Owned Firms.* Industrial and Labor Relations Review, 2006.
-- Project Equity. *The Ownership Crisis: Retiring Boomer Business Owners.* 2023.
-- US Federation of Worker Cooperatives. *Annual Report.* 2023.
+- Birchall, J. & Ketilson, L.H. _Resilience of the Cooperative Business Model in Times of Crisis._ ILO, 2009.
+- Colorado General Assembly. HB24-1092, _Worker Cooperative Corporations Act._ 2024.
+- Doucouliagos, C. _Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms._ Industrial and Labor Relations Review, 1995.
+- Dube, A. & Freeman, R. _Complementarity of Shared Compensation and Decision-Making Systems._ NBER, 2010.
+- National Center for Employee Ownership. _Employee Ownership and Economic Well-Being._ 2023.
+- Pencavel, J. et al. _Wages, Employment, and Capital in Capitalist and Worker-Owned Firms._ Industrial and Labor Relations Review, 2006.
+- Project Equity. _The Ownership Crisis: Retiring Boomer Business Owners._ 2023.
+- US Federation of Worker Cooperatives. _Annual Report._ 2023.

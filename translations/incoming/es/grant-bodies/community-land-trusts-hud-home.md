@@ -136,13 +136,13 @@ El modelo de fideicomiso de tierras comunitarias aborda la causa raíz de la fal
 
 ### F. Cronograma del Proyecto
 
-| Fase                                   | Cronograma    | Hitos Clave                                                                                                                                                         |
-| -------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Puesta en Marcha y Desarrollo de la Capacidad** | Meses 1-6     | Ejecutar el acuerdo de subreceptor con Elevation CLT, contratar personal del proyecto, lanzar la cartera de proyectos de adquisición, comenzar la inscripción para la preparación del comprador de vivienda. |
-| **Fase de Adquisición 1**                | Meses 4-14    | Adquirir las primeras 40-60 propiedades en los vecindarios con mayor riesgo de desplazamiento, comenzar la rehabilitación en las primeras adquisiciones.                                      |
-| **Fase de Adquisición 2**                | Meses 12-24   | Adquirir las 40-60 propiedades restantes, completar la rehabilitación en las unidades de la Fase 1, colocar a los primeros propietarios de CLT.                                                  |
-| **Ocupación y Administración**            | Meses 18-32   | Completar toda la rehabilitación, ejecutar los arrendamientos del terreno, cerrar las ventas de viviendas de CLT, proporcionar apoyo de administración posterior a la compra.                                     |
-| **Cierre y Evaluación**                  | Meses 30-36   | Verificación final de la ocupación, cierre financiero, evaluación de resultados, presentar el informe final a HUD.                                                                                     |
+| Fase                                              | Cronograma  | Hitos Clave                                                                                                                                                                                                  |
+| ------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Puesta en Marcha y Desarrollo de la Capacidad** | Meses 1-6   | Ejecutar el acuerdo de subreceptor con Elevation CLT, contratar personal del proyecto, lanzar la cartera de proyectos de adquisición, comenzar la inscripción para la preparación del comprador de vivienda. |
+| **Fase de Adquisición 1**                         | Meses 4-14  | Adquirir las primeras 40-60 propiedades en los vecindarios con mayor riesgo de desplazamiento, comenzar la rehabilitación en las primeras adquisiciones.                                                     |
+| **Fase de Adquisición 2**                         | Meses 12-24 | Adquirir las 40-60 propiedades restantes, completar la rehabilitación en las unidades de la Fase 1, colocar a los primeros propietarios de CLT.                                                              |
+| **Ocupación y Administración**                    | Meses 18-32 | Completar toda la rehabilitación, ejecutar los arrendamientos del terreno, cerrar las ventas de viviendas de CLT, proporcionar apoyo de administración posterior a la compra.                                |
+| **Cierre y Evaluación**                           | Meses 30-36 | Verificación final de la ocupación, cierre financiero, evaluación de resultados, presentar el informe final a HUD.                                                                                           |
 
 ### G. Alineación con los Objetivos del Programa HOME
 
@@ -168,28 +168,28 @@ La inversión federal solicitada de $12 millones representa una **relación de c
 
 ## Resumen del Presupuesto
 
-| Categoría                                                  | Monto            | % del Total |
-| --------------------------------------------------------- | ---------------- | ----------- |
-| Adquisición de Propiedades en Zonas de Lucha Contra el Desplazamiento | $6,000,000       | 50%         |
-| Rehabilitación y Conversión                               | $3,000,000       | 25%         |
-| Desarrollo de la Capacidad Organizacional del CLT         | $1,500,000       | 12.5%       |
-| Programas de Preparación y Administración para Compradores de Vivienda | $500,000         | 4.2%        |
-| Gestión del Proyecto                                      | $1,000,000       | 8.3%        |
-| **Solicitud Federal Total (HOME)**                         | **$12,000,000**  | **100%**    |
-| Contrapartida Local (bonos de la ciudad, impuesto sobre la vivienda desocupada, fondos de HOST) | $50,000,000      | —           |
-| **Inversión Total del Proyecto**                            | **$62,000,000**  | —           |
+| Categoría                                                                                       | Monto           | % del Total |
+| ----------------------------------------------------------------------------------------------- | --------------- | ----------- |
+| Adquisición de Propiedades en Zonas de Lucha Contra el Desplazamiento                           | $6,000,000      | 50%         |
+| Rehabilitación y Conversión                                                                     | $3,000,000      | 25%         |
+| Desarrollo de la Capacidad Organizacional del CLT                                               | $1,500,000      | 12.5%       |
+| Programas de Preparación y Administración para Compradores de Vivienda                          | $500,000        | 4.2%        |
+| Gestión del Proyecto                                                                            | $1,000,000      | 8.3%        |
+| **Solicitud Federal Total (HOME)**                                                              | **$12,000,000** | **100%**    |
+| Contrapartida Local (bonos de la ciudad, impuesto sobre la vivienda desocupada, fondos de HOST) | $50,000,000     | —           |
+| **Inversión Total del Proyecto**                                                                | **$62,000,000** | —           |
 
 ## Resultados Esperados
 
-| Métrica                                                                         | Línea de Base   | Meta a 3 Años                               |
-| ------------------------------------------------------------------------------ | --------------- | ------------------------------------------- |
-| Viviendas CLT permanentemente asequibles en Denver                            | ~300            | 800 (500 netas nuevas)                         |
-| Ritmo anual de adquisición de CLT                                              | 20-40 unidades/año | 150-175 unidades/año                         |
-| Hogares que reciben consejería para la preparación del comprador de vivienda | ~75/año         | Más de 300 en 3 años                          |
-| Tasa de ejecución hipotecaria de propietarios de CLT                           | <1%             | Mantenida por debajo del 1%                  |
-| Precio medio de venta de viviendas CLT (% del mercado)                          | ~55% del mercado | Mantenido entre el 50 y el 60% del mercado    |
-| Representación demográfica (residentes de color en viviendas CLT)             | ~60%            | 65%+ (proporcional a los vecindarios objetivo) |
-| Autosuficiencia operativa de CLT (ingresos por arrendamiento del terreno frente a costos operativos) | ~40%            | 70%+                                       |
+| Métrica                                                                                              | Línea de Base      | Meta a 3 Años                                  |
+| ---------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------- |
+| Viviendas CLT permanentemente asequibles en Denver                                                   | ~300               | 800 (500 netas nuevas)                         |
+| Ritmo anual de adquisición de CLT                                                                    | 20-40 unidades/año | 150-175 unidades/año                           |
+| Hogares que reciben consejería para la preparación del comprador de vivienda                         | ~75/año            | Más de 300 en 3 años                           |
+| Tasa de ejecución hipotecaria de propietarios de CLT                                                 | <1%                | Mantenida por debajo del 1%                    |
+| Precio medio de venta de viviendas CLT (% del mercado)                                               | ~55% del mercado   | Mantenido entre el 50 y el 60% del mercado     |
+| Representación demográfica (residentes de color en viviendas CLT)                                    | ~60%               | 65%+ (proporcional a los vecindarios objetivo) |
+| Autosuficiencia operativa de CLT (ingresos por arrendamiento del terreno frente a costos operativos) | ~40%               | 70%+                                           |
 
 ## Fuentes de Datos Clave
 

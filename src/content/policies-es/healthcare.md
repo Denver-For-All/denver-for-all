@@ -95,14 +95,14 @@ STAR se encarga de la crisis. La política de drogas se encarga de la despenaliz
 
 ### Evidencia Internacional: Pagamos Más y Obtenemos Menos
 
-| País          | Modelo                                                                                                   | Costo per cápita | Esperanza de vida | Bancarrotas médicas |
-| ------------- | -------------------------------------------------------------------------------------------------------- | ----------------- | ------------------- | -------------------- |
-| **Alemania**  | Tarifa de ajuste de todos los pagadores: todas las aseguradoras pagan las mismas tarifas negociadas. Sin facturación sorpresa. | $7,383            | 81.4 años         | 0                    |
-| **Japón**     | Precios de referencia del gobierno para todos los procedimientos.                                          | $4,691            | 84.8 años         | 0                    |
-| **Taiwán**    | Pagador único desde 1995. Sistema de tarjetas inteligentes.                                              | $3,047            | 80.9 años         | 0                    |
-| **Reino Unido (NHS)** | Dirigido por el gobierno. Gratuito en el punto de uso.                                                     | $5,138            | 81.4 años         | 0                    |
-| **Francia**   | Multi-pagador universal. El gobierno cubre del 70 al 100% de los costos.                                  | $5,564            | 82.5 años         | 0                    |
-| **Estados Unidos**   | Basado en el mercado. Precios no regulados.                                                              | **$12,555**       | **77.5 años**     | **530,000/año**     |
+| País                  | Modelo                                                                                                                         | Costo per cápita | Esperanza de vida | Bancarrotas médicas |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------- | ------------------- |
+| **Alemania**          | Tarifa de ajuste de todos los pagadores: todas las aseguradoras pagan las mismas tarifas negociadas. Sin facturación sorpresa. | $7,383           | 81.4 años         | 0                   |
+| **Japón**             | Precios de referencia del gobierno para todos los procedimientos.                                                              | $4,691           | 84.8 años         | 0                   |
+| **Taiwán**            | Pagador único desde 1995. Sistema de tarjetas inteligentes.                                                                    | $3,047           | 80.9 años         | 0                   |
+| **Reino Unido (NHS)** | Dirigido por el gobierno. Gratuito en el punto de uso.                                                                         | $5,138           | 81.4 años         | 0                   |
+| **Francia**           | Multi-pagador universal. El gobierno cubre del 70 al 100% de los costos.                                                       | $5,564           | 82.5 años         | 0                   |
+| **Estados Unidos**    | Basado en el mercado. Precios no regulados.                                                                                    | **$12,555**      | **77.5 años**     | **530,000/año**     |
 
 **Pagamos más y vivimos menos.** Estados Unidos gasta el doble de lo que gasta Alemania por persona y obtiene 4 años menos de esperanza de vida y medio millón de quiebras. La estadía de un niño en la UCIN le cuesta a una familia $0 en Alemania. En Denver, puede costar millones.
 

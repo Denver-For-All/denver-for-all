@@ -1,6 +1,7 @@
 Translate the following content from English to **Simplified Chinese (简体中文)**.
 
 Language-specific guidelines:
+
 - Use formal written Simplified Chinese appropriate for civic/government communication (公文体/正式书面语)
 - Use Simplified Chinese characters (简体字), not Traditional
 - For civic/legal terms, use standard PRC administrative terminology (e.g., "policy" → "政策", "legislation" → "立法", "ordinance" → "条例")

@@ -36,11 +36,11 @@ Crear una nueva agencia de la ciudad, la Autoridad de Vivienda Social de Denver 
 ### Objetivos de Unidades (Plan a 10 Años)
 
 | Año  | Nuevas Unidades | Acumulativo | Método                                                               |
-| ---- | ------------- | ----------- | -------------------------------------------------------------------- |
-| 1-2  | 1,000         | 1,000       | Adquirir edificios existentes + convertir locales comerciales vacíos |
-| 3-4  | 2,000         | 3,000       | Nueva construcción + adquisición continua                             |
-| 5-7  | 4,000         | 7,000       | Nueva construcción a escala                                        |
-| 8-10 | 3,000         | 10,000      | Finalización de la construcción                                      |
+| ---- | --------------- | ----------- | -------------------------------------------------------------------- |
+| 1-2  | 1,000           | 1,000       | Adquirir edificios existentes + convertir locales comerciales vacíos |
+| 3-4  | 2,000           | 3,000       | Nueva construcción + adquisición continua                            |
+| 5-7  | 4,000           | 7,000       | Nueva construcción a escala                                          |
+| 8-10 | 3,000           | 10,000      | Finalización de la construcción                                      |
 
 ### El Modelo de Viena, Adaptado para Denver
 
@@ -55,13 +55,13 @@ Adaptamos esto al contexto de Denver: escala inicial más pequeña, pero los mis
 
 ### Evidencia Internacional: La Vivienda Pública Funciona, Cuando Está Diseñada Para Ello
 
-| País/Ciudad               | Parque de Viviendas Públicas                                                                    | Característica Clave                                               | Resultado                                                                                                                                                     |
-| -------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Viena, Austria**        | 220,000 apartamentos municipales. 60% de los residentes en viviendas públicas/subsidiadas. | Ingresos mixtos, arquitectónicamente excelente, gobernanza democrática | Nombrada "la ciudad más habitable" repetidamente. Alquiler promedio: 5-7 €/m². Sin crisis de asequibilidad de la vivienda. Sin estigma: la vivienda pública es deseable. |
-| **Singapur**              | 80% de los residentes en pisos HDB gubernamentales                                          | Modelo de propiedad de vivienda: arrendamientos de 99 años, existe un mercado de reventa | Propiedad de vivienda: 90%. Ingresos mixtos, etnias mixtas por diseño. La vivienda no es una fuente de precariedad financiera.                                      |
-| **Finlandia**                | Vivienda social integral + Housing First (Vivienda Primero)                                 | Convirtió los refugios en viviendas permanentes                   | **Único país de la UE donde la falta de vivienda está disminuyendo.** Disminución del 35% desde 2008.                                                         |
-| **Dinamarca**                | 20% de la vivienda es _almene boliger_ (sin fines de lucro)                                  | Asociaciones de vivienda gobernadas por inquilinos, alquileres fijados al costo | Alta calidad, ingresos mixtos, cero extracción de ganancias. Gestionado democráticamente.                                                                 |
-| **Viena Roja (1919-1934)** | 65,000 apartamentos construidos en 15 años durante la crisis económica                      | Construcción municipal a gran escala                              | Creó la plantilla para la vivienda social moderna. Demostró que la inversión pública audaz funciona incluso en tiempos difíciles.                         |
+| País/Ciudad                | Parque de Viviendas Públicas                                                               | Característica Clave                                                                     | Resultado                                                                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Viena, Austria**         | 220,000 apartamentos municipales. 60% de los residentes en viviendas públicas/subsidiadas. | Ingresos mixtos, arquitectónicamente excelente, gobernanza democrática                   | Nombrada "la ciudad más habitable" repetidamente. Alquiler promedio: 5-7 €/m². Sin crisis de asequibilidad de la vivienda. Sin estigma: la vivienda pública es deseable. |
+| **Singapur**               | 80% de los residentes en pisos HDB gubernamentales                                         | Modelo de propiedad de vivienda: arrendamientos de 99 años, existe un mercado de reventa | Propiedad de vivienda: 90%. Ingresos mixtos, etnias mixtas por diseño. La vivienda no es una fuente de precariedad financiera.                                           |
+| **Finlandia**              | Vivienda social integral + Housing First (Vivienda Primero)                                | Convirtió los refugios en viviendas permanentes                                          | **Único país de la UE donde la falta de vivienda está disminuyendo.** Disminución del 35% desde 2008.                                                                    |
+| **Dinamarca**              | 20% de la vivienda es _almene boliger_ (sin fines de lucro)                                | Asociaciones de vivienda gobernadas por inquilinos, alquileres fijados al costo          | Alta calidad, ingresos mixtos, cero extracción de ganancias. Gestionado democráticamente.                                                                                |
+| **Viena Roja (1919-1934)** | 65,000 apartamentos construidos en 15 años durante la crisis económica                     | Construcción municipal a gran escala                                                     | Creó la plantilla para la vivienda social moderna. Demostró que la inversión pública audaz funciona incluso en tiempos difíciles.                                        |
 
 **El fracaso estadounidense fue deliberado.** La vivienda pública en los Estados Unidos fue subfinanciada por el Congreso, segregada racialmente por política (Rothstein, _The Color of Law_), concentrada en la pobreza por diseño, y luego desfinanciada aún más cuando previsiblemente tuvo problemas. La vivienda pública de todos los demás países funciona porque fue diseñada para tener éxito. Denver sigue los modelos que funcionan.
 

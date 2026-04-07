@@ -56,13 +56,13 @@ Dựa trên các hệ thống ở Pháp, Thụy Điển, Đan Mạch và Phần 
 
 ## Bằng Chứng: Điều Này Hiệu Quả
 
-| Quốc Gia         | Mô Hình                                                                   | Chi Phí Gia Đình                  | Lương Nhân Viên                   | Kết Quả cho Trẻ Em                                                                                 |
-| ---------------- | ------------------------------------------------------------------------- | --------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| **Pháp**        | _École maternelle_ miễn phí từ 3 tuổi; _crèches_ được trợ cấp từ 3 tháng tuổi | Miễn phí (3+); dựa trên thu nhập dưới 3 tuổi | Cạnh tranh với giáo viên         | 99% trẻ từ 3-5 tuổi được ghi danh; nằm trong số những kết quả phát triển thời thơ ấu tốt nhất ở Châu Âu |
-| **Thụy Điển**    | Dịch vụ giữ trẻ công từ 1 tuổi; được trợ cấp nhiều                         | Giới hạn ở mức ~ $150/tháng       | Tương đương với giáo viên tiểu học | Tỷ lệ tham gia lao động nữ cao nhất ở Châu Âu; trẻ em cho thấy kết quả phát triển tốt               |
-| **Đan Mạch**      | Đảm bảo có chỗ từ 6 tháng tuổi                                            | Được trợ cấp gần như miễn phí cho hầu hết | Mức lương đủ sống                | Mức độ hài lòng với cuộc sống cao nhất; trẻ em thể hiện tốt trên tất cả các số liệu                |
-| **Phần Lan**     | Quyền phổ cập về nhà trẻ từ khi sinh ra                                   | Dựa trên thu nhập, có giới hạn     | Cạnh tranh                       | Đóng góp vào hệ thống giáo dục tốt nhất thế giới                                                     |
-| **Quebec, Canada** | Dịch vụ giữ trẻ phổ cập $7/ngày (từ năm 1997)                             | ~ $7,30 CAD/ngày ($180/tháng)      | Cao hơn thị trường               | Tỷ lệ tham gia lao động nữ tăng 8%. Chương trình tự chi trả thông qua tăng doanh thu thuế.      |
+| Quốc Gia           | Mô Hình                                                                       | Chi Phí Gia Đình                             | Lương Nhân Viên                    | Kết Quả cho Trẻ Em                                                                                      |
+| ------------------ | ----------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Pháp**           | _École maternelle_ miễn phí từ 3 tuổi; _crèches_ được trợ cấp từ 3 tháng tuổi | Miễn phí (3+); dựa trên thu nhập dưới 3 tuổi | Cạnh tranh với giáo viên           | 99% trẻ từ 3-5 tuổi được ghi danh; nằm trong số những kết quả phát triển thời thơ ấu tốt nhất ở Châu Âu |
+| **Thụy Điển**      | Dịch vụ giữ trẻ công từ 1 tuổi; được trợ cấp nhiều                            | Giới hạn ở mức ~ $150/tháng                  | Tương đương với giáo viên tiểu học | Tỷ lệ tham gia lao động nữ cao nhất ở Châu Âu; trẻ em cho thấy kết quả phát triển tốt                   |
+| **Đan Mạch**       | Đảm bảo có chỗ từ 6 tháng tuổi                                                | Được trợ cấp gần như miễn phí cho hầu hết    | Mức lương đủ sống                  | Mức độ hài lòng với cuộc sống cao nhất; trẻ em thể hiện tốt trên tất cả các số liệu                     |
+| **Phần Lan**       | Quyền phổ cập về nhà trẻ từ khi sinh ra                                       | Dựa trên thu nhập, có giới hạn               | Cạnh tranh                         | Đóng góp vào hệ thống giáo dục tốt nhất thế giới                                                        |
+| **Quebec, Canada** | Dịch vụ giữ trẻ phổ cập $7/ngày (từ năm 1997)                                 | ~ $7,30 CAD/ngày ($180/tháng)                | Cao hơn thị trường                 | Tỷ lệ tham gia lao động nữ tăng 8%. Chương trình tự chi trả thông qua tăng doanh thu thuế.              |
 
 ### Mô Hình Quebec - Bằng Chứng Cho Thấy Nó Tự Chi Trả
 

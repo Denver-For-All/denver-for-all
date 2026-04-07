@@ -36,12 +36,12 @@ Comcast y CenturyLink/Lumen son los principales opositores. Gastaron $150 millon
 
 **Precios:**
 
-| Nivel        | Velocidad | Precio                   |
-| ----------- | -------- | ----------------------- |
-| Básico      | 100 Mbps | $15/mes                  |
-| Estándar   | 500 Mbps | $25/mes                  |
-| Gigabit    | 1 Gbps   | $30/mes                  |
-| Bajos Ingresos | 100 Mbps | Gratis (calificado por ingresos) |
+| Nivel          | Velocidad | Precio                           |
+| -------------- | --------- | -------------------------------- |
+| Básico         | 100 Mbps  | $15/mes                          |
+| Estándar       | 500 Mbps  | $25/mes                          |
+| Gigabit        | 1 Gbps    | $30/mes                          |
+| Bajos Ingresos | 100 Mbps  | Gratis (calificado por ingresos) |
 
 Compare con Comcast: $80-120/mes por velocidades comparables con límites de datos y aumentos de precios anuales.
 
@@ -63,14 +63,14 @@ Compare con Comcast: $80-120/mes por velocidades comparables con límites de dat
 
 ### Evidencia Internacional: El Internet Público Es Normal
 
-| País/Ciudad         | Modelo                                                                              | Velocidad                       | Precio         | Resultado                                                                                                     |
-| -------------------- | ---------------------------------------------------------------------------------- | --------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Corea del Sur**     | Inversión en infraestructura de banda ancha liderada por el gobierno.                | 1 Gbps+ estándar            | ~$30/mes    | El internet más rápido del mundo. 98% de penetración.                                                           |
-| **Rumania**          | Pequeños ISP locales construyeron fibra con una regulación mínima.                   | 1 Gbps estándar             | ~$10/mes    | Más rápido y barato que la banda ancha de EE. UU. con 1/4 del PIB per cápita. Prueba de que la competencia reduce los precios. |
-| **Finlandia**          | Derecho legal al acceso a la banda ancha (2010). Inversión del gobierno en áreas desatendidas. | 100 Mbps mínimo garantizado | Varía        | La banda ancha se declara un derecho legal. Acceso universal independientemente de la ubicación o los ingresos.                       |
-| **Chattanooga, TN**  | EPB Fiber de propiedad de la ciudad. Primer gigabit en el hemisferio occidental (2010). | 10 Gbps disponible           | $68/mes gig | Rentable. Atrae a empresas de tecnología. Motor de desarrollo económico.                                         |
-| **Longmont, CO**     | Banda ancha municipal NextLight. A 30 millas de Denver.                              | 1 Gbps                      | $50/mes     | Rentable en 5 años. Más del 90% de satisfacción del cliente. Prueba de concepto en el patio trasero de Denver.              |
-| **Fort Collins, CO** | Banda ancha municipal Connexion.                                                     | 1 Gbps                      | $60/mes     | En camino a la rentabilidad. Los residentes votaron un 57% a favor a pesar de la campaña de oposición financiada por Comcast de $150 millones. |
+| País/Ciudad          | Modelo                                                                                         | Velocidad                   | Precio      | Resultado                                                                                                                                      |
+| -------------------- | ---------------------------------------------------------------------------------------------- | --------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Corea del Sur**    | Inversión en infraestructura de banda ancha liderada por el gobierno.                          | 1 Gbps+ estándar            | ~$30/mes    | El internet más rápido del mundo. 98% de penetración.                                                                                          |
+| **Rumania**          | Pequeños ISP locales construyeron fibra con una regulación mínima.                             | 1 Gbps estándar             | ~$10/mes    | Más rápido y barato que la banda ancha de EE. UU. con 1/4 del PIB per cápita. Prueba de que la competencia reduce los precios.                 |
+| **Finlandia**        | Derecho legal al acceso a la banda ancha (2010). Inversión del gobierno en áreas desatendidas. | 100 Mbps mínimo garantizado | Varía       | La banda ancha se declara un derecho legal. Acceso universal independientemente de la ubicación o los ingresos.                                |
+| **Chattanooga, TN**  | EPB Fiber de propiedad de la ciudad. Primer gigabit en el hemisferio occidental (2010).        | 10 Gbps disponible          | $68/mes gig | Rentable. Atrae a empresas de tecnología. Motor de desarrollo económico.                                                                       |
+| **Longmont, CO**     | Banda ancha municipal NextLight. A 30 millas de Denver.                                        | 1 Gbps                      | $50/mes     | Rentable en 5 años. Más del 90% de satisfacción del cliente. Prueba de concepto en el patio trasero de Denver.                                 |
+| **Fort Collins, CO** | Banda ancha municipal Connexion.                                                               | 1 Gbps                      | $60/mes     | En camino a la rentabilidad. Los residentes votaron un 57% a favor a pesar de la campaña de oposición financiada por Comcast de $150 millones. |
 
 **Estados Unidos paga más por un internet peor que la mayoría de los países desarrollados** porque permitimos que los monopolios controlen la infraestructura. La banda ancha municipal rompe el monopolio, y la evidencia de las ciudades que lo han hecho muestra consistentemente mejores velocidades, precios más bajos y beneficios para la comunidad (Instituto para la Autosuficiencia Local, base de datos de Redes de Banda Ancha Comunitarias, 2025).
 

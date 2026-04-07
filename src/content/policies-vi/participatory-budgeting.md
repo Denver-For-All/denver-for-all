@@ -58,13 +58,13 @@ Sự tương phản với cách tiếp cận của Mike Johnston rất rõ ràng
 
 ### Lập Ngân Sách Có Sự Tham Gia
 
-| Thành Phố                   | Quy Mô                                                                    | Kết Quả                                                                                                                                                                 |
-| -------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Porto Alegre, Brazil**   | Tiên phong PB vào năm 1989, hơn 50.000 người tham gia/năm                 | Tỷ lệ tử vong ở trẻ sơ sinh giảm 50%. Khả năng tiếp cận nước đạt 98%. Cải thiện đáng kể ở các khu phố có thu nhập thấp. Trở thành hình mẫu cho thế giới.                      |
-| **Paris, Pháp**             | €500 triệu Mỹ kim được phân bổ thông qua PB (2014-2020), 5% tổng ngân sách | Hơn 300 dự án đã hoàn thành. 10% cư dân tham gia hằng năm. Các dự án bao gồm công viên, làn đường xe đạp, không gian xanh, vườn cộng đồng.                                |
-| **Helsinki, Phần Lan**      | Ngân sách PB €8,8 triệu Mỹ kim (tăng hằng năm)                            | Tỷ lệ tham gia cao, các đề xuất sáng tạo, tăng cường niềm tin vào chính phủ                                                                                               |
-| **New York City**          | Chương trình PB lớn nhất ở Hoa Kỳ. Hơn $40 triệu Mỹ kim/năm trên 30+ khu vực. | Hơn 100.000 cư dân tham gia. Các dự án ở mọi quận. Tỷ lệ thanh niên tham gia đặc biệt cao.                                                                                 |
-| **Madrid, Tây Ban Nha**     | Ngân sách PB €100 triệu Mỹ kim thông qua nền tảng kỹ thuật số "Decide Madrid" | Hơn 400.000 người tham gia trực tuyến. Các đề xuất bao gồm nhà ở xã hội, cơ sở hạ tầng xanh, giao thông công cộng.                                                              |
+| Thành Phố                | Quy Mô                                                                        | Kết Quả                                                                                                                                                  |
+| ------------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Porto Alegre, Brazil** | Tiên phong PB vào năm 1989, hơn 50.000 người tham gia/năm                     | Tỷ lệ tử vong ở trẻ sơ sinh giảm 50%. Khả năng tiếp cận nước đạt 98%. Cải thiện đáng kể ở các khu phố có thu nhập thấp. Trở thành hình mẫu cho thế giới. |
+| **Paris, Pháp**          | €500 triệu Mỹ kim được phân bổ thông qua PB (2014-2020), 5% tổng ngân sách    | Hơn 300 dự án đã hoàn thành. 10% cư dân tham gia hằng năm. Các dự án bao gồm công viên, làn đường xe đạp, không gian xanh, vườn cộng đồng.               |
+| **Helsinki, Phần Lan**   | Ngân sách PB €8,8 triệu Mỹ kim (tăng hằng năm)                                | Tỷ lệ tham gia cao, các đề xuất sáng tạo, tăng cường niềm tin vào chính phủ                                                                              |
+| **New York City**        | Chương trình PB lớn nhất ở Hoa Kỳ. Hơn $40 triệu Mỹ kim/năm trên 30+ khu vực. | Hơn 100.000 cư dân tham gia. Các dự án ở mọi quận. Tỷ lệ thanh niên tham gia đặc biệt cao.                                                               |
+| **Madrid, Tây Ban Nha**  | Ngân sách PB €100 triệu Mỹ kim thông qua nền tảng kỹ thuật số "Decide Madrid" | Hơn 400.000 người tham gia trực tuyến. Các đề xuất bao gồm nhà ở xã hội, cơ sở hạ tầng xanh, giao thông công cộng.                                       |
 
 **Những phát hiện nhất quán trên tất cả các chương trình PB:**
 
@@ -76,13 +76,13 @@ Sự tương phản với cách tiếp cận của Mike Johnston rất rõ ràng
 
 ### Hội Đồng Công Dân
 
-| Quốc Gia   | Vấn Đề                                                              | Kết Quả                                                                                                                                              |
-| --------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ireland** | Hợp pháp hóa phá thai (2016-2017)                                  | Hội Đồng Công Dân khuyến nghị hợp pháp hóa → trưng cầu dân ý thông qua với 66% ủng hộ. Giải quyết bế tắc kéo dài hàng thập kỷ.                        |
-| **Ireland** | Hôn nhân bình đẳng (2013-2014)                                      | Hội Nghị Lập Hiến (mô hình tương tự) khuyến nghị → trưng cầu dân ý thông qua với 62% ủng hộ.                                                              |
-| **Pháp**    | Chính sách khí hậu (2019-2020)                                      | 150 công dân được chọn ngẫu nhiên đưa ra 149 khuyến nghị về khí hậu. Một số khuyến nghị đã trở thành luật.                                                         |
-| **Vương Quốc Anh** | Chính sách khí hậu (2020)                                           | Hội Đồng Khí Hậu Vương Quốc Anh đưa ra các khuyến nghị chi tiết về việc đạt được mức phát thải ròng bằng không.                                                                    |
-| **Bỉ**      | Hội đồng công dân thường trực trong cộng đồng nói tiếng Đức | Cơ quan thảo luận liên tục thường xuyên đưa ra các khuyến nghị về chính sách.                                                                                  |
+| Quốc Gia           | Vấn Đề                                                      | Kết Quả                                                                                                                        |
+| ------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Ireland**        | Hợp pháp hóa phá thai (2016-2017)                           | Hội Đồng Công Dân khuyến nghị hợp pháp hóa → trưng cầu dân ý thông qua với 66% ủng hộ. Giải quyết bế tắc kéo dài hàng thập kỷ. |
+| **Ireland**        | Hôn nhân bình đẳng (2013-2014)                              | Hội Nghị Lập Hiến (mô hình tương tự) khuyến nghị → trưng cầu dân ý thông qua với 62% ủng hộ.                                   |
+| **Pháp**           | Chính sách khí hậu (2019-2020)                              | 150 công dân được chọn ngẫu nhiên đưa ra 149 khuyến nghị về khí hậu. Một số khuyến nghị đã trở thành luật.                     |
+| **Vương Quốc Anh** | Chính sách khí hậu (2020)                                   | Hội Đồng Khí Hậu Vương Quốc Anh đưa ra các khuyến nghị chi tiết về việc đạt được mức phát thải ròng bằng không.                |
+| **Bỉ**             | Hội đồng công dân thường trực trong cộng đồng nói tiếng Đức | Cơ quan thảo luận liên tục thường xuyên đưa ra các khuyến nghị về chính sách.                                                  |
 
 **Tại sao lựa chọn ngẫu nhiên hoạt động tốt hơn bầu cử:**
 

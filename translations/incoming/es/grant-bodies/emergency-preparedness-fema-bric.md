@@ -99,14 +99,14 @@ Denver se enfrenta a un conjunto cada vez mayor de riesgos climáticos que se in
 
 ### E. Cronograma del Proyecto
 
-| Fase                                                        | Cronograma    | Hitos Clave                                                                                                                                                   |
-| ------------------------------------------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planificación, Diseño y Permisos**                            | Meses 1-8   | Finalizar las selecciones del sitio del centro, completar el diseño de ingeniería para la infraestructura verde, ejecutar la ronda 1 de participación comunitaria en los 10 vecindarios, obtener los permisos |
-| **Adquisiciones y Contratación**                                | Meses 6-10  | Emitir RFPs (solicitudes de propuestas) para la instalación solar, la construcción de infraestructura verde y la plantación de árboles; adjudicar contratos (por fases para que se superpongan con la finalización del diseño)              |
-| **Fase de Construcción 1: Centros e Infraestructura Verde**       | Meses 9-20  | Completar la construcción de los primeros 3 centros de resiliencia, instalar infraestructura verde para aguas pluviales en los 3 vecindarios de mayor prioridad, comenzar la plantación de árboles              |
-| **Fase de Construcción 2: Sitios Restantes y Mitigación del Calor** | Meses 18-30 | Completar los 3 centros de resiliencia restantes, finalizar las instalaciones de infraestructura verde y superficies frescas, completar el programa de plantación de árboles                                |
-| **Activación de Sistemas y Preparación Comunitaria**              | Meses 6-32  | Implementar el sistema de alerta temprana, capacitar a los voluntarios de CERT (en curso), realizar ejercicios teóricos, establecer acuerdos de ayuda mutua                                       |
-| **Cierre y Evaluación**                                    | Meses 30-36 | Monitoreo del rendimiento posterior a la construcción, mapeo térmico, análisis de datos de aguas pluviales, encuesta comunitaria, informe de evaluación final                                  |
+| Fase                                                                | Cronograma  | Hitos Clave                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Planificación, Diseño y Permisos**                                | Meses 1-8   | Finalizar las selecciones del sitio del centro, completar el diseño de ingeniería para la infraestructura verde, ejecutar la ronda 1 de participación comunitaria en los 10 vecindarios, obtener los permisos                  |
+| **Adquisiciones y Contratación**                                    | Meses 6-10  | Emitir RFPs (solicitudes de propuestas) para la instalación solar, la construcción de infraestructura verde y la plantación de árboles; adjudicar contratos (por fases para que se superpongan con la finalización del diseño) |
+| **Fase de Construcción 1: Centros e Infraestructura Verde**         | Meses 9-20  | Completar la construcción de los primeros 3 centros de resiliencia, instalar infraestructura verde para aguas pluviales en los 3 vecindarios de mayor prioridad, comenzar la plantación de árboles                             |
+| **Fase de Construcción 2: Sitios Restantes y Mitigación del Calor** | Meses 18-30 | Completar los 3 centros de resiliencia restantes, finalizar las instalaciones de infraestructura verde y superficies frescas, completar el programa de plantación de árboles                                                   |
+| **Activación de Sistemas y Preparación Comunitaria**                | Meses 6-32  | Implementar el sistema de alerta temprana, capacitar a los voluntarios de CERT (en curso), realizar ejercicios teóricos, establecer acuerdos de ayuda mutua                                                                    |
+| **Cierre y Evaluación**                                             | Meses 30-36 | Monitoreo del rendimiento posterior a la construcción, mapeo térmico, análisis de datos de aguas pluviales, encuesta comunitaria, informe de evaluación final                                                                  |
 
 ### F. Alineación con las Prioridades del Programa BRIC
 
@@ -134,32 +134,32 @@ La inversión federal solicitada de $14 millones, en comparación con la recauda
 
 ## Resumen del Presupuesto
 
-| Categoría                                             | Monto             | % del Total |
-| ---------------------------------------------------- | ------------------ | ----------- |
-| Centros de Resiliencia Comunitaria con Energía Solar (6 sitios) | $6,000,000         | 43%         |
-| Infraestructura Verde para Aguas Pluviales                       | $4,000,000         | 29%         |
-| Mitigación del Calor Urbano (copa de árboles y superficies frescas) | $2,500,000         | 18%         |
-| Preparación Comunitaria y Sistemas de Alerta Temprana        | $1,500,000         | 10%         |
-| **Solicitud Federal Total**                            | **$14,000,000**    | **100%**    |
-| Contrapartida Local (Fondos de Drenaje Pluvial, CASR, presupuestos de OEM) | $115,000,000+      | —           |
-| **Inversión Total del Proyecto**                         | **$129,000,000+** | —           |
+| Categoría                                                                  | Monto             | % del Total |
+| -------------------------------------------------------------------------- | ----------------- | ----------- |
+| Centros de Resiliencia Comunitaria con Energía Solar (6 sitios)            | $6,000,000        | 43%         |
+| Infraestructura Verde para Aguas Pluviales                                 | $4,000,000        | 29%         |
+| Mitigación del Calor Urbano (copa de árboles y superficies frescas)        | $2,500,000        | 18%         |
+| Preparación Comunitaria y Sistemas de Alerta Temprana                      | $1,500,000        | 10%         |
+| **Solicitud Federal Total**                                                | **$14,000,000**   | **100%**    |
+| Contrapartida Local (Fondos de Drenaje Pluvial, CASR, presupuestos de OEM) | $115,000,000+     | —           |
+| **Inversión Total del Proyecto**                                           | **$129,000,000+** | —           |
 
 _Nota: BRIC requiere una participación en los costos no federal mínima del 25% (75/25). La contrapartida local de Denver supera con creces este umbral. La contribución del Fondo de Drenaje Pluvial por sí sola proporciona ingresos locales documentados y dedicados. Las contribuciones adicionales en especie de CASR, OEM, Denver Parks and Recreation y organizaciones comunitarias asociadas fortalecen aún más la contrapartida._
 
 ## Resultados Esperados
 
-| Métrica                                                  | Línea de Base                   | Meta a 3 Años                      |
-| ------------------------------------------------------- | -------------------------------- | ----------------------------------- |
-| Centros de resiliencia con energía de respaldo y capacidad de aire limpio | 0 en funcionamiento                 | 6 completamente operativos                |
-| Residentes a 15 minutos a pie de un centro de resiliencia      | ~5% en los vecindarios objetivo   | ~70% en los vecindarios objetivo        |
-| Capacidad de refugio de emergencia independiente de la red (horas) | 0 (dependiente de la red)            | 72+ horas por centro                    |
-| Escorrentía máxima de aguas pluviales en los sitios tratados        | Línea de base actual                | 20% de reducción mínima               |
-| Eventos de desbordamiento del alcantarillado combinado en áreas tratadas | Frecuencia actual                  | 30% de reducción                       |
-| Cobertura de copa de árboles en los vecindarios objetivo           | 8-12% (vs. 20% promedio en toda la ciudad) | 15-18%                              |
-| Temperatura de la superficie en las zonas de tratamiento de superficie fresca | 10-15°F por encima de las áreas con copa | 10°F de reducción en las superficies tratadas |
-| Voluntarios de CERT capacitados en los vecindarios objetivo           | ~50                              | 200+                                |
-| Residentes inscritos en el sistema de alerta temprana multilingüe      | Cobertura limitada                 | 50,000+ en los vecindarios objetivo     |
-| Visitas a la sala de emergencias relacionadas con el calor en las áreas objetivo | Línea de base actual                | 25% de reducción                       |
+| Métrica                                                                          | Línea de Base                              | Meta a 3 Años                                 |
+| -------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------- |
+| Centros de resiliencia con energía de respaldo y capacidad de aire limpio        | 0 en funcionamiento                        | 6 completamente operativos                    |
+| Residentes a 15 minutos a pie de un centro de resiliencia                        | ~5% en los vecindarios objetivo            | ~70% en los vecindarios objetivo              |
+| Capacidad de refugio de emergencia independiente de la red (horas)               | 0 (dependiente de la red)                  | 72+ horas por centro                          |
+| Escorrentía máxima de aguas pluviales en los sitios tratados                     | Línea de base actual                       | 20% de reducción mínima                       |
+| Eventos de desbordamiento del alcantarillado combinado en áreas tratadas         | Frecuencia actual                          | 30% de reducción                              |
+| Cobertura de copa de árboles en los vecindarios objetivo                         | 8-12% (vs. 20% promedio en toda la ciudad) | 15-18%                                        |
+| Temperatura de la superficie en las zonas de tratamiento de superficie fresca    | 10-15°F por encima de las áreas con copa   | 10°F de reducción en las superficies tratadas |
+| Voluntarios de CERT capacitados en los vecindarios objetivo                      | ~50                                        | 200+                                          |
+| Residentes inscritos en el sistema de alerta temprana multilingüe                | Cobertura limitada                         | 50,000+ en los vecindarios objetivo           |
+| Visitas a la sala de emergencias relacionadas con el calor en las áreas objetivo | Línea de base actual                       | 25% de reducción                              |
 
 ## Fuentes de Datos Clave
 

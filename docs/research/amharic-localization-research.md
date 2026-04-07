@@ -17,16 +17,16 @@ The actual translation work can be largely offloaded to **Claude Haiku 4.5** for
 
 ### Denver County Speaker Estimates
 
-| Rank | Language | Denver County Speakers | Colorado Statewide | Denver Gov Priority? | Script |
-|------|----------|----------------------|-------------------|---------------------|--------|
-| 1 | **Spanish** | ~130,000+ (20%+) | 597,078 (11.9%) | Yes | Latin |
-| 2 | **Vietnamese** | ~5,700+ (1.0%) | 19,074 (0.4%) | Yes | Latin (Vietnamese) |
-| 3 | **Chinese** (Simplified/Traditional) | ~3,000+ (0.5%) | 23,904 (0.5%) | Yes | CJK |
-| 4 | **Arabic** | ~2,400+ (0.4%) | 9,990 (0.2%) | Yes | Arabic (RTL) |
-| 5 | **Amharic** | ~3,700 city / 30-50K metro | 13,264 (0.3%)* | Yes | Ge'ez (Ethiopic) |
-| 6 | **Russian** | ~3,100 (0.5%) | 16,000 (0.3%) | Yes | Cyrillic |
+| Rank | Language                             | Denver County Speakers     | Colorado Statewide | Denver Gov Priority? | Script             |
+| ---- | ------------------------------------ | -------------------------- | ------------------ | -------------------- | ------------------ |
+| 1    | **Spanish**                          | ~130,000+ (20%+)           | 597,078 (11.9%)    | Yes                  | Latin              |
+| 2    | **Vietnamese**                       | ~5,700+ (1.0%)             | 19,074 (0.4%)      | Yes                  | Latin (Vietnamese) |
+| 3    | **Chinese** (Simplified/Traditional) | ~3,000+ (0.5%)             | 23,904 (0.5%)      | Yes                  | CJK                |
+| 4    | **Arabic**                           | ~2,400+ (0.4%)             | 9,990 (0.2%)       | Yes                  | Arabic (RTL)       |
+| 5    | **Amharic**                          | ~3,700 city / 30-50K metro | 13,264 (0.3%)\*    | Yes                  | Ge'ez (Ethiopic)   |
+| 6    | **Russian**                          | ~3,100 (0.5%)              | 16,000 (0.3%)      | Yes                  | Cyrillic           |
 
-*Census groups Amharic with Somali and other Afro-Asiatic languages. Community estimates for Amharic speakers are significantly higher.
+\*Census groups Amharic with Somali and other Afro-Asiatic languages. Community estimates for Amharic speakers are significantly higher.
 
 **Source:** ACS 2009-2013 (Denver County via Census C16001), ACS 2017-2021 (Colorado statewide via Statistical Atlas), Denver Gov Executive Order 150 Language Access Program.
 
@@ -48,12 +48,14 @@ The City & County of Denver already mandates language access under **Executive O
 ## 2. Language-by-Language Assessment
 
 ### Spanish (es) — Already Implemented
+
 - **Population:** ~200,000+ in Denver (28-32% of city)
 - **Status:** Fully localized with 50 translated policies, complete UI, all page templates
 - **LLM translation quality:** Excellent (high-resource language)
 - **No additional work needed** except architecture refactoring
 
 ### Vietnamese (vi)
+
 - **Population:** ~5,700 in Denver; 19,074 statewide
 - **Script:** Latin-based with extensive diacritics (Vietnamese alphabet)
 - **LLM translation quality:** Good — Vietnamese is a medium-resource language with solid LLM coverage
@@ -61,6 +63,7 @@ The City & County of Denver already mandates language access under **Executive O
 - **Community relevance:** Highest LEP rate after Spanish in Denver. Many Vietnamese speakers are older refugees with limited English.
 
 ### Chinese Simplified (zh)
+
 - **Population:** ~3,000 in Denver; 23,904 statewide
 - **Script:** CJK (Chinese characters)
 - **LLM translation quality:** Excellent — Chinese is a high-resource language
@@ -68,6 +71,7 @@ The City & County of Denver already mandates language access under **Executive O
 - **Community relevance:** Growing population, includes students, tech workers, and immigrant families.
 
 ### Arabic (ar)
+
 - **Population:** ~2,400 in Denver; 9,990 statewide; 42,000+ Arab ancestry in CO
 - **Script:** Arabic (RTL — right-to-left)
 - **LLM translation quality:** Good — Arabic is a medium-to-high-resource language
@@ -75,6 +79,7 @@ The City & County of Denver already mandates language access under **Executive O
 - **Community relevance:** Serves Iraqi, Somali-origin, Sudanese, Lebanese, and other Arab communities. Denver has seen significant Iraqi refugee resettlement.
 
 ### Amharic (am)
+
 - **Population:** ~3,700 city / 30,000-50,000 metro; 13,264 statewide (Census group)
 - **Script:** Ge'ez (Ethiopic) — a unique abugida writing system
 - **LLM translation quality:** Lower — Amharic is a low-resource language. Research shows a 12-20% performance gap vs English on frontier LLMs (GPT-4o, Claude). See Section 4.
@@ -89,15 +94,15 @@ The City & County of Denver already mandates language access under **Executive O
 
 The current i18n implementation is tightly coupled to exactly 2 languages:
 
-| Problem | Scope | Example |
-|---------|-------|---------|
-| `data-en` / `data-es` HTML attributes | **1,491 pairs across 40 files** | `<h1 data-en="Hello" data-es="Hola">` |
+| Problem                                   | Scope                               | Example                                                             |
+| ----------------------------------------- | ----------------------------------- | ------------------------------------------------------------------- |
+| `data-en` / `data-es` HTML attributes     | **1,491 pairs across 40 files**     | `<h1 data-en="Hello" data-es="Hola">`                               |
 | `titleEs`, `summaryEs` frontmatter fields | **413 occurrences across 56 files** | Can't add `titleVi`, `titleZh`, `titleAr`, `titleAm` to every field |
-| Hardcoded `'en' \| 'es'` type | **12 files** | `Locale = 'en' \| 'es'` |
-| Binary language toggle | **1 component** | Flips between en/es only |
-| Inline ternary conditionals | **12 files** | `isEs ? 'Hola' : 'Hello'` |
-| Client-side swap script | **1 file** | Only swaps `[data-es]` attributes |
-| Separate `/pages/es/` directory | **19 page files** | Would need /vi/, /zh/, /ar/, /am/ copies too |
+| Hardcoded `'en' \| 'es'` type             | **12 files**                        | `Locale = 'en' \| 'es'`                                             |
+| Binary language toggle                    | **1 component**                     | Flips between en/es only                                            |
+| Inline ternary conditionals               | **12 files**                        | `isEs ? 'Hola' : 'Hello'`                                           |
+| Client-side swap script                   | **1 file**                          | Only swaps `[data-es]` attributes                                   |
+| Separate `/pages/es/` directory           | **19 page files**                   | Would need /vi/, /zh/, /ar/, /am/ copies too                        |
 
 ### Proposed Refactoring: Translation-Key Architecture
 
@@ -106,6 +111,7 @@ Replace the attribute-pair pattern with a **translation key lookup system**:
 #### A. Replace `data-en`/`data-es` with `data-t` keys
 
 **Before (current):**
+
 ```html
 <h1 data-en="Denver Belongs to All of Us" data-es="Denver Nos Pertenece a Todos">
   Denver Belongs to All of Us
@@ -113,6 +119,7 @@ Replace the attribute-pair pattern with a **translation key lookup system**:
 ```
 
 **After (proposed):**
+
 ```html
 <h1 data-t="hero.headline">Denver Belongs to All of Us</h1>
 ```
@@ -134,6 +141,7 @@ src/i18n/
 #### C. Refactor content schema
 
 **Before:**
+
 ```typescript
 title: z.string(),
 titleEs: z.string(),
@@ -142,6 +150,7 @@ summaryEs: z.string(),
 ```
 
 **After (Option — separate translation collections, extending existing pattern):**
+
 ```
 content/
 ├── policies/        (English — canonical, keeps all metadata)
@@ -153,6 +162,7 @@ content/
 ```
 
 For frontmatter strings (titles, summaries, stat labels), move to a single `translations` field:
+
 ```typescript
 translations: z.record(z.string(), z.object({
   title: z.string(),
@@ -161,6 +171,7 @@ translations: z.record(z.string(), z.object({
 ```
 
 Or keep frontmatter translations in the per-locale JSON files (simpler):
+
 ```json
 // es.json
 {
@@ -176,6 +187,7 @@ Or keep frontmatter translations in the per-locale JSON files (simpler):
 #### D. Generalize Layout.astro swap script
 
 **Before:**
+
 ```javascript
 var els = document.querySelectorAll('[data-es]');
 for (var i = 0; i < els.length; i++) {
@@ -185,14 +197,15 @@ for (var i = 0; i < els.length; i++) {
 ```
 
 **After:**
+
 ```javascript
 // Load translations for current locale and swap by key
 var lang = document.documentElement.lang;
 if (lang !== 'en') {
   fetch('/i18n/' + lang + '.json')
-    .then(r => r.json())
-    .then(function(t) {
-      document.querySelectorAll('[data-t]').forEach(function(el) {
+    .then((r) => r.json())
+    .then(function (t) {
+      document.querySelectorAll('[data-t]').forEach(function (el) {
         var key = el.getAttribute('data-t');
         var val = key.split('.').reduce((o, k) => o?.[k], t);
         if (val) el.textContent = val;
@@ -204,6 +217,7 @@ if (lang !== 'en') {
 #### E. Replace binary toggle with language selector
 
 Replace the current en/es toggle button with a dropdown showing all available languages:
+
 - English
 - Español
 - Tiếng Việt
@@ -228,18 +242,18 @@ This reduces duplication from 19 files per locale to ~1 dynamic route set.
 
 ### Refactoring Effort Estimate
 
-| Task | Scope | Effort |
-|------|-------|--------|
-| New Locale type + config | 12 files | Low |
-| Replace 1,491 `data-en`/`data-es` pairs with `data-t` keys | 40 files | **High** |
-| Generalize Layout.astro swap script | 1 file | Low |
-| Language selector component | 1 component | Low |
-| Refactor inline ternaries to use `t()` | 12 files | Medium |
-| Dynamic locale routing | ~19 page files | Medium |
-| Content schema refactoring | config.ts + 50 policies | Medium |
-| Arabic RTL support (CSS logical properties, `dir` attribute) | Layout + CSS | Medium |
-| Ge'ez font integration | CSS + Layout | Low |
-| CJK font/line-breaking | CSS | Low |
+| Task                                                         | Scope                   | Effort   |
+| ------------------------------------------------------------ | ----------------------- | -------- |
+| New Locale type + config                                     | 12 files                | Low      |
+| Replace 1,491 `data-en`/`data-es` pairs with `data-t` keys   | 40 files                | **High** |
+| Generalize Layout.astro swap script                          | 1 file                  | Low      |
+| Language selector component                                  | 1 component             | Low      |
+| Refactor inline ternaries to use `t()`                       | 12 files                | Medium   |
+| Dynamic locale routing                                       | ~19 page files          | Medium   |
+| Content schema refactoring                                   | config.ts + 50 policies | Medium   |
+| Arabic RTL support (CSS logical properties, `dir` attribute) | Layout + CSS            | Medium   |
+| Ge'ez font integration                                       | CSS + Layout            | Low      |
+| CJK font/line-breaking                                       | CSS                     | Low      |
 
 **The `data-es` → `data-t` migration is the biggest single task** but is highly mechanical and could be scripted.
 
@@ -253,27 +267,27 @@ Using Claude Haiku 4.5 for translation is roughly **19x cheaper** than Sonnet/Op
 
 **Content volume to translate (per language):**
 
-| Content Type | Count | Approx. Words |
-|-------------|-------|---------------|
-| UI strings (JSON) | 80+ keys | ~500 words |
-| Page metadata (SEO) | 6 pages | ~300 words |
-| Policy frontmatter (titles, summaries, stats) | 50 policies | ~5,000 words |
-| Policy body content (markdown) | 50 documents | ~75,000 words |
-| Tool page content | 11 tools | ~5,000 words |
-| **Total per language** | | **~85,000 words** |
-| **Total for 4 new languages** | | **~340,000 words** |
+| Content Type                                  | Count        | Approx. Words      |
+| --------------------------------------------- | ------------ | ------------------ |
+| UI strings (JSON)                             | 80+ keys     | ~500 words         |
+| Page metadata (SEO)                           | 6 pages      | ~300 words         |
+| Policy frontmatter (titles, summaries, stats) | 50 policies  | ~5,000 words       |
+| Policy body content (markdown)                | 50 documents | ~75,000 words      |
+| Tool page content                             | 11 tools     | ~5,000 words       |
+| **Total per language**                        |              | **~85,000 words**  |
+| **Total for 4 new languages**                 |              | **~340,000 words** |
 
 At Haiku 4.5 pricing, translating all content for 4 languages would cost roughly a few dollars total.
 
 ### Quality Assessment by Language
 
-| Language | LLM Quality | Confidence | Review Needed? |
-|----------|------------|------------|----------------|
-| **Spanish** (existing) | Excellent | Very High | Light review |
-| **Vietnamese** | Good | High | Moderate review — check diacritics, formal register |
-| **Chinese (Simplified)** | Excellent | Very High | Light review |
-| **Arabic** | Good | High | Moderate review — check formal MSA vs dialect, RTL punctuation |
-| **Amharic** | Fair | Medium | **Heavy review required** |
+| Language                 | LLM Quality | Confidence | Review Needed?                                                 |
+| ------------------------ | ----------- | ---------- | -------------------------------------------------------------- |
+| **Spanish** (existing)   | Excellent   | Very High  | Light review                                                   |
+| **Vietnamese**           | Good        | High       | Moderate review — check diacritics, formal register            |
+| **Chinese (Simplified)** | Excellent   | Very High  | Light review                                                   |
+| **Arabic**               | Good        | High       | Moderate review — check formal MSA vs dialect, RTL punctuation |
+| **Amharic**              | Fair        | Medium     | **Heavy review required**                                      |
 
 ### Amharic-Specific Concerns
 
@@ -307,6 +321,7 @@ Content to translate:
 ```
 
 Language-specific notes:
+
 - **Vietnamese:** Use formal Southern Vietnamese register. Preserve Vietnamese diacritical marks precisely.
 - **Chinese:** Use Simplified Chinese. Use formal civic register (公文体).
 - **Arabic:** Use Modern Standard Arabic (MSA), not dialect. Maintain proper RTL punctuation.
@@ -327,12 +342,12 @@ Language-specific notes:
 
 ### Recommendation: Yes — phased rollout
 
-| Phase | Languages | Scope | Why |
-|-------|-----------|-------|-----|
-| **Phase 0** | Architecture refactoring | Replace `data-es` pattern, generalize locale system | Required before any new language. Unblocks everything. |
-| **Phase 1** | Vietnamese (vi) + Chinese (zh) | Full site | High LLM quality, Latin/system fonts, no RTL. Lowest technical risk. |
-| **Phase 2** | Amharic (am) | Core pages first, then full | Ge'ez font needed. Translation needs human review. Start with community partnership. |
-| **Phase 3** | Arabic (ar) | Full site | RTL support is the biggest technical lift. Do it last when the architecture is proven. |
+| Phase       | Languages                      | Scope                                               | Why                                                                                    |
+| ----------- | ------------------------------ | --------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Phase 0** | Architecture refactoring       | Replace `data-es` pattern, generalize locale system | Required before any new language. Unblocks everything.                                 |
+| **Phase 1** | Vietnamese (vi) + Chinese (zh) | Full site                                           | High LLM quality, Latin/system fonts, no RTL. Lowest technical risk.                   |
+| **Phase 2** | Amharic (am)                   | Core pages first, then full                         | Ge'ez font needed. Translation needs human review. Start with community partnership.   |
+| **Phase 3** | Arabic (ar)                    | Full site                                           | RTL support is the biggest technical lift. Do it last when the architecture is proven. |
 
 ### Why this order?
 
@@ -350,6 +365,7 @@ If community impact is prioritized over technical ease, swap Phases 1 and 2. The
 ## 6. References
 
 ### Denver Demographics & Language Data
+
 - [Denver Language Access Program (Executive Order 150)](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Human-Rights-Community-Partnerships/Divisions/Immigrant-Refugee-Affairs/Language-Access) — City & County of Denver
 - [Colorado State Language Data](https://www.migrationpolicy.org/data/state-profiles/state/language/CO) — Migration Policy Institute
 - [Languages in Colorado](https://statisticalatlas.com/state/Colorado/Languages) — Statistical Atlas
@@ -359,6 +375,7 @@ If community impact is prioritized over technical ease, swap Phases 1 and 2. The
 - [Denver Hispanic Chamber Demographics](https://www.hispanicchamberdenver.com/demographics) — Hispanic Chamber of Commerce
 
 ### Ethiopian / Amharic Community
+
 - [Ethiopians in Denver: Why So Many Have Come and Stayed](https://bucketlistcommunitycafe.com/ethiopians-in-denver-why-so-many-have-come-and-stayed/) — Bucket List Community Cafe
 - [Ethiopians in Colorado](https://history.denverlibrary.org/news/western-history/ethiopians-colorado) — Denver Public Library Special Collections
 - [Denver metro area home to 30,000 Ethiopians, Eritreans](https://www.denverpost.com/2013/07/25/denver-metro-area-home-to-30000-ethiopians-eritreans/) — Denver Post
@@ -369,6 +386,7 @@ If community impact is prioritized over technical ease, swap Phases 1 and 2. The
 - [Amharic Most Commonly Spoken African Language in Eight U.S. States](http://www.tadias.com/05/15/2014/census-amharic-most-commonly-spoken-african-language-in-eight-u-s-states/) — Tadias Magazine
 
 ### LLM Translation Quality Research
+
 - [Bridging the Gap: Enhancing LLM Performance for Low-Resource African Languages](https://arxiv.org/abs/2412.12417) — arXiv, Dec 2024
 - [AfroBench: How Good are LLMs on African Languages](https://aclanthology.org/2025.findings-acl.976.pdf) — ACL 2025
 - [Where Are We? Evaluating LLM Performance on African Languages](https://arxiv.org/html/2502.19582v1) — arXiv, Feb 2025

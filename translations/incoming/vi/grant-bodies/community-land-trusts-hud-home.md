@@ -136,13 +136,13 @@ Mô hình quỹ đất cộng đồng giải quyết nguyên nhân gốc rễ c�
 
 ### F. Lịch Trình Dự Án
 
-| Giai Đoạn                         | Lịch Trình   | Các Cột Mốc Quan Trọng                                                                                                                 |
-| --------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Giai Đoạn                         | Lịch Trình  | Các Cột Mốc Quan Trọng                                                                                                                                |
+| --------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Khởi Động & Xây Dựng Năng Lực** | Tháng 1-6   | Thực hiện thỏa thuận người nhận phụ với Elevation CLT, thuê nhân viên dự án, khởi động đường ống mua lại, bắt đầu ghi danh chuẩn bị cho người mua nhà |
-| **Giai Đoạn Mua Lại 1**           | Tháng 4-14  | Mua lại 40-60 tài sản đầu tiên ở các khu dân cư có nguy cơ di dời cao nhất, bắt đầu phục hồi trên các tài sản mua lại sớm nhất             |
-| **Giai Đoạn Mua Lại 2**           | Tháng 12-24 | Mua lại 40-60 tài sản còn lại, hoàn thành việc phục hồi trên các đơn vị Giai đoạn 1, đặt những chủ nhà CLT đầu tiên                              |
-| **Chiếm Dụng & Quản Lý**           | Tháng 18-32 | Hoàn thành tất cả việc phục hồi, thực hiện thuê đất, đóng các giao dịch bán nhà CLT, cung cấp hỗ trợ quản lý sau mua hàng                           |
-| **Kết Thúc & Đánh Giá**          | Tháng 30-36 | Xác minh chiếm dụng cuối cùng, kết thúc tài chính, đánh giá kết quả, gửi báo cáo cuối cùng cho HUD                                     |
+| **Giai Đoạn Mua Lại 1**           | Tháng 4-14  | Mua lại 40-60 tài sản đầu tiên ở các khu dân cư có nguy cơ di dời cao nhất, bắt đầu phục hồi trên các tài sản mua lại sớm nhất                        |
+| **Giai Đoạn Mua Lại 2**           | Tháng 12-24 | Mua lại 40-60 tài sản còn lại, hoàn thành việc phục hồi trên các đơn vị Giai đoạn 1, đặt những chủ nhà CLT đầu tiên                                   |
+| **Chiếm Dụng & Quản Lý**          | Tháng 18-32 | Hoàn thành tất cả việc phục hồi, thực hiện thuê đất, đóng các giao dịch bán nhà CLT, cung cấp hỗ trợ quản lý sau mua hàng                             |
+| **Kết Thúc & Đánh Giá**           | Tháng 30-36 | Xác minh chiếm dụng cuối cùng, kết thúc tài chính, đánh giá kết quả, gửi báo cáo cuối cùng cho HUD                                                    |
 
 ### G. Phù Hợp Với Các Mục Tiêu Của Chương Trình HOME
 
@@ -168,28 +168,28 @@ Khoản đầu tư liên bang được yêu cầu là 12 triệu đô la thể h
 
 ## Tóm Tắt Ngân Sách
 
-| Danh Mục                                        | Số Tiền         | % Tổng Cộng |
-| ----------------------------------------------- | --------------- | ---------- |
-| Mua Tài Sản Trong Các Khu Vực Chống Di Dời      | $6,000,000      | 50%        |
-| Phục Hồi và Chuyển Đổi                          | $3,000,000      | 25%        |
-| Xây Dựng Năng Lực Tổ Chức CLT                   | $1,500,000      | 12.5%      |
-| Chương Trình Chuẩn Bị và Quản Lý Chủ Nhà          | $500,000        | 4.2%       |
-| Quản Lý Dự Án                                   | $1,000,000      | 8.3%       |
-| **Tổng Yêu Cầu Liên Bang (HOME)**               | **$12,000,000** | **100%**   |
-| Đối Ứng Địa Phương (trái phiếu thành phố, thuế bỏ trống, quỹ HOST) | $50,000,000     | —          |
-| **Tổng Đầu Tư Dự Án**                           | **$62,000,000** | —          |
+| Danh Mục                                                           | Số Tiền         | % Tổng Cộng |
+| ------------------------------------------------------------------ | --------------- | ----------- |
+| Mua Tài Sản Trong Các Khu Vực Chống Di Dời                         | $6,000,000      | 50%         |
+| Phục Hồi và Chuyển Đổi                                             | $3,000,000      | 25%         |
+| Xây Dựng Năng Lực Tổ Chức CLT                                      | $1,500,000      | 12.5%       |
+| Chương Trình Chuẩn Bị và Quản Lý Chủ Nhà                           | $500,000        | 4.2%        |
+| Quản Lý Dự Án                                                      | $1,000,000      | 8.3%        |
+| **Tổng Yêu Cầu Liên Bang (HOME)**                                  | **$12,000,000** | **100%**    |
+| Đối Ứng Địa Phương (trái phiếu thành phố, thuế bỏ trống, quỹ HOST) | $50,000,000     | —           |
+| **Tổng Đầu Tư Dự Án**                                              | **$62,000,000** | —           |
 
 ## Kết Quả Dự Kiến
 
-| Số Liệu                                                                   | Cơ Sở          | Mục Tiêu 3 Năm                               |
-| ------------------------------------------------------------------------- | ---------------- | ------------------------------------------- |
-| Nhà ở CLT giá cả phải chăng vĩnh viễn ở Denver                             | ~300             | 800 (500 thuần mới)                           |
-| Tốc độ mua lại CLT hàng năm                                               | 20-40 căn/năm | 150-175 căn/năm                          |
-| Các hộ gia đình nhận được tư vấn chuẩn bị cho người mua nhà                 | ~75/năm         | 300+ trong 3 năm                           |
-| Tỷ lệ tịch thu nhà của chủ sở hữu CLT                                     | <1%              | Duy trì dưới 1%                         |
-| Giá bán nhà CLT trung bình (% thị trường)                                  | ~55% thị trường   | Duy trì ở mức 50-60% thị trường              |
-| Đại diện nhân khẩu học (cư dân da màu trong nhà ở CLT)                     | ~60%             | 65%+ (tỷ lệ với các khu dân cư mục tiêu) |
-| Khả năng tự cung tự cấp hoạt động của CLT (doanh thu thuê đất so với chi phí hoạt động) | ~40%             | 70%+                                        |
+| Số Liệu                                                                                 | Cơ Sở           | Mục Tiêu 3 Năm                           |
+| --------------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
+| Nhà ở CLT giá cả phải chăng vĩnh viễn ở Denver                                          | ~300            | 800 (500 thuần mới)                      |
+| Tốc độ mua lại CLT hàng năm                                                             | 20-40 căn/năm   | 150-175 căn/năm                          |
+| Các hộ gia đình nhận được tư vấn chuẩn bị cho người mua nhà                             | ~75/năm         | 300+ trong 3 năm                         |
+| Tỷ lệ tịch thu nhà của chủ sở hữu CLT                                                   | <1%             | Duy trì dưới 1%                          |
+| Giá bán nhà CLT trung bình (% thị trường)                                               | ~55% thị trường | Duy trì ở mức 50-60% thị trường          |
+| Đại diện nhân khẩu học (cư dân da màu trong nhà ở CLT)                                  | ~60%            | 65%+ (tỷ lệ với các khu dân cư mục tiêu) |
+| Khả năng tự cung tự cấp hoạt động của CLT (doanh thu thuê đất so với chi phí hoạt động) | ~40%            | 70%+                                     |
 
 ## Các Nguồn Dữ Liệu Chính
 

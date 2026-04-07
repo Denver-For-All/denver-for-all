@@ -27,6 +27,7 @@ A pesar de su eficacia probada, STAR opera con graves limitaciones:
 Expandir STAR a cobertura **24 horas, 7 días a la semana** en los **seis distritos policiales de Denver**.
 
 Esto requiere:
+
 - **Triplicar el número de equipos de STAR** de los actuales ~10 equipos a aproximadamente 30 equipos.
 - **Ampliar los criterios de tipo de llamada** para el despacho de STAR.
 - **Protocolos de co-respuesta** para llamadas donde la situación no está clara.
@@ -38,6 +39,7 @@ Crear una **línea de crisis de salud mental dedicada de Denver** que conecte di
 ### 3. Centros de Estabilización de Crisis — Alternativas a la Sala de Emergencias
 
 Financiar al menos **tres centros comunitarios de estabilización de crisis** en vecindarios de Denver con alta necesidad, que proporcionen:
+
 - Estabilización de crisis a corto plazo (hasta 23 horas) sin compromiso involuntario.
 - Conexión inmediata con tratamiento ambulatorio de salud mental.
 - Evaluación médica y, donde sea apropiado, manejo de retiro supervisado médicamente.
@@ -45,6 +47,7 @@ Financiar al menos **tres centros comunitarios de estabilización de crisis** en
 ### 4. Desarrollo de la Fuerza Laboral de Apoyo de Pares
 
 Expandir la fuerza laboral de apoyo de pares, personas con experiencia vivida en crisis de salud mental, mediante:
+
 - Financiar una Academia de Capacitación de Apoyo de Pares de Denver.
 - Crear una trayectoria profesional: apoyo de pares → coach de recuperación certificado → consejero licenciado.
 - Priorizar la contratación de comunidades más afectadas por el sistema de respuesta a crisis.
@@ -55,12 +58,12 @@ Publicar tableros trimestrales que rastreen el volumen de llamadas de STAR, los 
 
 ## Evidencia
 
-| Estudio | Hallazgo |
-|---|---|
-| Dee y Pyne, *NBER*, 2022 | STAR redujo la delincuencia en áreas cubiertas en un 8–12% |
-| Evaluación de STAR de la Universidad de Denver, 2022 | Cero arrestos, cero usos de fuerza en más de 2,300 respuestas |
-| Informe del Programa STAR de Denver, 2023 | Costo por respuesta ~$500 vs. más de $1,000 para respuesta policial |
-| Evaluación de 30 años de CAHOOTS (Eugene, OR) | El programa civil de crisis maneja el 24% de todas las llamadas al 911 sin policía |
+| Estudio                                              | Hallazgo                                                                           |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Dee y Pyne, _NBER_, 2022                             | STAR redujo la delincuencia en áreas cubiertas en un 8–12%                         |
+| Evaluación de STAR de la Universidad de Denver, 2022 | Cero arrestos, cero usos de fuerza en más de 2,300 respuestas                      |
+| Informe del Programa STAR de Denver, 2023            | Costo por respuesta ~$500 vs. más de $1,000 para respuesta policial                |
+| Evaluación de 30 años de CAHOOTS (Eugene, OR)        | El programa civil de crisis maneja el 24% de todas las llamadas al 911 sin policía |
 
 ## Contexto Local
 
@@ -80,20 +83,20 @@ No. STAR cuesta aproximadamente $500 por respuesta, frente a más de $1,000 para
 
 La expansión completa de STAR 24/7 requeriría aproximadamente $25–30M/año.
 
-| Fuente de Financiamiento | Monto Estimado |
-|---|---|
-| Redirigir de las horas extras policiales | ~$8–10M |
-| Subvenciones estatales de la Administración de Salud Conductual de Colorado | ~$5–7M |
-| Subvenciones federales de SAMHSA | ~$3–5M |
-| Fondo General de Denver (nueva asignación) | ~$7–10M |
+| Fuente de Financiamiento                                                    | Monto Estimado |
+| --------------------------------------------------------------------------- | -------------- |
+| Redirigir de las horas extras policiales                                    | ~$8–10M        |
+| Subvenciones estatales de la Administración de Salud Conductual de Colorado | ~$5–7M         |
+| Subvenciones federales de SAMHSA                                            | ~$3–5M         |
+| Fondo General de Denver (nueva asignación)                                  | ~$7–10M        |
 
 Esta es una reasignación, no nuevo gasto. La ciudad actualmente gasta este dinero en el extremo caro e ineficaz de las crisis de salud mental: visitas a la sala de emergencias, cárcel, respuesta de emergencia repetida.
 
 ## Referencias
 
-- Dee, T. y Pyne, J. *A Community Response Approach to Mental Health and Substance Use Crises Reduced Crime.* Science Advances / NBER, 2022.
-- Departamento de Policía de Denver. *Datos de Clasificación de Llamadas al 911.* 2023.
-- Programa STAR de Denver. *Informe Anual.* 2023.
-- Alianza Nacional sobre Enfermedades Mentales. *The Cost of Mental Health Crises.* 2022.
-- Universidad de Denver. *Evaluación del Programa STAR.* 2022.
-- Clínica White Bird. *Programa CAHOOTS.* Eugene, Oregon.
+- Dee, T. y Pyne, J. _A Community Response Approach to Mental Health and Substance Use Crises Reduced Crime._ Science Advances / NBER, 2022.
+- Departamento de Policía de Denver. _Datos de Clasificación de Llamadas al 911._ 2023.
+- Programa STAR de Denver. _Informe Anual._ 2023.
+- Alianza Nacional sobre Enfermedades Mentales. _The Cost of Mental Health Crises._ 2022.
+- Universidad de Denver. _Evaluación del Programa STAR._ 2022.
+- Clínica White Bird. _Programa CAHOOTS._ Eugene, Oregon.

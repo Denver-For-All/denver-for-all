@@ -109,6 +109,7 @@ Fines and license fees collected under the new enforcement regime are dedicated 
 ### 5. Transition Period
 
 Existing license holders who currently operate non-primary-residence STRs are given a **12-month transition period** to either:
+
 - Convert their unit to long-term rental (with a $5,000 landlord incentive from the Housing Return Fund for signing a 2-year lease at or below market rate), or
 - Sell the unit (with a right-of-first-refusal for the Denver Social Housing Authority to purchase at appraised value).
 
@@ -118,12 +119,12 @@ After 12 months, full enforcement begins.
 
 ### Cities That Have Acted — And What Happened
 
-| City | Policy | Result |
-|---|---|---|
+| City                                   | Policy                                                                                                 | Result                                                                                                                        |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | **New York City** (Local Law 18, 2023) | Required STR hosts to be present during guest stays; platforms barred from listing non-compliant units | Airbnb listings dropped from ~22,000 to ~3,000 within months; long-term rental inventory increased (McGeehan, NY Times, 2023) |
-| **Barcelona, Spain** | Began revoking STR licenses citywide in 2028 (announced 2023) | 10,000 STR licenses not renewed; tourism apartments converted to long-term rentals |
-| **Amsterdam, Netherlands** | 30-night annual cap on whole-unit STRs; platform data-sharing required | STR listings declined 30%+ year-over-year; compliance increased dramatically |
-| **Santa Monica, CA** | Home-sharing ordinance with strict primary-residence requirement and platform liability | STR listings fell 80%; long-term vacancy rates improved (Santa Monica City Planning, 2020) |
+| **Barcelona, Spain**                   | Began revoking STR licenses citywide in 2028 (announced 2023)                                          | 10,000 STR licenses not renewed; tourism apartments converted to long-term rentals                                            |
+| **Amsterdam, Netherlands**             | 30-night annual cap on whole-unit STRs; platform data-sharing required                                 | STR listings declined 30%+ year-over-year; compliance increased dramatically                                                  |
+| **Santa Monica, CA**                   | Home-sharing ordinance with strict primary-residence requirement and platform liability                | STR listings fell 80%; long-term vacancy rates improved (Santa Monica City Planning, 2020)                                    |
 
 The common thread: **platform liability is the enforcement mechanism that works**. When Airbnb and VRBO face fines for listing non-compliant properties, they comply. When only hosts face fines, non-compliant listings persist because individual hosts are hard to find and prosecute.
 
@@ -157,21 +158,21 @@ New York's Local Law 18 demonstrates it is. The key is platform liability — re
 
 This policy is substantially self-funding:
 
-| Revenue Source | Estimated Annual Amount |
-|---|---|
-| STR license fees ($500/year per license) | ~$1.75M |
-| Fine revenue from violations | ~$2–5M/year (declining as compliance rises) |
-| Lodgers' tax compliance on newly compliant listings | ~$1–2M/year |
-| **Total** | **~$5–9M/year** |
+| Revenue Source                                      | Estimated Annual Amount                     |
+| --------------------------------------------------- | ------------------------------------------- |
+| STR license fees ($500/year per license)            | ~$1.75M                                     |
+| Fine revenue from violations                        | ~$2–5M/year (declining as compliance rises) |
+| Lodgers' tax compliance on newly compliant listings | ~$1–2M/year                                 |
+| **Total**                                           | **~$5–9M/year**                             |
 
 Operating costs for the STR Enforcement Office: ~$1.5M/year. Net surplus dedicated to the STR Housing Return Fund: ~$3–7M/year.
 
 ## References
 
-- Barron, K., Kung, E. & Proserpio, D. *The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb.* Review of Financial Studies, 2021.
-- City and County of Denver. *Short-Term Rental Licensing.* Department of Excise and Licenses, 2024.
-- Denver Office of Economic Development. *Denver Housing Market Analysis.* 2023.
-- Inside Airbnb. *Denver, Colorado dataset.* 2024. http://insideairbnb.com
-- McGeehan, P. *New York's Airbnb Crackdown: A Year Later.* New York Times, 2024.
-- New York City Council. *Local Law 18 of 2022.* Short-Term Rental Registration Law.
-- Santa Monica City Planning Division. *Home-Sharing Ordinance Annual Report.* 2020.
+- Barron, K., Kung, E. & Proserpio, D. _The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb._ Review of Financial Studies, 2021.
+- City and County of Denver. _Short-Term Rental Licensing._ Department of Excise and Licenses, 2024.
+- Denver Office of Economic Development. _Denver Housing Market Analysis._ 2023.
+- Inside Airbnb. _Denver, Colorado dataset._ 2024. http://insideairbnb.com
+- McGeehan, P. _New York's Airbnb Crackdown: A Year Later._ New York Times, 2024.
+- New York City Council. _Local Law 18 of 2022._ Short-Term Rental Registration Law.
+- Santa Monica City Planning Division. _Home-Sharing Ordinance Annual Report._ 2020.

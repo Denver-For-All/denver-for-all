@@ -68,11 +68,11 @@ This outcome is not coincidental. The money primary filters candidates before th
 
 Reduce the maximum individual contribution to Denver city elections:
 
-| Race | Current Limit | Proposed Limit |
-|---|---|---|
-| Mayor | $10,000/election | $2,500/election |
-| City Council | $2,000/election | $1,000/election |
-| School Board | $2,000/election | $1,000/election |
+| Race         | Current Limit    | Proposed Limit  |
+| ------------ | ---------------- | --------------- |
+| Mayor        | $10,000/election | $2,500/election |
+| City Council | $2,000/election  | $1,000/election |
+| School Board | $2,000/election  | $1,000/election |
 
 These limits are still generous by the standards of most democracies. A household earning Denver's median income ($75,000) could give 3% of its annual income at the proposed mayoral limit. The current limit requires 13%.
 
@@ -100,6 +100,7 @@ Create a **Denver Democracy Fund** — a public small-dollar matching program:
 **The effect:** A candidate who raises $50,000 from 1,000 small donors receives $300,000 from the matching fund — a total of $350,000 with no single large check. They are competitive with a candidate who raises $500,000 from 50 large donors under the current system. The incentive structure changes: instead of attending donor dinners, candidates knock doors. Instead of calling wealthy individuals, they organize communities.
 
 New York City has operated a version of this program since 1988. The 2021 NYC elections, using a 7:1 match, produced:
+
 - 61% increase in small-dollar donors relative to the previous cycle (NYC CFB, 2022)
 - 31% increase in first-time candidates from working-class backgrounds
 - More racially diverse candidate field
@@ -110,6 +111,7 @@ New York City has operated a version of this program since 1988. The 2021 NYC el
 Denver's current campaign finance enforcement is handled by the Denver Elections Division, a city agency that reports to the Mayor. This structural conflict — the Mayor's office enforcing finance rules on candidates for Mayor — creates at minimum an appearance problem and at most an enforcement problem.
 
 Create an **independent, five-member Campaign Finance Oversight Board**:
+
 - Members appointed by the City Council, confirmed by the Mayor, but serving staggered 5-year terms with removal only for cause.
 - Authority to investigate violations, issue fines, refer criminal violations to the DA's office, and publish enforcement reports.
 - Staffed by attorneys independent of any city department.
@@ -130,11 +132,11 @@ Current disclosure deadlines allow large contributions to be made and remain und
 
 The evidence base for small-dollar matching programs is strong and growing:
 
-| Program | Key Outcome |
-|---|---|
-| **NYC (since 1988, 7:1 since 2021)** | 61% more small donors in 2021; significantly more diverse candidate field; winners raised more from small donors (NYC CFB, 2022) |
+| Program                                 | Key Outcome                                                                                                                                          |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **NYC (since 1988, 7:1 since 2021)**    | 61% more small donors in 2021; significantly more diverse candidate field; winners raised more from small donors (NYC CFB, 2022)                     |
 | **Connecticut (statewide, since 2008)** | Dramatically reduced large-donor influence in state legislative races; more contested primaries; increased candidate diversity (Malbin et al., 2012) |
-| **Montgomery County, MD (6:1)** | 50%+ increase in participating candidates; dramatic shift in donor composition toward small donors (Montgomery County CFB, 2020) |
+| **Montgomery County, MD (6:1)**         | 50%+ increase in participating candidates; dramatic shift in donor composition toward small donors (Montgomery County CFB, 2020)                     |
 
 ### Contribution Limits and Corruption
 
@@ -143,6 +145,7 @@ Research consistently shows that higher contribution limits correlate with stron
 ### Denver's Own Data
 
 An analysis of the 2023 Denver mayoral election (Denver Campaign Finance disclosures) shows:
+
 - The top 50 donors to the top two candidates contributed more money than the bottom 2,000 donors combined.
 - More than 60% of all mayoral campaign funds came from contributions of $500 or more.
 - The two candidates who spent the most money advanced to the runoff.
@@ -168,19 +171,19 @@ No. The qualifying threshold (200 contributors for council, 1,000 for mayor) ens
 
 ## How We Pay For It
 
-| Item | Annual Cost |
-|---|---|
-| Denver Democracy Fund (matching program) | ~$4–6M per election cycle |
-| Campaign Finance Oversight Board | ~$750K/year |
-| Enhanced disclosure technology | ~$250K one-time, ~$100K/year maintenance |
+| Item                                     | Annual Cost                              |
+| ---------------------------------------- | ---------------------------------------- |
+| Denver Democracy Fund (matching program) | ~$4–6M per election cycle                |
+| Campaign Finance Oversight Board         | ~$750K/year                              |
+| Enhanced disclosure technology           | ~$250K one-time, ~$100K/year maintenance |
 
 The Democracy Fund is capitalized through a new line item in the city budget, with the option of a small dedicated levy on campaign advertising revenue. At $4–6M per 4-year election cycle, this is approximately $1–1.5M/year — a small price for a functioning democracy.
 
 ## References
 
 - Denver Campaign Finance Ordinance. City and County of Denver, 2024.
-- La Raja, R. & Schaffner, B. *Campaign Finance and Political Polarization.* University of Michigan Press, 2015.
-- Malbin, M. et al. *Small Donors, Big Democracy.* The Campaign Finance Institute, 2012.
-- Montgomery County Campaign Finance Board. *Annual Report.* 2020.
-- New York City Campaign Finance Board. *Annual Report.* 2022.
-- Primo, D. & Milyo, J. *Campaign Finance Laws and Political Efficacy.* Election Law Journal, 2006.
+- La Raja, R. & Schaffner, B. _Campaign Finance and Political Polarization._ University of Michigan Press, 2015.
+- Malbin, M. et al. _Small Donors, Big Democracy._ The Campaign Finance Institute, 2012.
+- Montgomery County Campaign Finance Board. _Annual Report._ 2020.
+- New York City Campaign Finance Board. _Annual Report._ 2022.
+- Primo, D. & Milyo, J. _Campaign Finance Laws and Political Efficacy._ Election Law Journal, 2006.

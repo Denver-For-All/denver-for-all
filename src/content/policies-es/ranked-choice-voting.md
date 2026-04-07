@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Las elecciones municipales de Denver están rotas de una manera específica y solucionable. Actualmente, si nadie obtiene más del 50% de los votos en mayo, los dos primeros candidatos avanzan a una segunda vuelta en julio. Esa segunda vuelta es costosa, tiene poca asistencia y a menudo produce un ganador que la mayoría de los votantes de la elección de mayo votó *en contra*.
+Las elecciones municipales de Denver están rotas de una manera específica y solucionable. Actualmente, si nadie obtiene más del 50% de los votos en mayo, los dos primeros candidatos avanzan a una segunda vuelta en julio. Esa segunda vuelta es costosa, tiene poca asistencia y a menudo produce un ganador que la mayoría de los votantes de la elección de mayo votó _en contra_.
 
 - **El dinero domina las segundas vueltas.** Una campaña bien financiada puede permitirse la saturación publicitaria necesaria para impulsar la participación en una segunda vuelta de bajo ciclo.
 - **El efecto "spoiler" suprime las preferencias genuinas.** Los votantes que prefieren a un candidato que creen que no puede ganar a menudo votan estratégicamente por su "menor mal".
@@ -18,6 +18,7 @@ Colorado aprobó la HB24-1190 en 2024, autorizando a los municipios a adoptar la
 Modificar la Carta Municipal de Denver para reemplazar el sistema actual de primarias más segunda vuelta con la **votación por orden de preferencia (VOP)** para todas las elecciones del Concejo Municipal y del Alcalde de Denver.
 
 Con la VOP:
+
 - Los votantes clasifican a los candidatos en orden de preferencia.
 - Si ningún candidato recibe una mayoría de votos de primera preferencia, se elimina al candidato en último lugar y sus votos se transfieren a la segunda preferencia de esos votantes.
 - Este proceso se repite hasta que un candidato tenga la mayoría de los votos activos restantes.
@@ -43,17 +44,18 @@ Adoptar un modelo de **comisión de redistribución independiente** con 11 miemb
 ### 5. Financiación Pública con Correspondencia de Pequeñas Donaciones
 
 Crear un **programa de correspondencia de pequeñas donaciones** para las elecciones municipales de Denver:
+
 - Por cada dólar donado por un residente de Denver (hasta $50 por donante), el fondo de correspondencia pública contribuye $6.
 - Modelado en el programa 6:1 de la Ciudad de Nueva York.
 
 ## Evidencia
 
-| Jurisdicción | Adopción | Resultado Clave |
-|---|---|---|
-| **Alaska** (en todo el estado, 2022) | VOP estatal para cargos federales y estatales | Demostró que el sistema elige al candidato con apoyo más amplio |
-| **Nueva York** (2021) | VOP en toda la ciudad para primarias | El 70% de los votantes informó que era fácil de usar |
-| **Minneapolis** (2009–presente) | VOP para todas las elecciones municipales | Eliminó costosas segundas vueltas; mayor diversidad de candidatos |
-| **Maine** (2016–presente) | VOP para elecciones federales | Apoyado fuertemente por los votantes; produjo ganadores con mayoría clara |
+| Jurisdicción                         | Adopción                                      | Resultado Clave                                                           |
+| ------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------- |
+| **Alaska** (en todo el estado, 2022) | VOP estatal para cargos federales y estatales | Demostró que el sistema elige al candidato con apoyo más amplio           |
+| **Nueva York** (2021)                | VOP en toda la ciudad para primarias          | El 70% de los votantes informó que era fácil de usar                      |
+| **Minneapolis** (2009–presente)      | VOP para todas las elecciones municipales     | Eliminó costosas segundas vueltas; mayor diversidad de candidatos         |
+| **Maine** (2016–presente)            | VOP para elecciones federales                 | Apoyado fuertemente por los votantes; produjo ganadores con mayoría clara |
 
 ## Contexto Local
 
@@ -71,16 +73,16 @@ Eso es exactamente lo que la VOP evita. Si tu primera opción es eliminada, tu v
 
 ## Cómo Lo Financiamos
 
-| Elemento | Impacto Anual |
-|---|---|
-| Eliminar las segundas vueltas de julio | Ahorrar ~$2M por ciclo electoral |
+| Elemento                                        | Impacto Anual                            |
+| ----------------------------------------------- | ---------------------------------------- |
+| Eliminar las segundas vueltas de julio          | Ahorrar ~$2M por ciclo electoral         |
 | Fondo de correspondencia de pequeñas donaciones | ~$3–5M por ciclo electoral (nuevo gasto) |
-| Comisión de redistribución independiente | ~$500K por ciclo de redistribución |
+| Comisión de redistribución independiente        | ~$500K por ciclo de redistribución       |
 
 ## Referencias
 
-- Coll, J. et al. *Ranked Choice Voting and Representation.* MIT Election Data and Science Lab, 2022.
-- Asamblea General de Colorado. HB24-1190, *Ranked Choice Voting — Municipal Elections Authorization.* 2024.
-- División de Elecciones de Denver. *Datos históricos de participación y costos.* 2023.
-- FairVote. *Ranked Choice Voting in Practice.* 2025.
-- Consejo de Financiamiento de Campañas de la Ciudad de Nueva York. *Small-Dollar Matching Program Impact Report.* 2022.
+- Coll, J. et al. _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab, 2022.
+- Asamblea General de Colorado. HB24-1190, _Ranked Choice Voting — Municipal Elections Authorization._ 2024.
+- División de Elecciones de Denver. _Datos históricos de participación y costos._ 2023.
+- FairVote. _Ranked Choice Voting in Practice._ 2025.
+- Consejo de Financiamiento de Campañas de la Ciudad de Nueva York. _Small-Dollar Matching Program Impact Report._ 2022.

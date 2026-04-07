@@ -78,6 +78,7 @@ Only one env var for local dev: `RESEND_API_KEY` (for newsletter signup). Copy `
 When working on multi-step tasks, use the task list to track progress. If the environment provides a `CLAUDE_CODE_TASK_LIST_ID`, use it for task coordination across sessions.
 
 Key practices:
+
 - Break complex work into discrete, trackable steps before starting.
 - Mark each step in-progress before beginning, and completed immediately after finishing.
 - If a step fails or is blocked, keep it in-progress and note the blocker.

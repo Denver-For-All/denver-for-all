@@ -1,4 +1,6 @@
 ---
+import { siteConfig } from '@config/site';
+
 interface Props {
   actionTarget: 'mayor' | 'state' | 'congress' | 'all';
   petition?: {
@@ -14,7 +16,7 @@ interface Props {
 const { actionTarget, petition, grantProposal, policyTitle } = Astro.props;
 
 const targetLabels: Record<string, { en: string; es: string }> = {
-  mayor: { en: 'Mayor Johnston', es: 'Alcalde Johnston' },
+  mayor: { en: siteConfig.executive.en, es: siteConfig.executive.es },
   state: { en: 'your Governor & State Legislators', es: 'su Gobernador y Legisladores Estatales' },
   congress: { en: 'your U.S. Representatives & Senators', es: 'sus Representantes y Senadores de EE.UU.' },
   all: { en: 'all your elected officials', es: 'todos sus funcionarios electos' },

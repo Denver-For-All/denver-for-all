@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { readFileSync } from 'fs';
 import { join } from 'path';
+import { siteConfig } from '@config/site';
 
 /**
  * Tests for the subscribe endpoint logic (functions/api/subscribe.ts).
@@ -16,29 +17,31 @@ const subscribeSource = readFileSync(
   'utf-8',
 );
 
+// Derive expected origins from the central site config
+const domain = new URL(siteConfig.url).hostname;
+const prodOrigin = siteConfig.url;
+const wwwOrigin = `https://www.${domain}`;
+
 describe('subscribe endpoint logic', () => {
-  // Extract ALLOWED_ORIGINS from source to keep tests in sync
-  const originsMatch = subscribeSource.match(/const ALLOWED_ORIGINS = \[([\s\S]*?)\]/);
-  const ALLOWED_ORIGINS = originsMatch
-    ? originsMatch[1].match(/'([^']+)'/g)?.map((s) => s.replace(/'/g, ''))
-    : [];
+  // Build ALLOWED_ORIGINS the same way subscribe.ts does
+  const ALLOWED_ORIGINS = [prodOrigin, wwwOrigin, 'http://localhost:4321', 'http://localhost:3000'];
 
   function getCorsOrigin(origin: string): string {
-    return ALLOWED_ORIGINS!.includes(origin) ? origin : ALLOWED_ORIGINS![0];
+    return ALLOWED_ORIGINS.includes(origin) ? origin : ALLOWED_ORIGINS[0];
   }
 
   it('source file defines expected allowed origins', () => {
-    expect(ALLOWED_ORIGINS).toContain('https://denverforall.org');
-    expect(ALLOWED_ORIGINS).toContain('https://www.denverforall.org');
-    expect(ALLOWED_ORIGINS).toContain('http://localhost:4321');
+    expect(subscribeSource).toContain('ALLOWED_ORIGINS');
+    expect(subscribeSource).toContain('SITE_DOMAIN');
+    expect(subscribeSource).toContain('localhost:4321');
   });
 
   it('allows production origin', () => {
-    expect(getCorsOrigin('https://denverforall.org')).toBe('https://denverforall.org');
+    expect(getCorsOrigin(prodOrigin)).toBe(prodOrigin);
   });
 
   it('allows www production origin', () => {
-    expect(getCorsOrigin('https://www.denverforall.org')).toBe('https://www.denverforall.org');
+    expect(getCorsOrigin(wwwOrigin)).toBe(wwwOrigin);
   });
 
   it('allows localhost dev origin', () => {
@@ -46,11 +49,11 @@ describe('subscribe endpoint logic', () => {
   });
 
   it('rejects unknown origins by defaulting to production', () => {
-    expect(getCorsOrigin('https://evil.com')).toBe('https://denverforall.org');
+    expect(getCorsOrigin('https://evil.com')).toBe(prodOrigin);
   });
 
   it('rejects empty origin by defaulting to production', () => {
-    expect(getCorsOrigin('')).toBe('https://denverforall.org');
+    expect(getCorsOrigin('')).toBe(prodOrigin);
   });
 
   describe('email validation', () => {

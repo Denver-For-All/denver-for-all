@@ -2,7 +2,11 @@
  * Page metadata for SEO — title and description in both languages.
  * Used by page files to avoid duplicating title/description strings
  * across en and es versions of each page.
+ *
+ * When forking for another city, update the city-specific descriptions below.
+ * The site name and default description come from @config/site.
  */
+import { siteConfig, siteName } from '@config/site';
 
 interface PageMeta {
   title: { en: string; es: string };
@@ -11,17 +15,17 @@ interface PageMeta {
 
 export const pageMeta: Record<string, PageMeta> = {
   home: {
-    title: { en: 'Denver For All', es: 'Denver Para Todos' },
+    title: { en: siteConfig.name.en, es: siteConfig.name.es },
     description: {
-      en: 'A movement for economic justice in Denver. Building a city where everyone can afford to live, work, and thrive.',
-      es: 'Un movimiento por la justicia económica en Denver. Construyendo una ciudad donde todos puedan vivir, trabajar y prosperar.',
+      en: siteConfig.description.en,
+      es: siteConfig.description.es,
     },
   },
   about: {
     title: { en: 'About', es: 'Acerca de' },
     description: {
-      en: 'Denver For All is a grassroots movement building political power for working people in Denver.',
-      es: 'Denver Para Todos es un movimiento popular construyendo poder político para las personas trabajadoras de Denver.',
+      en: `${siteConfig.name.en} is a grassroots movement building political power for working people in ${siteConfig.city.en}.`,
+      es: `${siteConfig.name.es} es un movimiento popular construyendo poder político para las personas trabajadoras de ${siteConfig.city.es}.`,
     },
   },
   platform: {
@@ -34,22 +38,22 @@ export const pageMeta: Record<string, PageMeta> = {
   tools: {
     title: { en: 'Tools', es: 'Herramientas' },
     description: {
-      en: 'Free, open-source tools for holding power accountable in Denver.',
-      es: 'Herramientas gratuitas y de código abierto para exigir rendición de cuentas en Denver.',
+      en: `Free, open-source tools for holding power accountable in ${siteConfig.city.en}.`,
+      es: `Herramientas gratuitas y de código abierto para exigir rendición de cuentas en ${siteConfig.city.es}.`,
     },
   },
   takeAction: {
     title: { en: 'Take Action', es: 'Actúa' },
     description: {
-      en: 'Join the movement. Volunteer, donate, run for office, or help build a Denver that works for everyone.',
-      es: 'Únete al movimiento. Ofrécete como voluntario, dona, postúlate para un cargo o ayuda a construir un Denver que funcione para todos.',
+      en: `Join the movement. Volunteer, donate, run for office, or help build a ${siteConfig.city.en} that works for everyone.`,
+      es: `Únete al movimiento. Ofrécete como voluntario, dona, postúlate para un cargo o ayuda a construir un ${siteConfig.city.es} que funcione para todos.`,
     },
   },
   runForDenver: {
-    title: { en: 'Run For Denver', es: 'Postularse para Denver' },
+    title: { en: `Run For ${siteConfig.city.en}`, es: `Postularse para ${siteConfig.city.es}` },
     description: {
-      en: 'Denver For All is recruiting working-class candidates for the 2027 Denver City Council election.',
-      es: 'Denver Para Todos está reclutando candidatos de la clase trabajadora para las elecciones del Concejo Municipal de Denver 2027.',
+      en: `${siteConfig.name.en} is recruiting working-class candidates for the 2027 ${siteConfig.city.en} City Council election.`,
+      es: `${siteConfig.name.es} está reclutando candidatos de la clase trabajadora para las elecciones del Concejo Municipal de ${siteConfig.city.es} 2027.`,
     },
   },
 };
@@ -59,7 +63,7 @@ export function getPageMeta(
   locale: 'en' | 'es',
 ): { title: string; description: string } {
   const meta = pageMeta[page];
-  if (!meta) return { title: 'Denver For All', description: '' };
+  if (!meta) return { title: siteName(locale), description: '' };
   return {
     title: meta.title[locale],
     description: meta.description[locale],

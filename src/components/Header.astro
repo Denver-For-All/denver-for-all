@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '../i18n/utils';
+import { siteName } from '@config/site';
 
 interface Props {
   locale?: Locale;
@@ -29,7 +30,7 @@ const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : 
       <span class="header__logo-icon">
         <img src="/favicon.svg" alt="" width="36" height="36" />
       </span>
-      <span class="header__logo-text">{isEs ? 'Denver Para Todos' : 'Denver For All'}</span>
+      <span class="header__logo-text">{siteName(locale)}</span>
     </a>
 
     <nav class="header__nav" id="main-nav" aria-label={isEs ? 'Navegación principal' : 'Main navigation'}>

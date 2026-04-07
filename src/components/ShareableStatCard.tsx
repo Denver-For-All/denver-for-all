@@ -1,5 +1,6 @@
 import React, { useRef, useState, useCallback } from 'react';
 import { toPng } from 'html-to-image';
+import { siteConfig, siteUrl } from '@config/site';
 
 const C = {
   primary: '#0D7377',
@@ -311,7 +312,7 @@ function StatCard({
                 letterSpacing: '0.02em',
               }}
             >
-              DENVER FOR ALL
+              {siteConfig.name.en.toUpperCase()}
             </span>
             <span
               style={{
@@ -320,7 +321,7 @@ function StatCard({
                 fontFamily: 'Inter, system-ui, sans-serif',
               }}
             >
-              denverforall.org/platform/{policySlug}
+              {siteConfig.url.replace(/^https?:\/\//, '')}/platform/{policySlug}
             </span>
           </div>
         </div>
@@ -374,8 +375,7 @@ export default function ShareableStatCard({
   const [shareIndex, setShareIndex] = useState<number | null>(null);
   const [_copyFeedback, _setCopyFeedback] = useState(false);
 
-  const siteUrl = 'https://denverforall.org';
-  const policyUrl = `${siteUrl}/platform/${policySlug}`;
+  const policyUrl = siteUrl(`/platform/${policySlug}`);
   const title = locale === 'es' && policyTitleEs ? policyTitleEs : policyTitle;
 
   const generateImage = useCallback(async (index: number): Promise<Blob | null> => {
@@ -438,7 +438,7 @@ export default function ShareableStatCard({
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;
-      a.download = `denver-for-all-${policySlug}-stat-${index + 1}.png`;
+      a.download = `${siteConfig.name.en.toLowerCase().replace(/\s+/g, '-')}-${policySlug}-stat-${index + 1}.png`;
       document.body.appendChild(a);
       a.click();
       document.body.removeChild(a);
@@ -457,7 +457,7 @@ export default function ShareableStatCard({
           blob &&
           navigator.canShare?.({ files: [new File([blob], 'stat.png', { type: 'image/png' })] })
         ) {
-          const file = new File([blob], `denver-for-all-stat.png`, { type: 'image/png' });
+          const file = new File([blob], `${siteConfig.name.en.toLowerCase().replace(/\s+/g, '-')}-stat.png`, { type: 'image/png' });
           await navigator.share({ text, url: policyUrl, files: [file] });
         } else {
           await navigator.share({ text, url: policyUrl });

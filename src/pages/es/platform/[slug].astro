@@ -65,6 +65,9 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
       </a>
 
       <header class="policy-header">
+        <div class="policy-hero">
+          <img src={`/og/${policy.data.category}.png`} alt="" width="1200" height="630" fetchpriority="high" />
+        </div>
         <div class="policy-header__icon">
           <Icon name={`lucide:${policy.data.icon}`} size={32} />
         </div>
@@ -258,6 +261,22 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
     margin-bottom: 3rem;
     padding-bottom: 2rem;
     border-bottom: 2px solid var(--color-border);
+  }
+
+  .policy-hero {
+    width: 100%;
+    aspect-ratio: 1200 / 630;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+    background: var(--color-bg-alt);
+  }
+
+  .policy-hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
 
   .policy-header__icon {

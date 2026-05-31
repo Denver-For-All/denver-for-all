@@ -99,7 +99,6 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 - **GitHub templates** for issues (bug report, feature request, translation, policy update) and PR template are in place.
 - **FUNDING.yml** points to Open Collective.
 - Inline code comments are minimal but sufficient — the code is generally self-documenting.
-- The `scripts/send-questionnaires.js` has excellent inline documentation and usage examples.
 
 ### What's Missing
 
@@ -369,7 +368,7 @@ Denver For All is a well-structured Astro + React civic platform with strong doc
 | `functions/`               | 1          | Newsletter subscribe endpoint          |
 | `workers/`                 | 2 services | Eviction scraper + campaign finance    |
 | `tests/`                   | 3          | i18n, content, subscribe               |
-| `scripts/`                 | 1          | Questionnaire sender                   |
+| `scripts/`                 | 2          | Finance stats + translation pipeline   |
 | `vapi/`                    | 1          | Voice assistant config                 |
 | `collateral/`              | 19         | Organizational/outreach docs           |
 | Top-level docs             | 10         | README, QUICKSTART, CONTRIBUTING, etc. |

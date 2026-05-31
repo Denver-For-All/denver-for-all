@@ -29,7 +29,7 @@ Out of the box, this platform gives you:
 | **Eviction tracker**             | Dashboard of eviction filings by landlord and neighborhood. Requires a local court data source.                                                       |
 | **Campaign finance tool**        | Follow the money — see who's funding your city council. Requires local campaign finance data.                                                         |
 | **Data stories**                 | Scrollytelling visualizations for eviction data, sidewalk conditions, and money in politics.                                                          |
-| **Candidate & mayoral trackers** | Questionnaire responses from council and mayoral candidates, published unedited.                                                                      |
+| **Candidate & mayoral trackers** | Public-record guides to council and mayoral candidates — positions, backgrounds, and track records.                                                   |
 | **Rent calculator**              | Interactive tool showing savings under proposed rent stabilization.                                                                                   |
 | **Tenant rights chatbot**        | 24/7 AI-powered know-your-rights in English and Spanish (via vAPI).                                                                                   |
 | **State sponsor tracker**        | Colorado legislators sponsoring bills aligned with the platform.                                                                                      |

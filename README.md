@@ -7,7 +7,7 @@ A grassroots political platform and organizing toolkit for economic justice in D
 Denver For All is an open-source campaign framework that combines:
 
 - **49 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
-- **11 interactive tools** for holding power accountable — eviction tracker, campaign finance transparency, candidate questionnaires, data stories, rent calculator, tenant rights chatbot, and more
+- **11 interactive tools** for holding power accountable — eviction tracker, campaign finance transparency, public-record candidate guides, data stories, rent calculator, tenant rights chatbot, and more
 - **Organizing infrastructure** (volunteer signup, candidate recruitment, newsletter, Signal group, Resistbot petitions)
 - **Bilingual support** (English/Spanish) with full policy translations using i18n directory structure
 

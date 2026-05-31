@@ -70,14 +70,14 @@ const ghUrl = `https://github.com/${siteConfig.githubRepo}`;
 
 <style>
   .footer {
-    background: var(--color-text);
-    color: white;
+    background: var(--color-footer-bg);
+    color: var(--color-footer-text);
     padding: 3rem 0 1.5rem;
     margin-top: 4rem;
   }
 
   .footer a {
-    color: var(--color-primary-light);
+    color: var(--color-footer-link);
   }
 
   .footer a:hover {
@@ -93,17 +93,17 @@ const ghUrl = `https://github.com/${siteConfig.githubRepo}`;
 
   .footer__logo {
     font-size: 1.25rem;
-    color: white;
+    color: var(--color-footer-heading);
     margin-bottom: 0.5rem;
   }
 
   .footer__tagline {
-    color: var(--color-text-light);
+    color: var(--color-footer-text);
     font-size: 0.9rem;
   }
 
   .footer__links h4 {
-    color: white;
+    color: var(--color-footer-heading);
     font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -117,10 +117,10 @@ const ghUrl = `https://github.com/${siteConfig.githubRepo}`;
   }
 
   .footer__bottom {
-    border-top: 1px solid rgba(255,255,255,0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
     padding-top: 1.5rem;
     font-size: 0.8rem;
-    color: var(--color-text-light);
+    color: var(--color-footer-text);
   }
 
   @media (max-width: 768px) {

@@ -1,5 +1,5 @@
 /**
- * Central site configuration — the single file to edit when forking for another city.
+ * Central site configuration - the single file to edit when forking for another city.
  *
  * Every city-specific value that appears in layouts, components, page metadata,
  * or API functions should be sourced from (or documented in) this file.
@@ -9,7 +9,7 @@
  *   grep -ri "denver" src/ functions/ workers/
  *
  * Some files that live outside the Astro build (Cloudflare Workers, wrangler.toml)
- * cannot import this config directly — those files contain a comment pointing here
+ * cannot import this config directly - those files contain a comment pointing here
  * so you know to update them in parallel.
  */
 

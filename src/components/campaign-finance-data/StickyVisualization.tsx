@@ -20,10 +20,10 @@ import {
 
 const C = {
   danger: '#C0392B',
-  primary: '#0D7377',
-  primaryLight: '#7DD3C0',
-  secondary: '#1E5FA6',
-  accent: '#D4A843',
+  primary: '#00408b',
+  primaryLight: '#5b9bd5',
+  secondary: '#2b86d8',
+  accent: '#f2c14e',
   muted: '#8A95A3',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -106,8 +106,8 @@ function MoneyExplosion({ locale }: { locale: string }) {
         }}
       >
         {locale === 'es'
-          ? 'De <$1M en 2019 a $8.5M en medidas electorales 2025 — un aumento de 750%'
-          : 'From <$1M in 2019 to $8.5M on 2025 ballot measures — a 750% increase'}
+          ? 'De <$1M en 2019 a $8.5M en medidas electorales 2025 - un aumento de 750%'
+          : 'From <$1M in 2019 to $8.5M on 2025 ballot measures - a 750% increase'}
       </div>
     </div>
   );
@@ -456,8 +456,8 @@ function SchoolBoardLesson({ locale }: { locale: string }) {
         }}
       >
         {locale === 'es'
-          ? `Ratio de gasto: ${schoolBoard2025.spendingRatio}:1 — La elección escolar más cara de la historia de Denver`
-          : `Spending ratio: ${schoolBoard2025.spendingRatio}:1 — Most expensive Denver school board election ever`}
+          ? `Ratio de gasto: ${schoolBoard2025.spendingRatio}:1 - La elección escolar más cara de la historia de Denver`
+          : `Spending ratio: ${schoolBoard2025.spendingRatio}:1 - Most expensive Denver school board election ever`}
       </div>
     </div>
   );
@@ -544,7 +544,7 @@ function BallotWars2025({ locale }: { locale: string }) {
           {locale === 'es' ? 'Ratio de gasto' : 'Spending ratio'}: {ref310.spendingRatio}:1
         </strong>
         <span style={{ color: C.textMuted, marginLeft: '0.5rem' }}>
-          {locale === 'es' ? '— La medida anti-tabaco ganó' : '— The anti-tobacco measure won'}
+          {locale === 'es' ? ' - La medida anti-tabaco ganó' : ' - The anti-tobacco measure won'}
         </span>
       </div>
       <div
@@ -656,8 +656,8 @@ function Outlook2027({ locale }: { locale: string }) {
         </div>
         <div style={{ fontSize: '0.85rem', color: C.text, marginTop: '0.3rem' }}>
           {locale === 'es'
-            ? `${earlyFundraising2027.length} candidatos registrados — ${fefCandidates.length} usando el Fondo de Elecciones Justas ($${(totalFef / 1e3).toFixed(1)}K en donaciones FEF)`
-            : `${earlyFundraising2027.length} candidates filed — ${fefCandidates.length} using Fair Elections Fund ($${(totalFef / 1e3).toFixed(1)}K in FEF donations)`}
+            ? `${earlyFundraising2027.length} candidatos registrados - ${fefCandidates.length} usando el Fondo de Elecciones Justas ($${(totalFef / 1e3).toFixed(1)}K en donaciones FEF)`
+            : `${earlyFundraising2027.length} candidates filed - ${fefCandidates.length} using Fair Elections Fund ($${(totalFef / 1e3).toFixed(1)}K in FEF donations)`}
         </div>
       </div>
       <div

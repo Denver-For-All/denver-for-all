@@ -50,11 +50,11 @@ Denver renters have no protection against arbitrary rent increases. A landlord c
 
 The result: Denver rents have increased roughly 85% since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - can't afford to live here.
 
-Colorado state law (CRS § 38-12-301, enacted 1981) prohibits local rent control. Multiple repeal attempts have failed — most recently HB23-1115, which passed the House 40-24 before being killed 4-3 in a Senate committee by a single Democratic defection. Denver must be ready to act the moment preemption is lifted — or pursue a state ballot initiative to repeal it directly.
+Colorado state law (CRS § 38-12-301, enacted 1981) prohibits local rent control. Multiple repeal attempts have failed - most recently HB23-1115, which passed the House 40-24 before being killed 4-3 in a Senate committee by a single Democratic defection. Denver must be ready to act the moment preemption is lifted - or pursue a state ballot initiative to repeal it directly.
 
 ### What Denver Currently Does
 
-Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes § 38-12-301 preempts all local rent control ordinances. Four repeal attempts have been introduced since 2019 (SB19-225, HB23-1115, and bills in 2024 and 2025 sessions) — all have failed. HB23-1115 came the closest, passing the full House before dying in the Senate Local Government & Housing Committee on April 25, 2023. Governor Polis has publicly opposed rent control, but is term-limited and leaves office January 2027.
+Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes § 38-12-301 preempts all local rent control ordinances. Four repeal attempts have been introduced since 2019 (SB19-225, HB23-1115, and bills in 2024 and 2025 sessions) - all have failed. HB23-1115 came the closest, passing the full House before dying in the Senate Local Government & Housing Committee on April 25, 2023. Governor Polis has publicly opposed rent control, but is term-limited and leaves office January 2027.
 
 Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA and apartment market reports. The average one-bedroom rent in Denver reached approximately $1,600/month by 2024 (ApartmentList National Rent Report, 2024). Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
 
@@ -106,7 +106,7 @@ The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to r
 | **Netherlands**                              | Point-based rent system - rent calculated based on unit size, quality, neighborhood. Cannot exceed calculated maximum.  | Transparent, objective rent-setting. No landlord discretion.                                                                          |
 | **Paris, France (_Encadrement des loyers_)** | Rent caps based on neighborhood reference rents.                                                                        | Slowed rapid gentrification in central Paris.                                                                                         |
 
-**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment - and it's failed. Cities that rely purely on the market consistently develop housing affordability crises. Cities with strong rent regulation have more stable, affordable housing -- though regulation alone is not sufficient without supply investment.
+**The US is the outlier.** Most wealthy democracies regulate rent in some form. The "free market" approach to housing is an American experiment - and it's failed. Cities that rely purely on the market consistently develop housing affordability crises. Cities with strong rent regulation have more stable, affordable housing - though regulation alone is not sufficient without supply investment.
 
 ### Why No Vacancy Decontrol Matters
 
@@ -146,10 +146,10 @@ The Stanford study that rent control opponents love to cite (Diamond et al., 201
 The act includes habitability enforcement and allows landlords to petition for above-cap increases specifically for capital improvements (new roof, new plumbing, etc.) - but not cosmetic upgrades. This is standard in functioning rent control systems worldwide.
 
 **"This will hurt small landlords."**
-A 3% annual increase is sustainable for any competently run rental property. If a landlord's business model requires 8-15% annual rent increases to work, that's not a sustainable business — it's speculation at tenants' expense. For landlords carrying mortgages: mortgage payments are fixed (or adjustable within known parameters), while a 3% annual rent increase compounds year over year. A unit renting at $1,500 today reaches $1,740 in 5 years and $2,015 in 10 years at 3% annual increases — well above typical mortgage payment growth. Landlords who purchased recently at peak prices with high-interest loans face tighter margins, which is why the act allows petitions for above-cap increases tied to documented capital improvements. The registration fee is minimal.
+A 3% annual increase is sustainable for any competently run rental property. If a landlord's business model requires 8-15% annual rent increases to work, that's not a sustainable business - it's speculation at tenants' expense. For landlords carrying mortgages: mortgage payments are fixed (or adjustable within known parameters), while a 3% annual rent increase compounds year over year. A unit renting at $1,500 today reaches $1,740 in 5 years and $2,015 in 10 years at 3% annual increases - well above typical mortgage payment growth. Landlords who purchased recently at peak prices with high-interest loans face tighter margins, which is why the act allows petitions for above-cap increases tied to documented capital improvements. The registration fee is minimal.
 
 **"The state won't allow it."**
-Colorado's rent control preemption is a political choice, not a constitutional one. We push for repeal at the state level while building the local coalition to implement immediately when preemption lifts. If necessary, we pursue a state ballot initiative. Governor Polis, who opposes rent control, is term-limited and leaves office in January 2027 — the political window is opening.
+Colorado's rent control preemption is a political choice, not a constitutional one. We push for repeal at the state level while building the local coalition to implement immediately when preemption lifts. If necessary, we pursue a state ballot initiative. Governor Polis, who opposes rent control, is term-limited and leaves office in January 2027 - the political window is opening.
 
 ## Our Multi-Track Strategy to Lift the State Ban
 
@@ -161,7 +161,7 @@ Pass a Denver rent stabilization ordinance that **automatically takes effect** t
 
 ### Track 2: Amended State Bill (2026-2027)
 
-Work with Rep. Mabrey and Rep. Bacon to introduce a strengthened version of HB23-1115 that addresses the specific objections that killed it — mountain town spillover concerns (add population thresholds), development worries (strengthen new construction exemptions), and vacation rental conversion (add anti-conversion provisions).
+Work with Rep. Mabrey and Rep. Bacon to introduce a strengthened version of HB23-1115 that addresses the specific objections that killed it - mountain town spillover concerns (add population thresholds), development worries (strengthen new construction exemptions), and vacation rental conversion (add anti-conversion provisions).
 
 ### Track 3: Statewide Coalition (2026-2027)
 
@@ -184,6 +184,6 @@ If the legislature fails again, Colorado's citizen initiative process lets voter
 - Apartment List. (2024). _National rent report_. https://www.apartmentlist.com/research
 - Colo. Rev. Stat. § 38-12-301 (1981).
 - Colorado General Assembly. (2023). _HB23-1115: Repeal prohibition local residential rent control_. https://leg.colorado.gov/bills/hb23-1115
-- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. _American Economic Review, 109_(9), 3365–3394. https://doi.org/10.1257/aer.20181289
+- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. _American Economic Review, 109_(9), 3365-3394. https://doi.org/10.1257/aer.20181289
 - U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
-- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver–Aurora–Lakewood, CO metro area_ [Data set]. https://www.zillow.com/research/data/
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood, CO metro area_ [Data set]. https://www.zillow.com/research/data/

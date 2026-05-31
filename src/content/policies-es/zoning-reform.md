@@ -31,7 +31,7 @@ Modificar el código de zonificación de Denver para permitir un mínimo de **cu
 
 Eliminar los requisitos mínimos de estacionamiento obligatorios para todos los nuevos desarrollos de vivienda a menos de media milla de las estaciones de ferrocarril ligero y las rutas de autobús frecuentes. Los mandatos de estacionamiento encarecen la construcción, reducen el número de unidades por lote y subsidian la propiedad de automóviles a expensas de la vivienda asequible.
 
-### 3. Simplificar los Permisos de ADU — Sin Requisito de Residencia del Propietario
+### 3. Simplificar los Permisos de ADU - Sin Requisito de Residencia del Propietario
 
 - **Eliminar los requisitos de residencia del propietario** para las ADU.
 - **Permitir las ADU por derecho** con solo revisión administrativa.
@@ -48,7 +48,7 @@ Reformar el proceso para que los proyectos que cumplan con los planes adoptados 
 
 | Ciudad / Estudio            | Política                                                                              | Resultado                                                                                                                                                          |
 | --------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Minneapolis, MN**         | Eliminó la zonificación exclusiva para viviendas unifamiliares (2019)                 | Los alquileres cayeron un 11% en relación con ciudades comparables en 2019–2023 (Universidad de Minnesota, 2024)                                                   |
+| **Minneapolis, MN**         | Eliminó la zonificación exclusiva para viviendas unifamiliares (2019)                 | Los alquileres cayeron un 11% en relación con ciudades comparables en 2019-2023 (Universidad de Minnesota, 2024)                                                   |
 | **Auckland, Nueva Zelanda** | Reclasificó el 75% del suelo residencial (2016)                                       | La construcción casi se triplicó; el crecimiento de los alquileres estuvo significativamente por debajo del promedio nacional (Greenaway-McGrevy y Phillips, 2023) |
 | **Tokio, Japón**            | El marco nacional de uso del suelo permite el uso mixto y la densidad en todas partes | Los alquileres se han mantenido aproximadamente estables en términos reales durante 30 años a pesar del enorme crecimiento de la población (Harding, 2022)         |
 
@@ -58,7 +58,7 @@ La crisis de vivienda de Denver es fundamentalmente una crisis de oferta. La ciu
 
 Este déficit perjudica más a los inquilinos. Los inquilinos representan aproximadamente el 46% de los hogares de Denver (ACS de la Oficina del Censo de EE. UU., 2023) y no tienen protección contra la inflación del costo del suelo que crea la zonificación excluyente.
 
-Las comunidades de color de Denver soportan la mayor carga. Los hogares negros y latinos tienen más probabilidades de ser inquilinos, de tener dificultades para pagar el alquiler y de ser desplazados por el aumento de los alquileres. La reforma de la zonificación que aumenta la oferta de vivienda en los vecindarios de mayores ingresos y menor densidad —las áreas históricamente protegidas por la zonificación unifamiliar— es una intervención de justicia racial.
+Las comunidades de color de Denver soportan la mayor carga. Los hogares negros y latinos tienen más probabilidades de ser inquilinos, de tener dificultades para pagar el alquiler y de ser desplazados por el aumento de los alquileres. La reforma de la zonificación que aumenta la oferta de vivienda en los vecindarios de mayores ingresos y menor densidad - las áreas históricamente protegidas por la zonificación unifamiliar - es una intervención de justicia racial.
 
 ## Preguntas Frecuentes
 
@@ -75,7 +75,7 @@ No. La reforma de la zonificación no cambia las tasaciones del impuesto sobre l
 
 La reforma de la zonificación casi no cuesta nada implementarla. Es un cambio regulatorio, no un programa de gasto. Los costos principales son:
 
-1. **Tiempo del personal** para que Denver Community Planning and Development actualice el código (~$2–3 millones/año en capacidad adicional).
+1. **Tiempo del personal** para que Denver Community Planning and Development actualice el código (~$2-3 millones/año en capacidad adicional).
 2. **Fondo de financiamiento de ADU**: Un fondo de préstamos renovable de $25 millones para propietarios de bajos ingresos que construyen ADU asequibles.
 3. **Exenciones de tarifas para ADU asequibles**: ~$500,000/año en ingresos por permisos no cobrados.
 
@@ -89,5 +89,5 @@ Los ahorros son sustanciales: cada nueva unidad a precio de mercado construida s
 - Greenaway-McGrevy, R. y Phillips, P. _Housing Affordability in Auckland._ Universidad de Auckland, 2023.
 - Harding, R. _Why Tokyo is the model for housing affordability._ Financial Times, 2022.
 - Mast, E. _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics, 2021.
-- Universidad de Minnesota. _Minneapolis 2040 — Rent and Housing Supply Outcomes._ 2024.
+- Universidad de Minnesota. _Minneapolis 2040 - Rent and Housing Supply Outcomes._ 2024.
 - Oficina del Censo de EE. UU., Encuesta sobre la Comunidad Estadounidense. _Denver Housing Tenure Data._ 2023.

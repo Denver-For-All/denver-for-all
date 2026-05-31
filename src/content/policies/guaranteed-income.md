@@ -13,8 +13,8 @@ keyStats:
   - value: '150+'
     label: 'US cities tested guaranteed income'
     labelEs: 'ciudades de EE.UU. probaron el ingreso garantizado'
-    context: 'Not a single pilot showed decreased employment — multiple showed increases'
-    contextEs: 'Ningun piloto mostro disminucion del empleo — varios mostraron aumentos'
+    context: 'Not a single pilot showed decreased employment - multiple showed increases'
+    contextEs: 'Ningun piloto mostro disminucion del empleo - varios mostraron aumentos'
     source: 'Mayors for a Guaranteed Income, 2025'
     theme: 'primary'
   - value: '12.4%'
@@ -35,7 +35,7 @@ keyStats:
 
 ## The Problem
 
-Nearly one in four Denver households is cost-burdened, spending more than 30% of income on housing alone. Denver's median household income is approximately $85,000, but the median masks enormous disparity: 12.4% of Denver residents live below the federal poverty line ($31,200 for a family of four), and another 15-20% hover just above it, one emergency away from financial crisis (U.S. Census Bureau, 2023). In neighborhoods like Montbello, Westwood, Sun Valley, and Globeville-Elyria-Swansea, poverty rates exceed 30%. These are working families. They have jobs -- often multiple jobs. They simply do not earn enough in a city where the cost of living has outpaced wages for two decades.
+Nearly one in four Denver households is cost-burdened, spending more than 30% of income on housing alone. Denver's median household income is approximately $85,000, but the median masks enormous disparity: 12.4% of Denver residents live below the federal poverty line ($31,200 for a family of four), and another 15-20% hover just above it, one emergency away from financial crisis (U.S. Census Bureau, 2023). In neighborhoods like Montbello, Westwood, Sun Valley, and Globeville-Elyria-Swansea, poverty rates exceed 30%. These are working families. They have jobs - often multiple jobs. They simply do not earn enough in a city where the cost of living has outpaced wages for two decades.
 
 The consequences of poverty fall on the entire municipality. Denver spends hundreds of millions per year on emergency responses to the symptoms of poverty: homelessness, emergency room visits for uninsured residents, child welfare interventions, and criminal justice contact driven by economic desperation. The city patches crises one at a time. Guaranteed income addresses the root cause: people do not have enough money.
 
@@ -55,7 +55,7 @@ Meanwhile, **Boulder**, 25 miles northwest, ran its own guaranteed income pilot 
 
 ### Denver Guaranteed Income Program
 
-Direct, unconditional cash payments to Denver's lowest-income residents. No work requirements. No drug tests. No spending restrictions. Just money -- because the evidence from 150+ cities shows that when you trust people with cash, they spend it on exactly what they need.
+Direct, unconditional cash payments to Denver's lowest-income residents. No work requirements. No drug tests. No spending restrictions. Just money - because the evidence from 150+ cities shows that when you trust people with cash, they spend it on exactly what they need.
 
 **1. Program Structure**
 
@@ -107,7 +107,7 @@ This is no longer experimental. More than 150 U.S. cities have run guaranteed in
 The most common objection to guaranteed income is that people will stop working. The data says the opposite:
 
 - **Stockton:** Full-time employment _increased_ 12 percentage points among recipients vs. 5 points in the control group.
-- **Across 20 studies:** "Not a single pilot has shown a decrease in employment." -- Sukhi Samra, Mayors for a Guaranteed Income.
+- **Across 20 studies:** "Not a single pilot has shown a decrease in employment." - Sukhi Samra, Mayors for a Guaranteed Income.
 - **The mechanism is intuitive:** Financial stability allows people to invest in better job searches instead of taking the first desperate option. It allows parents to afford childcare and actually show up to work. It allows workers to complete training programs. Cash stability is a precondition for economic mobility, not a substitute for it.
 
 ## How We Pay For It
@@ -133,7 +133,7 @@ They don't. Across all 150+ pilots, spending data consistently shows recipients 
 Alaska has distributed oil revenue checks to every resident since 1982 through the Permanent Dividend Fund, paying $1,312 per person in 2024. No one calls it socialism. Guaranteed income is a dividend on our shared economy, recognizing that productive capacity depends on public infrastructure, public education, and public health that everyone contributes to. It is also the most efficient anti-poverty tool available: no bureaucracy deciding what you're allowed to buy, no case workers monitoring compliance, no fraud investigation apparatus. Just money to people who need it.
 
 **"We can't afford it."**
-Denver's general fund budget exceeds $1.8 billion. Phase 1 costs $24 million -- 1.3% of the budget. The city spent $1.3 billion on the I-70 expansion. RTD has over $1 billion in reserves while cutting service. We can afford anything we prioritize. The question is whether we prioritize people or infrastructure for cars.
+Denver's general fund budget exceeds $1.8 billion. Phase 1 costs $24 million - 1.3% of the budget. The city spent $1.3 billion on the I-70 expansion. RTD has over $1 billion in reserves while cutting service. We can afford anything we prioritize. The question is whether we prioritize people or infrastructure for cars.
 
 **"Why not just create jobs?"**
 Jobs are necessary but not sufficient. Many guaranteed income recipients already have jobs, often multiple jobs. The problem is that wages have not kept pace with the cost of living. A guaranteed income supplements wages, bridges gaps between jobs, supports caregivers doing unpaid work, and helps people invest in education and training that leads to better employment. It is not an alternative to job creation. It is the foundation that makes job creation effective.
@@ -143,7 +143,7 @@ Cook County, Illinois established permanent guaranteed income funding in 2025 af
 
 ## References
 
-- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked -- and what didn't." Aggregate analysis of US guaranteed income pilots.
+- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Aggregate analysis of US guaranteed income pilots.
 - Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Meta-analysis of 20 peer-reviewed evaluations.
 - Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 ongoing experiments; 150+ total.
 - University of Kansas. (2025). Boulder guaranteed income pilot evaluation. 200 residents, $500/month, mixed employment results, positive basic needs outcomes.

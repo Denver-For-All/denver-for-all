@@ -130,8 +130,8 @@ La inversión federal solicitada de $15 millones representa una **relación de c
 | Pacificación del Tráfico y Seguridad Peatonal        | $2,000,000       | 13%         |
 | Gestión y Evaluación del Proyecto                    | $1,000,000       | 7%          |
 | **Solicitud Federal Total**                          | **$15,000,000**  | **100%**    |
-| Contrapartida Local (ingresos por tarifas de aceras) | $97,500,000      | —           |
-| **Inversión Total del Proyecto**                     | **$112,500,000** | —           |
+| Contrapartida Local (ingresos por tarifas de aceras) | $97,500,000      | - |
+| **Inversión Total del Proyecto**                     | **$112,500,000** | - |
 
 ## Resultados Esperados
 

@@ -519,7 +519,7 @@
       },
       {
         "value": "1.8 vs 5.6",
-        "label": "muertes infantiles por 1.000 — Finlandia vs EE. UU.",
+        "label": "muertes infantiles por 1.000 - Finlandia vs EE. UU.",
         "context": "EE. UU. tiene la tasa de mortalidad infantil más alta entre las naciones ricas",
         "source": "CDC WONDER, 2023"
       }
@@ -679,7 +679,7 @@
     "summary": "Los votantes de Colorado prohibieron la esclavitud y la servidumbre involuntaria en 2018. Siete años después, las personas encarceladas siguen enfrentándose a castigos por negarse a trabajar por centavos. Haga cumplir la Enmienda A. Ponga fin al trabajo coaccionado. Garantice la protección en el lugar de trabajo, salarios justos y la participación voluntaria en todos los programas de trabajo penitenciario.",
     "keyStats": [
       {
-        "value": "$0.33–$1.61",
+        "value": "$0.33-$1.61",
         "label": "por hora: lo que Colorado paga a los trabajadores encarcelados",
         "context": "El salario mínimo es de $14.81/hora. Los trabajadores encarcelados ganan entre el 2 y el 11% de eso. Sin protecciones de la OSHA. Sin días de enfermedad.",
         "source": "ACLU, Informe sobre el Trabajo Cautivo, 2022"

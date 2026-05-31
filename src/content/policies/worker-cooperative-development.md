@@ -13,7 +13,7 @@ keyStats:
   - value: '2.5x'
     label: 'more resilient: worker co-ops survive recessions at 2.5x the rate of conventional firms'
     labelEs: 'más resilientes: las cooperativas de trabajadores sobreviven las recesiones a 2.5 veces la tasa de las empresas convencionales'
-    context: 'Because workers own their jobs, they accept temporary wage reductions instead of layoffs — keeping people employed through downturns'
+    context: 'Because workers own their jobs, they accept temporary wage reductions instead of layoffs - keeping people employed through downturns'
     contextEs: 'Porque los trabajadores son dueños de sus empleos, aceptan reducciones salariales temporales en lugar de despidos'
     source: 'ILO / Birchall & Ketilson, 2009; confirmed in COVID-19 period data'
     theme: 'primary'
@@ -33,7 +33,7 @@ keyStats:
     theme: 'accent'
 relatedLegislation:
   - billNumber: 'HB24-1092'
-    title: 'Worker Cooperative Corporations Act — Colorado'
+    title: 'Worker Cooperative Corporations Act - Colorado'
     status: 'Signed into law'
     session: '2024'
     url: 'https://leg.colorado.gov/bills/hb24-1092'
@@ -43,11 +43,11 @@ relatedLegislation:
 
 Denver's economy produces extraordinary wealth. Most of it leaves Denver.
 
-Corporate chains extract revenue from Denver's neighborhoods and distribute profits to shareholders in New York, Los Angeles, and abroad. Private equity firms buy up local businesses, cut costs, extract fees, and often leave the businesses in worse condition than they found them — or close them entirely. Small business owners who spent decades building something retire with no buyer and lock the doors, destroying jobs and community institutions.
+Corporate chains extract revenue from Denver's neighborhoods and distribute profits to shareholders in New York, Los Angeles, and abroad. Private equity firms buy up local businesses, cut costs, extract fees, and often leave the businesses in worse condition than they found them - or close them entirely. Small business owners who spent decades building something retire with no buyer and lock the doors, destroying jobs and community institutions.
 
-Meanwhile, the workers who actually create that value — who bake the bread, drive the trucks, care for the elderly, maintain the buildings — have no ownership stake in what they build. They are employees at will, subject to layoffs, wage cuts, and relocation decisions made by people who have never set foot in Denver.
+Meanwhile, the workers who actually create that value - who bake the bread, drive the trucks, care for the elderly, maintain the buildings - have no ownership stake in what they build. They are employees at will, subject to layoffs, wage cuts, and relocation decisions made by people who have never set foot in Denver.
 
-This is not the only way to organize an economy. Worker cooperatives — businesses owned and democratically controlled by their employees — have existed for centuries and currently employ millions of people worldwide. The evidence is clear: they are more stable, more equitable, and more resilient than conventional firms. And they keep wealth in the communities where it is created.
+This is not the only way to organize an economy. Worker cooperatives - businesses owned and democratically controlled by their employees - have existed for centuries and currently employ millions of people worldwide. The evidence is clear: they are more stable, more equitable, and more resilient than conventional firms. And they keep wealth in the communities where it is created.
 
 Denver has the legal infrastructure to support them. Colorado's 2024 Worker Cooperative Corporations Act created a clear legal framework. What is missing is the public investment to build the ecosystem.
 
@@ -57,13 +57,13 @@ The most immediate opportunity is also the most urgent: the baby boom retirement
 
 Most will simply close. Some will sell to private equity or large competitors. A tiny fraction will pass to family members. The workers who built those businesses will be laid off, and the economic assets their labor created will be destroyed or extracted.
 
-Worker buyouts — where employees purchase the business through a combination of financing and seller financing — are a proven alternative. They have been executed successfully across industries: manufacturing, homecare, grocery retail, professional services, construction. The barriers are not technical. They are financial access and technical assistance.
+Worker buyouts - where employees purchase the business through a combination of financing and seller financing - are a proven alternative. They have been executed successfully across industries: manufacturing, homecare, grocery retail, professional services, construction. The barriers are not technical. They are financial access and technical assistance.
 
 ### Cooperatives and Racial Economic Justice
 
-Worker cooperative development is inseparable from racial economic justice in Denver. Black and Latino workers are overrepresented in the industries — homecare, food service, janitorial, construction — where worker cooperative models have the most transformative potential. They are underrepresented in business ownership and in asset-building generally.
+Worker cooperative development is inseparable from racial economic justice in Denver. Black and Latino workers are overrepresented in the industries - homecare, food service, janitorial, construction - where worker cooperative models have the most transformative potential. They are underrepresented in business ownership and in asset-building generally.
 
-A cooperative economy, built in partnership with BIPOC communities, is a direct mechanism for closing the racial wealth gap — not through charity, but through ownership.
+A cooperative economy, built in partnership with BIPOC communities, is a direct mechanism for closing the racial wealth gap - not through charity, but through ownership.
 
 ## Our Solution
 
@@ -78,18 +78,18 @@ Create a **$20M Denver Cooperative Development Fund** (CDF) administered by the 
 
 The fund is capitalized through a combination of city general fund appropriation (~$8M), federal Economic Development Administration grants (~$7M), and CDFI investment (~$5M).
 
-### 2. Business Succession Program — Convert Before They Close
+### 2. Business Succession Program - Convert Before They Close
 
 Partner with Denver's Small Business Development Center, SCORE, and industry associations to **proactively identify retiring business owners** and offer worker conversion as a succession option.
 
 The program provides:
 
 - **Free succession planning consultations** for business owners over 60 with no current succession plan.
-- **Worker readiness assessments** — working with current employees of identified businesses to gauge interest and readiness for cooperative ownership.
-- **Seller financing incentives** — state tax credits for business owners who sell to their employees on favorable terms, modeled on Colorado's 2024 WCEA (pending extension).
-- **Deal facilitation** — a city-funded team of cooperative development specialists who can move a sale to worker ownership from concept to close.
+- **Worker readiness assessments** - working with current employees of identified businesses to gauge interest and readiness for cooperative ownership.
+- **Seller financing incentives** - state tax credits for business owners who sell to their employees on favorable terms, modeled on Colorado's 2024 WCEA (pending extension).
+- **Deal facilitation** - a city-funded team of cooperative development specialists who can move a sale to worker ownership from concept to close.
 
-Target: 50 worker cooperative conversions in the first four years, preserving an estimated 1,500–2,500 jobs that would otherwise be at risk.
+Target: 50 worker cooperative conversions in the first four years, preserving an estimated 1,500-2,500 jobs that would otherwise be at risk.
 
 ### 3. Cooperative Preference in City Contracting
 
@@ -103,12 +103,12 @@ This creates a sustainable demand pipeline for Denver's cooperative sector and e
 
 ### 4. Cooperative Business Technical Assistance Hub
 
-Fund a **Denver Cooperative Business Center** — a co-located technical assistance organization providing:
+Fund a **Denver Cooperative Business Center** - a co-located technical assistance organization providing:
 
 - Regular "Cooperative 101" workshops and cohort programs for workers interested in starting or joining a cooperative.
 - A **cooperative legal clinic** partnering with Denver law schools to provide low-cost legal services for cooperative formation.
 - Peer network connections between established cooperatives (in Colorado and nationally through USFWC and NCEO) and emerging cooperative businesses.
-- Spanish-language and multilingual services throughout — the demographics of potential cooperative sectors demand it.
+- Spanish-language and multilingual services throughout - the demographics of potential cooperative sectors demand it.
 
 ### 5. Cooperative Homecare Pilot
 
@@ -136,10 +136,10 @@ Worker cooperatives are not a theoretical ideal. They are a thoroughly studied e
 
 ### Model Programs
 
-- **Madison, Wisconsin** — The City of Madison's Cooperative Development Fund has catalyzed over 40 worker cooperatives since 2014, with high survival rates and strong job quality.
-- **New York City** — NYC's $2.1M cooperative development investment (2015) produced 28 new cooperatives employing over 350 worker-owners, primarily immigrant women of color.
-- **Cleveland, Ohio** — The Evergreen Cooperatives (anchor institution model) employs hundreds of workers in laundry, solar installation, and food production, with strong city anchor institution contracting.
-- **Argentina** — Over 10,000 worker-recuperated enterprises (empresas recuperadas) demonstrate that workers can successfully manage complex industrial operations.
+- **Madison, Wisconsin** - The City of Madison's Cooperative Development Fund has catalyzed over 40 worker cooperatives since 2014, with high survival rates and strong job quality.
+- **New York City** - NYC's $2.1M cooperative development investment (2015) produced 28 new cooperatives employing over 350 worker-owners, primarily immigrant women of color.
+- **Cleveland, Ohio** - The Evergreen Cooperatives (anchor institution model) employs hundreds of workers in laundry, solar installation, and food production, with strong city anchor institution contracting.
+- **Argentina** - Over 10,000 worker-recuperated enterprises (empresas recuperadas) demonstrate that workers can successfully manage complex industrial operations.
 
 ### Denver Specifically
 
@@ -149,10 +149,10 @@ Colorado's 2024 Worker Cooperative Corporations Act (HB24-1092) provides a clean
 
 Denver's economy is experiencing simultaneous pressures that make cooperative development urgent:
 
-1. **Corporate chain displacement** of locally-owned businesses in neighborhood commercial corridors — particularly in gentrifying neighborhoods where established businesses face rent increases and ownership succession challenges.
+1. **Corporate chain displacement** of locally-owned businesses in neighborhood commercial corridors - particularly in gentrifying neighborhoods where established businesses face rent increases and ownership succession challenges.
 2. **Private equity penetration** of healthcare, homecare, and service industries, driving down worker conditions and extracting revenue from local communities.
 3. **Retirement wave** threatening tens of thousands of small businesses with closure.
-4. **Wealth gap** between white and BIPOC communities, rooted in historical exclusion from asset ownership, requiring ownership-building solutions — not just higher wages.
+4. **Wealth gap** between white and BIPOC communities, rooted in historical exclusion from asset ownership, requiring ownership-building solutions - not just higher wages.
 
 The cooperative economy is not a utopian alternative to capitalism. It is a practical, market-based mechanism for ensuring that the wealth produced in Denver's neighborhoods stays in those neighborhoods and accrues to the workers who create it.
 
@@ -165,7 +165,7 @@ Yes. The empirical evidence overwhelmingly supports this. Worker cooperatives co
 The cooperative development fund is incentive-based, not mandatory. No business is required to convert to worker ownership. The city is simply making it easier and more attractive by providing capital access, technical assistance, and a contracting preference. Businesses that want to remain conventionally owned are entirely free to do so.
 
 **"Isn't this just socialism?"**
-Worker cooperatives operate as private businesses in competitive markets. They pay taxes, take on debt, compete for customers, and are subject to all the same market pressures as conventional firms. The difference is in who owns them and how decisions are made. Worker ownership is actually more aligned with the ideals of free-market capitalism — people owning the fruits of their labor — than absentee shareholder capitalism.
+Worker cooperatives operate as private businesses in competitive markets. They pay taxes, take on debt, compete for customers, and are subject to all the same market pressures as conventional firms. The difference is in who owns them and how decisions are made. Worker ownership is actually more aligned with the ideals of free-market capitalism - people owning the fruits of their labor - than absentee shareholder capitalism.
 
 **"What industries work best for cooperatives?"**
 Worker cooperatives operate across virtually every industry. They are particularly strong in: homecare and childcare; food service and restaurants; professional services (law, accounting, architecture, tech); construction and trades; retail (grocery, hardware); manufacturing; and transportation. Denver's growing homecare and food service sectors are particularly well-suited.

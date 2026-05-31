@@ -23,11 +23,11 @@ import {
 
 const C = {
   danger: '#C0392B',
-  primary: '#0D7377',
-  primaryLight: '#7DD3C0',
-  secondary: '#1E5FA6',
+  primary: '#00408b',
+  primaryLight: '#5b9bd5',
+  secondary: '#2b86d8',
   secondaryLight: '#6BA3D6',
-  accent: '#D4A843',
+  accent: '#f2c14e',
   muted: '#8A95A3',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -342,8 +342,8 @@ function CorridorsChart({ locale }: { locale: string }) {
         }}
       >
         {locale === 'es'
-          ? 'Todas en la Red de Alto Riesgo de Lesiones — 50% de choques fatales en 5% de las calles'
-          : 'All on the High Injury Network — 50% of fatal crashes on 5% of streets'}
+          ? 'Todas en la Red de Alto Riesgo de Lesiones - 50% de choques fatales en 5% de las calles'
+          : 'All on the High Injury Network - 50% of fatal crashes on 5% of streets'}
       </div>
     </div>
   );

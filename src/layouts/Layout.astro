@@ -72,7 +72,7 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
     {lang === 'en' && (
       <script is:inline>
         if (localStorage.getItem('dfa-locale') === 'es') {
-          // User prefers Spanish but landed on English page — redirect to /es/ version
+          // User prefers Spanish but landed on English page - redirect to /es/ version
           const p = window.location.pathname;
           window.location.replace('/es' + (p === '/' ? '/' : p));
         }
@@ -95,7 +95,7 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
         left: 1rem;
         z-index: 1000;
         padding: 0.75rem 1.5rem;
-        background: var(--color-primary, #0D7377);
+        background: var(--color-primary, #00408b);
         color: white;
         border-radius: 0 0 8px 8px;
         font-weight: 600;

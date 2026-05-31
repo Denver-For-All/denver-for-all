@@ -81,7 +81,7 @@ const grants = defineCollection({
   }),
 });
 
-// Spanish policy translations — content-only markdown files with empty frontmatter.
+// Spanish policy translations - content-only markdown files with empty frontmatter.
 // The slug must match the corresponding English policy slug for pairing.
 const policiesEs = defineCollection({
   type: 'content',

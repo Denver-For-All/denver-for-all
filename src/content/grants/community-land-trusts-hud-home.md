@@ -1,6 +1,6 @@
 ---
-title: 'HUD HOME — Denver Community Land Trust Expansion'
-titleEs: 'HUD HOME — Expansión del Fideicomiso de Tierras Comunitarias de Denver'
+title: 'HUD HOME - Denver Community Land Trust Expansion'
+titleEs: 'HUD HOME - Expansión del Fideicomiso de Tierras Comunitarias de Denver'
 summary: "HUD HOME Investment Partnerships Program grant template for scaling community land trust acquisitions to create 500 permanently affordable homes in Denver's highest-displacement-risk neighborhoods."
 summaryEs: 'Plantilla de subvención del Programa de Asociaciones de Inversión HOME de HUD para escalar las adquisiciones de fideicomisos de tierras comunitarias y crear 500 viviendas permanentemente asequibles en los vecindarios de Denver con mayor riesgo de desplazamiento.'
 policySlug: 'community-land-trusts'
@@ -23,7 +23,7 @@ status: 'draft'
 
 **Project Duration:** 36 months
 
-**Project Summary:** The City and County of Denver requests $12 million in HOME Investment Partnerships Program funding to dramatically scale community land trust (CLT) acquisitions and create 500 permanently affordable homes in Denver's highest-displacement-risk neighborhoods. Denver rents have risen 85% since 2010, with the average one-bedroom now exceeding $1,600/month. The city's primary CLT operator, Elevation Community Land Trust, currently holds approximately 300 permanently affordable homes but adds only 20-40 units per year — a pace far below what is needed to counteract accelerating displacement. This project will fund property acquisition, rehabilitation, organizational capacity building, and homebuyer readiness programs to put Denver on a trajectory toward 2,500 permanently affordable CLT homes over the next decade.
+**Project Summary:** The City and County of Denver requests $12 million in HOME Investment Partnerships Program funding to dramatically scale community land trust (CLT) acquisitions and create 500 permanently affordable homes in Denver's highest-displacement-risk neighborhoods. Denver rents have risen 85% since 2010, with the average one-bedroom now exceeding $1,600/month. The city's primary CLT operator, Elevation Community Land Trust, currently holds approximately 300 permanently affordable homes but adds only 20-40 units per year - a pace far below what is needed to counteract accelerating displacement. This project will fund property acquisition, rehabilitation, organizational capacity building, and homebuyer readiness programs to put Denver on a trajectory toward 2,500 permanently affordable CLT homes over the next decade.
 
 ### B. Location & Context
 
@@ -62,7 +62,7 @@ Denver's housing affordability crisis has reached a scale that conventional subs
 **Displacement Indicators:**
 
 - Target neighborhoods have experienced 15-40% demographic turnover in the past decade driven by rising costs
-- Communities of color — particularly Latino, Black, and Indigenous households — are disproportionately affected by displacement from historically redlined neighborhoods
+- Communities of color - particularly Latino, Black, and Indigenous households - are disproportionately affected by displacement from historically redlined neighborhoods
 - Displacement severs residents from schools, jobs, healthcare, social networks, and transit access
 
 **Limitations of Current Approaches:**
@@ -74,7 +74,7 @@ Denver's housing affordability crisis has reached a scale that conventional subs
 
 ### D. Community Land Trust Model
 
-The community land trust model addresses the root cause of housing unaffordability — speculative land value escalation — by permanently separating land ownership from building ownership:
+The community land trust model addresses the root cause of housing unaffordability - speculative land value escalation - by permanently separating land ownership from building ownership:
 
 **How CLTs Work:**
 
@@ -97,11 +97,11 @@ The community land trust model addresses the root cause of housing unaffordabili
 
 **Recent Local Success:**
 
-- In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community in West Colfax — one of the 12 target neighborhoods identified in this proposal. The Irving serves households at 20-80% AMI with 99-year affordability through ULC's community land trust, and was one of the first Proposition 123-funded projects to open. Denver HOST provided a $4,080,000 loan, demonstrating the exact type of public investment-CLT partnership this proposal seeks to scale. The Irving proves that the CLT model can deliver permanently affordable, climate-forward housing in Denver's highest-displacement-risk neighborhoods.
+- In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community in West Colfax - one of the 12 target neighborhoods identified in this proposal. The Irving serves households at 20-80% AMI with 99-year affordability through ULC's community land trust, and was one of the first Proposition 123-funded projects to open. Denver HOST provided a $4,080,000 loan, demonstrating the exact type of public investment-CLT partnership this proposal seeks to scale. The Irving proves that the CLT model can deliver permanently affordable, climate-forward housing in Denver's highest-displacement-risk neighborhoods.
 
 **Long-Term Sustainability:**
 
-- CLTs are self-sustaining once established at scale — ground lease fees, resale transaction fees, and stewardship revenues cover ongoing operations
+- CLTs are self-sustaining once established at scale - ground lease fees, resale transaction fees, and stewardship revenues cover ongoing operations
 - Every public dollar invested in CLT acquisition creates a permanently affordable home, unlike time-limited subsidies that require repeated reinvestment
 - Denver HOST already funds some Elevation CLT acquisitions, demonstrating an existing institutional partnership ready to be scaled
 
@@ -161,7 +161,7 @@ The community land trust model addresses the root cause of housing unaffordabili
 
 This project directly advances the statutory goals of the HOME Investment Partnerships Program:
 
-1. **Expands the supply of affordable housing:** Creates 500 permanently affordable homeownership units — homes that remain affordable not for 15 or 30 years, but in perpetuity
+1. **Expands the supply of affordable housing:** Creates 500 permanently affordable homeownership units - homes that remain affordable not for 15 or 30 years, but in perpetuity
 2. **Strengthens partnerships between government and nonprofit housing providers:** Deepens the existing HOST-Elevation CLT partnership and builds organizational infrastructure for long-term CLT operations at scale
 3. **Promotes homeownership for low- and moderate-income households:** CLT homes are priced affordable to households at 60-80% of area median income, with resale restrictions ensuring permanent access for future low-income buyers
 4. **Leverages private and local investment:** Denver's commitment of $50 million in city bond funds, vacancy tax revenue, and ongoing HOST allocations provides a substantial local match that multiplies the impact of HOME dollars
@@ -177,7 +177,7 @@ Denver has made substantial local investment in affordable housing and community
 - **Tripartite CLT governance** ensures community accountability, with one-third of board seats held by CLT residents, one-third by community members, and one-third by public representatives
 - **Denver's Comprehensive Plan 2040** identifies community land trusts as a priority strategy for creating permanently affordable housing
 
-The requested federal investment of $12 million represents a **4.2:1 local match ratio** against Denver's $50 million commitment — demonstrating that the city is not seeking federal funding to replace local investment, but to accelerate a program that has strong local financial and political support.
+The requested federal investment of $12 million represents a **4.2:1 local match ratio** against Denver's $50 million commitment - demonstrating that the city is not seeking federal funding to replace local investment, but to accelerate a program that has strong local financial and political support.
 
 ## Budget Summary
 
@@ -189,8 +189,8 @@ The requested federal investment of $12 million represents a **4.2:1 local match
 | Homebuyer Readiness and Stewardship Programs      | $500,000        | 4.2%       |
 | Project Management                                | $1,000,000      | 8.3%       |
 | **Total Federal Request (HOME)**                  | **$12,000,000** | **100%**   |
-| Local Match (city bonds, vacancy tax, HOST funds) | $50,000,000     | —          |
-| **Total Project Investment**                      | **$62,000,000** | —          |
+| Local Match (city bonds, vacancy tax, HOST funds) | $50,000,000     | - |
+| **Total Project Investment**                      | **$62,000,000** | - |
 
 ## Expected Outcomes
 

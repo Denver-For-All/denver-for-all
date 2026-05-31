@@ -13,15 +13,15 @@ keyStats:
   - value: '462 hours'
     label: 'more per year Americans work than Germans'
     labelEs: 'mas por ano trabajan los estadounidenses que los alemanes'
-    context: 'That is 11+ extra 40-hour work weeks — we are not 11 weeks more productive'
-    contextEs: 'Son mas de 11 semanas laborales de 40 horas extra — no somos 11 semanas mas productivos'
+    context: 'That is 11+ extra 40-hour work weeks - we are not 11 weeks more productive'
+    contextEs: 'Son mas de 11 semanas laborales de 40 horas extra - no somos 11 semanas mas productivos'
     source: 'OECD, 2023'
     theme: 'danger'
   - value: '92%'
     label: 'of UK companies kept the 4-day week permanently'
     labelEs: 'de las empresas del Reino Unido mantuvieron la semana de 4 dias permanentemente'
-    context: '61 companies, 2,900 workers, 6-month trial — revenue stayed the same or increased'
-    contextEs: '61 empresas, 2,900 trabajadores, prueba de 6 meses — los ingresos se mantuvieron o aumentaron'
+    context: '61 companies, 2,900 workers, 6-month trial - revenue stayed the same or increased'
+    contextEs: '61 empresas, 2,900 trabajadores, prueba de 6 meses - los ingresos se mantuvieron o aumentaron'
     source: 'Autonomy Research, 2023'
     theme: 'primary'
   - value: '+40%'
@@ -112,7 +112,7 @@ Denver can set the work week for 12,000+ city employees, all city contractors, a
 They hire more people. If a restaurant needs 7-day coverage, it hires for 4-day shifts instead of 5-day shifts. This increases total employment - which is a benefit, not a cost.
 
 **"This is unrealistic."**
-It was the standard work week 100 years ago. The 40-hour week was considered radical when it was introduced. Before that, 60-80 hour weeks were "normal." Progress means working smarter, not longer. OECD countries with shorter average work weeks -- including Germany, Denmark, the Netherlands, and Norway -- consistently rank above the US on quality-of-life indices (OECD Better Life Index, 2024).
+It was the standard work week 100 years ago. The 40-hour week was considered radical when it was introduced. Before that, 60-80 hour weeks were "normal." Progress means working smarter, not longer. OECD countries with shorter average work weeks - including Germany, Denmark, the Netherlands, and Norway - consistently rank above the US on quality-of-life indices (OECD Better Life Index, 2024).
 
 **"Workers will just get second jobs."**
 Some might, and that's their choice. The goal is ensuring that one full-time job provides a living wage (see: $25 Minimum Wage) so that no one NEEDS a second job. If people want additional income, a 4-day week gives them that flexibility.

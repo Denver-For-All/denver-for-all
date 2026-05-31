@@ -27,8 +27,8 @@ keyStats:
   - value: '4:1'
     label: 'return on every dollar invested'
     labelEs: 'retorno por cada dolar invertido'
-    context: "Credential recognition doesn't cost money — it makes money"
-    contextEs: 'El reconocimiento de credenciales no cuesta dinero — genera dinero'
+    context: "Credential recognition doesn't cost money - it makes money"
+    contextEs: 'El reconocimiento de credenciales no cuesta dinero - genera dinero'
     source: 'TRIEC, 2021'
     theme: 'primary'
 ---

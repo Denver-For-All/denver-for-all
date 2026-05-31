@@ -1,5 +1,5 @@
 /**
- * Page metadata for SEO — title and description in both languages.
+ * Page metadata for SEO - title and description in both languages.
  * Used by page files to avoid duplicating title/description strings
  * across en and es versions of each page.
  *

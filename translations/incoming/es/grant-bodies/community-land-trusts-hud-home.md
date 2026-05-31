@@ -176,8 +176,8 @@ La inversión federal solicitada de $12 millones representa una **relación de c
 | Programas de Preparación y Administración para Compradores de Vivienda                          | $500,000        | 4.2%        |
 | Gestión del Proyecto                                                                            | $1,000,000      | 8.3%        |
 | **Solicitud Federal Total (HOME)**                                                              | **$12,000,000** | **100%**    |
-| Contrapartida Local (bonos de la ciudad, impuesto sobre la vivienda desocupada, fondos de HOST) | $50,000,000     | —           |
-| **Inversión Total del Proyecto**                                                                | **$62,000,000** | —           |
+| Contrapartida Local (bonos de la ciudad, impuesto sobre la vivienda desocupada, fondos de HOST) | $50,000,000     | - |
+| **Inversión Total del Proyecto**                                                                | **$62,000,000** | - |
 
 ## Resultados Esperados
 

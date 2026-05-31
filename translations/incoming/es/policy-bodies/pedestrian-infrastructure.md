@@ -39,9 +39,9 @@ En febrero de 2025, el Alcalde Johnston anunció **$75 millones en contratos de 
 
 **El cronograma del SIP se extiende hasta finales de 2026:**
 
-- **Otoño 2025–Invierno 2026:** Inventario, Informe del Estado del Sistema y aportes públicos sobre la priorización.
+- **Otoño 2025-Invierno 2026:** Inventario, Informe del Estado del Sistema y aportes públicos sobre la priorización.
 - **Primavera 2026:** Diseños conceptuales de muestra, estimación de costos, criterios de priorización y escenarios de planes de trabajo con comentarios públicos.
-- **Verano–Invierno 2026:** Escenarios finales del plan de trabajo y Plan de Implementación de Aceras final.
+- **Verano-Invierno 2026:** Escenarios finales del plan de trabajo y Plan de Implementación de Aceras final.
 
 **Los principales desafíos de construcción identificados en el informe** incluyen: conflictos de derecho de vía e invasiones (cercas, jardinería, patios), servicios públicos en el derecho de vía, competencia entre aceras y árboles/céspedes para el espacio, "aceras de Hollywood" (aceras estrechas adjuntas con bordillos enrollados, a menudo de menos de un metro de ancho), decisiones de preservación versus reemplazo de losas, compensaciones entre aceras adjuntas versus separadas, cumplimiento de la ADA en rampas de bordillo, requisitos de bordillo y cuneta/aguas pluviales, calles compartidas, paseos y bulevares designados y aumento de superficies impermeables. Estos no son obstáculos hipotéticos, son las realidades de ingeniería y políticas que determinarán qué tan rápido y qué tan bien avanza la construcción.
 

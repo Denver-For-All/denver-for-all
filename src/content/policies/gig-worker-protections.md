@@ -115,7 +115,7 @@ Denver's ordinance applies to work performed within Denver city limits. For ride
 ## Who Opposes This (and Why)
 
 - **Uber, Lyft, DoorDash, Instacart** and other gig platforms spend hundreds of millions fighting worker classification (Uber/Lyft/DoorDash spent $200M on California's Prop 22 alone).
-- **Platform lobbyists** argue that reclassification will destroy "flexibility" -- but the ABC test doesn't prevent flexible work, it just requires fair compensation.
+- **Platform lobbyists** argue that reclassification will destroy "flexibility" - but the ABC test doesn't prevent flexible work, it just requires fair compensation.
 
 ## References
 

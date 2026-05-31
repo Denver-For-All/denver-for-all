@@ -13,8 +13,8 @@ keyStats:
   - value: '50%+'
     label: "of Colorado's growth will be adults 65+"
     labelEs: 'del crecimiento de Colorado sera adultos de 65+'
-    context: 'A 36% increase by 2030 — Denver has built almost nothing for this wave'
-    contextEs: 'Un aumento del 36% para 2030 — Denver casi no ha construido nada para esta ola'
+    context: 'A 36% increase by 2030 - Denver has built almost nothing for this wave'
+    contextEs: 'Un aumento del 36% para 2030 - Denver casi no ha construido nada para esta ola'
     source: 'Colorado State Demography Office'
     theme: 'accent'
   - value: '24%'
@@ -27,8 +27,8 @@ keyStats:
   - value: '$10,600+/mo'
     label: 'for a nursing home in Colorado'
     labelEs: 'por un asilo en Colorado'
-    context: 'Aging in place with community support costs $2,000-$4,000/mo — a fraction'
-    contextEs: 'Envejecer en casa con apoyo comunitario cuesta $2,000-$4,000/mes — una fraccion'
+    context: 'Aging in place with community support costs $2,000-$4,000/mo - a fraction'
+    contextEs: 'Envejecer en casa con apoyo comunitario cuesta $2,000-$4,000/mes - una fraccion'
     source: 'Genworth/CareScout, 2024'
     theme: 'danger'
 ---

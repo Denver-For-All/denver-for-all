@@ -2,7 +2,7 @@
 
 ### A. Mô Tả Dự Án
 
-**Tên Dự Án:** Thực Hiện Tầm Nhìn Số Không Thương Vong Giao Thông Denver — Thiết Kế Lại Các Giao Lộ Thuộc Mạng Lưới Điểm Đen Tai Nạn, Làn Đường Xe Đạp Được Bảo Vệ và Thực Thi Tốc Độ Tự Động
+**Tên Dự Án:** Thực Hiện Tầm Nhìn Số Không Thương Vong Giao Thông Denver - Thiết Kế Lại Các Giao Lộ Thuộc Mạng Lưới Điểm Đen Tai Nạn, Làn Đường Xe Đạp Được Bảo Vệ và Thực Thi Tốc Độ Tự Động
 
 **Đơn Vị Nộp Đơn:** Thành Phố và Quận Denver, Sở Giao Thông & Cơ Sở Hạ Tầng (DOTI)
 
@@ -10,7 +10,7 @@
 
 **Thời Gian Dự Án:** 36 tháng
 
-**Tóm Tắt Dự Án:** Thành Phố và Quận Denver yêu cầu 18 triệu đô la từ Chương Trình Cải Thiện An Toàn Đường Cao Tốc và Quỹ Tài Trợ Thực Hiện Đường Phố An Toàn cho Tất Cả để thiết kế lại 20 giao lộ nguy hiểm nhất của thành phố, xây dựng làn đường xe đạp được bảo vệ trên các hành lang có số vụ tai nạn cao, triển khai thực thi tốc độ tự động trong khu vực trường học và nâng cấp tín hiệu dành cho người đi bộ trên toàn Mạng Lưới Điểm Đen Tai Nạn của Denver. Denver đã thông qua Tầm Nhìn Số Không Thương Vong Giao Thông vào năm 2017 với mục tiêu không có trường hợp tử vong do giao thông vào năm 2030. Số người chết đã tăng lên hàng năm kể từ khi được thông qua. Năm 2025, 93 người đã thiệt mạng trên đường phố Denver — năm có số người chết cao nhất kể từ năm 2013 — bao gồm 35 người đi bộ, tăng 34% so với năm 2024. Người đi bộ chiếm khoảng 5% số người đi làm ở Denver nhưng chiếm 33% số người chết do tai nạn giao thông, khiến họ có khả năng tử vong cao hơn khoảng 30 lần so với người ngồi trên xe. Mạng Lưới Điểm Đen Tai Nạn đã được xác định nhưng việc thiết kế lại diễn ra chậm chạp, việc thực thi tự động vẫn còn hạn chế và 254 dặm làn đường xe đạp của thành phố có những khoảng trống quan trọng trên các hành lang nơi tập trung các vụ tai nạn. Dự án này nhắm mục tiêu vào các giao lộ, hành lang và khu dân cư cụ thể nơi mọi người đang thiệt mạng và cung cấp các phương pháp điều trị an toàn đã được chứng minh, dựa trên bằng chứng ở quy mô cần thiết để đảo ngược xu hướng tử vong ngày càng tồi tệ của Denver.
+**Tóm Tắt Dự Án:** Thành Phố và Quận Denver yêu cầu 18 triệu đô la từ Chương Trình Cải Thiện An Toàn Đường Cao Tốc và Quỹ Tài Trợ Thực Hiện Đường Phố An Toàn cho Tất Cả để thiết kế lại 20 giao lộ nguy hiểm nhất của thành phố, xây dựng làn đường xe đạp được bảo vệ trên các hành lang có số vụ tai nạn cao, triển khai thực thi tốc độ tự động trong khu vực trường học và nâng cấp tín hiệu dành cho người đi bộ trên toàn Mạng Lưới Điểm Đen Tai Nạn của Denver. Denver đã thông qua Tầm Nhìn Số Không Thương Vong Giao Thông vào năm 2017 với mục tiêu không có trường hợp tử vong do giao thông vào năm 2030. Số người chết đã tăng lên hàng năm kể từ khi được thông qua. Năm 2025, 93 người đã thiệt mạng trên đường phố Denver - năm có số người chết cao nhất kể từ năm 2013 - bao gồm 35 người đi bộ, tăng 34% so với năm 2024. Người đi bộ chiếm khoảng 5% số người đi làm ở Denver nhưng chiếm 33% số người chết do tai nạn giao thông, khiến họ có khả năng tử vong cao hơn khoảng 30 lần so với người ngồi trên xe. Mạng Lưới Điểm Đen Tai Nạn đã được xác định nhưng việc thiết kế lại diễn ra chậm chạp, việc thực thi tự động vẫn còn hạn chế và 254 dặm làn đường xe đạp của thành phố có những khoảng trống quan trọng trên các hành lang nơi tập trung các vụ tai nạn. Dự án này nhắm mục tiêu vào các giao lộ, hành lang và khu dân cư cụ thể nơi mọi người đang thiệt mạng và cung cấp các phương pháp điều trị an toàn đã được chứng minh, dựa trên bằng chứng ở quy mô cần thiết để đảo ngược xu hướng tử vong ngày càng tồi tệ của Denver.
 
 ### B. Địa Điểm & Bối Cảnh
 
@@ -48,7 +48,7 @@ Dữ liệu an toàn giao thông của Denver ghi nhận một cuộc khủng ho
 
 **Mạng Lưới Điểm Đen Tai Nạn và Sự Thiếu Hụt Cơ Sở Hạ Tầng:**
 
-- Denver đã xác định Mạng Lưới Điểm Đen Tai Nạn của mình — tập hợp con của các đường phố nơi tập trung các vụ tai nạn gây tử vong và thương tích nghiêm trọng — nhưng đã chậm trễ trong việc thiết kế lại các hành lang này
+- Denver đã xác định Mạng Lưới Điểm Đen Tai Nạn của mình - tập hợp con của các đường phố nơi tập trung các vụ tai nạn gây tử vong và thương tích nghiêm trọng - nhưng đã chậm trễ trong việc thiết kế lại các hành lang này
 - Việc thực thi tốc độ tự động vẫn còn hạn chế mặc dù đã được chứng minh hiệu quả trong việc giảm tốc độ và số người chết mà không phân biệt chủng tộc
 - Có 254 dặm làn đường xe đạp, nhưng vẫn còn những khoảng trống quan trọng trên các hành lang có số vụ tai nạn cao, đặc biệt là ở phía đông Denver, Capitol Hill, Montbello và Far Northeast
 - Kế Hoạch Hành Động Tầm Nhìn Số Không Thương Vong Giao Thông của Denver (được thông qua năm 2017, cập nhật năm 2022) chưa được kết hợp với đầu tư vốn ở quy mô cần thiết để giảm số người chết
@@ -61,7 +61,7 @@ Dữ liệu an toàn giao thông của Denver ghi nhận một cuộc khủng ho
 - Kế hoạch Denver Moves: Bikes (nhắm mục tiêu 230+ dặm đường dành cho xe đạp mới)
 - Kế Hoạch Thực Hiện Vỉa Hè của DOTI (2025)
 
-Quỹ đạo của Denver đang di chuyển một cách quyết định ra khỏi mục tiêu Tầm Nhìn Số Không Thương Vong Giao Thông. Số người chết do giao thông hàng năm đã tăng từ 51 vào thời điểm thông qua Tầm Nhìn Số Không Thương Vong Giao Thông lên 93 vào năm 2025 — tăng 82%. Nếu không có sự tăng tốc lớn các biện pháp can thiệp an toàn đã được chứng minh trên các hành lang nơi mọi người đang thiệt mạng, Denver sẽ không đạt được mục tiêu không có trường hợp tử vong nào vào năm 2030 hoặc bất kỳ ngày nào có thể thấy trước được.
+Quỹ đạo của Denver đang di chuyển một cách quyết định ra khỏi mục tiêu Tầm Nhìn Số Không Thương Vong Giao Thông. Số người chết do giao thông hàng năm đã tăng từ 51 vào thời điểm thông qua Tầm Nhìn Số Không Thương Vong Giao Thông lên 93 vào năm 2025 - tăng 82%. Nếu không có sự tăng tốc lớn các biện pháp can thiệp an toàn đã được chứng minh trên các hành lang nơi mọi người đang thiệt mạng, Denver sẽ không đạt được mục tiêu không có trường hợp tử vong nào vào năm 2030 hoặc bất kỳ ngày nào có thể thấy trước được.
 
 ### D. Các Hoạt Động & Sản Phẩm Của Dự Án
 
@@ -87,7 +87,7 @@ Quỹ đạo của Denver đang di chuyển một cách quyết định ra khỏ
 **Hoạt Động 3: Thực Thi Tốc Độ Tự Động trong Khu Vực Trường Học ($2.000.000)**
 
 - Triển khai camera thực thi tốc độ tự động trong 30-40 khu vực trường học, được ưu tiên theo lịch sử tai nạn người đi bộ và khoảng cách gần với các hành lang Mạng Lưới Điểm Đen Tai Nạn
-- Ưu tiên các trường học ở Montbello, Green Valley Ranch, Far Northeast, Westwood, Elyria-Swansea và Globeville — các khu dân cư có tỷ lệ thương tích cho người đi bộ là trẻ em cao nhất
+- Ưu tiên các trường học ở Montbello, Green Valley Ranch, Far Northeast, Westwood, Elyria-Swansea và Globeville - các khu dân cư có tỷ lệ thương tích cho người đi bộ là trẻ em cao nhất
 - Bao gồm thời gian cảnh báo 30 ngày tại mỗi lần lắp đặt mới trước khi phát hành giấy phạt
 - Doanh thu từ giấy phạt sẽ được dành cho quỹ Safe Routes to School để cải thiện an toàn hơn nữa
 - Đảm bảo thực hiện công bằng: không tạm giữ xe hoặc đình chỉ giấy phép lái xe đối với các khoản tiền phạt chưa thanh toán; cấu trúc tiền phạt theo thang trượt dựa trên thu nhập khi được luật tiểu bang cho phép
@@ -137,7 +137,7 @@ Dự án này thúc đẩy cả các mục tiêu của Chương Trình Cải Thi
 
 1. **Thực hiện một kế hoạch hành động an toàn toàn diện:** Thực hiện các yếu tố cụ thể, có mức độ ưu tiên cao trong Kế Hoạch Hành Động Tầm Nhìn Số Không Thương Vong Giao Thông của Denver trên các hành lang nơi tập trung số người chết
 2. **Giải quyết các nhu cầu an toàn đã được xác định thông qua đầu tư cơ sở hạ tầng:** Nhắm mục tiêu vào các giao lộ, hành lang và khu vực trường học có tỷ lệ tai nạn được ghi nhận cao nhất
-3. **Kết hợp sự công bằng:** Ưu tiên Montbello, Green Valley Ranch, Far Northeast và Westwood — các khu dân cư bị thiệt thòi về giao thông nhất của thành phố, là các cộng đồng da màu có thu nhập thấp một cách không cân xứng, phải gánh chịu gánh nặng lớn nhất của bạo lực giao thông
+3. **Kết hợp sự công bằng:** Ưu tiên Montbello, Green Valley Ranch, Far Northeast và Westwood - các khu dân cư bị thiệt thòi về giao thông nhất của thành phố, là các cộng đồng da màu có thu nhập thấp một cách không cân xứng, phải gánh chịu gánh nặng lớn nhất của bạo lực giao thông
 4. **Tích hợp phương pháp Tiếp Cận Hệ Thống An Toàn:** Giải quyết nhiều yếu tố của Hệ Thống An Toàn: đường an toàn (thiết kế lại giao lộ, làn đường xe đạp được bảo vệ), tốc độ an toàn (thực thi tự động, thời gian tín hiệu), người tham gia giao thông an toàn (tương tác cộng đồng, bảo vệ khu vực trường học) và chăm sóc sau tai nạn (giảm mức độ nghiêm trọng của tai nạn thông qua giảm tốc độ và loại bỏ xung đột)
 5. **Thể hiện tính bền vững:** Việc thực thi tự động tạo ra doanh thu liên tục cho việc bảo trì; việc thiết kế lại giao lộ là cơ sở hạ tầng vĩnh viễn; làn đường xe đạp được bảo vệ khuyến khích sự thay đổi phương thức giảm phơi nhiễm tai nạn lâu dài
 
@@ -151,10 +151,10 @@ Dự án này thúc đẩy cả các mục tiêu của Chương Trình Cải Thi
 | Cải Thiện Tín Hiệu Dành Cho Người Đi Bộ (Mạng Lưới Điểm Đen Tai Nạn)                       | $2.000.000      | 11%       |
 | Quản Lý Dự Án, Tương Tác & Đánh Giá                                                        | $1.000.000      | 6%        |
 | **Tổng Số Yêu Cầu Liên Bang**                                                              | **$18.000.000** | **100%**  |
-| Đối Ứng Địa Phương (ngân sách vốn của DOTI + quỹ Tầm Nhìn Số Không Thương Vong Giao Thông) | $5.400.000      | —         |
-| **Tổng Đầu Tư Dự Án**                                                                      | **$23.400.000** | —         |
+| Đối Ứng Địa Phương (ngân sách vốn của DOTI + quỹ Tầm Nhìn Số Không Thương Vong Giao Thông) | $5.400.000      | - |
+| **Tổng Đầu Tư Dự Án**                                                                      | **$23.400.000** | - |
 
-**Lưu ý về Phân Chia Liên Bang/Địa Phương:** Quỹ HSIP có sẵn với tỷ lệ đối ứng liên bang/địa phương là 90/10 cho các dự án an toàn trên đường cao tốc do liên bang hỗ trợ. Tài Trợ Thực Hiện SS4A yêu cầu đối ứng địa phương tối thiểu 20%. Ngân sách trên giả định tỷ lệ liên bang/địa phương hỗn hợp là 77/23. Khoản đối ứng địa phương của Denver sẽ được tài trợ thông qua các khoản phân bổ ngân sách vốn DOTI hiện có cho Tầm Nhìn Số Không Thương Vong Giao Thông và cơ sở hạ tầng xe đạp, chứng minh rằng thành phố đang bổ sung — chứ không thay thế — khoản đầu tư an toàn địa phương bằng quỹ liên bang. Chi tiêu hàng năm của thành phố cho Tầm Nhìn Số Không Thương Vong Giao Thông và cơ sở hạ tầng xe đạp là 5-10 triệu đô la mỗi năm (ngân sách vốn của DOTI) và 13,4 triệu đô la đầu tư vào làn đường xe đạp từ năm 2018 đến năm 2023 chứng minh cam kết địa phương bền vững.
+**Lưu ý về Phân Chia Liên Bang/Địa Phương:** Quỹ HSIP có sẵn với tỷ lệ đối ứng liên bang/địa phương là 90/10 cho các dự án an toàn trên đường cao tốc do liên bang hỗ trợ. Tài Trợ Thực Hiện SS4A yêu cầu đối ứng địa phương tối thiểu 20%. Ngân sách trên giả định tỷ lệ liên bang/địa phương hỗn hợp là 77/23. Khoản đối ứng địa phương của Denver sẽ được tài trợ thông qua các khoản phân bổ ngân sách vốn DOTI hiện có cho Tầm Nhìn Số Không Thương Vong Giao Thông và cơ sở hạ tầng xe đạp, chứng minh rằng thành phố đang bổ sung - chứ không thay thế - khoản đầu tư an toàn địa phương bằng quỹ liên bang. Chi tiêu hàng năm của thành phố cho Tầm Nhìn Số Không Thương Vong Giao Thông và cơ sở hạ tầng xe đạp là 5-10 triệu đô la mỗi năm (ngân sách vốn của DOTI) và 13,4 triệu đô la đầu tư vào làn đường xe đạp từ năm 2018 đến năm 2023 chứng minh cam kết địa phương bền vững.
 
 ## Kết Quả Dự Kiến
 
@@ -189,7 +189,7 @@ Tất cả dữ liệu được lấy từ phân tích chính sách [Giao Thông
 
 Mẫu đề xuất tài trợ này được thiết kế để nhân viên thành phố, các thành viên hội đồng và những người ủng hộ cộng đồng điều chỉnh cho các ứng dụng HSIP và SS4A thực tế:
 
-1. **Xác định luồng tài trợ phù hợp.** Quỹ HSIP chảy qua CDOT và có sẵn trên cơ sở luân phiên cho các dự án an toàn trên đường cao tốc do liên bang hỗ trợ; phối hợp với CDOT Vùng 1 cho các ứng dụng khu vực Denver. Tài Trợ Thực Hiện SS4A mang tính cạnh tranh và yêu cầu kế hoạch hành động an toàn hiện có; kiểm tra [grants.gov](https://www.grants.gov/) và [SS4A NOFO](https://www.transportation.gov/grants/ss4a) để biết thời hạn và yêu cầu của chu kỳ hiện tại. Một chiến lược ứng dụng kết hợp hoặc theo trình tự có thể phù hợp — HSIP cho công việc giao lộ và tín hiệu trên các tuyến đường tiểu bang, SS4A cho làn đường xe đạp, thực thi khu vực trường học và cải thiện đường phố địa phương.
+1. **Xác định luồng tài trợ phù hợp.** Quỹ HSIP chảy qua CDOT và có sẵn trên cơ sở luân phiên cho các dự án an toàn trên đường cao tốc do liên bang hỗ trợ; phối hợp với CDOT Vùng 1 cho các ứng dụng khu vực Denver. Tài Trợ Thực Hiện SS4A mang tính cạnh tranh và yêu cầu kế hoạch hành động an toàn hiện có; kiểm tra [grants.gov](https://www.grants.gov/) và [SS4A NOFO](https://www.transportation.gov/grants/ss4a) để biết thời hạn và yêu cầu của chu kỳ hiện tại. Một chiến lược ứng dụng kết hợp hoặc theo trình tự có thể phù hợp - HSIP cho công việc giao lộ và tín hiệu trên các tuyến đường tiểu bang, SS4A cho làn đường xe đạp, thực thi khu vực trường học và cải thiện đường phố địa phương.
 2. **Tinh chỉnh dữ liệu giao lộ và hành lang** bằng cách sử dụng Bảng Điều Khiển Tầm Nhìn Số Không Thương Vong Giao Thông mới nhất, báo cáo tai nạn của DOTI và bản đồ Mạng Lưới Điểm Đen Tai Nạn. Cập nhật số lượng tai nạn, số liệu tử vong và dữ liệu tốc độ phân vị thứ 85 với năm có sẵn gần đây nhất.
 3. **Điều chỉnh ngân sách** dựa trên ước tính chi phí xây dựng hiện tại từ mua sắm của DOTI. Chi phí thiết kế lại giao lộ thay đổi đáng kể theo phạm vi; xác nhận chi phí đơn vị cho việc kéo dài lề đường, vạch kẻ đường được nâng lên, thiết bị tín hiệu và xây dựng làn đường xe đạp được bảo vệ với nhân viên kỹ thuật của DOTI.
 4. **Cập nhật số liệu đối ứng địa phương** để phản ánh các khoản phân bổ ngân sách vốn DOTI hiện tại cho Tầm Nhìn Số Không Thương Vong Giao Thông, cơ sở hạ tầng xe đạp và an toàn giao thông.

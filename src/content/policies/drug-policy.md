@@ -56,7 +56,7 @@ Denver specifically faces an opioid/fentanyl crisis that law enforcement cannot 
 
 ### What Denver Currently Does
 
-Denver has some harm reduction infrastructure but treats drug use primarily as a criminal matter. The city decriminalized psilocybin via Initiated Ordinance 301 in 2019, and Colorado passed Proposition 122 in 2022 legalizing therapeutic psychedelics. But for the substances driving the actual crisis -- fentanyl, methamphetamine, heroin -- the approach remains enforcement-first.
+Denver has some harm reduction infrastructure but treats drug use primarily as a criminal matter. The city decriminalized psilocybin via Initiated Ordinance 301 in 2019, and Colorado passed Proposition 122 in 2022 legalizing therapeutic psychedelics. But for the substances driving the actual crisis - fentanyl, methamphetamine, heroin - the approach remains enforcement-first.
 
 Denver reported 827 unintentional drug poisoning deaths in 2023 (Denver Office of the Medical Examiner, 2024). Fentanyl was involved in 64% of those deaths. Denver Police made 2,800+ drug-related arrests in 2023, but overdose deaths have continued to rise year over year. The enforcement approach is not producing results.
 
@@ -111,7 +111,7 @@ The Denver Police Protective Association and Denver District Attorney's office a
 - Close the Drug Enforcement unit within Denver Police
 - Redirect $15-20M/year to treatment, harm reduction, and recovery services
 - Police focus on violent crime and trafficking - not users
-- Cross-reference: [Community Safety & Police Reform — LEAD Expansion](/platform/public-safety) (Until full decriminalization, Denver's LEAD program provides an immediate operational mechanism: trained officers divert people to case management instead of arrest for low-level drug offenses. LEAD works under current law and bridges today's system to the decriminalized future this policy envisions.)
+- Cross-reference: [Community Safety & Police Reform - LEAD Expansion](/platform/public-safety) (Until full decriminalization, Denver's LEAD program provides an immediate operational mechanism: trained officers divert people to case management instead of arrest for low-level drug offenses. LEAD works under current law and bridges today's system to the decriminalized future this policy envisions.)
 
 ## How We Pay For It
 
@@ -151,7 +151,7 @@ There are over 200 supervised consumption sites operating in 14 countries. Zero 
 This proposal decriminalizes personal use, not distribution. Manufacturing and trafficking remain criminal offenses. The distinction is simple: if you're sick, you need a doctor; if you're selling poison, you face consequences.
 
 **"What about Oregon? They tried decriminalization and reversed it."**
-Oregon's Measure 110 is the most common counterargument, so let's address it directly. Oregon decriminalized possession in 2020 and partially re-criminalized in 2024, citing rising overdose deaths. What actually happened: Oregon's overdose spike tracked the national fentanyl wave and began _before_ Measure 110 took effect. States that did NOT decriminalize saw similar or worse increases. More critically, Oregon failed to build treatment infrastructure -- only 10% of allocated treatment funds were spent in the first two years (Oregon Health Authority, 2023). The failure was implementation, not the concept. Our proposal differs: we redirect enforcement budget directly to treatment (not waiting for cannabis tax revenue), mandate treatment on demand within 24 hours, and establish safe consumption sites. Oregon did none of these.
+Oregon's Measure 110 is the most common counterargument, so let's address it directly. Oregon decriminalized possession in 2020 and partially re-criminalized in 2024, citing rising overdose deaths. What actually happened: Oregon's overdose spike tracked the national fentanyl wave and began _before_ Measure 110 took effect. States that did NOT decriminalize saw similar or worse increases. More critically, Oregon failed to build treatment infrastructure - only 10% of allocated treatment funds were spent in the first two years (Oregon Health Authority, 2023). The failure was implementation, not the concept. Our proposal differs: we redirect enforcement budget directly to treatment (not waiting for cannabis tax revenue), mandate treatment on demand within 24 hours, and establish safe consumption sites. Oregon did none of these.
 
 **"What about the impact on neighborhoods near safe consumption sites?"**
 Studies from Vancouver's Insite (operating since 2003), Sydney's MSIC, and European facilities consistently show: public drug use decreases near supervised consumption sites, discarded needles decrease, and crime does not increase (Potier et al., Drug and Alcohol Dependence, 2014). Community opposition is typically highest before sites open and drops sharply after residents see actual results.

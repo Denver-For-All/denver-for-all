@@ -7,7 +7,7 @@
 
 La electricidad de Denver es suministrada por Xcel Energy bajo un acuerdo de franquicia: un monopolio sancionado por el gobierno. Los residentes de Denver no pueden elegir otro proveedor de electricidad. Y Xcel está fallando en su obligación más básica: mantener las luces encendidas.
 
-**Los cortes de energía se duplicaron en 2024.** El cliente promedio de Xcel experimentó 352 minutos de cortes de energía en 2024, en comparación con aproximadamente 100 minutos en 2023 (informe de la Comisión de Servicios Públicos de Colorado, 2025). Eso son casi seis horas sin electricidad. 90,000 clientes experimentaron seis o más cortes de energía en un solo año. Un tramo de South Broadway —178 negocios— sufrió 13 cortes de energía en 2024, incluido uno que duró un día y medio.
+**Los cortes de energía se duplicaron en 2024.** El cliente promedio de Xcel experimentó 352 minutos de cortes de energía en 2024, en comparación con aproximadamente 100 minutos en 2023 (informe de la Comisión de Servicios Públicos de Colorado, 2025). Eso son casi seis horas sin electricidad. 90,000 clientes experimentaron seis o más cortes de energía en un solo año. Un tramo de South Broadway - 178 negocios - sufrió 13 cortes de energía en 2024, incluido uno que duró un día y medio.
 
 **Xcel recortó su propia fuerza laboral mientras aumentaba sus tarifas.** Entre 2022 y 2024, Xcel redujo su personal en un 10% y recortó su presupuesto de servicio al cliente en un 5%, mientras que las tarifas eléctricas aumentaron un 30% durante el mismo período (Colorado Sun, 2025). Se proyecta que las tarifas aumenten otro 50% en los próximos cinco años. Está pagando más por un servicio peor.
 
@@ -19,7 +19,7 @@ La electricidad de Denver es suministrada por Xcel Energy bajo un acuerdo de fra
 
 ### Para los residentes médicamente vulnerables, los cortes de energía son potencialmente mortales
 
-Los cortes de energía no son un inconveniente para todos. Para los residentes que dependen de equipos médicos de soporte vital alimentados eléctricamente —ventiladores, concentradores de oxígeno, máquinas de diálisis domiciliaria, bombas de alimentación, dispositivos de succión, sillas de ruedas eléctricas y medicamentos refrigerados— un corte de energía es una emergencia médica.
+Los cortes de energía no son un inconveniente para todos. Para los residentes que dependen de equipos médicos de soporte vital alimentados eléctricamente - ventiladores, concentradores de oxígeno, máquinas de diálisis domiciliaria, bombas de alimentación, dispositivos de succión, sillas de ruedas eléctricas y medicamentos refrigerados - un corte de energía es una emergencia médica.
 
 Denver tiene miles de residentes con equipos de soporte vital en el hogar. Cuando se va la luz:
 
@@ -47,9 +47,9 @@ Denver no tiene una empresa de energía municipal. Denver no tiene un programa d
 
 **La energía municipal funciona en Colorado, ahora mismo, en ciudades cercanas a Denver.**
 
-- **Longmont Power & Communications** — empresa de energía eléctrica de propiedad municipal que presta servicios a Longmont (a 30 millas al norte de Denver). Los residentes de Longmont disfrutan de tarifas más bajas, mayor confiabilidad y control democrático local sobre las decisiones energéticas. Longmont también construyó NextLight, la red municipal de banda ancha (ver: [Banda Ancha Municipal](/platform/municipal-broadband)).
-- **Fort Collins Utilities** — empresa de energía eléctrica de propiedad municipal que presta servicios a Fort Collins. Los residentes de Fort Collins pagan tarifas más bajas que los clientes de Xcel y la empresa de servicios públicos responde ante el Concejo Municipal, no ante los accionistas.
-- **Colorado Springs Utilities** — la empresa de servicios públicos municipal más grande de Colorado, que presta servicios a más de 500,000 residentes. Proporciona servicios de electricidad, gas natural, agua y aguas residuales. Constantemente calificada más alta en satisfacción del cliente que Xcel.
+- **Longmont Power & Communications** - empresa de energía eléctrica de propiedad municipal que presta servicios a Longmont (a 30 millas al norte de Denver). Los residentes de Longmont disfrutan de tarifas más bajas, mayor confiabilidad y control democrático local sobre las decisiones energéticas. Longmont también construyó NextLight, la red municipal de banda ancha (ver: [Banda Ancha Municipal](/platform/municipal-broadband)).
+- **Fort Collins Utilities** - empresa de energía eléctrica de propiedad municipal que presta servicios a Fort Collins. Los residentes de Fort Collins pagan tarifas más bajas que los clientes de Xcel y la empresa de servicios públicos responde ante el Concejo Municipal, no ante los accionistas.
+- **Colorado Springs Utilities** - la empresa de servicios públicos municipal más grande de Colorado, que presta servicios a más de 500,000 residentes. Proporciona servicios de electricidad, gas natural, agua y aguas residuales. Constantemente calificada más alta en satisfacción del cliente que Xcel.
 
 Estos no son experimentos. Estas son empresas de servicios públicos municipales establecidas que han operado durante décadas, sirviendo a cientos de miles de habitantes de Colorado con mejor confiabilidad, tarifas más bajas y rendición de cuentas democrática.
 

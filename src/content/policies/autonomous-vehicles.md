@@ -20,8 +20,8 @@ keyStats:
   - value: '85%'
     label: 'more vehicle-miles from ride-hailing vs trips replaced'
     labelEs: 'mas millas-vehiculo de viajes compartidos vs viajes reemplazados'
-    context: "Without rules, AVs increase congestion and emissions — they don't reduce them"
-    contextEs: 'Sin reglas, los VA aumentan la congestion y emisiones — no las reducen'
+    context: "Without rules, AVs increase congestion and emissions - they don't reduce them"
+    contextEs: 'Sin reglas, los VA aumentan la congestion y emisiones - no las reducen'
     source: 'UC Davis / Schaller Consulting'
     theme: 'danger'
   - value: '$0'
@@ -45,9 +45,9 @@ This means Waymo can deploy hundreds of driverless vehicles on Denver streets wi
 - No labor transition plan for the thousands of Denver drivers whose jobs are at risk
 - No requirement to integrate with or support public transit
 
-Governor Polis vetoed HB 25-1122 in 2025, a bill that would have required a human operator in commercial autonomous vehicles. Colorado is now arguably the least regulated environment of any state with active AV deployment -- less regulated than Arizona, California, or Texas (National Conference of State Legislatures, AV Legislation Database, 2025).
+Governor Polis vetoed HB 25-1122 in 2025, a bill that would have required a human operator in commercial autonomous vehicles. Colorado is now arguably the least regulated environment of any state with active AV deployment - less regulated than Arizona, California, or Texas (National Conference of State Legislatures, AV Legislation Database, 2025).
 
-Denver residents are rightly concerned. Waymo vehicles in San Francisco have blocked intersections, interfered with emergency responders, and clustered in residential neighborhoods honking at each other at 4 AM (San Francisco Municipal Transportation Agency incident reports, 2023-2024). In Phoenix, a Waymo vehicle struck a cyclist in 2023. Austin has documented 122 AV-related incidents since 2023 (Austin Transportation Department AV Dashboard, 2025). Denver's winter weather -- ice, snow, reduced visibility -- adds challenges that no AV fleet has operated in at scale.
+Denver residents are rightly concerned. Waymo vehicles in San Francisco have blocked intersections, interfered with emergency responders, and clustered in residential neighborhoods honking at each other at 4 AM (San Francisco Municipal Transportation Agency incident reports, 2023-2024). In Phoenix, a Waymo vehicle struck a cyclist in 2023. Austin has documented 122 AV-related incidents since 2023 (Austin Transportation Department AV Dashboard, 2025). Denver's winter weather - ice, snow, reduced visibility - adds challenges that no AV fleet has operated in at scale.
 
 ### What Denver Currently Does
 
@@ -118,7 +118,7 @@ AVs must complement Denver's public transit system, not undermine it. In cities 
 
 #### 6. Accessibility Requirements
 
-AVs have the potential to transform mobility for the 61 million Americans with disabilities -- but only if they are designed for inclusion from the start, not retrofitted as an afterthought.
+AVs have the potential to transform mobility for the 61 million Americans with disabilities - but only if they are designed for inclusion from the start, not retrofitted as an afterthought.
 
 - **Wheelchair-accessible vehicles:** At least 20% of any AV fleet operating in Denver must be wheelchair-accessible from day one of operations, increasing to 50% within 5 years.
 - **Assistive technology:** All AVs must support audio navigation, braille-compatible interfaces, and communication with riders who are deaf, blind, or have cognitive disabilities.
@@ -161,7 +161,7 @@ This is primarily a regulatory framework funded by the companies that profit fro
 Colorado's preemption (SB 17-213) is broad but not absolute. Denver's home rule authority under the Colorado Constitution (Article XX) provides significant power to regulate activities within city limits for health, safety, and welfare purposes. Traffic regulation, permitting for commercial operations, data privacy, and labor standards are all areas where Denver has exercised local authority. Some provisions (incident reporting, permitting) may require state legislative change. Denver should implement what it can now, advocate for state reform, and challenge preemption where necessary. San Francisco has pursued exactly this strategy in California.
 
 **"Won't this scare AV companies away from Denver?"**
-Waymo operates in San Francisco under California's stringent regulatory framework, including AB 1777's emergency response requirements. They operate in Phoenix under AV-specific state requirements. Companies go where the customers are. Denver's growing population and ride-hailing demand ensure market access -- and reasonable regulation makes deployment safer and more politically sustainable for AV companies themselves. Unregulated deployment that produces backlash is worse for AV companies than clear rules.
+Waymo operates in San Francisco under California's stringent regulatory framework, including AB 1777's emergency response requirements. They operate in Phoenix under AV-specific state requirements. Companies go where the customers are. Denver's growing population and ride-hailing demand ensure market access - and reasonable regulation makes deployment safer and more politically sustainable for AV companies themselves. Unregulated deployment that produces backlash is worse for AV companies than clear rules.
 
 **"Aren't autonomous vehicles safer than human drivers?"**
 AV companies claim their vehicles are safer per mile than human drivers, but the data is limited and self-reported. Waymo published a peer-reviewed study claiming 57% fewer injury-causing crashes (Waymo Safety Report, 2023), but independent verification is difficult because companies control the data. What we do know: AVs in San Francisco have blocked fire trucks, run over downed power lines, and driven into wet concrete (SFMTA incident logs, 2023-2024). Denver's ice and snow present challenges no AV fleet has operated in at scale. Safety claims should be verified by independent audits, not taken on faith.
@@ -170,10 +170,10 @@ AV companies claim their vehicles are safer per mile than human drivers, but the
 Potentially, but the evidence is mixed. Studies from UC Davis found that ride-hailing (including Uber and Lyft) increased vehicle-miles traveled by 85% compared to the trips they replaced, because of deadheading (driving empty between fares) and induced demand (people taking car trips instead of transit, walking, or biking) (Schaller Consulting, 2018; UC Davis ITS, 2020). Without congestion pricing, transit integration, and deadheading fees, AVs could make traffic and emissions worse, not better.
 
 **"What about the jobs? Isn't this just delaying the inevitable?"**
-Automation is not a natural disaster. It is a policy choice about who benefits and who bears the costs. When Denver automated parking meters, it didn't leave meter attendants destitute -- it transitioned them to other city roles. The Driver Transition Fund ensures that the workers who built Denver's ride-hailing and delivery economy aren't discarded when their labor is automated. Every major technological transition in history has required public policy to distribute benefits fairly. This is no different.
+Automation is not a natural disaster. It is a policy choice about who benefits and who bears the costs. When Denver automated parking meters, it didn't leave meter attendants destitute - it transitioned them to other city roles. The Driver Transition Fund ensures that the workers who built Denver's ride-hailing and delivery economy aren't discarded when their labor is automated. Every major technological transition in history has required public policy to distribute benefits fairly. This is no different.
 
 **"I'm worried about AV cameras surveilling my neighborhood."**
-You should be. A fleet of 500 AVs with high-resolution cameras operating 12+ hours daily creates a surveillance network more pervasive than any city camera system. Denver's experience with Flock license plate readers (1,400+ ICE searches without public knowledge) demonstrates what happens when surveillance technology is deployed without democratic oversight. Our data privacy provisions -- 72-hour retention limits, warrant requirements, no ICE access, facial recognition ban -- apply the lessons of the Flock debacle to AV surveillance before it's too late.
+You should be. A fleet of 500 AVs with high-resolution cameras operating 12+ hours daily creates a surveillance network more pervasive than any city camera system. Denver's experience with Flock license plate readers (1,400+ ICE searches without public knowledge) demonstrates what happens when surveillance technology is deployed without democratic oversight. Our data privacy provisions - 72-hour retention limits, warrant requirements, no ICE access, facial recognition ban - apply the lessons of the Flock debacle to AV surveillance before it's too late.
 
 ## Who Opposes This (and Why)
 

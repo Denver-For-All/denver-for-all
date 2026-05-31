@@ -2,7 +2,7 @@
 
 ### A. Descripción del Proyecto
 
-**Título del Proyecto:** Denver Housing First — Expansión de Vivienda Permanente de Apoyo y Reubicación Rápida
+**Título del Proyecto:** Denver Housing First - Expansión de Vivienda Permanente de Apoyo y Reubicación Rápida
 
 **Solicitante:** Ciudad y Condado de Denver, Departamento de Estabilidad de la Vivienda (HOST, por sus siglas en inglés), en coordinación con la Iniciativa para Personas sin Hogar del Área Metropolitana de Denver (MDHI, por sus siglas en inglés) como Solicitante Colaborativo
 
@@ -92,7 +92,7 @@ Denver se enfrenta a una crisis de falta de vivienda grave y creciente que el si
 - Modelo de participación progresiva: calibrar el nivel de asistencia a la necesidad del hogar, reduciendo el apoyo a medida que aumenta la estabilidad
 - Dar prioridad a las familias con niños y a las personas con historias de falta de vivienda más cortas para la vía de reubicación rápida
 
-**Actividad 3: Servicios Integrales — Manejo de Casos, Salud Mental y Tratamiento de Adicciones ($3,000,000)**
+**Actividad 3: Servicios Integrales - Manejo de Casos, Salud Mental y Tratamiento de Adicciones ($3,000,000)**
 
 - Manejo de casos intensivo con una proporción de personal a cliente de 1:15 para los residentes de PSH
 - Servicios de salud conductual en el sitio, incluyendo trabajadores sociales clínicos licenciados y consulta psiquiátrica
@@ -124,8 +124,8 @@ Denver se enfrenta a una crisis de falta de vivienda grave y creciente que el si
 | --------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Planificación y Adquisición**   | Meses 1-6   | Ejecutar acuerdos de subreceptores, finalizar la selección del sitio, contratar personal del programa, lanzar actualizaciones coordinadas de entrada |
 | **Adquisición y Conversión**      | Meses 4-14  | Adquirir propiedades, completar renovaciones, obtener certificados de ocupación, comenzar el arrendamiento de PSH                                    |
-| **Operaciones Completas — Año 1** | Meses 7-18  | 150 unidades de PSH ocupadas, 200 hogares de RRH atendidos, servicios integrales totalmente operativos                                               |
-| **Operaciones Completas — Año 2** | Meses 13-30 | Todas las 300 unidades de PSH ocupadas, segunda cohorte de 200 hogares de RRH, evaluación de mitad de período completa                               |
+| **Operaciones Completas - Año 1** | Meses 7-18  | 150 unidades de PSH ocupadas, 200 hogares de RRH atendidos, servicios integrales totalmente operativos                                               |
+| **Operaciones Completas - Año 2** | Meses 13-30 | Todas las 300 unidades de PSH ocupadas, segunda cohorte de 200 hogares de RRH, evaluación de mitad de período completa                               |
 | **Estabilización y Cierre**       | Meses 28-36 | Transición a flujos de financiación sostenibles, evaluación final, planificación de la continuación del programa                                     |
 
 ### F. Alineación con los Objetivos del Programa CoC de HUD
@@ -161,8 +161,8 @@ La inversión federal solicitada de $17 millones complementa la infraestructura 
 | Entrada Coordinada e Infraestructura de Datos                                    | $1,000,000      | 6%          |
 | Evaluación del Programa                                                          | $1,000,000      | 6%          |
 | **Solicitud Federal Total**                                                      | **$17,000,000** | **100%**    |
-| Contrapartida Local (HOST, Autoridad de Vivienda Social, filantrópica)           | $4,250,000      | —           |
-| **Inversión Total del Proyecto**                                                 | **$21,250,000** | —           |
+| Contrapartida Local (HOST, Autoridad de Vivienda Social, filantrópica)           | $4,250,000      | - |
+| **Inversión Total del Proyecto**                                                 | **$21,250,000** | - |
 
 _Nota: El programa CoC de HUD requiere una contrapartida mínima del 25% para la mayoría de los tipos de proyectos. La contrapartida local de $4.25 millones representa una contrapartida del 25% con respecto a la solicitud federal, proveniente de los fondos operativos de HOST, los compromisos de capital de la Autoridad de Vivienda Social y las contribuciones filantrópicas._
 

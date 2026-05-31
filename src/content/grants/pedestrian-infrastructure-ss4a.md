@@ -1,6 +1,6 @@
 ---
-title: 'Safe Streets for All (SS4A) — Denver Sidewalk Equity & ADA Compliance Project'
-titleEs: 'Calles Seguras para Todos (SS4A) — Proyecto de Equidad de Aceras y Cumplimiento ADA de Denver'
+title: 'Safe Streets for All (SS4A) - Denver Sidewalk Equity & ADA Compliance Project'
+titleEs: 'Calles Seguras para Todos (SS4A) - Proyecto de Equidad de Aceras y Cumplimiento ADA de Denver'
 summary: "Implementation grant proposal template for USDOT Safe Streets for All program to accelerate sidewalk construction and ADA compliance in Denver's highest-need neighborhoods."
 summaryEs: 'Plantilla de propuesta de subvención de implementación del programa Calles Seguras para Todos del USDOT para acelerar la construcción de aceras y el cumplimiento ADA en los vecindarios de Denver con mayor necesidad.'
 policySlug: 'pedestrian-infrastructure'
@@ -23,7 +23,7 @@ status: 'draft'
 
 **Project Duration:** 36 months
 
-**Project Summary:** The City and County of Denver requests $15 million in Safe Streets for All Implementation Grant funding to accelerate sidewalk construction and ADA compliance upgrades in the city's highest-need neighborhoods. Denver has 3,110 miles of sidewalks; 40% (1,235 miles) are deficient and fail ADA standards, and 11% (358 miles) are completely missing. Low-income neighborhoods have more than double the pedestrian fatality rate of wealthier communities. In 2025, 35 pedestrians were killed on Denver streets — a 34% increase over 2024. This project targets the 15 neighborhoods with the highest pedestrian fatality rates and lowest sidewalk coverage for priority construction, ADA retrofits, and traffic calming measures along school and transit corridors.
+**Project Summary:** The City and County of Denver requests $15 million in Safe Streets for All Implementation Grant funding to accelerate sidewalk construction and ADA compliance upgrades in the city's highest-need neighborhoods. Denver has 3,110 miles of sidewalks; 40% (1,235 miles) are deficient and fail ADA standards, and 11% (358 miles) are completely missing. Low-income neighborhoods have more than double the pedestrian fatality rate of wealthier communities. In 2025, 35 pedestrians were killed on Denver streets - a 34% increase over 2024. This project targets the 15 neighborhoods with the highest pedestrian fatality rates and lowest sidewalk coverage for priority construction, ADA retrofits, and traffic calming measures along school and transit corridors.
 
 ### B. Location & Context
 
@@ -132,7 +132,7 @@ Denver has made substantial local investment in pedestrian infrastructure:
 - **Vision Zero Plan** adopted 2017 with dedicated staff and dashboard
 - **Denver Streets Partnership** coalition providing community advocacy and data
 
-The requested federal investment of $15 million represents a **6.4:1 local match ratio** against the city's existing $97.5 million commitment — demonstrating that Denver is not seeking federal funding to replace local investment, but to accelerate a program that is already funded and underway.
+The requested federal investment of $15 million represents a **6.4:1 local match ratio** against the city's existing $97.5 million commitment - demonstrating that Denver is not seeking federal funding to replace local investment, but to accelerate a program that is already funded and underway.
 
 ## Budget Summary
 
@@ -143,8 +143,8 @@ The requested federal investment of $15 million represents a **6.4:1 local match
 | Traffic Calming & Pedestrian Safety | $2,000,000       | 13%        |
 | Project Management & Evaluation     | $1,000,000       | 7%         |
 | **Total Federal Request**           | **$15,000,000**  | **100%**   |
-| Local Match (sidewalk fee revenue)  | $97,500,000      | —          |
-| **Total Project Investment**        | **$112,500,000** | —          |
+| Local Match (sidewalk fee revenue)  | $97,500,000      | - |
+| **Total Project Investment**        | **$112,500,000** | - |
 
 ## Expected Outcomes
 

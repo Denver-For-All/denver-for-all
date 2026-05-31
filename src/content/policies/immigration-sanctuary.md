@@ -13,8 +13,8 @@ keyStats:
   - value: '30%+'
     label: "of Denver's population is Latino"
     labelEs: 'de la poblacion de Denver es latina'
-    context: 'Our immigrant communities are not an afterthought — they are Denver'
-    contextEs: 'Nuestras comunidades inmigrantes no son secundarias — son Denver'
+    context: 'Our immigrant communities are not an afterthought - they are Denver'
+    contextEs: 'Nuestras comunidades inmigrantes no son secundarias - son Denver'
     source: 'U.S. Census Bureau, ACS 2023'
     theme: 'primary'
   - value: '1.3M+'
@@ -140,10 +140,10 @@ You don't have to wait for policy changes to protect yourself and your community
 
 - **Right to remain silent.** You do not have to answer questions about your immigration status.
 - **Do not sign anything** without consulting a lawyer, even if documents are in your language.
-- **Ask for a warrant.** ICE must present a valid judicial warrant signed by a judge to enter your home. An ICE administrative warrant (Form I-200) is not enough — you do not have to open the door.
+- **Ask for a warrant.** ICE must present a valid judicial warrant signed by a judge to enter your home. An ICE administrative warrant (Form I-200) is not enough - you do not have to open the door.
 - **You have the right to an attorney.** Ask to speak to a lawyer before answering any questions.
 
-**Prepare your family.** The [Rocky Mountain Immigrant Advocacy Network (RMIAN)](https://www.rmian.org/know-your-rights) offers a Family Preparedness Packet to help you take proactive steps to safeguard your family in case of an ICE encounter — including designating guardians for children, organizing important documents, and creating an emergency plan.
+**Prepare your family.** The [Rocky Mountain Immigrant Advocacy Network (RMIAN)](https://www.rmian.org/know-your-rights) offers a Family Preparedness Packet to help you take proactive steps to safeguard your family in case of an ICE encounter - including designating guardians for children, organizing important documents, and creating an emergency plan.
 
 ## Frequently Asked Questions
 

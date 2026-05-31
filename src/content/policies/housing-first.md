@@ -21,8 +21,8 @@ keyStats:
   - value: '$40-60K'
     label: 'annual cost per person to manage homelessness'
     labelEs: 'costo anual por persona para manejar la falta de vivienda'
-    context: 'Emergency services approach. Housing First costs $15-25K — less than half.'
-    contextEs: 'Enfoque de servicios de emergencia. Vivienda Primero cuesta $15-25K — menos de la mitad.'
+    context: 'Emergency services approach. Housing First costs $15-25K - less than half.'
+    contextEs: 'Enfoque de servicios de emergencia. Vivienda Primero cuesta $15-25K - menos de la mitad.'
     theme: 'accent'
   - value: '$15-25K'
     label: 'annual cost of permanent supportive housing'
@@ -156,7 +156,7 @@ Sam Tsemberis at Pathways to Housing (New York) pioneered Housing First in the U
 
 **Savings per person housed: $36,000-62,000/year.**
 
-For the approximately 2,000-3,000 chronically homeless individuals who incur the highest emergency costs, that represents $72M-186M/year in savings -- money currently being spent on emergency responses to homelessness instead of ending it (Culhane, Metraux & Hadley, 2002).
+For the approximately 2,000-3,000 chronically homeless individuals who incur the highest emergency costs, that represents $72M-186M/year in savings - money currently being spent on emergency responses to homelessness instead of ending it (Culhane, Metraux & Hadley, 2002).
 
 **Startup investment:** $200-300M for unit acquisition and conversion (funded through Social Housing Authority bonds + federal HUD matching).
 

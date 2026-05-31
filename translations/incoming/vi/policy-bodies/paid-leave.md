@@ -128,7 +128,7 @@ Nó BẰNG MỘT NỬA so với những gì Thụy Điển cung cấp. Nó BẰN
 Điều khoản nghỉ phép vì lý do gia đình/y tế cung cấp thêm 12 tuần. Ngoài ra, mạng lưới an sinh xã hội của Denver (chăm sóc sức khỏe, hỗ trợ nhà ở, sức khỏe cộng đồng) giúp đỡ các gia đình gặp khủng hoảng. Không cha mẹ nào phải lựa chọn giữa việc giữ công việc và cứu mạng con mình.
 
 **"Chương trình FAMLI của Colorado không đã bao gồm điều này rồi sao?"**
-FAMLI cung cấp 12 tuần với 90% lương -- một cải tiến có ý nghĩa so với việc không có gì. Nhưng 12 tuần vẫn chỉ bằng một nửa so với những gì Thụy Điển, Đan Mạch và Na Uy cung cấp. Đề xuất của chúng tôi kéo dài thời gian nghỉ phép lên 26 tuần cho các bậc cha mẹ mới, bổ sung chế độ nghỉ bệnh có lương không giới hạn và thiết lập mức tối thiểu 4 tuần nghỉ phép. FAMLI là một mức sàn. Denver nâng cao trần nhà.
+FAMLI cung cấp 12 tuần với 90% lương - một cải tiến có ý nghĩa so với việc không có gì. Nhưng 12 tuần vẫn chỉ bằng một nửa so với những gì Thụy Điển, Đan Mạch và Na Uy cung cấp. Đề xuất của chúng tôi kéo dài thời gian nghỉ phép lên 26 tuần cho các bậc cha mẹ mới, bổ sung chế độ nghỉ bệnh có lương không giới hạn và thiết lập mức tối thiểu 4 tuần nghỉ phép. FAMLI là một mức sàn. Denver nâng cao trần nhà.
 
 ## Ai Phản Đối Điều Này (và Tại Sao)
 

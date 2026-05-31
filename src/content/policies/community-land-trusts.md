@@ -14,8 +14,8 @@ keyStats:
   - value: '10x'
     label: 'lower foreclosure rate than conventional'
     labelEs: 'menor tasa de ejecucion hipotecaria'
-    context: 'CLT homeowners almost never lose their homes — the model is designed to protect them'
-    contextEs: 'Los propietarios de CLT casi nunca pierden sus hogares — el modelo esta disenado para protegerlos'
+    context: 'CLT homeowners almost never lose their homes - the model is designed to protect them'
+    contextEs: 'Los propietarios de CLT casi nunca pierden sus hogares - el modelo esta disenado para protegerlos'
     source: 'Champlain Housing Trust, Burlington VT'
     theme: 'primary'
   - value: '20-40'
@@ -85,7 +85,7 @@ However, the scale is far below what is needed. Elevation CLT adds approximately
 | **Brussels CLT (Belgium)**                         | Government-supported CLT producing affordable housing since 2012.                                          | Tripartite governance model. Housing affordable to families earning 30-60% of median income. Growing rapidly.                                                |
 | **Dudley Street Neighborhood Initiative (Boston)** | Community-organized CLT in historically redlined neighborhood. Used eminent domain to acquire vacant land. | Prevented gentrification. Built 225+ affordable homes. Community controls its own land. National model for anti-displacement.                                |
 | **Kenya**                                          | Community Land Act (2016) formalized communal land tenure.                                                 | Protects community land rights from speculative acquisition. Different context but same principle: land held in trust for community benefit.                 |
-| **The Irving at Mile High Vista (Denver)**         | 102-unit all-electric affordable housing. ULC community land trust. Prop 123-funded. Opened January 2026.  | 99-year affordability guarantee. Proof that Denver can build permanently affordable, sustainable housing right now — and that Proposition 123 funding works. |
+| **The Irving at Mile High Vista (Denver)**         | 102-unit all-electric affordable housing. ULC community land trust. Prop 123-funded. Opened January 2026.  | 99-year affordability guarantee. Proof that Denver can build permanently affordable, sustainable housing right now - and that Proposition 123 funding works. |
 
 **The CLT model has been proven over 50+ years, across multiple countries and continents, at every scale.** It works because it separates the value of the home (which the owner keeps) from the value of the land (which the community holds). This removes speculation while preserving genuine homeownership.
 

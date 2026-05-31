@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Aproximadamente el 10% de los residentes de Denver —más de 70,000 personas— viven con una discapacidad (U.S. Census Bureau, ACS 2019-2023). No son un grupo demográfico específico. Son sus vecinos, compañeros de trabajo, familiares y, con el tiempo suficiente, usted. La discapacidad es el único grupo minoritario al que cualquiera puede unirse en cualquier momento.
+Aproximadamente el 10% de los residentes de Denver - más de 70,000 personas - viven con una discapacidad (U.S. Census Bureau, ACS 2019-2023). No son un grupo demográfico específico. Son sus vecinos, compañeros de trabajo, familiares y, con el tiempo suficiente, usted. La discapacidad es el único grupo minoritario al que cualquiera puede unirse en cualquier momento.
 
 A pesar de esto, la infraestructura para discapacitados de Denver se basa en mínimos legales y ocurrencias tardías, no en la inclusión total. Las consecuencias:
 
@@ -26,7 +26,7 @@ Denver tiene una base fragmentada:
 - **Transporte público adaptado de RTD** (Access-a-Ride y Access-on-Demand): proporciona transporte a los usuarios discapacitados elegibles, aunque con las limitaciones señaladas anteriormente.
 - **Tarifa de acera** (aprobada por los votantes en 2022): $75 millones en contratos adjudicados en 2025 para comenzar las reparaciones de las aceras de la ADA, pero el plazo es de "décadas" para su finalización al ritmo actual.
 - **Política de Envejecimiento, Discapacidad y Accesibilidad** (esta plataforma): cubre el apoyo al cuidador, los servicios para personas mayores y el diseño universal para la infraestructura amigable con la edad. La política existente es sólida en cuanto al envejecimiento, pero débil en cuanto a los derechos de las personas con discapacidad en edad laboral.
-- **Programa STAR**: maneja las llamadas de crisis de salud mental en toda la ciudad sin la policía — una evaluación del Urban Institute de 2026 encontró que reduce los arrestos posteriores y los contactos con la policía en un 16% — pero no está específicamente capacitado para el espectro completo de interacciones relacionadas con la discapacidad.
+- **Programa STAR**: maneja las llamadas de crisis de salud mental en toda la ciudad sin la policía - una evaluación del Urban Institute de 2026 encontró que reduce los arrestos posteriores y los contactos con la policía en un 16% - pero no está específicamente capacitado para el espectro completo de interacciones relacionadas con la discapacidad.
 
 ### Quién Se Opone A Esto (Y Por Qué)
 
@@ -63,23 +63,23 @@ Denver trata el cumplimiento de la ADA como algo aspiracional. Nosotros lo trata
 ### 4. Vida Independiente E Integración Comunitaria
 
 - **Ampliar los servicios de atención de asistentes y asistencia personal** más allá de las horas cubiertas por Medicaid. Financiar horas complementarias de la ciudad para las personas cuyas necesidades de atención exceden los límites de Medicaid, evitando la institucionalización innecesaria. Cada persona en un asilo de ancianos o institución que podría vivir en la comunidad con el apoyo adecuado representa un fracaso de la política
-- **Modelo de atención dirigida por el consumidor**: las personas con discapacidad eligen y gestionan sus propios proveedores de atención, incluyendo a los miembros de la familia. Esto es tanto una cuestión de dignidad como de eficacia — los modelos dirigidos por el consumidor producen consistentemente una mayor satisfacción y mejores resultados que los modelos dirigidos por la agencia
+- **Modelo de atención dirigida por el consumidor**: las personas con discapacidad eligen y gestionan sus propios proveedores de atención, incluyendo a los miembros de la familia. Esto es tanto una cuestión de dignidad como de eficacia - los modelos dirigidos por el consumidor producen consistentemente una mayor satisfacción y mejores resultados que los modelos dirigidos por la agencia
 - **Acceso a la tecnología de asistencia**: biblioteca de préstamos de tecnología de asistencia financiada por la ciudad y programa de subvenciones. Los dispositivos de comunicación, las ayudas para la movilidad, los controles ambientales y la tecnología de adaptación no deben estar limitados por las brechas en la cobertura del seguro o las listas de equipos de Medicaid
-- **Red de apoyo entre pares**: financiar una red coordinada por la ciudad de mentores de pares discapacitados remunerados — personas discapacitadas que apoyan a otras personas discapacitadas a través de las transiciones (nuevo diagnóstico, regreso del hospital, envejecimiento en la discapacidad, navegación por los servicios de la ciudad)
+- **Red de apoyo entre pares**: financiar una red coordinada por la ciudad de mentores de pares discapacitados remunerados - personas discapacitadas que apoyan a otras personas discapacitadas a través de las transiciones (nuevo diagnóstico, regreso del hospital, envejecimiento en la discapacidad, navegación por los servicios de la ciudad)
 
 ### 5. Comunicación Y Acceso Cognitivo
 
 - **Interpretación en ASL en todas las reuniones públicas de la ciudad** por defecto, no por solicitud. Subtitulado en tiempo real (CART) disponible en todas las reuniones del consejo y audiencias públicas. Interpretación remota por video (VRI, Video Remote Interpreting) disponible bajo demanda en todos los mostradores de servicio de la ciudad
 - **Requisito de lenguaje claro**: todos los documentos, avisos y contenidos digitales de la ciudad dirigidos al público deben incluir resúmenes en lenguaje claro (nivel de lectura de 6º grado). Esto beneficia a las personas con discapacidades cognitivas, a los hablantes de inglés no nativos y, francamente, a todos
 - **Servicios de la ciudad amigables con los sentidos**: horas de silencio en los centros de recreación, bibliotecas y ubicaciones del DMV/servicios de la ciudad. Kits sensoriales (auriculares con cancelación de ruido, juguetes antiestrés, horarios visuales) disponibles en todas las instalaciones de la ciudad. Esto es de bajo costo y alto impacto para los residentes autistas, las personas con PTSD y aquellos con diferencias en el procesamiento sensorial
-- **Accesibilidad de las comunicaciones de emergencia**: todas las alertas de emergencia y las comunicaciones de emergencia de la ciudad en formatos accesibles — video ASL, basado en texto, lenguaje claro y disponible a través de múltiples canales (no solo sirenas y sistemas de PA)
+- **Accesibilidad de las comunicaciones de emergencia**: todas las alertas de emergencia y las comunicaciones de emergencia de la ciudad en formatos accesibles - video ASL, basado en texto, lenguaje claro y disponible a través de múltiples canales (no solo sirenas y sistemas de PA)
 
 ### 6. Representación Y Gobernanza De La Discapacidad
 
 - **Elevar la Comisión para las Personas con Discapacidad** de asesora a autoridad: dar a la comisión un presupuesto dedicado, la capacidad de revisar las ordenanzas propuestas de la ciudad para el impacto de la discapacidad, y un requisito de respuesta obligatoria de los departamentos de la ciudad que reciben recomendaciones de la comisión
 - **Evaluaciones de impacto de la discapacidad** requeridas para todas las decisiones importantes de planificación de la ciudad (proyectos de transporte, cambios de zonificación, diseños de parques, permisos de construcción para grandes desarrollos). Modelado sobre las evaluaciones de impacto ambiental
 - **Política de contratación "Nada Sobre Nosotros Sin Nosotros"**: todos los puestos de la ciudad que sirven principalmente a poblaciones discapacitadas deben priorizar la contratación de personas con experiencia vivida en la discapacidad. Esto se aplica a la Oficina de Derechos de las Personas con Discapacidad, a los equipos STAR y a cualquier función de asesoramiento o programa centrada en los servicios para discapacitados
-- **Recopilación de datos sobre discapacidad**: Denver debe rastrear sistemáticamente el estado de discapacidad en todos los datos relevantes de la ciudad — incidentes de uso de la fuerza, solicitudes de vivienda, empleo, utilización de los servicios de la ciudad, número de pasajeros en el transporte público — para hacer que las disparidades sean visibles y medibles. No se puede arreglar lo que no se puede ver
+- **Recopilación de datos sobre discapacidad**: Denver debe rastrear sistemáticamente el estado de discapacidad en todos los datos relevantes de la ciudad - incidentes de uso de la fuerza, solicitudes de vivienda, empleo, utilización de los servicios de la ciudad, número de pasajeros en el transporte público - para hacer que las disparidades sean visibles y medibles. No se puede arreglar lo que no se puede ver
 
 ### Evidencia Internacional: La Inclusión De La Discapacidad Es Infraestructura
 
@@ -94,10 +94,10 @@ Denver trata el cumplimiento de la ADA como algo aspiracional. Nosotros lo trata
 ## Cómo Lo Financiamos
 
 - **Oficina de Derechos de las Personas con Discapacidad** (personal, cumplimiento, línea directa): $2-3 millones/año del fondo general
-- **Mandato de vivienda accesible**: $0 costo neto para la ciudad — los promotores absorben la prima de construcción del 1-3%; subvenciones para la modificación de viviendas financiadas con $3-5 millones/año de los ingresos de los bonos de vivienda
+- **Mandato de vivienda accesible**: $0 costo neto para la ciudad - los promotores absorben la prima de construcción del 1-3%; subvenciones para la modificación de viviendas financiadas con $3-5 millones/año de los ingresos de los bonos de vivienda
 - **Programas de empleo para personas con discapacidad** (empleo con apoyo IPS, pasantías, contratación por parte de la ciudad): $3-5 millones/año, compensados parcialmente por la reducción de la utilización de SSI/SSDI y el aumento de los ingresos fiscales de los trabajadores discapacitados empleados
-- **Servicios de vida independiente** (atención complementaria de asistentes, tecnología de asistencia, apoyo entre pares): $4-6 millones/año, con una compensación significativa de Medicaid — la atención comunitaria cuesta una fracción de la atención institucional ($2,000-4,000/mes frente a $10,600+/mes para los centros de enfermería en Colorado)
-- **Acceso a la comunicación** (ASL, CART, lenguaje claro, adaptaciones sensoriales): $1-2 millones/año — la mayor parte de este costo se absorbe dentro de los presupuestos de los departamentos existentes a través de las eficiencias de la contratación
+- **Servicios de vida independiente** (atención complementaria de asistentes, tecnología de asistencia, apoyo entre pares): $4-6 millones/año, con una compensación significativa de Medicaid - la atención comunitaria cuesta una fracción de la atención institucional ($2,000-4,000/mes frente a $10,600+/mes para los centros de enfermería en Colorado)
+- **Acceso a la comunicación** (ASL, CART, lenguaje claro, adaptaciones sensoriales): $1-2 millones/año - la mayor parte de este costo se absorbe dentro de los presupuestos de los departamentos existentes a través de las eficiencias de la contratación
 - **Total: $13-21 millones/año**, con compensaciones sustanciales por la reducción de la institucionalización, el aumento del empleo/ingresos fiscales y el ahorro de Medicaid. Cada dólar invertido en la vida independiente basada en la comunidad ahorra $3-5 en costos de atención institucional.
 
 ## Preguntas Frecuentes

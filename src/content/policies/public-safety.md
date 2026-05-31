@@ -16,8 +16,8 @@ petition:
 hasFundingSources: true
 keyStats:
   - value: '531 per 100K'
-    label: 'US incarceration rate — highest on Earth'
-    labelEs: 'tasa de encarcelamiento de EE.UU. — la mas alta del mundo'
+    label: 'US incarceration rate - highest on Earth'
+    labelEs: 'tasa de encarcelamiento de EE.UU. - la mas alta del mundo'
     context: "10x Norway's rate. 76% come back. Norway rehabilitates 80%."
     contextEs: '10 veces la tasa de Noruega. 76% reincide. Noruega rehabilita al 80%.'
     source: 'World Prison Brief'
@@ -42,33 +42,33 @@ keyStats:
 
 ### Denver's Crime Reality
 
-Denver has a crime problem, and the current approach isn't solving it. Violent crime surged during 2020-2022, and while it has declined from that peak, rates remain elevated above pre-pandemic levels. Property crime — particularly auto theft, catalytic converter theft, and package theft — remains a persistent concern that affects quality of life across the city. Denver recorded over 8,500 auto thefts in 2023, making it one of the highest per-capita auto theft cities in the country, though the number dropped from a peak of over 12,000 in 2022 (Denver Police Department UCR data).
+Denver has a crime problem, and the current approach isn't solving it. Violent crime surged during 2020-2022, and while it has declined from that peak, rates remain elevated above pre-pandemic levels. Property crime - particularly auto theft, catalytic converter theft, and package theft - remains a persistent concern that affects quality of life across the city. Denver recorded over 8,500 auto thefts in 2023, making it one of the highest per-capita auto theft cities in the country, though the number dropped from a peak of over 12,000 in 2022 (Denver Police Department UCR data).
 
-Crime is not evenly distributed. Neighborhoods like Montbello, East Colfax, Five Points, and parts of the far northeast and southwest see disproportionate violent crime. These are the same neighborhoods with the highest poverty rates, lowest access to mental health services, most housing instability, and fewest youth programs. This is not coincidence — it is cause and effect.
+Crime is not evenly distributed. Neighborhoods like Montbello, East Colfax, Five Points, and parts of the far northeast and southwest see disproportionate violent crime. These are the same neighborhoods with the highest poverty rates, lowest access to mental health services, most housing instability, and fewest youth programs. This is not coincidence - it is cause and effect.
 
 ### The Policing Paradox
 
-Denver's police budget is approximately $300M/year (Denver Budget, 2024) — the largest single department expenditure. Despite consistent budget increases, crime rates have fluctuated independently of police spending. This is not unique to Denver: the Brennan Center for Justice found that police spending explains only 0-5% of variation in crime rates nationwide.
+Denver's police budget is approximately $300M/year (Denver Budget, 2024) - the largest single department expenditure. Despite consistent budget increases, crime rates have fluctuated independently of police spending. This is not unique to Denver: the Brennan Center for Justice found that police spending explains only 0-5% of variation in crime rates nationwide.
 
 Denver police have killed residents, brutalized protesters (2020 George Floyd protests), and operated with minimal accountability. The current oversight structure lacks independence, subpoena power, or the ability to impose discipline. Officers who commit misconduct are rarely held accountable, and qualified immunity shields them from civil liability.
 
-Meanwhile, police are dispatched to situations they're not trained for: mental health crises, homelessness, and substance use. The city has failed to invest in alternatives, and the result is that people in crisis encounter armed officers instead of mental health professionals. The STAR program costs approximately $4.4M/year — about 1.5% of the police budget — and has responded to over 23,000 calls since 2020. A 2026 Urban Institute evaluation found STAR reduces subsequent police contacts and arrests by 16%, with two to three times larger reductions for people experiencing homelessness (Gillespie et al., Urban Institute, 2026).
+Meanwhile, police are dispatched to situations they're not trained for: mental health crises, homelessness, and substance use. The city has failed to invest in alternatives, and the result is that people in crisis encounter armed officers instead of mental health professionals. The STAR program costs approximately $4.4M/year - about 1.5% of the police budget - and has responded to over 23,000 calls since 2020. A 2026 Urban Institute evaluation found STAR reduces subsequent police contacts and arrests by 16%, with two to three times larger reductions for people experiencing homelessness (Gillespie et al., Urban Institute, 2026).
 
 ### What Actually Reduces Crime
 
-Decades of research point to the same conclusion: crime is primarily driven by poverty, housing instability, lack of economic opportunity, untreated mental illness and substance use disorders, and the absence of community support systems — especially for young people. Policing responds to crime after it happens. Investment in communities prevents it from happening in the first place.
+Decades of research point to the same conclusion: crime is primarily driven by poverty, housing instability, lack of economic opportunity, untreated mental illness and substance use disorders, and the absence of community support systems - especially for young people. Policing responds to crime after it happens. Investment in communities prevents it from happening in the first place.
 
-This is not theory. Cities that have invested heavily in community violence intervention, youth employment, mental health services, and housing stability have seen dramatic crime reductions — often outperforming cities that invested in policing alone. Oakland's GRYD program reduced shootings by 50% in target areas. Glasgow, Scotland cut its murder rate by 60% through public health intervention. Bogotá, Colombia reduced its homicide rate by 70% through urban investment, not militarized policing.
+This is not theory. Cities that have invested heavily in community violence intervention, youth employment, mental health services, and housing stability have seen dramatic crime reductions - often outperforming cities that invested in policing alone. Oakland's GRYD program reduced shootings by 50% in target areas. Glasgow, Scotland cut its murder rate by 60% through public health intervention. Bogotá, Colombia reduced its homicide rate by 70% through urban investment, not militarized policing.
 
 ### What Denver Currently Does
 
 Denver already has the Office of the Independent Monitor (OIM), created in 2004, which reviews police complaints and monitors investigations. However, the OIM cannot independently investigate, lacks subpoena power, cannot impose discipline, and serves in an advisory role. The Citizen Oversight Board exists but is appointed by the mayor (not independently elected) and also lacks enforcement authority. This structure has not prevented persistent misconduct: Denver paid $35.3M in law enforcement settlements from 2017-2023, with $17.3M in 2023 alone (Denver City Attorney records; Denver Post analysis, 2024).
 
-The STAR program launched in 2020 and expanded citywide in 2022. As of September 2024, STAR van teams have responded to over 23,000 calls, with nearly 50,000 calls designated as STAR-eligible. A January 2026 Urban Institute evaluation — the first study to measure individual-level outcomes following alternative response anywhere in the country — found that STAR clients experienced a 16% reduction in subsequent police contacts and a 16% reduction in subsequent arrests in the year following a STAR encounter, with impacts two to three times larger for people who had experienced homelessness (Gillespie et al., Urban Institute, 2026). Denver's Co-Responder Program, which pairs mental health clinicians with police officers for calls where police involvement remains necessary, showed similarly strong results: a 15% reduction in subsequent arrests. Despite these outcomes, STAR operates limited hours and responds to only about 45% of STAR-eligible calls due to insufficient van units — the program needs 9-10 concurrent units to meet current demand but operates just 6-7. This is the most successful public safety innovation Denver has made in decades, and it is chronically underfunded.
+The STAR program launched in 2020 and expanded citywide in 2022. As of September 2024, STAR van teams have responded to over 23,000 calls, with nearly 50,000 calls designated as STAR-eligible. A January 2026 Urban Institute evaluation - the first study to measure individual-level outcomes following alternative response anywhere in the country - found that STAR clients experienced a 16% reduction in subsequent police contacts and a 16% reduction in subsequent arrests in the year following a STAR encounter, with impacts two to three times larger for people who had experienced homelessness (Gillespie et al., Urban Institute, 2026). Denver's Co-Responder Program, which pairs mental health clinicians with police officers for calls where police involvement remains necessary, showed similarly strong results: a 15% reduction in subsequent arrests. Despite these outcomes, STAR operates limited hours and responds to only about 45% of STAR-eligible calls due to insufficient van units - the program needs 9-10 concurrent units to meet current demand but operates just 6-7. This is the most successful public safety innovation Denver has made in decades, and it is chronically underfunded.
 
 ### Who Opposes This (and Why)
 
-The Denver Police Protective Association (DPPA) is the primary opponent. Police unions consistently oppose oversight with teeth, budget reductions, and qualified immunity reform. The DPPA donates to city council candidates and mayoral campaigns. The Downtown Denver Partnership and some business improvement districts will raise concerns about perceived safety impacts. Counter: the evidence from every city that has invested in non-police crisis response shows equal or better outcomes. STAR's own track record — including a 2026 Urban Institute evaluation showing 16% reductions in subsequent arrests and police contacts — proves this.
+The Denver Police Protective Association (DPPA) is the primary opponent. Police unions consistently oppose oversight with teeth, budget reductions, and qualified immunity reform. The DPPA donates to city council candidates and mayoral campaigns. The Downtown Denver Partnership and some business improvement districts will raise concerns about perceived safety impacts. Counter: the evidence from every city that has invested in non-police crisis response shows equal or better outcomes. STAR's own track record - including a 2026 Urban Institute evaluation showing 16% reductions in subsequent arrests and police contacts - proves this.
 
 ## Our Solution
 
@@ -83,21 +83,21 @@ The Denver Police Protective Association (DPPA) is the primary opponent. Police 
 ### 2. STAR Program Expansion (Non-Police Crisis Response)
 
 - 24/7 coverage with sufficient van units to meet full demand (currently 6-7 units responding to 45% of eligible calls; Urban Institute analysis shows 9-10 concurrent units needed to meet current demand)
-- Mental health professionals and paramedics, without police — STAR van teams pair paramedics or EMTs with behavioral health professionals
+- Mental health professionals and paramedics, without police - STAR van teams pair paramedics or EMTs with behavioral health professionals
 - Strengthen the STAR Community Partner Network, which provides culturally responsive case management and follow-up services after the initial crisis response
-- Expand the Co-Responder Program, which pairs mental health clinicians with police officers for calls where police involvement remains necessary — both programs are proven to reduce subsequent arrests and police contacts (Urban Institute, 2026)
+- Expand the Co-Responder Program, which pairs mental health clinicians with police officers for calls where police involvement remains necessary - both programs are proven to reduce subsequent arrests and police contacts (Urban Institute, 2026)
 - 911 dispatchers retrained to triage calls appropriately; increase the share of behavioral health calls routed to non-police responders
 - Address the significant underrepresentation of Hispanic and Latino/a/x communities among STAR clients (12% of STAR clients vs. 28% of city population per the Urban Institute evaluation) through targeted outreach and culturally responsive service delivery
-- Disability-competent responders on every STAR team: trained in autism, intellectual disability, deafness/HOH communication, and psychiatric crisis — not just general "mental health" training. STAR teams should include or have rapid access to ASL interpreters and communication specialists
+- Disability-competent responders on every STAR team: trained in autism, intellectual disability, deafness/HOH communication, and psychiatric crisis - not just general "mental health" training. STAR teams should include or have rapid access to ASL interpreters and communication specialists
 - (See: Healthcare proposal for full STAR details; [Disability Rights & Inclusion](/platform/disability-rights))
 
 ### 3. Law Enforcement Assisted Diversion (LEAD) Expansion
 
-STAR handles calls where police don't need to respond at all. But what about when officers _do_ encounter someone committing a low-level offense — drug possession, sex work, trespassing, shoplifting driven by addiction? Right now, the default is arrest, booking, prosecution, and the revolving door of incarceration that solves nothing.
+STAR handles calls where police don't need to respond at all. But what about when officers _do_ encounter someone committing a low-level offense - drug possession, sex work, trespassing, shoplifting driven by addiction? Right now, the default is arrest, booking, prosecution, and the revolving door of incarceration that solves nothing.
 
-Denver piloted the LEAD program under Chief Paul Pazen, operating in DPD Districts 1, 2, and 6 with case management through Addiction Research and Treatment Services (ARTS) and the Empowerment Program. LEAD-trained officers redirect people to services instead of arresting them — voluntary, harm-reduction-based case management including housing, job training, substance use treatment, and mental health support. The pilot was funded at approximately $560K/year through state marijuana tax revenue, a fraction of what's needed for citywide impact.
+Denver piloted the LEAD program under Chief Paul Pazen, operating in DPD Districts 1, 2, and 6 with case management through Addiction Research and Treatment Services (ARTS) and the Empowerment Program. LEAD-trained officers redirect people to services instead of arresting them - voluntary, harm-reduction-based case management including housing, job training, substance use treatment, and mental health support. The pilot was funded at approximately $560K/year through state marijuana tax revenue, a fraction of what's needed for citywide impact.
 
-The evidence is strong. Seattle's LEAD program — the original, launched in 2011 — showed participants had **58-60% lower odds of arrest** compared to controls, along with significant improvements in housing stability and employment (Collins et al., _Evaluation and Program Planning_, 2017). LEAD now operates in over 80 cities nationally. The National Institute of Justice rates it as an evidence-based program.
+The evidence is strong. Seattle's LEAD program - the original, launched in 2011 - showed participants had **58-60% lower odds of arrest** compared to controls, along with significant improvements in housing stability and employment (Collins et al., _Evaluation and Program Planning_, 2017). LEAD now operates in over 80 cities nationally. The National Institute of Justice rates it as an evidence-based program.
 
 **Expand LEAD citywide:**
 
@@ -107,33 +107,33 @@ The evidence is strong. Seattle's LEAD program — the original, launched in 201
 - Data tracking: require demographic data on all LEAD referrals and declinations to monitor for racial disparities in who gets offered diversion vs. who gets arrested
 - Target: 2,000+ annual diversions from arrest to services within 3 years
 
-**Community-based referral pathways:** LEAD's national network has evolved — now branded "Let Everyone Advance with Dignity" — recognizing that police should not be the sole gatekeepers to diversion. Denver should develop parallel community referral pathways where outreach workers, business owners, and community members can connect people to LEAD case management directly, without police contact. This reduces the discretion gap where officer bias determines who gets a second chance and who gets a criminal record.
+**Community-based referral pathways:** LEAD's national network has evolved - now branded "Let Everyone Advance with Dignity" - recognizing that police should not be the sole gatekeepers to diversion. Denver should develop parallel community referral pathways where outreach workers, business owners, and community members can connect people to LEAD case management directly, without police contact. This reduces the discretion gap where officer bias determines who gets a second chance and who gets a criminal record.
 
-- Cross-reference: [Decriminalize & Heal](/platform/drug-policy) (LEAD is the operational bridge to full decriminalization — it works under current law, right now)
+- Cross-reference: [Decriminalize & Heal](/platform/drug-policy) (LEAD is the operational bridge to full decriminalization - it works under current law, right now)
 
 ### 4. Budget Reallocation: Phased Redirect to What Works
 
-Denver's police budget is approximately $300M/year. We propose a phased reallocation that starts with proven programs and scales based on demonstrated results — not ideology, but outcomes.
+Denver's police budget is approximately $300M/year. We propose a phased reallocation that starts with proven programs and scales based on demonstrated results - not ideology, but outcomes.
 
-**Phase 1 — Immediate (~8% / $25M/year):** Expand programs that are already working in Denver.
+**Phase 1 - Immediate (~8% / $25M/year):** Expand programs that are already working in Denver.
 
-- STAR and Co-Responder programs: 24/7 coverage with sufficient van units to meet full demand ($20M) — Urban Institute evaluation shows 16% reduction in arrests and police contacts; program currently meets only 45% of eligible call demand
-- LEAD diversion: citywide expansion ($5M) — Denver pilot already operating in 3 districts; Seattle evaluation shows 58% recidivism reduction
+- STAR and Co-Responder programs: 24/7 coverage with sufficient van units to meet full demand ($20M) - Urban Institute evaluation shows 16% reduction in arrests and police contacts; program currently meets only 45% of eligible call demand
+- LEAD diversion: citywide expansion ($5M) - Denver pilot already operating in 3 districts; Seattle evaluation shows 58% recidivism reduction
 
-**Phase 2 — Years 2-3 (~15% / $45M/year):** Add evidence-backed prevention programs.
+**Phase 2 - Years 2-3 (~15% / $45M/year):** Add evidence-backed prevention programs.
 
-- Community violence intervention ($15M) — Cure Violence model: 50-75% reductions in targeted areas (Oakland, Richmond, Glasgow)
-- Substance use treatment on demand ($10M) — eliminate waitlists; MAT expansion; every dollar here reduces property crime driven by addiction
+- Community violence intervention ($15M) - Cure Violence model: 50-75% reductions in targeted areas (Oakland, Richmond, Glasgow)
+- Substance use treatment on demand ($10M) - eliminate waitlists; MAT expansion; every dollar here reduces property crime driven by addiction
 - Phase 1 programs continue at full funding ($25M)
 
-**Phase 3 — Years 3-4 (~25% / $75M/year):** Full reallocation, contingent on Phase 1-2 outcomes.
+**Phase 3 - Years 3-4 (~25% / $75M/year):** Full reallocation, contingent on Phase 1-2 outcomes.
 
-- Youth services and after-school programs ($15M) — youth employment programs reduce violent crime participation by 35-45% (University of Chicago Crime Lab)
+- Youth services and after-school programs ($15M) - youth employment programs reduce violent crime participation by 35-45% (University of Chicago Crime Lab)
 - Restorative justice programs ($10M)
-- Affordable housing contributions ($5M) — cross-funded with housing budget
+- Affordable housing contributions ($5M) - cross-funded with housing budget
 - Phase 1-2 programs continue at full funding ($45M)
 
-**Why phased?** "Cut the police budget by 25%" is a headline that writes attack ads. "Expand two programs that are already working in Denver, then scale based on results" is a mandate. The destination is the same — $75M redirected to community safety infrastructure — but the path builds public trust and political durability. Each phase is evaluated publicly before the next begins. If something isn't working, we adjust. If it is, we have the evidence to go further.
+**Why phased?** "Cut the police budget by 25%" is a headline that writes attack ads. "Expand two programs that are already working in Denver, then scale based on results" is a mandate. The destination is the same - $75M redirected to community safety infrastructure - but the path builds public trust and political durability. Each phase is evaluated publicly before the next begins. If something isn't working, we adjust. If it is, we have the evidence to go further.
 
 ### 5. End Qualified Immunity (City Level)
 
@@ -150,7 +150,7 @@ Denver's police budget is approximately $300M/year. We propose a phased realloca
 - De-escalation required before any use of force
 - Body cameras mandatory and always on during encounters. Footage publicly accessible within 72 hours of any use-of-force incident
 - **Disability-specific protections:** People with disabilities are [more than twice as likely](https://rudermanfoundation.org/white_papers/media-coverage-of-law-enforcement-use-of-force-and-disability/) to be killed by police (Ruderman Family Foundation, 2016). Deaf, autistic, intellectually disabled, and people experiencing psychiatric crises are disproportionately subjected to use of force when officers misread disability-related behavior as noncompliance or threat. Denver must require:
-  - Mandatory disability awareness and de-escalation training for all officers, with specific modules on autism, deafness/hard of hearing, intellectual disability, and psychiatric crisis — distinct from general mental health CIT training
+  - Mandatory disability awareness and de-escalation training for all officers, with specific modules on autism, deafness/hard of hearing, intellectual disability, and psychiatric crisis - distinct from general mental health CIT training
   - Officers must attempt to identify disability before escalating force. Failure to do so is a policy violation subject to discipline
   - DPD partnership with Denver's Commission for People with Disabilities on training curriculum and annual review
   - Cross-reference: [Disability Rights & Inclusion](/platform/disability-rights)
@@ -164,14 +164,14 @@ Denver's police budget is approximately $300M/year. We propose a phased realloca
 
 ### 8. Root-Cause Crime Reduction: The Denver Community Safety Investment
 
-The single most effective crime reduction strategy is addressing the conditions that produce crime. This is not soft-on-crime idealism — it is what the evidence consistently shows works better than any policing strategy alone.
+The single most effective crime reduction strategy is addressing the conditions that produce crime. This is not soft-on-crime idealism - it is what the evidence consistently shows works better than any policing strategy alone.
 
 **Youth Opportunity & Violence Prevention:**
 
 - **Summer and year-round youth employment guarantee** for all Denver residents aged 14-24 in high-crime neighborhoods. Youth employment programs reduce violent crime participation by 35-45% among participants (University of Chicago Crime Lab, READI Chicago evaluation). Cost: $15M/year. Return: incalculable
 - **After-school and evening programming** in every neighborhood with above-average youth violence, open until 10 PM. Crime data consistently shows youth violence peaks between 3-10 PM on weekdays. Programs that fill this window reduce youth crime by 30-40% (Brookings Institution, 2022)
-- **Mentorship programs** pairing at-risk youth with trained credible messengers from their own communities — people who have lived experience and community trust. Not Big Brothers Big Sisters (which works for different populations), but targeted intervention for youth at highest risk of violence involvement
-- **Restorative justice in schools:** Replace school suspensions and expulsions (which push youth into the criminal legal system) with restorative practices. Denver Public Schools has piloted this — expand it citywide with dedicated funding
+- **Mentorship programs** pairing at-risk youth with trained credible messengers from their own communities - people who have lived experience and community trust. Not Big Brothers Big Sisters (which works for different populations), but targeted intervention for youth at highest risk of violence involvement
+- **Restorative justice in schools:** Replace school suspensions and expulsions (which push youth into the criminal legal system) with restorative practices. Denver Public Schools has piloted this - expand it citywide with dedicated funding
 
 **Housing Stability = Safety:**
 
@@ -192,13 +192,13 @@ The single most effective crime reduction strategy is addressing the conditions 
 - **Lighting improvements** in high-crime corridors and public spaces. A randomized controlled trial in New York City found that improved street lighting reduced index crimes by 36% in public housing developments (NYU Furman Center, 2019)
 - **Vacant lot remediation:** Philadelphia's vacant lot cleanup program reduced gun violence by 29% in surrounding areas (University of Pennsylvania, 2018). Denver has thousands of vacant and neglected lots
 - **Natural surveillance:** Design public spaces, transit stops, and pedestrian corridors to maximize visibility and activity. Active, well-maintained public spaces deter crime; abandoned, dark spaces invite it
-- **Community gardens and greening:** Urban greening programs consistently reduce crime in surrounding blocks (Kondo et al., 2016). This is not metaphor — visible community investment signals that someone cares about the space
+- **Community gardens and greening:** Urban greening programs consistently reduce crime in surrounding blocks (Kondo et al., 2016). This is not metaphor - visible community investment signals that someone cares about the space
 
 **Focused Deterrence (for Serious Violent Crime):**
 
-- **Group Violence Intervention (GVI)** / Operation Ceasefire model: Identify the small number of individuals and groups driving the majority of shootings and homicides. Offer them a choice: services and support (jobs, housing, treatment, mentoring) or focused law enforcement attention. This is not mass incarceration — it is precise intervention targeting the 0.5% of the population responsible for the majority of gun violence
+- **Group Violence Intervention (GVI)** / Operation Ceasefire model: Identify the small number of individuals and groups driving the majority of shootings and homicides. Offer them a choice: services and support (jobs, housing, treatment, mentoring) or focused law enforcement attention. This is not mass incarceration - it is precise intervention targeting the 0.5% of the population responsible for the majority of gun violence
 - Oakland's Ceasefire program reduced homicides by 50%. Boston's original Ceasefire cut youth homicides by 63%. The evidence is among the strongest in all of criminology
-- Denver should implement GVI through a partnership between the city, community organizations, and (reformed) law enforcement — with community organizations leading, not police
+- Denver should implement GVI through a partnership between the city, community organizations, and (reformed) law enforcement - with community organizations leading, not police
 
 ### 9. End Mass Surveillance Without Democratic Oversight
 
@@ -244,7 +244,7 @@ Our demands:
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Oakland, CA**       | Operation Ceasefire / Group Violence Intervention: identified individuals driving gun violence, offered services + focused enforcement.                                                             | Homicides dropped 50% (2012-2018). Shootings declined by similar margins. Most effective gun violence reduction program evaluated in the US.                                       |
 | **Glasgow, Scotland** | Violence Reduction Unit (2005): treated violence as a public health epidemic. Offered job training, mentoring, addiction treatment to those at highest risk. Worked with, not against, communities. | Murder rate dropped 60% over 10 years. Knife crime plummeted. Glasgow went from "murder capital of Europe" to a global model for violence reduction.                               |
-| **Bogotá, Colombia**  | Mayor Antanas Mockus (1995-2003): invested in public space, transit, education, culture. Restricted alcohol sales during peak violence hours. Community-based conflict resolution.                  | Homicide rate dropped 70%. From one of the most violent cities on Earth to a model of urban transformation — without militarized policing.                                         |
+| **Bogotá, Colombia**  | Mayor Antanas Mockus (1995-2003): invested in public space, transit, education, culture. Restricted alcohol sales during peak violence hours. Community-based conflict resolution.                  | Homicide rate dropped 70%. From one of the most violent cities on Earth to a model of urban transformation - without militarized policing.                                         |
 | **Richmond, CA**      | Office of Neighborhood Safety: city employees (not police) work directly with people most likely to shoot or be shot. Paid fellowships for participants who engage with services.                   | Gun homicides dropped 75% (2007-2019) in a city that tried everything else first. Cost: $3M/year. Savings in emergency healthcare, prosecution, and incarceration: many multiples. |
 | **Philadelphia, PA**  | Vacant lot remediation: cleaned up abandoned lots with grass, trees, fencing, and maintenance. Randomized controlled trial by University of Pennsylvania.                                           | Gun violence dropped 29% in surrounding areas. Overall crime dropped significantly. Cost: minimal. Evidence quality: gold standard (RCT).                                          |
 
@@ -269,12 +269,12 @@ This is primarily a budget reallocation, not new spending. The phased approach (
 - Group Violence Intervention program: $3-5M/year
 - Returning citizen housing support: $5-8M/year (cross-funded with housing budget)
 
-**The math on crime prevention:** A single homicide costs society approximately $1.5M in criminal justice, emergency healthcare, lost productivity, and community impact (National Institute of Justice, 2024). Preventing 20 homicides per year saves $30M. A single incarceration costs $40,000-60,000/year. Preventing 500 incarcerations through diversion saves $20-30M. Prevention is not just more humane — it is dramatically cheaper.
+**The math on crime prevention:** A single homicide costs society approximately $1.5M in criminal justice, emergency healthcare, lost productivity, and community impact (National Institute of Justice, 2024). Preventing 20 homicides per year saves $30M. A single incarceration costs $40,000-60,000/year. Preventing 500 incarcerations through diversion saves $20-30M. Prevention is not just more humane - it is dramatically cheaper.
 
 ## Frequently Asked Questions
 
 **"Won't reducing police funding increase crime?"**
-Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. Our phased approach starts with programs already proven in Denver — STAR (16% reduction in subsequent arrests and police contacts per the 2026 Urban Institute evaluation), the Co-Responder Program (15% reduction in subsequent arrests), and LEAD — and scales based on demonstrated outcomes. We're not asking anyone to take a leap of faith. We're asking them to look at what's already working and fund it properly.
+Research by the Brennan Center for Justice (2020) found that increased police spending explains only 0-5% of the variation in crime rates. What does reduce crime: housing stability, employment, mental health treatment, youth services, and community investment. Our phased approach starts with programs already proven in Denver - STAR (16% reduction in subsequent arrests and police contacts per the 2026 Urban Institute evaluation), the Co-Responder Program (15% reduction in subsequent arrests), and LEAD - and scales based on demonstrated outcomes. We're not asking anyone to take a leap of faith. We're asking them to look at what's already working and fund it properly.
 
 **"Who responds to violent crime?"**
 Police. This plan doesn't eliminate police. It refocuses them on violent crime and removes responsibilities they're not trained for. A smaller, better-trained, better-supervised police force focused on actual public safety threats.
@@ -283,13 +283,13 @@ Police. This plan doesn't eliminate police. It refocuses them on violent crime a
 Doctors carry malpractice insurance. Lawyers can be disbarred. Every profession except policing faces personal accountability for professional misconduct. This is not extreme; it's the baseline that every other profession already meets.
 
 **"This sounds soft on crime."**
-This is the opposite of soft on crime. "Tough on crime" has been US policy for 50 years, and we have the highest incarceration rate on Earth with recidivism rates above 75%. That is a policy that has failed by every metric. Our approach — evidence-based investment in what actually reduces crime — has produced 50-75% reductions in violence everywhere it has been properly implemented (Oakland, Glasgow, Bogotá, Richmond). Being serious about crime means following the evidence, not repeating failed strategies.
+This is the opposite of soft on crime. "Tough on crime" has been US policy for 50 years, and we have the highest incarceration rate on Earth with recidivism rates above 75%. That is a policy that has failed by every metric. Our approach - evidence-based investment in what actually reduces crime - has produced 50-75% reductions in violence everywhere it has been properly implemented (Oakland, Glasgow, Bogotá, Richmond). Being serious about crime means following the evidence, not repeating failed strategies.
 
 **"What about Denver's current crime trends?"**
 Denver's crime data is mixed. Violent crime peaked in 2022 and has been declining. Property crime remains elevated, particularly auto theft. Neither trend correlates with police budget levels. Denver's police budget has increased consistently while crime rates have fluctuated independently. What does correlate with crime: housing instability, poverty, substance use, and lack of mental health services. That is exactly where we propose redirecting resources.
 
 **"What about property crime specifically?"**
-Property crime — especially auto theft and retail theft — is primarily driven by substance use disorders and poverty. You cannot arrest your way out of addiction. Denver's auto theft rate won't decline meaningfully until people have treatment access, stable housing, and economic alternatives. Our proposal to fund on-demand substance use treatment and housing support directly targets the conditions that drive property crime. Meanwhile, environmental design (better lighting, lot remediation) and focused deterrence address organized theft rings.
+Property crime - especially auto theft and retail theft - is primarily driven by substance use disorders and poverty. You cannot arrest your way out of addiction. Denver's auto theft rate won't decline meaningfully until people have treatment access, stable housing, and economic alternatives. Our proposal to fund on-demand substance use treatment and housing support directly targets the conditions that drive property crime. Meanwhile, environmental design (better lighting, lot remediation) and focused deterrence address organized theft rings.
 
 **"Don't Flock cameras reduce crime and recover stolen vehicles?"**
 Denver attributed 352 arrests and 250 recovered vehicles to Flock cameras, but auto thefts dropped from 12,000 to 8,550 during a period when auto thefts declined nationally regardless of camera presence. Independent research finds no consistent evidence that ALPR camera networks reduce crime (Forbes, 2024). What Flock cameras verifiably do: photograph 2 million vehicles per month, create a mass tracking database of Denver residents' movements, and share that data with ICE over 1,400 times without public knowledge. The question is whether the marginal enforcement benefit justifies a surveillance system the city council unanimously rejected, the mayor imposed unilaterally, and ICE exploited for immigration enforcement in a sanctuary city.

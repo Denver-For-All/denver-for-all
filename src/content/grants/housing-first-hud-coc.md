@@ -1,6 +1,6 @@
 ---
-title: 'HUD Continuum of Care — Denver Housing First Permanent Supportive Housing'
-titleEs: 'HUD Continuum of Care — Vivienda de Apoyo Permanente de Vivienda Primero en Denver'
+title: 'HUD Continuum of Care - Denver Housing First Permanent Supportive Housing'
+titleEs: 'HUD Continuum of Care - Vivienda de Apoyo Permanente de Vivienda Primero en Denver'
 summary: 'HUD CoC program grant template for 500 units of permanent supportive housing and rapid rehousing services to reduce chronic homelessness in Denver using the Housing First model.'
 summaryEs: 'Plantilla de subvención del programa HUD CoC para 500 unidades de vivienda de apoyo permanente y servicios de realojamiento rápido para reducir la falta de vivienda crónica en Denver utilizando el modelo de Vivienda Primero.'
 policySlug: 'housing-first'
@@ -15,7 +15,7 @@ status: 'draft'
 
 ### A. Project Description
 
-**Project Title:** Denver Housing First — Permanent Supportive Housing & Rapid Rehousing Expansion
+**Project Title:** Denver Housing First - Permanent Supportive Housing & Rapid Rehousing Expansion
 
 **Applicant:** City and County of Denver, Department of Housing Stability (HOST), in coordination with the Metro Denver Homeless Initiative (MDHI) as Collaborative Applicant
 
@@ -23,7 +23,7 @@ status: 'draft'
 
 **Project Duration:** 36 months
 
-**Project Summary:** The City and County of Denver requests $17 million in Continuum of Care program funding to establish 300 new permanent supportive housing (PSH) units and provide rapid rehousing (RRH) services for 200 households annually, reducing chronic homelessness through the evidence-based Housing First model. Approximately 7,500 people experience homelessness in Denver on any given night, with 9,065 across the metro area according to the 2024 MDHI Point-in-Time Count. Denver currently operates roughly 1,300 PSH units — far below documented need. The existing crisis-response system spends $40,000-$80,000 per person per year cycling individuals through emergency rooms, jails, and shelters. Permanent supportive housing costs $15,000-$25,000 per person per year while achieving 80-90% housing retention rates. This project will generate net savings of $36,000-$62,000 per person per year while delivering stable housing and wraparound services to Denver's most vulnerable residents.
+**Project Summary:** The City and County of Denver requests $17 million in Continuum of Care program funding to establish 300 new permanent supportive housing (PSH) units and provide rapid rehousing (RRH) services for 200 households annually, reducing chronic homelessness through the evidence-based Housing First model. Approximately 7,500 people experience homelessness in Denver on any given night, with 9,065 across the metro area according to the 2024 MDHI Point-in-Time Count. Denver currently operates roughly 1,300 PSH units - far below documented need. The existing crisis-response system spends $40,000-$80,000 per person per year cycling individuals through emergency rooms, jails, and shelters. Permanent supportive housing costs $15,000-$25,000 per person per year while achieving 80-90% housing retention rates. This project will generate net savings of $36,000-$62,000 per person per year while delivering stable housing and wraparound services to Denver's most vulnerable residents.
 
 ### B. Location & Context
 
@@ -76,15 +76,15 @@ Denver faces a severe and growing homelessness crisis that the current system of
 
 - Emergency-system cycling (ER visits, jail bookings, police contacts, shelter stays) costs $40,000-$80,000 per person per year
 - A single chronically homeless individual may generate over $100,000 in annual public costs across systems
-- These expenditures produce no lasting housing outcomes — individuals cycle back into homelessness upon discharge
+- These expenditures produce no lasting housing outcomes - individuals cycle back into homelessness upon discharge
 
 **The Housing First Evidence Base:**
 
 - Housing First programs achieve 80-90% housing retention rates, compared to 30-50% for Treatment First approaches that require sobriety or program compliance as preconditions
-- Finland adopted Housing First nationally and achieved a 35% reduction in homelessness — the only EU country with declining homelessness
+- Finland adopted Housing First nationally and achieved a 35% reduction in homelessness - the only EU country with declining homelessness
 - Houston housed 25,000+ individuals since 2012, reducing homelessness by 63% using coordinated Housing First strategies
 - Medicine Hat, Canada achieved functional zero homelessness, housing every person within 10 days of identification
-- Permanent supportive housing costs $15,000-$25,000 per person per year — generating net savings of $36,000-$62,000 per person per year compared to emergency-system cycling
+- Permanent supportive housing costs $15,000-$25,000 per person per year - generating net savings of $36,000-$62,000 per person per year compared to emergency-system cycling
 
 ### D. Project Activities & Deliverables
 
@@ -105,7 +105,7 @@ Denver faces a severe and growing homelessness crisis that the current system of
 - Progressive engagement model: calibrate assistance level to household need, stepping down support as stability increases
 - Prioritize families with children and individuals with shorter homelessness histories for rapid rehousing track
 
-**Activity 3: Wraparound Services — Case Management, Mental Health & Addiction Treatment ($3,000,000)**
+**Activity 3: Wraparound Services - Case Management, Mental Health & Addiction Treatment ($3,000,000)**
 
 - Intensive case management at 1:15 staff-to-client ratio for PSH residents
 - On-site behavioral health services including licensed clinical social workers and psychiatric consultation
@@ -137,8 +137,8 @@ Denver faces a severe and growing homelessness crisis that the current system of
 | ---------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------- |
 | **Planning & Procurement**   | Months 1-6   | Execute subrecipient agreements, finalize site selection, hire program staff, launch coordinated entry upgrades |
 | **Acquisition & Conversion** | Months 4-14  | Acquire properties, complete renovations, obtain certificates of occupancy, begin PSH lease-up                  |
-| **Full Operations — Year 1** | Months 7-18  | 150 PSH units occupied, 200 RRH households served, wraparound services fully operational                        |
-| **Full Operations — Year 2** | Months 13-30 | All 300 PSH units occupied, second cohort of 200 RRH households, midpoint evaluation complete                   |
+| **Full Operations - Year 1** | Months 7-18  | 150 PSH units occupied, 200 RRH households served, wraparound services fully operational                        |
+| **Full Operations - Year 2** | Months 13-30 | All 300 PSH units occupied, second cohort of 200 RRH households, midpoint evaluation complete                   |
 | **Stabilization & Closeout** | Months 28-36 | Transition to sustainable funding streams, final evaluation, program continuation planning                      |
 
 ### F. Alignment with HUD CoC Program Goals
@@ -162,7 +162,7 @@ Denver has made substantial local investments in addressing homelessness:
 - **Metro Denver Homeless Initiative (MDHI):** Regional collaborative applicant administering the coordinated entry system and HMIS for CO-503
 - **Dedicated local funding** through the city's general fund, state grants, and philanthropic partnerships supporting existing PSH and RRH programs
 
-The requested federal investment of $17 million complements Denver's existing infrastructure and local funding commitments. This is not a request to build a new system — it is a request to scale a proven model within a coordinated local ecosystem that is already operating but lacks the capacity to meet demand.
+The requested federal investment of $17 million complements Denver's existing infrastructure and local funding commitments. This is not a request to build a new system - it is a request to scale a proven model within a coordinated local ecosystem that is already operating but lacks the capacity to meet demand.
 
 ## Budget Summary
 
@@ -174,8 +174,8 @@ The requested federal investment of $17 million complements Denver's existing in
 | Coordinated Entry & Data Infrastructure                              | $1,000,000      | 6%         |
 | Program Evaluation                                                   | $1,000,000      | 6%         |
 | **Total Federal Request**                                            | **$17,000,000** | **100%**   |
-| Local Match (HOST, Social Housing Authority, philanthropic)          | $4,250,000      | —          |
-| **Total Project Investment**                                         | **$21,250,000** | —          |
+| Local Match (HOST, Social Housing Authority, philanthropic)          | $4,250,000      | - |
+| **Total Project Investment**                                         | **$21,250,000** | - |
 
 _Note: HUD CoC program requires a minimum 25% match for most project types. The $4.25M local match represents a 25% match against the federal request, sourced from HOST operating funds, Social Housing Authority capital commitments, and philanthropic contributions._
 
@@ -212,11 +212,11 @@ All data sourced from the Denver For All [Housing First](/platform/housing-first
 This grant proposal template is designed for city staff, council members, and community advocates to adapt for an actual HUD CoC application:
 
 1. **Check the current CoC NOFO** at [HUD Exchange](https://www.hudexchange.info/programs/coc/) and [grants.gov](https://www.grants.gov/) for the current funding cycle's priorities, deadlines, and scoring criteria
-2. **Coordinate with MDHI** as the collaborative applicant for the CO-503 Continuum of Care — all CoC project applications must be submitted through the collaborative application process and ranked by the local CoC board
+2. **Coordinate with MDHI** as the collaborative applicant for the CO-503 Continuum of Care - all CoC project applications must be submitted through the collaborative application process and ranked by the local CoC board
 3. **Refine population data** using the most recent Point-in-Time Count, Housing Inventory Count (HIC), and HMIS data from MDHI
 4. **Adjust budget** based on current Denver real estate and construction costs, staffing rates, and service delivery estimates from HOST and provider partners
 5. **Add required federal forms** including SF-424, project application (new or renewal), budget detail, and all HUD-required certifications
-6. **Tailor the project narrative** to the specific NOFO scoring criteria — HUD CoC applications are scored competitively, and narrative responses must directly address each criterion
+6. **Tailor the project narrative** to the specific NOFO scoring criteria - HUD CoC applications are scored competitively, and narrative responses must directly address each criterion
 7. **Document match sources** with letters of commitment from local funders, city budget appropriations, and in-kind contribution valuations
 
 Questions or want to collaborate on this proposal? [Contact Denver For All](/take-action) or email your council representative.

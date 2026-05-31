@@ -8,7 +8,7 @@ Những ngôi nhà trống trong các khu dân cư có người ở thu hút t�
 
 Denver hiện **không có thuế đối với nhà bỏ trống hoặc hình phạt đối với các bất động sản dân cư bị bỏ trống**. Cục Điều tra Dân số Hoa Kỳ, thông qua Khảo sát Cộng đồng Hoa Kỳ (2022), ước tính tỷ lệ nhà ở bỏ trống của Denver vào khoảng 5-7%, tương đương với 5.000-8.000 căn nhà bỏ trống. Một số căn trong số này đang trong quá trình "bán" hoặc "cho thuê" thông thường, nhưng một số lượng đáng kể bị bỏ trống để đầu cơ hoặc đơn giản là bị bỏ hoang.
 
-**Lưu ý pháp lý quan trọng: TABOR.** Đạo luật về Quyền của Người nộp thuế của Colorado (Điều X, Mục 20 của Hiến pháp Colorado) yêu cầu cử tri chấp thuận đối với bất kỳ loại thuế mới nào. Thuế nhà ở bỏ trống ở Denver sẽ cần phải đưa ra trước cử tri như một biện pháp trưng cầu dân ý. Đây không phải là một rào cản -- mà là một quá trình dân chủ. Cử tri Denver đã nhiều lần chấp thuận các biện pháp trưng cầu dân ý cho các mục đích tiến bộ (băng thông rộng đô thị năm 2018, Dự luật 123 cho nhà ở năm 2022). Thuế nhà ở bỏ trống với doanh thu dành cho nhà ở giá cả phải chăng là một đề xuất trưng cầu dân ý mạnh mẽ.
+**Lưu ý pháp lý quan trọng: TABOR.** Đạo luật về Quyền của Người nộp thuế của Colorado (Điều X, Mục 20 của Hiến pháp Colorado) yêu cầu cử tri chấp thuận đối với bất kỳ loại thuế mới nào. Thuế nhà ở bỏ trống ở Denver sẽ cần phải đưa ra trước cử tri như một biện pháp trưng cầu dân ý. Đây không phải là một rào cản - mà là một quá trình dân chủ. Cử tri Denver đã nhiều lần chấp thuận các biện pháp trưng cầu dân ý cho các mục đích tiến bộ (băng thông rộng đô thị năm 2018, Dự luật 123 cho nhà ở năm 2022). Thuế nhà ở bỏ trống với doanh thu dành cho nhà ở giá cả phải chăng là một đề xuất trưng cầu dân ý mạnh mẽ.
 
 ## Giải Pháp Của Chúng Tôi
 

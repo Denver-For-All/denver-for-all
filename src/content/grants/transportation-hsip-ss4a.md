@@ -1,6 +1,6 @@
 ---
-title: 'HSIP & Safe Streets for All — Denver Vision Zero Implementation'
-titleEs: 'HSIP y Calles Seguras para Todos — Implementación de Visión Cero en Denver'
+title: 'HSIP & Safe Streets for All - Denver Vision Zero Implementation'
+titleEs: 'HSIP y Calles Seguras para Todos - Implementación de Visión Cero en Denver'
 summary: "Combined HSIP/SS4A implementation grant template for intersection redesign, protected bike lanes, and automated speed enforcement on Denver's High Injury Network."
 summaryEs: 'Plantilla de subvención combinada HSIP/SS4A para el rediseño de intersecciones, ciclovías protegidas y control automatizado de velocidad en la Red de Alta Lesividad de Denver.'
 policySlug: 'transportation'
@@ -15,7 +15,7 @@ status: 'draft'
 
 ### A. Project Description
 
-**Project Title:** Denver Vision Zero Implementation — High Injury Network Intersection Redesign, Protected Bike Lanes, and Automated Speed Enforcement
+**Project Title:** Denver Vision Zero Implementation - High Injury Network Intersection Redesign, Protected Bike Lanes, and Automated Speed Enforcement
 
 **Applicant:** City and County of Denver, Department of Transportation & Infrastructure (DOTI)
 
@@ -23,7 +23,7 @@ status: 'draft'
 
 **Project Duration:** 36 months
 
-**Project Summary:** The City and County of Denver requests $18 million in combined Highway Safety Improvement Program and Safe Streets for All Implementation Grant funding to redesign the city's 20 deadliest intersections, build protected bike lanes on high-crash corridors, deploy automated speed enforcement in school zones, and upgrade pedestrian signals across Denver's High Injury Network. Denver adopted Vision Zero in 2017 with a goal of zero traffic deaths by 2030. Fatalities have increased every year since adoption. In 2025, 93 people died on Denver streets — the deadliest year since 2013 — including 35 pedestrians, a 34% increase over 2024. Pedestrians represent approximately 5% of Denver commuters but 33% of traffic fatalities, making them roughly 30 times more likely to die than vehicle occupants. The High Injury Network has been identified but redesign has been slow, automated enforcement remains limited, and the city's 254 miles of bike lanes contain critical gaps on the corridors where crashes are concentrated. This project targets the specific intersections, corridors, and neighborhoods where people are dying and delivers proven, evidence-based safety treatments at the scale required to reverse Denver's worsening fatality trend.
+**Project Summary:** The City and County of Denver requests $18 million in combined Highway Safety Improvement Program and Safe Streets for All Implementation Grant funding to redesign the city's 20 deadliest intersections, build protected bike lanes on high-crash corridors, deploy automated speed enforcement in school zones, and upgrade pedestrian signals across Denver's High Injury Network. Denver adopted Vision Zero in 2017 with a goal of zero traffic deaths by 2030. Fatalities have increased every year since adoption. In 2025, 93 people died on Denver streets - the deadliest year since 2013 - including 35 pedestrians, a 34% increase over 2024. Pedestrians represent approximately 5% of Denver commuters but 33% of traffic fatalities, making them roughly 30 times more likely to die than vehicle occupants. The High Injury Network has been identified but redesign has been slow, automated enforcement remains limited, and the city's 254 miles of bike lanes contain critical gaps on the corridors where crashes are concentrated. This project targets the specific intersections, corridors, and neighborhoods where people are dying and delivers proven, evidence-based safety treatments at the scale required to reverse Denver's worsening fatality trend.
 
 ### B. Location & Context
 
@@ -61,7 +61,7 @@ Denver's traffic safety data documents a crisis that is worsening, not improving
 
 **High Injury Network and Infrastructure Deficiency:**
 
-- Denver has identified its High Injury Network — the subset of streets where fatal and serious injury crashes are concentrated — but has been slow to redesign these corridors
+- Denver has identified its High Injury Network - the subset of streets where fatal and serious injury crashes are concentrated - but has been slow to redesign these corridors
 - Automated speed enforcement remains limited despite proven effectiveness in reducing speeds and fatalities without racial profiling
 - 254 miles of bike lanes exist, but critical gaps persist on high-crash corridors, particularly in east Denver, Capitol Hill, Montbello, and Far Northeast
 - Denver's Vision Zero Action Plan (adopted 2017, updated 2022) has not been matched with capital investment at the scale required to reduce fatalities
@@ -74,7 +74,7 @@ Denver's traffic safety data documents a crisis that is worsening, not improving
 - Denver Moves: Bikes plan (targeting 230+ new miles of bikeways)
 - DOTI Sidewalk Implementation Plan (2025)
 
-Denver's trajectory is moving decisively away from its Vision Zero goal. Annual traffic deaths have risen from 51 at the time of Vision Zero adoption to 93 in 2025 — an 82% increase. Without a major acceleration of proven safety interventions on the corridors where people are dying, Denver will not approach zero deaths by 2030 or any foreseeable date.
+Denver's trajectory is moving decisively away from its Vision Zero goal. Annual traffic deaths have risen from 51 at the time of Vision Zero adoption to 93 in 2025 - an 82% increase. Without a major acceleration of proven safety interventions on the corridors where people are dying, Denver will not approach zero deaths by 2030 or any foreseeable date.
 
 ### D. Project Activities & Deliverables
 
@@ -100,7 +100,7 @@ Denver's trajectory is moving decisively away from its Vision Zero goal. Annual 
 **Activity 3: Automated Speed Enforcement in School Zones ($2,000,000)**
 
 - Deploy automated speed enforcement cameras in 30-40 school zones, prioritized by pedestrian crash history and proximity to High Injury Network corridors
-- Prioritize schools in Montbello, Green Valley Ranch, Far Northeast, Westwood, Elyria-Swansea, and Globeville — neighborhoods with the highest child pedestrian injury rates
+- Prioritize schools in Montbello, Green Valley Ranch, Far Northeast, Westwood, Elyria-Swansea, and Globeville - neighborhoods with the highest child pedestrian injury rates
 - Include a 30-day warning period at each new installation before citations are issued
 - Revenue from citations to be dedicated to a Safe Routes to School fund for additional safety improvements
 - Ensure equitable implementation: no vehicle impoundment or license suspension for unpaid fines; sliding-scale fine structure based on income where permitted by state law
@@ -150,7 +150,7 @@ This project advances both the Highway Safety Improvement Program and Safe Stree
 
 1. **Carries out a comprehensive safety action plan:** Implements specific, high-priority elements of Denver's Vision Zero Action Plan on the corridors where fatalities are concentrated
 2. **Addresses identified safety needs through infrastructure investment:** Targets the intersections, corridors, and school zones with the highest documented crash rates
-3. **Incorporates equity:** Prioritizes Montbello, Green Valley Ranch, Far Northeast, and Westwood — the city's most transportation-underserved neighborhoods, which are disproportionately low-income communities of color bearing the greatest burden of traffic violence
+3. **Incorporates equity:** Prioritizes Montbello, Green Valley Ranch, Far Northeast, and Westwood - the city's most transportation-underserved neighborhoods, which are disproportionately low-income communities of color bearing the greatest burden of traffic violence
 4. **Integrates Safe System approach:** Addresses multiple Safe System elements: safe roads (intersection redesign, protected bike lanes), safe speeds (automated enforcement, signal timing), safe road users (community engagement, school zone protections), and post-crash care (reduced crash severity through speed reduction and conflict elimination)
 5. **Demonstrates sustainability:** Automated enforcement generates ongoing revenue for maintenance; intersection redesigns are permanent infrastructure; protected bike lanes encourage mode shift reducing long-term crash exposure
 
@@ -164,10 +164,10 @@ This project advances both the Highway Safety Improvement Program and Safe Stree
 | Pedestrian Signal Improvements (High Injury Network)  | $2,000,000      | 11%        |
 | Project Management, Engagement & Evaluation           | $1,000,000      | 6%         |
 | **Total Federal Request**                             | **$18,000,000** | **100%**   |
-| Local Match (DOTI capital budget + Vision Zero funds) | $5,400,000      | —          |
-| **Total Project Investment**                          | **$23,400,000** | —          |
+| Local Match (DOTI capital budget + Vision Zero funds) | $5,400,000      | - |
+| **Total Project Investment**                          | **$23,400,000** | - |
 
-**Note on Federal/Local Split:** HSIP funds are available at a 90/10 federal/local match for safety projects on Federal-aid highways. SS4A Implementation Grants require a minimum 20% local match. The budget above assumes a blended 77/23 federal/local ratio. Denver's local match will be funded through existing DOTI capital budget allocations for Vision Zero and bike infrastructure, demonstrating that the city is supplementing — not replacing — local safety investment with federal funds. The city's annual Vision Zero and bike infrastructure spending of $5-10 million per year (DOTI capital budget) and the $13.4 million invested in bike lanes between 2018 and 2023 demonstrate sustained local commitment.
+**Note on Federal/Local Split:** HSIP funds are available at a 90/10 federal/local match for safety projects on Federal-aid highways. SS4A Implementation Grants require a minimum 20% local match. The budget above assumes a blended 77/23 federal/local ratio. Denver's local match will be funded through existing DOTI capital budget allocations for Vision Zero and bike infrastructure, demonstrating that the city is supplementing - not replacing - local safety investment with federal funds. The city's annual Vision Zero and bike infrastructure spending of $5-10 million per year (DOTI capital budget) and the $13.4 million invested in bike lanes between 2018 and 2023 demonstrate sustained local commitment.
 
 ## Expected Outcomes
 
@@ -202,7 +202,7 @@ All data sourced from the Denver For All [Transportation & Public Transit](/plat
 
 This grant proposal template is designed for city staff, council members, and community advocates to adapt for actual HSIP and SS4A applications:
 
-1. **Determine the appropriate funding stream.** HSIP funds flow through CDOT and are available on a rolling basis for safety projects on Federal-aid highways; coordinate with CDOT Region 1 for Denver-area applications. SS4A Implementation Grants are competitive and require an existing safety action plan; check [grants.gov](https://www.grants.gov/) and the [SS4A NOFO](https://www.transportation.gov/grants/ss4a) for current cycle deadlines and requirements. A combined or sequenced application strategy may be appropriate — HSIP for intersection and signal work on state routes, SS4A for bike lanes, school zone enforcement, and local street improvements.
+1. **Determine the appropriate funding stream.** HSIP funds flow through CDOT and are available on a rolling basis for safety projects on Federal-aid highways; coordinate with CDOT Region 1 for Denver-area applications. SS4A Implementation Grants are competitive and require an existing safety action plan; check [grants.gov](https://www.grants.gov/) and the [SS4A NOFO](https://www.transportation.gov/grants/ss4a) for current cycle deadlines and requirements. A combined or sequenced application strategy may be appropriate - HSIP for intersection and signal work on state routes, SS4A for bike lanes, school zone enforcement, and local street improvements.
 2. **Refine intersection and corridor data** using the latest Vision Zero Dashboard, DOTI crash reports, and High Injury Network maps. Update crash counts, fatality figures, and 85th percentile speed data with the most recent available year.
 3. **Adjust the budget** based on current construction cost estimates from DOTI procurement. Intersection redesign costs vary significantly by scope; confirm unit costs for curb extensions, raised crosswalks, signal equipment, and protected bike lane construction with DOTI engineering staff.
 4. **Update local match figures** to reflect current DOTI capital budget allocations for Vision Zero, bike infrastructure, and traffic safety.

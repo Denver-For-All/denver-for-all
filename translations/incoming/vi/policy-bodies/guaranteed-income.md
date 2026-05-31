@@ -72,7 +72,7 @@ Thanh toán tiền mặt trực tiếp, vô điều kiện cho cư dân có thu 
 Sự phản đối phổ biến nhất đối với thu nhập đảm bảo là mọi người sẽ ngừng làm việc. Dữ liệu cho thấy điều ngược lại:
 
 - **Stockton:** Việc làm toàn thời gian _tăng_ 12 điểm phần trăm trong số những người nhận so với 5 điểm trong nhóm đối chứng.
-- **Trên 20 nghiên cứu:** "Không có chương trình thí điểm nào cho thấy việc làm giảm." -- Sukhi Samra, Mayors for a Guaranteed Income.
+- **Trên 20 nghiên cứu:** "Không có chương trình thí điểm nào cho thấy việc làm giảm." - Sukhi Samra, Mayors for a Guaranteed Income.
 - **Cơ chế này rất trực quan:** Sự ổn định tài chính cho phép mọi người đầu tư vào việc tìm kiếm công việc tốt hơn thay vì chấp nhận lựa chọn tuyệt vọng đầu tiên. Nó cho phép cha mẹ đủ khả năng chi trả cho việc chăm sóc trẻ em và thực sự đi làm. Nó cho phép người lao động hoàn thành các chương trình đào tạo. Sự ổn định tiền mặt là một điều kiện tiên quyết cho sự di chuyển kinh tế, không phải là sự thay thế cho nó.
 
 ## Nguồn Tài Chính
@@ -98,7 +98,7 @@ Họ không làm vậy. Trên tất cả hơn 150 chương trình thí điểm, 
 Alaska đã phân phối séc doanh thu từ dầu mỏ cho mọi cư dân kể từ năm 1982 thông qua Permanent Dividend Fund (Quỹ Cổ Tức Vĩnh Viễn), trả $1.312 cho mỗi người vào năm 2024. Không ai gọi đó là chủ nghĩa xã hội. Thu nhập đảm bảo là một cổ tức trên nền kinh tế chung của chúng ta, thừa nhận rằng năng lực sản xuất phụ thuộc vào cơ sở hạ tầng công cộng, giáo dục công cộng và y tế công cộng mà mọi người đóng góp. Nó cũng là công cụ chống nghèo đói hiệu quả nhất hiện có: không có bộ máy quan liêu quyết định bạn được phép mua gì, không có nhân viên xã hội giám sát việc tuân thủ, không có bộ máy điều tra gian lận. Chỉ là tiền cho những người cần nó.
 
 **"Chúng ta không đủ khả năng."**
-Ngân sách quỹ chung của Denver vượt quá $1,8 tỷ. Giai đoạn 1 có chi phí $24 triệu -- 1,3% ngân sách. Thành phố đã chi $1,3 tỷ cho việc mở rộng I-70. RTD có hơn $1 tỷ tiền dự trữ trong khi cắt giảm dịch vụ. Chúng ta có thể đủ khả năng bất cứ điều gì chúng ta ưu tiên. Câu hỏi đặt ra là liệu chúng ta ưu tiên con người hay cơ sở hạ tầng cho ô tô.
+Ngân sách quỹ chung của Denver vượt quá $1,8 tỷ. Giai đoạn 1 có chi phí $24 triệu - 1,3% ngân sách. Thành phố đã chi $1,3 tỷ cho việc mở rộng I-70. RTD có hơn $1 tỷ tiền dự trữ trong khi cắt giảm dịch vụ. Chúng ta có thể đủ khả năng bất cứ điều gì chúng ta ưu tiên. Câu hỏi đặt ra là liệu chúng ta ưu tiên con người hay cơ sở hạ tầng cho ô tô.
 
 **"Tại sao không chỉ tạo việc làm?"**
 Việc làm là cần thiết nhưng không đủ. Nhiều người nhận thu nhập đảm bảo đã có việc làm, thường là nhiều việc làm. Vấn đề là tiền lương không theo kịp chi phí sinh hoạt. Thu nhập đảm bảo bổ sung tiền lương, thu hẹp khoảng cách giữa các công việc, hỗ trợ người chăm sóc làm công việc không được trả lương và giúp mọi người đầu tư vào giáo dục và đào tạo dẫn đến việc làm tốt hơn. Nó không phải là một giải pháp thay thế cho việc tạo việc làm. Nó là nền tảng làm cho việc tạo việc làm hiệu quả.
@@ -108,7 +108,7 @@ Cook County, Illinois đã thiết lập tài trợ thu nhập đảm bảo vĩn
 
 ## Tài Liệu Tham Khảo
 
-- Smart Cities Dive. (2025). "150 thành phố đã thử nghiệm thu nhập đảm bảo. Đây là những gì hiệu quả -- và những gì không." Phân tích tổng hợp các chương trình thí điểm thu nhập đảm bảo của Hoa Kỳ.
+- Smart Cities Dive. (2025). "150 thành phố đã thử nghiệm thu nhập đảm bảo. Đây là những gì hiệu quả - và những gì không." Phân tích tổng hợp các chương trình thí điểm thu nhập đảm bảo của Hoa Kỳ.
 - Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Phân tích tổng hợp 20 đánh giá ngang hàng.
 - Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 thử nghiệm đang diễn ra; hơn 150 tổng cộng.
 - University of Kansas. (2025). Đánh giá chương trình thí điểm thu nhập đảm bảo của Boulder. 200 cư dân, $500/tháng, kết quả việc làm hỗn hợp, kết quả nhu cầu cơ bản tích cực.

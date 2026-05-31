@@ -2,7 +2,7 @@
 
 ### A. Mô Tả Dự Án
 
-**Tên Dự Án:** Denver Housing First — Mở Rộng Nhà Ở Hỗ Trợ Vĩnh Viễn & Tái Định Cư Nhanh
+**Tên Dự Án:** Denver Housing First - Mở Rộng Nhà Ở Hỗ Trợ Vĩnh Viễn & Tái Định Cư Nhanh
 
 **Đơn Vị Đăng Ký:** Thành Phố và Quận Denver, Sở Ổn Định Gia Cư (HOST), phối hợp với Sáng Kiến Vô Gia Cư Vùng Metro Denver (MDHI) với vai trò Đơn Vị Đăng Ký Hợp Tác
 
@@ -10,7 +10,7 @@
 
 **Thời Gian Dự Án:** 36 tháng
 
-**Tóm Tắt Dự Án:** Thành Phố và Quận Denver yêu cầu $17 triệu từ nguồn tài trợ chương trình Continuum of Care (Chương Trình Chăm Sóc Liên Tục) để xây dựng 300 đơn vị nhà ở hỗ trợ vĩnh viễn (permanent supportive housing, PSH) mới và cung cấp dịch vụ tái định cư nhanh (rapid rehousing, RRH) cho 200 hộ gia đình hàng năm, giảm tình trạng vô gia cư mãn tính thông qua mô hình Housing First (Ưu Tiên Nhà Ở) dựa trên bằng chứng. Khoảng 7,500 người trải qua tình trạng vô gia cư ở Denver vào bất kỳ đêm nào, với 9,065 người trên toàn khu vực đô thị theo Thống Kê Điểm Thời Gian của MDHI năm 2024. Denver hiện đang vận hành khoảng 1,300 đơn vị PSH — thấp hơn nhiều so với nhu cầu được ghi nhận. Hệ thống ứng phó khủng hoảng hiện tại chi $40,000-$80,000 mỗi người mỗi năm cho việc đưa các cá nhân qua các phòng cấp cứu, nhà tù và nhà tạm trú. Nhà ở hỗ trợ vĩnh viễn có chi phí $15,000-$25,000 mỗi người mỗi năm trong khi đạt tỷ lệ duy trì nhà ở từ 80-90%. Dự án này sẽ tạo ra khoản tiết kiệm ròng từ $36,000-$62,000 mỗi người mỗi năm đồng thời cung cấp nhà ở ổn định và các dịch vụ hỗ trợ toàn diện cho những cư dân dễ bị tổn thương nhất của Denver.
+**Tóm Tắt Dự Án:** Thành Phố và Quận Denver yêu cầu $17 triệu từ nguồn tài trợ chương trình Continuum of Care (Chương Trình Chăm Sóc Liên Tục) để xây dựng 300 đơn vị nhà ở hỗ trợ vĩnh viễn (permanent supportive housing, PSH) mới và cung cấp dịch vụ tái định cư nhanh (rapid rehousing, RRH) cho 200 hộ gia đình hàng năm, giảm tình trạng vô gia cư mãn tính thông qua mô hình Housing First (Ưu Tiên Nhà Ở) dựa trên bằng chứng. Khoảng 7,500 người trải qua tình trạng vô gia cư ở Denver vào bất kỳ đêm nào, với 9,065 người trên toàn khu vực đô thị theo Thống Kê Điểm Thời Gian của MDHI năm 2024. Denver hiện đang vận hành khoảng 1,300 đơn vị PSH - thấp hơn nhiều so với nhu cầu được ghi nhận. Hệ thống ứng phó khủng hoảng hiện tại chi $40,000-$80,000 mỗi người mỗi năm cho việc đưa các cá nhân qua các phòng cấp cứu, nhà tù và nhà tạm trú. Nhà ở hỗ trợ vĩnh viễn có chi phí $15,000-$25,000 mỗi người mỗi năm trong khi đạt tỷ lệ duy trì nhà ở từ 80-90%. Dự án này sẽ tạo ra khoản tiết kiệm ròng từ $36,000-$62,000 mỗi người mỗi năm đồng thời cung cấp nhà ở ổn định và các dịch vụ hỗ trợ toàn diện cho những cư dân dễ bị tổn thương nhất của Denver.
 
 ### B. Địa Điểm & Bối Cảnh
 
@@ -63,15 +63,15 @@ Denver đang đối mặt với một cuộc khủng hoảng vô gia cư nghiêm
 
 - Việc sử dụng hệ thống khẩn cấp luân phiên (thăm khám phòng cấp cứu, ghi danh vào tù, liên hệ với cảnh sát, ở nhà tạm trú) có chi phí $40,000-$80,000 mỗi người mỗi năm
 - Một cá nhân vô gia cư mãn tính có thể tạo ra hơn $100,000 chi phí công hàng năm trên các hệ thống
-- Các khoản chi này không tạo ra kết quả nhà ở lâu dài — các cá nhân quay trở lại tình trạng vô gia cư sau khi xuất viện
+- Các khoản chi này không tạo ra kết quả nhà ở lâu dài - các cá nhân quay trở lại tình trạng vô gia cư sau khi xuất viện
 
 **Cơ Sở Bằng Chứng của Housing First:**
 
 - Các chương trình Housing First đạt tỷ lệ duy trì nhà ở từ 80-90%, so với 30-50% đối với các phương pháp Treatment First (Ưu Tiên Điều Trị) yêu cầu tỉnh táo hoặc tuân thủ chương trình như điều kiện tiên quyết
-- Phần Lan đã áp dụng Housing First trên toàn quốc và đạt được mức giảm 35% tình trạng vô gia cư — quốc gia duy nhất trong EU có tình trạng vô gia cư giảm
+- Phần Lan đã áp dụng Housing First trên toàn quốc và đạt được mức giảm 35% tình trạng vô gia cư - quốc gia duy nhất trong EU có tình trạng vô gia cư giảm
 - Houston đã cung cấp nhà ở cho hơn 25,000 cá nhân kể từ năm 2012, giảm tình trạng vô gia cư 63% bằng cách sử dụng các chiến lược Housing First phối hợp
 - Medicine Hat, Canada đã đạt được tình trạng vô gia cư chức năng bằng không, cung cấp nhà ở cho mọi người trong vòng 10 ngày kể từ khi xác định
-- Nhà ở hỗ trợ vĩnh viễn có chi phí $15,000-$25,000 mỗi người mỗi năm — tạo ra khoản tiết kiệm ròng từ $36,000-$62,000 mỗi người mỗi năm so với việc sử dụng hệ thống khẩn cấp luân phiên
+- Nhà ở hỗ trợ vĩnh viễn có chi phí $15,000-$25,000 mỗi người mỗi năm - tạo ra khoản tiết kiệm ròng từ $36,000-$62,000 mỗi người mỗi năm so với việc sử dụng hệ thống khẩn cấp luân phiên
 
 ### D. Các Hoạt Động & Sản Phẩm Của Dự Án
 
@@ -92,7 +92,7 @@ Denver đang đối mặt với một cuộc khủng hoảng vô gia cư nghiêm
 - Mô hình tham gia lũy tiến: điều chỉnh mức hỗ trợ theo nhu cầu của hộ gia đình, giảm dần hỗ trợ khi sự ổn định tăng lên
 - Ưu tiên các gia đình có trẻ em và các cá nhân có lịch sử vô gia cư ngắn hơn cho lộ trình tái định cư nhanh
 
-**Hoạt Động 3: Dịch Vụ Hỗ Trợ Toàn Diện — Quản Lý Ca Bệnh, Sức Khỏe Tâm Thần & Điều Trị Nghiện ($3,000,000)**
+**Hoạt Động 3: Dịch Vụ Hỗ Trợ Toàn Diện - Quản Lý Ca Bệnh, Sức Khỏe Tâm Thần & Điều Trị Nghiện ($3,000,000)**
 
 - Quản lý ca bệnh chuyên sâu với tỷ lệ nhân viên trên khách hàng là 1:15 cho cư dân PSH
 - Các dịch vụ sức khỏe hành vi tại chỗ bao gồm nhân viên xã hội lâm sàng được cấp phép và tư vấn tâm thần
@@ -124,8 +124,8 @@ Denver đang đối mặt với một cuộc khủng hoảng vô gia cư nghiêm
 | ---------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Lập Kế Hoạch & Mua Sắm**   | Tháng 1-6   | Thực hiện các thỏa thuận với người nhận phụ, hoàn thiện việc lựa chọn địa điểm, thuê nhân viên chương trình, khởi động nâng cấp tiếp cận phối hợp |
 | **Mua Lại & Chuyển Đổi**     | Tháng 4-14  | Mua lại tài sản, hoàn thành cải tạo, lấy giấy chứng nhận cư trú, bắt đầu cho thuê PSH                                                             |
-| **Hoạt Động Đầy Đủ — Năm 1** | Tháng 7-18  | 150 đơn vị PSH có người ở, phục vụ 200 hộ gia đình RRH, các dịch vụ hỗ trợ toàn diện hoạt động đầy đủ                                             |
-| **Hoạt Động Đầy Đủ — Năm 2** | Tháng 13-30 | Tất cả 300 đơn vị PSH có người ở, nhóm 200 hộ gia đình RRH thứ hai, hoàn thành đánh giá giữa kỳ                                                   |
+| **Hoạt Động Đầy Đủ - Năm 1** | Tháng 7-18  | 150 đơn vị PSH có người ở, phục vụ 200 hộ gia đình RRH, các dịch vụ hỗ trợ toàn diện hoạt động đầy đủ                                             |
+| **Hoạt Động Đầy Đủ - Năm 2** | Tháng 13-30 | Tất cả 300 đơn vị PSH có người ở, nhóm 200 hộ gia đình RRH thứ hai, hoàn thành đánh giá giữa kỳ                                                   |
 | **Ổn Định & Kết Thúc**       | Tháng 28-36 | Chuyển đổi sang các dòng tài trợ bền vững, đánh giá cuối cùng, lập kế hoạch tiếp tục chương trình                                                 |
 
 ### F. Phù Hợp Với Các Mục Tiêu Của Chương Trình CoC của HUD
@@ -149,7 +149,7 @@ Denver đã thực hiện các khoản đầu tư địa phương đáng kể đ
 - **Sáng Kiến Vô Gia Cư Vùng Metro Denver (MDHI):** Đơn vị đăng ký hợp tác khu vực quản lý hệ thống tiếp cận phối hợp và HMIS cho CO-503
 - **Tài trợ địa phương chuyên dụng** thông qua quỹ chung của thành phố, các khoản tài trợ của tiểu bang và quan hệ đối tác từ thiện hỗ trợ các chương trình PSH và RRH hiện có
 
-Khoản đầu tư liên bang được yêu cầu là $17 triệu bổ sung cho cơ sở hạ tầng hiện có và các cam kết tài trợ địa phương của Denver. Đây không phải là yêu cầu xây dựng một hệ thống mới — đây là yêu cầu mở rộng một mô hình đã được chứng minh trong một hệ sinh thái địa phương phối hợp đã hoạt động nhưng thiếu năng lực để đáp ứng nhu cầu.
+Khoản đầu tư liên bang được yêu cầu là $17 triệu bổ sung cho cơ sở hạ tầng hiện có và các cam kết tài trợ địa phương của Denver. Đây không phải là yêu cầu xây dựng một hệ thống mới - đây là yêu cầu mở rộng một mô hình đã được chứng minh trong một hệ sinh thái địa phương phối hợp đã hoạt động nhưng thiếu năng lực để đáp ứng nhu cầu.
 
 ## Tóm Tắt Ngân Sách
 
@@ -161,8 +161,8 @@ Khoản đầu tư liên bang được yêu cầu là $17 triệu bổ sung cho 
 | Tiếp Cận Phối Hợp & Cơ Sở Hạ Tầng Dữ Liệu                              | $1,000,000      | 6%        |
 | Đánh Giá Chương Trình                                                  | $1,000,000      | 6%        |
 | **Tổng Số Yêu Cầu Liên Bang**                                          | **$17,000,000** | **100%**  |
-| Đối Ứng Địa Phương (HOST, Cơ Quan Nhà Ở Xã Hội, từ thiện)              | $4,250,000      | —         |
-| **Tổng Số Đầu Tư Dự Án**                                               | **$21,250,000** | —         |
+| Đối Ứng Địa Phương (HOST, Cơ Quan Nhà Ở Xã Hội, từ thiện)              | $4,250,000      | - |
+| **Tổng Số Đầu Tư Dự Án**                                               | **$21,250,000** | - |
 
 _Lưu ý: Chương trình CoC của HUD yêu cầu mức đối ứng tối thiểu 25% cho hầu hết các loại dự án. Mức đối ứng địa phương $4.25 triệu thể hiện mức đối ứng 25% so với yêu cầu liên bang, có nguồn từ quỹ hoạt động của HOST, các cam kết vốn của Cơ Quan Nhà Ở Xã Hội và đóng góp từ thiện._
 
@@ -199,11 +199,11 @@ Tất cả dữ liệu có nguồn từ phân tích chính sách [Housing First]
 Mẫu đề xuất tài trợ này được thiết kế cho nhân viên thành phố, các thành viên hội đồng và những người ủng hộ cộng đồng để điều chỉnh cho một đơn đăng ký CoC thực tế của HUD:
 
 1. **Kiểm tra NOFO CoC hiện tại** tại [HUD Exchange](https://www.hudexchange.info/programs/coc/) và [grants.gov](https://www.grants.gov/) để biết các ưu tiên, thời hạn và tiêu chí chấm điểm của chu kỳ tài trợ hiện tại
-2. **Phối hợp với MDHI** với tư cách là đơn vị đăng ký hợp tác cho CO-503 Continuum of Care — tất cả các đơn đăng ký dự án CoC phải được gửi thông qua quy trình đăng ký hợp tác và được hội đồng CoC địa phương xếp hạng
+2. **Phối hợp với MDHI** với tư cách là đơn vị đăng ký hợp tác cho CO-503 Continuum of Care - tất cả các đơn đăng ký dự án CoC phải được gửi thông qua quy trình đăng ký hợp tác và được hội đồng CoC địa phương xếp hạng
 3. **Tinh chỉnh dữ liệu dân số** bằng cách sử dụng Thống Kê Điểm Thời Gian, Thống Kê Kiểm Kê Nhà Ở (Housing Inventory Count, HIC) và dữ liệu HMIS gần đây nhất từ MDHI
 4. **Điều chỉnh ngân sách** dựa trên chi phí bất động sản và xây dựng hiện tại của Denver, tỷ lệ nhân viên và ước tính cung cấp dịch vụ từ HOST và các đối tác cung cấp
 5. **Thêm các biểu mẫu liên bang bắt buộc** bao gồm SF-424, đơn đăng ký dự án (mới hoặc gia hạn), chi tiết ngân sách và tất cả các chứng nhận theo yêu cầu của HUD
-6. **Điều chỉnh bản tóm tắt dự án** theo các tiêu chí chấm điểm NOFO cụ thể — Các đơn đăng ký CoC của HUD được chấm điểm cạnh tranh và các phản hồi trong bản tóm tắt phải trực tiếp giải quyết từng tiêu chí
+6. **Điều chỉnh bản tóm tắt dự án** theo các tiêu chí chấm điểm NOFO cụ thể - Các đơn đăng ký CoC của HUD được chấm điểm cạnh tranh và các phản hồi trong bản tóm tắt phải trực tiếp giải quyết từng tiêu chí
 7. **Chứng minh các nguồn đối ứng** bằng thư cam kết từ các nhà tài trợ địa phương, các khoản phân bổ ngân sách của thành phố và định giá đóng góp hiện vật
 
 Có câu hỏi hoặc muốn cộng tác trong đề xuất này? [Liên hệ với Denver For All](/take-action) hoặc gửi email cho đại diện hội đồng của bạn.

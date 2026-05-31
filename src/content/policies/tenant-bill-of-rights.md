@@ -140,7 +140,7 @@ Landlords cannot categorically deny housing based on criminal history. Individua
 | **Sweden**            | Tenant unions (_Hyresgastforeningen_) collectively bargain rents with landlords on behalf of all tenants in a building or area. Over 500,000 members. Rents are negotiated, not dictated.                                                            | Collective bargaining for housing - tenants negotiate as a bloc. Keeps rents reasonable and gives tenants real power.                                                            |
 | **New York City, US** | Universal right to counsel enacted 2017. City-funded attorneys for all tenants in eviction court in covered zip codes.                                                                                                                               | Evictions dropped 30%+ in covered areas. 84% of tenants with counsel kept their homes. Program saves the city $320M/year in avoided shelter costs.                               |
 
-**The pattern is clear:** countries that treat tenants as rights-holders with institutional support have stable housing markets and lower homelessness. The US model of treating tenants as second-class citizens with minimal rights is the outlier, not the norm.
+**The international record is consistent:** countries that treat tenants as rights-holders, with real institutional backing, have more stable housing markets and lower homelessness. The US model of treating tenants as second-class citizens with minimal rights is the outlier, not the norm.
 
 ## Frequently Asked Questions
 

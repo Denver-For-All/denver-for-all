@@ -15,7 +15,7 @@ keyStats:
     labelEs: 'de nuevas estaciones, los alquileres se disparan'
     context: 'Denver builds transit, then the people it was meant to serve get displaced'
     contextEs: 'Denver construye transito y luego las personas a las que debia servir son desplazadas'
-    source: 'Federal Reserve Bank of Philadelphia, 2019'
+    source: 'Bardaka, Delgado & Florax, Journal of Transport Geography, 2018'
     theme: 'danger'
   - value: '8-15%'
     label: 'affordable units currently required'
@@ -42,7 +42,7 @@ The same happens with major development projects, rezoning, and "revitalization"
 
 Denver has limited anti-displacement tools. The Expanding Housing Affordability (EHA) ordinance requires 8-15% affordable units (depending on area) in new developments -- well below the 30% our proposal mandates. RTD transit-oriented development (TOD) guidelines are voluntary, not mandatory. Neighborhoods like RiNo, the 38th and Blake corridor, and areas near the University of Colorado A Line stations have seen dramatic rent increases and resident displacement following transit investment.
 
-A 2019 study by the Federal Reserve Bank of Philadelphia found that Denver light rail expansion was associated with significant rent increases within one-half mile of new stations, with displacement concentrated among lower-income residents and communities of color. The pattern is clear and documented: Denver builds transit, and the people it was meant to serve can no longer afford to live near it.
+A 2018 study in the _Journal of Transport Geography_ (Bardaka, Delgado & Florax) found that Denver's light rail expansion was associated with significant rent increases within one-half mile of new stations, with displacement concentrated among lower-income residents and communities of color. The finding is well documented: Denver builds transit, and the people it was meant to serve can no longer afford to live near it.
 
 There are models of what development _should_ look like in these corridors. In January 2026, the Urban Land Conservancy opened **The Irving at Mile High Vista**, a 102-unit permanently affordable, all-electric housing community at 3270 W. Colfax Ave. — right in the West Colfax neighborhood, one of Denver's most rapidly gentrifying areas. With affordability guaranteed for 99 years through a community land trust, The Irving demonstrates that new development along transit corridors can serve existing residents instead of displacing them (Colorado Politics, January 22, 2026). But without mandatory anti-displacement protections, projects like The Irving remain the exception rather than the rule.
 
@@ -83,7 +83,7 @@ Primarily regulatory (minimal direct cost). CBA requirements are funded by devel
 | **Singapore**        | Government controls 80%+ of land. All development occurs on terms that serve the public, not speculators.                                  | Highest homeownership rate in the world. Development serves residents because the public controls the land.                        |
 | **Portland, OR**     | Anti-displacement zones around transit. Mandatory relocation assistance. Community benefit agreements.                                     | Among the strongest anti-displacement frameworks in the US. Model for linking transit investment to community protection.          |
 
-**The lesson is simple:** development is not inherently harmful. Development without public benefit requirements is. Every city that mandates affordability and community benefit alongside development gets both growth and stability.
+**The takeaway:** development is not inherently harmful — development _without_ public-benefit requirements is. Every city that pairs affordability and community-benefit mandates with new construction gets both growth and stability.
 
 ## Frequently Asked Questions
 

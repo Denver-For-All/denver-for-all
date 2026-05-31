@@ -124,7 +124,7 @@ Fiscal conservatives will argue Denver can't afford permanent newcomer infrastru
 | **New York City**                | Received 200,000+ asylum seekers from 2022-2024. Created Humanitarian Emergency Response and Relief Centers (HERRCs) and the Asylum Seeker Navigation Center for centralized services. | NYC's centralized intake reduced per-person costs and improved service coordination. Right to Shelter mandate forced systematic infrastructure investment (NYC Comptroller, 2024).                   |
 | **Bogotá, Colombia**             | Received 500,000+ Venezuelan migrants. Created _Centros de Integración_ providing legal status regularization, healthcare, education enrollment, and employment services.              | Regularized migrants contributed $500M+ annually to local economy. Integration centers reduced strain on emergency services and informal employment (World Bank, 2023).                              |
 
-**The pattern is clear:** cities that invest in systematic reception infrastructure spend less per newcomer and achieve self-sufficiency faster than cities relying on emergency response.
+**Planning beats improvisation:** cities that invest in systematic reception infrastructure spend less per newcomer and reach self-sufficiency faster than cities relying on emergency response.
 
 ## How We Pay For It
 

@@ -168,7 +168,7 @@ Reduce dependence on the centralized grid by expanding distributed generation:
 | **Burlington, VT**             | City-owned Burlington Electric Department. First US city to achieve 100% renewable electricity (2014).     | Proof that municipal utilities can lead on clean energy. If Burlington can do it, Denver can.                                                 |
 | **Los Angeles, CA (LADWP)**    | Largest municipal utility in the US. Serves 4M people.                                                     | Demonstrates municipal power at massive scale. Provides lower rates than Southern California Edison (the neighboring investor-owned utility). |
 
-**The pattern is clear:** Municipal utilities consistently deliver lower rates, higher reliability, better customer service, and stronger clean energy commitments than investor-owned monopolies. The barrier is not feasibility — it is political will and industry opposition.
+**The track record is consistent:** municipal utilities deliver lower rates, higher reliability, better customer service, and stronger clean-energy commitments than investor-owned monopolies. The barrier is not feasibility — it is political will and industry opposition.
 
 ## How We Pay For It
 

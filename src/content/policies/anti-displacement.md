@@ -92,3 +92,9 @@ No. It ensures development benefits existing residents instead of displacing the
 
 **"Isn't 30% inclusionary too high?"**
 Cities like Montreal, Barcelona, and several jurisdictions in the US have implemented 20-30% inclusionary requirements successfully. The key is that it applies to everyone equally - no competitive disadvantage.
+
+## References
+
+- Bardaka, E., Delgado, M. S., & Florax, R. J. G. M. (2018). Causal identification of transit-induced gentrification and spatial spillover effects: The case of the Denver light rail. _Journal of Transport Geography, 71_, 15–31. https://doi.org/10.1016/j.jtrangeo.2018.06.025
+- City and County of Denver. (2022). _Expanding Housing Affordability (EHA) ordinance_. https://www.denvergov.org
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit permanently affordable community in West Colfax]. https://www.coloradopolitics.com

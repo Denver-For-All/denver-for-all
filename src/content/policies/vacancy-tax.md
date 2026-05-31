@@ -12,7 +12,7 @@ hasFundingSources: true
 relatedLegislation:
   - billNumber: 'HB26-1036'
     title: 'Local Taxes on Vacant Residential Property'
-    status: 'Introduced - Assigned to Finance'
+    status: 'Postponed Indefinitely (House Finance, Feb 9, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1036'
 keyStats:
   - value: '5,000-8,000'
@@ -117,3 +117,10 @@ Utility data doesn't lie. A unit using zero water and minimal electricity for 6 
 
 **"This will hurt people who are renovating."**
 The 12-month renovation exemption with valid permits covers legitimate renovations. If your "renovation" takes 3 years with no permits, it's not a renovation - it's speculation.
+
+## References
+
+- City of Vancouver. (2023). _Empty Homes Tax annual report_. https://vancouver.ca/home-property-development/empty-homes-tax.aspx
+- Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
+- Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov

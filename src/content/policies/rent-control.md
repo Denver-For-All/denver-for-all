@@ -178,3 +178,12 @@ If the legislature fails again, Colorado's citizen initiative process lets voter
 ---
 
 **Take action now:** [Sign the petition to repeal Colorado's rent control ban](https://resist.bot/petitions/PJZTYT), or text "sign PJZTYT" to 50409. Every signature sends a personalized letter to your governor and state legislators. [See all campaigns →](/tools/resistbot)
+
+## References
+
+- Apartment List. (2024). _National rent report_. https://www.apartmentlist.com/research
+- Colo. Rev. Stat. § 38-12-301 (1981).
+- Colorado General Assembly. (2023). _HB23-1115: Repeal prohibition local residential rent control_. https://leg.colorado.gov/bills/hb23-1115
+- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. _American Economic Review, 109_(9), 3365–3394. https://doi.org/10.1257/aer.20181289
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver–Aurora–Lakewood, CO metro area_ [Data set]. https://www.zillow.com/research/data/

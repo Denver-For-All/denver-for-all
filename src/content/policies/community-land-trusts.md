@@ -102,3 +102,10 @@ Champlain Housing Trust in Burlington, VT has operated since 1984 with over 2,80
 
 **"Is this really homeownership if you can't keep all the profit?"**
 You own your home. You build equity. You just can't speculate on the land underneath it. The trade-off: you paid an affordable price going in. The next family deserves the same opportunity. This is homeownership for people who want homes, not for people who want investment vehicles.
+
+## References
+
+- Champlain Housing Trust. (n.d.). _About CHT_. Retrieved May 2026, from https://www.getahome.org
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing need estimates_. https://www.denvergov.org/host
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, including remarks by Mayor Mike Johnston on Denver's affordable-housing pace]. https://www.coloradopolitics.com
+- Elevation Community Land Trust. (n.d.). _Our homes_. Retrieved May 2026, from https://www.elevationclt.org

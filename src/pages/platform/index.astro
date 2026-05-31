@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import PolicyCard from '../../components/PolicyCard.astro';
 import EmailCapture from '../../components/EmailCapture.astro';
+import { Image } from 'astro:assets';
+import { getOgImage } from '@config/og-images';
 import { getCollection } from 'astro:content';
 
 const policies = (await getCollection('policies'))
@@ -63,9 +65,12 @@ const categories = [
           if (catPolicies.length === 0) return null;
           return (
             <div class="platform-section" id={cat.key} data-category-section={cat.key}>
-              <h2 class="platform-section__title" data-en={cat.en} data-es={cat.es}>
-                {cat.en}
-              </h2>
+              <div class="platform-section__header">
+                <Image class="platform-section__img" src={getOgImage(cat.key)} alt="" loading="lazy" width={112} />
+                <h2 class="platform-section__title" data-en={cat.en} data-es={cat.es}>
+                  {cat.en}
+                </h2>
+              </div>
               <div class="grid grid--3">
                 {catPolicies.map(policy => (
                   <div
@@ -219,10 +224,25 @@ const categories = [
     margin-bottom: 3rem;
   }
 
-  .platform-section__title {
+  .platform-section__header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
     margin-bottom: 1.5rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid var(--color-primary-light);
+  }
+
+  .platform-section__img {
+    width: 56px;
+    height: 56px;
+    border-radius: var(--radius);
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .platform-section__title {
+    margin: 0;
   }
 
   .policy-card-wrapper {

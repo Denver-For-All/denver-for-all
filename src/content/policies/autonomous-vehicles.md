@@ -142,7 +142,7 @@ AVs have the potential to transform mobility for the 61 million Americans with d
 | **Texas (SB 2807, 2025)**      | State DMV authorization required. Recording devices mandatory. First-responder interaction plans required.                                                  | Moved from near-zero regulation to meaningful state-level requirements.                                            |
 | **European Union**             | AV Framework Regulation (EU 2022/1426) requires type-approval, cybersecurity certification, and data recording.                                             | Continental-scale regulatory framework with mandatory safety standards.                                            |
 
-**The pattern is clear:** Cities and states that proactively regulate AVs get better outcomes than those that allow unregulated deployment. Companies comply with requirements because they need access to markets. Denver's leverage is its 700,000+ residents and growing demand for ride-hailing.
+**The contrast is consistent:** cities and states that regulate AVs proactively get better outcomes than those that allow unregulated deployment. Companies comply because they need market access. Denver's leverage is its 700,000+ residents and growing demand for ride-hailing.
 
 ## How We Pay For It
 

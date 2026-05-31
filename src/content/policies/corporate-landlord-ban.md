@@ -118,3 +118,10 @@ Large multifamily buildings (50+ units) are excluded from the acquisition ban be
 
 **"Won't forced divestiture cause a fire sale that crashes property values?"**
 The 5-year divestiture timeline is deliberately long enough to prevent a fire sale. At Denver's current pace of home sales (~30,000 transactions per year in the metro area), the volume of institutional divestiture would represent a small fraction of total market activity. Corporate landlords in Denver hold thousands of units, not hundreds of thousands. The requirement to sell at independently appraised fair market value — not at distressed prices — prevents undercutting. And the right of first refusal for current tenants, community land trusts, and the Social Housing Authority ensures units go to mission-aligned buyers, not to the next corporate landlord in line. Berlin's expropriation process, voted on by 59% of residents in 2021, is proceeding on a similar multi-year timeline without market disruption.
+
+## References
+
+- Deutsche Welle. (2021, September 27). _Berlin referendum: Majority votes to expropriate large landlords_. https://www.dw.com
+- Organisation for Economic Co-operation and Development. (2024). _OECD Affordable Housing Database_. https://www.oecd.org/housing/data/affordable-housing-database/
+- Redfin. (2024). _Investor home purchases in 2023_ [Data analysis]. https://www.redfin.com/news/investor-home-purchases-q4-2023/
+- U.S. Department of Justice. (2024, August 23). _Justice Department sues RealPage for algorithmic pricing scheme that harms millions of American renters_ [Press release]. https://www.justice.gov

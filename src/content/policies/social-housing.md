@@ -149,3 +149,15 @@ We've tried that for 20 years. It has produced a fraction of the needed units, a
 
 **"Where will 10,000 units go? What about neighborhood opposition?"**
 Social housing will be distributed across all Denver neighborhoods — including affluent ones — not concentrated in low-income areas. That was the mistake of mid-20th century American public housing and we won't repeat it. Vienna's model works precisely because public housing is everywhere: in wealthy districts, in commercial corridors, in transit-oriented developments. Denver already has hundreds of city-owned vacant parcels in every part of the city. The DSHA site selection process will prioritize proximity to transit, jobs, and schools — and will include mandatory community engagement. But "community engagement" is not a veto. The housing crisis affects the entire city, and every neighborhood must be part of the solution.
+
+## References
+
+- Apartment List. (2024). _National rent report_. https://www.apartmentlist.com/research
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing programs and need estimates_. https://www.denvergov.org/host
+- Colorado General Assembly. (2026). _2026 regular session housing bills (HB26-1001, SB26-001, HB26-1065, HB26-1066, HB26-1114)_. https://leg.colorado.gov
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit Proposition 123–funded affordable community in West Colfax]. https://www.coloradopolitics.com
+- Metro Denver Homeless Initiative. (2024). _Point-in-Time count_. https://www.mdhi.org
+- Rothstein, R. (2017). _The color of law: A forgotten history of how our government segregated America_. Liveright Publishing.
+- U.S. Census Bureau. (2023). _Selected housing characteristics_ [American Community Survey, Denver–Aurora–Lakewood MSA]. https://data.census.gov
+- Wiener Wohnen. (2023). _Facts and figures on Vienna's municipal housing_. https://www.wienerwohnen.at
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver–Aurora–Lakewood, CO_ [Data set]. https://www.zillow.com/research/data/

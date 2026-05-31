@@ -130,7 +130,7 @@ The same political movement restricting gender-affirming care is restricting abo
 | **Minneapolis, MN**          | One of the first US cities to pass a trans-inclusive civil rights ordinance (1975). Ongoing municipal enforcement.                                                                 | 50 years of local enforcement providing a model for nondiscrimination.                                                                                                                                       |
 | **Argentina (national)**     | Gender Identity Law (2012): self-attestation for legal gender changes. No medical requirements.                                                                                    | Considered the global gold standard for gender self-determination. Replicated in elements by Denmark, Ireland, Malta, Norway, and Belgium.                                                                   |
 
-The pattern is clear: cities and municipalities have been the leaders on LGBTQ+ rights for decades. Federal protections came last and are now being withdrawn first. Municipal ordinances are not redundant -- they are essential.
+The history runs in one direction: cities have led on LGBTQ+ rights for decades. Federal protections came last and are now being withdrawn first. Municipal ordinances are not redundant -- they are essential.
 
 ## How We Pay For It
 

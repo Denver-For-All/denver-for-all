@@ -140,7 +140,7 @@ Landlords cannot categorically deny housing based on criminal history. Individua
 | **Sweden**            | Tenant unions (_Hyresgastforeningen_) collectively bargain rents with landlords on behalf of all tenants in a building or area. Over 500,000 members. Rents are negotiated, not dictated.                                                            | Collective bargaining for housing - tenants negotiate as a bloc. Keeps rents reasonable and gives tenants real power.                                                            |
 | **New York City, US** | Universal right to counsel enacted 2017. City-funded attorneys for all tenants in eviction court in covered zip codes.                                                                                                                               | Evictions dropped 30%+ in covered areas. 84% of tenants with counsel kept their homes. Program saves the city $320M/year in avoided shelter costs.                               |
 
-**The pattern is clear:** countries that treat tenants as rights-holders with institutional support have stable housing markets and lower homelessness. The US model of treating tenants as second-class citizens with minimal rights is the outlier, not the norm.
+**The international record is consistent:** countries that treat tenants as rights-holders, with real institutional backing, have more stable housing markets and lower homelessness. The US model of treating tenants as second-class citizens with minimal rights is the outlier, not the norm.
 
 ## Frequently Asked Questions
 
@@ -152,3 +152,12 @@ It saves money. Every $1 spent on right to counsel saves $4-6 in avoided shelter
 
 **"Landlords need to be able to evict bad tenants."**
 Nothing in this bill prevents eviction for legitimate cause - nonpayment (with cure period), lease violations, criminal activity. What it prevents is pretextual evictions, retaliatory evictions, and no-fault evictions without assistance.
+
+## References
+
+- Colo. Rev. Stat. § 13-40-104.
+- Colorado General Assembly. (2026). _2026 regular session tenant-protection bills (HB26-1106, HB26-1047, HB26-1013)_. https://leg.colorado.gov
+- Colorado Judicial Branch. (2025). _Eviction filings dashboard (SB24-064)_ [Data set]. https://www.coloradojudicial.gov
+- Eviction Lab. (n.d.). _Denver, CO eviction tracking_. Princeton University. Retrieved May 2026, from https://evictionlab.org
+- National Coalition for a Civil Right to Counsel. (2022). _The right to counsel in eviction proceedings_. https://civilrighttocounsel.org
+- New York City Office of Civil Justice. (2023). _Universal access to legal services: Annual report_. https://www.nyc.gov/hra

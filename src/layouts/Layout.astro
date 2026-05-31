@@ -3,6 +3,8 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import '../styles/global.css';
 import { siteConfig, siteName } from '@config/site';
+import { getOgImage } from '@config/og-images';
+import { getImage } from 'astro:assets';
 
 import type { Locale } from '../i18n/utils';
 
@@ -10,7 +12,8 @@ interface Props {
   title?: string;
   description?: string;
   locale?: Locale;
-  image?: string;
+  /** Category key (e.g. "housing") selecting the og:image artwork; defaults to the brand image. */
+  ogCategory?: string;
   ogType?: 'website' | 'article';
 }
 
@@ -18,7 +21,7 @@ const {
   title = siteConfig.name.en,
   description = siteConfig.description.en,
   locale,
-  image,
+  ogCategory,
   ogType = 'website',
 } = Astro.props;
 
@@ -28,7 +31,19 @@ const lang: Locale = locale ?? (Astro.url.pathname.startsWith('/es/') || Astro.u
 const brandName = siteName(lang);
 const fullTitle = title === siteConfig.name.en || title === siteConfig.name.es ? title : `${title} | ${brandName}`;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const ogImage = new URL(image || '/og/default.png', Astro.site).href;
+
+// Build a crawler-friendly og:image: an optimized JPEG (universally supported
+// by social scrapers) at the standard 1.91:1-ish OG size, referenced absolutely.
+const OG_WIDTH = 1200;
+const OG_HEIGHT = 670;
+const ogImageAsset = await getImage({
+  src: getOgImage(ogCategory),
+  width: OG_WIDTH,
+  height: OG_HEIGHT,
+  format: 'jpeg',
+  quality: 80,
+});
+const ogImage = new URL(ogImageAsset.src, Astro.site).href;
 
 // Build the alternate-language URL for hreflang
 const pathname = Astro.url.pathname;
@@ -60,8 +75,9 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
     <meta property="og:url" content={canonicalURL.href} />
     <meta property="og:site_name" content={brandName} />
     <meta property="og:image" content={ogImage} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content={String(OG_WIDTH)} />
+    <meta property="og:image:height" content={String(OG_HEIGHT)} />
     <meta property="og:locale" content={ogLocale} />
     <meta property="og:locale:alternate" content={ogLocaleAlt} />
     <meta name="twitter:card" content="summary_large_image" />

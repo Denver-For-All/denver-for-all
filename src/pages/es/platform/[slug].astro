@@ -7,6 +7,8 @@ import DonationCTA from '../../../components/DonationCTA.astro';
 import ShareableStatCard from '../../../components/ShareableStatCard';
 import '../../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
+import { getOgImage } from '@config/og-images';
 import { getCollection, getEntry } from 'astro:content';
 import { siteConfig, siteUrl } from '@config/site';
 
@@ -57,7 +59,7 @@ const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Pol
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
 ---
 
-<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es" image={`/og/${policy.data.category}.png`} ogType="article">
+<Layout title={policy.data.titleEs} description={policy.data.summaryEs} locale="es" ogCategory={policy.data.category} ogType="article">
   <article class="section">
     <div class="container container--narrow">
       <a href="/es/platform" class="back-link">
@@ -66,7 +68,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
 
       <header class="policy-header">
         <div class="policy-hero">
-          <img src={`/og/${policy.data.category}.png`} alt="" width="1200" height="630" fetchpriority="high" />
+          <Image src={getOgImage(policy.data.category)} alt="" width={1200} loading="eager" fetchpriority="high" />
         </div>
         <div class="policy-header__icon">
           <Icon name={`lucide:${policy.data.icon}`} size={32} />

@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import PolicyCard from '../../components/PolicyCard.astro';
 import EmailCapture from '../../components/EmailCapture.astro';
+import { Image } from 'astro:assets';
+import { getOgImage } from '@config/og-images';
 import { getCollection } from 'astro:content';
 
 const policies = (await getCollection('policies'))
@@ -64,7 +66,7 @@ const categories = [
           return (
             <div class="platform-section" id={cat.key} data-category-section={cat.key}>
               <div class="platform-section__header">
-                <img class="platform-section__img" src={`/og/${cat.key}.png`} alt="" loading="lazy" width="56" height="56" />
+                <Image class="platform-section__img" src={getOgImage(cat.key)} alt="" loading="lazy" width={112} />
                 <h2 class="platform-section__title" data-en={cat.en} data-es={cat.es}>
                   {cat.en}
                 </h2>

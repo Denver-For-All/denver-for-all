@@ -1,5 +1,7 @@
 ---
 import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
+import { getOgImage } from '@config/og-images';
 
 interface Props {
   slug: string;
@@ -18,7 +20,7 @@ const { slug, title, titleEs, summary, summaryEs, category, categoryEs, category
 
 <a href={`/platform/${slug}`} class="card policy-card">
   <div class="policy-card__thumbnail">
-    <img src={`/og/${categoryKey}.png`} alt="" loading="lazy" width="600" height="315" />
+    <Image src={getOgImage(categoryKey)} alt="" loading="lazy" width={760} />
     <div class="policy-card__icon">
       <Icon name={`lucide:${icon}`} size={24} />
     </div>

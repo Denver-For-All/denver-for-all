@@ -54,7 +54,7 @@
 }
 
 .step-card--active {
-  border-color: var(--color-primary, #0d7377);
+  border-color: var(--color-primary, #00408b);
   box-shadow: 0 4px 12px rgba(13, 115, 119, 0.12);
 }
 
@@ -63,7 +63,7 @@
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--color-primary, #0d7377);
+  color: var(--color-primary, #00408b);
   margin-bottom: 0.5rem;
 }
 

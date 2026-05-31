@@ -13,8 +13,8 @@ keyStats:
   - value: '100+ years'
     label: 'Bank of North Dakota has never lost money'
     labelEs: 'Banco de Dakota del Norte nunca ha perdido dinero'
-    context: 'Survived the Depression, 2008, and COVID — returns $100M+/year to the state'
-    contextEs: 'Sobrevivio la Depresion, 2008 y COVID — devuelve $100M+/ano al estado'
+    context: 'Survived the Depression, 2008, and COVID - returns $100M+/year to the state'
+    contextEs: 'Sobrevivio la Depresion, 2008 y COVID - devuelve $100M+/ano al estado'
     source: 'Bank of North Dakota Annual Reports'
     theme: 'primary'
   - value: '18.4%'
@@ -27,8 +27,8 @@ keyStats:
   - value: '400+'
     label: 'public savings banks in Germany alone'
     labelEs: 'cajas de ahorro publicas solo en Alemania'
-    context: 'Serving 50 million customers — public banking is normal worldwide'
-    contextEs: 'Sirviendo a 50 millones de clientes — la banca publica es normal en el mundo'
+    context: 'Serving 50 million customers - public banking is normal worldwide'
+    contextEs: 'Sirviendo a 50 millones de clientes - la banca publica es normal en el mundo'
     source: 'German Sparkassen Association'
     theme: 'secondary'
 ---
@@ -89,7 +89,7 @@ A publicly owned, city-chartered bank modeled on the Bank of North Dakota (opera
 | **Costa Rica's Banco Nacional**                      | Costa Rica | 1914                | Public/mixed        | Largest bank in Central America. Public bank finances development while private banks serve elites.                                                                                                    |
 | **India's State Bank of India**                      | India      | 1955                | $635 billion        | Financial inclusion for 450M+ account holders. Reaches rural communities that private banks ignore.                                                                                                    |
 
-**Public banking is widespread globally** -- Germany, Japan, India, Costa Rica, and dozens of other nations rely on public banks as core financial infrastructure. The near-total absence of public banking in the US is unusual among large economies. In Germany alone, public and cooperative banks control more assets than private banks. They serve communities instead of extracting from them.
+**Public banking is widespread globally** - Germany, Japan, India, Costa Rica, and dozens of other nations rely on public banks as core financial infrastructure. The near-total absence of public banking in the US is unusual among large economies. In Germany alone, public and cooperative banks control more assets than private banks. They serve communities instead of extracting from them.
 
 ## How We Pay For It
 

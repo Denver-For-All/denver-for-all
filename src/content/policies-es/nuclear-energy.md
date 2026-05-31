@@ -4,29 +4,29 @@
 
 ## El Problema
 
-### Denver Necesita Energía Base Firme y Limpia — Y No La Tiene
+### Denver Necesita Energía Base Firme y Limpia - Y No La Tiene
 
-Denver enfrenta un trilema energético: la red eléctrica es poco confiable (ver [Confiabilidad Energética y Energía Municipal](/es/platform/power-reliability)), la demanda está aumentando drásticamente, y las metas climáticas exigen eliminar los combustibles fósiles. La energía eólica y solar son esenciales — pero son intermitentes. Los parques eólicos de Colorado producen energía aproximadamente el 35% del tiempo; los paneles solares aproximadamente el 25% (EIA, 2024). El otro 65-75% del tiempo, algo más tiene que mantener las luces encendidas.
+Denver enfrenta un trilema energético: la red eléctrica es poco confiable (ver [Confiabilidad Energética y Energía Municipal](/es/platform/power-reliability)), la demanda está aumentando drásticamente, y las metas climáticas exigen eliminar los combustibles fósiles. La energía eólica y solar son esenciales - pero son intermitentes. Los parques eólicos de Colorado producen energía aproximadamente el 35% del tiempo; los paneles solares aproximadamente el 25% (EIA, 2024). El otro 65-75% del tiempo, algo más tiene que mantener las luces encendidas.
 
-Ahora mismo, ese "algo más" es gas natural. Colorado generó el 46% de su electricidad a partir de gas natural en 2023 (Perfil Eléctrico Estatal de la EIA). Cada megavatio-hora de generación con gas produce aproximadamente 0.4 toneladas métricas de CO2. Reemplazar el gas solo con renovables requiere almacenamiento masivo en baterías — que aún no existe a la escala necesaria — o aceptar la dependencia continua de combustibles fósiles durante décadas.
+Ahora mismo, ese "algo más" es gas natural. Colorado generó el 46% de su electricidad a partir de gas natural en 2023 (Perfil Eléctrico Estatal de la EIA). Cada megavatio-hora de generación con gas produce aproximadamente 0.4 toneladas métricas de CO2. Reemplazar el gas solo con renovables requiere almacenamiento masivo en baterías - que aún no existe a la escala necesaria - o aceptar la dependencia continua de combustibles fósiles durante décadas.
 
-La energía nuclear opera con un factor de capacidad superior al 93% — funciona las 24 horas del día, los 7 días de la semana, independientemente del clima, la estación o la hora del día. Un solo reactor modular pequeño Xe-100 produce 80 MW de forma continua. Un paquete de 4 produce 320 MW — suficiente carga base firme y libre de carbono para aproximadamente 240,000 hogares, roughly el 75% de los hogares de Denver.
+La energía nuclear opera con un factor de capacidad superior al 93% - funciona las 24 horas del día, los 7 días de la semana, independientemente del clima, la estación o la hora del día. Un solo reactor modular pequeño Xe-100 produce 80 MW de forma continua. Un paquete de 4 produce 320 MW - suficiente carga base firme y libre de carbono para aproximadamente 240,000 hogares, roughly el 75% de los hogares de Denver.
 
 ### La Demanda de Centros de Datos Está Sobrecargando la Red
 
-Xcel Energy tiene 5.8 GW de solicitudes pendientes de centros de datos en Colorado — casi igualando toda su capacidad existente de 6.2 GW. Xcel proyecta 8.5 GW de demanda de centros de datos para 2040 (Colorado Sun, 2025). Estas instalaciones requieren energía ininterrumpida 24/7. Si esta demanda se satisface con gas natural, las metas climáticas de Colorado están muertas antes de empezar. Si se satisface solo con eólica y solar, los requisitos de almacenamiento son enormes y el costo es desconocido.
+Xcel Energy tiene 5.8 GW de solicitudes pendientes de centros de datos en Colorado - casi igualando toda su capacidad existente de 6.2 GW. Xcel proyecta 8.5 GW de demanda de centros de datos para 2040 (Colorado Sun, 2025). Estas instalaciones requieren energía ininterrumpida 24/7. Si esta demanda se satisface con gas natural, las metas climáticas de Colorado están muertas antes de empezar. Si se satisface solo con eólica y solar, los requisitos de almacenamiento son enormes y el costo es desconocido.
 
 ### Colorado Acaba de Abrir la Puerta
 
 En abril de 2025, el Gobernador Polis firmó la HB25-1040, clasificando la energía nuclear como energía limpia bajo la ley de Colorado. Este es un cambio fundamental. La energía nuclear ahora es elegible para financiamiento de proyectos de energía limpia a nivel de ciudad y condado, contando hacia las metas de energía limpia de Colorado, y para incentivos fiscales estatales disponibles para otras tecnologías de energía limpia.
 
-El Aeropuerto Internacional de Denver ya ha comenzado a responder. En agosto de 2025, DIA emitió una solicitud de propuestas para un estudio de viabilidad de SMR de $1.25 millones — reconociendo que la carga actual del aeropuerto de 45 MW (proyectada a superar 85 MW) podría ser servida por un solo módulo Xe-100 de 80 MW.
+El Aeropuerto Internacional de Denver ya ha comenzado a responder. En agosto de 2025, DIA emitió una solicitud de propuestas para un estudio de viabilidad de SMR de $1.25 millones - reconociendo que la carga actual del aeropuerto de 45 MW (proyectada a superar 85 MW) podría ser servida por un solo módulo Xe-100 de 80 MW.
 
 ### Por Qué el Xe-100 Específicamente
 
-**Seguridad pasiva mediante la física, no sistemas mecánicos.** El Xe-100 usa combustible TRISO (Isotrópico Tri-estructural) — uranio encapsulado en capas de carbono y cerámica que resisten temperaturas muy superiores a cualquier condición del reactor. El combustible TRISO es físicamente incapaz de fundirse.
+**Seguridad pasiva mediante la física, no sistemas mecánicos.** El Xe-100 usa combustible TRISO (Isotrópico Tri-estructural) - uranio encapsulado en capas de carbono y cerámica que resisten temperaturas muy superiores a cualquier condición del reactor. El combustible TRISO es físicamente incapaz de fundirse.
 
-**Refrigerado por helio, no por agua.** Esto es crítico para Colorado. El estado recibe 14-17 pulgadas de precipitación al año — la mitad del promedio nacional — y enfrenta una megasequía en el Río Colorado (ver [Seguridad Hídrica y Conservación](/es/platform/water-security)). El Xe-100 usa gas helio como refrigerante, requiriendo agua mínima.
+**Refrigerado por helio, no por agua.** Esto es crítico para Colorado. El estado recibe 14-17 pulgadas de precipitación al año - la mitad del promedio nacional - y enfrenta una megasequía en el Río Colorado (ver [Seguridad Hídrica y Conservación](/es/platform/water-security)). El Xe-100 usa gas helio como refrigerante, requiriendo agua mínima.
 
 **Modular y fabricado en fábrica.** Cada módulo de 80 MW está diseñado para fabricación en fábrica y transporte por carretera al sitio. Esto evita la construcción masiva en sitio que históricamente ha causado sobrecostos nucleares.
 
@@ -61,7 +61,7 @@ Comisionar un Plan integral de Preparación para Energía Nuclear que examine: i
 ### 4. Protección al Contribuyente y Responsabilidad de Costos
 
 - **Sin exposición al contribuyente hasta que la tecnología esté probada comercialmente**
-- **Acuerdos de compra de energía a precio fijo (PPAs)** — el desarrollador asume el riesgo de sobrecostos de construcción, no los contribuyentes
+- **Acuerdos de compra de energía a precio fijo (PPAs)** - el desarrollador asume el riesgo de sobrecostos de construcción, no los contribuyentes
 - **Compromisos basados en hitos** con salidas en cada etapa
 - **Verificación independiente de costos** en cada hito por una firma de ingeniería tercera
 
@@ -96,7 +96,7 @@ Rocky Flats fue una planta de armas nucleares que enriqueció plutonio de grado 
 La eólica y solar son más baratas por MWh cuando el viento sopla y el sol brilla. Pero la demanda eléctrica es 24/7, y la eólica de Colorado produce energía ~35% del tiempo, la solar ~25%. Denver necesita ambas: renovables para los MWh limpios más baratos cuando estén disponibles, y nuclear para la carga base firme que mantiene las luces encendidas el otro 65-75% del tiempo.
 
 **"¿Qué pasa con los residuos nucleares?"**
-Un solo módulo Xe-100 produce aproximadamente 3.5 metros cúbicos de combustible gastado al año — aproximadamente del tamaño de un escritorio grande. El combustible TRISO usado es cerámica sólida — no gotea, no fluye, ni se disuelve en agua.
+Un solo módulo Xe-100 produce aproximadamente 3.5 metros cúbicos de combustible gastado al año - aproximadamente del tamaño de un escritorio grande. El combustible TRISO usado es cerámica sólida - no gotea, no fluye, ni se disuelve en agua.
 
 **"Los SMR no están probados. NuScale acaba de fracasar."**
 El fracaso de NuScale fue específico e instructivo. El Xe-100 es un tipo de reactor diferente con un enfoque de construcción diferente, respaldado por clientes diferentes. Es exactamente por esto que nuestra propuesta es preparación gradual, no construcción inmediata.

@@ -19,8 +19,8 @@ keyStats:
   - value: '$25/hr'
     label: 'what a family of four actually needs'
     labelEs: 'lo que una familia de cuatro realmente necesita'
-    context: 'MIT Living Wage Calculator for Denver County — and still not enough for single parents'
-    contextEs: 'Calculadora de salario digno del MIT para el Condado de Denver — y aun no alcanza para padres solteros'
+    context: 'MIT Living Wage Calculator for Denver County - and still not enough for single parents'
+    contextEs: 'Calculadora de salario digno del MIT para el Condado de Denver - y aun no alcanza para padres solteros'
     source: 'MIT Living Wage Calculator, 2024'
     theme: 'primary'
   - value: '$42-44/hr'
@@ -133,7 +133,7 @@ This is the "border effect" argument, and it's been studied extensively. Researc
 - **Denver Metro Chamber of Commerce** has historically opposed city-level minimum wage increases.
 - **National Federation of Independent Business (NFIB)** opposes mandated wage increases as a matter of policy.
 
-Their argument: "It will cost jobs and hurt small businesses." Our response: Every major minimum wage increase -- Seattle, San Francisco, Denver's own increases since 2020 -- has been followed by predictions of job losses that never materialized. The empirical evidence from Dube, Lester, and Reich (2010), Cengiz et al. (2019), and the UK's Low Pay Commission (2023 annual report) consistently finds minimal negative employment effects.
+Their argument: "It will cost jobs and hurt small businesses." Our response: Every major minimum wage increase - Seattle, San Francisco, Denver's own increases since 2020 - has been followed by predictions of job losses that never materialized. The empirical evidence from Dube, Lester, and Reich (2010), Cengiz et al. (2019), and the UK's Low Pay Commission (2023 annual report) consistently finds minimal negative employment effects.
 
 ## References
 

@@ -161,7 +161,7 @@ It's HALF of what Sweden provides. It's HALF of what Denmark provides. And the r
 The family/medical leave provision provides an additional 12 weeks. Beyond that, Denver's social safety net (healthcare, housing support, community health) catches families in crisis. No parent should have to choose between keeping their job and saving their child's life.
 
 **"Doesn't Colorado's FAMLI program already cover this?"**
-FAMLI provides 12 weeks at 90% pay -- a meaningful improvement over nothing. But 12 weeks is still half of what Sweden, Denmark, and Norway provide. Our proposal extends leave to 26 weeks for new parents, adds unlimited paid sick leave, and establishes a 4-week vacation minimum. FAMLI is a floor. Denver raises the ceiling.
+FAMLI provides 12 weeks at 90% pay - a meaningful improvement over nothing. But 12 weeks is still half of what Sweden, Denmark, and Norway provide. Our proposal extends leave to 26 weeks for new parents, adds unlimited paid sick leave, and establishes a 4-week vacation minimum. FAMLI is a floor. Denver raises the ceiling.
 
 ## Who Opposes This (and Why)
 

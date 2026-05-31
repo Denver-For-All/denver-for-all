@@ -11,8 +11,8 @@ actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
   - value: '58%'
-    label: 'above national average — Colorado youth suicide'
-    labelEs: 'por encima del promedio nacional — suicidio juvenil en Colorado'
+    label: 'above national average - Colorado youth suicide'
+    labelEs: 'por encima del promedio nacional - suicidio juvenil en Colorado'
     context: 'Suicide is the #1 cause of death for Coloradans ages 10-24'
     contextEs: 'El suicidio es la causa #1 de muerte para coloradenses de 10-24 anos'
     source: 'CO Dept of Public Health and Environment, 2023'
@@ -43,7 +43,7 @@ An estimated 12-15% of Denver youth ages 16-24 are "disconnected," neither in sc
 
 ### What Denver Currently Does
 
-Denver runs several youth-focused initiatives through the Department of Public Health and Environment and Denver Human Services. The city's youth employment programs provide summer and year-round job placements, though capacity serves only a small fraction of eligible youth. Denver's My Brother's Keeper initiative focuses on improving outcomes for boys and young men of color. The STAR (Support Team Assisted Response) program responds to behavioral health crises citywide and has been shown by a 2026 Urban Institute evaluation to reduce subsequent arrests and police contacts by 16%, but it is not specifically youth-focused — the average STAR client is 44 years old — and operates limited hours.
+Denver runs several youth-focused initiatives through the Department of Public Health and Environment and Denver Human Services. The city's youth employment programs provide summer and year-round job placements, though capacity serves only a small fraction of eligible youth. Denver's My Brother's Keeper initiative focuses on improving outcomes for boys and young men of color. The STAR (Support Team Assisted Response) program responds to behavioral health crises citywide and has been shown by a 2026 Urban Institute evaluation to reduce subsequent arrests and police contacts by 16%, but it is not specifically youth-focused - the average STAR client is 44 years old - and operates limited hours.
 
 DPS operates school-based health centers at some schools and has expanded social-emotional learning programming. The Gang Rescue and Support Project (GRASP) provides intervention services but operates on a small budget relative to need. Denver Parks & Recreation offers the My Denver card providing free recreation center access for youth 5-18 and adults 60+, which is a meaningful program but does not address the deeper needs for mentorship, employment, mental health support, and safe spaces.
 

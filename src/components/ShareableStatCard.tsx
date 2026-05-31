@@ -3,11 +3,11 @@ import { toPng } from 'html-to-image';
 import { siteConfig, siteUrl } from '@config/site';
 
 const C = {
-  primary: '#0D7377',
-  primaryDark: '#095456',
-  primaryLight: '#7DD3C0',
-  secondary: '#1E5FA6',
-  accent: '#D4A843',
+  primary: '#00408b',
+  primaryDark: '#002d63',
+  primaryLight: '#5b9bd5',
+  secondary: '#2b86d8',
+  accent: '#f2c14e',
   danger: '#C0392B',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -397,7 +397,7 @@ export default function ShareableStatCard({
     (index: number) => {
       const stat = stats[index];
       const label = locale === 'es' && stat.labelEs ? stat.labelEs : stat.label;
-      return `${stat.value} — ${label}\n\n${policyUrl}`;
+      return `${stat.value} - ${label}\n\n${policyUrl}`;
     },
     [stats, locale, policyUrl],
   );
@@ -406,7 +406,7 @@ export default function ShareableStatCard({
     async (index: number) => {
       const stat = stats[index];
       const label = locale === 'es' && stat.labelEs ? stat.labelEs : stat.label;
-      const text = encodeURIComponent(`${stat.value} — ${label}`);
+      const text = encodeURIComponent(`${stat.value} - ${label}`);
       const url = encodeURIComponent(policyUrl);
       window.open(
         `https://twitter.com/intent/tweet?text=${text}&url=${url}`,
@@ -457,7 +457,11 @@ export default function ShareableStatCard({
           blob &&
           navigator.canShare?.({ files: [new File([blob], 'stat.png', { type: 'image/png' })] })
         ) {
-          const file = new File([blob], `${siteConfig.name.en.toLowerCase().replace(/\s+/g, '-')}-stat.png`, { type: 'image/png' });
+          const file = new File(
+            [blob],
+            `${siteConfig.name.en.toLowerCase().replace(/\s+/g, '-')}-stat.png`,
+            { type: 'image/png' },
+          );
           await navigator.share({ text, url: policyUrl, files: [file] });
         } else {
           await navigator.share({ text, url: policyUrl });

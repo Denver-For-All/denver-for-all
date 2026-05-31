@@ -21,10 +21,10 @@ import {
 
 const C = {
   danger: '#C0392B',
-  primary: '#0D7377',
-  primaryLight: '#7DD3C0',
-  secondary: '#1E5FA6',
-  accent: '#D4A843',
+  primary: '#00408b',
+  primaryLight: '#5b9bd5',
+  secondary: '#2b86d8',
+  accent: '#f2c14e',
   muted: '#8A95A3',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -204,8 +204,8 @@ function CourtOutcomesChart({ locale }: { locale: string }) {
       label: locale === 'es' ? 'sentencia de posesión otorgada' : 'judgment for possession granted',
       sub:
         locale === 'es'
-          ? `${o.judgmentForPossession.yes.toLocaleString()} de ${o.total.toLocaleString()} casos (2024–2026)`
-          : `${o.judgmentForPossession.yes.toLocaleString()} of ${o.total.toLocaleString()} cases (2024–2026)`,
+          ? `${o.judgmentForPossession.yes.toLocaleString()} de ${o.total.toLocaleString()} casos (2024-2026)`
+          : `${o.judgmentForPossession.yes.toLocaleString()} of ${o.total.toLocaleString()} cases (2024-2026)`,
       color: C.danger,
       bg: '#FDF2F2',
     },
@@ -227,8 +227,8 @@ function CourtOutcomesChart({ locale }: { locale: string }) {
       label: locale === 'es' ? 'orden de restitución emitida' : 'writ of restitution issued',
       sub:
         locale === 'es'
-          ? `${o.writOfRestitution.yes.toLocaleString()} casos — el sheriff ejecuta el desalojo físico`
-          : `${o.writOfRestitution.yes.toLocaleString()} cases — sheriff enforces physical removal`,
+          ? `${o.writOfRestitution.yes.toLocaleString()} casos - el sheriff ejecuta el desalojo físico`
+          : `${o.writOfRestitution.yes.toLocaleString()} cases - sheriff enforces physical removal`,
       color: C.secondary,
       bg: C.bgAlt,
     },
@@ -237,8 +237,8 @@ function CourtOutcomesChart({ locale }: { locale: string }) {
       label: locale === 'es' ? 'sentencia en rebeldía' : 'default judgment',
       sub:
         locale === 'es'
-          ? 'El inquilino no compareció — pierde automáticamente'
-          : "Tenant didn't show up — automatic loss",
+          ? 'El inquilino no compareció - pierde automáticamente'
+          : "Tenant didn't show up - automatic loss",
       color: C.muted,
       bg: C.bgAlt,
     },
@@ -445,8 +445,8 @@ function HousingContext({ locale }: { locale: string }) {
         }}
       >
         {locale === 'es'
-          ? 'Las rentas bajan, las vacantes suben — pero los desalojos no paran'
-          : "Rents declining, vacancies rising — but evictions aren't slowing"}
+          ? 'Las rentas bajan, las vacantes suben - pero los desalojos no paran'
+          : "Rents declining, vacancies rising - but evictions aren't slowing"}
       </div>
     </div>
   );

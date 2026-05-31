@@ -1,21 +1,29 @@
 :root {
-  /* Denver For All - Green/Blue Community Palette */
-  --color-primary: #0d7377;
-  --color-primary-dark: #095456;
-  --color-primary-light: #7dd3c0;
-  --color-secondary: #1e5fa6;
+  /* Denver For All - Colorado Flag Civic Palette */
+  /* Flag blue (Pantone 287), Capitol gold, Colorado red (Pantone 186) */
+  --color-primary: #00408b;
+  --color-primary-dark: #002d63;
+  --color-primary-light: #5b9bd5;
+  --color-secondary: #2b86d8;
   --color-secondary-light: #6ba3d6;
-  --color-accent: #d4a843;
-  --color-accent-light: #f2d98a;
-  --color-danger: #c0392b;
+  --color-accent: #f2c14e;
+  --color-accent-light: #f7d784;
+  --color-danger: #c8102e;
 
   --color-bg: #fafbfc;
-  --color-bg-alt: #f0f4f5;
+  --color-bg-alt: #eef2f7;
   --color-bg-card: #ffffff;
-  --color-text: #1a2332;
-  --color-text-muted: #5a6978;
+  --color-text: #14233b;
+  --color-text-muted: #56657a;
   --color-text-light: #8a95a3;
-  --color-border: #d8dee4;
+  --color-border: #d6dde6;
+
+  /* Surface tokens for header/footer so they adapt across color schemes */
+  --color-header-bg: rgba(250, 251, 252, 0.92);
+  --color-footer-bg: #0d1b2e;
+  --color-footer-heading: #ffffff;
+  --color-footer-text: #9fb0c3;
+  --color-footer-link: #7cc0f0;
 
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-heading: 'Inter', system-ui, -apple-system, sans-serif;
@@ -262,7 +270,7 @@ p {
 /* Language-driven content switching.
  * These CSS rules are the SOLE mechanism for showing/hiding data-lang
  * content blocks. JavaScript must NEVER set inline style.display on
- * data-lang elements — doing so overrides these rules permanently and
+ * data-lang elements - doing so overrides these rules permanently and
  * breaks toggling. The JS toggle only sets document.documentElement.lang. */
 [data-lang='en'] {
   display: block;
@@ -316,14 +324,14 @@ html[lang='es'] [data-lang='en'] {
    ============================================================ */
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-primary: #14a3a8;
-    --color-primary-dark: #0d7377;
-    --color-primary-light: #4db8b3;
-    --color-secondary: #4a8fd4;
+    --color-primary: #4a9be0;
+    --color-primary-dark: #00408b;
+    --color-primary-light: #6bb3e8;
+    --color-secondary: #5aa0e0;
     --color-secondary-light: #7ab5e8;
-    --color-accent: #e0b95a;
-    --color-accent-light: #f5d98a;
-    --color-danger: #e05c4a;
+    --color-accent: #f2c75c;
+    --color-accent-light: #f7d784;
+    --color-danger: #ef5466;
 
     --color-bg: #0d1117;
     --color-bg-alt: #151c25;
@@ -332,6 +340,10 @@ html[lang='es'] [data-lang='en'] {
     --color-text-muted: #94a3b8;
     --color-text-light: #64748b;
     --color-border: #2d3748;
+
+    /* Header background follows the dark page background; footer stays a
+       constant deep navy in both schemes (tokens defined in :root). */
+    --color-header-bg: rgba(13, 17, 23, 0.92);
 
     --shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2);
     --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);

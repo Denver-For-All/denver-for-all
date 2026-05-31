@@ -75,7 +75,7 @@ Esto ya no es experimental. Más de 150 ciudades de EE. UU. han ejecutado progra
 La objeción más común al ingreso garantizado es que las personas dejarán de trabajar. Los datos dicen lo contrario:
 
 - **Stockton:** El empleo a tiempo completo _aumentó_ 12 puntos porcentuales entre los beneficiarios frente a 5 puntos en el grupo de control.
-- **A través de 20 estudios:** "Ni un solo programa piloto ha mostrado una disminución en el empleo". -- Sukhi Samra, Alcaldes por un Ingreso Garantizado.
+- **A través de 20 estudios:** "Ni un solo programa piloto ha mostrado una disminución en el empleo". - Sukhi Samra, Alcaldes por un Ingreso Garantizado.
 - **El mecanismo es intuitivo:** La estabilidad financiera permite a las personas invertir en mejores búsquedas de empleo en lugar de tomar la primera opción desesperada. Permite a los padres pagar el cuidado infantil y realmente presentarse al trabajo. Permite a los trabajadores completar programas de capacitación. La estabilidad en efectivo es una condición previa para la movilidad económica, no un sustituto de ella.
 
 ## Cómo Lo Financiamos
@@ -111,7 +111,7 @@ El Condado de Cook, Illinois, estableció un financiamiento de ingreso garantiza
 
 ## Referencias
 
-- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked -- and what didn't." Análisis agregado de los programas piloto de ingreso garantizado de EE. UU.
+- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Análisis agregado de los programas piloto de ingreso garantizado de EE. UU.
 - Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Metaanálisis de 20 evaluaciones revisadas por pares.
 - Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 experimentos en curso; más de 150 en total.
 - University of Kansas. (2025). Evaluación del programa piloto de ingreso garantizado de Boulder. 200 residentes, $500/mes, resultados de empleo mixtos, resultados positivos de necesidades básicas.

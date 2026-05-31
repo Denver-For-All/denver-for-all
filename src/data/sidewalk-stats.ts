@@ -1,6 +1,6 @@
 /**
  * Data from the Denver Sidewalk Implementation Plan: State of the System Report
- * City and County of Denver — January 22, 2026
+ * City and County of Denver - January 22, 2026
  */
 
 export const networkOverview = {
@@ -67,6 +67,6 @@ export const highInjuryNetwork = {
 
 export const donutData = [
   { name: 'Missing', nameEs: 'Faltante', value: 318, color: '#C0392B' },
-  { name: 'Deficient', nameEs: 'Deficiente', value: 1162, color: '#D4A843' },
-  { name: 'Adequate', nameEs: 'Adecuado', value: 1660, color: '#0D7377' },
+  { name: 'Deficient', nameEs: 'Deficiente', value: 1162, color: '#f2c14e' },
+  { name: 'Adequate', nameEs: 'Adecuado', value: 1660, color: '#00408b' },
 ];

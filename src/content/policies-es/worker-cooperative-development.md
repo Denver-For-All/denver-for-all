@@ -28,11 +28,11 @@ Crear un **Fondo de Desarrollo Cooperativo de Denver de $20M** que proporcione:
 - **Garantías de préstamos** para préstamos de adquisición de negocios cooperativos de trabajadores.
 - **Préstamos de adquisición a bajo interés** para hacer competitivo el financiamiento de compras de trabajadores.
 
-### 2. Programa de Sucesión Empresarial — Convertir Antes de Cerrar
+### 2. Programa de Sucesión Empresarial - Convertir Antes de Cerrar
 
 Asociarse con el Centro de Desarrollo de Pequeñas Empresas de Denver para identificar proactivamente a los propietarios de empresas que se jubilan y ofrecer la conversión de trabajadores como opción de sucesión.
 
-Objetivo: 50 conversiones de cooperativas de trabajadores en los primeros cuatro años, preservando un estimado de 1,500–2,500 empleos.
+Objetivo: 50 conversiones de cooperativas de trabajadores en los primeros cuatro años, preservando un estimado de 1,500-2,500 empleos.
 
 ### 3. Preferencia Cooperativa en Contratación Municipal
 
@@ -66,9 +66,9 @@ Lanzar un **Programa Piloto de Cuidado en el Hogar Cooperativo** en asociación 
 
 ### Programas Modelo
 
-- **Madison, Wisconsin** — El Fondo de Desarrollo Cooperativo de la Ciudad ha catalizado más de 40 cooperativas de trabajadores desde 2014.
-- **Ciudad de Nueva York** — La inversión de $2.1M en desarrollo cooperativo (2015) produjo 28 nuevas cooperativas con más de 350 trabajadores-propietarios.
-- **Cleveland, Ohio** — Las Cooperativas Evergreen emplean a cientos de trabajadores en lavandería, instalación solar y producción de alimentos.
+- **Madison, Wisconsin** - El Fondo de Desarrollo Cooperativo de la Ciudad ha catalizado más de 40 cooperativas de trabajadores desde 2014.
+- **Ciudad de Nueva York** - La inversión de $2.1M en desarrollo cooperativo (2015) produjo 28 nuevas cooperativas con más de 350 trabajadores-propietarios.
+- **Cleveland, Ohio** - Las Cooperativas Evergreen emplean a cientos de trabajadores en lavandería, instalación solar y producción de alimentos.
 
 ## Contexto Local
 

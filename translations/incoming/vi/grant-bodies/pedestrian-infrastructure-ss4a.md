@@ -130,8 +130,8 @@ Khoản đầu tư liên bang được yêu cầu là $15 triệu thể hiện *
 | Giảm Tốc Độ Giao Thông & An Toàn Đi Bộ    | $2.000.000       | 13%       |
 | Quản Lý Dự Án & Đánh Giá                  | $1.000.000       | 7%        |
 | **Tổng Số Tiền Yêu Cầu từ Liên Bang**     | **$15.000.000**  | **100%**  |
-| Đối Ứng Địa Phương (doanh thu phí vỉa hè) | $97.500.000      | —         |
-| **Tổng Đầu Tư Dự Án**                     | **$112.500.000** | —         |
+| Đối Ứng Địa Phương (doanh thu phí vỉa hè) | $97.500.000      | - |
+| **Tổng Đầu Tư Dự Án**                     | **$112.500.000** | - |
 
 ## Kết Quả Dự Kiến
 

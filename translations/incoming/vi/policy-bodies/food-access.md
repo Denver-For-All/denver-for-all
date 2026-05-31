@@ -44,7 +44,7 @@ Những chương trình này rất quan trọng, nhưng chúng không tạo thà
 
 ### 4. Trung Tâm Lương Thực Cộng Đồng
 
-- **Một trung tâm lương thực cộng đồng ở mọi khu dân cư thiếu lương thực**, kết hợp: bán lẻ hàng tạp hóa giá cả phải chăng, bếp ăn cộng đồng, các chương trình giáo dục dinh dưỡng và phân phối ngân hàng thực phẩm trang trọng. Mô hình của FreshLo Market—với các thỏa thuận phúc lợi cộng đồng và các ủy ban tư vấn do cư dân lãnh đạo—chứng minh cách bán lẻ hàng tạp hóa có thể thực sự có trách nhiệm với cộng đồng.
+- **Một trung tâm lương thực cộng đồng ở mọi khu dân cư thiếu lương thực**, kết hợp: bán lẻ hàng tạp hóa giá cả phải chăng, bếp ăn cộng đồng, các chương trình giáo dục dinh dưỡng và phân phối ngân hàng thực phẩm trang trọng. Mô hình của FreshLo Market - với các thỏa thuận phúc lợi cộng đồng và các ủy ban tư vấn do cư dân lãnh đạo - chứng minh cách bán lẻ hàng tạp hóa có thể thực sự có trách nhiệm với cộng đồng.
 - **Bếp ăn cộng đồng**: không gian bếp thương mại dùng chung cho các doanh nhân thực phẩm, đầu bếp tại gia và các thành viên cộng đồng, có sẵn với giá thuê dưới giá thị trường
 - **Các lớp học nấu ăn và giáo dục dinh dưỡng** phù hợp về mặt văn hóa và đa ngôn ngữ, được phát triển với sự đóng góp của cộng đồng, không áp đặt từ bên ngoài
 - **Hội thảo bảo quản thực phẩm**: đóng hộp, lên men, sấy khô và các phương pháp khác kéo dài giá trị của thực phẩm tươi sống và kết nối với các truyền thống thực phẩm văn hóa

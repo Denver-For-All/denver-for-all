@@ -60,7 +60,7 @@ Vậy thì mô hình kinh doanh của họ được trợ cấp bởi sự nghè
 Họ vẫn sẽ kiếm được số tiền đó. Họ cũng sẽ kiếm được một mức lương cơ bản được đảm bảo. Những người được hưởng lợi nhiều nhất là những công nhân tại Denny's và Applebee's, không phải là người phục vụ rượu tại nhà hàng bít tết.
 
 **"Điều này sẽ gây tổn hại cho các nhà hàng nhỏ, độc lập hơn là các chuỗi nhà hàng phải không?"**
-Khoản tín dụng thuế 2 năm cho các doanh nghiệp nhỏ đặc biệt giải quyết vấn đề này. Nhưng bằng chứng từ các tiểu bang One Fair Wage cho thấy các nhà hàng độc lập phát triển mạnh -- bởi vì công nhân của họ thực sự có thể đủ khả năng ăn ở các nhà hàng địa phương khác. Tiền lương cao hơn tạo ra một vòng tuần hoàn đạo đức của chi tiêu địa phương. Và sân chơi là bình đẳng: khi mọi nhà hàng trả cùng một mức lương cơ bản, không ai có bất lợi cạnh tranh.
+Khoản tín dụng thuế 2 năm cho các doanh nghiệp nhỏ đặc biệt giải quyết vấn đề này. Nhưng bằng chứng từ các tiểu bang One Fair Wage cho thấy các nhà hàng độc lập phát triển mạnh - bởi vì công nhân của họ thực sự có thể đủ khả năng ăn ở các nhà hàng địa phương khác. Tiền lương cao hơn tạo ra một vòng tuần hoàn đạo đức của chi tiêu địa phương. Và sân chơi là bình đẳng: khi mọi nhà hàng trả cùng một mức lương cơ bản, không ai có bất lợi cạnh tranh.
 
 ## Ai Phản Đối Điều Này (và Tại Sao)
 

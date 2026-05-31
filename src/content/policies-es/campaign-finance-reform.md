@@ -69,7 +69,7 @@ Parcialmente. Pero la evidencia de las jurisdicciones con programas de correspon
 
 | Elemento                                           | Costo Anual                            |
 | -------------------------------------------------- | -------------------------------------- |
-| Fondo de Democracia de Denver                      | ~$4–6M por ciclo electoral             |
+| Fondo de Democracia de Denver                      | ~$4-6M por ciclo electoral             |
 | Junta de Supervisión de Financiamiento de Campañas | ~$750K/año                             |
 | Tecnología de divulgación mejorada                 | ~$250K único, ~$100K/año mantenimiento |
 

@@ -143,7 +143,7 @@ export const realEstateMoney = {
  * Source: Colorado TRACER & Denver Clerk filings, Nov 2024 - Jan 2026
  */
 export const ballotMeasures2025 = {
-  /** Vibrant Denver Bond (Issues 2A-2E) — Infrastructure bond */
+  /** Vibrant Denver Bond (Issues 2A-2E) - Infrastructure bond */
   vibrantDenverBond: {
     name: 'Vibrant Denver Bond',
     issues: '2A, 2B, 2C, 2D, 2E',
@@ -181,7 +181,7 @@ export const ballotMeasures2025 = {
     bloombergPercent: 85,
   },
 
-  /** Citizen Power! (supporting Referendum 310 — pro-tobacco/vaping) */
+  /** Citizen Power! (supporting Referendum 310 - pro-tobacco/vaping) */
   citizenPower: {
     name: 'Citizen Power!',
     issue: 'Referendum 310',
@@ -200,7 +200,7 @@ export const ballotMeasures2025 = {
     tobaccoIndustryPercent: 90,
   },
 
-  /** Majority Vote Denver (pro Measure 2G — election reform) */
+  /** Majority Vote Denver (pro Measure 2G - election reform) */
   majorityVoteDenver: {
     name: 'Majority Vote Denver',
     issue: 'Referred Measure 2G',
@@ -229,7 +229,7 @@ export const ballotMeasures2025 = {
     ],
   },
 
-  /** Referendum 310 total battle — tobacco war summary */
+  /** Referendum 310 total battle - tobacco war summary */
   ref310Summary: {
     antiTobaccoTotal: 6400000,
     proTobaccoTotal: 665000,
@@ -239,7 +239,7 @@ export const ballotMeasures2025 = {
 };
 
 /**
- * 2025 Pro-Animal Colorado — Foie Gras Ban Initiative
+ * 2025 Pro-Animal Colorado - Foie Gras Ban Initiative
  * Source: Colorado TRACER, through January 2026
  */
 export const foieGrasBan2025 = {
@@ -265,7 +265,7 @@ export const foieGrasBan2025 = {
 };
 
 /**
- * Early 2027 Election Cycle — Council & Mayoral Race Fundraising
+ * Early 2027 Election Cycle - Council & Mayoral Race Fundraising
  * Source: Colorado TRACER & Denver Clerk filings, through January 2026
  */
 export const earlyFundraising2027 = [

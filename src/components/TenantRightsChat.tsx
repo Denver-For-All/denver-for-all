@@ -39,7 +39,7 @@ export default function TenantRightsChat() {
       theme="light"
       size="full"
       borderRadius="large"
-      accentColor="#0D7377"
+      accentColor="#00408b"
       title={t.title}
       chatFirstMessage={t.chatFirstMessage}
       chatPlaceholder={t.chatPlaceholder}

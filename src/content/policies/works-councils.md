@@ -13,20 +13,20 @@ keyStats:
   - value: '350:1'
     label: 'CEO-to-worker pay ratio today'
     labelEs: 'proporcion de pago CEO-a-trabajador hoy'
-    context: 'Up from 20:1 in 1965 — workers are more productive, CEOs took all the gains'
-    contextEs: 'Desde 20:1 en 1965 — los trabajadores son mas productivos, los CEOs tomaron todas las ganancias'
+    context: 'Up from 20:1 in 1965 - workers are more productive, CEOs took all the gains'
+    contextEs: 'Desde 20:1 en 1965 - los trabajadores son mas productivos, los CEOs tomaron todas las ganancias'
     source: 'Economic Policy Institute, 2022'
     theme: 'danger'
   - value: '40M+'
     label: 'German workers covered by works councils'
     labelEs: 'trabajadores alemanes cubiertos por comites de empresa'
-    context: 'Law since 1952 — higher productivity, lower turnover, higher wages than US'
-    contextEs: 'Ley desde 1952 — mayor productividad, menor rotacion, salarios mas altos que en EE.UU.'
+    context: 'Law since 1952 - higher productivity, lower turnover, higher wages than US'
+    contextEs: 'Ley desde 1952 - mayor productividad, menor rotacion, salarios mas altos que en EE.UU.'
     source: 'German Works Constitution Act'
     theme: 'primary'
   - value: '12,000'
-    label: 'Denver city employees — the starting point'
-    labelEs: 'empleados de la ciudad de Denver — el punto de partida'
+    label: 'Denver city employees - the starting point'
+    labelEs: 'empleados de la ciudad de Denver - el punto de partida'
     context: 'City has direct authority to implement works councils for its own workforce today'
     contextEs: 'La ciudad tiene autoridad directa para implementar comites de empresa hoy'
     theme: 'accent'
@@ -42,7 +42,7 @@ The result: American workers are more productive than ever but have no say in ho
 
 Denver has **no works council framework or codetermination requirements**. No US city or state currently mandates works councils, though some German-owned companies (BMW, Volkswagen, Siemens) maintain informal consultative structures at their US facilities.
 
-Denver's city government employs approximately 12,000 workers. City contractors employ tens of thousands more. The city has direct authority over labor relations for its own workforce and can set conditions for its contractors -- making city operations the natural starting point for this model.
+Denver's city government employs approximately 12,000 workers. City contractors employ tens of thousands more. The city has direct authority over labor relations for its own workforce and can set conditions for its contractors - making city operations the natural starting point for this model.
 
 ## Our Solution
 

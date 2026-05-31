@@ -9,7 +9,7 @@ Las reglas actuales exigen que los anfitriones de STR obtengan una licencia, rec
 
 ### Cómo los STR Aumentan los Alquileres
 
-La economía es sencilla. Un propietario que elige entre un inquilino a largo plazo a $1,500/mes y huéspedes de Airbnb a $150/noche solo necesita ocupar la unidad 10 noches al mes para igualar los ingresos por alquiler a largo plazo. Cuando suficientes propietarios toman esta decisión, la oferta de alquileres a largo plazo se reduce, las tasas de vacancia caen y los alquileres suben. La investigación académica confirma el efecto: un estudio de 2021 (Barron, Kung y Proserpio) encontró que un aumento del 1% en los listados de Airbnb en un vecindario se asocia con un aumento del 0.7–1.3% en los alquileres.
+La economía es sencilla. Un propietario que elige entre un inquilino a largo plazo a $1,500/mes y huéspedes de Airbnb a $150/noche solo necesita ocupar la unidad 10 noches al mes para igualar los ingresos por alquiler a largo plazo. Cuando suficientes propietarios toman esta decisión, la oferta de alquileres a largo plazo se reduce, las tasas de vacancia caen y los alquileres suben. La investigación académica confirma el efecto: un estudio de 2021 (Barron, Kung y Proserpio) encontró que un aumento del 1% en los listados de Airbnb en un vecindario se asocia con un aumento del 0.7-1.3% en los alquileres.
 
 ### Las Reglas Actuales de Denver No Se Hacen Cumplir
 
@@ -21,14 +21,14 @@ Denver exige que los anfitriones de STR tengan una licencia basada en residencia
 
 ## Nuestra Solución
 
-### 1. Solo Residencia Primaria — Estrictamente Aplicado
+### 1. Solo Residencia Primaria - Estrictamente Aplicado
 
 - **Licencias de STR vinculadas a la residencia primaria verificada** del anfitrión.
 - **Reverificación anual** del estado de residencia primaria.
 - Los anfitriones pueden alquilar su residencia principal completa **solo mientras estén físicamente ausentes**, con un límite de **90 noches por año**.
 - Los anfitriones pueden alquilar **una habitación dentro de su residencia principal** sin límite nocturno.
 
-### 2. Aplicación Proactiva — Fin del Modelo Solo por Quejas
+### 2. Aplicación Proactiva - Fin del Modelo Solo por Quejas
 
 - **Intercambio mensual de datos de las plataformas.** Requerir que Airbnb, VRBO y cualquier otra plataforma de STR proporcionen a la ciudad exportaciones mensuales completas de datos de listados.
 - **Referencias cruzadas automatizadas** con registros de propiedades y base de datos de licencias.
@@ -37,7 +37,7 @@ Denver exige que los anfitriones de STR tengan una licencia basada en residencia
 
 ### 3. Oficina de Aplicación de STR Dedicada
 
-Crear una Oficina de Aplicación de STR dedicada dentro del Departamento de Excise y Licencias de Denver con 5–8 investigadores de tiempo completo financiados por las tarifas de licencias y los ingresos por multas.
+Crear una Oficina de Aplicación de STR dedicada dentro del Departamento de Excise y Licencias de Denver con 5-8 investigadores de tiempo completo financiados por las tarifas de licencias y los ingresos por multas.
 
 ### 4. Fondo de Retorno de Vivienda STR
 
@@ -83,11 +83,11 @@ La Ley Local 18 de Nueva York demuestra que sí. La clave es la responsabilidad 
 | Fuente de Ingresos                                  | Monto Anual Estimado |
 | --------------------------------------------------- | -------------------- |
 | Tarifas de licencias de STR ($500/año por licencia) | ~$1.75M              |
-| Ingresos por multas                                 | ~$2–5M/año           |
-| Cumplimiento del impuesto de hospedaje              | ~$1–2M/año           |
-| **Total**                                           | **~$5–9M/año**       |
+| Ingresos por multas                                 | ~$2-5M/año           |
+| Cumplimiento del impuesto de hospedaje              | ~$1-2M/año           |
+| **Total**                                           | **~$5-9M/año**       |
 
-Costos operativos de la Oficina de Aplicación de STR: ~$1.5M/año. Superávit neto dedicado al Fondo de Retorno de Vivienda STR: ~$3–7M/año.
+Costos operativos de la Oficina de Aplicación de STR: ~$1.5M/año. Superávit neto dedicado al Fondo de Retorno de Vivienda STR: ~$3-7M/año.
 
 ## Referencias
 

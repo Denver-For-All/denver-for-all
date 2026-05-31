@@ -14,18 +14,18 @@ Việc lấy mẫu đất độc lập ở các khu dân cư Denver và các khu
 
 ### Ô Nhiễm Không Khí & Khủng Hoảng Ozone Denver
 
-Denver có một vấn đề nghiêm trọng về chất lượng không khí đang trở nên tồi tệ hơn, chứ không phải tốt hơn. EPA đã phân loại khu vực Denver Metro/North Front Range là khu vực "nghiêm trọng" không đạt tiêu chuẩn ozone — có nghĩa là khu vực này liên tục không đáp ứng các tiêu chuẩn chất lượng không khí liên bang. Riêng năm 2023, Denver đã ghi nhận 18 ngày ozone "không lành mạnh" hoặc tệ hơn (Ủy ban Kiểm soát Chất lượng Không khí DPHE Colorado) và xu hướng này đang trở nên tồi tệ hơn.
+Denver có một vấn đề nghiêm trọng về chất lượng không khí đang trở nên tồi tệ hơn, chứ không phải tốt hơn. EPA đã phân loại khu vực Denver Metro/North Front Range là khu vực "nghiêm trọng" không đạt tiêu chuẩn ozone - có nghĩa là khu vực này liên tục không đáp ứng các tiêu chuẩn chất lượng không khí liên bang. Riêng năm 2023, Denver đã ghi nhận 18 ngày ozone "không lành mạnh" hoặc tệ hơn (Ủy ban Kiểm soát Chất lượng Không khí DPHE Colorado) và xu hướng này đang trở nên tồi tệ hơn.
 
-Vấn đề một phần là do địa lý. Denver nằm trong một lưu vực giữa dãy núi Front Range và đồng bằng, tạo ra một lòng chảo địa hình giữ lại các chất ô nhiễm — "Đám Mây Nâu" khét tiếng. Sự đảo ngược nhiệt độ, đặc biệt là vào mùa đông, bao phủ lòng chảo và tập trung khí thải ở độ cao mặt đất. Điều này có nghĩa là địa lý của Denver _khuếch đại_ tác động của mỗi tấn ô nhiễm thải ra.
+Vấn đề một phần là do địa lý. Denver nằm trong một lưu vực giữa dãy núi Front Range và đồng bằng, tạo ra một lòng chảo địa hình giữ lại các chất ô nhiễm - "Đám Mây Nâu" khét tiếng. Sự đảo ngược nhiệt độ, đặc biệt là vào mùa đông, bao phủ lòng chảo và tập trung khí thải ở độ cao mặt đất. Điều này có nghĩa là địa lý của Denver _khuếch đại_ tác động của mỗi tấn ô nhiễm thải ra.
 
 Nguồn ô nhiễm rất đa dạng và ngày càng gia tăng:
 
-- **Khí thải xe cộ:** Denver là một thành phố phụ thuộc vào ô tô. Trung bình, người dân Denver lái xe một mình và mô hình phát triển lan rộng của khu vực đô thị tạo ra số dặm xe cộ di chuyển khổng lồ. Ozone ở tầng mặt đất hình thành khi khí thải xe cộ (oxit nitơ và các hợp chất hữu cơ dễ bay hơi) phản ứng với ánh sáng mặt trời — và Denver có hơn 300 ngày nắng mỗi năm
+- **Khí thải xe cộ:** Denver là một thành phố phụ thuộc vào ô tô. Trung bình, người dân Denver lái xe một mình và mô hình phát triển lan rộng của khu vực đô thị tạo ra số dặm xe cộ di chuyển khổng lồ. Ozone ở tầng mặt đất hình thành khi khí thải xe cộ (oxit nitơ và các hợp chất hữu cơ dễ bay hơi) phản ứng với ánh sáng mặt trời - và Denver có hơn 300 ngày nắng mỗi năm
 - **Hoạt động dầu khí:** Phía bắc Front Range là một trong những khu vực sản xuất dầu khí thâm canh nhất trong cả nước. Hơn 20.000 giếng đang hoạt động ở Lưu vực DJ thải ra khí metan, các hợp chất hữu cơ dễ bay hơi và các chất ô nhiễm không khí nguy hiểm trôi vào khu vực đô thị Denver. Các nghiên cứu của NOAA và Đại học Bang Colorado đã ghi nhận lượng khí thải metan và VOC đáng kể ở Front Range vượt quá ước tính của EPA
 - **Khói cháy rừng:** Các vụ cháy rừng do khí hậu gây ra trên khắp miền tây Hoa Kỳ ngày càng bao phủ Denver bằng các hạt vật chất. Các đợt khói trở nên dài hơn, thường xuyên hơn và dữ dội hơn. Các mùa cháy rừng năm 2020 và 2021 đã đẩy AQI của Denver lên trên 300 ("nguy hiểm") trong nhiều ngày
-- **Nguồn công nghiệp:** Nhà máy lọc dầu Suncor ở Commerce City — nằm cạnh các khu dân cư Globeville và Elyria-Swansea chủ yếu là người Latinh — đã nhiều lần vi phạm giấy phép chất lượng không khí và thải ra hydro xyanua và các chất độc khác. Vận động cộng đồng đã dẫn đến cam kết đóng cửa nhà máy lọc dầu, nhưng việc khắc phục và thực thi vẫn là những mối quan tâm đang diễn ra
+- **Nguồn công nghiệp:** Nhà máy lọc dầu Suncor ở Commerce City - nằm cạnh các khu dân cư Globeville và Elyria-Swansea chủ yếu là người Latinh - đã nhiều lần vi phạm giấy phép chất lượng không khí và thải ra hydro xyanua và các chất độc khác. Vận động cộng đồng đã dẫn đến cam kết đóng cửa nhà máy lọc dầu, nhưng việc khắc phục và thực thi vẫn là những mối quan tâm đang diễn ra
 
-**Tác động đến sức khỏe rất nghiêm trọng và không công bằng.** Tỷ lệ nhập viện vì hen suyễn ở khu vực đô thị Denver của Colorado cao hơn mức trung bình của tiểu bang. Trẻ em, người lớn tuổi, công nhân làm việc ngoài trời và những người có bệnh về đường hô hấp phải gánh chịu những hậu quả tồi tệ nhất. Các khu dân cư gần đường cao tốc, cơ sở công nghiệp và nhà máy lọc dầu Suncor có chất lượng không khí đặc biệt kém. Ô nhiễm không khí không tôn trọng mã vùng một cách bình đẳng — nó tuân theo thu nhập và chủng tộc.
+**Tác động đến sức khỏe rất nghiêm trọng và không công bằng.** Tỷ lệ nhập viện vì hen suyễn ở khu vực đô thị Denver của Colorado cao hơn mức trung bình của tiểu bang. Trẻ em, người lớn tuổi, công nhân làm việc ngoài trời và những người có bệnh về đường hô hấp phải gánh chịu những hậu quả tồi tệ nhất. Các khu dân cư gần đường cao tốc, cơ sở công nghiệp và nhà máy lọc dầu Suncor có chất lượng không khí đặc biệt kém. Ô nhiễm không khí không tôn trọng mã vùng một cách bình đẳng - nó tuân theo thu nhập và chủng tộc.
 
 ### Biến Đổi Khí Hậu
 
@@ -107,7 +107,7 @@ Việc Denver không đạt tiêu chuẩn ozone là một tình trạng khẩn c
 
 **Giám Sát và Minh Bạch:**
 
-- Mạng lưới giám sát chất lượng không khí theo thời gian thực, ở cấp độ khu dân cư với bảng điều khiển công khai — không chỉ một số trạm giám sát của tiểu bang bỏ lỡ ô nhiễm siêu cục bộ
+- Mạng lưới giám sát chất lượng không khí theo thời gian thực, ở cấp độ khu dân cư với bảng điều khiển công khai - không chỉ một số trạm giám sát của tiểu bang bỏ lỡ ô nhiễm siêu cục bộ
 - Các khoản tài trợ giám sát không khí cộng đồng cho các tổ chức khu dân cư để triển khai các cảm biến chi phí thấp
 - Các giao thức ngày hành động ozone: các hạn chế tự động đối với các hoạt động tạo ra khí thải (ví dụ: cắt cỏ, hoạt động công nghiệp) khi dự báo AQI vượt quá mức trung bình
 - Báo cáo công khai "Tình trạng Không khí của Denver" hàng năm với dữ liệu cấp khu dân cư, phân tích tác động sức khỏe và theo dõi tiến độ
@@ -155,13 +155,13 @@ Burlington, VT đã đạt được 100% điện tái tạo vào năm 2014. Các
 Xcel cung cấp điện cho Denver theo thỏa thuận nhượng quyền. Thành phố đàm phán các điều khoản nhượng quyền và có thể áp đặt các yêu cầu về nguồn cung cấp năng lượng tái tạo, khả năng tiếp cận lưới điện cho năng lượng mặt trời phân tán và cấu trúc giá. Việc gia hạn nhượng quyền là điểm đòn bẩy lớn nhất mà Denver có về chính sách năng lượng. Chúng ta phải sử dụng nó. Để biết đề xuất đầy đủ của chúng tôi về độ tin cậy của năng lượng, các giải pháp thay thế năng lượng thành phố và các biện pháp bảo vệ an toàn tính mạng cho cư dân dễ bị tổn thương về mặt y tế, hãy xem: [Độ Tin Cậy của Năng Lượng & Năng Lượng Thành Phố](/platform/power-reliability).
 
 **"Denver có thực sự có thể khắc phục chất lượng không khí của mình do địa lý không?"**
-Có. Los Angeles có cùng một vấn đề địa hình — một lưu vực giữ lại các chất ô nhiễm — và giảm số ngày vượt quá ozone hơn 75% thông qua các chính sách giảm phát thải bền vững trong nhiều thập kỷ. Đám Mây Nâu của Denver không phải là định mệnh. Đó là kết quả của các lựa chọn chính sách có thể thay đổi: phát triển phụ thuộc vào ô tô, kiểm soát công nghiệp lỏng lẻo và đầu tư không đủ vào giao thông công cộng. Địa lý đặt ra mức độ khó khăn; chính sách quyết định kết quả.
+Có. Los Angeles có cùng một vấn đề địa hình - một lưu vực giữ lại các chất ô nhiễm - và giảm số ngày vượt quá ozone hơn 75% thông qua các chính sách giảm phát thải bền vững trong nhiều thập kỷ. Đám Mây Nâu của Denver không phải là định mệnh. Đó là kết quả của các lựa chọn chính sách có thể thay đổi: phát triển phụ thuộc vào ô tô, kiểm soát công nghiệp lỏng lẻo và đầu tư không đủ vào giao thông công cộng. Địa lý đặt ra mức độ khó khăn; chính sách quyết định kết quả.
 
 **"Ozone không phải là vấn đề của tiểu bang và liên bang sao?"**
-Sự hình thành ozone là khu vực, nhưng Denver kiểm soát nhiều đòn bẩy: giảm số chuyến đi xe cộ thông qua giao thông công cộng và sử dụng đất, hạn chế chạy không tải, cơ sở hạ tầng xe điện, quy tắc xây dựng, cấp phép công nghiệp và tán cây. Thành phố cũng có ảnh hưởng chính trị đối với chính sách của tiểu bang — phái đoàn của Denver là lớn nhất trong cơ quan lập pháp. Sử dụng đòn bẩy đó để tăng cường kiểm soát khí thải dầu khí Front Range là một phần của chiến lược.
+Sự hình thành ozone là khu vực, nhưng Denver kiểm soát nhiều đòn bẩy: giảm số chuyến đi xe cộ thông qua giao thông công cộng và sử dụng đất, hạn chế chạy không tải, cơ sở hạ tầng xe điện, quy tắc xây dựng, cấp phép công nghiệp và tán cây. Thành phố cũng có ảnh hưởng chính trị đối với chính sách của tiểu bang - phái đoàn của Denver là lớn nhất trong cơ quan lập pháp. Sử dụng đòn bẩy đó để tăng cường kiểm soát khí thải dầu khí Front Range là một phần của chiến lược.
 
 **"Còn về tác động kinh tế đối với công nhân nhiên liệu hóa thạch?"**
-Quá trình chuyển đổi năng lượng của Colorado đã diễn ra. Vấn đề là liệu những công nhân bị mất việc có được hỗ trợ hay bị bỏ rơi. Đề xuất của chúng tôi bao gồm đào tạo việc làm xanh, ưu tiên tuyển dụng cho các dự án năng lượng sạch và hợp tác với các liên đoàn lao động để đảm bảo công việc chuyển đổi là công việc tốt. Energiewende của Đức bao gồm các điều khoản rõ ràng cho công nhân khu vực than -- Denver có thể làm tương tự.
+Quá trình chuyển đổi năng lượng của Colorado đã diễn ra. Vấn đề là liệu những công nhân bị mất việc có được hỗ trợ hay bị bỏ rơi. Đề xuất của chúng tôi bao gồm đào tạo việc làm xanh, ưu tiên tuyển dụng cho các dự án năng lượng sạch và hợp tác với các liên đoàn lao động để đảm bảo công việc chuyển đổi là công việc tốt. Energiewende của Đức bao gồm các điều khoản rõ ràng cho công nhân khu vực than - Denver có thể làm tương tự.
 
 ## Tài Liệu Tham Khảo
 

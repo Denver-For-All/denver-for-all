@@ -141,8 +141,8 @@ La inversión federal solicitada de $14 millones, en comparación con la recauda
 | Mitigación del Calor Urbano (copa de árboles y superficies frescas)        | $2,500,000        | 18%         |
 | Preparación Comunitaria y Sistemas de Alerta Temprana                      | $1,500,000        | 10%         |
 | **Solicitud Federal Total**                                                | **$14,000,000**   | **100%**    |
-| Contrapartida Local (Fondos de Drenaje Pluvial, CASR, presupuestos de OEM) | $115,000,000+     | —           |
-| **Inversión Total del Proyecto**                                           | **$129,000,000+** | —           |
+| Contrapartida Local (Fondos de Drenaje Pluvial, CASR, presupuestos de OEM) | $115,000,000+     | - |
+| **Inversión Total del Proyecto**                                           | **$129,000,000+** | - |
 
 _Nota: BRIC requiere una participación en los costos no federal mínima del 25% (75/25). La contrapartida local de Denver supera con creces este umbral. La contribución del Fondo de Drenaje Pluvial por sí sola proporciona ingresos locales documentados y dedicados. Las contribuciones adicionales en especie de CASR, OEM, Denver Parks and Recreation y organizaciones comunitarias asociadas fortalecen aún más la contrapartida._
 
@@ -165,7 +165,7 @@ _Nota: BRIC requiere una participación en los costos no federal mínima del 25%
 
 Todos los datos provienen del análisis de políticas de Denver For All sobre [Preparación para Emergencias y Resiliencia Climática](/platform/emergency-preparedness). Las fuentes primarias incluyen:
 
-- FEMA. (2019). Natural Hazard Mitigation Saves: 2019 Report — $1 invertido en mitigación ahorra $6 en costos por desastre
+- FEMA. (2019). Natural Hazard Mitigation Saves: 2019 Report - $1 invertido en mitigación ahorra $6 en costos por desastre
 - Departamento de Salud Pública y Medio Ambiente de Colorado. (2024). Datos de mortalidad relacionada con el calor, temporada 2023 (89 muertes en todo el estado)
 - Ciudad y Condado de Denver, CASR. (2020). Plan de Acción Climática 80x50 de Denver
 - Ciudad y Condado de Denver, OEM. (2023). Plan de Mitigación de Riesgos de Denver (aprobado por FEMA)

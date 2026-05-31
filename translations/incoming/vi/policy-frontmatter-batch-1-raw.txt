@@ -13,7 +13,7 @@
       {
         "value": "$10,600+/mo",
         "label": "cho một viện dưỡng lão ở Colorado",
-        "context": "Sống tại chỗ với sự hỗ trợ của cộng đồng tốn $2,000-$4,000/tháng — một phần nhỏ",
+        "context": "Sống tại chỗ với sự hỗ trợ của cộng đồng tốn $2,000-$4,000/tháng - một phần nhỏ",
         "source": "Genworth/CareScout, 2024"
       }
     ]
@@ -86,18 +86,18 @@
     "keyStats": [
       {
         "value": "24,000 yrs",
-        "label": "chu kỳ bán rã của plutonium — cách Denver 16 dặm",
+        "label": "chu kỳ bán rã của plutonium - cách Denver 16 dặm",
         "context": "Việc dọn dẹp Rocky Flats được tuyên bố là hoàn tất. Lấy mẫu độc lập cho thấy điều ngược lại.",
       },
       {
         "value": "10-15F",
         "label": "nóng hơn ở các khu dân cư có thu nhập thấp so với các khu dân cư giàu có",
-        "context": "Đảo nhiệt đô thị tuân theo thu nhập và chủng tộc. Tán cây là 19.7% — mục tiêu là 30%.",
+        "context": "Đảo nhiệt đô thị tuân theo thu nhập và chủng tộc. Tán cây là 19.7% - mục tiêu là 30%.",
         "source": "Trust for Public Land, 2023"
       },
       {
         "value": "300+",
-        "label": "ngày nắng mỗi năm — năng lượng mặt trời chưa được khai thác",
+        "label": "ngày nắng mỗi năm - năng lượng mặt trời chưa được khai thác",
         "context": "Burlington, VT đạt 100% năng lượng tái tạo vào năm 2014. Denver có năng lượng mặt trời tốt hơn hầu hết mọi thành phố của Hoa Kỳ.",
         "source": "NREL Solar Resource Data"
       }
@@ -110,7 +110,7 @@
       {
         "value": "10x",
         "label": "tỷ lệ tịch thu nhà thấp hơn so với thông thường",
-        "context": "Những người sở hữu nhà CLT hầu như không bao giờ mất nhà — mô hình này được thiết kế để bảo vệ họ",
+        "context": "Những người sở hữu nhà CLT hầu như không bao giờ mất nhà - mô hình này được thiết kế để bảo vệ họ",
         "source": "Champlain Housing Trust, Burlington VT"
       },
       {
@@ -155,13 +155,13 @@
       {
         "value": "70,000+",
         "label": "cư dân Denver sống chung với khuyết tật",
-        "context": "10% dân số thành phố — nhóm thiểu số mà bất kỳ ai cũng có thể tham gia bất cứ lúc nào",
+        "context": "10% dân số thành phố - nhóm thiểu số mà bất kỳ ai cũng có thể tham gia bất cứ lúc nào",
         "source": "U.S. Census Bureau, ACS 2019-2023"
       },
       {
         "value": "42-point",
         "label": "khoảng cách việc làm cho người Colorado khuyết tật",
-        "context": "37.7% có việc làm so với 80% đối với người không khuyết tật — và những người làm việc kiếm được 74 xu trên một đô la",
+        "context": "37.7% có việc làm so với 80% đối với người không khuyết tật - và những người làm việc kiếm được 74 xu trên một đô la",
         "source": "Bureau of Labor Statistics, 2024"
       },
       {

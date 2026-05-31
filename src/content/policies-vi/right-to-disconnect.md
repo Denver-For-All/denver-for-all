@@ -80,7 +80,7 @@ Denver có thể đặt tuần làm việc cho hơn 12.000 nhân viên thành ph
 Họ thuê nhiều người hơn. Nếu một nhà hàng cần phục vụ 7 ngày, họ sẽ thuê cho ca 4 ngày thay vì ca 5 ngày. Điều này làm tăng tổng số việc làm - đó là một lợi ích, không phải là một chi phí.
 
 **"Điều này là không thực tế."**
-Đó là tuần làm việc tiêu chuẩn cách đây 100 năm. Tuần làm việc 40 giờ được coi là cấp tiến khi nó được giới thiệu. Trước đó, tuần làm việc 60-80 giờ là "bình thường". Tiến bộ có nghĩa là làm việc thông minh hơn, không phải lâu hơn. Các quốc gia OECD có tuần làm việc trung bình ngắn hơn -- bao gồm Đức, Đan Mạch, Hà Lan và Na Uy -- liên tục xếp trên Hoa Kỳ về các chỉ số chất lượng cuộc sống (Chỉ số Cuộc sống Tốt đẹp hơn của OECD, 2024).
+Đó là tuần làm việc tiêu chuẩn cách đây 100 năm. Tuần làm việc 40 giờ được coi là cấp tiến khi nó được giới thiệu. Trước đó, tuần làm việc 60-80 giờ là "bình thường". Tiến bộ có nghĩa là làm việc thông minh hơn, không phải lâu hơn. Các quốc gia OECD có tuần làm việc trung bình ngắn hơn - bao gồm Đức, Đan Mạch, Hà Lan và Na Uy - liên tục xếp trên Hoa Kỳ về các chỉ số chất lượng cuộc sống (Chỉ số Cuộc sống Tốt đẹp hơn của OECD, 2024).
 
 **"Người lao động sẽ chỉ kiếm thêm việc làm thứ hai."**
 Một số người có thể làm vậy, và đó là lựa chọn của họ. Mục tiêu là đảm bảo rằng một công việc toàn thời gian cung cấp một mức lương đủ sống (xem: Mức lương tối thiểu $25) để không ai CẦN một công việc thứ hai. Nếu mọi người muốn có thêm thu nhập, tuần làm việc 4 ngày mang lại cho họ sự linh hoạt đó.

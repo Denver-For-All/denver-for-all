@@ -54,8 +54,8 @@ Crear un **programa de correspondencia de pequeñas donaciones** para las elecci
 | ------------------------------------ | --------------------------------------------- | ------------------------------------------------------------------------- |
 | **Alaska** (en todo el estado, 2022) | VOP estatal para cargos federales y estatales | Demostró que el sistema elige al candidato con apoyo más amplio           |
 | **Nueva York** (2021)                | VOP en toda la ciudad para primarias          | El 70% de los votantes informó que era fácil de usar                      |
-| **Minneapolis** (2009–presente)      | VOP para todas las elecciones municipales     | Eliminó costosas segundas vueltas; mayor diversidad de candidatos         |
-| **Maine** (2016–presente)            | VOP para elecciones federales                 | Apoyado fuertemente por los votantes; produjo ganadores con mayoría clara |
+| **Minneapolis** (2009-presente)      | VOP para todas las elecciones municipales     | Eliminó costosas segundas vueltas; mayor diversidad de candidatos         |
+| **Maine** (2016-presente)            | VOP para elecciones federales                 | Apoyado fuertemente por los votantes; produjo ganadores con mayoría clara |
 
 ## Contexto Local
 
@@ -76,13 +76,13 @@ Eso es exactamente lo que la VOP evita. Si tu primera opción es eliminada, tu v
 | Elemento                                        | Impacto Anual                            |
 | ----------------------------------------------- | ---------------------------------------- |
 | Eliminar las segundas vueltas de julio          | Ahorrar ~$2M por ciclo electoral         |
-| Fondo de correspondencia de pequeñas donaciones | ~$3–5M por ciclo electoral (nuevo gasto) |
+| Fondo de correspondencia de pequeñas donaciones | ~$3-5M por ciclo electoral (nuevo gasto) |
 | Comisión de redistribución independiente        | ~$500K por ciclo de redistribución       |
 
 ## Referencias
 
 - Coll, J. et al. _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab, 2022.
-- Asamblea General de Colorado. HB24-1190, _Ranked Choice Voting — Municipal Elections Authorization._ 2024.
+- Asamblea General de Colorado. HB24-1190, _Ranked Choice Voting - Municipal Elections Authorization._ 2024.
 - División de Elecciones de Denver. _Datos históricos de participación y costos._ 2023.
 - FairVote. _Ranked Choice Voting in Practice._ 2025.
 - Consejo de Financiamiento de Campañas de la Ciudad de Nueva York. _Small-Dollar Matching Program Impact Report._ 2022.

@@ -176,8 +176,8 @@ Khoản đầu tư liên bang được yêu cầu là 12 triệu đô la thể h
 | Chương Trình Chuẩn Bị và Quản Lý Chủ Nhà                           | $500,000        | 4.2%        |
 | Quản Lý Dự Án                                                      | $1,000,000      | 8.3%        |
 | **Tổng Yêu Cầu Liên Bang (HOME)**                                  | **$12,000,000** | **100%**    |
-| Đối Ứng Địa Phương (trái phiếu thành phố, thuế bỏ trống, quỹ HOST) | $50,000,000     | —           |
-| **Tổng Đầu Tư Dự Án**                                              | **$62,000,000** | —           |
+| Đối Ứng Địa Phương (trái phiếu thành phố, thuế bỏ trống, quỹ HOST) | $50,000,000     | - |
+| **Tổng Đầu Tư Dự Án**                                              | **$62,000,000** | - |
 
 ## Kết Quả Dự Kiến
 

@@ -13,15 +13,15 @@ keyStats:
   - value: '70,000+'
     label: 'Denver residents live with a disability'
     labelEs: 'residentes de Denver viven con una discapacidad'
-    context: '10% of the city — the one minority group anyone can join at any moment'
-    contextEs: '10% de la ciudad — el unico grupo minoritario al que cualquiera puede unirse'
+    context: '10% of the city - the one minority group anyone can join at any moment'
+    contextEs: '10% de la ciudad - el unico grupo minoritario al que cualquiera puede unirse'
     source: 'U.S. Census Bureau, ACS 2019-2023'
     theme: 'secondary'
   - value: '42-point'
     label: 'employment gap for disabled Coloradans'
     labelEs: 'brecha de empleo para coloradenses con discapacidad'
-    context: '37.7% employed vs 80% for non-disabled — and those who work earn 74 cents on the dollar'
-    contextEs: '37.7% empleados vs 80% sin discapacidad — y los que trabajan ganan 74 centavos por dolar'
+    context: '37.7% employed vs 80% for non-disabled - and those who work earn 74 cents on the dollar'
+    contextEs: '37.7% empleados vs 80% sin discapacidad - y los que trabajan ganan 74 centavos por dolar'
     source: 'Bureau of Labor Statistics, 2024'
     theme: 'danger'
   - value: '$100-600'
@@ -44,15 +44,15 @@ relatedLegislation:
 
 ## The Problem
 
-Approximately 10% of Denver residents — over 70,000 people — live with a disability (U.S. Census Bureau, ACS 2019-2023). They are not a niche constituency. They are your neighbors, coworkers, family members, and — given enough time — you. Disability is the one minority group anyone can join at any moment.
+Approximately 10% of Denver residents - over 70,000 people - live with a disability (U.S. Census Bureau, ACS 2019-2023). They are not a niche constituency. They are your neighbors, coworkers, family members, and - given enough time - you. Disability is the one minority group anyone can join at any moment.
 
 Despite this, Denver's disability infrastructure is built around legal minimums and afterthoughts, not full inclusion. The consequences:
 
-**Employment:** The national employment rate for working-age people with disabilities is 37.2%, compared to 77.2% for people without disabilities (Bureau of Labor Statistics, 2024). In Colorado, 37.7% of working-age adults with disabilities are employed versus 80.0% of those without — a 42-point gap. When disabled people do work, they earn a median of 74 cents for every dollar earned by non-disabled workers. Colorado still permits Section 14(c) subminimum wage certificates, paying some disabled workers below the federal minimum wage for "sheltered workshop" labor.
+**Employment:** The national employment rate for working-age people with disabilities is 37.2%, compared to 77.2% for people without disabilities (Bureau of Labor Statistics, 2024). In Colorado, 37.7% of working-age adults with disabilities are employed versus 80.0% of those without - a 42-point gap. When disabled people do work, they earn a median of 74 cents for every dollar earned by non-disabled workers. Colorado still permits Section 14(c) subminimum wage certificates, paying some disabled workers below the federal minimum wage for "sheltered workshop" labor.
 
 **Housing:** Less than 5% of the U.S. housing stock is accessible to wheelchair users, and less than 1% is accessible for people with vision or hearing impairments (Joint Center for Housing Studies of Harvard University). Denver's affordable housing pipeline does not track or mandate accessible unit production beyond the bare ADA minimum of 5% in federally funded projects. There is no city-level requirement for universal design in new market-rate construction, meaning the private market builds almost zero accessible housing unless forced to.
 
-**Policing:** People with disabilities constitute one-third to one-half of all people killed by police nationally (Ruderman Family Foundation, 2016). Deaf people shot for not responding to verbal commands. Autistic people restrained or tased for behavior that officers misread as resistance. People in psychiatric crisis killed by officers sent to "help." Denver paid $17.3M in law enforcement settlements in 2023 alone — and disability status in use-of-force incidents is not systematically tracked, making the scope of the problem invisible by design.
+**Policing:** People with disabilities constitute one-third to one-half of all people killed by police nationally (Ruderman Family Foundation, 2016). Deaf people shot for not responding to verbal commands. Autistic people restrained or tased for behavior that officers misread as resistance. People in psychiatric crisis killed by officers sent to "help." Denver paid $17.3M in law enforcement settlements in 2023 alone - and disability status in use-of-force incidents is not systematically tracked, making the scope of the problem invisible by design.
 
 **Transit:** RTD's Access-a-Ride requires day-before reservations with a $4.50 fare, and riders routinely report late pickups and missed appointments. The newer Access-on-Demand program offers flexibility, but RTD's plan to impose a $4.50 base fare prompted a federal ADA lawsuit from disability advocates in late 2025. Denver's 1,235 miles of sidewalks needing ADA compliance repairs and 355 miles of missing sidewalks make entire neighborhoods physically inaccessible.
 
@@ -67,11 +67,11 @@ Denver has a fragmented foundation:
 - **RTD paratransit** (Access-a-Ride and Access-on-Demand): provides transportation to eligible disabled riders, though with the limitations noted above.
 - **Sidewalk fee** (voter-approved 2022): $75M in contracts awarded in 2025 to begin ADA sidewalk repairs, but the timeline is "decades" to completion at current pace.
 - **Aging, Disability & Accessibility policy** (this platform): covers caregiver support, senior services, and universal design for age-friendly infrastructure. The existing policy is strong on aging but thin on working-age disability rights.
-- **STAR program**: handles mental health crisis calls citywide without police — a 2026 Urban Institute evaluation found it reduces subsequent arrests and police contacts by 16% — but is not specifically trained for the full spectrum of disability-related interactions.
+- **STAR program**: handles mental health crisis calls citywide without police - a 2026 Urban Institute evaluation found it reduces subsequent arrests and police contacts by 16% - but is not specifically trained for the full spectrum of disability-related interactions.
 
 ### Who Opposes This (and Why)
 
-Real estate developers will oppose universal design mandates, arguing increased construction costs. Counter: universal design adds 1-3% to construction costs upfront and eliminates far more expensive retrofitting later. The National Association of Home Builders found universal design features add $100-$600 per unit in new construction. Denver's business improvement districts will express concern about ADA enforcement costs. Counter: the ADA has been law for 35 years — non-compliance is not a cost issue; it is a choice. The Denver Police Protective Association will resist disability-specific use-of-force accountability. Counter: the Ruderman Foundation data is clear; the status quo is people dying.
+Real estate developers will oppose universal design mandates, arguing increased construction costs. Counter: universal design adds 1-3% to construction costs upfront and eliminates far more expensive retrofitting later. The National Association of Home Builders found universal design features add $100-$600 per unit in new construction. Denver's business improvement districts will express concern about ADA enforcement costs. Counter: the ADA has been law for 35 years - non-compliance is not a cost issue; it is a choice. The Denver Police Protective Association will resist disability-specific use-of-force accountability. Counter: the Ruderman Foundation data is clear; the status quo is people dying.
 
 ## Our Solution
 
@@ -79,7 +79,7 @@ Real estate developers will oppose universal design mandates, arguing increased 
 
 Denver treats ADA compliance as aspirational. We treat it as mandatory.
 
-- Establish a **Denver Office of Disability Rights** within the Department of Human Rights and Community Partnerships, with dedicated staff, independent budget, and enforcement authority — not just an advisory commission
+- Establish a **Denver Office of Disability Rights** within the Department of Human Rights and Community Partnerships, with dedicated staff, independent budget, and enforcement authority - not just an advisory commission
 - **Mandatory annual accessibility audits** of all city-owned buildings, parks, and facilities, with results published on a public dashboard. Facilities failing audit must submit remediation plans within 90 days and complete repairs within 1 year
 - **Private business compliance support**: offer free accessibility assessments and small business grants (up to $5,000) for ADA improvements. Pair carrots with sticks: businesses that refuse to remediate documented ADA violations face city licensing consequences
 - **Complaint hotline and rapid response**: 311-integrated disability access complaints with a 48-hour response commitment, including on-site assessment for physical access barriers
@@ -104,23 +104,23 @@ Denver treats ADA compliance as aspirational. We treat it as mandatory.
 ### 4. Independent Living & Community Integration
 
 - **Expand attendant care and personal assistance services** beyond Medicaid-covered hours. Fund city-supplemental hours for people whose care needs exceed Medicaid caps, preventing unnecessary institutionalization. Every person in a nursing home or institution who could live in the community with proper support represents a policy failure
-- **Consumer-directed care model**: disabled people choose and manage their own care providers, including family members. This is both a dignity issue and an effectiveness issue — consumer-directed models consistently produce higher satisfaction and better outcomes than agency-directed models
+- **Consumer-directed care model**: disabled people choose and manage their own care providers, including family members. This is both a dignity issue and an effectiveness issue - consumer-directed models consistently produce higher satisfaction and better outcomes than agency-directed models
 - **Assistive technology access**: city-funded assistive technology lending library and grant program. Communication devices, mobility aids, environmental controls, and adaptive technology should not be limited by insurance coverage gaps or Medicaid equipment lists
-- **Peer support network**: fund a city-coordinated network of paid disability peer mentors — disabled people supporting other disabled people through transitions (new diagnosis, returning from hospital, aging into disability, navigating city services)
+- **Peer support network**: fund a city-coordinated network of paid disability peer mentors - disabled people supporting other disabled people through transitions (new diagnosis, returning from hospital, aging into disability, navigating city services)
 
 ### 5. Communication & Cognitive Access
 
 - **ASL interpretation at all public city meetings** by default, not by request. Real-time captioning (CART) available at all council meetings and public hearings. Video remote interpreting (VRI) available on demand at all city service counters
 - **Plain language requirement**: all city public-facing documents, notices, and digital content must include plain language summaries (6th-grade reading level). This benefits people with cognitive disabilities, non-native English speakers, and, frankly, everyone
 - **Sensory-friendly city services**: quiet hours at recreation centers, libraries, and DMV/city service locations. Sensory kits (noise-canceling headphones, fidgets, visual schedules) available at all city facilities. This is low-cost and high-impact for autistic residents, people with PTSD, and those with sensory processing differences
-- **Emergency communications accessibility**: all emergency alerts and city emergency communications in accessible formats — ASL video, text-based, plain language, and available through multiple channels (not just sirens and PA systems)
+- **Emergency communications accessibility**: all emergency alerts and city emergency communications in accessible formats - ASL video, text-based, plain language, and available through multiple channels (not just sirens and PA systems)
 
 ### 6. Disability Representation & Governance
 
 - **Elevate the Commission for People with Disabilities** from advisory to authority: give the commission a dedicated budget, the ability to review proposed city ordinances for disability impact, and a mandatory response requirement from city departments receiving commission recommendations
 - **Disability impact assessments** required for all major city planning decisions (transportation projects, zoning changes, park designs, building permits for large developments). Modeled on environmental impact assessments
 - **"Nothing About Us Without Us" hiring policy**: all city positions that primarily serve disabled populations must prioritize hiring people with lived disability experience. This applies to the Office of Disability Rights, STAR teams, and any advisory or program role focused on disability services
-- **Disability data collection**: Denver must systematically track disability status in all relevant city data — use-of-force incidents, housing applications, employment, city service utilization, transit ridership — to make disparities visible and measurable. You cannot fix what you cannot see
+- **Disability data collection**: Denver must systematically track disability status in all relevant city data - use-of-force incidents, housing applications, employment, city service utilization, transit ridership - to make disparities visible and measurable. You cannot fix what you cannot see
 
 ### International Evidence: Disability Inclusion Is Infrastructure
 
@@ -135,10 +135,10 @@ Denver treats ADA compliance as aspirational. We treat it as mandatory.
 ## How We Pay For It
 
 - **Office of Disability Rights** (staff, enforcement, hotline): $2-3M/year from general fund
-- **Accessible housing mandate**: $0 net city cost — developers absorb the 1-3% construction premium; home modification grants funded at $3-5M/year from housing bond revenue
+- **Accessible housing mandate**: $0 net city cost - developers absorb the 1-3% construction premium; home modification grants funded at $3-5M/year from housing bond revenue
 - **Disability employment programs** (IPS supported employment, internships, city hiring): $3-5M/year, partially offset by reduced SSI/SSDI utilization and increased tax revenue from employed disabled workers
-- **Independent living services** (supplemental attendant care, assistive technology, peer support): $4-6M/year, with significant Medicaid offset — community-based care costs a fraction of institutional care ($2,000-4,000/month vs. $10,600+/month for nursing facilities in Colorado)
-- **Communication access** (ASL, CART, plain language, sensory accommodations): $1-2M/year — most of this cost is absorbed within existing department budgets through contracting efficiencies
+- **Independent living services** (supplemental attendant care, assistive technology, peer support): $4-6M/year, with significant Medicaid offset - community-based care costs a fraction of institutional care ($2,000-4,000/month vs. $10,600+/month for nursing facilities in Colorado)
+- **Communication access** (ASL, CART, plain language, sensory accommodations): $1-2M/year - most of this cost is absorbed within existing department budgets through contracting efficiencies
 - **Total: $13-21M/year**, with substantial offsets from reduced institutionalization, increased employment/tax revenue, and Medicaid savings. Every dollar invested in community-based independent living saves $3-5 in institutional care costs.
 
 ## Frequently Asked Questions
@@ -153,10 +153,10 @@ The National Association of Home Builders found universal design features add $1
 The commission is advisory-only with limited budget and no enforcement authority. It can make recommendations that city departments can and do ignore. Our proposal gives the commission a dedicated budget, ordinance review authority, and a mandatory response requirement. The difference between an advisory board and an authority is whether anyone has to listen.
 
 **"Shouldn't disability services be funded by the state or federal government?"**
-They should, and many are. But Medicaid caps on attendant care hours, federal underfunding of vocational rehabilitation, and state-level gaps in personal assistance leave thousands of Denver residents without the support they need to live independently. Denver has home-rule authority to supplement these programs and create a local floor that exceeds state and federal minimums — just as we do for minimum wage and tenant protections.
+They should, and many are. But Medicaid caps on attendant care hours, federal underfunding of vocational rehabilitation, and state-level gaps in personal assistance leave thousands of Denver residents without the support they need to live independently. Denver has home-rule authority to supplement these programs and create a local floor that exceeds state and federal minimums - just as we do for minimum wage and tenant protections.
 
 **"What does 'Nothing About Us Without Us' mean in practice?"**
-It means disabled people lead disability policy. The Office of Disability Rights should be led by a disabled person. STAR teams responding to disability-related calls should include people with disability expertise and lived experience. The commission should have a majority of members who are themselves disabled. Policy design without disabled leadership produces policy that doesn't work for disabled people. This is not tokenism — it is competence.
+It means disabled people lead disability policy. The Office of Disability Rights should be led by a disabled person. STAR teams responding to disability-related calls should include people with disability expertise and lived experience. The commission should have a majority of members who are themselves disabled. Policy design without disabled leadership produces policy that doesn't work for disabled people. This is not tokenism - it is competence.
 
 ## References
 

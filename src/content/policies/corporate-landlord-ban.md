@@ -49,7 +49,7 @@ When Blackstone, Invitation Homes, or Progress Residential buys a home in your n
 
 Denver has **no restrictions on institutional ownership of residential property**. Nationally, investors purchased approximately 26% of low-priced single-family homes sold in 2023, and about 18.5% of all homes sold (Redfin data). In Denver specifically, Invitation Homes (owned by Blackstone) is one of the largest single-family landlords, with hundreds of properties in the metro area. Progress Residential and American Homes 4 Rent also maintain significant Denver portfolios.
 
-In August 2024, the U.S. Department of Justice filed a civil antitrust lawsuit against RealPage, alleging its algorithmic pricing software enabled landlords to coordinate above-market rent increases -- effectively constituting price-fixing. (Private class-action lawsuits were filed beginning in late 2022.) Multiple Denver-area property management companies have been identified as RealPage clients.
+In August 2024, the U.S. Department of Justice filed a civil antitrust lawsuit against RealPage, alleging its algorithmic pricing software enabled landlords to coordinate above-market rent increases - effectively constituting price-fixing. (Private class-action lawsuits were filed beginning in late 2022.) Multiple Denver-area property management companies have been identified as RealPage clients.
 
 ## Our Solution
 
@@ -96,7 +96,7 @@ Property owners and management companies are prohibited from using algorithmic p
 | **Berlin, Germany** | 2021 referendum: 59% voted to expropriate 240,000 apartments from large corporate landlords (Deutsche Wohnen, Vonovia). Implementation ongoing.                                                                                                     | Democratic mandate to take housing back from corporate landlords. The movement is global.                                      |
 | **Spain**           | Catalonia's new housing law (2023) forces large landlords to rent vacant properties in high-demand areas or face expropriation.                                                                                                                     | Directly addresses corporate vacancy and speculation.                                                                          |
 
-**The US, along with a handful of other Anglosphere nations, has uniquely financialized residential housing** -- treating it primarily as an investment vehicle rather than shelter (OECD Housing Policy Dashboard, 2024). Most countries regulate who can buy housing and how it can be used because they recognize that shelter is a human need, not an asset class.
+**The US, along with a handful of other Anglosphere nations, has uniquely financialized residential housing** - treating it primarily as an investment vehicle rather than shelter (OECD Housing Policy Dashboard, 2024). Most countries regulate who can buy housing and how it can be used because they recognize that shelter is a human need, not an asset class.
 
 ## How We Pay For It
 
@@ -117,7 +117,7 @@ The 50-unit threshold specifically targets institutional investors, not the pers
 Large multifamily buildings (50+ units) are excluded from the acquisition ban because they've always been investor-owned. The focus is on 1-4 unit residential properties - the homes that families should be able to buy.
 
 **"Won't forced divestiture cause a fire sale that crashes property values?"**
-The 5-year divestiture timeline is deliberately long enough to prevent a fire sale. At Denver's current pace of home sales (~30,000 transactions per year in the metro area), the volume of institutional divestiture would represent a small fraction of total market activity. Corporate landlords in Denver hold thousands of units, not hundreds of thousands. The requirement to sell at independently appraised fair market value — not at distressed prices — prevents undercutting. And the right of first refusal for current tenants, community land trusts, and the Social Housing Authority ensures units go to mission-aligned buyers, not to the next corporate landlord in line. Berlin's expropriation process, voted on by 59% of residents in 2021, is proceeding on a similar multi-year timeline without market disruption.
+The 5-year divestiture timeline is deliberately long enough to prevent a fire sale. At Denver's current pace of home sales (~30,000 transactions per year in the metro area), the volume of institutional divestiture would represent a small fraction of total market activity. Corporate landlords in Denver hold thousands of units, not hundreds of thousands. The requirement to sell at independently appraised fair market value - not at distressed prices - prevents undercutting. And the right of first refusal for current tenants, community land trusts, and the Social Housing Authority ensures units go to mission-aligned buyers, not to the next corporate landlord in line. Berlin's expropriation process, voted on by 59% of residents in 2021, is proceeding on a similar multi-year timeline without market disruption.
 
 ## References
 

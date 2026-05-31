@@ -15,7 +15,7 @@ Denver se enfrenta específicamente a una crisis de opioides/fentanilo que las f
 
 ### Lo Que Denver Hace Actualmente
 
-Denver tiene cierta infraestructura de reducción de daños, pero trata el consumo de drogas principalmente como un asunto penal. La ciudad despenalizó la psilocibina a través de la Ordenanza Iniciada 301 en 2019, y Colorado aprobó la Proposición 122 en 2022 que legaliza los psicodélicos terapéuticos. Pero para las sustancias que impulsan la crisis actual —fentanilo, metanfetamina, heroína— el enfoque sigue siendo la aplicación de la ley en primer lugar.
+Denver tiene cierta infraestructura de reducción de daños, pero trata el consumo de drogas principalmente como un asunto penal. La ciudad despenalizó la psilocibina a través de la Ordenanza Iniciada 301 en 2019, y Colorado aprobó la Proposición 122 en 2022 que legaliza los psicodélicos terapéuticos. Pero para las sustancias que impulsan la crisis actual - fentanilo, metanfetamina, heroína - el enfoque sigue siendo la aplicación de la ley en primer lugar.
 
 Denver reportó 827 muertes no intencionales por envenenamiento por drogas en 2023 (Oficina del Médico Forense de Denver, 2024). El fentanilo estuvo involucrado en el 64% de esas muertes. La Policía de Denver realizó más de 2,800 arrestos relacionados con drogas en 2023, pero las muertes por sobredosis han seguido aumentando año tras año. El enfoque de aplicación de la ley no está produciendo resultados.
 
@@ -70,7 +70,7 @@ La Asociación de Protección de la Policía de Denver y la oficina del Fiscal d
 - Cerrar la unidad de Control de Drogas dentro de la Policía de Denver
 - Reasignar entre $15 y 20 millones al año a servicios de tratamiento, reducción de daños y recuperación
 - La policía se centra en los delitos violentos y el tráfico, no en los usuarios
-- Referencia cruzada: [Seguridad Comunitaria y Reforma Policial — Expansión de LEAD](/platform/public-safety) (Hasta la despenalización total, el programa LEAD de Denver proporciona un mecanismo operativo inmediato: los agentes capacitados desvían a las personas a la gestión de casos en lugar de arrestarlas por delitos menores relacionados con las drogas. LEAD funciona según la legislación actual y tiende un puente entre el sistema actual y el futuro despenalizado que prevé esta política).
+- Referencia cruzada: [Seguridad Comunitaria y Reforma Policial - Expansión de LEAD](/platform/public-safety) (Hasta la despenalización total, el programa LEAD de Denver proporciona un mecanismo operativo inmediato: los agentes capacitados desvían a las personas a la gestión de casos en lugar de arrestarlas por delitos menores relacionados con las drogas. LEAD funciona según la legislación actual y tiende un puente entre el sistema actual y el futuro despenalizado que prevé esta política).
 
 ## Cómo Lo Financiamos
 
@@ -96,7 +96,7 @@ La Asociación de Protección de la Policía de Denver y la oficina del Fiscal d
 | **Canadá** (Vancouver)                                | El centro de consumo supervisado Insite opera desde 2003. El desafío legal llegó a la Corte Suprema (ratificado).                                                                                    | Más de 1,500 intervenciones por sobredosis. Cero muertes. Aumento del 33% en la inscripción al programa de desintoxicación por parte de los residentes cercanos. Reducción de la inyección pública en un 65%.                                                                   |
 | **EE. UU.** (Guerra contra las drogas, 1971-presente) | Criminalización. Más de $1 billón gastados en control. Encarcelamiento masivo.                                                                                                                       | **La tasa de muertes por sobredosis más alta del mundo. La tasa de encarcelamiento más alta del planeta. El consumo de drogas no ha disminuido.** El enfoque más caro y menos eficaz jamás intentado.                                                                           |
 
-**Cada enfoque alternativo —la despenalización portuguesa, la reducción de daños suiza, el pragmatismo holandés— produce mejores resultados que la criminalización estadounidense.** La evidencia no es ambigua. La guerra contra las drogas es la política más refutada de la historia moderna.
+**Cada enfoque alternativo - la despenalización portuguesa, la reducción de daños suiza, el pragmatismo holandés - produce mejores resultados que la criminalización estadounidense.** La evidencia no es ambigua. La guerra contra las drogas es la política más refutada de la historia moderna.
 
 ## Preguntas Frecuentes
 

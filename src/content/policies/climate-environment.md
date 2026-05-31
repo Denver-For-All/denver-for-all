@@ -11,21 +11,21 @@ actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
   - value: '24,000 yrs'
-    label: 'plutonium half-life — 16 miles from Denver'
-    labelEs: 'vida media del plutonio — a 16 millas de Denver'
+    label: 'plutonium half-life - 16 miles from Denver'
+    labelEs: 'vida media del plutonio - a 16 millas de Denver'
     context: 'Rocky Flats cleanup declared complete. Independent sampling says otherwise.'
     contextEs: 'La limpieza de Rocky Flats fue declarada completa. Muestreos independientes dicen lo contrario.'
     theme: 'danger'
   - value: '10-15F'
     label: 'hotter in low-income vs wealthy neighborhoods'
     labelEs: 'mas calientes los barrios de bajos ingresos vs los ricos'
-    context: 'Urban heat islands follow income and race. Tree canopy is 19.7% — target is 30%.'
+    context: 'Urban heat islands follow income and race. Tree canopy is 19.7% - target is 30%.'
     contextEs: 'Las islas de calor urbano siguen los ingresos y la raza'
     source: 'Trust for Public Land, 2023'
     theme: 'danger'
   - value: '300+'
-    label: 'days of sunshine per year — untapped solar'
-    labelEs: 'dias de sol al ano — potencial solar sin aprovechar'
+    label: 'days of sunshine per year - untapped solar'
+    labelEs: 'dias de sol al ano - potencial solar sin aprovechar'
     context: 'Burlington, VT hit 100% renewable in 2014. Denver has better solar than almost any US city.'
     contextEs: 'Burlington, VT logro 100% renovable en 2014. Denver tiene mejor sol que casi cualquier ciudad de EE.UU.'
     source: 'NREL Solar Resource Data'
@@ -65,18 +65,18 @@ Independent soil sampling in Denver neighborhoods and surrounding areas has foun
 
 ### Air Pollution & the Denver Ozone Crisis
 
-Denver has a serious air quality problem that is getting worse, not better. The EPA has classified the Denver Metro/North Front Range area as a "severe" ozone non-attainment zone — meaning the region consistently fails to meet federal air quality standards. Denver recorded 18 "unhealthy" or worse ozone days in 2023 alone (Colorado DPHE Air Quality Control Commission), and the trend is worsening.
+Denver has a serious air quality problem that is getting worse, not better. The EPA has classified the Denver Metro/North Front Range area as a "severe" ozone non-attainment zone - meaning the region consistently fails to meet federal air quality standards. Denver recorded 18 "unhealthy" or worse ozone days in 2023 alone (Colorado DPHE Air Quality Control Commission), and the trend is worsening.
 
-The problem is partly geographic. Denver sits in a basin between the Front Range mountains and the plains, creating a topographic bowl that traps pollutants — the infamous "Brown Cloud." Temperature inversions, especially in winter, cap the bowl and concentrate emissions at ground level. This means Denver's geography _amplifies_ the impact of every ton of pollution emitted.
+The problem is partly geographic. Denver sits in a basin between the Front Range mountains and the plains, creating a topographic bowl that traps pollutants - the infamous "Brown Cloud." Temperature inversions, especially in winter, cap the bowl and concentrate emissions at ground level. This means Denver's geography _amplifies_ the impact of every ton of pollution emitted.
 
 The sources are multiple and compounding:
 
-- **Vehicle emissions:** Denver is a car-dependent city. The average Denver commuter drives alone, and the metro area's sprawling development pattern generates massive vehicle miles traveled. Ground-level ozone forms when vehicle exhaust (nitrogen oxides and volatile organic compounds) reacts with sunlight — and Denver has over 300 days of sunshine per year
+- **Vehicle emissions:** Denver is a car-dependent city. The average Denver commuter drives alone, and the metro area's sprawling development pattern generates massive vehicle miles traveled. Ground-level ozone forms when vehicle exhaust (nitrogen oxides and volatile organic compounds) reacts with sunlight - and Denver has over 300 days of sunshine per year
 - **Oil and gas operations:** The northern Front Range is one of the most intensive oil and gas production zones in the country. Over 20,000 active wells in the DJ Basin emit methane, volatile organic compounds, and hazardous air pollutants that drift into the Denver metro area. Studies by NOAA and Colorado State University have documented significant Front Range methane and VOC emissions exceeding EPA estimates
 - **Wildfire smoke:** Climate-driven wildfires across the western US increasingly blanket Denver with particulate matter. Smoke events are becoming longer, more frequent, and more intense. The 2020 and 2021 wildfire seasons pushed Denver's AQI above 300 ("hazardous") for multiple days
-- **Industrial sources:** The Suncor refinery in Commerce City — located adjacent to the predominantly Latino neighborhoods of Globeville and Elyria-Swansea — has repeatedly violated air quality permits and emitted hydrogen cyanide and other toxins. Community advocacy has led to a commitment to close the refinery, but remediation and enforcement remain ongoing concerns
+- **Industrial sources:** The Suncor refinery in Commerce City - located adjacent to the predominantly Latino neighborhoods of Globeville and Elyria-Swansea - has repeatedly violated air quality permits and emitted hydrogen cyanide and other toxins. Community advocacy has led to a commitment to close the refinery, but remediation and enforcement remain ongoing concerns
 
-**Health impacts are severe and inequitable.** Colorado's asthma hospitalization rates in the Denver metro area are higher than the state average. Children, elderly residents, outdoor workers, and people with respiratory conditions bear the worst consequences. Neighborhoods near highways, industrial facilities, and the Suncor refinery experience disproportionately poor air quality. Air pollution does not respect zip codes equally — it follows income and race.
+**Health impacts are severe and inequitable.** Colorado's asthma hospitalization rates in the Denver metro area are higher than the state average. Children, elderly residents, outdoor workers, and people with respiratory conditions bear the worst consequences. Neighborhoods near highways, industrial facilities, and the Suncor refinery experience disproportionately poor air quality. Air pollution does not respect zip codes equally - it follows income and race.
 
 ### Climate Change
 
@@ -158,7 +158,7 @@ Denver's ozone non-attainment is a public health emergency. A comprehensive stra
 
 **Monitoring and Transparency:**
 
-- Real-time, neighborhood-level air quality monitoring network with public dashboard — not just the handful of state monitoring stations that miss hyperlocal pollution
+- Real-time, neighborhood-level air quality monitoring network with public dashboard - not just the handful of state monitoring stations that miss hyperlocal pollution
 - Community air monitoring grants for neighborhood organizations to deploy low-cost sensors
 - Ozone action day protocols: automatic restrictions on emissions-generating activities (e.g., lawn mowing, industrial operations) when AQI forecasts exceed moderate levels
 - Annual "State of Denver's Air" public report with neighborhood-level data, health impact analysis, and progress tracking
@@ -206,13 +206,13 @@ Burlington, VT achieved 100% renewable electricity in 2014. Other cities have fo
 Xcel provides Denver's electricity under a franchise agreement. The city negotiates franchise terms and can impose requirements on renewable energy sourcing, grid access for distributed solar, and rate structures. The franchise renewal is the single biggest leverage point Denver has on energy policy. We must use it. For our full proposal on power reliability, municipal energy alternatives, and life-safety protections for medically vulnerable residents, see: [Power Reliability & Municipal Energy](/platform/power-reliability).
 
 **"Can Denver actually fix its air quality given the geography?"**
-Yes. Los Angeles has the same topographic problem — a basin that traps pollutants — and reduced ozone exceedance days by over 75% through decades of sustained emission reduction policy. Denver's Brown Cloud is not destiny. It is the result of policy choices that can be changed: car-dependent development, lax industrial controls, and insufficient transit investment. Geography sets the difficulty level; policy determines the outcome.
+Yes. Los Angeles has the same topographic problem - a basin that traps pollutants - and reduced ozone exceedance days by over 75% through decades of sustained emission reduction policy. Denver's Brown Cloud is not destiny. It is the result of policy choices that can be changed: car-dependent development, lax industrial controls, and insufficient transit investment. Geography sets the difficulty level; policy determines the outcome.
 
 **"Isn't ozone a state and federal issue?"**
-Ozone formation is regional, but Denver controls many of the levers: vehicle trip reduction through transit and land use, idling restrictions, EV infrastructure, building codes, industrial permitting, and tree canopy. The city also has political influence over state policy — Denver's delegation is the largest in the legislature. Using that leverage to strengthen Front Range oil and gas emission controls is part of the strategy.
+Ozone formation is regional, but Denver controls many of the levers: vehicle trip reduction through transit and land use, idling restrictions, EV infrastructure, building codes, industrial permitting, and tree canopy. The city also has political influence over state policy - Denver's delegation is the largest in the legislature. Using that leverage to strengthen Front Range oil and gas emission controls is part of the strategy.
 
 **"What about the economic impact on fossil fuel workers?"**
-Colorado's energy transition is already happening. The question is whether displaced workers get support or get abandoned. Our proposal includes green job training, priority hiring for clean energy projects, and partnerships with labor unions to ensure transition jobs are good jobs. Germany's Energiewende included explicit provisions for coal region workers -- Denver can do the same.
+Colorado's energy transition is already happening. The question is whether displaced workers get support or get abandoned. Our proposal includes green job training, priority hiring for clean energy projects, and partnerships with labor unions to ensure transition jobs are good jobs. Germany's Energiewende included explicit provisions for coal region workers - Denver can do the same.
 
 ## References
 

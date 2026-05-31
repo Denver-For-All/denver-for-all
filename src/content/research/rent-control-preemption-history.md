@@ -12,7 +12,7 @@ Colorado banned local rent control ordinances in **1981** with the Rental Housin
 
 ## Legislative Attempts to Repeal the Preemption
 
-### SB19-225 — Authorize Local Governments to Stabilize Rent (2019)
+### SB19-225 - Authorize Local Governments to Stabilize Rent (2019)
 
 - **Sponsors:** Senate Democrats
 - **What it did:** Would have repealed the statutory language prohibiting local rent control and authorized local governments to enact rent stabilization measures.
@@ -21,12 +21,12 @@ Colorado banned local rent control ordinances in **1981** with the Rental Housin
 
 ---
 
-### HB23-1115 — Repeal Prohibition on Local Residential Rent Control (2023)
+### HB23-1115 - Repeal Prohibition on Local Residential Rent Control (2023)
 
 **This is the most significant and closest-to-passing attempt to date.**
 
 - **Prime sponsors:** Rep. Javier Mabrey (D-Denver), Rep. Elizabeth Velasco (D-Glenwood Springs), with 20+ Democratic co-sponsors
-- **What it did:** Would have repealed CRS § 38-12-301. It did NOT implement any rent control — it simply removed the ban, allowing local governments to make their own decisions.
+- **What it did:** Would have repealed CRS § 38-12-301. It did NOT implement any rent control - it simply removed the ban, allowing local governments to make their own decisions.
 
 #### Key Provisions (as amended)
 
@@ -46,18 +46,18 @@ Colorado banned local rent control ordinances in **1981** with the Rental Housin
 | ------------ | ---------------------------------------------------------------------------- |
 | Jan 24, 2023 | Bill introduced in the House                                                 |
 | Feb 2023     | Passed House committee                                                       |
-| Mar 2023     | House floor debate — nearly 4 hours                                          |
+| Mar 2023     | House floor debate - nearly 4 hours                                          |
 | Mar 2023     | **Passed the House 40-24** (5 Democrats voted no, along with 19 Republicans) |
 | Apr 25, 2023 | **Killed in Senate Local Government & Housing Committee, 4-3**               |
 
 #### The Decisive Vote: Sen. Dylan Roberts (D-Avon)
 
-The bill died because **one Democratic senator — Dylan Roberts — sided with 3 Republicans** on the Senate Local Government & Housing Committee.
+The bill died because **one Democratic senator - Dylan Roberts - sided with 3 Republicans** on the Senate Local Government & Housing Committee.
 
 **Roberts' stated reasons:**
 
 1. **Mountain town spillover:** If one mountain town enacted rent control, it would "push demand to other towns, increasing their rents"
-2. **Development concerns:** "Rent control, even in a local manner like this, could — and probably would — stifle development"
+2. **Development concerns:** "Rent control, even in a local manner like this, could - and probably would - stifle development"
 3. **Vacation rental conversion:** Rent control could "speed the conversion of existing long-term rental units into vacation rentals"
 
 **Counter-arguments from supporters:**
@@ -76,29 +76,29 @@ The bill died because **one Democratic senator — Dylan Roberts — sided with 
 
 ---
 
-### 2024 Session — Another Attempt, Another Failure
+### 2024 Session - Another Attempt, Another Failure
 
 A rent control preemption repeal bill was proposed again in 2024 but **did not advance past committee**. The 2024 session instead focused on adjacent renter protections:
 
-- **HB24-1098:** Just-cause eviction protections — landlords can no longer evict solely because a lease expired. Colorado became the 6th state with for-cause eviction laws.
-- **HB24-1057:** Ban on algorithmic rent-setting (RealPage, etc.) — sponsored by Mabrey, did not pass in 2024.
+- **HB24-1098:** Just-cause eviction protections - landlords can no longer evict solely because a lease expired. Colorado became the 6th state with for-cause eviction laws.
+- **HB24-1057:** Ban on algorithmic rent-setting (RealPage, etc.) - sponsored by Mabrey, did not pass in 2024.
 
 **Governor Polis** publicly opposed rent control, calling it "false hope" that fixes prices without addressing housing supply.
 
 ---
 
-### 2025 Session — No Direct Repeal Attempt
+### 2025 Session - No Direct Repeal Attempt
 
 The 2025 session (ended May 7, 2025) had a **smaller housing focus** after 2024's major land use reforms. No rent control preemption repeal was introduced. Key renter bills that did pass:
 
-- **HB25-1004:** Banned algorithmic rent-setting software (RealPage ban — the 2024 bill reintroduced and passed)
-- **HB25-1090:** "Junk fees" ban — landlords must disclose total rental cost upfront, effective January 1, 2026
+- **HB25-1004:** Banned algorithmic rent-setting software (RealPage ban - the 2024 bill reintroduced and passed)
+- **HB25-1090:** "Junk fees" ban - landlords must disclose total rental cost upfront, effective January 1, 2026
 - **HB25-1236:** Tenants receiving housing subsidies cannot be required to submit credit reports
-- **HB25-1092:** Clarified "reasonable" rent increases under just-cause eviction law — this was a **pro-landlord** bill that was killed in committee
+- **HB25-1092:** Clarified "reasonable" rent increases under just-cause eviction law - this was a **pro-landlord** bill that was killed in committee
 
 ---
 
-### 2026 Session — Current (Started January 14, 2026)
+### 2026 Session - Current (Started January 14, 2026)
 
 The 2026 session is underway. **No rent control preemption repeal bill has been identified in early filings** as of February 2026. Key housing bills so far:
 
@@ -106,7 +106,7 @@ The 2026 session is underway. **No rent control preemption repeal bill has been 
 - **HB26-1005:** Housing bill (co-sponsored by Mabrey and Rep. Jennifer Bacon)
 - **HB26-1066:** Property tax exemption for affordable rental units
 
-The absence of a rent control repeal bill in 2026 may represent an opening for advocacy — or it may signal that sponsors are waiting for a more favorable political moment.
+The absence of a rent control repeal bill in 2026 may represent an opening for advocacy - or it may signal that sponsors are waiting for a more favorable political moment.
 
 ---
 
@@ -150,7 +150,7 @@ Re-introduce an amended version of HB23-1115 that addresses the specific objecti
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Mountain town spillover    | Add population threshold (e.g., only municipalities >50,000 or counties >100,000) or require regional coordination |
 | Stifle development         | Strengthen the 15-year new construction exemption; add developer incentive provisions                              |
-| Vacation rental conversion | Add anti-conversion provisions — units under rent stabilization cannot be converted to short-term rentals          |
+| Vacation rental conversion | Add anti-conversion provisions - units under rent stabilization cannot be converted to short-term rentals          |
 
 **Additional strengthening amendments:**
 
@@ -167,23 +167,23 @@ Colorado allows citizen-initiated statutes. This bypasses both the legislature a
 
 - Gather signatures equal to 5% of votes cast for Secretary of State in the last general election
 - File with the Title Board at least 6 months before the election
-- Typically need ~125,000–150,000 valid signatures
+- Typically need ~125,000-150,000 valid signatures
 
 **Timeline for November 2026 ballot:**
 
 - Title Board filing: by approximately May 2026
-- Signature gathering: May–August 2026
-- This is extremely tight — a 2028 ballot initiative may be more realistic
+- Signature gathering: May-August 2026
+- This is extremely tight - a 2028 ballot initiative may be more realistic
 
 ### Path C: Denver "Trigger" Ordinance (Parallel Track)
 
-As already identified in your LEGISLATION-READY.md, Denver can pass a **trigger ordinance** — a rent stabilization law that automatically takes effect the moment state preemption is lifted.
+As already identified in your LEGISLATION-READY.md, Denver can pass a **trigger ordinance** - a rent stabilization law that automatically takes effect the moment state preemption is lifted.
 
 **Strategic value:**
 
 - Demonstrates concrete demand and political will
 - Creates a ready-made implementation framework
-- Pressures state legislators: "Denver is ready — just lift the ban"
+- Pressures state legislators: "Denver is ready - just lift the ban"
 - Can be passed by Denver City Council under existing home rule authority
 - Builds public awareness and coalition
 
@@ -199,7 +199,7 @@ The 2023 failure was partly a coalition problem. Build a statewide coalition:
 - **Boulder** (history of rent control activism, university town)
 - **Aurora** (growing renter population, diverse community)
 - **Colorado Springs** (growing affordability crisis)
-- **Mountain towns** (Telluride, Aspen, Breckenridge — extreme affordability crises)
+- **Mountain towns** (Telluride, Aspen, Breckenridge - extreme affordability crises)
 
 A multi-city coalition sending a unified message to the legislature is harder to dismiss than a "Denver issue."
 
@@ -222,10 +222,10 @@ A multi-city coalition sending a unified message to the legislature is harder to
 
 **Pursue a multi-track strategy simultaneously:**
 
-1. **Immediate (2026):** Draft and advocate for a Denver trigger ordinance — the Rent Stabilization Act described in our policy platform, structured to take effect when CRS § 38-12-301 is repealed
+1. **Immediate (2026):** Draft and advocate for a Denver trigger ordinance - the Rent Stabilization Act described in our policy platform, structured to take effect when CRS § 38-12-301 is repealed
 2. **2026 session:** Work with Mabrey and Bacon's offices to either (a) introduce an amended preemption repeal bill this session, or (b) lay groundwork for 2027
-3. **2026–2027:** Begin coalition-building with Boulder, Aurora, Colorado Springs, and mountain town organizations
+3. **2026-2027:** Begin coalition-building with Boulder, Aurora, Colorado Springs, and mountain town organizations
 4. **2027:** New governor takes office (Polis is term-limited). This is the most strategic window for a preemption repeal bill
 5. **Backup:** If legislative path stalls, prepare for a 2028 state ballot initiative
 
-The 1981 preemption is the single biggest legal obstacle to Denver's rent stabilization goals. Every other piece of our housing platform (vacancy tax, social housing, tenant protections) can move forward independently — but rent control requires state action first.
+The 1981 preemption is the single biggest legal obstacle to Denver's rent stabilization goals. Every other piece of our housing platform (vacancy tax, social housing, tenant protections) can move forward independently - but rent control requires state action first.

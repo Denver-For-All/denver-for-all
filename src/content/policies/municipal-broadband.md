@@ -12,8 +12,8 @@ grantProposal: 'municipal-broadband-bead'
 hasFundingSources: true
 keyStats:
   - value: '85%'
-    label: 'of Denver voters said yes — 7 years ago'
-    labelEs: 'de los votantes de Denver dijeron si — hace 7 anos'
+    label: 'of Denver voters said yes - 7 years ago'
+    labelEs: 'de los votantes de Denver dijeron si - hace 7 anos'
     context: "Denver voters overwhelmingly approved municipal broadband in 2018. The city still hasn't built it."
     contextEs: 'Los votantes de Denver aprobaron abrumadoramente el internet municipal en 2018. La ciudad aun no lo ha construido.'
     source: 'Denver Ballot Measure 2J, 2018'

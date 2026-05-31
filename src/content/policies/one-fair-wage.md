@@ -94,7 +94,7 @@ Then their business model is subsidized by worker poverty. If a restaurant can o
 They'll still make that. They'll just ALSO make a guaranteed base wage. The people this helps most are the workers at Denny's and Applebee's, not the sommelier at the steakhouse.
 
 **"Won't this hurt small, independent restaurants more than chains?"**
-The 2-year tax credit for small businesses specifically addresses this. But the evidence from One Fair Wage states shows independent restaurants thrive -- because their workers can actually afford to eat at other local restaurants. Higher wages create a virtuous cycle of local spending. And the playing field is level: when every restaurant pays the same base wage, no one has a competitive disadvantage.
+The 2-year tax credit for small businesses specifically addresses this. But the evidence from One Fair Wage states shows independent restaurants thrive - because their workers can actually afford to eat at other local restaurants. Higher wages create a virtuous cycle of local spending. And the playing field is level: when every restaurant pays the same base wage, no one has a competitive disadvantage.
 
 ## Who Opposes This (and Why)
 

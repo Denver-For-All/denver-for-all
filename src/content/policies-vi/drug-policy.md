@@ -15,7 +15,7 @@ Denver đặc biệt phải đối mặt với cuộc khủng hoảng opioid/fen
 
 ### Những Gì Denver Hiện Đang Làm
 
-Denver có một số cơ sở hạ tầng giảm tác hại nhưng chủ yếu coi việc sử dụng ma túy là một vấn đề hình sự. Thành phố đã hợp pháp hóa psilocybin thông qua Sắc Lệnh Khởi Xướng 301 vào năm 2019 và Colorado đã thông qua Dự Luật 122 vào năm 2022 hợp pháp hóa các chất gây ảo giác trị liệu. Nhưng đối với các chất gây ra cuộc khủng hoảng thực sự -- fentanyl, methamphetamine, heroin -- phương pháp tiếp cận vẫn là thực thi pháp luật trước tiên.
+Denver có một số cơ sở hạ tầng giảm tác hại nhưng chủ yếu coi việc sử dụng ma túy là một vấn đề hình sự. Thành phố đã hợp pháp hóa psilocybin thông qua Sắc Lệnh Khởi Xướng 301 vào năm 2019 và Colorado đã thông qua Dự Luật 122 vào năm 2022 hợp pháp hóa các chất gây ảo giác trị liệu. Nhưng đối với các chất gây ra cuộc khủng hoảng thực sự - fentanyl, methamphetamine, heroin - phương pháp tiếp cận vẫn là thực thi pháp luật trước tiên.
 
 Denver báo cáo 827 ca tử vong do ngộ độc thuốc vô ý vào năm 2023 (Văn Phòng Giám Định Y Khoa Denver, 2024). Fentanyl có liên quan đến 64% số ca tử vong đó. Cảnh Sát Denver đã thực hiện hơn 2.800 vụ bắt giữ liên quan đến ma túy vào năm 2023, nhưng số ca tử vong do dùng thuốc quá liều vẫn tiếp tục tăng qua các năm. Phương pháp tiếp cận thực thi pháp luật không mang lại kết quả.
 
@@ -69,8 +69,8 @@ Hiệp Hội Bảo Vệ Cảnh Sát Denver và Văn Phòng Biện Lý Quận Den
 
 - Đóng cửa đơn vị Thực Thi Luật Ma Túy trong Cảnh Sát Denver
 - Chuyển hướng $15-20 triệu/năm cho các dịch vụ điều trị, giảm tác hại và phục hồi
-- Cảnh sát tập trung vào tội phạm bạo lực và buôn bán -- không phải người sử dụng
-- Tham khảo chéo: [An Toàn Cộng Đồng & Cải Cách Cảnh Sát — Mở Rộng LEAD](/platform/public-safety) (Cho đến khi giảm tội hoàn toàn, chương trình LEAD của Denver cung cấp một cơ chế hoạt động ngay lập tức: các sĩ quan được đào tạo chuyển hướng mọi người đến quản lý hồ sơ thay vì bắt giữ đối với các hành vi phạm tội ma túy ở mức độ thấp. LEAD hoạt động theo luật hiện hành và kết nối hệ thống ngày nay với tương lai giảm tội mà chính sách này hình dung.)
+- Cảnh sát tập trung vào tội phạm bạo lực và buôn bán - không phải người sử dụng
+- Tham khảo chéo: [An Toàn Cộng Đồng & Cải Cách Cảnh Sát - Mở Rộng LEAD](/platform/public-safety) (Cho đến khi giảm tội hoàn toàn, chương trình LEAD của Denver cung cấp một cơ chế hoạt động ngay lập tức: các sĩ quan được đào tạo chuyển hướng mọi người đến quản lý hồ sơ thay vì bắt giữ đối với các hành vi phạm tội ma túy ở mức độ thấp. LEAD hoạt động theo luật hiện hành và kết nối hệ thống ngày nay với tương lai giảm tội mà chính sách này hình dung.)
 
 ## Nguồn Tài Chính
 
@@ -101,7 +101,7 @@ Hiệp Hội Bảo Vệ Cảnh Sát Denver và Văn Phòng Biện Lý Quận Den
 ## Câu Hỏi Thường Gặp
 
 **"Điều này sẽ không khuyến khích sử dụng ma túy sao?"**
-Bồ Đào Nha đã giảm tội tất cả các loại ma túy vào năm 2001. Tỷ lệ sử dụng ma túy đã GIẢM. Giảm tội không làm tăng việc sử dụng -- nó loại bỏ rào cản tìm kiếm sự giúp đỡ. Mọi người không sử dụng ma túy vì chúng hợp pháp. Mọi người tránh tìm kiếm điều trị vì họ sợ nhà tù.
+Bồ Đào Nha đã giảm tội tất cả các loại ma túy vào năm 2001. Tỷ lệ sử dụng ma túy đã GIẢM. Giảm tội không làm tăng việc sử dụng - nó loại bỏ rào cản tìm kiếm sự giúp đỡ. Mọi người không sử dụng ma túy vì chúng hợp pháp. Mọi người tránh tìm kiếm điều trị vì họ sợ nhà tù.
 
 **"Các địa điểm tiêu thụ an toàn nghe có vẻ cực đoan."**
 Có hơn 200 địa điểm tiêu thụ được giám sát đang hoạt động ở 14 quốc gia. Không có ca tử vong do dùng thuốc quá liều nào xảy ra ở bất kỳ địa điểm nào trong số đó. Chúng làm giảm việc sử dụng ma túy công khai, giảm kim tiêm bị vứt bỏ và kết nối mọi người với điều trị. Chúng là biện pháp can thiệp được hỗ trợ bằng chứng nhiều nhất hiện có.
@@ -110,7 +110,7 @@ Có hơn 200 địa điểm tiêu thụ được giám sát đang hoạt động
 Đề xuất này giảm tội sử dụng cá nhân, không phải phân phối. Sản xuất và buôn bán vẫn là hành vi phạm tội. Sự khác biệt rất đơn giản: nếu bạn bị bệnh, bạn cần bác sĩ; nếu bạn bán chất độc, bạn phải đối mặt với hậu quả.
 
 **"Còn Oregon thì sao? Họ đã thử giảm tội và đảo ngược nó."**
-Biện Pháp 110 của Oregon là phản biện phổ biến nhất, vì vậy hãy giải quyết nó trực tiếp. Oregon đã giảm tội tàng trữ vào năm 2020 và tái hình sự hóa một phần vào năm 2024, viện dẫn số ca tử vong do dùng thuốc quá liều ngày càng tăng. Điều gì đã thực sự xảy ra: Sự gia tăng đột biến do dùng thuốc quá liều của Oregon theo dõi làn sóng fentanyl quốc gia và bắt đầu _trước khi_ Biện Pháp 110 có hiệu lực. Các tiểu bang KHÔNG giảm tội đã chứng kiến sự gia tăng tương tự hoặc tồi tệ hơn. Quan trọng hơn, Oregon đã không xây dựng cơ sở hạ tầng điều trị -- chỉ 10% số tiền điều trị được phân bổ đã được chi trong hai năm đầu tiên (Cơ Quan Y Tế Oregon, 2023). Thất bại là do thực hiện, không phải khái niệm. Đề xuất của chúng tôi khác: chúng tôi chuyển hướng ngân sách thực thi trực tiếp cho điều trị (không chờ đợi doanh thu từ thuế cần sa), yêu cầu điều trị theo yêu cầu trong vòng 24 giờ và thành lập các địa điểm tiêu thụ an toàn. Oregon không làm điều nào trong số này.
+Biện Pháp 110 của Oregon là phản biện phổ biến nhất, vì vậy hãy giải quyết nó trực tiếp. Oregon đã giảm tội tàng trữ vào năm 2020 và tái hình sự hóa một phần vào năm 2024, viện dẫn số ca tử vong do dùng thuốc quá liều ngày càng tăng. Điều gì đã thực sự xảy ra: Sự gia tăng đột biến do dùng thuốc quá liều của Oregon theo dõi làn sóng fentanyl quốc gia và bắt đầu _trước khi_ Biện Pháp 110 có hiệu lực. Các tiểu bang KHÔNG giảm tội đã chứng kiến sự gia tăng tương tự hoặc tồi tệ hơn. Quan trọng hơn, Oregon đã không xây dựng cơ sở hạ tầng điều trị - chỉ 10% số tiền điều trị được phân bổ đã được chi trong hai năm đầu tiên (Cơ Quan Y Tế Oregon, 2023). Thất bại là do thực hiện, không phải khái niệm. Đề xuất của chúng tôi khác: chúng tôi chuyển hướng ngân sách thực thi trực tiếp cho điều trị (không chờ đợi doanh thu từ thuế cần sa), yêu cầu điều trị theo yêu cầu trong vòng 24 giờ và thành lập các địa điểm tiêu thụ an toàn. Oregon không làm điều nào trong số này.
 
 **"Còn tác động đối với các khu dân cư gần các địa điểm tiêu thụ an toàn thì sao?"**
 Các nghiên cứu từ Insite của Vancouver (hoạt động từ năm 2003), MSIC của Sydney và các cơ sở của Châu Âu liên tục cho thấy: việc sử dụng ma túy công khai giảm gần các địa điểm tiêu thụ được giám sát, kim tiêm bị vứt bỏ giảm và tội phạm không tăng (Potier et al., Drug and Alcohol Dependence, 2014). Sự phản đối của cộng đồng thường cao nhất trước khi các địa điểm mở cửa và giảm mạnh sau khi cư dân thấy kết quả thực tế.

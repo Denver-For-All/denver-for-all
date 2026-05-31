@@ -18,13 +18,13 @@ keyStats:
   - value: '2M+'
     label: 'vehicles photographed monthly by Flock cameras'
     labelEs: 'vehiculos fotografiados por mes por camaras Flock'
-    context: "DPD's surveillance network — searched over 1,400 times by ICE since June 2024"
-    contextEs: 'Red de vigilancia del DPD — consultada mas de 1,400 veces por ICE desde junio 2024'
+    context: "DPD's surveillance network - searched over 1,400 times by ICE since June 2024"
+    contextEs: 'Red de vigilancia del DPD - consultada mas de 1,400 veces por ICE desde junio 2024'
     source: 'Denver Gazette, 2025'
     theme: 'danger'
   - value: '$498,509'
-    label: 'Flock contract — just under $500K threshold'
-    labelEs: 'contrato Flock — justo bajo el umbral de $500K'
+    label: 'Flock contract - just under $500K threshold'
+    labelEs: 'contrato Flock - justo bajo el umbral de $500K'
     context: 'Mayor bypassed a 12-0 council vote against renewal by structuring the contract below the threshold'
     contextEs: 'El alcalde evito un voto 12-0 del concejo estructurando el contrato bajo el umbral'
     source: 'Denver Gazette, 2025'
@@ -71,7 +71,7 @@ Denver's transparency gaps extend into everyday governance. The Denver Open Data
 
 **Lobbyist Registration:** Denver requires lobbyist registration through the Clerk and Recorder. The Board of Ethics administers the Code of Ethics, which prohibits gifts from lobbyists and contractors to officials who are in a position to take direct action on matters involving the donor, but allows exceptions for items of "trivial value" ($25 or less) and small food and beverages. Colorado's Amendment 41 caps gifts at $53/year and includes a two-year revolving door provision for statewide officeholders, but Denver's local code has been flagged by the Colorado Independent Ethics Commission as potentially less restrictive than state standards (Denver Post, 2017).
 
-**Surveillance:** Denver has no surveillance technology oversight ordinance. No city council vote is required before DPD acquires or deploys new surveillance systems. When the city council voted 12-0 against renewing the Flock camera contract in May 2025, Mayor Johnston bypassed the council by signing a $498,509 contract -- just under the $500,000 threshold requiring council approval (Denver Gazette, 2025). Hundreds of residents packed a town hall to protest, and more than a dozen civil liberties organizations condemned the maneuver (ACLU of Colorado, 2025).
+**Surveillance:** Denver has no surveillance technology oversight ordinance. No city council vote is required before DPD acquires or deploys new surveillance systems. When the city council voted 12-0 against renewing the Flock camera contract in May 2025, Mayor Johnston bypassed the council by signing a $498,509 contract - just under the $500,000 threshold requiring council approval (Denver Gazette, 2025). Hundreds of residents packed a town hall to protest, and more than a dozen civil liberties organizations condemned the maneuver (ACLU of Colorado, 2025).
 
 ## Our Solution
 
@@ -82,7 +82,7 @@ Denver's transparency gaps extend into everyday governance. The Denver Open Data
 - Privacy impact assessments for all surveillance technologies, published publicly before any council vote
 - Community input process before deployment in any neighborhood, with 60-day comment periods
 - Facial recognition ban for all city agencies, including the Denver Police Department
-- ALPR data retention limited to 30 days -- the current system photographs millions of vehicles monthly with no clear retention limit
+- ALPR data retention limited to 30 days - the current system photographs millions of vehicles monthly with no clear retention limit
 - No sharing surveillance data with ICE or federal immigration authorities, with automatic contract termination and referral to the Colorado Attorney General for violations (cross-reference: [Immigration & Sanctuary City](/platform/immigration-sanctuary))
 - Public dashboard showing all active surveillance technologies, their cost, data retention policies, access logs, and annual effectiveness reports
 
@@ -152,7 +152,7 @@ These examples share a common lesson: transparency and democratic participation 
 - **Ethics reform:** $500K-1M/year for enforcement staff, lobbyist registration system upgrades, and public database maintenance
 - **Algorithmic accountability:** $1-2M/year for independent audits, bias testing, and impact assessment publication
 - **Data sovereignty & digital infrastructure:** $2-4M/year for Denver Data Trust operations, vendor data migration, open-source development, and Cities Coalition for Digital Rights membership and implementation
-- **Total: $10-17M/year** -- a fraction of what the city spends on the systems being overseen. Denver's Flock camera contract alone costs nearly $500K, and the ShotSpotter contract was $4.7M. The Fair Elections Fund disbursed $7.7M in a single cycle. Transparency infrastructure is cheap compared to the cost of governing in the dark.
+- **Total: $10-17M/year** - a fraction of what the city spends on the systems being overseen. Denver's Flock camera contract alone costs nearly $500K, and the ShotSpotter contract was $4.7M. The Fair Elections Fund disbursed $7.7M in a single cycle. Transparency infrastructure is cheap compared to the cost of governing in the dark.
 
 ## Frequently Asked Questions
 
@@ -166,7 +166,7 @@ Seattle's democracy voucher program costs less than $3 per resident per year. It
 Personal data is excluded from open data requirements. This is about operational data on how government spends money, awards contracts, deploys surveillance, and uses power. The current system is the one creating risk: Denver's Flock camera data was accessed by ICE without public knowledge for months. Open data with clear privacy protections reduces misuse by making government actions visible and accountable. Estonia publishes who accesses citizen data and treats unauthorized access as a criminal offense, and 95% of Estonians trust their government with their data as a result.
 
 **"This will slow down government."**
-Publishing data and requiring public input before deploying surveillance adds days or weeks to processes that currently happen behind closed doors. The real question is why the Denver Police Department acquired a mass surveillance network without a council vote, why the mayor signed a $498,509 contract specifically structured to dodge the $500,000 council approval threshold, and why audit logs showing ICE access were withheld for three months. Transparency requirements do not slow down good governance -- they slow down end-runs around democratic accountability, and that is the point.
+Publishing data and requiring public input before deploying surveillance adds days or weeks to processes that currently happen behind closed doors. The real question is why the Denver Police Department acquired a mass surveillance network without a council vote, why the mayor signed a $498,509 contract specifically structured to dodge the $500,000 council approval threshold, and why audit logs showing ICE access were withheld for three months. Transparency requirements do not slow down good governance - they slow down end-runs around democratic accountability, and that is the point.
 
 **"Algorithmic tools are objective and remove human bias."**
 Algorithms encode the biases of their training data. Predictive policing systems trained on historical arrest data will target the same neighborhoods that were over-policed in the past (predominantly Black and Latino communities) regardless of where crime actually occurs. The Chicago Police Department's "Strategic Subject List" and the LAPD's PredPol system were both abandoned after evidence showed they reinforced racial disparities without improving public safety (MIT Technology Review, 2019). Denver deploys ShotSpotter sensors overwhelmingly in communities of color. Without independent audits and bias testing, algorithmic systems launder human prejudice through a veneer of technological objectivity.
@@ -219,7 +219,7 @@ Not everything requires state permission. Denver's home rule authority already a
 - **Ethics reform:** Denver can close the $25 "trivial value" gift loophole, impose aggregate caps, and strengthen the two-year revolving door restriction.
 - **Paid leave and labor protections:** No state preemption exists on most local labor ordinances. Sectoral bargaining, right to disconnect, gig worker protections, and works councils are all within Denver's authority.
 
-The barrier is not legal authority -- it is political will and the concentration of executive power in the mayor's office. That is why charter reform and state-level structural changes matter.
+The barrier is not legal authority - it is political will and the concentration of executive power in the mayor's office. That is why charter reform and state-level structural changes matter.
 
 ## References
 

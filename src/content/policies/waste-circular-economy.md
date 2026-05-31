@@ -11,8 +11,8 @@ actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
   - value: '26%'
-    label: 'waste diverted — 74% goes to landfill'
-    labelEs: 'residuos desviados — 74% va al vertedero'
+    label: 'waste diverted - 74% goes to landfill'
+    labelEs: 'residuos desviados - 74% va al vertedero'
     context: "San Francisco diverts 80%. Denver's 50% target for 2027 is not on track."
     contextEs: 'San Francisco desvia 80%. La meta de Denver de 50% para 2027 no va en camino.'
     source: 'Denverite, 2024'
@@ -27,8 +27,8 @@ keyStats:
   - value: '1%'
     label: "of Sweden's waste goes to landfill"
     labelEs: 'de los residuos de Suecia van al vertedero'
-    context: 'Denver sends 74%. The technology exists — it is a matter of political will.'
-    contextEs: 'Denver envia 74%. La tecnologia existe — es cuestion de voluntad politica.'
+    context: 'Denver sends 74%. The technology exists - it is a matter of political will.'
+    contextEs: 'Denver envia 74%. La tecnologia existe - es cuestion de voluntad politica.'
     source: 'Swedish Waste Management Association'
     theme: 'secondary'
 relatedLegislation:

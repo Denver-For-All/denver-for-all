@@ -28,8 +28,8 @@ keyStats:
   - value: '$3.5B/yr'
     label: 'lost to traffic congestion in Denver'
     labelEs: 'perdidos por congestion vehicular en Denver'
-    context: 'Free transit costs $35M — that is 1% of congestion losses'
-    contextEs: 'Transito gratuito cuesta $35M — eso es el 1% de las perdidas por congestion'
+    context: 'Free transit costs $35M - that is 1% of congestion losses'
+    contextEs: 'Transito gratuito cuesta $35M - eso es el 1% de las perdidas por congestion'
     source: 'Texas A&M Transportation Institute, 2025'
     theme: 'accent'
 ---
@@ -150,7 +150,7 @@ The 15-minute city is not about restricting movement. It is about ensuring that 
 | **Bogota, Colombia**       | TransMilenio BRT (55 km) integrated with 550 km cycling network. Weekly Ciclovia opens 121 km of streets car-free every Sunday.                                   | Up to 2 million weekly Ciclovia participants. 900,000 daily cycling trips. Bike speeds (17 km/h) beat rush-hour transit (13 km/h). Inspired hundreds of cities worldwide (8-80 Cities / Open Streets Project). |
 | **Amsterdam, Netherlands** | "Autoluw" (car-lite) policy: removing 7,000-10,000 parking spaces, 30 km/h speed limits, cycling infrastructure budget increased from 5 to 70 million euros/year. | 36% of all trips by bike (87% in city center). 665,000 daily cycling journeys. More bicycles than people in the city.                                                                                          |
 
-Denver has every advantage these cities had, and then some. The metro area already has 104 miles of rail track and a rail station network that most cities would envy. Denver averages 245 sunny days per year, more than Miami or San Diego (National Weather Service). The terrain is flat across the urban core. The population is young, growing, and increasingly demanding alternatives to car dependency. What Denver lacks is not geography or climate or infrastructure -- it is political will.
+Denver has every advantage these cities had, and then some. The metro area already has 104 miles of rail track and a rail station network that most cities would envy. Denver averages 245 sunny days per year, more than Miami or San Diego (National Weather Service). The terrain is flat across the urban core. The population is young, growing, and increasingly demanding alternatives to car dependency. What Denver lacks is not geography or climate or infrastructure - it is political will.
 
 ## How We Pay For It
 

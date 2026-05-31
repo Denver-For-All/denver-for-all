@@ -27,7 +27,7 @@ keyStats:
   - value: '$6.2M'
     label: 'Evanston proved cities can do reparations'
     labelEs: 'Evanston demostro que las ciudades pueden hacer reparaciones'
-    context: 'First US city to disburse publicly funded reparations — 132 recipients'
+    context: 'First US city to disburse publicly funded reparations - 132 recipients'
     contextEs: 'Primera ciudad de EE.UU. en desembolsar reparaciones con fondos publicos'
     source: 'City of Evanston, 2025'
     theme: 'primary'

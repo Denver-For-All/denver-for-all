@@ -13,8 +13,8 @@ keyStats:
   - value: '$2,200/mo'
     label: 'childcare costs more than college tuition'
     labelEs: 'cuidado infantil cuesta mas que la matricula universitaria'
-    context: 'Denver childcare runs $16,800-26,400/year per child — more than CU Boulder tuition'
-    contextEs: 'El cuidado infantil en Denver cuesta $16,800-26,400/ano por nino — mas que la matricula de CU Boulder'
+    context: 'Denver childcare runs $16,800-26,400/year per child - more than CU Boulder tuition'
+    contextEs: 'El cuidado infantil en Denver cuesta $16,800-26,400/ano por nino - mas que la matricula de CU Boulder'
     source: 'Economic Policy Institute, 2023'
     theme: 'danger'
   - value: '$13-16/hr'
@@ -154,7 +154,7 @@ No. Licensed private providers can participate in the system and receive public 
 CCCAP has income cutoffs that exclude many working families, waitlists, and reimbursement rates too low for quality care. Universal Pre-K covers 4-year-olds for 15 hours/week. Neither addresses the 6-month to 3-year gap, and neither is universal. We build on what exists and close the gaps.
 
 **"Where will the workers come from?"**
-This is a real challenge. The childcare industry faces massive staffing shortages -- because it pays poverty wages. Our proposal starts workers at $25/hr with full benefits. When you pay living wages, people come. Quebec's universal childcare program resolved its staffing shortage by raising wages and offering professional development.
+This is a real challenge. The childcare industry faces massive staffing shortages - because it pays poverty wages. Our proposal starts workers at $25/hr with full benefits. When you pay living wages, people come. Quebec's universal childcare program resolved its staffing shortage by raising wages and offering professional development.
 
 ## References
 

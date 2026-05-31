@@ -13,8 +13,8 @@ keyStats:
   - value: '33%'
     label: 'of Denver faces food insecurity'
     labelEs: 'de Denver enfrenta inseguridad alimentaria'
-    context: 'Triple the pre-pandemic rate — and climbing after SNAP expansions expired'
-    contextEs: 'Triple la tasa pre-pandemia — y subiendo despues de que expiraron las expansiones de SNAP'
+    context: 'Triple the pre-pandemic rate - and climbing after SNAP expansions expired'
+    contextEs: 'Triple la tasa pre-pandemia - y subiendo despues de que expiraron las expansiones de SNAP'
     source: 'Denver DDPHE; Hunger Free Colorado'
     theme: 'danger'
   - value: '93%'
@@ -27,8 +27,8 @@ keyStats:
   - value: '60%'
     label: 'drop in child mortality in Belo Horizonte'
     labelEs: 'caida en mortalidad infantil en Belo Horizonte'
-    context: 'Brazil declared food a right in 1993 — cost just 2% of the city budget'
-    contextEs: 'Brasil declaro la alimentacion un derecho en 1993 — costo solo 2% del presupuesto'
+    context: 'Brazil declared food a right in 1993 - cost just 2% of the city budget'
+    contextEs: 'Brasil declaro la alimentacion un derecho en 1993 - costo solo 2% del presupuesto'
     source: 'City of Belo Horizonte'
     theme: 'primary'
 ---
@@ -79,7 +79,7 @@ These programs matter, but they do not add up to a food system. Denver still lac
 
 ### 4. Community Food Hubs
 
-- **A community food hub in every food desert neighborhood**, combining: affordable grocery retail, a community kitchen, nutrition education programs, and dignified food bank distribution. FreshLo Market's model—with its community benefits agreements and resident-led advisory committees—demonstrates how grocery retail can be genuinely community-accountable.
+- **A community food hub in every food desert neighborhood**, combining: affordable grocery retail, a community kitchen, nutrition education programs, and dignified food bank distribution. FreshLo Market's model - with its community benefits agreements and resident-led advisory committees - demonstrates how grocery retail can be genuinely community-accountable.
 - **Community kitchens**: shared commercial kitchen space for food entrepreneurs, home cooks, and community members, available at below-market rent
 - **Nutrition education and cooking classes** that are culturally appropriate and multilingual, developed with community input, not imposed from outside
 - **Food preservation workshops**: canning, fermenting, drying, and other methods that extend the value of fresh food and connect to cultural food traditions

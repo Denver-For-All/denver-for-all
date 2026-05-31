@@ -32,11 +32,11 @@ Esto requiere:
 - **Ampliar los criterios de tipo de llamada** para el despacho de STAR.
 - **Protocolos de co-respuesta** para llamadas donde la situación no está clara.
 
-### 2. Línea de Crisis de Salud Mental Dedicada — Separada del 911
+### 2. Línea de Crisis de Salud Mental Dedicada - Separada del 911
 
 Crear una **línea de crisis de salud mental dedicada de Denver** que conecte directamente con los médicos de STAR. Disponible las 24 horas, los 7 días de la semana, y bilingüe (inglés/español como mínimo).
 
-### 3. Centros de Estabilización de Crisis — Alternativas a la Sala de Emergencias
+### 3. Centros de Estabilización de Crisis - Alternativas a la Sala de Emergencias
 
 Financiar al menos **tres centros comunitarios de estabilización de crisis** en vecindarios de Denver con alta necesidad, que proporcionen:
 
@@ -60,7 +60,7 @@ Publicar tableros trimestrales que rastreen el volumen de llamadas de STAR, los 
 
 | Estudio                                              | Hallazgo                                                                           |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Dee y Pyne, _NBER_, 2022                             | STAR redujo la delincuencia en áreas cubiertas en un 8–12%                         |
+| Dee y Pyne, _NBER_, 2022                             | STAR redujo la delincuencia en áreas cubiertas en un 8-12%                         |
 | Evaluación de STAR de la Universidad de Denver, 2022 | Cero arrestos, cero usos de fuerza en más de 2,300 respuestas                      |
 | Informe del Programa STAR de Denver, 2023            | Costo por respuesta ~$500 vs. más de $1,000 para respuesta policial                |
 | Evaluación de 30 años de CAHOOTS (Eugene, OR)        | El programa civil de crisis maneja el 24% de todas las llamadas al 911 sin policía |
@@ -77,18 +77,18 @@ STAR no es "desfinanciar a la policía". Es dimensionar correctamente la respues
 Los datos de STAR de Denver y programas comparables en todo el país confirman que sí. En cinco años de operación de STAR en Denver, no ha habido un incidente de seguridad grave con un médico de STAR en una llamada.
 
 **"¿Costará esto más dinero?"**
-No. STAR cuesta aproximadamente $500 por respuesta, frente a más de $1,000 para la respuesta policial y $40,000–$80,000 por individuo cuando una crisis de salud mental pasa por la sala de emergencias y la cárcel.
+No. STAR cuesta aproximadamente $500 por respuesta, frente a más de $1,000 para la respuesta policial y $40,000-$80,000 por individuo cuando una crisis de salud mental pasa por la sala de emergencias y la cárcel.
 
 ## Cómo Lo Financiamos
 
-La expansión completa de STAR 24/7 requeriría aproximadamente $25–30M/año.
+La expansión completa de STAR 24/7 requeriría aproximadamente $25-30M/año.
 
 | Fuente de Financiamiento                                                    | Monto Estimado |
 | --------------------------------------------------------------------------- | -------------- |
-| Redirigir de las horas extras policiales                                    | ~$8–10M        |
-| Subvenciones estatales de la Administración de Salud Conductual de Colorado | ~$5–7M         |
-| Subvenciones federales de SAMHSA                                            | ~$3–5M         |
-| Fondo General de Denver (nueva asignación)                                  | ~$7–10M        |
+| Redirigir de las horas extras policiales                                    | ~$8-10M        |
+| Subvenciones estatales de la Administración de Salud Conductual de Colorado | ~$5-7M         |
+| Subvenciones federales de SAMHSA                                            | ~$3-5M         |
+| Fondo General de Denver (nueva asignación)                                  | ~$7-10M        |
 
 Esta es una reasignación, no nuevo gasto. La ciudad actualmente gasta este dinero en el extremo caro e ineficaz de las crisis de salud mental: visitas a la sala de emergencias, cárcel, respuesta de emergencia repetida.
 

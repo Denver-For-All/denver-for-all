@@ -54,7 +54,7 @@ Một ngân hàng thuộc sở hữu công, được thành phố cấp phép th
 | **Banco Nacional của Costa Rica**                                  | Costa Rica | 1914                | Công/hỗn hợp            | Ngân hàng lớn nhất ở Trung Mỹ. Ngân hàng công tài trợ cho sự phát triển trong khi các ngân hàng tư nhân phục vụ giới thượng lưu.                                                                                                        |
 | **Ngân Hàng Nhà Nước Ấn Độ**                                       | Ấn Độ      | 1955                | $635 tỷ                 | Hội nhập tài chính cho hơn 450 triệu người có tài khoản. Tiếp cận các cộng đồng nông thôn mà các ngân hàng tư nhân bỏ qua.                                                                                                              |
 
-**Ngân hàng công rất phổ biến trên toàn cầu** -- Đức, Nhật Bản, Ấn Độ, Costa Rica và hàng chục quốc gia khác dựa vào các ngân hàng công như cơ sở hạ tầng tài chính cốt lõi. Việc gần như không có ngân hàng công ở Hoa Kỳ là điều bất thường so với các nền kinh tế lớn. Riêng ở Đức, các ngân hàng công và hợp tác xã kiểm soát nhiều tài sản hơn các ngân hàng tư nhân. Họ phục vụ cộng đồng thay vì khai thác từ họ.
+**Ngân hàng công rất phổ biến trên toàn cầu** - Đức, Nhật Bản, Ấn Độ, Costa Rica và hàng chục quốc gia khác dựa vào các ngân hàng công như cơ sở hạ tầng tài chính cốt lõi. Việc gần như không có ngân hàng công ở Hoa Kỳ là điều bất thường so với các nền kinh tế lớn. Riêng ở Đức, các ngân hàng công và hợp tác xã kiểm soát nhiều tài sản hơn các ngân hàng tư nhân. Họ phục vụ cộng đồng thay vì khai thác từ họ.
 
 ## Nguồn Tài Chính
 

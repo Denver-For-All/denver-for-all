@@ -288,6 +288,44 @@ html[lang='es'] [data-lang='en'] {
   display: none;
 }
 
+/* ============================================================
+   RTL support (Arabic and any future right-to-left locale)
+   The <html dir="rtl"> attribute (set in Layout.astro) handles text
+   direction and default alignment; these rules mirror the handful of
+   physical-offset utilities the layout relies on. Latin runs, numbers,
+   and code stay LTR automatically via the Unicode bidi algorithm.
+   ============================================================ */
+html[dir='rtl'] body {
+  text-align: right;
+}
+
+html[dir='rtl'] .header__lang-toggle,
+html[dir='rtl'] .header__lang-switch {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+html[dir='rtl'] .skip-link {
+  left: auto;
+  right: 1rem;
+}
+
+html[dir='rtl'] .blockquote,
+html[dir='rtl'] blockquote {
+  border-left: none;
+  border-right: 4px solid var(--color-primary);
+  border-radius: var(--radius) 0 0 var(--radius);
+}
+
+/* Keep tabular/statistical and form content visually LTR even in RTL pages. */
+html[dir='rtl'] input[type='number'],
+html[dir='rtl'] input[type='range'],
+html[dir='rtl'] .calc-amount,
+html[dir='rtl'] code,
+html[dir='rtl'] pre {
+  direction: ltr;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .section {

@@ -81,11 +81,21 @@ const grants = defineCollection({
   }),
 });
 
-// Spanish policy translations - content-only markdown files with empty frontmatter.
+// Translated policy bodies - content-only markdown files with empty frontmatter.
 // The slug must match the corresponding English policy slug for pairing.
-const policiesEs = defineCollection({
-  type: 'content',
-  schema: z.object({}).strict(),
-});
+// One collection per non-default locale (es, vi, zh, ar, am).
+const translatedPolicies = () =>
+  defineCollection({
+    type: 'content',
+    schema: z.object({}).strict(),
+  });
 
-export const collections = { policies, grants, 'policies-es': policiesEs };
+export const collections = {
+  policies,
+  grants,
+  'policies-es': translatedPolicies(),
+  'policies-vi': translatedPolicies(),
+  'policies-zh': translatedPolicies(),
+  'policies-ar': translatedPolicies(),
+  'policies-am': translatedPolicies(),
+};

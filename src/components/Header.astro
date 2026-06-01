@@ -1,5 +1,6 @@
 ---
 import type { Locale } from '../i18n/utils';
+import { LOCALES, DEFAULT_LOCALE, stripLocale, localizePath } from '../i18n/utils';
 import { siteName } from '@config/site';
 
 interface Props {
@@ -8,7 +9,7 @@ interface Props {
 
 const { locale = 'en' } = Astro.props;
 const isEs = locale === 'es';
-const prefix = isEs ? '/es' : '';
+const prefix = locale === DEFAULT_LOCALE ? '' : `/${locale}`;
 const currentPath = Astro.url.pathname;
 
 const navItems = [
@@ -19,9 +20,15 @@ const navItems = [
   { href: '/about', en: 'About', es: 'Quiénes Somos' },
 ];
 
-// Build the URL to the alternate language version of the current page
-const strippedPath = currentPath.replace(/^\/es(\/|$)/, '$1') || '/';
-const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : strippedPath}`;
+// Canonical (unprefixed) path, used to build the same page in each language.
+const canonicalPath = stripLocale(currentPath);
+const strippedPath = canonicalPath;
+const langLinks = LOCALES.map((l) => ({
+  ...l,
+  href: localizePath(canonicalPath, l.code),
+  active: l.code === locale,
+}));
+const current = langLinks.find((l) => l.active) ?? langLinks[0];
 ---
 
 <header class="header">
@@ -39,18 +46,36 @@ const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : 
           href={`${prefix}${item.href}`}
           class:list={['header__link', { 'header__link--active': strippedPath.startsWith(item.href) }]}
           aria-current={strippedPath.startsWith(item.href) ? 'page' : undefined}
+          data-en={item.en}
+          data-es={item.es}
         >
           {isEs ? item.es : item.en}
         </a>
       ))}
-      <a
-        class="header__lang-toggle"
-        href={langToggleHref}
-        aria-label={isEs ? 'Switch to English' : 'Cambiar a Español'}
-        id="lang-toggle"
-      >
-        {isEs ? 'EN' : 'ES'}
-      </a>
+
+      <details class="header__lang-switch" id="lang-switch">
+        <summary class="header__lang-current" aria-label={isEs ? 'Cambiar idioma' : 'Change language'}>
+          <span aria-hidden="true">🌐</span>
+          <span class="header__lang-code">{current.short}</span>
+        </summary>
+        <ul class="header__lang-menu" role="menu">
+          {langLinks.map((l) => (
+            <li role="none">
+              <a
+                role="menuitem"
+                href={l.href}
+                lang={l.code}
+                dir={l.dir}
+                data-locale={l.code}
+                class:list={['header__lang-option', { 'header__lang-option--active': l.active }]}
+                aria-current={l.active ? 'true' : undefined}
+              >
+                {l.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
     </nav>
 
     <button class="header__menu-btn" id="menu-toggle" aria-label={isEs ? 'Abrir menú' : 'Toggle menu'} aria-expanded="false" aria-controls="main-nav">
@@ -119,24 +144,76 @@ const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : 
     background: var(--color-bg-alt);
   }
 
-  .header__lang-toggle {
+  /* Language switcher (native <details> disclosure — works without JS) */
+  .header__lang-switch {
+    position: relative;
+    margin-left: 0.5rem;
+  }
+
+  .header__lang-current {
     display: inline-flex;
     align-items: center;
-    margin-left: 0.5rem;
-    padding: 0.4rem 0.75rem;
+    gap: 0.4rem;
+    padding: 0.4rem 0.7rem;
     border: 2px solid var(--color-primary);
     border-radius: var(--radius);
     background: transparent;
     color: var(--color-primary);
     font-weight: 700;
     font-size: 0.8rem;
-    text-decoration: none;
-    transition: all 0.2s;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
   }
 
-  .header__lang-toggle:hover {
+  .header__lang-current::-webkit-details-marker {
+    display: none;
+  }
+
+  .header__lang-switch[open] .header__lang-current,
+  .header__lang-current:hover {
     background: var(--color-primary);
     color: white;
+  }
+
+  .header__lang-menu {
+    position: absolute;
+    top: calc(100% + 0.4rem);
+    right: 0;
+    margin: 0;
+    padding: 0.35rem;
+    list-style: none;
+    min-width: 160px;
+    background: var(--color-bg-card);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+    z-index: 200;
+  }
+
+  html[dir='rtl'] .header__lang-menu {
+    right: auto;
+    left: 0;
+  }
+
+  .header__lang-option {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .header__lang-option:hover {
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
+  }
+
+  .header__lang-option--active {
+    color: var(--color-primary);
+    font-weight: 700;
   }
 
   .header__menu-btn {
@@ -180,6 +257,19 @@ const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : 
       padding: 0.75rem 1rem;
     }
 
+    .header__lang-switch {
+      width: 100%;
+      margin-left: 0;
+    }
+
+    .header__lang-menu {
+      position: static;
+      box-shadow: none;
+      border: none;
+      padding: 0;
+      min-width: 0;
+    }
+
     .header__menu-btn {
       display: flex;
     }
@@ -195,10 +285,20 @@ const langToggleHref = isEs ? strippedPath : `/es${strippedPath === '/' ? '/' : 
     toggle?.setAttribute('aria-expanded', String(expanded));
   });
 
-  // Save language preference when user clicks the language toggle link
-  const langToggle = document.getElementById('lang-toggle');
-  langToggle?.addEventListener('click', () => {
-    const isCurrentlyEs = document.documentElement.lang === 'es';
-    localStorage.setItem('dfa-locale', isCurrentlyEs ? 'en' : 'es');
+  // Remember the chosen language so default-locale visits can auto-redirect.
+  const langSwitch = document.getElementById('lang-switch');
+  langSwitch?.querySelectorAll('a[data-locale]').forEach((link) => {
+    link.addEventListener('click', () => {
+      const code = link.getAttribute('data-locale');
+      if (code) localStorage.setItem('dfa-locale', code);
+    });
+  });
+
+  // Close the language menu when clicking outside it.
+  document.addEventListener('click', (e) => {
+    const details = langSwitch as HTMLDetailsElement | null;
+    if (details?.open && !details.contains(e.target as Node)) {
+      details.open = false;
+    }
   });
 </script>

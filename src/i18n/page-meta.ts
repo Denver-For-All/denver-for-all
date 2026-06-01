@@ -32,7 +32,14 @@ export const pageMeta: Record<string, PageMeta> = {
     },
   },
   about: {
-    title: { en: 'About', es: 'Acerca de', vi: 'Giới thiệu', zh: '关于我们', ar: 'من نحن', am: 'ስለ እኛ' },
+    title: {
+      en: 'About',
+      es: 'Acerca de',
+      vi: 'Giới thiệu',
+      zh: '关于我们',
+      ar: 'من نحن',
+      am: 'ስለ እኛ',
+    },
     description: {
       en: `${siteConfig.name.en} is a grassroots movement building political power for working people in ${siteConfig.city.en}.`,
       es: `${siteConfig.name.es} es un movimiento popular construyendo poder político para las personas trabajadoras de ${siteConfig.city.es}.`,

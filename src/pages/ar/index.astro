@@ -1,0 +1,11 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import IndexContent from '../../components/pages/IndexContent.astro';
+import { getPageMeta } from '../../i18n/page-meta';
+
+const { title, description } = getPageMeta('home', 'ar');
+---
+
+<Layout title={title} description={description}>
+  <IndexContent />
+</Layout>

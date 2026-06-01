@@ -25,44 +25,44 @@ const ghUrl = `https://github.com/${siteConfig.githubRepo}`;
       </div>
 
       <div class="footer__links">
-        <h4>{isEs ? 'Plataforma' : 'Platform'}</h4>
-        <a href={`${prefix}/platform`}>{isEs ? 'Todas las Propuestas' : 'All Proposals'}</a>
-        <a href={`${prefix}/run-for-denver`}>{isEs ? 'Postularse por Denver' : 'Run For Denver'}</a>
-        <a href={`${prefix}/take-action`}>{isEs ? 'Actúa' : 'Take Action'}</a>
+        <h4 data-en="Platform" data-es="Plataforma">{isEs ? 'Plataforma' : 'Platform'}</h4>
+        <a href={`${prefix}/platform`} data-en="All Proposals" data-es="Todas las Propuestas">{isEs ? 'Todas las Propuestas' : 'All Proposals'}</a>
+        <a href={`${prefix}/run-for-denver`} data-en="Run For Denver" data-es="Postularse por Denver">{isEs ? 'Postularse por Denver' : 'Run For Denver'}</a>
+        <a href={`${prefix}/take-action`} data-en="Take Action" data-es="Actúa">{isEs ? 'Actúa' : 'Take Action'}</a>
       </div>
 
       <div class="footer__links">
-        <h4>{isEs ? 'Herramientas' : 'Tools'}</h4>
-        <a href={`${prefix}/tools/eviction-tracker`}>{isEs ? 'Rastreador de Desalojos' : 'Eviction Tracker'}</a>
-        <a href={`${prefix}/tools/rent-calculator`}>{isEs ? 'Calculadora de Alquiler' : 'Rent Calculator'}</a>
-        <a href={`${prefix}/tools/campaign-finance`}>{isEs ? 'Sigue el Dinero' : 'Follow the Money'}</a>
-        <a href={`${prefix}/tools/know-your-rights`}>{isEs ? 'Conoce Tus Derechos' : 'Know Your Rights'}</a>
-        <a href={`${prefix}/tools/sidewalk-data`}>{isEs ? 'Datos de Aceras' : 'Sidewalk Data'}</a>
-        <a href={`${prefix}/tools/eviction-data`}>{isEs ? 'Datos de Desalojos' : 'Eviction Data'}</a>
-        <a href={`${prefix}/tools/money-in-politics`}>{isEs ? 'Dinero en Política' : 'Money in Politics'}</a>
+        <h4 data-en="Tools" data-es="Herramientas">{isEs ? 'Herramientas' : 'Tools'}</h4>
+        <a href={`${prefix}/tools/eviction-tracker`} data-en="Eviction Tracker" data-es="Rastreador de Desalojos">{isEs ? 'Rastreador de Desalojos' : 'Eviction Tracker'}</a>
+        <a href={`${prefix}/tools/rent-calculator`} data-en="Rent Calculator" data-es="Calculadora de Alquiler">{isEs ? 'Calculadora de Alquiler' : 'Rent Calculator'}</a>
+        <a href={`${prefix}/tools/campaign-finance`} data-en="Follow the Money" data-es="Sigue el Dinero">{isEs ? 'Sigue el Dinero' : 'Follow the Money'}</a>
+        <a href={`${prefix}/tools/know-your-rights`} data-en="Know Your Rights" data-es="Conoce Tus Derechos">{isEs ? 'Conoce Tus Derechos' : 'Know Your Rights'}</a>
+        <a href={`${prefix}/tools/sidewalk-data`} data-en="Sidewalk Data" data-es="Datos de Aceras">{isEs ? 'Datos de Aceras' : 'Sidewalk Data'}</a>
+        <a href={`${prefix}/tools/eviction-data`} data-en="Eviction Data" data-es="Datos de Desalojos">{isEs ? 'Datos de Desalojos' : 'Eviction Data'}</a>
+        <a href={`${prefix}/tools/money-in-politics`} data-en="Money in Politics" data-es="Dinero en Política">{isEs ? 'Dinero en Política' : 'Money in Politics'}</a>
       </div>
 
       <div class="footer__links">
-        <h4>{isEs ? 'Conectar' : 'Connect'}</h4>
-        <a href={`mailto:${siteConfig.email}`}>{isEs ? 'Escríbenos' : 'Email Us'}</a>
+        <h4 data-en="Connect" data-es="Conectar">{isEs ? 'Conectar' : 'Connect'}</h4>
+        <a href={`mailto:${siteConfig.email}`} data-en="Email Us" data-es="Escríbenos">{isEs ? 'Escríbenos' : 'Email Us'}</a>
         {siteConfig.links.reddit && (
           <a href={siteConfig.links.reddit} target="_blank" rel="noopener">Reddit</a>
         )}
         {siteConfig.links.signal && (
-          <a href={siteConfig.links.signal} target="_blank" rel="noopener">{isEs ? 'Grupo de Signal' : 'Signal Group'}</a>
+          <a href={siteConfig.links.signal} target="_blank" rel="noopener" data-en="Signal Group" data-es="Grupo de Signal">{isEs ? 'Grupo de Signal' : 'Signal Group'}</a>
         )}
         {siteConfig.links.openCollective && (
-          <a href={siteConfig.links.openCollective} target="_blank" rel="noopener">{isEs ? 'Donar · Registro Público' : 'Donate · Public Ledger'}</a>
+          <a href={siteConfig.links.openCollective} target="_blank" rel="noopener" data-en="Donate · Public Ledger" data-es="Donar · Registro Público">{isEs ? 'Donar · Registro Público' : 'Donate · Public Ledger'}</a>
         )}
-        <a href={ghUrl} target="_blank" rel="noopener">{isEs ? 'GitHub · Código Fuente' : 'GitHub · Source Code'}</a>
+        <a href={ghUrl} target="_blank" rel="noopener" data-en="GitHub · Source Code" data-es="GitHub · Código Fuente">{isEs ? 'GitHub · Código Fuente' : 'GitHub · Source Code'}</a>
       </div>
     </div>
 
     <div class="footer__bottom">
       <p>
-        <a href={ghUrl} target="_blank" rel="noopener">{isEs ? 'Este sitio es de código abierto.' : 'This site is open source.'}</a>
+        <a href={ghUrl} target="_blank" rel="noopener" data-en="This site is open source." data-es="Este sitio es de código abierto.">{isEs ? 'Este sitio es de código abierto.' : 'This site is open source.'}</a>
         &copy; {year} {name}.
-        {isEs ? 'Construido con solidaridad y herramientas de código abierto.' : 'Built with solidarity and open-source tools.'}
+        <span data-en="Built with solidarity and open-source tools." data-es="Construido con solidaridad y herramientas de código abierto.">{isEs ? 'Construido con solidaridad y herramientas de código abierto.' : 'Built with solidarity and open-source tools.'}</span>
       </p>
     </div>
   </div>

@@ -1,0 +1,11 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import RunForDenverContent from '../../components/pages/RunForDenverContent.astro';
+import { getPageMeta } from '../../i18n/page-meta';
+
+const { title, description } = getPageMeta('runForDenver', 'am');
+---
+
+<Layout title={title} description={description}>
+  <RunForDenverContent />
+</Layout>

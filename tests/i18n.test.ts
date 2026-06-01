@@ -1,5 +1,13 @@
 import { describe, it, expect } from 'vitest';
-import { t, locale, toggleLocale } from '../src/i18n/utils';
+import {
+  t,
+  locale,
+  localeFromPath,
+  localizePath,
+  stripLocale,
+  getDir,
+  LOCALE_CODES,
+} from '../src/i18n/utils';
 
 describe('i18n utilities', () => {
   it('returns English text by default', () => {
@@ -20,12 +28,30 @@ describe('i18n utilities', () => {
     expect(result).toBe('nonexistent.key');
   });
 
-  it('toggleLocale switches between en and es', () => {
-    locale.set('en');
-    toggleLocale();
-    expect(locale.get()).toBe('es');
-    toggleLocale();
-    expect(locale.get()).toBe('en');
+  it('supports the six configured locales', () => {
+    expect(LOCALE_CODES).toEqual(['en', 'es', 'vi', 'zh', 'ar', 'am']);
+  });
+
+  it('detects the active locale from a path prefix', () => {
+    expect(localeFromPath('/')).toBe('en');
+    expect(localeFromPath('/platform')).toBe('en');
+    expect(localeFromPath('/es/platform')).toBe('es');
+    expect(localeFromPath('/vi')).toBe('vi');
+    expect(localeFromPath('/ar/tools/rent-calculator')).toBe('ar');
+  });
+
+  it('round-trips a path between localize and strip', () => {
+    expect(localizePath('/platform', 'zh')).toBe('/zh/platform');
+    expect(localizePath('/', 'zh')).toBe('/zh/');
+    expect(localizePath('/platform', 'en')).toBe('/platform');
+    expect(stripLocale('/zh/platform')).toBe('/platform');
+    expect(stripLocale('/platform')).toBe('/platform');
+  });
+
+  it('marks Arabic as right-to-left and others left-to-right', () => {
+    expect(getDir('ar')).toBe('rtl');
+    expect(getDir('en')).toBe('ltr');
+    expect(getDir('vi')).toBe('ltr');
   });
 
   it('handles nested keys correctly', () => {

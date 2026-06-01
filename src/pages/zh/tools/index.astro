@@ -1,0 +1,11 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ToolsIndexContent from '../../../components/pages/ToolsIndexContent.astro';
+import { getPageMeta } from '../../../i18n/page-meta';
+
+const { title, description } = getPageMeta('tools', 'zh');
+---
+
+<Layout title={title} description={description}>
+  <ToolsIndexContent />
+</Layout>

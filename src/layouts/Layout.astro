@@ -7,6 +7,11 @@ import { getOgImage } from '@config/og-images';
 import { getImage } from 'astro:assets';
 
 import type { Locale } from '../i18n/utils';
+import { LOCALES, DEFAULT_LOCALE, getDir, localeFromPath, stripLocale, localizePath } from '../i18n/utils';
+import viDict from '../i18n/runtime/vi.json';
+import zhDict from '../i18n/runtime/zh.json';
+import arDict from '../i18n/runtime/ar.json';
+import amDict from '../i18n/runtime/am.json';
 
 interface Props {
   title?: string;
@@ -25,8 +30,20 @@ const {
   ogType = 'website',
 } = Astro.props;
 
-// Determine locale: explicit prop > URL prefix > default 'en'
-const lang: Locale = locale ?? (Astro.url.pathname.startsWith('/es/') || Astro.url.pathname === '/es' ? 'es' : 'en');
+// Determine locale: explicit prop > URL prefix > default.
+const lang: Locale = locale ?? localeFromPath(Astro.url.pathname);
+const dir = getDir(lang);
+
+// Runtime translation dictionaries for non-en/es locales (keyed by English
+// source text). Spanish keeps its inline data-es swap below. Missing keys fall
+// back to the English text already in the DOM.
+const runtimeDicts: Partial<Record<Locale, Record<string, string>>> = {
+  vi: viDict,
+  zh: zhDict,
+  ar: arDict,
+  am: amDict,
+};
+const runtimeDict = runtimeDicts[lang] ?? null;
 
 const brandName = siteName(lang);
 const fullTitle = title === siteConfig.name.en || title === siteConfig.name.es ? title : `${title} | ${brandName}`;
@@ -45,27 +62,36 @@ const ogImageAsset = await getImage({
 });
 const ogImage = new URL(ogImageAsset.src, Astro.site).href;
 
-// Build the alternate-language URL for hreflang
-const pathname = Astro.url.pathname;
-const alternatePathname = lang === 'es'
-  ? (pathname.replace(/^\/es(\/|$)/, '$1') || '/')
-  : `/es${pathname === '/' ? '/' : pathname}`;
-const alternateURL = new URL(alternatePathname, Astro.site);
-const alternateLang = lang === 'es' ? 'en' : 'es';
-const ogLocale = lang === 'es' ? 'es_US' : 'en_US';
-const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
+// hreflang alternates for every supported locale.
+const canonicalPath = stripLocale(Astro.url.pathname);
+const alternates = LOCALES.map((l) => ({
+  code: l.code,
+  href: new URL(localizePath(canonicalPath, l.code), Astro.site).href,
+}));
+const xDefaultHref = new URL(canonicalPath, Astro.site).href;
+
+const ogLocaleMap: Record<Locale, string> = {
+  en: 'en_US',
+  es: 'es_US',
+  vi: 'vi_VN',
+  zh: 'zh_CN',
+  ar: 'ar_AR',
+  am: 'am_ET',
+};
+const ogLocale = ogLocaleMap[lang];
 ---
 <!doctype html>
-<html lang={lang}>
+<html lang={lang} dir={dir}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="canonical" href={canonicalURL.href} />
-    <link rel="alternate" hreflang={lang} href={canonicalURL.href} />
-    <link rel="alternate" hreflang={alternateLang} href={alternateURL.href} />
-    <link rel="alternate" hreflang="x-default" href={new URL(lang === 'es' ? alternatePathname : pathname, Astro.site).href} />
+    {alternates.map((a) => (
+      <link rel="alternate" hreflang={a.code} href={a.href} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={xDefaultHref} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
@@ -79,19 +105,25 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
     <meta property="og:image:width" content={String(OG_WIDTH)} />
     <meta property="og:image:height" content={String(OG_HEIGHT)} />
     <meta property="og:locale" content={ogLocale} />
-    <meta property="og:locale:alternate" content={ogLocaleAlt} />
+    {alternates.filter((a) => a.code !== lang).map((a) => (
+      <meta property="og:locale:alternate" content={ogLocaleMap[a.code]} />
+    ))}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
     <title>{fullTitle}</title>
-    {lang === 'en' && (
-      <script is:inline>
-        if (localStorage.getItem('dfa-locale') === 'es') {
-          // User prefers Spanish but landed on English page - redirect to /es/ version
-          const p = window.location.pathname;
-          window.location.replace('/es' + (p === '/' ? '/' : p));
-        }
+    {lang === DEFAULT_LOCALE && (
+      <script is:inline define:vars={{ codes: LOCALES.map((l) => l.code).filter((c) => c !== DEFAULT_LOCALE) }}>
+        // User landed on a default-locale page but prefers another language —
+        // redirect to the prefixed version of the same path.
+        (function () {
+          var stored = localStorage.getItem('dfa-locale');
+          if (stored && codes.indexOf(stored) !== -1) {
+            var p = window.location.pathname;
+            window.location.replace('/' + stored + (p === '/' ? '/' : p));
+          }
+        })();
       </script>
     )}
   </head>
@@ -138,6 +170,33 @@ const ogLocaleAlt = lang === 'es' ? 'en_US' : 'es_US';
           for (var k = 0; k < links.length; k++) {
             var h = links[k].getAttribute('href');
             if (h && !h.startsWith('/es')) links[k].setAttribute('href', '/es' + h);
+          }
+        })();
+      </script>
+    )}
+    {runtimeDict && (
+      <script is:inline define:vars={{ lang, dict: runtimeDict }}>
+        // Swap translated text into elements (keyed by their English data-en
+        // value) and prefix internal links for the active locale. Strings not
+        // present in the dictionary keep their English text (graceful fallback).
+        (function () {
+          var els = document.querySelectorAll('[data-en]');
+          for (var i = 0; i < els.length; i++) {
+            var key = els[i].getAttribute('data-en');
+            if (key && dict[key]) els[i].textContent = dict[key];
+          }
+          var phs = document.querySelectorAll('[data-en-placeholder]');
+          for (var j = 0; j < phs.length; j++) {
+            var pk = phs[j].getAttribute('data-en-placeholder');
+            if (pk && dict[pk]) phs[j].placeholder = dict[pk];
+          }
+          var prefix = '/' + lang;
+          var links = document.querySelectorAll('main a[href^="/"]');
+          for (var k = 0; k < links.length; k++) {
+            var h = links[k].getAttribute('href');
+            if (h && h !== prefix && h.indexOf(prefix + '/') !== 0) {
+              links[k].setAttribute('href', prefix + h);
+            }
           }
         })();
       </script>

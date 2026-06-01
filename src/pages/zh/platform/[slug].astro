@@ -1,0 +1,675 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import EmailCapture from '../../../components/EmailCapture.astro';
+import PolicyActionScore from '../../../components/PolicyActionScore.astro';
+import PolicyActionCTA from '../../../components/PolicyActionCTA.astro';
+import DonationCTA from '../../../components/DonationCTA.astro';
+import ShareableStatCard from '../../../components/ShareableStatCard';
+import '../../../components/ShareableStatCard.css';
+import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
+import { getOgImage } from '@config/og-images';
+import { getCollection, getEntry } from 'astro:content';
+import { siteConfig, siteUrl } from '@config/site';
+
+export async function getStaticPaths() {
+  const policies = await getCollection('policies');
+  return policies.map(policy => ({
+    params: { slug: policy.slug },
+    props: { policy },
+  }));
+}
+
+const { policy } = Astro.props;
+const { Content } = await policy.render();
+
+let ContentLoc: (typeof Content) | null = null;
+try {
+  const policyLoc = await getEntry('policies-zh', policy.slug);
+  if (policyLoc) {
+    const rendered = await policyLoc.render();
+    ContentLoc = rendered.Content;
+  }
+} catch {
+  // No zh translation available for this policy
+}
+const Body = ContentLoc ?? Content;
+
+const hasPetition = !!policy.data.petition;
+const hasFundingSources = policy.data.hasFundingSources;
+const hasGrantProposal = !!policy.data.grantProposal;
+const hasCouncilChampion = !!policy.data.councilChampion;
+const relatedLegislation = policy.data.relatedLegislation || [];
+const keyStats = policy.data.keyStats || [];
+
+const categoryMap: Record<string, string> = {
+  housing: 'Vivienda y Personas sin Hogar',
+  labor: 'Trabajadores y Salarios',
+  health: 'Salud',
+  climate: 'Clima y Medio Ambiente',
+  safety: 'Seguridad Pública',
+  immigration: 'Inmigración',
+  education: 'Educación',
+  infrastructure: 'Infraestructura y Servicios',
+  justice: 'Justicia Penal',
+  democracy: 'Democracia y Gobernanza',
+  economy: 'Pequeñas Empresas y Economía',
+  community: 'Comunidad y Cultura',
+};
+const categoryEs = categoryMap[policy.data.category] || policy.data.category;
+
+const ghRepo = siteConfig.githubRepo;
+const policyUrl = siteUrl(`/platform/${policy.slug}`);
+const issueTitle = encodeURIComponent(`Feedback: ${policy.data.title}`);
+const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](${policyUrl})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
+const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
+
+// U5: Legislative progress stage computation (server-side, from existing frontmatter)
+const legislation = policy.data.relatedLegislation || [];
+const legStatuses = legislation.map(b => b.status.toLowerCase());
+
+const stageOrganizing =
+  hasPetition || hasCouncilChampion || policy.data.status === 'published' || legislation.length > 0;
+const stageIntroduced = legStatuses.some(
+  s => s.includes('introduced') || s.includes('assigned') || s.includes('referred'),
+);
+const stageCommittee = legStatuses.some(
+  s =>
+    s.includes('committee') ||
+    s.includes('second reading') ||
+    s.includes('third reading') ||
+    s.includes('passed'),
+);
+const stageEnacted = legStatuses.some(
+  s => s.includes('signed') || s.includes('enacted') || s.includes('law'),
+);
+
+type ProgressStage = { en: string; es: string; active: boolean };
+const progressStages: ProgressStage[] = [
+  { en: 'Drafted', es: 'Redactada', active: true },
+  { en: 'Organizing', es: 'Organizando', active: stageOrganizing },
+  { en: 'Introduced', es: 'Presentada', active: stageIntroduced },
+  { en: 'Committee', es: 'Comité', active: stageCommittee },
+  { en: 'Enacted', es: 'Promulgada', active: stageEnacted },
+];
+---
+
+<Layout title={policy.data.title} description={policy.data.summary} ogCategory={policy.data.category} ogType="article">
+  <article class="section">
+    <div class="container container--narrow">
+      <a href="/platform" class="back-link" data-en="← Back to Platform" data-es="← Volver a la Plataforma">
+        ← Back to Platform
+      </a>
+
+      <header class="policy-header">
+        <div class="policy-hero">
+          <Image src={getOgImage(policy.data.category)} alt="" width={1200} loading="eager" fetchpriority="high" />
+        </div>
+        <div class="policy-header__icon">
+          <Icon name={`lucide:${policy.data.icon}`} size={32} />
+        </div>
+        <span class="policy-header__category" data-en={policy.data.category} data-es={categoryEs}>{policy.data.category}</span>
+        <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{policy.data.title}</h1>
+        <p class="policy-header__summary" data-en={policy.data.summary} data-es={policy.data.summaryEs}>
+          {policy.data.summary}
+        </p>
+      </header>
+
+      <!-- U5: Legislative progress indicator -->
+      <div class="progress-tracker" aria-label="Legislative progress">
+        <span class="progress-tracker__label" data-en="Legislative Status" data-es="Estado Legislativo">
+          Legislative Status
+        </span>
+        <ol class="progress-tracker__stages">
+          {progressStages.map((stage, i) => (
+            <li
+              class={`progress-stage${stage.active ? ' progress-stage--active' : ''}`}
+              aria-current={stage.active && (i === progressStages.filter(s => s.active).length - 1) ? 'step' : undefined}
+            >
+              <span class="progress-stage__dot"></span>
+              <span class="progress-stage__label" data-en={stage.en} data-es={stage.es}>{stage.en}</span>
+            </li>
+          ))}
+        </ol>
+      </div>
+
+      <div class="policy-share-inline">
+        <span class="policy-share-inline__label" data-en="Share" data-es="Compartir">Share</span>
+        <a
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`${policyUrl}`)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Share on X / Twitter"
+        >
+          X
+        </a>
+        <a
+          href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`${policyUrl}`)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Share on Facebook"
+        >
+          FB
+        </a>
+        <a
+          href={`https://www.reddit.com/submit?url=${policyUrl}&title=${encodeURIComponent(policy.data.title)}`}
+          target="_blank"
+          rel="noopener"
+          class="policy-share-inline__btn"
+          aria-label="Share on Reddit"
+        >
+          Reddit
+        </a>
+      </div>
+
+      <div class="policy-content">
+        <Body />
+      </div>
+
+      {keyStats.length > 0 && (
+        <ShareableStatCard
+          client:visible
+          stats={keyStats}
+          policyTitle={policy.data.title}
+          policyTitleEs={policy.data.titleEs}
+          policySlug={policy.slug}
+        />
+      )}
+
+      {relatedLegislation.length > 0 && (
+        <div class="related-legislation">
+          <h2 data-en="Related State Legislation" data-es="Legislación Estatal Relacionada">Related State Legislation</h2>
+          <p class="related-legislation__intro" data-en="These bills in the Colorado General Assembly (2026 session) align with this policy proposal. Contact your state legislators to voice support." data-es="Estos proyectos de ley en la Asamblea General de Colorado (sesión 2026) se alinean con esta propuesta de política. Contacta a tus legisladores estatales para expresar tu apoyo.">
+            These bills in the Colorado General Assembly (2026 session) align with this policy proposal. Contact your state legislators to voice support.
+          </p>
+          <div class="legislation-cards">
+            {relatedLegislation.map((bill) => (
+              <div class="legislation-card">
+                <div class="legislation-card__header">
+                  <span class="legislation-card__number">{bill.billNumber}</span>
+                  <span class="legislation-card__session">{bill.session}</span>
+                </div>
+                <h3 class="legislation-card__title">{bill.title}</h3>
+                <p class="legislation-card__status">
+                  <Icon name="lucide:clock" size={14} />
+                  {bill.status}
+                </p>
+                <div class="legislation-card__actions">
+                  {bill.url && (
+                    <a href={bill.url} target="_blank" rel="noopener" class="btn btn--secondary btn--sm" data-en="Track Bill" data-es="Seguir Proyecto">Track Bill</a>
+                  )}
+                  <a href="/tools/resistbot" class="btn btn--primary btn--sm" data-en="Take Action" data-es="Actúa">Take Action</a>
+                </div>
+              </div>
+            ))}
+          </div>
+          <a href="/tools/sponsor-tracker" class="related-legislation__more" data-en="View all aligned sponsors →" data-es="Ver todos los patrocinadores alineados →">View all aligned sponsors →</a>
+        </div>
+      )}
+
+      <DonationCTA context="This policy analysis" contextEs="Este análisis de política" />
+
+      <footer class="policy-footer">
+        <div class="policy-footer__action-grid">
+          <div class="policy-footer__cta">
+            <PolicyActionCTA
+              actionTarget={policy.data.actionTarget}
+              petition={policy.data.petition}
+              grantProposal={policy.data.grantProposal}
+              policyTitle={policy.data.title}
+            />
+          </div>
+          <div class="policy-footer__score">
+            <PolicyActionScore
+              hasPetition={hasPetition}
+              hasFundingSources={hasFundingSources}
+              hasGrantProposal={hasGrantProposal}
+              hasCouncilChampion={hasCouncilChampion}
+            />
+          </div>
+        </div>
+
+        <div class="policy-share">
+          <h3 data-en="Share This Proposal" data-es="Comparte Esta Propuesta">Share This Proposal</h3>
+          <div class="policy-share__links">
+            <a
+              href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(policy.data.title)}&url=${encodeURIComponent(`${policyUrl}`)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+              data-en="X / Twitter"
+              data-es="X / Twitter"
+            >
+              X / Twitter
+            </a>
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`${policyUrl}`)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+            >
+              Facebook
+            </a>
+            <a
+              href={`https://www.reddit.com/submit?url=${policyUrl}&title=${encodeURIComponent(policy.data.title)}`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+            >
+              Reddit
+            </a>
+            <button class="btn btn--secondary" id="copy-link" data-en="Copy Link" data-es="Copiar Enlace">
+              Copy Link
+            </button>
+          </div>
+        </div>
+
+        <div class="policy-feedback">
+          <h3 data-en="Help Improve This Proposal" data-es="Ayuda a Mejorar Esta Propuesta">Help Improve This Proposal</h3>
+          <p data-en="Found an error, have a data source, or want to suggest changes? This platform is open source and community-driven." data-es="¿Encontraste un error, tienes una fuente de datos o quieres sugerir cambios? Esta plataforma es de código abierto e impulsada por la comunidad.">
+            Found an error, have a data source, or want to suggest changes? This platform is open source and community-driven.
+          </p>
+          <div class="policy-feedback__links">
+            <a
+              href={issueURL}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+              data-en="Open an Issue"
+              data-es="Abrir un Issue"
+            >
+              Open an Issue
+            </a>
+            <a
+              href={`https://github.com/${ghRepo}/blob/main/src/content/policies/${policy.slug}.md`}
+              target="_blank"
+              rel="noopener"
+              class="btn btn--secondary"
+              data-en="View Source"
+              data-es="Ver Código Fuente"
+            >
+              View Source
+            </a>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </article>
+
+  <section class="section section--alt">
+    <div class="container">
+      <EmailCapture />
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .back-link {
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+    color: var(--color-text-muted);
+  }
+
+  .back-link:hover {
+    color: var(--color-primary);
+  }
+
+  .policy-header {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  .policy-hero {
+    width: 100%;
+    aspect-ratio: 1200 / 630;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+    background: var(--color-bg-alt);
+  }
+
+  .policy-hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .policy-header__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    background: var(--color-bg-alt);
+    color: var(--color-primary);
+    margin-bottom: 1rem;
+  }
+
+  .policy-header__category {
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-primary);
+  }
+
+  .policy-header h1 {
+    margin: 0.5rem 0 1rem;
+  }
+
+  .policy-header__summary {
+    font-size: 1.15rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  .policy-footer {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--color-border);
+  }
+
+  .policy-footer__action-grid {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    align-items: start;
+  }
+
+  .policy-share {
+    text-align: center;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .policy-share h3 {
+    margin-bottom: 1rem;
+  }
+
+  .policy-share__links {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .policy-feedback {
+    text-align: center;
+    padding-top: 2rem;
+    margin-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .policy-feedback h3 {
+    margin-bottom: 0.5rem;
+  }
+
+  .policy-feedback p {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .policy-feedback__links {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .related-legislation {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .related-legislation h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  .related-legislation__intro {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .legislation-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+
+  .legislation-card {
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+
+  .legislation-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .legislation-card__number {
+    font-family: var(--font-mono, monospace);
+    font-weight: 700;
+    font-size: 0.85rem;
+    color: var(--color-primary);
+  }
+
+  .legislation-card__session {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    letter-spacing: 0.03em;
+  }
+
+  .legislation-card__title {
+    font-size: 0.9rem;
+    margin: 0 0 0.5rem;
+    line-height: 1.4;
+  }
+
+  .legislation-card__status {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+  }
+
+  .legislation-card__actions {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .btn--sm {
+    font-size: 0.75rem;
+    padding: 0.35rem 0.75rem;
+  }
+
+  .related-legislation__more {
+    display: block;
+    text-align: center;
+    margin-top: 1.25rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color-primary);
+  }
+
+  /* U5: Legislative progress tracker */
+  .progress-tracker {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 0.875rem 1.25rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius);
+    border: 1px solid var(--color-border);
+    flex-wrap: wrap;
+  }
+
+  .progress-tracker__label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .progress-tracker__stages {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 0;
+    flex: 1;
+    min-width: 0;
+    flex-wrap: wrap;
+  }
+
+  .progress-stage {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-shrink: 0;
+  }
+
+  /* Connector line between stages */
+  .progress-stage + .progress-stage::before {
+    content: '';
+    display: block;
+    width: 1.5rem;
+    height: 2px;
+    background: var(--color-border);
+    margin-right: 0.4rem;
+    flex-shrink: 0;
+  }
+
+  .progress-stage--active + .progress-stage--active::before {
+    background: var(--color-primary);
+  }
+
+  .progress-stage__dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--color-border);
+    border: 2px solid var(--color-border);
+    flex-shrink: 0;
+    transition: background 0.2s;
+  }
+
+  .progress-stage--active .progress-stage__dot {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+  }
+
+  /* Highlight the most-advanced active stage */
+  .progress-stage--active:last-child .progress-stage__dot,
+  .progress-stage--active:not(:has(~ .progress-stage--active)) .progress-stage__dot {
+    box-shadow: 0 0 0 3px rgba(13, 115, 119, 0.2);
+  }
+
+  .progress-stage__label {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--color-text-light);
+    white-space: nowrap;
+  }
+
+  .progress-stage--active .progress-stage__label {
+    color: var(--color-text);
+    font-weight: 600;
+  }
+
+  @media (max-width: 540px) {
+    .progress-tracker {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+
+  .policy-share-inline {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .policy-share-inline__label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-right: 0.25rem;
+  }
+
+  .policy-share-inline__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.3rem 0.65rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 6px;
+    border: 1px solid var(--color-border);
+    color: var(--color-text-muted);
+    background: var(--color-bg-alt);
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+
+  .policy-share-inline__btn:hover {
+    color: var(--color-primary);
+    border-color: var(--color-primary);
+    background: var(--color-bg-card, #fff);
+  }
+
+  @media (max-width: 768px) {
+    .policy-footer__action-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<script>
+  document.getElementById('copy-link')?.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      const btn = document.getElementById('copy-link');
+      if (btn) {
+        const locale = localStorage.getItem('dfa-locale') || 'en';
+        const copiedText = locale === 'es' ? '\u2713 ¡Copiado!' : '\u2713 Copied!';
+        const restoreText = locale === 'es' ? (btn.getAttribute('data-es') || 'Copiar Enlace') : (btn.getAttribute('data-en') || 'Copy Link');
+        btn.textContent = copiedText;
+        setTimeout(() => { btn.textContent = restoreText; }, 2000);
+      }
+    } catch (_) {
+      // Clipboard unavailable
+    }
+  });
+</script>

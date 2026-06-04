@@ -25,6 +25,7 @@ const C = {
   primaryLight: '#5b9bd5',
   secondary: '#2b86d8',
   accent: '#f2c14e',
+  accentText: '#946200',
   muted: '#8A95A3',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -105,7 +106,7 @@ function FilingsTrend({ locale }: { locale: string }) {
               fill: C.muted,
             }}
           />
-          <Bar dataKey="filings" radius={[3, 3, 0, 0]} barSize={32}>
+          <Bar dataKey="filings" radius={[3, 3, 0, 0]} barSize={32} isAnimationActive={false}>
             {data.map((entry, i) => (
               <Cell key={i} fill={entry.fill} />
             ))}
@@ -148,7 +149,7 @@ function NeighborhoodChart({ locale }: { locale: string }) {
             width={160}
             tick={{ fontSize: 13, fill: C.text, fontWeight: 500 }}
           />
-          <Bar dataKey="value" radius={[0, 4, 4, 0]} barSize={28}>
+          <Bar dataKey="value" radius={[0, 4, 4, 0]} barSize={28} isAnimationActive={false}>
             {data.map((entry, i) => (
               <Cell
                 key={i}
@@ -219,7 +220,7 @@ function CourtOutcomesChart({ locale }: { locale: string }) {
         locale === 'es'
           ? `Solo ${sb24064Data.defendantAnswerFiled[2025].yes} de ${sb24064Data.closedCases[2025].toLocaleString()} demandados respondieron`
           : `Only ${sb24064Data.defendantAnswerFiled[2025].yes} of ${sb24064Data.closedCases[2025].toLocaleString()} defendants responded`,
-      color: C.accent,
+      color: C.accentText,
       bg: '#FFFBF0',
     },
     {
@@ -332,7 +333,7 @@ function BudgetChart({ locale }: { locale: string }) {
               fontFamily: 'Inter, system-ui, sans-serif',
             }}
           />
-          <Bar dataKey="amount" radius={[4, 4, 0, 0]} barSize={40}>
+          <Bar dataKey="amount" radius={[4, 4, 0, 0]} barSize={40} isAnimationActive={false}>
             {rentalAssistanceBudget.map((entry, i) => (
               <Cell
                 key={i}
@@ -381,7 +382,7 @@ function HousingContext({ locale }: { locale: string }) {
     {
       value: '$2,150',
       label: locale === 'es' ? 'Alquiler mediano' : 'Median rent',
-      color: C.accent,
+      color: C.accentText,
     },
     {
       value: '7.6%',
@@ -477,7 +478,7 @@ function NationalComparison({ locale }: { locale: string }) {
         locale === 'es'
           ? `Tarifa de presentación: ${nationalComparison.filingFeeRange}`
           : `Filing fee: ${nationalComparison.filingFeeRange}`,
-      color: C.accent,
+      color: C.accentText,
     },
   ];
 

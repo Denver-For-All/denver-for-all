@@ -24,6 +24,7 @@ const C = {
   primaryLight: '#5b9bd5',
   secondary: '#2b86d8',
   accent: '#f2c14e',
+  accentText: '#946200',
   muted: '#8A95A3',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -83,7 +84,7 @@ function MoneyExplosion({ locale }: { locale: string }) {
               fontFamily: 'Inter, system-ui, sans-serif',
             }}
           />
-          <Bar dataKey="amount" radius={[4, 4, 0, 0]} barSize={50}>
+          <Bar dataKey="amount" radius={[4, 4, 0, 0]} barSize={50} isAnimationActive={false}>
             {data.map((_, i) => (
               <Cell key={i} fill={[C.muted, C.danger, C.accent, C.danger][i] || C.danger} />
             ))}
@@ -159,7 +160,7 @@ function WhoPays({ locale }: { locale: string }) {
               fontFamily: 'Inter, system-ui, sans-serif',
             }}
           />
-          <Bar dataKey="amount" radius={[0, 4, 4, 0]} barSize={26}>
+          <Bar dataKey="amount" radius={[0, 4, 4, 0]} barSize={26} isAnimationActive={false}>
             {donors.map((d, i) => (
               <Cell key={i} fill={i === 1 || i === 3 ? C.accent : C.danger} />
             ))}
@@ -301,7 +302,7 @@ function VoteScorecard({ locale }: { locale: string }) {
   const positionColors: Record<string, string> = {
     good: C.primary,
     bad: C.danger,
-    vetoed: C.accent,
+    vetoed: C.accentText,
   };
   const positionLabels: Record<string, Record<string, string>> = {
     good: { en: 'Progressive Win', es: 'Victoria Progresista' },
@@ -581,7 +582,7 @@ function Outlook2027({ locale }: { locale: string }) {
         locale === 'es'
           ? 'Proporci\u00f3n de igualaci\u00f3n para donaciones \u2264$50'
           : 'Match ratio for donations \u2264$50',
-      color: C.accent,
+      color: C.accentText,
     },
     {
       value: locale === 'es' ? 'Sin l\u00edmite' : 'No limit',

@@ -28,6 +28,7 @@ const C = {
   secondary: '#2b86d8',
   secondaryLight: '#6BA3D6',
   accent: '#f2c14e',
+  accentText: '#946200',
   muted: '#8A95A3',
   text: '#1A2332',
   textMuted: '#5A6978',
@@ -75,6 +76,7 @@ function OverviewDonut({ locale }: { locale: string }) {
             dataKey="value"
             stroke="#fff"
             strokeWidth={2}
+            isAnimationActive={false}
           >
             {donutData.map((entry, i) => (
               <Cell key={i} fill={entry.color} />
@@ -161,7 +163,13 @@ function EquityChart({ locale }: { locale: string }) {
             }}
           />
           <Legend wrapperStyle={{ fontSize: 13, fontFamily: 'Inter, system-ui, sans-serif' }} />
-          <Bar dataKey={equityLabel} fill={C.danger} radius={[0, 4, 4, 0]} barSize={18}>
+          <Bar
+            dataKey={equityLabel}
+            fill={C.danger}
+            radius={[0, 4, 4, 0]}
+            barSize={18}
+            isAnimationActive={false}
+          >
             <LabelList
               dataKey={equityLabel}
               position="right"
@@ -171,7 +179,13 @@ function EquityChart({ locale }: { locale: string }) {
               fontWeight={600}
             />
           </Bar>
-          <Bar dataKey={cityLabel} fill={C.secondary} radius={[0, 4, 4, 0]} barSize={18}>
+          <Bar
+            dataKey={cityLabel}
+            fill={C.secondary}
+            radius={[0, 4, 4, 0]}
+            barSize={18}
+            isAnimationActive={false}
+          >
             <LabelList
               dataKey={cityLabel}
               position="right"
@@ -226,7 +240,7 @@ function TransitChart({ locale }: { locale: string }) {
               fontFamily: 'Inter, system-ui, sans-serif',
             }}
           />
-          <Bar dataKey="pct" radius={[0, 4, 4, 0]} barSize={24}>
+          <Bar dataKey="pct" radius={[0, 4, 4, 0]} barSize={24} isAnimationActive={false}>
             {data.map((entry, i) => (
               <Cell
                 key={i}
@@ -313,7 +327,7 @@ function CorridorsChart({ locale }: { locale: string }) {
               fontFamily: 'Inter, system-ui, sans-serif',
             }}
           />
-          <Bar dataKey="pct" radius={[0, 4, 4, 0]} barSize={28}>
+          <Bar dataKey="pct" radius={[0, 4, 4, 0]} barSize={28} isAnimationActive={false}>
             {data.map((entry, i) => (
               <Cell key={i} fill={entry.pct > 60 ? C.danger : C.accent} />
             ))}
@@ -439,13 +453,13 @@ function HINCallout({ locale }: { locale: string }) {
       value: `${highInjuryNetwork.missingMiles} mi`,
       label: locale === 'es' ? 'aceras faltantes en la Red' : 'missing sidewalks on the Network',
       sub: '',
-      color: C.accent,
+      color: C.accentText,
     },
     {
       value: `${highInjuryNetwork.deficientMiles} mi`,
       label: locale === 'es' ? 'aceras de ancho deficiente' : 'deficient-width sidewalks',
       sub: '',
-      color: C.accent,
+      color: C.accentText,
     },
   ];
 

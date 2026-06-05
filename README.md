@@ -7,7 +7,7 @@ A grassroots political platform and organizing toolkit for economic justice in D
 Denver For All is an open-source campaign framework that combines:
 
 - **49 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
-- **11 interactive tools** for holding power accountable — eviction tracker, campaign finance transparency, public-record candidate guides, data stories, rent calculator, tenant rights chatbot, and more
+- **11 interactive tools** for holding power accountable — eviction tracker, campaign finance transparency, public-record candidate guides, data stories, rent calculator, tenant rights guide, and more
 - **Organizing infrastructure** (volunteer signup, candidate recruitment, newsletter, Signal group, Resistbot petitions)
 - **Bilingual support** (English/Spanish) with full policy translations using i18n directory structure
 
@@ -20,7 +20,6 @@ The platform is designed to be forked, adapted, and reused by movements in other
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
 - [Cloudflare Pages](https://pages.cloudflare.com/) - Hosting (free tier)
 - [Cloudflare Workers + D1](https://developers.cloudflare.com/workers/) - Serverless data tools
-- [vAPI](https://vapi.ai/) - Voice AI for tenant rights chatbot
 - [Resend](https://resend.com/) - Transactional email for newsletter signup
 - [Recharts](https://recharts.org/) + [Scrollama](https://github.com/russellsamora/scrollama) - Data visualization and scrollytelling
 
@@ -63,7 +62,6 @@ functions/
 workers/
   eviction-scraper/  Cloudflare Worker + D1 for court eviction data
   campaign-finance/  Cloudflare Worker + D1 for donation tracking
-vapi/                Voice assistant configuration
 tests/               Test files (Vitest)
 collateral/          Campaign materials, outreach docs, fundraising
 public/              Static assets
@@ -77,7 +75,7 @@ The site is designed for Cloudflare Pages with Git integration:
 2. Set framework preset to **Astro**, build command to `npm run build`, output directory to `dist`
 3. Add your custom domain
 
-For detailed setup instructions covering email routing, newsletter capture, Google Forms, vAPI chatbot, Cloudflare Workers, and Spanish translations, see [QUICKSTART.md](QUICKSTART.md).
+For detailed setup instructions covering email routing, newsletter capture, Google Forms, Cloudflare Workers, and Spanish translations, see [QUICKSTART.md](QUICKSTART.md).
 
 ## Interactive Tools
 
@@ -87,7 +85,7 @@ For detailed setup instructions covering email routing, newsletter capture, Goog
 | **Eviction Crisis: By the Numbers** | Data Story            | Scrollytelling visualization of the eviction surge, hardest-hit neighborhoods, and collapsing safety net |
 | **Rent Control Calculator**         | Interactive           | Enter your rent and see savings under proposed rent stabilization, with shareable social graphics        |
 | **Follow the Money**                | Data + Accountability | Council voting scorecard on progressive priorities with campaign contribution search links               |
-| **Know Your Rights**                | AI-Powered            | 24/7 tenant rights chatbot in English and Spanish via voice or chat                                      |
+| **Know Your Rights**                | Resource Guide        | Quick answers on Colorado tenant law plus Denver/Colorado help resources, in English and Spanish         |
 | **Council Candidate Tracker**       | 2027 Election         | Same 10 questions sent to every City Council candidate — answers and silences published unedited         |
 | **Mayoral Tracker**                 | 2027 Election         | 10 questions on executive power sent to every declared mayoral candidate                                 |
 | **Money in Denver Politics**        | Data Story            | Scrollytelling on outside spending, billionaire donors, real estate PACs, and the Fair Elections Fund    |
@@ -137,11 +135,10 @@ To report a security vulnerability, see [SECURITY.md](SECURITY.md). Do not open 
 | Cloudflare Workers (free tier)                            | Free               |
 | Email routing                                             | Free               |
 | Resend (transactional email)                              | Free tier          |
-| vAPI tenant chatbot (est. 20 calls/month)                 | $60-150            |
 | Claude API tokens (optional — policy research & analysis) | $0-4,800           |
 | Resistbot amplification (optional — petition campaigns)   | $0-4,800           |
-| **Total (core)**                                          | **$70-162/year**   |
-| **Total (with optional tools)**                           | **$70-9,762/year** |
+| **Total (core)**                                          | **$10-12/year**    |
+| **Total (with optional tools)**                           | **$10-9,612/year** |
 
 ## Support
 

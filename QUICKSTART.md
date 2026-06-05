@@ -31,7 +31,7 @@ Out of the box, this platform gives you:
 | **Data stories**                 | Scrollytelling visualizations for eviction data, sidewalk conditions, and money in politics.                                                          |
 | **Candidate & mayoral trackers** | Public-record guides to council and mayoral candidates — positions, backgrounds, and track records.                                                   |
 | **Rent calculator**              | Interactive tool showing savings under proposed rent stabilization.                                                                                   |
-| **Tenant rights chatbot**        | 24/7 AI-powered know-your-rights in English and Spanish (via vAPI).                                                                                   |
+| **Tenant rights guide**          | Quick answers on Colorado tenant law plus Denver/Colorado help resources, in English and Spanish.                                                     |
 | **State sponsor tracker**        | Colorado legislators sponsoring bills aligned with the platform.                                                                                      |
 | **Resistbot campaigns**          | Pre-written letters to elected officials, one tap to send.                                                                                            |
 | **Volunteer signup**             | Google Forms integration for recruiting organizers.                                                                                                   |
@@ -39,7 +39,7 @@ Out of the box, this platform gives you:
 | **Newsletter**                   | Email capture via Resend (free tier).                                                                                                                 |
 | **Bilingual support**            | English/Spanish toggle with i18n framework ready for more languages.                                                                                  |
 
-**Total annual cost:** $70–300 for a basic deployment (domain + optional AI chatbot). Hosting, email routing, newsletter, and forms are all free tier.
+**Total annual cost:** ~$12 for a basic deployment (just the domain). Hosting, email routing, newsletter, and forms are all free tier.
 
 ---
 
@@ -163,12 +163,11 @@ Update the form URLs in:
 - `src/pages/take-action.astro`
 - `src/pages/run-for-denver.astro` (rename this page for your city)
 
-### 6. Tenant rights chatbot (vAPI — optional)
+### 6. Tenant rights guide
 
-1. Create account at [vapi.ai](https://vapi.ai)
-2. Create English and Spanish assistants using configs in `/vapi/assistant-config.json`
-3. Update `src/pages/tools/know-your-rights.astro` with your public key and assistant IDs
-4. Estimated cost: $0.10–0.25/minute of voice calls
+The Know Your Rights tool is fully static — quick answers and local help resources
+live in `src/components/KnowYourRightsTool.astro`. Update the topic answers and the
+resource phone numbers/links to match your city; no API keys or accounts required.
 
 ### 7. Data workers (Cloudflare Workers + D1 — optional)
 
@@ -221,7 +220,6 @@ functions/
 workers/
   eviction-scraper/  Cloudflare Worker + D1 for court data
   campaign-finance/  Cloudflare Worker + D1 for finance data
-vapi/                Voice assistant configuration
 tests/               Test files (Vitest)
 public/              Static assets
 ```
@@ -235,9 +233,7 @@ public/              Static assets
 | Email routing                      | Free        |
 | Resend (transactional email)       | Free tier   |
 | Google Forms                       | Free        |
-| vAPI chatbot (est. 20 calls/month) | $60–150     |
-| **Total (without chatbot)**        | **~$12**    |
-| **Total (with chatbot)**           | **$70–162** |
+| **Total**                          | **~$12**    |
 
 ## Questions?
 

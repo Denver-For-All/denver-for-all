@@ -1,7 +1,8 @@
 import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
 
 const policies = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/*.md', base: './src/content/policies' }),
   schema: z.object({
     title: z.string(),
     titleEs: z.string(),
@@ -66,7 +67,7 @@ const policies = defineCollection({
 });
 
 const grants = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/*.md', base: './src/content/grants' }),
   schema: z.object({
     title: z.string(),
     titleEs: z.string().optional(),
@@ -82,20 +83,20 @@ const grants = defineCollection({
 });
 
 // Translated policy bodies - content-only markdown files with empty frontmatter.
-// The slug must match the corresponding English policy slug for pairing.
+// The id must match the corresponding English policy id for pairing.
 // One collection per non-default locale (es, vi, zh, ar, am).
-const translatedPolicies = () =>
+const translatedPolicies = (lang: string) =>
   defineCollection({
-    type: 'content',
+    loader: glob({ pattern: '**/*.md', base: `./src/content/policies-${lang}` }),
     schema: z.object({}).strict(),
   });
 
 export const collections = {
   policies,
   grants,
-  'policies-es': translatedPolicies(),
-  'policies-vi': translatedPolicies(),
-  'policies-zh': translatedPolicies(),
-  'policies-ar': translatedPolicies(),
-  'policies-am': translatedPolicies(),
+  'policies-es': translatedPolicies('es'),
+  'policies-vi': translatedPolicies('vi'),
+  'policies-zh': translatedPolicies('zh'),
+  'policies-ar': translatedPolicies('ar'),
+  'policies-am': translatedPolicies('am'),
 };

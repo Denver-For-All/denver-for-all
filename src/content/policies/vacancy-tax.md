@@ -45,7 +45,7 @@ Empty homes in occupied neighborhoods attract crime, reduce property values for 
 
 ### What Denver Currently Does
 
-Denver currently has **no vacancy tax or penalty for empty residential properties**. The U.S. Census Bureau's American Community Survey (2022) estimates Denver's residential vacancy rate at approximately 5-7%, implying 5,000-8,000 vacant units. Some of these are in the normal "for sale" or "for rent" pipeline, but a significant number are held vacant for speculation or are simply abandoned.
+Denver currently has **no vacancy tax or penalty for empty residential properties**. The rental market is tight - the U.S. Census Bureau's American Community Survey put the Denver-Aurora-Lakewood rental vacancy rate at roughly 4.7% in 2024, down from the prior year - yet thousands of housing units still sit empty. The 2022 ACS estimated Denver's overall residential vacancy at approximately 5-7% (on the order of 5,000-8,000 units). Some of these are in the normal "for sale" or "for rent" pipeline, but a significant number are held vacant for speculation or are simply abandoned. In a market this short on housing, every unit warehoused for speculation is one denied to a family that needs it.
 
 **Critical legal note: TABOR.** Colorado's Taxpayer Bill of Rights (Article X, Section 20 of the Colorado Constitution) requires voter approval for any new tax. A vacancy tax in Denver would need to go to voters as a ballot measure. This is not a barrier - it is a democratic process. Denver voters have repeatedly approved ballot measures for progressive causes (municipal broadband in 2018, Proposition 123 for housing in 2022). A vacancy tax with revenue dedicated to affordable housing is a strong ballot proposition.
 
@@ -124,3 +124,4 @@ The 12-month renovation exemption with valid permits covers legitimate renovatio
 - Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
 - Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
 - U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- U.S. Census Bureau. (2024). _Selected housing characteristics: Rental vacancy rate_ [American Community Survey estimates, Denver-Aurora-Lakewood, CO metro area]. https://data.census.gov

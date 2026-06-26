@@ -33,15 +33,15 @@ keyStats:
 relatedLegislation:
   - billNumber: 'HB26-1106'
     title: 'Eviction Protections for Tenants'
-    status: 'Introduced - Assigned to Judiciary'
+    status: 'Postponed Indefinitely (House Judiciary, Mar 24, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1106'
   - billNumber: 'HB26-1047'
     title: 'Protections for Residential Tenants'
-    status: 'Introduced - Assigned to Judiciary'
+    status: 'Postponed Indefinitely (House Judiciary, Feb 24, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1047'
   - billNumber: 'HB26-1013'
     title: 'Ratio Utility Billing Systems'
-    status: 'House Second Reading Laid Over Daily'
+    status: 'Signed into law (Mar 26, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1013'
 ---
 

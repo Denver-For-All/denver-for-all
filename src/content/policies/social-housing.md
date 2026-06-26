@@ -12,23 +12,23 @@ hasFundingSources: true
 relatedLegislation:
   - billNumber: 'HB26-1001'
     title: 'Housing Developments on Qualifying Properties'
-    status: 'House Third Reading Passed'
+    status: 'Signed into law (Mar 25, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1001'
   - billNumber: 'SB26-001'
     title: 'Workforce Housing & Housing Tax Credit'
-    status: 'Senate Third Reading Passed'
+    status: 'Signed into law (Mar 25, 2026)'
     url: 'https://leg.colorado.gov/bills/sb26-001'
   - billNumber: 'HB26-1065'
     title: 'Transit and Housing Investment Zones'
-    status: 'Introduced - Assigned to Finance'
+    status: 'Signed into law (May 27, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1065'
   - billNumber: 'HB26-1066'
     title: 'Tax Exemptions Low Income Rental Property Development'
-    status: 'Introduced - Assigned to Finance'
+    status: 'Lost - died in House Appropriations (May 14, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1066'
   - billNumber: 'HB26-1114'
     title: 'Allowed Minimum Lot Size for Subject Jurisdictions'
-    status: 'Introduced - Assigned to Transportation, Housing & Local Government'
+    status: 'Postponed Indefinitely (Senate Local Government & Housing, Apr 23, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1114'
 keyStats:
   - value: '7,500'
@@ -58,7 +58,7 @@ keyStats:
 
 Denver has over 7,500 people experiencing homelessness on any given night (MDHI Point-in-Time Count, 2024). The waitlist for Section 8 housing vouchers is years long (Denver Housing Authority) - and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
 
-Meanwhile, Denver's median rent has nearly doubled since 2010 (Zillow Observed Rent Index, Denver-Aurora-Lakewood MSA). A one-bedroom apartment averages over $1,600/month (ApartmentList, 2024). A family earning median income spends over 35% of their earnings on rent (U.S. Census Bureau ACS, 2023) - above the federal affordability threshold. For low-income families, it's 50-70%.
+Meanwhile, Denver's median rent nearly doubled between 2010 and the early 2020s (Zillow Observed Rent Index, Denver-Aurora-Lakewood MSA). A 2024-2026 construction surge has since cooled the market - the average apartment rent eased to about $1,891 in mid-2026, down ~2.5% year-over-year, with a one-bedroom averaging ~$1,708 (RentCafe, 2026) - but rents remain far above pre-2020 levels, and a family earning median income still spends over 35% of their earnings on rent (U.S. Census Bureau ACS, 2023), above the federal affordability threshold. For low-income families, it's 50-70%. Market-rate supply lowers the baseline; only permanently affordable, publicly owned housing guarantees that low-income families are never again at the mercy of the next upswing.
 
 The city's current approach - tax incentives for developers who include a handful of "affordable" units in luxury buildings - has produced a fraction of the housing needed, at costs per unit that are obscene, and with affordability restrictions that expire after 15-30 years.
 
@@ -157,6 +157,7 @@ Social housing will be distributed across all Denver neighborhoods - including a
 - Colorado General Assembly. (2026). _2026 regular session housing bills (HB26-1001, SB26-001, HB26-1065, HB26-1066, HB26-1114)_. https://leg.colorado.gov
 - _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit Proposition 123-funded affordable community in West Colfax]. https://www.coloradopolitics.com
 - Metro Denver Homeless Initiative. (2024). _Point-in-Time count_. https://www.mdhi.org
+- RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
 - Rothstein, R. (2017). _The color of law: A forgotten history of how our government segregated America_. Liveright Publishing.
 - U.S. Census Bureau. (2023). _Selected housing characteristics_ [American Community Survey, Denver-Aurora-Lakewood MSA]. https://data.census.gov
 - Wiener Wohnen. (2023). _Facts and figures on Vienna's municipal housing_. https://www.wienerwohnen.at

@@ -40,13 +40,13 @@ All high/medium-priority UX improvements merged via PR #72. U6 (Dynamic OG image
 
 Five additional policies that were mentioned in the original issue but not included in the first audit plan. These were skipped in round 1 because the top-6 were higher priority. Adding them now.
 
-| #   | Slug                                       | Category  | Priority | Status |
-| --- | ------------------------------------------ | --------- | -------- | ------ |
-| P7  | `anti-surveillance-facial-recognition-ban` | justice   | Medium   | [ ]    |
-| P8  | `consumer-financial-protection`            | economy   | Medium   | [ ]    |
-| P9  | `anti-harassment-tenant-protections`       | housing   | Lower    | [ ]    |
-| P10 | `green-jobs-just-transition`               | climate   | Lower    | [ ]    |
-| P11 | `foster-care-child-welfare`                | community | Lower    | [ ]    |
+| #   | Slug                                       | Category  | Priority | Status  |
+| --- | ------------------------------------------ | --------- | -------- | ------- |
+| P7  | `anti-surveillance-facial-recognition-ban` | justice   | Medium   | ✅ Done |
+| P8  | `consumer-financial-protection`            | economy   | Medium   | ✅ Done |
+| P9  | `anti-harassment-tenant-protections`       | housing   | Lower    | ✅ Done |
+| P10 | `green-jobs-just-transition`               | climate   | Lower    | ✅ Done |
+| P11 | `foster-care-child-welfare`                | community | Lower    | ✅ Done |
 
 ### P7 — Anti-Surveillance / Facial Recognition Ban (`justice`)
 
@@ -72,9 +72,9 @@ No existing policy addresses children in the foster care system. Denver's child 
 
 ## Implementation Order (Round 2)
 
-1. [ ] P7 — Anti-Surveillance / Facial Recognition Ban
-2. [ ] P8 — Consumer Financial Protection
-3. [ ] P9 — Anti-Harassment Tenant Protections
-4. [ ] P10 — Green Jobs / Just Transition
-5. [ ] P11 — Foster Care & Child Welfare Reform
-6. [ ] CI check: `npm run lint && npm run test && npm run build`
+1. [x] P7 — Anti-Surveillance / Facial Recognition Ban
+2. [x] P8 — Consumer Financial Protection
+3. [x] P9 — Anti-Harassment Tenant Protections
+4. [x] P10 — Green Jobs / Just Transition
+5. [x] P11 — Foster Care & Child Welfare Reform
+6. [x] CI check: `npm run lint && npm run test && npm run build`

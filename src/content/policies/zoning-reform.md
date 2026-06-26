@@ -22,7 +22,7 @@ relatedLegislation:
     url: 'https://leg.colorado.gov/bills/hb23-1255'
   - billNumber: 'HB26-1114'
     title: 'Allowed Minimum Lot Size for Subject Jurisdictions'
-    status: 'Introduced - Assigned to Transportation, Housing & Local Government'
+    status: 'Postponed Indefinitely (Senate Local Government & Housing, Apr 23, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1114'
 keyStats:
   - value: '78%'
@@ -125,6 +125,8 @@ The mechanism is straightforward: when it is legal to build more homes, more hom
 
 Denver's experience with the 2023 ADU law and 2024 transit-oriented communities bill demonstrates that streamlined rules produce results. ADU permit applications increased significantly after the statewide preemption removed some local restrictions. Areas near transit that were upzoned as part of HB24-1313 compliance are already attracting new housing investment. The barrier is not demand; it is remaining local regulatory friction.
 
+The 2025-2026 market is a live demonstration of the supply mechanism. A wave of new apartment construction pushed metro Denver's vacancy rate to roughly 7.5% - its highest in 16 years - and the average apartment rent fell to about $1,891 in mid-2026, down ~2.5% year-over-year, with steeper declines in the neighborhoods that absorbed the most new units (RentCafe, 2026; Apartment Association of Metro Denver, 2026). Building more homes did exactly what the research predicts: it cooled rents. Zoning reform is how Denver sustains that supply pipeline instead of letting it stall the moment the current cycle ends.
+
 ## Local Context
 
 Denver's housing crisis is fundamentally a supply crisis. The city's population grew by over 100,000 people in the 2010s (U.S. Census Bureau) while housing production lagged significantly. The region has a documented shortage of over 100,000 homes (Colorado Division of Housing, 2023).
@@ -162,7 +164,9 @@ The savings are substantial: every new market-rate unit built without public sub
 
 ## References
 
+- Apartment Association of Metro Denver. _Vacancy and Rent Report (Q1 2026)._ 2026.
 - Denver Community Planning and Development. _Blueprint Denver._ 2019.
+- RentCafe. _Average Rent in Denver, CO_ [Yardi Matrix market-trends data]. 2026.
 - Colorado General Assembly. HB23-1255, _Accessory Dwelling Units._ 2023.
 - Colorado General Assembly. HB24-1313, _Transit-Oriented Communities._ 2024.
 - Greenaway-McGrevy, R. & Phillips, P. _Housing Affordability in Auckland._ University of Auckland, 2023.

@@ -100,7 +100,7 @@ const categoryMap: Record<string, { en: string; es: string }> = {
     <div class="grid grid--3">
       {policies.map(policy => (
         <PolicyCard
-          slug={policy.slug}
+          slug={policy.id}
           title={policy.data.title}
           titleEs={policy.data.titleEs}
           summary={policy.data.summary}

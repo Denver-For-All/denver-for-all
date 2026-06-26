@@ -16,18 +16,19 @@ petition:
 hasFundingSources: true
 keyStats:
   - value: '85%'
-    label: 'rent increase since 2010'
-    labelEs: 'aumento de alquiler desde 2010'
-    context: 'Denver rents have outpaced inflation by 3x over the last 15 years'
-    contextEs: 'Los alquileres de Denver han superado la inflacion por 3x en los ultimos 15 anos'
-    source: 'Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood MSA'
+    label: 'rent increase, 2010-2019'
+    labelEs: 'aumento de alquiler, 2010-2019'
+    context: 'Denver rents nearly doubled in a decade (about $898 to $1,660), far outpacing wages, before the 2025-2026 supply-driven softening'
+    contextEs: 'Los alquileres de Denver casi se duplicaron en una decada (de unos $898 a $1,660), superando con creces los salarios, antes de la moderacion impulsada por la oferta de 2025-2026'
+    source: 'Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood MSA, 2019'
     theme: 'danger'
-  - value: '$1,600+'
-    label: 'average 1-bedroom rent'
-    labelEs: 'alquiler promedio de 1 dormitorio'
-    context: "A worker earning Denver's minimum wage spends over 50% of income on a 1-bedroom"
-    contextEs: 'Un trabajador con salario minimo de Denver gasta mas del 50% de ingresos en un dormitorio'
-    source: 'ApartmentList National Rent Report, 2024'
+  - value: '$1,708'
+    label: 'average 1-bedroom rent (2026)'
+    labelEs: 'alquiler promedio de 1 dormitorio (2026)'
+    context: 'Down slightly from 2024 as a construction boom cooled the market, but a minimum-wage worker still spends roughly half their income on a 1-bedroom'
+    contextEs: 'Algo mas bajo que en 2024 al enfriarse el mercado por el auge de construccion, pero un trabajador con salario minimo aun gasta cerca de la mitad de sus ingresos en un dormitorio'
+    source: 'RentCafe (Yardi Matrix), June 2026'
+    sourceEs: 'RentCafe (Yardi Matrix), junio de 2026'
     theme: 'accent'
   - value: '0'
     label: 'rent stabilization protections in Colorado'
@@ -48,7 +49,7 @@ keyStats:
 
 Denver renters have no protection against arbitrary rent increases. A landlord can raise your rent by $200, $500, or $1,000/month with nothing more than 60 days notice. There is no limit, no justification required, and no recourse.
 
-The result: Denver rents have increased roughly 85% since 2010. The average one-bedroom is over $1,600/month. Families are being priced out of neighborhoods they've lived in for generations. Workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - can't afford to live here.
+The result: Denver rents climbed roughly 85% between 2010 and 2019 and kept rising through the early-2020s boom. A wave of new apartment construction has since cooled the market - the average apartment rent was about $1,891 in mid-2026, down roughly 2.5% year-over-year, with a one-bedroom averaging about $1,708 (RentCafe, 2026). That softening is welcome evidence that supply matters, but it comes off a historic peak: families have already been priced out of neighborhoods they've lived in for generations, and the workers who serve Denver - teachers, nurses, restaurant workers, bus drivers - still struggle to afford it. Nothing in current law stops the next upswing from erasing these gains.
 
 Colorado state law (CRS § 38-12-301, enacted 1981) prohibits local rent control. Multiple repeal attempts have failed - most recently HB23-1115, which passed the House 40-24 before being killed 4-3 in a Senate committee by a single Democratic defection. Denver must be ready to act the moment preemption is lifted - or pursue a state ballot initiative to repeal it directly.
 
@@ -56,7 +57,7 @@ Colorado state law (CRS § 38-12-301, enacted 1981) prohibits local rent control
 
 Denver currently has **zero rent stabilization protections**. Colorado Revised Statutes § 38-12-301 preempts all local rent control ordinances. Four repeal attempts have been introduced since 2019 (SB19-225, HB23-1115, and bills in 2024 and 2025 sessions) - all have failed. HB23-1115 came the closest, passing the full House before dying in the Senate Local Government & Housing Committee on April 25, 2023. Governor Polis has publicly opposed rent control, but is term-limited and leaves office January 2027.
 
-Denver rents rose approximately 82-85% between 2010 and 2023 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA and apartment market reports. The average one-bedroom rent in Denver reached approximately $1,600/month by 2024 (ApartmentList National Rent Report, 2024). Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
+Denver rents rose approximately 82-85% between 2010 and 2019 according to Zillow Observed Rent Index (ZORI) data for the Denver-Aurora-Lakewood MSA and apartment market reports, then climbed further during the 2021-2024 boom. As of mid-2026 the market has softened: a construction-driven supply surge pushed metro vacancy to roughly 7.5% - its highest in 16 years - and the average apartment rent eased to about $1,891 (down ~2.5% year-over-year), with a one-bedroom averaging ~$1,708 (RentCafe, 2026; Apartment Association of Metro Denver, 2026). This is not a contradiction of the case for rent stabilization - it shows that abundant supply and anti-gouging protections work together. Stabilization caps the spikes; supply lowers the baseline. Denver has roughly 150,000+ rental units (American Community Survey, 2022), and over 50% of Denver residents are renters.
 
 ### The State-Level Roadblock
 
@@ -68,7 +69,7 @@ The 1981 preemption (CRS § 38-12-301) is the single biggest legal obstacle to r
 | 2023 | **HB23-1115**        | Passed House 40-24; killed 4-3 in Senate committee (Sen. Dylan Roberts, D-Avon, voted with 3 Republicans) |
 | 2024 | Preemption repeal    | Did not advance past committee                                                                            |
 | 2025 | No repeal introduced | Session focused on junk fees ban, algorithm rent-setting ban                                              |
-| 2026 | TBD                  | Session underway; no repeal bill identified yet as of February 2026                                       |
+| 2026 | No repeal enacted    | 75th General Assembly adjourned _sine die_ May 13, 2026 without lifting the CRS § 38-12-301 preemption    |
 
 **Key allies:** Rep. Javier Mabrey (D-Denver), Rep. Jennifer Bacon (D-Denver), Sen. Sonya Jaquez Lewis, Sen. Julie Gonzales. **Key obstacle:** Governor Polis (term-limited 2027).
 
@@ -181,9 +182,12 @@ If the legislature fails again, Colorado's citizen initiative process lets voter
 
 ## References
 
+- Apartment Association of Metro Denver. (2026). _Vacancy and rent report (Q1 2026)_. https://www.aamdhq.org/vacancy-and-rent
 - Apartment List. (2024). _National rent report_. https://www.apartmentlist.com/research
 - Colo. Rev. Stat. § 38-12-301 (1981).
 - Colorado General Assembly. (2023). _HB23-1115: Repeal prohibition local residential rent control_. https://leg.colorado.gov/bills/hb23-1115
 - Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. _American Economic Review, 109_(9), 3365-3394. https://doi.org/10.1257/aer.20181289
+- RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
+- _The Colorado Sun_. (2026, January 21). Apartments in metro Denver reach highest vacancy rate in 16 years, pushing down rents again. https://coloradosun.com/2026/01/21/apartments-in-metro-denver-reach-highest-vacancy-rate-in-16-years-pushing-down-rents-again/
 - U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
 - Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood, CO metro area_ [Data set]. https://www.zillow.com/research/data/

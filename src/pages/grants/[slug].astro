@@ -1,18 +1,18 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { Icon } from 'astro-icon/components';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
   const grants = await getCollection('grants');
   return grants.map(grant => ({
-    params: { slug: grant.slug },
+    params: { slug: grant.id },
     props: { grant },
   }));
 }
 
 const { grant } = Astro.props;
-const { Content } = await grant.render();
+const { Content } = await render(grant);
 ---
 
 <Layout title={grant.data.title} description={grant.data.summary}>

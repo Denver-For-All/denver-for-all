@@ -9,25 +9,25 @@ import '../../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
 import { Image } from 'astro:assets';
 import { getOgImage } from '@config/og-images';
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import { siteConfig, siteUrl } from '@config/site';
 
 export async function getStaticPaths() {
   const policies = await getCollection('policies');
   return policies.map(policy => ({
-    params: { slug: policy.slug },
+    params: { slug: policy.id },
     props: { policy },
   }));
 }
 
 const { policy } = Astro.props;
-const { Content } = await policy.render();
+const { Content } = await render(policy);
 
 let ContentLoc: (typeof Content) | null = null;
 try {
-  const policyLoc = await getEntry('policies-am', policy.slug);
+  const policyLoc = await getEntry('policies-am', policy.id);
   if (policyLoc) {
-    const rendered = await policyLoc.render();
+    const rendered = await render(policyLoc);
     ContentLoc = rendered.Content;
   }
 } catch {
@@ -59,7 +59,7 @@ const categoryMap: Record<string, string> = {
 const categoryEs = categoryMap[policy.data.category] || policy.data.category;
 
 const ghRepo = siteConfig.githubRepo;
-const policyUrl = siteUrl(`/platform/${policy.slug}`);
+const policyUrl = siteUrl(`/platform/${policy.id}`);
 const issueTitle = encodeURIComponent(`Feedback: ${policy.data.title}`);
 const issueBody = encodeURIComponent(`## Policy Feedback\n\n**Policy:** [${policy.data.title}](${policyUrl})\n**Category:** ${policy.data.category}\n\n---\n\n### What feedback do you have?\n\n_Please describe your feedback, correction, or suggestion below:_\n\n\n\n### Additional context\n\n_Add any other context, data sources, or references here._\n`);
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
@@ -174,7 +174,7 @@ const progressStages: ProgressStage[] = [
           stats={keyStats}
           policyTitle={policy.data.title}
           policyTitleEs={policy.data.titleEs}
-          policySlug={policy.slug}
+          policySlug={policy.id}
         />
       )}
 
@@ -283,7 +283,7 @@ const progressStages: ProgressStage[] = [
               Open an Issue
             </a>
             <a
-              href={`https://github.com/${ghRepo}/blob/main/src/content/policies/${policy.slug}.md`}
+              href={`https://github.com/${ghRepo}/blob/main/src/content/policies/${policy.id}.md`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"

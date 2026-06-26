@@ -9,25 +9,25 @@ import '../../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
 import { Image } from 'astro:assets';
 import { getOgImage } from '@config/og-images';
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import { siteConfig, siteUrl } from '@config/site';
 
 export async function getStaticPaths() {
   const policiesEs = await getCollection('policies-es');
   const policies = await getCollection('policies');
-  const policyMap = new Map(policies.map(p => [p.slug, p]));
+  const policyMap = new Map(policies.map(p => [p.id, p]));
 
   return policiesEs.map(policyEs => {
-    const policy = policyMap.get(policyEs.slug);
+    const policy = policyMap.get(policyEs.id);
     return {
-      params: { slug: policyEs.slug },
+      params: { slug: policyEs.id },
       props: { policyEs, policy },
     };
   }).filter(entry => entry.props.policy);
 }
 
 const { policyEs, policy } = Astro.props;
-const { Content: ContentEs } = await policyEs.render();
+const { Content: ContentEs } = await render(policyEs);
 
 const hasPetition = !!policy.data.petition;
 const hasFundingSources = policy.data.hasFundingSources;
@@ -53,7 +53,7 @@ const categoryMap: Record<string, string> = {
 const categoryEs = categoryMap[policy.data.category] || policy.data.category;
 
 const ghRepo = siteConfig.githubRepo;
-const policyUrl = siteUrl(`/es/platform/${policy.slug}`);
+const policyUrl = siteUrl(`/es/platform/${policy.id}`);
 const issueTitle = encodeURIComponent(`Feedback: ${policy.data.titleEs}`);
 const issueBody = encodeURIComponent(`## Comentarios sobre la Política\n\n**Política:** [${policy.data.titleEs}](${policyUrl})\n**Categoría:** ${categoryEs}\n\n---\n\n### ¿Qué comentarios tienes?\n\n_Por favor describe tus comentarios, correcciones o sugerencias a continuación:_\n\n\n\n### Contexto adicional\n\n_Agrega cualquier otro contexto, fuentes de datos o referencias aquí._\n`);
 const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&body=${issueBody}&labels=feedback,policy`;
@@ -121,7 +121,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           stats={keyStats}
           policyTitle={policy.data.titleEs}
           policyTitleEs={policy.data.titleEs}
-          policySlug={policy.slug}
+          policySlug={policy.id}
           locale="es"
         />
       )}
@@ -227,7 +227,7 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
               Abrir un Issue
             </a>
             <a
-              href={`https://github.com/${ghRepo}/blob/main/src/content/policies-es/${policy.slug}.md`}
+              href={`https://github.com/${ghRepo}/blob/main/src/content/policies-es/${policy.id}.md`}
               target="_blank"
               rel="noopener"
               class="btn btn--secondary"

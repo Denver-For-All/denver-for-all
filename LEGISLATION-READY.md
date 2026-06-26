@@ -90,10 +90,10 @@ These proposals involve new taxes or revenue and require Denver voter approval u
 
 ### 11. Vacancy Tax
 
-- **Requires:** Denver ballot measure (TABOR voter approval for new tax)
-- **Timeline:** File for November 2026 ballot
+- **Requires:** Denver ballot measure (TABOR voter approval for new tax) **and** state enabling authority for a local vacancy excise tax
+- **Timeline:** Slipped. The state enabling bill (HB26-1036) was Postponed Indefinitely in House Finance (Feb 9, 2026), and the 2026 session adjourned May 13 without authorizing a local vacancy tax. A November 2026 ballot measure is not viable until a successor enabling bill passes — retarget 2027+.
 - **Polling:** Housing crisis measures tend to poll well. Vancouver's passed easily.
-- **Strategic:** Pass the vacancy registry (Tier 1) first to build data for the ballot campaign.
+- **Strategic:** Pass the vacancy registry (Tier 1) first to build data for the ballot campaign, and line up a 2027 state enabling bill to replace HB26-1036.
 
 ### 12. Social Housing Authority Funding (Revenue Bonds)
 
@@ -107,8 +107,8 @@ These proposals require action by the Colorado General Assembly:
 
 ### 13. Rent Stabilization
 
-- **Blocked by:** CRS 38-12-301 (state preemption of local rent control)
-- **Path:** State bill to repeal preemption OR state ballot initiative
+- **Blocked by:** CRS 38-12-301 (state preemption of local rent control). Still in force — the 2026 session adjourned May 13, 2026 without enacting a repeal.
+- **Path:** State bill to repeal preemption OR state ballot initiative. Gov. Polis (who opposes rent control) is term-limited and leaves office January 2027, opening the most favorable repeal window since 1981.
 - **Coalition:** Build with other Colorado cities (Boulder, Aurora, Colorado Springs have renters who would benefit)
 - **Denver's role:** Pass a "trigger" ordinance that takes effect the moment state preemption is lifted. This demonstrates demand and commitment.
 

@@ -7,7 +7,7 @@ Denver For All is a grassroots civic platform for economic justice in Denver. It
 ## Essential commands
 
 ```bash
-npm install          # Install dependencies (Node 20, see .nvmrc)
+npm install          # Install dependencies (Node 22, see .nvmrc — Astro 7 requires >=22.12)
 npm run dev          # Start dev server at http://localhost:4321
 npm run build        # Production build (runs prebuild translation hydration first)
 npm run test         # Run tests (Vitest)

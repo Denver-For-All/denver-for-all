@@ -152,7 +152,7 @@ Social housing will be distributed across all Denver neighborhoods - including a
 
 ## References
 
-- Apartment List. (2024). _National rent report_. https://www.apartmentlist.com/research
+- Apartment List. (2026). _Denver, CO rent report_. https://www.apartmentlist.com/rent-report/co/denver
 - City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing programs and need estimates_. https://www.denvergov.org/host
 - Colorado General Assembly. (2026). _2026 regular session housing bills (HB26-1001, SB26-001, HB26-1065, HB26-1066, HB26-1114)_. https://leg.colorado.gov
 - _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit Proposition 123-funded affordable community in West Colfax]. https://www.coloradopolitics.com

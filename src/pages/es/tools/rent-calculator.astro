@@ -37,7 +37,7 @@ import Layout from '../../../layouts/Layout.astro';
           </div>
         </div>
 
-        <div class="calc-results" id="calc-results">
+        <div class="calc-results" id="calc-results" role="status" aria-live="polite">
           <h2 data-en="Your Savings" data-es="Tus Ahorros">Your Savings</h2>
 
           <div class="calc-comparison">
@@ -126,7 +126,7 @@ import Layout from '../../../layouts/Layout.astro';
     font-weight: 700;
   }
 
-  .calc-input-group input:focus { outline: none; }
+  .calc-input-group:focus-within { box-shadow: inset 0 0 0 2px var(--color-primary); }
 
   input[type="range"] {
     width: 100%;

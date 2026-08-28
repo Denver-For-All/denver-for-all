@@ -18,7 +18,9 @@ const { variant = 'default' } = Astro.props;
       <input
         type="email"
         name="email"
+        id="email-form-input"
         required
+        autocomplete="email"
         class="email-capture__input"
         placeholder="your@email.com"
         data-en-placeholder="your@email.com"
@@ -29,11 +31,11 @@ const { variant = 'default' } = Astro.props;
         <span data-en="Sign Up" data-es="Suscribirse">Sign Up</span>
       </button>
     </form>
-    <p class="email-capture__message email-capture__message--success" id="email-success" hidden
+    <p class="email-capture__message email-capture__message--success" id="email-success" hidden role="status" aria-live="polite"
       data-en="You're in! Check your inbox for a welcome email." data-es="¡Estás dentro! Revisa tu bandeja de entrada para un correo de bienvenida.">
       You're in! Check your inbox for a welcome email.
     </p>
-    <p class="email-capture__message email-capture__message--error" id="email-error" hidden
+    <p class="email-capture__message email-capture__message--error" id="email-error" hidden role="alert"
       data-en="Something went wrong. Please try again." data-es="Algo salió mal. Por favor intenta de nuevo.">
       Something went wrong. Please try again.
     </p>
@@ -45,6 +47,7 @@ const { variant = 'default' } = Astro.props;
 
 <script>
   const form = document.getElementById('email-form') as HTMLFormElement;
+  const emailInput = document.getElementById('email-form-input') as HTMLInputElement | null;
   const successMsg = document.getElementById('email-success');
   const errorMsg = document.getElementById('email-error');
 
@@ -52,6 +55,8 @@ const { variant = 'default' } = Astro.props;
     e.preventDefault();
     successMsg?.setAttribute('hidden', '');
     errorMsg?.setAttribute('hidden', '');
+    emailInput?.removeAttribute('aria-invalid');
+    emailInput?.removeAttribute('aria-describedby');
 
     const formData = new FormData(form);
     const btn = form.querySelector('button') as HTMLButtonElement;
@@ -70,9 +75,13 @@ const { variant = 'default' } = Astro.props;
         form.reset();
       } else {
         errorMsg?.removeAttribute('hidden');
+        emailInput?.setAttribute('aria-invalid', 'true');
+        emailInput?.setAttribute('aria-describedby', 'email-error');
       }
     } catch {
       errorMsg?.removeAttribute('hidden');
+      emailInput?.setAttribute('aria-invalid', 'true');
+      emailInput?.setAttribute('aria-describedby', 'email-error');
     } finally {
       btn.innerHTML = originalText;
       btn.disabled = false;

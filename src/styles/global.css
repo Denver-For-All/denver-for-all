@@ -9,13 +9,18 @@
   --color-accent: #f2c14e;
   --color-accent-light: #f7d784;
   --color-danger: #c8102e;
+  /* Text/icon color for content painted on a solid --color-primary fill.
+     Kept as a separate token (not hardcoded white) because dark mode
+     lightens --color-primary for text-on-dark-bg legibility, which would
+     otherwise leave white-on-primary buttons/badges under 3:1 contrast. */
+  --color-on-primary: white;
 
   --color-bg: #fafbfc;
   --color-bg-alt: #eef2f7;
   --color-bg-card: #ffffff;
   --color-text: #14233b;
   --color-text-muted: #56657a;
-  --color-text-light: #8a95a3;
+  --color-text-light: #5f6c79;
   --color-border: #d6dde6;
 
   /* Surface tokens for header/footer so they adapt across color schemes */
@@ -144,7 +149,7 @@ p {
 
 .btn--primary {
   background: var(--color-primary);
-  color: white;
+  color: var(--color-on-primary);
 }
 
 .btn--primary:hover {
@@ -162,7 +167,7 @@ p {
 
 .btn--secondary:hover {
   background: var(--color-primary);
-  color: white;
+  color: var(--color-on-primary);
 }
 
 .btn--accent {
@@ -370,13 +375,17 @@ html[dir='rtl'] pre {
     --color-accent: #f2c75c;
     --color-accent-light: #f7d784;
     --color-danger: #ef5466;
+    /* --color-primary is lightened above for text-on-dark-bg use, so white
+       (the light-mode default) no longer has enough contrast when it's
+       painted on a solid --color-primary fill (buttons, badges, icons). */
+    --color-on-primary: var(--color-bg);
 
     --color-bg: #0d1117;
     --color-bg-alt: #151c25;
     --color-bg-card: #1a2332;
     --color-text: #e2e8f0;
     --color-text-muted: #94a3b8;
-    --color-text-light: #64748b;
+    --color-text-light: #8798ad;
     --color-border: #2d3748;
 
     /* Header background follows the dark page background; footer stays a

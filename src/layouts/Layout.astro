@@ -132,7 +132,7 @@ const ogLocale = ogLocaleMap[lang];
       {lang === 'es' ? 'Ir al contenido principal' : 'Skip to main content'}
     </a>
     <Header locale={lang} />
-    <main id="main-content">
+    <main id="main-content" tabindex="-1">
       <slot />
     </main>
     <Footer locale={lang} />

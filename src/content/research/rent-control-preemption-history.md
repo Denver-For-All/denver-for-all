@@ -98,15 +98,16 @@ The 2025 session (ended May 7, 2025) had a **smaller housing focus** after 2024'
 
 ---
 
-### 2026 Session - Current (Started January 14, 2026)
+### 2026 Session - Concluded Without a Repeal Bill (January 14 - May 13, 2026)
 
-The 2026 session is underway. **No rent control preemption repeal bill has been identified in early filings** as of February 2026. Key housing bills so far:
+The 75th General Assembly's 2nd Regular Session adjourned _sine die_ on May 13, 2026. **No rent control preemption repeal bill was introduced at any point during the session.** Key housing bills that passed instead expanded supply-side tools:
 
-- **HB26-1001:** Housing developments on qualifying properties (co-sponsored by Mabrey)
-- **HB26-1005:** Housing bill (co-sponsored by Mabrey and Rep. Jennifer Bacon)
-- **HB26-1066:** Property tax exemption for affordable rental units
+- **HB26-1001:** Housing developments on qualifying properties (signed Mar 25, 2026; co-sponsored by Mabrey)
+- **SB26-001:** Workforce housing & housing tax credit (signed Mar 25, 2026)
+- **HB26-1065:** Transit and Housing Investment Zones (signed May 27, 2026)
+- **HB26-1066:** Property tax exemption for affordable rental units (died in House Appropriations, May 14, 2026)
 
-The absence of a rent control repeal bill in 2026 may represent an opening for advocacy - or it may signal that sponsors are waiting for a more favorable political moment.
+The absence of a rent control repeal bill in 2026 may represent an opening for advocacy in 2027 - especially with a new governor taking office - or it may signal that sponsors are waiting for a more favorable political moment.
 
 ---
 

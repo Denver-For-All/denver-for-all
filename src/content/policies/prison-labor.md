@@ -13,8 +13,8 @@ keyStats:
   - value: '$0.33-$1.61'
     label: 'per hour - what Colorado pays incarcerated workers'
     labelEs: 'por hora - lo que Colorado paga a los trabajadores encarcelados'
-    context: 'Minimum wage is $14.81/hr. Incarcerated workers earn 2-11% of that. No OSHA protections. No sick days.'
-    contextEs: 'El salario minimo es $14.81/hr. Los trabajadores encarcelados ganan 2-11% de eso. Sin protecciones de OSHA. Sin dias de enfermedad.'
+    context: 'Colorado minimum wage is $15.16/hr in 2026. Incarcerated workers earn 2-11% of that. No OSHA protections. No sick days.'
+    contextEs: 'El salario minimo de Colorado es $15.16/hr en 2026. Los trabajadores encarcelados ganan 2-11% de eso. Sin protecciones de OSHA. Sin dias de enfermedad.'
     source: 'ACLU, Captive Labor Report, 2022'
     theme: 'danger'
   - value: '65%'
@@ -51,7 +51,7 @@ The state's position, stated in court filings in _Mortis v. Polis_, is that thes
 
 Meanwhile, incarcerated workers receive none of the protections that apply to every other worker in Colorado:
 
-- **No minimum wage.** Colorado's minimum wage is $14.81/hour. Incarcerated workers earn 2-11% of that.
+- **No minimum wage.** Colorado's minimum wage is $15.16/hour (2026). Incarcerated workers earn 2-11% of that.
 - **No OSHA protections.** Workers operate in industrial laundries, kitchens, and manufacturing facilities with no workplace safety regulations.
 - **No sick days.** Former inmates report going to work ill out of fear of being sent to restrictive housing - conditions similar to solitary confinement.
 - **No workers' compensation.** Injuries on the job receive no guaranteed medical treatment or compensation.
@@ -96,7 +96,7 @@ The counterargument is simple: the voters already decided this. Amendment A did 
 
 **2. Pay Incarcerated Workers a Fair Wage**
 
-- Incarcerated workers must be paid no less than Colorado's minimum wage ($14.81/hour as of 2025)
+- Incarcerated workers must be paid no less than Colorado's minimum wage ($15.16/hour as of 2026)
 - Reasonable deductions for room and board are permitted (capped at 25% of gross wages, consistent with federal garnishment limits) - but the base wage must be real
 - Workers must receive pay stubs showing hours, rate, and deductions
 - Wages must be deposited in accounts accessible to the worker, not seized by CDOC
@@ -160,7 +160,7 @@ Voluntary work programs with real training and fair compensation can improve out
 That is what the Colorado Constitution now requires, yes. "There shall never be in this state either slavery or involuntary servitude" does not include the words "unless it's inconvenient for corrections budgets." If work is truly voluntary, some people will decline. The state must develop meaningful non-work programming - education, vocational training, therapy, substance use treatment - for those who do. This is what Norway, Germany, and Finland already do.
 
 **"Won't this cost taxpayers a fortune?"**
-It costs $40-60K/year to incarcerate one person in Colorado. The US recidivism rate is 76% - meaning three-quarters of released prisoners return. Countries that pay incarcerated workers fairly and treat labor as voluntary have recidivism rates of 20-40%. If fair wages and voluntary work reduce Colorado's recidivism rate even modestly, the savings in reduced re-incarceration dwarf the wage costs. Paying someone $14.81/hour during incarceration and having them not return is cheaper than paying them $0.33/hour and re-incarcerating them at $50K/year.
+It costs $40-60K/year to incarcerate one person in Colorado. The US recidivism rate is 76% - meaning three-quarters of released prisoners return. Countries that pay incarcerated workers fairly and treat labor as voluntary have recidivism rates of 20-40%. If fair wages and voluntary work reduce Colorado's recidivism rate even modestly, the savings in reduced re-incarceration dwarf the wage costs. Paying someone $15.16/hour during incarceration and having them not return is cheaper than paying them $0.33/hour and re-incarcerating them at $50K/year.
 
 **"Isn't this a state issue, not a Denver issue?"**
 CDOC is a state agency, yes. But Denver is the state capital, the city where _Mortis v. Polis_ is being tried, and home to the largest population of formerly incarcerated people in Colorado. Denver's City Council can pass resolutions, Denver's congressional delegation can push federal legislation, and Denver's workforce programs can support returning citizens directly. Cities don't have to wait for the state to act on issues that affect their residents.

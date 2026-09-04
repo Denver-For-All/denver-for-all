@@ -10,9 +10,9 @@ status: 'draft'
 actionTarget: 'mayor'
 hasFundingSources: true
 keyStats:
-  - value: '$18.81'
-    label: "Denver's current minimum wage"
-    labelEs: 'salario minimo actual de Denver'
+  - value: '$19.29'
+    label: "Denver's current minimum wage (2026)"
+    labelEs: 'salario minimo actual de Denver (2026)'
     context: 'Marketed as progressive, but $6-7/hr below what a family of four needs to survive'
     contextEs: 'Presentado como progresista, pero $6-7/hr por debajo de lo que necesita una familia de cuatro'
     theme: 'accent'
@@ -34,7 +34,7 @@ keyStats:
 
 ## The Problem
 
-Denver's current minimum wage (~$18.81/hr in 2025) is marketed as progressive. It isn't. The MIT Living Wage Calculator for Denver County shows:
+Denver's current minimum wage ($19.29/hr in 2026) is marketed as progressive. It isn't. The MIT Living Wage Calculator for Denver County shows:
 
 - **1 adult, 0 children:** $21-22/hr needed
 - **2 adults (both working), 2 children:** $25-26/hr needed
@@ -46,7 +46,7 @@ Meanwhile, Denver's economy generates enormous wealth. The question is not wheth
 
 ### What Denver Currently Does
 
-Denver's minimum wage is $18.81/hr as of January 2025, following annual increases that began with a 2019 voter-approved ordinance. Denver's minimum wage is among the highest municipal rates in the country but still falls $6-7/hr short of what MIT's Living Wage Calculator identifies as necessary for a family of four (livingwage.mit.edu, accessed 2024). Approximately 20-25% of Denver workers earn between $18 and $25/hr (Bureau of Labor Statistics, Occupational Employment and Wage Statistics, Denver-Aurora-Lakewood MSA, 2023).
+Denver's minimum wage is $19.29/hr as of January 1, 2026, up from $18.81/hr in 2025, following annual CPI adjustments that began with a 2019 voter-approved ordinance. The city has announced a further adjustment to $19.84/hr effective January 1, 2027 (Denver Department of Finance, 2025; Denver Labor, 2026). Denver's minimum wage is among the highest municipal rates in the country but still falls $6-7/hr short of what MIT's Living Wage Calculator identifies as necessary for a family of four (livingwage.mit.edu, accessed 2024). Approximately 20-25% of Denver workers earn between $18 and $25/hr (Bureau of Labor Statistics, Occupational Employment and Wage Statistics, Denver-Aurora-Lakewood MSA, 2023).
 
 ## Our Solution
 
@@ -142,5 +142,6 @@ Their argument: "It will cost jobs and hurt small businesses." Our response: Eve
 - Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
 - Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
 - UK Low Pay Commission, _National Minimum Wage Annual Report_, 2023
+- Denver Department of Finance, "Denver Local Minimum Wage Adjusts to $19.29 per Hour for 2026" (2025); Denver Labor (Auditor's Office), _Citywide Minimum Wage_ schedule, 2026-2027 rates
 - Denver Department of Finance, _Minimum Wage Ordinance Annual Report_, 2024
 - University of Washington, _Seattle Minimum Wage Study_, various publications (2017-2023)

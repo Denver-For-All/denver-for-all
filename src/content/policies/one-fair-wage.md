@@ -36,7 +36,7 @@ keyStats:
 
 The tipped minimum wage is a legacy of post-slavery economics. After emancipation, restaurants hired Black workers and told them to earn their wages from customer tips - allowing employers to pay nothing. This system persists today.
 
-In Colorado, the tipped minimum is $15.79/hr (2025) - $3+/hr less than the standard minimum. Employers are supposed to make up the difference if tips don't reach the full minimum. In practice:
+In Denver, the tipped minimum for food and beverage workers is $16.27/hr (2026) - $3.02/hr less than the city's standard minimum. Statewide the tipped minimum is $12.14/hr (2026). Employers are supposed to make up the difference if tips don't reach the full minimum. In practice:
 
 - Wage theft in tipped industries is rampant - employers routinely fail to make up shortfalls
 - Income is unpredictable and volatile - one slow Tuesday means rent is short
@@ -46,7 +46,7 @@ In Colorado, the tipped minimum is $15.79/hr (2025) - $3+/hr less than the stand
 
 ### What Denver Currently Does
 
-Colorado's tipped minimum wage is $15.79/hr in 2025 (Colorado Department of Labor and Employment). Colorado already has a smaller tip credit ($3.02/hr) than the federal level ($5.12/hr), but the gap still forces tipped workers to rely on customer generosity for a significant portion of their income. Denver has an estimated 35,000-40,000 tipped workers, concentrated in restaurants, bars, hotels, and personal services (BLS, 2023).
+Denver's tipped minimum wage for food and beverage workers is $16.27/hr in 2026, up from $15.79/hr in 2025, and rises to $16.82/hr in 2027; Colorado's statewide tipped minimum is $12.14/hr in 2026 (Denver Labor; Colorado Department of Labor and Employment). Colorado already has a smaller tip credit ($3.02/hr) than the federal level ($5.12/hr), but the gap still forces tipped workers to rely on customer generosity for a significant portion of their income. Denver has an estimated 35,000-40,000 tipped workers, concentrated in restaurants, bars, hotels, and personal services (BLS, 2023).
 
 ## Our Solution
 

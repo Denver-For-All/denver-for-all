@@ -25,9 +25,9 @@ const { Content } = await render(policy);
 
 let ContentLoc: (typeof Content) | null = null;
 try {
-  const policyLoc = await getEntry('policies-zh', policy.id);
+  const policyLoc = await getEntry('policies-zh', policy.slug);
   if (policyLoc) {
-    const rendered = await render(policyLoc);
+    const rendered = await policyLoc.render();
     ContentLoc = rendered.Content;
   }
 } catch {

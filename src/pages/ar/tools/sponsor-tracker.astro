@@ -240,6 +240,9 @@ const sponsors = [
       <p data-en="Colorado General Assembly legislators sponsoring bills aligned with our policy platform. 2026 Regular Session, 75th General Assembly." data-es="Legisladores de la Asamblea General de Colorado que patrocinan proyectos de ley alineados con nuestra plataforma de políticas. Sesión Regular 2026, 75a Asamblea General.">
         Colorado General Assembly legislators sponsoring bills aligned with our policy platform. 2026 Regular Session, 75th General Assembly.
       </p>
+      <p class="hero-note" data-en="The 2026 regular session adjourned sine die on May 13, 2026. The bills below are the aligned measures these legislators sponsored that session; not all of them passed. Bills enacted without a safety clause took effect August 12, 2026. The next regular session convenes in January 2027." data-es="La sesión regular de 2026 se levantó sine die el 13 de mayo de 2026. Los proyectos a continuación son las medidas alineadas que estos legisladores patrocinaron esa sesión; no todos fueron aprobados. Las leyes promulgadas sin cláusula de seguridad entraron en vigor el 12 de agosto de 2026. La próxima sesión regular comienza en enero de 2027.">
+        The 2026 regular session adjourned sine die on May 13, 2026. The bills below are the aligned measures these legislators sponsored that session; not all of them passed. Bills enacted without a safety clause took effect August 12, 2026. The next regular session convenes in January 2027.
+      </p>
     </div>
   </section>
 
@@ -343,6 +346,12 @@ const sponsors = [
   .hero-mini h1 { color: white; margin-bottom: 1rem; }
   .hero-mini p { font-size: 1.15rem; opacity: 0.9; max-width: 700px; }
 
+  .hero-mini .hero-note {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+    opacity: 0.85;
+  }
+
   .stats-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -401,7 +410,7 @@ const sponsors = [
   .filter-btn.active,
   .filter-btn:hover {
     background: var(--color-primary);
-    color: white;
+    color: var(--color-on-primary);
     border-color: var(--color-primary);
   }
 

@@ -4,7 +4,7 @@ _Post to Reddit, newsletter, and Open Collective updates. Fill in the bracketed 
 
 ---
 
-## [Month Year] Impact Report — Denver For All
+## [Month Year] Impact Report: Denver For All
 
 ### What Your Donations Built This Month
 
@@ -76,7 +76,7 @@ Quick monthly transparency update from Denver For All. We track every dollar pub
 
 **What it cost:**
 
-- $[X] total — [breakdown]. Full receipts on our [public ledger](https://opencollective.com/denver-for-all).
+- $[X] total: [breakdown]. Full receipts on our [public ledger](https://opencollective.com/denver-for-all).
 
 **What's coming:**
 
@@ -92,4 +92,4 @@ All of our code, research, and tools are free and open source at [denverforall.o
 
 **Subject:** [Month] Update: $[X] in donations → [Y outputs] for Denver
 
-[Same content as Reddit but adapted for email — more personal tone, include a direct donate link/button]
+[Same content as Reddit but adapted for email, more personal tone, include a direct donate link/button]

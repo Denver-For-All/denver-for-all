@@ -14,7 +14,7 @@
   align-items: center;
   justify-content: center;
   /* Charts use a fixed light palette (dark text on light fills), so the panel
-     stays light in dark mode too — otherwise axis/value labels (which share the
+     stays light in dark mode too; otherwise axis/value labels (which share the
      dark-mode card color) would be invisible. */
   background: #ffffff;
   color: #1a2332;

@@ -1,4 +1,4 @@
-# Institute for Local Self-Reliance — Municipal Broadband Partnership
+# Institute for Local Self-Reliance: Municipal Broadband Partnership
 
 **Website:** https://communitynetworks.org / https://ilsr.org/
 **What:** Leading research and advocacy organization for community broadband; tracks 400+ networks serving 800+ communities
@@ -7,7 +7,7 @@
 
 ## Partnership Inquiry Letter
 
-**Subject:** Denver Municipal Broadband Research Partnership — Denver For All
+**Subject:** Denver Municipal Broadband Research Partnership, Denver For All
 
 Dear ILSR Community Broadband Networks team,
 
@@ -33,11 +33,11 @@ Denver For All has a comprehensive Municipal Broadband policy proposal that incl
 
 ### Partnership Opportunities
 
-1. **Research collaboration:** ILSR's data and expertise could strengthen our Denver-specific broadband analysis — market studies, cost modeling, and feasibility assessment
+1. **Research collaboration:** ILSR's data and expertise could strengthen our Denver-specific broadband analysis, market studies, cost modeling, and feasibility assessment
 2. **Denver as a case study:** A city where 85% voted for municipal broadband and nothing happened is a powerful case study for ILSR's national advocacy
 3. **Community engagement:** Our grassroots channels (social media, newsletter, Resistbot campaigns) can amplify ILSR research and community broadband advocacy in Denver
 4. **Federal funding:** Our BEAD grant template could be strengthened with ILSR technical review
-5. **2027 election:** Denver's upcoming municipal election is an opportunity to make broadband implementation a campaign issue — our candidate trackers can include broadband questions
+5. **2027 election:** Denver's upcoming municipal election is an opportunity to make broadband implementation a campaign issue, our candidate trackers can include broadband questions
 
 ### What We're Looking For
 

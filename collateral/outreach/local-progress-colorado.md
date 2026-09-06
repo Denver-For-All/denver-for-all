@@ -1,4 +1,4 @@
-# Local Progress Colorado — Network Membership Application
+# Local Progress Colorado: Network Membership Application
 
 **Website:** https://localprogress.org/
 **Contact:** Through website; Colorado chapter (LPCO) has state organizing activity
@@ -8,7 +8,7 @@
 
 ## Outreach Letter
 
-**Subject:** Denver For All — Organizational Partner Inquiry for Local Progress Colorado
+**Subject:** Denver For All, Organizational Partner Inquiry for Local Progress Colorado
 
 Dear Local Progress Colorado team,
 
@@ -35,7 +35,7 @@ Our platform directly mirrors Local Progress policy priorities:
 | Living wage                   | $25/hr minimum indexed to CPI, eliminate tipped minimum                            |
 | Police alternatives           | STAR program expansion backed by Urban Institute data                              |
 | Participatory budgeting       | Full proposal with implementation timeline                                         |
-| Municipal broadband           | Full proposal — 85% voter approval in 2018, still not built                        |
+| Municipal broadband           | Full proposal, 85% voter approval in 2018, still not built                         |
 
 ### How We Can Support Local Progress Members
 

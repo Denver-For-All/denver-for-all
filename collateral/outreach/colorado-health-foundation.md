@@ -1,15 +1,15 @@
-# Colorado Health Foundation — Grant Inquiry
+# Colorado Health Foundation: Grant Inquiry
 
 **Website:** https://coloradohealth.org/funding-0
 **Amount:** Awards ~$100M annually
-**Key program:** Community-Initiated Solutions — priority to proposals developed "with" or "by" people of color
+**Key program:** Community-Initiated Solutions, priority to proposals developed "with" or "by" people of color
 **Focus:** Health equity and racial justice
 
 ---
 
 ## Inquiry Letter
 
-**Subject:** Community-Initiated Solutions Grant Inquiry — Denver For All
+**Subject:** Community-Initiated Solutions Grant Inquiry, Denver For All
 
 Dear Colorado Health Foundation team,
 
@@ -25,7 +25,7 @@ Denver For All approaches health as a function of housing stability, economic se
 - Hospital admissions reduce earnings by 20% (Dobkin et al., 2018)
 - Denver Health still sends patients to collections and places liens on homes
 - Our proposal: $5M city investment can forgive $100–500M in medical debt (modeled on Toledo, New Orleans, LA County programs)
-- **This is a Tier 1 proposal — ready for immediate city council introduction**
+- **This is a Tier 1 proposal: ready for immediate city council introduction**
 
 **STAR Program Expansion (Mental Health Crisis Response)**
 
@@ -33,7 +33,7 @@ Denver For All approaches health as a function of housing stability, economic se
 - Urban Institute (2026): 16% reduction in arrests; 2–3x larger for homeless populations
 - Community Partner Network: 1,200+ clients served, ~12,000 case management encounters
 - Our proposal: Phased expansion to 24/7 citywide coverage
-- **Caring for Denver Foundation is the primary STAR funder — we are applying there as well**
+- **Caring for Denver Foundation is the primary STAR funder, we are applying there as well**
 
 **Housing Stability as Health Intervention**
 
@@ -49,7 +49,7 @@ Denver For All approaches health as a function of housing stability, economic se
 
 ### Serving Communities of Color
 
-30% of Denver's population is Hispanic/Latino. Our platform is bilingual (English/Spanish) and our research centers displacement in historically Latino neighborhoods — Globeville, Elyria-Swansea, Westwood, Montbello — where gentrification, eviction, and health disparities intersect.
+30% of Denver's population is Hispanic/Latino. Our platform is bilingual (English/Spanish) and our research centers displacement in historically Latino neighborhoods, Globeville, Elyria-Swansea, Westwood, Montbello, where gentrification, eviction, and health disparities intersect.
 
 Our outreach strategy prioritizes partnerships with BIPOC-led organizations including Clinica Tepeyac, Centro Humanitario, CIRC, Padres & Jóvenes Unidos, and Focus Points Family Resource Center.
 

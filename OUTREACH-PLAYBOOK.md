@@ -23,7 +23,7 @@ This document complements `REDDIT-COMMENTS.md` (grassroots comment strategy) and
 
 ### Why This Channel
 
-Facebook groups are where Denver's non-Reddit population discusses local politics, neighborhood issues, and city services. The demographics skew older, more racially diverse, and more representative of the general electorate than Reddit. Many neighborhood associations, renter groups, and parent groups are active daily. People share articles, complain about landlords, and ask for recommendations — all natural entry points.
+Facebook groups are where Denver's non-Reddit population discusses local politics, neighborhood issues, and city services. The demographics skew older, more racially diverse, and more representative of the general electorate than Reddit. Many neighborhood associations, renter groups, and parent groups are active daily. People share articles, complain about landlords, and ask for recommendations, all natural entry points.
 
 ### Target Groups
 
@@ -56,7 +56,7 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 4. **No campaign-speak.** These are neighbors talking. Write like a person who did some research, not an organization pushing an agenda.
 5. **Provide value before linking.** Give the substantive answer in the comment itself. The link is "if you want to read more" not "click here for the answer."
 6. **Never post the same content to multiple groups.** Customize for each group's concerns.
-7. **Respect group admins.** If they have no-politics or no-promotion rules, follow them. Some groups allow "resource sharing" — frame accordingly.
+7. **Respect group admins.** If they have no-politics or no-promotion rules, follow them. Some groups allow "resource sharing": frame accordingly.
 8. **Engage replies.** If someone pushes back, respond substantively. Ghosting after dropping a link looks like astroturfing.
 
 ### Sample Posts & Comments
@@ -65,9 +65,9 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 
 **Context:** Someone posts about getting a rent increase notice
 
-> That's brutal, sorry you're dealing with that. Colorado is one of the few states where there's literally no limit on how much a landlord can raise rent — it's been illegal for cities to pass rent stabilization since 1981 (CRS § 38-12-301). That means Denver can't protect renters even if it wanted to.
+> That's brutal, sorry you're dealing with that. Colorado is one of the few states where there's literally no limit on how much a landlord can raise rent, it's been illegal for cities to pass rent stabilization since 1981 (CRS § 38-12-301). That means Denver can't protect renters even if it wanted to.
 >
-> There's actually been a few attempts to repeal the state preemption — the closest was HB23-1115 which passed the full House in 2023 but got killed by one vote in a Senate committee. There's a policy breakdown of what Denver could do if the preemption was lifted at denverforall.org/platform/rent-control if anyone's interested.
+> There's actually been a few attempts to repeal the state preemption, the closest was HB23-1115 which passed the full House in 2023 but got killed by one vote in a Senate committee. There's a policy breakdown of what Denver could do if the preemption was lifted at denverforall.org/platform/rent-control if anyone's interested.
 >
 > In the meantime, know your rights: landlords have to give 60 days notice for increases and can't retaliate if you complain about habitability issues. That's about all the protection we've got right now.
 
@@ -77,7 +77,7 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 
 > Fun fact that most people don't know: Denver voters already approved municipal broadband in 2018. Ballot Measure 2J, passed with 85% of the vote. Seven years later, we still don't have it.
 >
-> Meanwhile Longmont built NextLight — $50/month for gigabit, profitable within 5 years, 90%+ customer satisfaction. Fort Collins built Connexion even after Comcast spent $150M trying to stop them.
+> Meanwhile Longmont built NextLight, $50/month for gigabit, profitable within 5 years, 90%+ customer satisfaction. Fort Collins built Connexion even after Comcast spent $150M trying to stop them.
 >
 > Denver voters said yes, and then nothing happened. There's a full breakdown of what a Denver fiber network would look like (including a proposed $30/month price point and free tier for low-income households) at denverforall.org/platform/municipal-broadband.
 
@@ -85,7 +85,7 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 
 **Context:** Thread about childcare costs or general cost-of-living squeeze
 
-> The MIT Living Wage Calculator says a family of four in Denver needs $25-26/hr with both parents working. Denver minimum wage is $18.81. That's a $7/hr gap between what people earn and what they need to survive — and that's with two incomes.
+> The MIT Living Wage Calculator says a family of four in Denver needs $25-26/hr with both parents working. Denver minimum wage is $18.81. That's a $7/hr gap between what people earn and what they need to survive, and that's with two incomes.
 >
 > Single parent with one kid? MIT says you need $42-44/hr. That's not a policy debate, that's a math problem.
 >
@@ -97,7 +97,7 @@ Facebook groups are where Denver's non-Reddit population discusses local politic
 
 > This is wild but there's a real solution to this. Cities like Toledo, New Orleans, and Chicago have partnered with Undue Medical Debt to buy medical debt portfolios at pennies on the dollar and cancel them. A $5M city appropriation can forgive $100-500M in actual debt.
 >
-> Denver Health is a public hospital and it still sends patients to collections and puts liens on homes. There's a policy proposal to do what those other cities did — denverforall.org/platform/healthcare has the full breakdown.
+> Denver Health is a public hospital and it still sends patients to collections and puts liens on homes. There's a policy proposal to do what those other cities did, denverforall.org/platform/healthcare has the full breakdown.
 
 ---
 
@@ -111,7 +111,7 @@ Nextdoor is hyper-local, verified by address, and attracts politically engaged h
 
 1. **Your profile is your address.** Everything you post is tied to your real neighborhood. Be authentic.
 2. **Lead with neighborhood impact, not ideology.** "Here's what this means for our block" not "here's what the movement believes."
-3. **Homeowner-friendly framing matters here.** Many Nextdoor users are homeowners. Frame policies in terms of property values, neighborhood stability, and quality of life — not just renter protections.
+3. **Homeowner-friendly framing matters here.** Many Nextdoor users are homeowners. Frame policies in terms of property values, neighborhood stability, and quality of life, not just renter protections.
 4. **Use the "General" or "Politics" topics.** Don't post political content in "Recommendations" or "Safety."
 5. **No links in initial posts if possible.** Nextdoor's algorithm suppresses posts with external links. Put the substance in the post. Add the link in a follow-up comment if someone asks for more info.
 6. **Keep it to 1-2 posts per month.** Nextdoor communities are small. Overposting gets you muted or flagged.
@@ -120,11 +120,11 @@ Nextdoor is hyper-local, verified by address, and attracts politically engaged h
 
 #### Post 1: Vacancy / Abandoned Properties
 
-> Has anyone else noticed vacant properties in [neighborhood]? There are at least [X] on my block alone — just sitting empty while rents keep climbing.
+> Has anyone else noticed vacant properties in [neighborhood]? There are at least [X] on my block alone, just sitting empty while rents keep climbing.
 >
 > I've been looking into what other cities do about this and it turns out Vancouver, Melbourne, and Washington DC all have vacancy taxes. Vancouver's generated $115M+ in revenue since 2017 and their vacancy rate dropped from 4.3% to under 1% in the first two years.
 >
-> Denver doesn't even have a vacancy registry — we literally don't track how many units are sitting empty. Seems like step one would be counting them.
+> Denver doesn't even have a vacancy registry, we literally don't track how many units are sitting empty. Seems like step one would be counting them.
 
 #### Post 2: Internet / Broadband
 
@@ -136,7 +136,7 @@ Nextdoor is hyper-local, verified by address, and attracts politically engaged h
 
 #### Post 3: STAR Program / Public Safety
 
-> Wanted to share something positive. The STAR program (Support Team Assisted Response) — the mental health crisis teams that respond instead of police for certain calls — just got evaluated by the Urban Institute. Results: 16% reduction in subsequent arrests, with even bigger impacts for people experiencing homelessness.
+> Wanted to share something positive. The STAR program (Support Team Assisted Response): the mental health crisis teams that respond instead of police for certain calls, just got evaluated by the Urban Institute. Results: 16% reduction in subsequent arrests, with even bigger impacts for people experiencing homelessness.
 >
 > They've handled over 23,000 calls since going citywide in 2022. Problem is they're funded at $4.4M and can only cover about 45% of eligible calls. Seems like expanding something with a proven track record would be common sense.
 
@@ -152,20 +152,20 @@ Op-eds and letters to the editor reach politically engaged Denver residents, get
 
 **Tier 1 (highest reach, hardest placement):**
 
-- **The Denver Post** — Op-eds (750-800 words), Letters to Editor (200 words). Email: opinion@denverpost.com
-- **Colorado Sun** — Guest commentary (800-1000 words). More progressive, data-friendly editorial stance.
-- **Denverite** — Community voices, neighborhood reporting angles. Most accessible for first-time writers.
+- **The Denver Post**: Op-eds (750-800 words), Letters to Editor (200 words). Email: opinion@denverpost.com
+- **Colorado Sun**: Guest commentary (800-1000 words). More progressive, data-friendly editorial stance.
+- **Denverite**: Community voices, neighborhood reporting angles. Most accessible for first-time writers.
 
 **Tier 2 (targeted reach, easier placement):**
 
-- **Westword** — Longform opinion, investigative angles. Good for provocative framings.
-- **Colorado Newsline** — State politics angle, legislative strategy pieces.
-- **Colorado Public Radio / CPR News** — Commentary section, less frequent but high credibility.
+- **Westword**: Longform opinion, investigative angles. Good for provocative framings.
+- **Colorado Newsline**: State politics angle, legislative strategy pieces.
+- **Colorado Public Radio / CPR News**: Commentary section, less frequent but high credibility.
 
 **Tier 3 (hyperlocal, low barrier):**
 
 - **North Denver Tribune**, **Greater Park Hill News**, **Southwest Denver Coalition newsletter**
-- **Denver Voice** (street newspaper — direct reach to homeless and low-income population)
+- **Denver Voice** (street newspaper: direct reach to homeless and low-income population)
 - Neighborhood association newsletters (direct pitch to editors)
 
 ### Op-Ed Strategy
@@ -174,7 +174,7 @@ Op-eds and letters to the editor reach politically engaged Denver residents, get
 
 - A relevant news story breaks (rent increase data, council vote, sweep, Comcast outage)
 - A legislative session is active (state preemption repeal attempts)
-- Budget season (city budget debates — participatory budgeting angle)
+- Budget season (city budget debates: participatory budgeting angle)
 - Election cycle (candidate positions, voter guides)
 
 **Hook + Data + Denver-specific + Call to Action** is the formula.
@@ -187,13 +187,13 @@ Op-eds and letters to the editor reach politically engaged Denver residents, get
 >
 > Seven years later, Denver residents still pay Comcast and CenturyLink $80-120/month for internet that routinely underdelivers on speed, imposes data caps, and provides some of the worst customer service in American commerce.
 >
-> Thirty miles north, Longmont tells a different story. The city's publicly owned NextLight network offers gigabit internet for $50/month. It reached profitability within five years. Customer satisfaction exceeds 90%. Fort Collins built its own network, Connexion, despite Comcast spending $150 million on opposition campaigns — and it's on track for profitability too.
+> Thirty miles north, Longmont tells a different story. The city's publicly owned NextLight network offers gigabit internet for $50/month. It reached profitability within five years. Customer satisfaction exceeds 90%. Fort Collins built its own network, Connexion, despite Comcast spending $150 million on opposition campaigns, and it's on track for profitability too.
 >
 > These aren't experiments. These are municipal services that work, pay for themselves, and save residents hundreds of dollars a year.
 >
 > Denver's inaction isn't a technology problem or a funding problem. It's a political will problem. The question voters should be asking every council member and every mayoral candidate: we gave you permission seven years ago. What exactly is the holdup?
 >
-> A detailed proposal for Denver's municipal fiber network — including a $30/month price point, free tier for low-income households, and net neutrality guarantee — is available at denverforall.org. The engineering is straightforward. The economics are proven. The voters already said yes. All that's missing is leadership willing to do what the public demanded.
+> A detailed proposal for Denver's municipal fiber network, including a $30/month price point, free tier for low-income households, and net neutrality guarantee, is available at denverforall.org. The engineering is straightforward. The economics are proven. The voters already said yes. All that's missing is leadership willing to do what the public demanded.
 
 **Word count:** ~250 (expand to 750-800 with additional Denver-specific data, resident quotes, and more detailed Longmont/Fort Collins comparison)
 
@@ -201,7 +201,7 @@ Op-eds and letters to the editor reach politically engaged Denver residents, get
 
 > To the Editor:
 >
-> Toledo forgave $240 million in medical debt for a $1.6 million investment. New Orleans did $130 million. Chicago, Cook County, and a growing list of cities are partnering with Undue Medical Debt to buy debt portfolios at pennies on the dollar and cancel them — no strings attached.
+> Toledo forgave $240 million in medical debt for a $1.6 million investment. New Orleans did $130 million. Chicago, Cook County, and a growing list of cities are partnering with Undue Medical Debt to buy debt portfolios at pennies on the dollar and cancel them, no strings attached.
 >
 > Denver Health is a public hospital. It still sends patients to collections and places liens on homes. A $5 million city appropriation could forgive $100-500 million in medical debt for Denver residents. The mechanism exists. The precedent exists. The money exists.
 >
@@ -229,15 +229,15 @@ Your Reddit comment strategy (`REDDIT-COMMENTS.md`) is working for organic engag
 
 ### Target Subreddits
 
-- **r/Denver** (~450K members) — Primary. Tolerates policy discussion if substantive. Self-posts with data do well.
-- **r/denverhousing** — Smaller but highly targeted. Housing policy is on-topic by definition.
-- **r/ColoradoPolitics** — State-level framing for rent control preemption, TABOR, legislative strategy.
-- **r/urbanplanning** — National audience interested in Denver case studies (broadband, social housing, vacancy tax).
+- **r/Denver** (~450K members): Primary. Tolerates policy discussion if substantive. Self-posts with data do well.
+- **r/denverhousing**: Smaller but highly targeted. Housing policy is on-topic by definition.
+- **r/ColoradoPolitics**: State-level framing for rent control preemption, TABOR, legislative strategy.
+- **r/urbanplanning**: National audience interested in Denver case studies (broadband, social housing, vacancy tax).
 
 ### Post Types
 
 **Type 1: Data Drop Post**
-A self-post presenting original analysis or a compiled dataset with a clear takeaway. Not a link to your site — the substance is in the post itself. Site link is supplementary.
+A self-post presenting original analysis or a compiled dataset with a clear takeaway. Not a link to your site, the substance is in the post itself. Site link is supplementary.
 
 **Type 2: "What Denver Could Learn From..." Post**
 Case study format comparing Denver to a city that's implemented a policy you advocate for. Longmont broadband, Vienna social housing, Helsinki Housing First.
@@ -264,7 +264,7 @@ Case study format comparing Denver to a city that's implemented a policy you adv
 >
 > Denver's current model is: spend half a million dollars per unit of public money, give it to a private developer, and get a temporarily affordable apartment that becomes luxury housing in 20 years.
 >
-> I'm part of a group that put together a full policy platform for Denver (denverforall.org) — the social housing proposal is one of 45 policies. But the numbers above are just public data. Make of them what you will.
+> I'm part of a group that put together a full policy platform for Denver (denverforall.org): the social housing proposal is one of 45 policies. But the numbers above are just public data. Make of them what you will.
 >
 > Happy to answer questions or get told why I'm wrong.
 
@@ -286,7 +286,7 @@ Case study format comparing Denver to a city that's implemented a policy you adv
 >
 > Seven years. 85% voter approval. And we're still paying Comcast for internet that doesn't deliver what we pay for.
 >
-> There's a full proposal for what a Denver municipal fiber network could look like at denverforall.org/platform/municipal-broadband — $30/month target, free tier for low-income households, net neutrality guaranteed. But honestly the question isn't about the plan. The plan is straightforward. The question is why nobody at city hall has done what voters told them to do in 2018.
+> There's a full proposal for what a Denver municipal fiber network could look like at denverforall.org/platform/municipal-broadband, $30/month target, free tier for low-income households, net neutrality guaranteed. But honestly the question isn't about the plan. The plan is straightforward. The question is why nobody at city hall has done what voters told them to do in 2018.
 
 ---
 
@@ -294,7 +294,7 @@ Case study format comparing Denver to a city that's implemented a policy you adv
 
 ### Why This Channel
 
-Approximately 30% of Denver residents are Hispanic/Latino. Many get their local information through Spanish-language media, community organizations, churches, and WhatsApp/Facebook groups — not English-language Reddit or the Denver Post. If Denver For All doesn't exist in Spanish, it doesn't exist for a third of the city.
+Approximately 30% of Denver residents are Hispanic/Latino. Many get their local information through Spanish-language media, community organizations, churches, and WhatsApp/Facebook groups, not English-language Reddit or the Denver Post. If Denver For All doesn't exist in Spanish, it doesn't exist for a third of the city.
 
 ### Priority Actions
 
@@ -313,20 +313,20 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 
 **Spanish-language media:**
 
-- **La Voz Bilingüe** — Colorado's oldest bilingual newspaper. Op-eds and community announcements.
-- **Univision Denver / KCEC-TV** — Local Univision affiliate. Press releases for newsworthy policy positions (medical debt, sanctuary city, living wage).
-- **Telemundo Denver / KDEN-TV** — Same as above.
-- **El Comercio de Colorado** — Digital publication, community-oriented.
-- **Radio stations:** La Tricolor (KBNO 1280 AM), Radio Romantica, other Spanish-language AM/FM stations — call-in opportunities, community bulletin announcements.
+- **La Voz Bilingüe**: Colorado's oldest bilingual newspaper. Op-eds and community announcements.
+- **Univision Denver / KCEC-TV**: Local Univision affiliate. Press releases for newsworthy policy positions (medical debt, sanctuary city, living wage).
+- **Telemundo Denver / KDEN-TV**: Same as above.
+- **El Comercio de Colorado**: Digital publication, community-oriented.
+- **Radio stations:** La Tricolor (KBNO 1280 AM), Radio Romantica, other Spanish-language AM/FM stations, call-in opportunities, community bulletin announcements.
 
 **Community organizations (partnership, not competition):**
 
-- **Clinica Tepeyac** — Health services in Globeville/Elyria-Swansea. Healthcare policy alignment.
-- **Centro Humanitario** — Day laborer center. Living wage, gig worker protections alignment.
-- **CIRC (Colorado Immigrant Rights Coalition)** — Immigration policy alignment.
-- **Padres & Jóvenes Unidos** — Education and youth justice. Education and youth services policy alignment.
-- **Focus Points Family Resource Center** — Globeville/Elyria-Swansea. Multiple policy alignments.
-- **Mi Casa Resource Center** — Workforce development. Living wage, small business alignment.
+- **Clinica Tepeyac**: Health services in Globeville/Elyria-Swansea. Healthcare policy alignment.
+- **Centro Humanitario**: Day laborer center. Living wage, gig worker protections alignment.
+- **CIRC (Colorado Immigrant Rights Coalition)**: Immigration policy alignment.
+- **Padres & Jóvenes Unidos**: Education and youth justice. Education and youth services policy alignment.
+- **Focus Points Family Resource Center**: Globeville/Elyria-Swansea. Multiple policy alignments.
+- **Mi Casa Resource Center**: Workforce development. Living wage, small business alignment.
 
 **Approach:** Partner, don't colonize. These organizations have existing trust and relationships. Offer your policy research as a resource they can use in their own advocacy. Don't show up asking them to promote your brand.
 
@@ -344,7 +344,7 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 >
 > Los alquileres en Denver han subido casi 85% desde 2010. Un apartamento de una recámara promedia más de $1,600/mes. Para una familia que gana el salario mínimo, eso es más de la mitad de su ingreso.
 >
-> Hay un grupo que armó propuestas detalladas para Denver — vivienda social, estabilización de rentas, salario de $25/hora, perdón de deuda médica. Todo en español en denverforall.org. No son políticos, son vecinos con investigación.
+> Hay un grupo que armó propuestas detalladas para Denver, vivienda social, estabilización de rentas, salario de $25/hora, perdón de deuda médica. Todo en español en denverforall.org. No son políticos, son vecinos con investigación.
 >
 > Lo que más me impresionó: Denver gasta $400,000-600,000 por unidad subsidiando a desarrolladores privados para construir viviendas "asequibles" que dejan de serlo en 15-30 años. Viena construye vivienda pública permanente por menos. Hay otra manera de hacer esto.
 
@@ -352,15 +352,15 @@ Approximately 30% of Denver residents are Hispanic/Latino. Many get their local 
 
 **Email template for partnership outreach:**
 
-> Subject: Policy research resource for [organization name] — Denver For All
+> Subject: Policy research resource for [organization name], Denver For All
 >
 > Hi [name],
 >
 > I'm with Denver For All, a grassroots group that put together data-driven policy proposals for Denver covering housing, wages, healthcare, and immigration.
 >
-> I know [organization name] does critical work on [their issue area]. We have a detailed policy proposal on [relevant policy] that includes international evidence, implementation mechanisms, and cost analysis — and we're working on full Spanish translations.
+> I know [organization name] does critical work on [their issue area]. We have a detailed policy proposal on [relevant policy] that includes international evidence, implementation mechanisms, and cost analysis, and we're working on full Spanish translations.
 >
-> We're not asking you to endorse anything. We just want to offer our research as a resource if it's useful for your advocacy. We'd also love your feedback — you know these issues on the ground better than we do.
+> We're not asking you to endorse anything. We just want to offer our research as a resource if it's useful for your advocacy. We'd also love your feedback, you know these issues on the ground better than we do.
 >
 > Would you be open to a 15-minute conversation? Happy to send the policy doc in advance.
 >
@@ -383,12 +383,12 @@ The most persuasive political communication in 2025 is a screenshot or PDF share
 
 **Structure for each one-pager:**
 
-1. **Headline** — The problem in one sentence (large, bold)
-2. **Three numbers** — Key data points with large typography
-3. **What we propose** — 3-4 bullet points, plain language, no jargon
-4. **What other cities did** — 1-2 proof points with city name and result
-5. **QR code + URL** — Links to full policy page on denverforall.org
-6. **Bilingual** — English on one side, Spanish on the other (or side-by-side)
+1. **Headline**: The problem in one sentence (large, bold)
+2. **Three numbers**: Key data points with large typography
+3. **What we propose**: 3-4 bullet points, plain language, no jargon
+4. **What other cities did**: 1-2 proof points with city name and result
+5. **QR code + URL**: Links to full policy page on denverforall.org
+6. **Bilingual**: English on one side, Spanish on the other (or side-by-side)
 
 ### Priority One-Pagers to Create
 
@@ -476,9 +476,9 @@ You're already seeing traffic growth (469 unique visitors, 4.91K requests over 7
 
 **Conversion:**
 
-- Newsletter signups (EmailOctopus — track which referral source drives signups)
+- Newsletter signups (EmailOctopus: track which referral source drives signups)
 - Volunteer form submissions (Google Forms)
-- Tool usage (eviction tracker, rent calculator, campaign finance — Cloudflare Workers analytics)
+- Tool usage (eviction tracker, rent calculator, campaign finance, Cloudflare Workers analytics)
 
 **Organizing:**
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * validate.js — Validate translated output against English source
+ * validate.js: Validate translated output against English source
  *
  * Checks for:
  * - Missing JSON keys (compared to en.json structure)
@@ -32,7 +32,7 @@ const langs = langFilter ? [langFilter] : Object.keys(LANGUAGES);
 let totalIssues = 0;
 
 console.log('═══════════════════════════════════════════════════════');
-console.log('  Denver For All — Translation Validator');
+console.log('  Denver For All: Translation Validator');
 console.log('═══════════════════════════════════════════════════════\n');
 
 // Load English reference data
@@ -147,7 +147,7 @@ for (const lang of langs) {
 
     console.log(`  ✓ policy-bodies: ${translatedFiles.length}/${enPolicyFiles.length} files`);
     if (reviewFlags > 0) {
-      console.log(`  ⚠ ${reviewFlags} [REVIEW:] flags found — needs human review`);
+      console.log(`  ⚠ ${reviewFlags} [REVIEW:] flags found; needs human review`);
     }
   }
 }

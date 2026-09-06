@@ -1,5 +1,5 @@
 /**
- * Denver Campaign Finance Tracker — Cloudflare Worker
+ * Denver Campaign Finance Tracker: Cloudflare Worker
  *
  * Scrapes Denver campaign finance filings weekly, normalizes contributor data,
  * categorizes donors (developer, landlord, PAC, corporate, individual),

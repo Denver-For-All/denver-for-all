@@ -10,7 +10,7 @@ Denver For All is a grassroots, open-source civic platform governed by its maint
 
 **Maintainers** are responsible for the overall direction of the project, reviewing contributions, managing releases, and representing the project publicly. Maintainers have write access to the repository and admin access to the Open Collective page.
 
-**Contributors** are anyone who participates in the project — by submitting code, policy research, translations, bug reports, design work, or other contributions. Contributors do not need any special access to participate.
+**Contributors** are anyone who participates in the project, by submitting code, policy research, translations, bug reports, design work, or other contributions. Contributors do not need any special access to participate.
 
 **Community members** are Denver residents, organizers, and advocates who use the platform, provide feedback, attend events, or engage with the project's mission without directly contributing to the codebase or content.
 

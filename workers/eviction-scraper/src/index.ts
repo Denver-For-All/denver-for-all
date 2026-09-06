@@ -1,5 +1,5 @@
 /**
- * Denver Eviction Tracker — Cloudflare Worker
+ * Denver Eviction Tracker: Cloudflare Worker
  *
  * Scrapes Denver County Court eviction filings on a daily cron schedule,
  * stores them in a D1 database, and serves an API for the frontend dashboard.
@@ -43,7 +43,7 @@ export interface Env {
 
 export default {
   /**
-   * HTTP handler — serves the API for the frontend dashboard
+   * HTTP handler: serves the API for the frontend dashboard
    */
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
@@ -84,7 +84,7 @@ export default {
   },
 
   /**
-   * Cron handler — scrapes court records daily
+   * Cron handler: scrapes court records daily
    */
   async scheduled(_event: ScheduledEvent, env: Env, _ctx: ExecutionContext): Promise<void> {
     console.log('Starting daily eviction scrape...');

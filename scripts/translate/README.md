@@ -1,4 +1,4 @@
-# Translation Pipeline — Denver For All
+# Translation Pipeline: Denver For All
 
 Batch translation pipeline for expanding Denver For All from 2 locales (en/es) to 6 locales (en/es/vi/zh/ar/am).
 
@@ -43,7 +43,7 @@ GEMINI_API_KEY=... node scripts/translate/translate.js --lang vi
 #   Single content type:
 GEMINI_API_KEY=... node scripts/translate/translate.js --lang zh --type ui-strings
 
-#   Dry run (no API calls — shows plan and estimated tokens):
+#   Dry run (no API calls: shows plan and estimated tokens):
 node scripts/translate/translate.js --dry-run
 
 # Step 3: Validate the output
@@ -167,9 +167,9 @@ Places validated translations into the codebase:
 
 **Remaining manual steps after hydration:**
 
-1. Update `src/i18n/utils.ts` — import new locale JSONs, expand `Locale` type
-2. Update `src/i18n/page-meta.ts` — add new locale entries
-3. Update `src/content/config.ts` — register new `policies-<lang>` collections
+1. Update `src/i18n/utils.ts`: import new locale JSONs, expand `Locale` type
+2. Update `src/i18n/page-meta.ts`: add new locale entries
+3. Update `src/content/config.ts`: register new `policies-<lang>` collections
 4. Human review of all Amharic translations
 
 ## Tips
@@ -194,4 +194,4 @@ node scripts/translate/extract-content.js
 
 ### Amharic quality
 
-The Amharic prompt instructs the model to add `[REVIEW: explanation]` flags for uncertain translations. The validation script counts these flags. **All Amharic output should be reviewed by a native speaker** before publishing — partner with the Ethiopian Community Center.
+The Amharic prompt instructs the model to add `[REVIEW: explanation]` flags for uncertain translations. The validation script counts these flags. **All Amharic output should be reviewed by a native speaker** before publishing; partner with the Ethiopian Community Center.

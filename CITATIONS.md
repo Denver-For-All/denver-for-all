@@ -1,8 +1,8 @@
-# Citation Standard — Denver For All
+# Citation Standard: Denver For All
 
 All Denver For All publications (policy documents, grant proposals, data stories, and
 research notes) cite sources in **APA 7th edition** style. Consistent, verifiable
-citations are how we show the thread of research behind every position — and how we
+citations are how we show the thread of research behind every position, and how we
 stay credible when opponents look for a reason to dismiss us.
 
 This document is the single source of truth for how we format references. When in
@@ -15,13 +15,13 @@ doubt, match the patterns below.
 2. **Each policy document ends with a `## References` section** containing an
    alphabetized, APA-formatted reference list.
 3. **In-text citations are parenthetical**: `(Author, Year)` or
-   `(Organization, Year)` — e.g., `(Diamond et al., 2019)`,
+   `(Organization, Year)`: e.g., `(Diamond et al., 2019)`,
    `(U.S. Census Bureau, 2022)`. For three or more authors, use the first author
    plus `et al.` from the first mention.
 4. **Don't fabricate.** If you cannot identify the author, year, title, or publisher of
    a source, do not invent them. Cite what is verifiable, or describe the work in
    brackets (APA permits `[Working paper]`, `[Data set]`, `[Dashboard]` descriptions).
-5. **Statutes and bills** are cited by their official designation (see below) — these
+5. **Statutes and bills** are cited by their official designation (see below): these
    are legal references, not APA author-date works, and may appear inline without a
    reference-list entry, though significant ones should also be listed.
 
@@ -80,7 +80,7 @@ https://www.coloradojudicial.gov
 
 These follow legal-citation conventions, not APA author-date:
 
-- **Colorado Revised Statutes:** `Colo. Rev. Stat. § 38-12-301 (1981)` — in running
+- **Colorado Revised Statutes:** `Colo. Rev. Stat. § 38-12-301 (1981)`: in running
   prose the project also uses the readable form `CRS § 38-12-301`.
 - **Constitutional provisions:** `Colo. Const. art. X, § 20` (TABOR).
 - **Bills:** cite by chamber, number, and General Assembly session, e.g.

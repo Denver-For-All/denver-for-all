@@ -2,7 +2,7 @@
   "name": "denver-for-all",
   "type": "module",
   "version": "0.1.0",
-  "description": "Denver For All — A movement for economic justice in Denver",
+  "description": "Denver For All: A movement for economic justice in Denver",
   "license": "MIT",
   "engines": {
     "node": ">=22.12.0"

@@ -1,6 +1,6 @@
 # Quickstart: Fork This for Your City
 
-This platform was built to be reused. Whether you're a civic technologist who wants to spin up an instance or a grassroots organizer who needs a policy platform but isn't sure where to start — this guide is for you.
+This platform was built to be reused. Whether you're a civic technologist who wants to spin up an instance or a grassroots organizer who needs a policy platform but isn't sure where to start, this guide is for you.
 
 ## Who This Is For
 
@@ -12,7 +12,7 @@ You know your way around a terminal. You want a production-ready policy platform
 
 ### Grassroots Organizers
 
-You're building a campaign or coalition and need a professional web presence with real policy substance — not just a landing page. You don't need to be technical to use this. The policy content is plain Markdown files you can edit like a Google Doc. For the initial deployment, find a friendly developer (check your local [Code for America brigade](https://brigade.codeforamerica.org/), civic tech meetup, or DSA tech committee) and point them at this guide.
+You're building a campaign or coalition and need a professional web presence with real policy substance, not just a landing page. You don't need to be technical to use this. The policy content is plain Markdown files you can edit like a Google Doc. For the initial deployment, find a friendly developer (check your local [Code for America brigade](https://brigade.codeforamerica.org/), civic tech meetup, or DSA tech committee) and point them at this guide.
 
 **Start at:** [What You Get](#what-you-get) to understand the platform, then hand off [Technical Setup](#technical-setup) to your tech volunteer.
 
@@ -27,9 +27,9 @@ Out of the box, this platform gives you:
 | **49 policy pages**              | Data-driven proposals with citations, organized by category. Edit the Markdown files in `src/content/policies/` to replace with your city's policies. |
 | **48 Spanish translations**      | Full policy translations in `src/content/policies-es/`, following i18n directory conventions.                                                         |
 | **Eviction tracker**             | Dashboard of eviction filings by landlord and neighborhood. Requires a local court data source.                                                       |
-| **Campaign finance tool**        | Follow the money — see who's funding your city council. Requires local campaign finance data.                                                         |
+| **Campaign finance tool**        | Follow the money, see who's funding your city council. Requires local campaign finance data.                                                         |
 | **Data stories**                 | Scrollytelling visualizations for eviction data, sidewalk conditions, and money in politics.                                                          |
-| **Candidate & mayoral trackers** | Public-record guides to council and mayoral candidates — positions, backgrounds, and track records.                                                   |
+| **Candidate & mayoral trackers** | Public-record guides to council and mayoral candidates, positions, backgrounds, and track records.                                                   |
 | **Rent calculator**              | Interactive tool showing savings under proposed rent stabilization.                                                                                   |
 | **Tenant rights guide**          | Quick answers on Colorado tenant law plus Denver/Colorado help resources, in English and Spanish.                                                     |
 | **State sponsor tracker**        | Colorado legislators sponsoring bills aligned with the platform.                                                                                      |
@@ -45,7 +45,7 @@ Out of the box, this platform gives you:
 
 ## Adapting the Content
 
-The most important part isn't the code — it's making the policy content yours. Here's what to change:
+The most important part isn't the code, it's making the policy content yours. Here's what to change:
 
 ### Policies (the core of the platform)
 
@@ -83,14 +83,14 @@ You don't need to start from scratch. Use Denver's policies as a template and sw
 
 Search the codebase for "Denver" and replace with your city name. Key files:
 
-- `src/layouts/Layout.astro` — site title, meta tags
-- `src/pages/index.astro` — homepage copy
-- `src/i18n/en.json` and `src/i18n/es.json` — UI strings
-- `astro.config.mjs` — site URL
+- `src/layouts/Layout.astro`: site title, meta tags
+- `src/pages/index.astro`: homepage copy
+- `src/i18n/en.json` and `src/i18n/es.json`: UI strings
+- `astro.config.mjs`: site URL
 
 ### Data tools
 
-The eviction tracker and campaign finance tools need local data sources. Every city's court system and campaign finance disclosures work differently. See the `workers/` directory for the schema — you'll need to find your local equivalents:
+The eviction tracker and campaign finance tools need local data sources. Every city's court system and campaign finance disclosures work differently. See the `workers/` directory for the schema, you'll need to find your local equivalents:
 
 - **Evictions:** County court records, often available via PACER or your county clerk's website
 - **Campaign finance:** Your city/state's ethics commission or secretary of state filings
@@ -165,11 +165,11 @@ Update the form URLs in:
 
 ### 6. Tenant rights guide
 
-The Know Your Rights tool is fully static — quick answers and local help resources
+The Know Your Rights tool is fully static, quick answers and local help resources
 live in `src/components/KnowYourRightsTool.astro`. Update the topic answers and the
 resource phone numbers/links to match your city; no API keys or accounts required.
 
-### 7. Data workers (Cloudflare Workers + D1 — optional)
+### 7. Data workers (Cloudflare Workers + D1: optional)
 
 For the eviction tracker and campaign finance tools:
 

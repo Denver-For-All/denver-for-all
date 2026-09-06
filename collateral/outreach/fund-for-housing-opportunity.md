@@ -1,4 +1,4 @@
-# Fund for Housing and Opportunity — Grant Inquiry
+# Fund for Housing and Opportunity: Grant Inquiry
 
 **Website:** https://www.housingisopportunity.org/funded-projects
 **Amount:** $50,000–$140,000 (typical range)
@@ -9,7 +9,7 @@
 
 ## Inquiry Letter
 
-**Subject:** Grant Inquiry — Denver For All Housing Research & Civic Tools Platform
+**Subject:** Grant Inquiry, Denver For All Housing Research & Civic Tools Platform
 
 Dear Fund for Housing and Opportunity team,
 
@@ -25,7 +25,7 @@ Denver For All has built one of the most comprehensive municipal housing policy 
 - Rent Stabilization (CPI or 3% cap, no vacancy decontrol) + detailed legislative history of Colorado's 1981 preemption
 - Community Land Trusts (permanent affordability through non-profit land ownership)
 - Vacancy Tax (revenue model based on Vancouver's 25% vacancy reduction)
-- Housing First (Finland model — 35% homelessness reduction)
+- Housing First (Finland model: 35% homelessness reduction)
 - Tenant Bill of Rights (comprehensive protections)
 - Corporate Landlord Ban (blocking institutional investors from residential purchases)
 - Anti-Displacement (neighborhood stabilization, community control)

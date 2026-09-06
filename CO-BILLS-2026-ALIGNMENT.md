@@ -3,20 +3,20 @@
 Analysis of the 75th General Assembly (2026 Regular Session) bills for alignment with Denver For All's 48 policy proposals. Bills are organized by strategic priority.
 
 > **End-of-session update (adjourned _sine die_ May 13, 2026).** The 2nd Regular
-> Session has ended. Final dispositions of the bills tracked below — verified
+> Session has ended. Final dispositions of the bills tracked below, verified
 > against [leg.colorado.gov](https://leg.colorado.gov/) in June 2026:
 >
-> | Bill          | Final disposition                                                        |
-> | ------------- | ------------------------------------------------------------------------ |
-> | **HB26-1036** | Postponed Indefinitely — House Finance, Feb 9, 2026 (7–4)                |
-> | **HB26-1001** | Signed into law — Mar 25, 2026                                           |
-> | **SB26-001**  | Signed into law — Mar 25, 2026                                           |
-> | **HB26-1065** | Signed into law — May 27, 2026                                           |
-> | **HB26-1013** | Signed into law — Mar 26, 2026                                           |
-> | **HB26-1066** | Lost — died in House Appropriations, May 14, 2026                        |
-> | **HB26-1114** | Postponed Indefinitely — Senate Local Government & Housing, Apr 23, 2026 |
-> | **HB26-1106** | Postponed Indefinitely — House Judiciary, Mar 24, 2026                   |
-> | **HB26-1047** | Postponed Indefinitely — House Judiciary, Feb 24, 2026                   |
+> | Bill          | Final disposition                                                       |
+> | ------------- | ----------------------------------------------------------------------- |
+> | **HB26-1036** | Postponed Indefinitely, House Finance, Feb 9, 2026 (7–4)                |
+> | **HB26-1001** | Signed into law, Mar 25, 2026                                           |
+> | **SB26-001**  | Signed into law, Mar 25, 2026                                           |
+> | **HB26-1065** | Signed into law, May 27, 2026                                           |
+> | **HB26-1013** | Signed into law, Mar 26, 2026                                           |
+> | **HB26-1066** | Lost, died in House Appropriations, May 14, 2026                        |
+> | **HB26-1114** | Postponed Indefinitely, Senate Local Government & Housing, Apr 23, 2026 |
+> | **HB26-1106** | Postponed Indefinitely, House Judiciary, Mar 24, 2026                   |
+> | **HB26-1047** | Postponed Indefinitely, House Judiciary, Feb 24, 2026                   |
 >
 > Strategic takeaway: the vacancy-tax enabling bill (HB26-1036) and the two
 > tenant-eviction-protection bills (HB26-1106, HB26-1047) did **not** survive, so
@@ -34,11 +34,11 @@ These bills address Tier 3 barriers identified in [LEGISLATION-READY.md](./LEGIS
 
 ### HB26-1036 -- Local Taxes on Vacant Residential Property
 
-- **Status:** ❌ Postponed Indefinitely — House Finance, Feb 9, 2026 (7–4)
+- **Status:** ❌ Postponed Indefinitely: House Finance, Feb 9, 2026 (7–4)
 - **What it does:** Would have authorized local governments to impose excise taxes on vacant residential properties and allowed local income taxes on certain entities
 - **Why it matters:** This was the bill that would have enabled our **Vacancy Tax (Policy #6)** ballot measure. With it dead for 2026, Denver still lacks the state authorization a local vacancy excise tax requires; the November 2026 ballot path is blocked until a successor bill passes.
 - **Our policy:** Vacancy Tax -- revenue generation for housing funds
-- **Action:** Reassess. The near-term legislative path is closed for 2026 — pivot to lining up a 2027 successor bill and building sponsor support, rather than preparing a 2026 ballot initiative.
+- **Action:** Reassess. The near-term legislative path is closed for 2026; pivot to lining up a 2027 successor bill and building sponsor support, rather than preparing a 2026 ballot initiative.
 
 ### HB26-1005 -- Worker Protection Collective Bargaining
 

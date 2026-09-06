@@ -1,5 +1,5 @@
 /**
- * Newsletter signup — Cloudflare Pages Function.
+ * Newsletter signup: Cloudflare Pages Function.
  *
  * When forking for another city, update the constants below.
  * These mirror values in src/config/site.ts but are duplicated here because

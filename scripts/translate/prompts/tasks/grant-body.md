@@ -6,11 +6,11 @@ Guidelines:
 
 - Maintain the formal, technical tone throughout
 - Preserve ALL markdown formatting exactly
-- Preserve ALL links — translate link text but keep URLs as-is
+- Preserve ALL links: translate link text but keep URLs as-is
 - Keep all statistics, dollar amounts, percentages, dates, and timelines exactly as-is
 - Keep ALL organization and agency names in English (HUD, FEMA, USDOT, EPA, etc.)
 - Keep ALL program names in English (Continuum of Care, BEAD, SS4A, BRIC, HOME, etc.)
-- Keep grant-specific terminology in English where standard (e.g., "NOFO", "match requirement", "period of performance") — add translated explanation in parentheses on first use
+- Keep grant-specific terminology in English where standard (e.g., "NOFO", "match requirement", "period of performance"): add translated explanation in parentheses on first use
 - Keep section labels like "Project Narrative", "Budget Justification" in English, with translation in parentheses
 
-Output ONLY the translated markdown — no preamble, no explanation.
+Output ONLY the translated markdown, with no preamble and no explanation.

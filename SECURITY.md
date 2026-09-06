@@ -35,7 +35,7 @@ This policy covers:
 
 - Denial of service attacks
 - Social engineering
-- Issues in third-party services we use (Cloudflare, vAPI, Resend) — report those to the respective vendors
+- Issues in third-party services we use (Cloudflare, vAPI, Resend): report those to the respective vendors
 - Issues requiring physical access
 
 ## Sensitive Data

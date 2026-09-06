@@ -1,4 +1,4 @@
-# Image generation prompts — Denver For All
+# Image generation prompts: Denver For All
 
 These prompts regenerate the 13 category images in `public/og/` (`housing.png`,
 `labor.png`, etc.) in a **single, cohesive stylized-illustration style** so the
@@ -56,7 +56,7 @@ glossy plastic, AI sheen, watermark, signature, frame, border.
 
 > Each line below is the **scene**. Final prompt = Shared style block + scene + Negative block.
 
-### `housing.png` — Housing & Homelessness
+### `housing.png`: Housing & Homelessness
 ```
 A welcoming block of mixed-income Denver row houses and small apartment
 buildings in brick and warm tones, neighbors of different ages talking on
@@ -64,15 +64,15 @@ front stoops and a shared community garden, the gold-domed Colorado Capitol
 and Front Range mountains softly in the background.
 ```
 
-### `labor.png` — Workers & Wages
+### `labor.png`: Workers & Wages
 ```
-A diverse group of Denver workers standing together with quiet confidence —
-a transit operator, a nurse, a construction worker, a cook, a teacher —
+A diverse group of Denver workers standing together with quiet confidence , 
+a transit operator, a nurse, a construction worker, a cook, a teacher , 
 in front of Union Station's clock tower, morning light, sense of solidarity
 and fair pay.
 ```
 
-### `health.png` — Healthcare
+### `health.png`: Healthcare
 ```
 A bright neighborhood community health clinic with patients and a caregiver,
 a parent holding a child, an older adult being supported, calm and reassuring,
@@ -80,35 +80,35 @@ Front Range mountains visible through large windows, medical care framed as a
 right rather than a transaction.
 ```
 
-### `climate.png` — Climate & Environment
+### `climate.png`: Climate & Environment
 ```
 A clear-skied Denver with the South Platte River greenway, leafy trees, rooftop
 solar panels and a wind turbine on the horizon, people biking and walking,
 the Rocky Mountains crisp and clean in the distance, optimistic green future.
 ```
 
-### `safety.png` — Public Safety
+### `safety.png`: Public Safety
 ```
 Two unarmed community crisis responders in calm conversation with a resident on
 a Denver sidewalk, warm body language, a neighborhood street with trees and a
 light-rail line behind them, care-first public safety, de-escalation not force.
 ```
 
-### `education.png` — Education
+### `education.png`: Education
 ```
 A vibrant public school / childcare scene with young children and an educator
 reading together, parents at pickup, a colorful playground, the Front Range
 behind the school building, joyful and equitable learning.
 ```
 
-### `immigration.png` — Immigration
+### `immigration.png`: Immigration
 ```
 A warm welcome-center scene where Denver residents help newly arrived immigrant
 families, sharing food and paperwork at a community table, flags subtle and
 inclusive, multilingual welcome, dignity and belonging, mountains beyond.
 ```
 
-### `infrastructure.png` — Infrastructure
+### `infrastructure.png`: Infrastructure
 ```
 Denver public infrastructure working for everyone: an RTD light-rail train,
 a well-maintained sidewalk and protected bike lane, fiber/broadband lines,
@@ -116,37 +116,37 @@ people of all abilities moving through the city, Union Station and the Front
 Range in the background.
 ```
 
-### `justice.png` — Criminal Justice
+### `justice.png`: Criminal Justice
 ```
 A balanced, hopeful scene of community-based justice and reentry support in
-Denver — a mentor and a young person, a community center, open hands and an
+Denver, a mentor and a young person, a community center, open hands and an
 abstract motif of scales rebalancing toward fairness, warm and restorative,
 not punitive.
 ```
 
-### `democracy.png` — Democracy & Governance
+### `democracy.png`: Democracy & Governance
 ```
 Denver residents participating in local democracy: neighbors at a participatory
 budgeting / town-hall meeting raising hands and voting, a ballot box, diverse
 community members shaping decisions together, the gold-domed Capitol behind them.
 ```
 
-### `economy.png` — Economy & Business
+### `economy.png`: Economy & Business
 ```
-A thriving local Denver small-business street — a worker-owned cooperative
+A thriving local Denver small-business street, a worker-owned cooperative
 storefront, a public-banking branch, a farmers market, neighbors shopping and
 exchanging, community wealth circulating locally, mountains at the end of the
 street.
 ```
 
-### `community.png` — Community & Culture
+### `community.png`: Community & Culture
 ```
 A joyful Denver block party / cultural festival in a neighborhood park, music,
 shared food, art and murals, families and elders and kids of many backgrounds
 celebrating together, string lights, the Front Range glowing at golden hour.
 ```
 
-### `default.png` — Generic social-share fallback
+### `default.png`: Generic social-share fallback
 ```
 An iconic stylized Denver skyline at the foot of the snow-capped Rocky Mountain
 Front Range under a wide blue Colorado sky, the gold-domed Capitol and a

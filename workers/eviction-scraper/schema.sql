@@ -1,4 +1,4 @@
--- Denver Eviction Tracker — D1 Database Schema
+-- Denver Eviction Tracker: D1 Database Schema
 -- Run with: wrangler d1 execute eviction-data --file=./schema.sql
 
 CREATE TABLE IF NOT EXISTS eviction_filings (

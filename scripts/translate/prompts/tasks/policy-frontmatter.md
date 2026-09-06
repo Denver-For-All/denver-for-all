@@ -13,4 +13,4 @@ Guidelines:
 - keyStats labels and context should be clear and factual
 - Source citations: translate descriptive text but keep organization names and years as-is
 
-Output ONLY the JSON — no markdown code fences, no explanation.
+Output ONLY the JSON, with no markdown code fences and no explanation.

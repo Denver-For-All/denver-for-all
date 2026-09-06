@@ -1,4 +1,4 @@
-# Movement Voter Project — Partner Application
+# Movement Voter Project: Partner Application
 
 **Website:** https://movement.vote/
 **What:** Funds local organizing and movement-building groups; $3M+ baseline investment
@@ -8,7 +8,7 @@
 
 ## Partner Application Letter
 
-**Subject:** Partner Application — Denver For All (Denver, CO)
+**Subject:** Partner Application, Denver For All (Denver, CO)
 
 Dear Movement Voter Project team,
 
@@ -38,10 +38,10 @@ We currently reach ~600 unique visitors per week and are growing through grassro
 
 ### Our Theory of Change
 
-1. **Research builds credibility** — Evidence-based proposals give council members, advocates, and media the substance they need to act
-2. **Tools build power** — Free civic tools (eviction data, campaign finance transparency, candidate accountability) shift information asymmetry from institutions to residents
-3. **Organizing builds movements** — Grassroots outreach, Resistbot campaigns, and community engagement translate research into political pressure
-4. **Elections build governance** — Candidate accountability trackers and nonpartisan voter education ensure the 2027 election produces a council that acts
+1. **Research builds credibility**: Evidence-based proposals give council members, advocates, and media the substance they need to act
+2. **Tools build power**: Free civic tools (eviction data, campaign finance transparency, candidate accountability) shift information asymmetry from institutions to residents
+3. **Organizing builds movements**: Grassroots outreach, Resistbot campaigns, and community engagement translate research into political pressure
+4. **Elections build governance**: Candidate accountability trackers and nonpartisan voter education ensure the 2027 election produces a council that acts
 
 ### What Partnership Would Enable
 
@@ -65,7 +65,7 @@ We currently reach ~600 unique visitors per week and are growing through grassro
 ### Values Alignment
 
 - **Grassroots-funded:** No corporate money, ever
-- **Community-led:** Built by tenants, workers, and neighbors — not consultants
+- **Community-led:** Built by tenants, workers, and neighbors, not consultants
 - **Racially equitable:** Bilingual platform centering communities most impacted by displacement
 - **Open source:** All research, tools, and code publicly available for replication
 

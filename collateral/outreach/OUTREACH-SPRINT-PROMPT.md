@@ -11,15 +11,15 @@ Run this prompt with Claude to generate actionable outreach assets in a single s
 1. Give Claude access to this repository
 2. Point it at this file and say "run this"
 3. Claude will produce deliverables one at a time, committing each to `collateral/outreach/`
-4. You don't need Claude to read all policy files upfront — it should sample randomly and pull specific policies as needed per deliverable
+4. You don't need Claude to read all policy files upfront, it should sample randomly and pull specific policies as needed per deliverable
 
 **Output files** (created in `collateral/outreach/`):
 
-- `facebook-group-recommendations.md` — Deliverable 1
-- `comment-spears.md` — Deliverable 2
-- `op-ed.md` — Deliverable 3
-- `one-pager.md` — Deliverable 4
-- `resistbot-campaign.md` — Deliverable 5
+- `facebook-group-recommendations.md`: Deliverable 1
+- `comment-spears.md`: Deliverable 2
+- `op-ed.md`: Deliverable 3
+- `one-pager.md`: Deliverable 4
+- `resistbot-campaign.md`: Deliverable 5
 
 ---
 
@@ -29,11 +29,11 @@ You are an outreach strategist for a grassroots political platform with data-dri
 
 **Required reading (read all before producing any output):**
 
-1. `OUTREACH-PLAYBOOK.md` — Channel strategies, rules of engagement, sample content, tone guidelines
-2. `REDDIT-COMMENTS.md` — Comment voice and data-citation standards
-3. `COMMUNICATIONS-REVIEW.md` — Current gaps and priorities
-4. `collateral/outreach/news-comment-strategy-assessment.md` — Rules for when and how to engage on news stories
-5. `src/pages/tools/resistbot.astro` — Existing Resistbot campaign format and content
+1. `OUTREACH-PLAYBOOK.md`: Channel strategies, rules of engagement, sample content, tone guidelines
+2. `REDDIT-COMMENTS.md`: Comment voice and data-citation standards
+3. `COMMUNICATIONS-REVIEW.md`: Current gaps and priorities
+4. `collateral/outreach/news-comment-strategy-assessment.md`: Rules for when and how to engage on news stories
+5. `src/pages/tools/resistbot.astro`: Existing Resistbot campaign format and content
 6. Randomly sample 5-8 policy files in `src/content/policies/` to get grounded in the data and voice, then pull specific policies as needed for each deliverable
 
 **Voice and standards (non-negotiable):**
@@ -42,7 +42,7 @@ You are an outreach strategist for a grassroots political platform with data-dri
 - Every public-facing comment must include at least ONE specific statistic with year, ONE proof city or international comparison, and ONE city-specific data point
 - No campaign-speak. No vague aspirational language ("We should push for..."). Concrete mechanisms, dollar amounts, and named examples only
 - Light profanity is acceptable in informal channels (Reddit, Facebook comments). Keep op-eds clean
-- Lead with the problem and data, not the organization. The platform is the "if you want more" — never the headline
+- Lead with the problem and data, not the organization. The platform is the "if you want more": never the headline
 - When pivoting from a news story to a policy position, the connection must be direct and obvious. If the pivot requires the words "children" or "community" to do all the bridging work, the connection is too tenuous. Only comment on stories where you have subject-matter standing
 
 ---
@@ -70,7 +70,7 @@ Research and recommend specific Facebook groups to join for outreach. For each g
 1. **General city community groups** (large, high-activity forums where cost-of-living, city services, and local politics are discussed)
 2. **Renter and housing groups** (tenant issues, landlord complaints, housing search)
 3. **Parent and family groups** (childcare costs, school quality, family affordability)
-4. **Neighborhood-specific groups** — identify your city's priority neighborhoods by:
+4. **Neighborhood-specific groups**: identify your city's priority neighborhoods by:
    - High displacement risk
    - High renter density
    - Underserved areas
@@ -80,7 +80,7 @@ Research and recommend specific Facebook groups to join for outreach. For each g
 
 For each category, recommend 2-4 specific groups. Use your knowledge of the city's Facebook group landscape. Where you can't identify a specific group name, describe the type of group to search for with suggested search terms.
 
-After the recommendations, provide a **prioritized join order** — which 5 groups to join first and why, based on the intersection of group activity, policy alignment, and where the platform's data adds the most unique value.
+After the recommendations, provide a **prioritized join order**: which 5 groups to join first and why, based on the intersection of group activity, policy alignment, and where the platform's data adds the most unique value.
 
 ---
 
@@ -88,40 +88,40 @@ After the recommendations, provide a **prioritized join order** — which 5 grou
 
 **Output file:** `collateral/outreach/comment-spears.md`
 
-Create 12 pre-written "spears" — data-loaded comments ready to deploy when specific types of local news stories appear. Each spear should be a complete, ready-to-post comment that can be dropped (with minor customization) on a relevant local news outlet story.
+Create 12 pre-written "spears": data-loaded comments ready to deploy when specific types of local news stories appear. Each spear should be a complete, ready-to-post comment that can be dropped (with minor customization) on a relevant local news outlet story.
 
 **Format for each spear:**
 
 ```
 ### Spear [#]: [Name]
-**Deploy when:** [Specific trigger — what kind of story or headline activates this spear]
+**Deploy when:** [Specific trigger, what kind of story or headline activates this spear]
 **Policy connection:** [Which policy/policies this connects to]
 **Target outlets:** [Which local news outlets most commonly run this type of story]
 
 **The comment:**
 > [Ready-to-post comment text, 80-150 words, meeting all data standards]
 
-**Customization notes:** [What to adjust based on the specific story — names, dates, specific numbers to update]
+**Customization notes:** [What to adjust based on the specific story, names, dates, specific numbers to update]
 **Link to include (if engagement warrants):** [Specific platform URL]
-**Related tool to mention:** [If applicable — eviction tracker, rent calculator, etc.]
+**Related tool to mention:** [If applicable, eviction tracker, rent calculator, etc.]
 ```
 
 **Required spear topics (create one for each):**
 
-1. **Rent increase / housing cost story** — Deploy rent stabilization data
-2. **Eviction story** — Deploy eviction data with tracker link
-3. **Homelessness / sweep story** — Deploy Housing First data with proof-city comparisons
-4. **Wage / cost-of-living story** — Deploy living wage data
-5. **Medical debt / hospital billing story** — Deploy medical debt forgiveness data
-6. **Mental health / police response story** — Deploy crisis response program data
-7. **Broadband / internet complaint story** — Deploy municipal broadband data
-8. **Childcare / education cost story** — Deploy universal childcare data
-9. **Immigration enforcement story** — Deploy sanctuary and immigrant protection data
-10. **Surveillance / policing story** — Deploy oversight and accountability data
-11. **Development / gentrification story** — Deploy anti-displacement and social housing data
-12. **Infrastructure / sidewalk / transit story** — Deploy pedestrian and transit data
+1. **Rent increase / housing cost story**: Deploy rent stabilization data
+2. **Eviction story**: Deploy eviction data with tracker link
+3. **Homelessness / sweep story**: Deploy Housing First data with proof-city comparisons
+4. **Wage / cost-of-living story**: Deploy living wage data
+5. **Medical debt / hospital billing story**: Deploy medical debt forgiveness data
+6. **Mental health / police response story**: Deploy crisis response program data
+7. **Broadband / internet complaint story**: Deploy municipal broadband data
+8. **Childcare / education cost story**: Deploy universal childcare data
+9. **Immigration enforcement story**: Deploy sanctuary and immigrant protection data
+10. **Surveillance / policing story**: Deploy oversight and accountability data
+11. **Development / gentrification story**: Deploy anti-displacement and social housing data
+12. **Infrastructure / sidewalk / transit story**: Deploy pedestrian and transit data
 
-For each spear, read the corresponding policy file(s) in `src/content/policies/` to pull the strongest, most current data points. Do not use data that isn't in the policy files — these have been vetted and sourced.
+For each spear, read the corresponding policy file(s) in `src/content/policies/` to pull the strongest, most current data points. Do not use data that isn't in the policy files, these have been vetted and sourced.
 
 ---
 
@@ -131,9 +131,9 @@ For each spear, read the corresponding policy file(s) in `src/content/policies/`
 
 Analyze the current news cycle, the political calendar, and the existing op-ed samples in `OUTREACH-PLAYBOOK.md`. Then:
 
-1. **Recommend which op-ed to write first** and why — considering:
+1. **Recommend which op-ed to write first** and why, considering:
    - Current news hooks (what local stories are breaking right now that create an opening?)
-   - Current legislative session (which bills are in committee and need public pressure?) — check for a bills alignment file (e.g., `CO-BILLS-2026-ALIGNMENT.md` or similar)
+   - Current legislative session (which bills are in committee and need public pressure?): check for a bills alignment file (e.g., `CO-BILLS-2026-ALIGNMENT.md` or similar)
    - Upcoming election cycle (which issues will define races?)
    - Which policies have the strongest data and would be most credible to an editorial board?
    - Which topics are NOT already being covered by other local advocacy orgs?
@@ -156,7 +156,7 @@ Analyze the current news cycle, the political calendar, and the existing op-ed s
 
 Review the planned one-pagers in `OUTREACH-PLAYBOOK.md` Section 6. Then:
 
-1. **Recommend which one-pager to create first** and why — considering:
+1. **Recommend which one-pager to create first** and why, considering:
    - Which policy has the most shareable, jaw-dropping data points?
    - Which topic comes up most in the Facebook groups, Reddit threads, and news stories where the platform engages?
    - Which one-pager would be most useful to community partner organizations?
@@ -165,15 +165,15 @@ Review the planned one-pagers in `OUTREACH-PLAYBOOK.md` Section 6. Then:
 2. **Write the full one-pager content** following the spec in Section 6 of the playbook:
 
 ```
-HEADLINE: [Problem in one sentence — large, bold, provocative]
+HEADLINE: [Problem in one sentence, large, bold, provocative]
 
 THREE NUMBERS:
-[Number 1] — [What it means in one line]
-[Number 2] — [What it means in one line]
-[Number 3] — [What it means in one line]
+[Number 1], [What it means in one line]
+[Number 2], [What it means in one line]
+[Number 3], [What it means in one line]
 
 WHAT WE PROPOSE:
-- [Bullet 1 — plain language, no jargon, specific mechanism]
+- [Bullet 1: plain language, no jargon, specific mechanism]
 - [Bullet 2]
 - [Bullet 3]
 - [Bullet 4 if needed]
@@ -202,7 +202,7 @@ Review all existing campaigns in `src/pages/tools/resistbot.astro`. Then review 
 
 - **Which policies have active legislative hooks?** (A bill in the current session, a city council vote coming up, a budget request pending)
 - **Which policies have the most emotional resonance with the broadest audience?** (Medical debt, childcare costs, healthcare access affect nearly everyone)
-- **Which campaigns would target officials who aren't already targeted by existing campaigns?** (Most existing campaigns target state legislators or the mayor. Are there gaps — city council, federal delegation, specific agencies?)
+- **Which campaigns would target officials who aren't already targeted by existing campaigns?** (Most existing campaigns target state legislators or the mayor. Are there gaps, city council, federal delegation, specific agencies?)
 - **Which policies have the strongest data for a compelling letter?** (The letter needs to be persuasive in 150-300 words)
 
 Then:
@@ -234,4 +234,4 @@ LETTER TEXT (Spanish):
 
 Produce deliverables one at a time. Commit each deliverable to its output file before starting the next. For each deliverable, show your reasoning before the final output so the operator can evaluate strategic thinking, not just the content.
 
-After all 5 deliverables, provide a **"Next 3 Actions" summary** — the three highest-leverage things to do immediately after this session (beyond the assets produced here).
+After all 5 deliverables, provide a **"Next 3 Actions" summary**: the three highest-leverage things to do immediately after this session (beyond the assets produced here).

@@ -1,4 +1,4 @@
-# Denver For All — Organizational Profile
+# Denver For All: Organizational Profile
 
 _Reusable core description for grant applications, fiscal sponsorship, and outreach._
 
@@ -15,17 +15,17 @@ Denver For All (DenverForAll.org)
 
 ## Mission Statement
 
-Denver For All is a grassroots political organization building power for working people in Denver. We are tenants, workers, parents, organizers, and neighbors who believe that Denver should work for every one of its residents — especially those being squeezed by rising costs.
+Denver For All is a grassroots political organization building power for working people in Denver. We are tenants, workers, parents, organizers, and neighbors who believe that Denver should work for every one of its residents, especially those being squeezed by rising costs.
 
 ## Core Beliefs
 
 1. Housing is a human right, not a commodity
-2. Every worker deserves a living wage — no exceptions, no tipped minimums
+2. Every worker deserves a living wage: no exceptions, no tipped minimums
 3. Healthcare should not bankrupt you
 4. People experiencing addiction need treatment, not prison
 5. Immigrants are our neighbors and deserve protection, not persecution
-6. Public money should serve the public — not corporations
-7. Democracy means more than voting every four years — it means power in the hands of the people
+6. Public money should serve the public: not corporations
+7. Democracy means more than voting every four years, it means power in the hands of the people
 
 ## What We Do
 
@@ -37,14 +37,14 @@ Denver For All is a grassroots political organization building power for working
 
 ## Interactive Civic Tools
 
-1. **Eviction Tracker** — Real-time eviction data by landlord and neighborhood with tenant defense resources (data: Princeton Eviction Lab, Colorado Judicial Branch)
-2. **Rent Calculator** — Interactive tool showing household savings under proposed rent stabilization (CPI or 3%, whichever lower)
-3. **Follow the Money** — Council voting scorecard and campaign finance transparency tracker (data: Colorado TRACER, Denver Clerk & Recorder, SearchLight Denver)
-4. **Know Your Rights Chatbot** — 24/7 AI-powered tenant rights assistance in English and Spanish, accessible by phone
-5. **Sidewalk Data Explorer** — Maps the 43% of Denver sidewalks that are missing or deficient
-6. **Council Candidate Tracker** — Standardized 10-question survey for all 2027 council candidates
-7. **Mayoral Tracker** — Executive power questions for 2027 mayoral candidates
-8. **Money in Denver Politics** — Interactive data story showing 380% increase in outside spending (2019–2023) and real estate PAC influence
+1. **Eviction Tracker**: Real-time eviction data by landlord and neighborhood with tenant defense resources (data: Princeton Eviction Lab, Colorado Judicial Branch)
+2. **Rent Calculator**: Interactive tool showing household savings under proposed rent stabilization (CPI or 3%, whichever lower)
+3. **Follow the Money**: Council voting scorecard and campaign finance transparency tracker (data: Colorado TRACER, Denver Clerk & Recorder, SearchLight Denver)
+4. **Know Your Rights Chatbot**: 24/7 AI-powered tenant rights assistance in English and Spanish, accessible by phone
+5. **Sidewalk Data Explorer**: Maps the 43% of Denver sidewalks that are missing or deficient
+6. **Council Candidate Tracker**: Standardized 10-question survey for all 2027 council candidates
+7. **Mayoral Tracker**: Executive power questions for 2027 mayoral candidates
+8. **Money in Denver Politics**: Interactive data story showing 380% increase in outside spending (2019–2023) and real estate PAC influence
 
 ## Policy Platform Scope
 
@@ -65,14 +65,14 @@ Denver For All is a grassroots political organization building power for working
 
 ## Legislative Readiness
 
-**Tier 1 — File Tomorrow (10 proposals with clear city council authority):**
+**Tier 1, File Tomorrow (10 proposals with clear city council authority):**
 Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Transparency, Participatory Budgeting, Anti-Retaliation Protections for Tenants, Source-of-Income Discrimination Ban, Right to Disconnect, 32-Hour Work Week Pilot, Vacancy Registry
 
-**Tier 2 — Ballot Measure Required:** Vacancy Tax, Social Housing Bond Authority
+**Tier 2, Ballot Measure Required:** Vacancy Tax, Social Housing Bond Authority
 
-**Tier 3 — State Legislation Required:** Rent Stabilization, Sectoral Bargaining, Works Councils, Corporate Landlord Ban
+**Tier 3, State Legislation Required:** Rent Stabilization, Sectoral Bargaining, Works Councils, Corporate Landlord Ban
 
-**Tier 4 — Federal Dependency:** Drug Decriminalization, Immigration Enforcement
+**Tier 4, Federal Dependency:** Drug Decriminalization, Immigration Enforcement
 
 ## Federal Grant Templates
 
@@ -96,7 +96,7 @@ Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Tr
 - **MIT Living Wage (2 adults, 2 children):** $25–26/hr needed
 - **Eviction filings:** ~150,000 statewide (2017–2021, Enterprise Community Partners)
 - **Sidewalks missing/deficient:** 43%
-- **Municipal broadband voter approval (2018):** 85% — still not built
+- **Municipal broadband voter approval (2018):** 85%, still not built
 - **STAR program calls responded to:** 23,000+ since 2022
 - **STAR arrest reduction:** 16% (Urban Institute, 2026); 2–3x larger for homeless populations
 - **Outside spending in Denver elections:** Up 380% from 2019–2023
@@ -124,18 +124,18 @@ Medical Debt Forgiveness, Municipal ID, STAR Program Expansion, Hospital Cost Tr
 
 ## Transparency & Values
 
-- **100% open source** — all policy research, tools, and code publicly available
-- **No corporate money** — funded entirely by grassroots support
-- **Public domain policy content** — explicitly designed to be forked by movements in other cities
-- **Radical transparency** — all proposals public, all tools free, all candidate responses unedited
+- **100% open source**: all policy research, tools, and code publicly available
+- **No corporate money**: funded entirely by grassroots support
+- **Public domain policy content**: explicitly designed to be forked by movements in other cities
+- **Radical transparency**: all proposals public, all tools free, all candidate responses unedited
 
 ## What Funding Supports
 
-Every dollar donated to Denver For All directly supports hard costs — visible on our [Open Collective public ledger](https://opencollective.com/denver-for-all):
+Every dollar donated to Denver For All directly supports hard costs, visible on our [Open Collective public ledger](https://opencollective.com/denver-for-all):
 
-- **AI-powered policy research** — Claude API tokens producing evidence-based policy proposals
-- **Resistbot amplification** — petition campaign promotion driving grassroots engagement with elected officials
-- **Data visualizations** — better charts, maps, and interactive dashboards for civic tools
-- **Tenant rights chatbot** — 24/7 English/Spanish voice AI tenant assistance
-- **Bilingual access** — Spanish translations ensuring all Denver residents can engage
-- **Hosting and infrastructure** — keeping 8 civic tools and 47 policy proposals online
+- **AI-powered policy research**: Claude API tokens producing evidence-based policy proposals
+- **Resistbot amplification**: petition campaign promotion driving grassroots engagement with elected officials
+- **Data visualizations**: better charts, maps, and interactive dashboards for civic tools
+- **Tenant rights chatbot**: 24/7 English/Spanish voice AI tenant assistance
+- **Bilingual access**: Spanish translations ensuring all Denver residents can engage
+- **Hosting and infrastructure**: keeping 8 civic tools and 47 policy proposals online

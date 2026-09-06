@@ -7,7 +7,7 @@ A grassroots political platform and organizing toolkit for economic justice in D
 Denver For All is an open-source campaign framework that combines:
 
 - **49 data-driven policy proposals** across housing, labor, health, climate, public safety, education, and more
-- **11 interactive tools** for holding power accountable — eviction tracker, campaign finance transparency, public-record candidate guides, data stories, rent calculator, tenant rights guide, and more
+- **11 interactive tools** for holding power accountable, eviction tracker, campaign finance transparency, public-record candidate guides, data stories, rent calculator, tenant rights guide, and more
 - **Organizing infrastructure** (volunteer signup, candidate recruitment, newsletter, Signal group, Resistbot petitions)
 - **Bilingual support** (English/Spanish) with full policy translations using i18n directory structure
 
@@ -86,7 +86,7 @@ For detailed setup instructions covering email routing, newsletter capture, Goog
 | **Rent Control Calculator**         | Interactive           | Enter your rent and see savings under proposed rent stabilization, with shareable social graphics        |
 | **Follow the Money**                | Data + Accountability | Council voting scorecard on progressive priorities with campaign contribution search links               |
 | **Know Your Rights**                | Resource Guide        | Quick answers on Colorado tenant law plus Denver/Colorado help resources, in English and Spanish         |
-| **Council Candidate Tracker**       | 2027 Election         | Same 10 questions sent to every City Council candidate — answers and silences published unedited         |
+| **Council Candidate Tracker**       | 2027 Election         | Same 10 questions sent to every City Council candidate, answers and silences published unedited          |
 | **Mayoral Tracker**                 | 2027 Election         | 10 questions on executive power sent to every declared mayoral candidate                                 |
 | **Money in Denver Politics**        | Data Story            | Scrollytelling on outside spending, billionaire donors, real estate PACs, and the Fair Elections Fund    |
 | **Sidewalk Data Explorer**          | Data Story            | Scrollytelling on missing and deficient sidewalks, dangerous streets, and transit access gaps            |
@@ -128,17 +128,17 @@ To report a security vulnerability, see [SECURITY.md](SECURITY.md). Do not open 
 
 ## Annual Operating Cost
 
-| Item                                                      | Cost               |
-| --------------------------------------------------------- | ------------------ |
-| Domain                                                    | $10-12             |
-| Cloudflare Pages hosting                                  | Free               |
-| Cloudflare Workers (free tier)                            | Free               |
-| Email routing                                             | Free               |
-| Resend (transactional email)                              | Free tier          |
-| Claude API tokens (optional — policy research & analysis) | $0-4,800           |
-| Resistbot amplification (optional — petition campaigns)   | $0-4,800           |
-| **Total (core)**                                          | **$10-12/year**    |
-| **Total (with optional tools)**                           | **$10-9,612/year** |
+| Item                                                     | Cost               |
+| -------------------------------------------------------- | ------------------ |
+| Domain                                                   | $10-12             |
+| Cloudflare Pages hosting                                 | Free               |
+| Cloudflare Workers (free tier)                           | Free               |
+| Email routing                                            | Free               |
+| Resend (transactional email)                             | Free tier          |
+| Claude API tokens (optional, policy research & analysis) | $0-4,800           |
+| Resistbot amplification (optional, petition campaigns)   | $0-4,800           |
+| **Total (core)**                                         | **$10-12/year**    |
+| **Total (with optional tools)**                          | **$10-9,612/year** |
 
 ## Support
 

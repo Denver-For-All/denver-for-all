@@ -115,7 +115,7 @@ const ogLocale = ogLocaleMap[lang];
     <title>{fullTitle}</title>
     {lang === DEFAULT_LOCALE && (
       <script is:inline define:vars={{ codes: LOCALES.map((l) => l.code).filter((c) => c !== DEFAULT_LOCALE) }}>
-        // User landed on a default-locale page but prefers another language —
+        // User landed on a default-locale page but prefers another language,
         // redirect to the prefixed version of the same path.
         (function () {
           var stored = localStorage.getItem('dfa-locale');

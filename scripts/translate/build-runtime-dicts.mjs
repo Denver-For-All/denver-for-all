@@ -7,7 +7,7 @@
  * non-en/es locale. Strings absent from a locale fall back to English at
  * runtime, so partial coverage is safe to ship.
  *
- * This curated set covers the site's UI vocabulary — navigation, buttons,
+ * This curated set covers the site's UI vocabulary: navigation, buttons,
  * headings, tool names, form fields, CTAs, and footer. Long-form editorial
  * content (candidate biographies, detailed policy paragraphs, and data
  * citations) is intentionally left to the Gemini translation pipeline

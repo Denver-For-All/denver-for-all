@@ -8,5 +8,5 @@ Language-specific guidelines:
 - "Denver For All" → keep as "Denver For All" (do not translate the project name)
 - For section headings like "The Problem" / "Our Solution" / "How We Pay For It", use: "问题" / "我们的解决方案" / "资金来源"
 - For U.S.-specific terms, use standard Chinese translations used by Chinese-language media in the US (e.g., "City Council" → "市议会", "Mayor" → "市长", "county" → "县")
-- Keep monetary amounts in USD format ($XX,XXX) — do not convert to RMB
-- Chinese text is typically more compact than English — this is expected, do not pad
+- Keep monetary amounts in USD format ($XX,XXX); do not convert to RMB
+- Chinese text is typically more compact than English; this is expected, do not pad

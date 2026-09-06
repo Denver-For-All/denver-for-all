@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 /**
- * hydrate.js — Place translated content into the Denver For All codebase
+ * hydrate.js: Place translated content into the Denver For All codebase
  *
  * Takes the output from translate.js and writes it into the correct locations:
  *   - UI strings  → src/i18n/<lang>.json
  *   - Page meta   → merged into src/i18n/page-meta.ts (prints instructions)
  *   - Policy FM   → prints per-policy frontmatter fields to add
  *   - Policy body → src/content/policies-<lang>/<slug>.md
- *   - Grant body  → (informational — grants are English-only for now)
+ *   - Grant body  → (informational: grants are English-only for now)
  *
  * Usage:
  *   node scripts/translate/hydrate.js               # Hydrate all languages
@@ -15,7 +15,7 @@
  *   node scripts/translate/hydrate.js --dry-run      # Show what would be written
  *   node scripts/translate/hydrate.js --source translations/incoming  # Custom source dir
  *
- * This script is safe to run multiple times — it overwrites existing files.
+ * This script is safe to run multiple times; it overwrites existing files.
  */
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'fs';
@@ -42,7 +42,7 @@ const langs = langFilter ? [langFilter] : Object.keys(LANGUAGES);
 let filesWritten = 0;
 
 console.log('═══════════════════════════════════════════════════════');
-console.log('  Denver For All — Hydrate Translations');
+console.log('  Denver For All: Hydrate Translations');
 console.log(`  Source: ${OUTPUT}`);
 console.log(`  Mode: ${dryRun ? 'DRY RUN' : 'LIVE'}`);
 console.log('═══════════════════════════════════════════════════════\n');
@@ -50,7 +50,7 @@ console.log('══════════════════════�
 for (const lang of langs) {
   const langDir = join(OUTPUT, lang);
   if (!existsSync(langDir)) {
-    console.log(`⚠ No output found for ${lang} — skipping`);
+    console.log(`⚠ No output found for ${lang}, skipping`);
     continue;
   }
 
@@ -72,7 +72,7 @@ for (const lang of langs) {
     }
   }
 
-  // 2. Page Meta — can't auto-merge into TypeScript, so generate the snippet
+  // 2. Page Meta: can't auto-merge into TypeScript, so generate the snippet
   const metaFile = join(langDir, 'page-meta.json');
   if (existsSync(metaFile)) {
     const meta = JSON.parse(readFileSync(metaFile, 'utf8'));
@@ -102,7 +102,7 @@ for (const lang of langs) {
     console.log(`  ✓ Policy bodies → ${rel(destDir)}/ (${files.length} files)`);
   }
 
-  // 4. Policy Frontmatter — generate the JSON for reference
+  // 4. Policy Frontmatter: generate the JSON for reference
   const fmFile = join(langDir, 'policy-frontmatter.json');
   if (existsSync(fmFile)) {
     // Save to a reference file alongside the i18n JSONs
@@ -117,7 +117,7 @@ for (const lang of langs) {
     }
   }
 
-  // 5. Grant Bodies — informational
+  // 5. Grant Bodies: informational
   const grantBodiesDir = join(langDir, 'grant-bodies');
   if (existsSync(grantBodiesDir)) {
     const files = readdirSync(grantBodiesDir).filter((f) => f.endsWith('.md'));
@@ -125,7 +125,7 @@ for (const lang of langs) {
       console.log(
         `  ℹ Grant bodies: ${files.length} translated grants available in ${rel(grantBodiesDir)}/`,
       );
-      console.log(`    (Grant translation is optional — these are technical government documents)`);
+      console.log(`    (Grant translation is optional: these are technical government documents)`);
     }
   }
 }
@@ -134,9 +134,9 @@ console.log('\n═════════════════════�
 console.log(`  Hydration complete! ${filesWritten} files written.`);
 console.log('═══════════════════════════════════════════════════════');
 console.log(`\n  Remaining manual steps:`);
-console.log(`  1. Update src/i18n/utils.ts — add new locale imports and expand Locale type`);
-console.log(`  2. Update src/i18n/page-meta.ts — add new locale entries (see output above)`);
-console.log(`  3. Update src/content/config.ts — register new policies-<lang> collections`);
+console.log(`  1. Update src/i18n/utils.ts: add new locale imports and expand Locale type`);
+console.log(`  2. Update src/i18n/page-meta.ts: add new locale entries (see output above)`);
+console.log(`  3. Update src/content/config.ts: register new policies-<lang> collections`);
 console.log(`  4. Review translations, especially Amharic (am), with native speakers`);
 
 // ─── Helpers ────────────────────────────────────────────────────────────────

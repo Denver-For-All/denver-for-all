@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * check-coverage.js — Check translation coverage across all locales
+ * check-coverage.js: Check translation coverage across all locales
  *
  * Compares what exists in the codebase against what should exist:
  * - Are all locale JSON files present? (src/i18n/<lang>.json)
@@ -8,7 +8,7 @@
  * - Are any policy bodies missing for existing locales?
  *
  * Exits with code 0 on success (warnings are OK), code 1 only on hard errors.
- * Designed for CI — outputs GitHub Actions annotations.
+ * Designed for CI: outputs GitHub Actions annotations.
  *
  * Usage:
  *   node scripts/translate/check-coverage.js
@@ -144,7 +144,7 @@ console.log('──────────────────────�
 
 if (warnings > 0 && !isStrict) {
   console.log(
-    '  (Warnings are informational — English fallback will be used for missing translations)',
+    '  (Warnings are informational: English fallback will be used for missing translations)',
   );
   console.log('  Use --strict to treat warnings as errors.');
 }

@@ -9,7 +9,7 @@ import am from './am.json';
 export type Locale = 'en' | 'es' | 'vi' | 'zh' | 'ar' | 'am';
 
 /**
- * Locale registry — the single source of truth for which languages the site
+ * Locale registry: the single source of truth for which languages the site
  * supports. Adding a language means: (1) add an entry here, (2) drop a
  * runtime dictionary at src/i18n/runtime/<code>.json, (3) register its
  * content collection in src/content/config.ts, and (4) run

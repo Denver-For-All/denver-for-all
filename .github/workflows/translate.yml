@@ -163,7 +163,7 @@ jobs:
           ls -la
 
       - name: Validate translations
-        run: node scripts/translate/validate.js || echo "::warning::Validation found issues — review logs above."
+        run: node scripts/translate/validate.js || echo "::warning::Validation found issues, review logs above."
 
       - name: Bundle translations for download
         uses: actions/upload-artifact@v4
@@ -185,7 +185,7 @@ jobs:
           echo "" >> "$GITHUB_STEP_SUMMARY"
           echo "1. Download the **translations-bundle** artifact from this workflow run" >> "$GITHUB_STEP_SUMMARY"
           echo "2. Unzip and copy the language folders into \`translations/incoming/\` in your local repo" >> "$GITHUB_STEP_SUMMARY"
-          echo "3. Run \`npm run build\` — translations are automatically hydrated during the build" >> "$GITHUB_STEP_SUMMARY"
+          echo "3. Run \`npm run build\`: translations are automatically hydrated during the build" >> "$GITHUB_STEP_SUMMARY"
           echo "4. Review the changes, then commit and push" >> "$GITHUB_STEP_SUMMARY"
           echo "" >> "$GITHUB_STEP_SUMMARY"
           echo "Or hydrate manually: \`node scripts/translate/hydrate.js --source translations/incoming\`" >> "$GITHUB_STEP_SUMMARY"

@@ -9,9 +9,9 @@
 
 Denver For All has been commenting on local news outlet Facebook posts (e.g., Denver7) using a three-part structure:
 
-1. **Condemnation** — Express moral outrage about the news story
-2. **Pivot** — Bridge from the story to a broader systemic issue
-3. **Pitch** — Advocate for specific Denver For All policy positions
+1. **Condemnation**: Express moral outrage about the news story
+2. **Pivot**: Bridge from the story to a broader systemic issue
+3. **Pitch**: Advocate for specific Denver For All policy positions
 
 ### Example (Denver7 post on Ghislaine Maxwell refusing to testify without presidential clemency):
 
@@ -37,12 +37,12 @@ The Epstein/Maxwell case is about federal criminal accountability for sex traffi
 
 Compare this to the existing sample comments in the outreach playbook, where every pivot is tight and direct:
 
-| Thread topic         | Policy pitch             | Connection          |
-| -------------------- | ------------------------ | ------------------- |
-| Rent increase notice | Rent stabilization       | Direct — same issue |
-| Broadband complaint  | Municipal broadband      | Direct — same issue |
-| Cost of living       | Living wage              | Direct — same issue |
-| Medical debt post    | Medical debt forgiveness | Direct — same issue |
+| Thread topic         | Policy pitch             | Connection         |
+| -------------------- | ------------------------ | ------------------ |
+| Rent increase notice | Rent stabilization       | Direct, same issue |
+| Broadband complaint  | Municipal broadband      | Direct, same issue |
+| Cost of living       | Living wage              | Direct, same issue |
+| Medical debt post    | Medical debt forgiveness | Direct, same issue |
 
 The Epstein-to-childcare connection requires multiple inferential leaps. The playbook samples require zero.
 
@@ -70,7 +70,7 @@ The outreach playbook and Reddit comment strategy establish a clear identity: _d
 - Denver-specific data points
 - A concrete policy mechanism (not just "we should push for X")
 
-This comment includes none of these. It reads as pure rhetoric — moral outrage followed by vague aspirational language ("We should be pushing for..."). Strip out the Denver For All branding and it could be any advocacy account. The differentiator — rigorous, data-informed policy knowledge — is absent.
+This comment includes none of these. It reads as pure rhetoric, moral outrage followed by vague aspirational language ("We should be pushing for..."). Strip out the Denver For All branding and it could be any advocacy account. The differentiator, rigorous, data-informed policy knowledge, is absent.
 
 **4. Associating the brand with polarized national stories carries risk.**
 
@@ -87,7 +87,7 @@ There is a meaningful difference between:
 - Commenting on a Denver eviction story with tenant rights data (adding value to a discussion you have expertise in)
 - Commenting on a federal sex trafficking story with a childcare pitch (leveraging moral outrage about something unrelated to your platform)
 
-The first demonstrates subject matter authority. The second can come across as ambulance-chasing — using an emotionally charged story as a vehicle for self-promotion, regardless of intent.
+The first demonstrates subject matter authority. The second can come across as ambulance-chasing, using an emotionally charged story as a vehicle for self-promotion, regardless of intent.
 
 **6. This is a national story, not a local one.**
 
@@ -121,7 +121,7 @@ Even a short comment should include at least one specific data point, one proof 
 
 **4. Reserve moral outrage for stories where you have standing.**
 
-Denver For All has standing on housing, wages, healthcare, infrastructure, public safety, immigration, and education _in Denver_. Comment with authority on those topics. On federal criminal cases, the organization is just another voice in a crowd — and the crowd is already loud enough.
+Denver For All has standing on housing, wages, healthcare, infrastructure, public safety, immigration, and education _in Denver_. Comment with authority on those topics. On federal criminal cases, the organization is just another voice in a crowd, and the crowd is already loud enough.
 
 **5. Redirect the energy to creating original content.**
 
@@ -138,4 +138,4 @@ These activities have compounding returns. News comment engagement does not.
 
 ## Summary
 
-The condemnation-pivot-pitch strategy on news outlet posts is an understandable instinct — go where the attention is and redirect it. But it sacrifices Denver For All's core differentiators (data rigor, local expertise, substantive depth) in exchange for low-visibility engagement on stories outside the organization's domain. The existing playbook already contains a stronger Facebook strategy. Execute that first.
+The condemnation-pivot-pitch strategy on news outlet posts is an understandable instinct, go where the attention is and redirect it. But it sacrifices Denver For All's core differentiators (data rigor, local expertise, substantive depth) in exchange for low-visibility engagement on stories outside the organization's domain. The existing playbook already contains a stronger Facebook strategy. Execute that first.

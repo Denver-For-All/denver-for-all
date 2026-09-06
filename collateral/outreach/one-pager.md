@@ -25,7 +25,7 @@ The 6 planned one-pagers from the playbook Section 6 are:
 
 4. **Most useful to community partners:** The healthcare.md policy lists community health organizations (Clinica Tepeyac, Salud Family Health, Denver Health community centers) as natural partners. A medical debt one-pager is something a community health center can hand to a patient. Rent control data is useful to housing advocates; medical debt data is useful to everyone.
 
-5. **Least likely to generate pushback:** Medical debt forgiveness is the closest thing to a "free lunch" in policy — the debt has already been written off by hospitals. The city is buying assets that collectors would buy anyway. The political attack surface is minimal compared to rent control, living wage, or social housing.
+5. **Least likely to generate pushback:** Medical debt forgiveness is the closest thing to a "free lunch" in policy, the debt has already been written off by hospitals. The city is buying assets that collectors would buy anyway. The political attack surface is minimal compared to rent control, living wage, or social housing.
 
 **Topics I passed on for first one-pager:**
 
@@ -47,17 +47,17 @@ $5 Million Can Forgive $500 Million in Medical Debt. Other Cities Already Did It
 
 THREE NUMBERS:
 
-$240 MILLION — Medical debt forgiven in Toledo, Ohio, for a $1.6 million city investment.
+$240 MILLION, Medical debt forgiven in Toledo, Ohio, for a $1.6 million city investment.
 
-530,000 — Americans who go bankrupt from medical bills every year. Every other wealthy country: zero.
+530,000, Americans who go bankrupt from medical bills every year. Every other wealthy country: zero.
 
-1-5¢ — What debt buyers pay per dollar of medical debt. The city buys it at the same price and cancels it.
+1-5¢, What debt buyers pay per dollar of medical debt. The city buys it at the same price and cancels it.
 
 WHAT WE PROPOSE:
 
 - Denver appropriates $5 million to purchase medical debt portfolios at pennies on the dollar, then cancels them. No strings attached. No means testing. Debt gone.
 - Partner with Undue Medical Debt (the nonprofit that's done this in 15+ cities) to execute the buyback.
-- Require Denver Health — a public hospital — to stop sending patients to collections and placing liens on homes.
+- Require Denver Health: a public hospital, to stop sending patients to collections and placing liens on homes.
 - Fund the program annually through hospital impact fees so it's not a one-time gesture.
 
 WHAT OTHER CITIES DID:
@@ -68,7 +68,7 @@ CHICAGO & COOK COUNTY, IL: Launched medical debt relief programs covering millio
 
 WHO PAYS FOR IT:
 
-$5 million from Denver's general fund (the city budget is $1.6 billion+). Annual renewal funded by hospital impact fees. Net cost is negligible — the debt was already written off by hospitals. The city is buying what collectors would buy anyway, and canceling it instead of harassing people.
+$5 million from Denver's general fund (the city budget is $1.6 billion+). Annual renewal funded by hospital impact fees. Net cost is negligible, the debt was already written off by hospitals. The city is buying what collectors would buy anyway, and canceling it instead of harassing people.
 
 LEARN MORE: denverforall.org/platform/healthcare
 
@@ -83,17 +83,17 @@ $5 Millones Pueden Perdonar $500 Millones en Deuda Médica. Otras Ciudades Ya Lo
 
 TRES NÚMEROS:
 
-$240 MILLONES — Deuda médica perdonada en Toledo, Ohio, con una inversión de $1.6 millones de la ciudad.
+$240 MILLONES, Deuda médica perdonada en Toledo, Ohio, con una inversión de $1.6 millones de la ciudad.
 
-530,000 — Estadounidenses que se declaran en bancarrota por facturas médicas cada año. Todos los demás países ricos: cero.
+530,000, Estadounidenses que se declaran en bancarrota por facturas médicas cada año. Todos los demás países ricos: cero.
 
-1-5¢ — Lo que los compradores de deuda pagan por cada dólar de deuda médica. La ciudad la compra al mismo precio y la cancela.
+1-5¢, Lo que los compradores de deuda pagan por cada dólar de deuda médica. La ciudad la compra al mismo precio y la cancela.
 
 LO QUE PROPONEMOS:
 
 - Denver destina $5 millones para comprar carteras de deuda médica a centavos por dólar, y luego las cancela. Sin condiciones. Sin requisitos de ingresos. Deuda eliminada.
 - Asociarse con Undue Medical Debt (la organización sin fines de lucro que ha hecho esto en más de 15 ciudades) para ejecutar la compra.
-- Exigir que Denver Health — un hospital público — deje de enviar pacientes a cobranza y poner gravámenes sobre sus hogares.
+- Exigir que Denver Health: un hospital público, deje de enviar pacientes a cobranza y poner gravámenes sobre sus hogares.
 - Financiar el programa anualmente a través de tarifas de impacto hospitalario para que no sea un gesto único.
 
 LO QUE HICIERON OTRAS CIUDADES:
@@ -104,7 +104,7 @@ CHICAGO Y CONDADO COOK, IL: Lanzaron programas de alivio de deuda médica cubrie
 
 QUIÉN PAGA:
 
-$5 millones del fondo general de Denver (el presupuesto de la ciudad es de más de $1.6 mil millones). Renovación anual financiada por tarifas de impacto hospitalario. El costo neto es insignificante — la deuda ya fue cancelada por los hospitales. La ciudad está comprando lo que los cobradores comprarían de todos modos, y cancelándola en lugar de acosar a la gente.
+$5 millones del fondo general de Denver (el presupuesto de la ciudad es de más de $1.6 mil millones). Renovación anual financiada por tarifas de impacto hospitalario. El costo neto es insignificante, la deuda ya fue cancelada por los hospitales. La ciudad está comprando lo que los cobradores comprarían de todos modos, y cancelándola en lugar de acosar a la gente.
 
 MÁS INFORMACIÓN: denverforall.org/platform/healthcare
 ```
@@ -125,7 +125,7 @@ MÁS INFORMACIÓN: denverforall.org/platform/healthcare
 
 ```
 ┌─────────────────────────────────────────┐
-│  [HEADLINE — large, bold, 2 lines max]  │
+│  [HEADLINE, large, bold, 2 lines max]  │
 │                                         │
 │  ┌───────┐  ┌───────┐  ┌───────┐      │
 │  │ $240M │  │530,000│  │ 1-5¢  │      │
@@ -162,7 +162,7 @@ MÁS INFORMACIÓN: denverforall.org/platform/healthcare
 
 - Lucide `heart-pulse` icon (matches the healthcare policy icon on the site)
 - Consider a simple graphic showing $5M → $500M with an arrow (the ratio is the visual hook)
-- Avoid stock photos of sad patients — this is a data one-pager, not a sympathy appeal
+- Avoid stock photos of sad patients: this is a data one-pager, not a sympathy appeal
 
 **Production options:**
 
@@ -174,4 +174,4 @@ MÁS INFORMACIÓN: denverforall.org/platform/healthcare
 
 - PDF optimized for mobile (under 500KB)
 - Also export as 1080x1080 square PNG for social media sharing
-- Both English and Spanish versions as separate files (not side-by-side on one page — too cramped for mobile reading)
+- Both English and Spanish versions as separate files (not side-by-side on one page, too cramped for mobile reading)

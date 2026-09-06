@@ -6,10 +6,10 @@
  * into structured JSON files that can be fed to Claude Haiku 4.5 for translation.
  *
  * Output: scripts/translate/extracted/
- *   ├── ui-strings.json          (en.json keys — the UI layer)
+ *   ├── ui-strings.json          (en.json keys: the UI layer)
  *   ├── page-meta.json           (SEO titles/descriptions for each page)
  *   ├── policy-frontmatter.json  (titles, summaries, keyStats for all 50 policies)
- *   ├── policy-bodies/           (one .md per policy — the big content)
+ *   ├── policy-bodies/           (one .md per policy: the big content)
  *   │   ├── housing-first.md
  *   │   └── ...
  *   └── grant-frontmatter.json   (titles, summaries for 6 grants)

@@ -38,9 +38,9 @@ Maintainers are obligated to respect the privacy and security of the reporter of
 
 Project maintainers may take any action they deem appropriate, including:
 
-1. **Warning** — A private written warning with clarity about the violation and expected behavior going forward.
-2. **Temporary restriction** — Temporary loss of access to community spaces or interaction channels.
-3. **Permanent ban** — Permanent removal from all project spaces.
+1. **Warning**: A private written warning with clarity about the violation and expected behavior going forward.
+2. **Temporary restriction**: Temporary loss of access to community spaces or interaction channels.
+3. **Permanent ban**: Permanent removal from all project spaces.
 
 ## Attribution
 

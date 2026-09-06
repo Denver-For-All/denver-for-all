@@ -20,13 +20,13 @@
 
 **Pattern:** 9 of 11 target state legislators. 2 target the mayor. Zero target Congress. Zero target city council. 3 cover surveillance, 3 cover housing. Zero cover healthcare, childcare, broadband, or STAR program.
 
-**Recommendation: Medical Debt Forgiveness — targeting the mayor**
+**Recommendation: Medical Debt Forgiveness, targeting the mayor**
 
 **Why this campaign:**
 
 1. **Fills a major policy gap:** Healthcare/medical debt is the platform's strongest policy area for emotional resonance and has zero Resistbot coverage. The communications review specifically flagged expanding Resistbot from 5 to 15-20 campaigns as "the single highest-leverage communications gap."
 
-2. **Targets an underrepresented official:** 9 of 11 campaigns target state legislators. The mayor is targeted by only 2 (Flock cameras and charter reform — both adversarial). A medical debt campaign targeting the mayor is _constructive_ — it asks the mayor to do something popular, not to stop doing something unpopular. This is strategically different. It gives the mayor a win he can take, which increases the odds of action.
+2. **Targets an underrepresented official:** 9 of 11 campaigns target state legislators. The mayor is targeted by only 2 (Flock cameras and charter reform, both adversarial). A medical debt campaign targeting the mayor is _constructive_, it asks the mayor to do something popular, not to stop doing something unpopular. This is strategically different. It gives the mayor a win he can take, which increases the odds of action.
 
 3. **No legislative barrier:** Unlike rent control (blocked by CRS 38-12-301) or broadband (requires capital investment and political will), medical debt forgiveness requires only a city council appropriation. The mayor can champion this with a budget proposal. There is no state preemption, no TABOR issue, no legal obstacle. The mechanism exists (Undue Medical Debt), the precedent exists (15+ cities), and the money exists ($5M from a $1.6B+ budget).
 
@@ -58,7 +58,7 @@ RELATED POLICY: denverforall.org/platform/healthcare
 
 Mayor Johnston,
 
-I urge you to include a $5 million medical debt forgiveness program in Denver's next budget. Cities across the country are partnering with Undue Medical Debt to buy medical debt portfolios at pennies on the dollar — debt buyers pay 1 to 5 cents per dollar — and cancel them outright. Toledo forgave $240 million in medical debt for a $1.6 million city investment. New Orleans forgave $130 million. Chicago and Cook County have done the same.
+I urge you to include a $5 million medical debt forgiveness program in Denver's next budget. Cities across the country are partnering with Undue Medical Debt to buy medical debt portfolios at pennies on the dollar, debt buyers pay 1 to 5 cents per dollar, and cancel them outright. Toledo forgave $240 million in medical debt for a $1.6 million city investment. New Orleans forgave $130 million. Chicago and Cook County have done the same.
 
 Denver Health is a public hospital. It still sends patients to collections and places liens on homes. A $5 million appropriation from Denver's $1.6 billion budget could forgive $100 to $500 million in medical debt for Denver residents. The mechanism exists. The precedent exists in over 15 cities. The money exists.
 
@@ -70,7 +70,7 @@ Please champion a medical debt forgiveness program for Denver. It is the highest
 
 Alcalde Johnston,
 
-Le pido que incluya un programa de perdón de deuda médica de $5 millones en el próximo presupuesto de Denver. Ciudades de todo el país se están asociando con Undue Medical Debt para comprar carteras de deuda médica a centavos por dólar — los compradores de deuda pagan de 1 a 5 centavos por dólar — y cancelarlas por completo. Toledo perdonó $240 millones en deuda médica con una inversión de $1.6 millones. Nueva Orleans perdonó $130 millones. Chicago y el Condado Cook han hecho lo mismo.
+Le pido que incluya un programa de perdón de deuda médica de $5 millones en el próximo presupuesto de Denver. Ciudades de todo el país se están asociando con Undue Medical Debt para comprar carteras de deuda médica a centavos por dólar, los compradores de deuda pagan de 1 a 5 centavos por dólar, y cancelarlas por completo. Toledo perdonó $240 millones en deuda médica con una inversión de $1.6 millones. Nueva Orleans perdonó $130 millones. Chicago y el Condado Cook han hecho lo mismo.
 
 Denver Health es un hospital público. Todavía envía pacientes a cobranza y pone gravámenes sobre sus hogares. Una asignación de $5 millones del presupuesto de $1.6 mil millones de Denver podría perdonar de $100 a $500 millones en deuda médica para los residentes de Denver. El mecanismo existe. El precedente existe en más de 15 ciudades. El dinero existe.
 
@@ -106,7 +106,7 @@ Drop this directly into `resistbot.astro` inside the `<div class="campaigns">` c
   <div class="campaign__letter" id="letter-medical-debt">
     Mayor Johnston, I urge you to include a $5 million medical debt forgiveness program in Denver's
     next budget. Cities across the country are partnering with Undue Medical Debt to buy medical
-    debt portfolios at pennies on the dollar — debt buyers pay 1 to 5 cents per dollar — and cancel
+    debt portfolios at pennies on the dollar, debt buyers pay 1 to 5 cents per dollar, and cancel
     them outright. Toledo forgave $240 million in medical debt for a $1.6 million city investment.
     New Orleans forgave $130 million. Chicago and Cook County have done the same. Denver Health is a
     public hospital. It still sends patients to collections and places liens on homes. A $5 million

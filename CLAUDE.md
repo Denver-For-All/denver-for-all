@@ -1,4 +1,4 @@
-# CLAUDE.md — Denver For All
+# CLAUDE.md: Denver For All
 
 ## Project overview
 
@@ -7,7 +7,7 @@ Denver For All is a grassroots civic platform for economic justice in Denver. It
 ## Essential commands
 
 ```bash
-npm install          # Install dependencies (Node 22, see .nvmrc — Astro 7 requires >=22.12)
+npm install          # Install dependencies (Node 22, see .nvmrc, Astro 7 requires >=22.12)
 npm run dev          # Start dev server at http://localhost:4321
 npm run build        # Production build (runs prebuild translation hydration first)
 npm run test         # Run tests (Vitest)
@@ -20,11 +20,11 @@ npm run format       # Auto-fix formatting
 
 The CI workflow (`.github/workflows/ci.yml`) runs on PRs to `main`:
 
-1. `npm run format:check` — Prettier (non-blocking, generates report)
-2. `npm run lint` — ESLint (must pass)
-3. `npm run test` — Vitest (must pass)
-4. `npm run build` — Astro build (must pass)
-5. `node scripts/translate/check-coverage.js` — Translation coverage (must pass)
+1. `npm run format:check`: Prettier (non-blocking, generates report)
+2. `npm run lint`: ESLint (must pass)
+3. `npm run test`: Vitest (must pass)
+4. `npm run build`: Astro build (must pass)
+5. `node scripts/translate/check-coverage.js`: Translation coverage (must pass)
 
 **Before submitting work, always run:** `npm run lint && npm run test && npm run build`
 
@@ -55,7 +55,7 @@ public/                Static assets
 ## Code conventions
 
 - **Language:** TypeScript for all new code. JSX uses React (`jsxImportSource: react`).
-- **Formatting:** Prettier — semi, singleQuote, trailingComma: all, printWidth: 100, tabWidth: 2.
+- **Formatting:** Prettier: semi, singleQuote, trailingComma: all, printWidth: 100, tabWidth: 2.
 - **Linting:** ESLint with `@typescript-eslint` and `eslint-plugin-astro`. `no-unused-vars` uses warn with `^_` pattern for ignored args.
 - **Path aliases:** `@components/*`, `@layouts/*`, `@i18n/*`, `@styles/*` (see tsconfig.json).
 - **Content schema:** Policy frontmatter is validated by Zod in `src/content/config.ts`. Categories: housing, labor, climate, health, safety, education, immigration, infrastructure, justice, democracy, economy, community.

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * translate.js — Batch translation runner for Denver For All
+ * translate.js: Batch translation runner for Denver For All
  *
  * Translates all extracted content using the Google Gemini API (Gemini 2.0 Flash).
  * Run extract-content.js first to generate the source material.
@@ -159,7 +159,7 @@ async function translate(lang, taskType, content) {
   if (dryRun) {
     const estimatedTokens = Math.ceil(userMessage.length / 4);
     console.log(`  [DRY RUN] Would call API: ~${estimatedTokens} input tokens`);
-    return '[DRY RUN — no output]';
+    return '[DRY RUN: no output]';
   }
 
   const apiUrl = `${API_BASE}/${MODEL}:generateContent?key=${API_KEY}`;
@@ -227,7 +227,7 @@ async function translate(lang, taskType, content) {
     }
   }
 
-  // All retries exhausted (e.g. persistent 429s) — throw instead of returning undefined
+  // All retries exhausted (e.g. persistent 429s), so throw instead of returning undefined
   throw new Error(`All ${MAX_RETRIES} retry attempts exhausted`);
 }
 
@@ -265,7 +265,7 @@ async function translatePageMeta(lang) {
 
 async function translatePolicyFrontmatter(lang) {
   const content = readFileSync(join(EXTRACTED, 'policy-frontmatter.json'), 'utf8');
-  // This file can be large — split into chunks of ~10 policies if needed
+  // This file can be large, so split into chunks of ~10 policies if needed
   const policies = JSON.parse(content);
   const slugs = Object.keys(policies);
 
@@ -289,7 +289,7 @@ async function translatePolicyFrontmatter(lang) {
     const result = await translate(lang, 'policy-frontmatter', chunkJson);
     calls++;
 
-    // Parse and merge — clean markdown fences that the model may add
+    // Parse and merge: clean markdown fences that the model may add
     try {
       const parsed = JSON.parse(cleanJsonResponse(result));
       Object.assign(allTranslated, parsed);
@@ -402,7 +402,7 @@ async function main() {
 
   // Print plan
   console.log('═══════════════════════════════════════════════════════');
-  console.log('  Denver For All — Translation Pipeline');
+  console.log('  Denver For All: Translation Pipeline');
   console.log('═══════════════════════════════════════════════════════');
   console.log(`  Model:       ${MODEL}`);
   console.log(`  Languages:   ${langs.map((l) => `${l} (${LANGUAGES[l].nativeName})`).join(', ')}`);
@@ -436,7 +436,7 @@ async function main() {
         if (ciMode) {
           console.log(`::warning title=Translation failed: ${lang}/${type}::${err.message}`);
         }
-        // Continue to next type — don't abort the whole run
+        // Continue to next type; don't abort the whole run
       }
     }
   }

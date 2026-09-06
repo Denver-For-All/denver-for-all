@@ -1,4 +1,4 @@
-# Open Collective Policies — Denver For All
+# Open Collective Policies: Denver For All
 
 Drafts for the Open Collective Settings > Policies page.
 Copy-paste each section into its corresponding field.
@@ -7,7 +7,7 @@ Copy-paste each section into its corresponding field.
 
 ## 1. Contribution Policy (max 3,000 characters)
 
-Denver For All accepts grassroots contributions from individuals who support economic justice in Denver. Every donation — no matter the size — is public on our Open Collective ledger.
+Denver For All accepts grassroots contributions from individuals who support economic justice in Denver. Every donation, no matter the size, is public on our Open Collective ledger.
 
 **What we accept:**
 
@@ -91,7 +91,7 @@ If you're unsure whether your work qualifies, open a GitHub issue or reach out t
 
 - Reimbursements under $100: Approved by any single maintainer
 - Reimbursements over $100: Must have been discussed and approved publicly before the expense was incurred
-- Receipts are required for all amounts — no exceptions
+- Receipts are required for all amounts: no exceptions
 
 **What will NOT be reimbursed:**
 
@@ -152,7 +152,7 @@ When in doubt, ask before you spend. Open a GitHub issue or message a maintainer
 
 **General Expense Guidelines for Denver For All**
 
-Denver For All is a volunteer-run, grassroots project with minimal operating costs. We take financial transparency seriously — every dollar in and every dollar out is publicly visible on our Open Collective page.
+Denver For All is a volunteer-run, grassroots project with minimal operating costs. We take financial transparency seriously, every dollar in and every dollar out is publicly visible on our Open Collective page.
 
 **Core principles:**
 
@@ -171,7 +171,7 @@ Denver For All is a volunteer-run, grassroots project with minimal operating cos
 
 **Expense categories:**
 
-- **Invoice**: For contracted work or services (submit before starting — get approval first)
+- **Invoice**: For contracted work or services (submit before starting, get approval first)
 - **Reimbursement**: For out-of-pocket costs you've already paid (keep your receipt)
 - **Grant**: For larger, defined projects (propose it publicly, allow discussion, get approval)
 

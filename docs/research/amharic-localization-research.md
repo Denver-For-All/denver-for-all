@@ -7,9 +7,9 @@
 
 Denver's top 5 non-English languages are **Spanish, Vietnamese, Chinese, Arabic, and Amharic** (with Russian close behind). The City of Denver's own Language Access program under Executive Order 150 already identifies these same languages as priority languages for city services.
 
-We recommend expanding Denver For All from 2 locales (en/es) to 6 locales (en/es/vi/zh/ar/am), but this requires a significant **architecture refactoring first** — the current `data-en`/`data-es` attribute pattern (1,491 hardcoded pairs across 40 files) and `titleEs`/`summaryEs` field naming don't scale beyond 2 languages.
+We recommend expanding Denver For All from 2 locales (en/es) to 6 locales (en/es/vi/zh/ar/am), but this requires a significant **architecture refactoring first**: the current `data-en`/`data-es` attribute pattern (1,491 hardcoded pairs across 40 files) and `titleEs`/`summaryEs` field naming don't scale beyond 2 languages.
 
-The actual translation work can be largely offloaded to **Claude Haiku 4.5** for the 4 higher-resource languages (Spanish, Vietnamese, Chinese, Arabic) with high confidence, but **Amharic requires more caution** — it's a low-resource language where LLMs show a 12-20% performance gap vs. English. A human review pipeline with the Ethiopian Community Center would be essential.
+The actual translation work can be largely offloaded to **Claude Haiku 4.5** for the 4 higher-resource languages (Spanish, Vietnamese, Chinese, Arabic) with high confidence, but **Amharic requires more caution**: it's a low-resource language where LLMs show a 12-20% performance gap vs. English. A human review pipeline with the Ethiopian Community Center would be essential.
 
 ---
 
@@ -37,7 +37,7 @@ The City & County of Denver already mandates language access under **Executive O
 ### Why These 5 (Not 6, Not 3)?
 
 - **Spanish** is non-negotiable at 20%+ of Denver's population
-- **Vietnamese** has the largest LEP (Limited English Proficiency) population in Denver after Spanish — many Vietnamese speakers have difficulty accessing city services
+- **Vietnamese** has the largest LEP (Limited English Proficiency) population in Denver after Spanish, many Vietnamese speakers have difficulty accessing city services
 - **Chinese** is the 3rd most spoken non-English language statewide and Denver has a growing Chinese-speaking population
 - **Arabic** serves multiple communities (Iraqi, Somali-origin, Sudanese, Lebanese) and is the city's 4th priority language
 - **Amharic** serves one of the largest Ethiopian diasporas in the US, concentrated in the East Colfax/Aurora corridor, and is extremely underserved by existing civic platforms
@@ -47,7 +47,7 @@ The City & County of Denver already mandates language access under **Executive O
 
 ## 2. Language-by-Language Assessment
 
-### Spanish (es) — Already Implemented
+### Spanish (es): Already Implemented
 
 - **Population:** ~200,000+ in Denver (28-32% of city)
 - **Status:** Fully localized with 50 translated policies, complete UI, all page templates
@@ -58,7 +58,7 @@ The City & County of Denver already mandates language access under **Executive O
 
 - **Population:** ~5,700 in Denver; 19,074 statewide
 - **Script:** Latin-based with extensive diacritics (Vietnamese alphabet)
-- **LLM translation quality:** Good — Vietnamese is a medium-resource language with solid LLM coverage
+- **LLM translation quality:** Good: Vietnamese is a medium-resource language with solid LLM coverage
 - **Technical notes:** Uses Latin script so minimal font/layout issues. Diacritics require proper UTF-8 handling (already in place). Text length is comparable to English.
 - **Community relevance:** Highest LEP rate after Spanish in Denver. Many Vietnamese speakers are older refugees with limited English.
 
@@ -66,25 +66,25 @@ The City & County of Denver already mandates language access under **Executive O
 
 - **Population:** ~3,000 in Denver; 23,904 statewide
 - **Script:** CJK (Chinese characters)
-- **LLM translation quality:** Excellent — Chinese is a high-resource language
+- **LLM translation quality:** Excellent: Chinese is a high-resource language
 - **Technical notes:** CJK characters need appropriate font stack (system fonts generally sufficient). Text is typically shorter than English. Line-breaking rules differ (can break between any characters). May want to consider Traditional Chinese for Taiwanese community, but Simplified is the more common need.
 - **Community relevance:** Growing population, includes students, tech workers, and immigrant families.
 
 ### Arabic (ar)
 
 - **Population:** ~2,400 in Denver; 9,990 statewide; 42,000+ Arab ancestry in CO
-- **Script:** Arabic (RTL — right-to-left)
-- **LLM translation quality:** Good — Arabic is a medium-to-high-resource language
+- **Script:** Arabic (RTL: right-to-left)
+- **LLM translation quality:** Good: Arabic is a medium-to-high-resource language
 - **Technical notes:** **RTL is the biggest technical challenge.** Requires `dir="rtl"` on HTML elements, mirrored CSS layouts, bidirectional text handling. This is a significant frontend effort but well-documented in web standards. Modern CSS (`logical properties`, flexbox/grid direction) handles most of this.
 - **Community relevance:** Serves Iraqi, Somali-origin, Sudanese, Lebanese, and other Arab communities. Denver has seen significant Iraqi refugee resettlement.
 
 ### Amharic (am)
 
 - **Population:** ~3,700 city / 30,000-50,000 metro; 13,264 statewide (Census group)
-- **Script:** Ge'ez (Ethiopic) — a unique abugida writing system
-- **LLM translation quality:** Lower — Amharic is a low-resource language. Research shows a 12-20% performance gap vs English on frontier LLMs (GPT-4o, Claude). See Section 4.
-- **Technical notes:** LTR direction (no RTL needed). Requires Ge'ez web font (Noto Sans Ethiopic, ~50KB). Characters are wider and taller than Latin — may need line-height and container width adjustments. Formal register required for civic content.
-- **Community relevance:** One of the largest Ethiopian diasporas in the US. Very few civic platforms exist in Amharic — high impact per dollar spent.
+- **Script:** Ge'ez (Ethiopic): a unique abugida writing system
+- **LLM translation quality:** Lower: Amharic is a low-resource language. Research shows a 12-20% performance gap vs English on frontier LLMs (GPT-4o, Claude). See Section 4.
+- **Technical notes:** LTR direction (no RTL needed). Requires Ge'ez web font (Noto Sans Ethiopic, ~50KB). Characters are wider and taller than Latin, may need line-height and container width adjustments. Formal register required for civic content.
+- **Community relevance:** One of the largest Ethiopian diasporas in the US. Very few civic platforms exist in Amharic, high impact per dollar spent.
 
 ---
 
@@ -130,8 +130,8 @@ The client-side swap script loads the appropriate JSON and replaces text by key.
 
 ```
 src/i18n/
-├── en.json    (existing — becomes the canonical key source)
-├── es.json    (existing — already mirrors en.json structure)
+├── en.json    (existing, becomes the canonical key source)
+├── es.json    (existing, already mirrors en.json structure)
 ├── vi.json    (new)
 ├── zh.json    (new)
 ├── ar.json    (new)
@@ -149,12 +149,12 @@ summary: z.string(),
 summaryEs: z.string(),
 ```
 
-**After (Option — separate translation collections, extending existing pattern):**
+**After (Option, separate translation collections, extending existing pattern):**
 
 ```
 content/
-├── policies/        (English — canonical, keeps all metadata)
-├── policies-es/     (Spanish body translations — already exists)
+├── policies/        (English, canonical, keeps all metadata)
+├── policies-es/     (Spanish body translations, already exists)
 ├── policies-vi/     (Vietnamese body translations)
 ├── policies-zh/     (Chinese body translations)
 ├── policies-ar/     (Arabic body translations)
@@ -231,7 +231,7 @@ Instead of duplicating 19 page files per locale (which would mean 19 x 5 = 95 ne
 
 ```
 src/pages/
-├── index.astro              (English — default locale, no prefix)
+├── index.astro              (English, default locale, no prefix)
 ├── [locale]/index.astro     (All other locales via dynamic route)
 ├── platform/[slug].astro
 ├── [locale]/platform/[slug].astro
@@ -281,13 +281,13 @@ At Haiku 4.5 pricing, translating all content for 4 languages would cost roughly
 
 ### Quality Assessment by Language
 
-| Language                 | LLM Quality | Confidence | Review Needed?                                                 |
-| ------------------------ | ----------- | ---------- | -------------------------------------------------------------- |
-| **Spanish** (existing)   | Excellent   | Very High  | Light review                                                   |
-| **Vietnamese**           | Good        | High       | Moderate review — check diacritics, formal register            |
-| **Chinese (Simplified)** | Excellent   | Very High  | Light review                                                   |
-| **Arabic**               | Good        | High       | Moderate review — check formal MSA vs dialect, RTL punctuation |
-| **Amharic**              | Fair        | Medium     | **Heavy review required**                                      |
+| Language                 | LLM Quality | Confidence | Review Needed?                                                |
+| ------------------------ | ----------- | ---------- | ------------------------------------------------------------- |
+| **Spanish** (existing)   | Excellent   | Very High  | Light review                                                  |
+| **Vietnamese**           | Good        | High       | Moderate review, check diacritics, formal register            |
+| **Chinese (Simplified)** | Excellent   | Very High  | Light review                                                  |
+| **Arabic**               | Good        | High       | Moderate review, check formal MSA vs dialect, RTL punctuation |
+| **Amharic**              | Fair        | Medium     | **Heavy review required**                                     |
 
 ### Amharic-Specific Concerns
 
@@ -340,7 +340,7 @@ Language-specific notes:
 
 ## 5. Should We Support All 5?
 
-### Recommendation: Yes — phased rollout
+### Recommendation: Yes: phased rollout
 
 | Phase       | Languages                      | Scope                                               | Why                                                                                    |
 | ----------- | ------------------------------ | --------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -351,7 +351,7 @@ Language-specific notes:
 
 ### Why this order?
 
-1. **Phase 0 (architecture)** is mandatory — can't add more languages without it
+1. **Phase 0 (architecture)** is mandatory: can't add more languages without it
 2. **Phase 1 (vi/zh)** validates the new architecture with minimal technical risk
 3. **Phase 2 (am)** has the highest community impact per effort but needs the human review pipeline
 4. **Phase 3 (ar)** requires RTL, which is the most significant CSS/layout change
@@ -366,29 +366,29 @@ If community impact is prioritized over technical ease, swap Phases 1 and 2. The
 
 ### Denver Demographics & Language Data
 
-- [Denver Language Access Program (Executive Order 150)](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Human-Rights-Community-Partnerships/Divisions/Immigrant-Refugee-Affairs/Language-Access) — City & County of Denver
-- [Colorado State Language Data](https://www.migrationpolicy.org/data/state-profiles/state/language/CO) — Migration Policy Institute
-- [Languages in Colorado](https://statisticalatlas.com/state/Colorado/Languages) — Statistical Atlas
-- [Colorado's most popular languages spoken at home](https://www.axios.com/local/denver/2025/03/03/most-popular-languages-spoken-colorado) — Axios Denver
-- [Colorado Office of New Americans Data](https://ona.colorado.gov/resources/data) — State of Colorado
-- [Demographics of Denver](https://en.wikipedia.org/wiki/Demographics_of_Denver) — Wikipedia
-- [Denver Hispanic Chamber Demographics](https://www.hispanicchamberdenver.com/demographics) — Hispanic Chamber of Commerce
+- [Denver Language Access Program (Executive Order 150)](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Human-Rights-Community-Partnerships/Divisions/Immigrant-Refugee-Affairs/Language-Access): City & County of Denver
+- [Colorado State Language Data](https://www.migrationpolicy.org/data/state-profiles/state/language/CO): Migration Policy Institute
+- [Languages in Colorado](https://statisticalatlas.com/state/Colorado/Languages): Statistical Atlas
+- [Colorado's most popular languages spoken at home](https://www.axios.com/local/denver/2025/03/03/most-popular-languages-spoken-colorado): Axios Denver
+- [Colorado Office of New Americans Data](https://ona.colorado.gov/resources/data): State of Colorado
+- [Demographics of Denver](https://en.wikipedia.org/wiki/Demographics_of_Denver): Wikipedia
+- [Denver Hispanic Chamber Demographics](https://www.hispanicchamberdenver.com/demographics): Hispanic Chamber of Commerce
 
 ### Ethiopian / Amharic Community
 
-- [Ethiopians in Denver: Why So Many Have Come and Stayed](https://bucketlistcommunitycafe.com/ethiopians-in-denver-why-so-many-have-come-and-stayed/) — Bucket List Community Cafe
-- [Ethiopians in Colorado](https://history.denverlibrary.org/news/western-history/ethiopians-colorado) — Denver Public Library Special Collections
-- [Denver metro area home to 30,000 Ethiopians, Eritreans](https://www.denverpost.com/2013/07/25/denver-metro-area-home-to-30000-ethiopians-eritreans/) — Denver Post
-- [Ethiopian Population by State](https://worldpopulationreview.com/state-rankings/ethiopian-population-by-state) — World Population Review
-- [Colorado's Ethiopian and Indian communities food festivals](https://www.cpr.org/2023/08/03/food-festivals-ethiopian-indian-denver-colorado-springs/) — CPR News
-- [Ethiopians in Colorado](https://www.colorado.edu/initiative/newscorps/2016/05/09/ethiopians-colorado) — CU Boulder News Corps
-- [Church acts as community stronghold](https://www.colorado.edu/initiative/newscorps/2016/03/29/church-acts-community-stronghold-colorados-ethiopian-population) — CU Boulder News Corps
-- [Amharic Most Commonly Spoken African Language in Eight U.S. States](http://www.tadias.com/05/15/2014/census-amharic-most-commonly-spoken-african-language-in-eight-u-s-states/) — Tadias Magazine
+- [Ethiopians in Denver: Why So Many Have Come and Stayed](https://bucketlistcommunitycafe.com/ethiopians-in-denver-why-so-many-have-come-and-stayed/): Bucket List Community Cafe
+- [Ethiopians in Colorado](https://history.denverlibrary.org/news/western-history/ethiopians-colorado): Denver Public Library Special Collections
+- [Denver metro area home to 30,000 Ethiopians, Eritreans](https://www.denverpost.com/2013/07/25/denver-metro-area-home-to-30000-ethiopians-eritreans/): Denver Post
+- [Ethiopian Population by State](https://worldpopulationreview.com/state-rankings/ethiopian-population-by-state): World Population Review
+- [Colorado's Ethiopian and Indian communities food festivals](https://www.cpr.org/2023/08/03/food-festivals-ethiopian-indian-denver-colorado-springs/): CPR News
+- [Ethiopians in Colorado](https://www.colorado.edu/initiative/newscorps/2016/05/09/ethiopians-colorado): CU Boulder News Corps
+- [Church acts as community stronghold](https://www.colorado.edu/initiative/newscorps/2016/03/29/church-acts-community-stronghold-colorados-ethiopian-population): CU Boulder News Corps
+- [Amharic Most Commonly Spoken African Language in Eight U.S. States](http://www.tadias.com/05/15/2014/census-amharic-most-commonly-spoken-african-language-in-eight-u-s-states/): Tadias Magazine
 
 ### LLM Translation Quality Research
 
-- [Bridging the Gap: Enhancing LLM Performance for Low-Resource African Languages](https://arxiv.org/abs/2412.12417) — arXiv, Dec 2024
-- [AfroBench: How Good are LLMs on African Languages](https://aclanthology.org/2025.findings-acl.976.pdf) — ACL 2025
-- [Where Are We? Evaluating LLM Performance on African Languages](https://arxiv.org/html/2502.19582v1) — arXiv, Feb 2025
-- [SSA-COMET: MT Evaluation for Under-Resourced African Languages](https://arxiv.org/html/2506.04557) — arXiv, 2025
-- [Claude Multilingual Support](https://docs.anthropic.com/en/docs/build-with-claude/multilingual-support) — Anthropic Docs
+- [Bridging the Gap: Enhancing LLM Performance for Low-Resource African Languages](https://arxiv.org/abs/2412.12417): arXiv, Dec 2024
+- [AfroBench: How Good are LLMs on African Languages](https://aclanthology.org/2025.findings-acl.976.pdf): ACL 2025
+- [Where Are We? Evaluating LLM Performance on African Languages](https://arxiv.org/html/2502.19582v1): arXiv, Feb 2025
+- [SSA-COMET: MT Evaluation for Under-Resourced African Languages](https://arxiv.org/html/2506.04557): arXiv, 2025
+- [Claude Multilingual Support](https://docs.anthropic.com/en/docs/build-with-claude/multilingual-support): Anthropic Docs

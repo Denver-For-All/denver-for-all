@@ -4,7 +4,7 @@
 // Bar/Pie entrance animation in Recharts hides <LabelList> value labels until
 // the animation completes (recharts/recharts#3028); because each scroll step
 // remounts the chart, those labels could vanish entirely. The components set
-// isAnimationActive={false} so labels paint immediately — this test asserts the
+// isAnimationActive={false} so labels paint immediately; this test asserts the
 // expected value labels are actually rendered as SVG text.
 import { describe, it, expect, vi } from 'vitest';
 import React, { act } from 'react';
@@ -13,7 +13,7 @@ import { createRoot } from 'react-dom/client';
 (globalThis as { IS_REACT_ACT_ENVIRONMENT?: boolean }).IS_REACT_ACT_ENVIRONMENT = true;
 
 // jsdom has no layout engine / ResizeObserver, so force ResponsiveContainer to a
-// fixed size. This is the only mock — the charts themselves are the real thing.
+// fixed size. This is the only mock; the charts themselves are the real thing.
 vi.mock('recharts', async (orig) => {
   const actual = (await orig()) as Record<string, unknown>;
   const RC = actual.ResponsiveContainer as React.ComponentType<Record<string, unknown>>;

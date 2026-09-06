@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * hydrate-incoming.js — Pre-build hook that auto-hydrates translations
+ * hydrate-incoming.js: Pre-build hook that auto-hydrates translations
  *
  * Checks translations/incoming/ for any language directories containing
  * translation output. If found, runs hydrate.js against that directory.

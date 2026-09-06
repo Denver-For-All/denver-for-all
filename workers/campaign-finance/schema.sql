@@ -1,4 +1,4 @@
--- Denver Campaign Finance Tracker — D1 Database Schema
+-- Denver Campaign Finance Tracker: D1 Database Schema
 -- Run with: wrangler d1 execute campaign-finance --file=./schema.sql
 
 CREATE TABLE IF NOT EXISTS contributions (

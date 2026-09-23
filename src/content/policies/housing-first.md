@@ -11,12 +11,12 @@ actionTarget: 'mayor'
 grantProposal: 'housing-first-hud-coc'
 hasFundingSources: true
 keyStats:
-  - value: '9,065'
-    label: 'people experiencing homelessness in metro Denver'
-    labelEs: 'personas sin hogar en el area metropolitana de Denver'
-    context: '2024 Point-in-Time Count shows the crisis continues to grow'
-    contextEs: 'El conteo 2024 muestra que la crisis sigue creciendo'
-    source: 'MDHI Point-in-Time Count, 2024'
+  - value: '6,411'
+    label: 'people experiencing homelessness in Denver'
+    labelEs: 'personas sin hogar en Denver'
+    context: 'Down 12.5% from 2025 as street homelessness hit a nine-year low - proof that housing people works, and that 6,400 neighbors still need a home'
+    contextEs: 'Una baja de 12.5% desde 2025 mientras la falta de vivienda en la calle llegó a su nivel más bajo en nueve años - prueba de que dar vivienda funciona, y de que 6,400 vecinos aún necesitan un hogar'
+    source: 'MDHI Point-in-Time Count, January 2026'
     theme: 'danger'
   - value: '$40-60K'
     label: 'annual cost per person to manage homelessness'
@@ -35,11 +35,55 @@ relatedLegislation:
     title: 'Colorado Homeless Contribution Tax Credit Extension'
     status: 'Introduced - Assigned to Finance'
     url: 'https://leg.colorado.gov/bills/hb26-1015'
+smartGoals:
+  - goal: 'End unsheltered homelessness in Denver'
+    goalEs: 'Terminar con la falta de vivienda a la intemperie en Denver'
+    metric: 'People counted unsheltered in Denver in the annual Point-in-Time count'
+    metricEs: 'Personas contadas a la intemperie en Denver en el conteo anual Point-in-Time'
+    baseline: '1,703 unsheltered people (January 2026)'
+    baselineEs: '1,703 personas a la intemperie (enero de 2026)'
+    target: 'Under 250 (functional zero for unsheltered homelessness)'
+    targetEs: 'Menos de 250 (cero funcional para la falta de vivienda a la intemperie)'
+    deadline: '2029'
+    owner: 'Department of Housing Stability (HOST)'
+    ownerEs: 'Departamento de Estabilidad de Vivienda (HOST)'
+    precedent: 'Houston cut homelessness by more than 60% since 2011 through coordinated Housing First placement'
+    precedentEs: 'Houston redujo la falta de vivienda en más de 60% desde 2011 con colocación coordinada bajo Vivienda Primero'
+    source: 'Metro Denver Homeless Initiative, 2026 Point-in-Time Count'
+  - goal: 'Cut total homelessness in Denver in half'
+    goalEs: 'Reducir a la mitad la falta de vivienda total en Denver'
+    metric: 'Total people experiencing homelessness in Denver (sheltered and unsheltered)'
+    metricEs: 'Total de personas sin hogar en Denver (en refugios y a la intemperie)'
+    baseline: '6,411 people (January 2026), down from 7,327 (2025)'
+    baselineEs: '6,411 personas (enero de 2026), menos que 7,327 (2025)'
+    target: '3,200 or fewer'
+    targetEs: '3,200 o menos'
+    deadline: '2031'
+    owner: 'Department of Housing Stability (HOST)'
+    ownerEs: 'Departamento de Estabilidad de Vivienda (HOST)'
+    precedent: 'Finland cut long-term homelessness by roughly two-thirds after adopting Housing First nationally in 2008'
+    precedentEs: 'Finlandia redujo cerca de dos tercios la falta de vivienda de larga duración tras adoptar Vivienda Primero en 2008'
+    source: 'Metro Denver Homeless Initiative, 2026 Point-in-Time Count'
+  - goal: 'Build 2,000 permanent supportive housing units'
+    goalEs: 'Construir 2,000 unidades de vivienda de apoyo permanente'
+    metric: 'New permanent supportive housing units opened with on-site services'
+    metricEs: 'Nuevas unidades de vivienda de apoyo permanente abiertas con servicios en sitio'
+    baseline: '~1,300 permanent supportive housing units citywide (HOST, 2024)'
+    baselineEs: '~1,300 unidades de vivienda de apoyo permanente en la ciudad (HOST, 2024)'
+    target: '2,000 units open, with 85%+ one-year retention'
+    targetEs: '2,000 unidades abiertas, con retención de 85% o más a un año'
+    deadline: '2031'
+    owner: 'HOST with the Denver Housing Authority'
+    ownerEs: 'HOST con la Autoridad de Vivienda de Denver'
+    precedent: "Denver's own Supportive Housing Social Impact Bond reduced police contacts, arrests, and jail stays in a randomized trial"
+    precedentEs: 'El propio Bono de Impacto Social de Vivienda de Apoyo de Denver redujo contactos con la policía, arrestos y estancias en la cárcel en un ensayo aleatorio'
+    source: 'Denver Department of Housing Stability (HOST) program data, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
 
-Denver has approximately 7,500 people experiencing homelessness on any given night (MDHI Point-in-Time Count, 2024; Denver HOST estimates). The city's approach has been the traditional American model: shelters as triage, conditional housing (you must be sober, employed, or "housing ready" to qualify), and criminalization of sleeping outdoors.
+Denver had 6,411 people experiencing homelessness on the night of the January 2026 Point-in-Time Count, including 1,703 sleeping unsheltered (Metro Denver Homeless Initiative, 2026). The city's approach has been the traditional American model: shelters as triage, conditional housing (you must be sober, employed, or "housing ready" to qualify), and criminalization of sleeping outdoors.
 
 This model has consistently produced worse outcomes and higher costs than Housing First approaches in every rigorous comparison. It costs more than housing people, produces worse outcomes, and treats a housing problem as a character flaw.
 
@@ -47,7 +91,7 @@ This model has consistently produced worse outcomes and higher costs than Housin
 
 Denver's approach to homelessness centers on the Department of Housing Stability (HOST), which coordinates shelter, rapid rehousing, and permanent supportive housing (PSH). Denver had approximately 1,300 PSH units as of 2024, far below the need. The city has spent heavily on emergency shelter, including converting hotels during the pandemic, and on encampment management (sweeps), which the ACLU of Colorado has repeatedly challenged.
 
-Mayor Johnston's "All In Mile High" initiative pledged to house 1,000 people and move them from encampments. While some have been housed, the approach relies heavily on temporary shelter placements rather than permanent housing, and encampment sweeps continue to displace people without resolving their homelessness. The 2024 Metro Denver Point-in-Time Count identified approximately 9,065 people experiencing homelessness in the metro area (MDHI, 2024).
+Mayor Johnston's "All In Mile High" initiative pledged to house 1,000 people and move them from encampments. While some have been housed, the approach relies heavily on temporary shelter placements rather than permanent housing, and encampment sweeps continue to displace people without resolving their homelessness. The results are real where the city has moved people into housing: Denver's count fell from 7,327 in 2025 to 6,411 in 2026, and unsheltered homelessness dropped 21% in a year to a nine-year low (MDHI, 2026). But more than 6,400 people still lack a home, and the count was taken on a sub-freezing night when cold-weather shelters were open. The lesson is to scale what works - permanent housing - rather than shelter churn.
 
 **The math is damning:** Denver spends an estimated $40,000-60,000 per person per year managing homelessness through emergency services. Permanent supportive housing costs $15,000-25,000 per person per year. The savings calculation in our proposal should be understood as applying primarily to the chronically homeless population (approximately 2,000-3,000 individuals), not the full 9,000+ count, but the cost savings for that population alone exceed $50-100M/year.
 
@@ -180,6 +224,7 @@ Sweeps without housing placements do not reduce homelessness; they relocate it. 
 ## References
 
 - Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Metro Denver Homeless Initiative (MDHI). (2026). 2026 Point-in-Time Count Data. (9,950 metro; 6,411 in Denver; 1,703 unsheltered in Denver.)
 - Denver Department of Housing Stability (HOST). Budget and program data.
 - Y-Foundation (Finland). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
 - Coalition for the Homeless, Houston/Harris County. Housing First outcomes data. (25,000+ housed since 2012.)

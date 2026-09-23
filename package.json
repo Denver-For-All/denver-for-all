@@ -38,6 +38,7 @@
     "scrollama": "^3.2.0"
   },
   "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
     "@types/react": "^18.3.0",
     "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^8.54.0",
@@ -45,6 +46,7 @@
     "eslint": ">=9.39.2 <10",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-astro": "^1.5.0",
+    "js-yaml": "^5.4.2",
     "jsdom": "^29.1.1",
     "prettier": "^3.8.1",
     "remark-smartypants": "^3.0.2",

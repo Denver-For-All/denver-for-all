@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'Generando mas de $11B en bienes y servicios anualmente. Pago promedio: $0.13-$0.52/hr. Una industria de $11 mil millones construida sobre trabajo cautivo.'
     source: 'ACLU, Captive Labor Report, 2022'
     theme: 'danger'
+smartGoals:
+  - goal: 'End coerced work in Colorado prisons and the Denver jail'
+    goalEs: 'Terminar el trabajo forzado en las prisiones de Colorado y la cárcel de Denver'
+    metric: 'Documented disciplinary actions for refusing work assignments (CDOC and Denver Sheriff)'
+    metricEs: 'Sanciones disciplinarias documentadas por negarse a trabajar (CDOC y Sheriff de Denver)'
+    baseline: 'Denver District Court found CDOC practices unconstitutional involuntary servitude (Mortis v. Polis, February 2026)'
+    baselineEs: 'El Tribunal de Distrito de Denver declaró inconstitucionales las prácticas del CDOC por servidumbre involuntaria (Mortis v. Polis, febrero de 2026)'
+    target: 'Zero work-refusal sanctions, verified by an independent monitor'
+    targetEs: 'Cero sanciones por negarse a trabajar, verificado por un monitor independiente'
+    deadline: '2027-12'
+    owner: 'Colorado Department of Corrections and Denver Sheriff Department'
+    ownerEs: 'Departamento Correccional de Colorado y Departamento del Sheriff de Denver'
+    precedent: 'The European Prison Rules (2006) require equitable pay for prison work and treat education as an alternative to work'
+    precedentEs: 'Las Reglas Penitenciarias Europeas (2006) exigen pago equitativo por el trabajo en prisión y tratan la educación como alternativa al trabajo'
+    source: 'Colorado Public Radio, February 17, 2026'
+  - goal: 'Pay incarcerated workers the state minimum wage'
+    goalEs: 'Pagar a los trabajadores encarcelados el salario mínimo estatal'
+    metric: 'Base hourly wage for incarcerated workers in CDOC programs'
+    metricEs: 'Salario base por hora para trabajadores encarcelados en programas del CDOC'
+    baseline: '$0.33-$1.61 per hour vs. $15.16 state minimum (2026)'
+    baselineEs: '$0.33-$1.61 por hora frente al mínimo estatal de $15.16 (2026)'
+    target: 'State minimum wage, with room-and-board deductions capped at 25%'
+    targetEs: 'Salario mínimo estatal, con descuentos por alojamiento limitados a 25%'
+    deadline: '2029'
+    owner: 'Colorado General Assembly'
+    ownerEs: 'Asamblea General de Colorado'
+    precedent: 'Federal PIECP (Prison Industry Enhancement) programs already pay prevailing wages in dozens of states'
+    precedentEs: 'Los programas federales PIECP ya pagan salarios prevalecientes en decenas de estados'
+    source: 'ACLU of Colorado, 2025; Colorado minimum wage, 2026'
+  - goal: 'Give every person leaving prison into Denver savings, ID, and housing'
+    goalEs: 'Dar a cada persona que sale de prisión a Denver ahorros, identificación y vivienda'
+    metric: 'Share of people released to Denver with a state ID, a savings account, and a housing placement on day one'
+    metricEs: 'Porcentaje de personas liberadas a Denver con identificación estatal, cuenta de ahorros y vivienda desde el primer día'
+    baseline: 'Not tracked (2026)'
+    baselineEs: 'No se registra (2026)'
+    target: '90% of releases'
+    targetEs: '90% de las liberaciones'
+    deadline: '2029'
+    owner: 'Denver Department of Public Safety (Reentry) with HOST'
+    ownerEs: 'Departamento de Seguridad Pública de Denver (Reintegración) con HOST'
+    precedent: 'Returning citizens housed within 30 days are about 50% less likely to recidivate (Council of State Governments)'
+    precedentEs: 'Las personas que obtienen vivienda en 30 días tienen cerca de 50% menos probabilidad de reincidir (Council of State Governments)'
+    source: 'Denver Office of Reentry, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -61,7 +105,7 @@ This is a system where human beings work under threat of punishment, for pay tha
 
 ### The Lawsuit: Mortis v. Polis
 
-In October 2025, a class-action trial began in Denver District Court challenging CDOC's work program as a violation of Amendment A. The case, _Mortis v. Polis_, was brought by Towards Justice and other legal advocates on behalf of incarcerated people who say the state is punishing them for exercising their constitutional right not to perform involuntary labor. Judge Sarah B. Wallace granted class-action status in 2024.
+In October 2025, a class-action trial began in Denver District Court challenging CDOC's work program as a violation of Amendment A. The case, _Mortis v. Polis_, was brought by Towards Justice and other legal advocates on behalf of incarcerated people who say the state is punishing them for exercising their constitutional right not to perform involuntary labor. Judge Sarah B. Wallace granted class-action status in 2024. In February 2026, after trial, Judge Wallace ruled that CDOC's practices constitute involuntary servitude in violation of the Colorado Constitution, finding that "the machinery of coercion is not isolated but is a pervasive and actively operationalized feature of CDOC's labor management," and ordered the department and the governor to stop punishing people for refusing to work (Colorado Public Radio, February 17, 2026). The ruling is the floor, not the finish line: it ends punishment for refusal but does not set a fair wage, and compliance has to be monitored.
 
 The plaintiffs' argument is straightforward: when you punish someone for refusing to work - by taking away their family contact, their earned time toward parole, their housing conditions - you are coercing their labor. That is involuntary servitude. Colorado's constitution now prohibits it, without exception.
 
@@ -130,7 +174,7 @@ The counterargument is simple: the voters already decided this. Amendment A did 
 | **Norway**                         | Incarcerated people work voluntarily and are paid equivalent to civilian wages (minus room/board). Work is framed as rehabilitation, not punishment. Full OSHA-equivalent protections. | 20% recidivism rate (vs. 76% in the US). Workers leave prison with savings, skills, and dignity. Society saves billions in reduced re-incarceration.      |
 | **Germany**                        | Prison labor is compensated and voluntary. Inmates receive vocational certifications recognized by employers. Wages are lower than civilian but legally regulated.                     | 35-40% recidivism. Incarcerated workers transition to employment more successfully. Labor is treated as job training, not extraction.                     |
 | **Finland**                        | Open prisons where inmates work in real jobs at real wages, sometimes commuting to workplaces outside the facility.                                                                    | Recidivism has declined for decades. Workers maintain employment relationships that continue after release.                                               |
-| **Colorado (Amendment A, 2018)**   | Voters banned involuntary servitude without exception. CDOC changed nothing. Workers still earn $0.33-$1.61/hr and face punishment for refusal.                                        | Lawsuit pending (_Mortis v. Polis_, 2025). Seven years of noncompliance with the state constitution.                                                      |
+| **Colorado (Amendment A, 2018)**   | Voters banned involuntary servitude without exception. CDOC changed nothing. Workers still earn $0.33-$1.61/hr and face punishment for refusal.                                        | Court ruled CDOC's coercion unconstitutional (_Mortis v. Polis_, February 2026). Seven years of noncompliance with the state constitution.                |
 | **USA (13th Amendment exception)** | Constitutional exception permits involuntary servitude as criminal punishment. 800,000+ incarcerated people work in prison labor programs. Average pay: $0.13-$0.52/hr nationally.     | $11B+ in goods and services extracted annually. Highest incarceration rate on Earth. 76% recidivism. The system produces cheap labor, not rehabilitation. |
 
 **The pattern is unambiguous:** Countries that treat prison labor as voluntary, compensated, and rehabilitative have dramatically lower recidivism rates than the United States. Forced, uncompensated labor does not rehabilitate - it extracts value from captive people and releases them with nothing.
@@ -173,6 +217,7 @@ Victims deserve justice. Justice is not served by a system that produces a 76% r
 
 ## References
 
+- Colorado Public Radio. (2026, February 17). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
 - Colorado Constitution, Article II, Section 26 (as amended by Amendment A, 2018). "There shall never be in this state either slavery or involuntary servitude."
 - Colorado Secretary of State. (2018). Official Election Results: Amendment A. (65% approval.)
 - ACLU. (2022). _Captive Labor: Exploitation of Incarcerated Workers._ (National prison labor data; $0.13-$0.52/hr average wages; 800,000+ incarcerated workers; $11B+ annual value.)

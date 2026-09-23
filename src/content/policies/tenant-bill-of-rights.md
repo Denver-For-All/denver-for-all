@@ -43,6 +43,50 @@ relatedLegislation:
     title: 'Ratio Utility Billing Systems'
     status: 'Signed into law (Mar 26, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1013'
+smartGoals:
+  - goal: 'Give every tenant facing eviction a lawyer'
+    goalEs: 'Dar un abogado a cada inquilino que enfrenta desalojo'
+    metric: 'Share of Denver eviction cases in which the tenant has legal representation'
+    metricEs: 'Porcentaje de casos de desalojo en Denver en que el inquilino tiene representación legal'
+    baseline: '3,331 households assisted (2024) against ~16,000 filings (2025)'
+    baselineEs: '3,331 hogares asistidos (2024) frente a ~16,000 demandas (2025)'
+    target: '75% of cases with a tenant attorney'
+    targetEs: '75% de los casos con abogado para el inquilino'
+    deadline: '2029'
+    owner: 'HOST with legal-aid providers'
+    ownerEs: 'HOST con proveedores de asistencia legal'
+    precedent: "New York City's right to counsel helped 84% of represented households stay in their homes (2023)"
+    precedentEs: 'El derecho a abogado de Nueva York ayudó a 84% de los hogares representados a conservar su vivienda (2023)'
+    source: 'Denver HOST eviction legal defense data, 2024; Denverite, January 2026'
+  - goal: "Require 90 days' notice for rent increases"
+    goalEs: 'Exigir 90 días de aviso para aumentos de renta'
+    metric: 'Minimum written notice required before a rent increase'
+    metricEs: 'Aviso mínimo por escrito requerido antes de un aumento de renta'
+    baseline: '60 days under state law (HB21-1121, 2021)'
+    baselineEs: '60 días bajo la ley estatal (HB21-1121, 2021)'
+    target: '90 days'
+    targetEs: '90 días'
+    deadline: '2027-12'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Oregon requires 90 days' notice for rent increases statewide (SB 608, 2019)"
+    precedentEs: 'Oregón exige 90 días de aviso para aumentos de renta en todo el estado (SB 608, 2019)'
+    source: 'Colorado HB21-1121, 2021'
+  - goal: 'Respond to habitability complaints within 72 hours'
+    goalEs: 'Responder a las quejas de habitabilidad en 72 horas'
+    metric: 'Share of tenant habitability complaints inspected within 72 hours'
+    metricEs: 'Porcentaje de quejas de habitabilidad inspeccionadas en 72 horas'
+    baseline: 'Not published (2026)'
+    baselineEs: 'No se publica (2026)'
+    target: '90% within 72 hours, reported quarterly'
+    targetEs: '90% en 72 horas, reportado trimestralmente'
+    deadline: '2028'
+    owner: 'DDPHE (Residential Health) with Community Planning and Development'
+    ownerEs: 'DDPHE (Salud Residencial) con Planificación y Desarrollo Comunitario'
+    precedent: "Los Angeles' Systematic Code Enforcement Program proactively inspects every rental unit on a regular cycle"
+    precedentEs: 'El Programa Sistemático de Cumplimiento de Códigos de Los Ángeles inspecciona proactivamente cada vivienda de alquiler en ciclos regulares'
+    source: 'Denver Healthy Rental Housing ordinance, 2021'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -59,7 +103,7 @@ Beyond eviction, tenants face:
 
 ### What Denver Currently Does
 
-Denver's current tenant protections are minimal. Colorado law provides for a 10-day notice to cure for nonpayment (C.R.S. 13-40-104) and a 21-day notice for month-to-month lease changes. Denver passed limited renter protections in 2023-2024, including a right to an attorney in certain eviction cases for income-qualified tenants. However, coverage remains partial, not universal.
+Denver's current tenant protections are minimal. Colorado law provides for a 10-day notice to cure for nonpayment (C.R.S. 13-40-104) and requires 60 days' written notice before a rent increase, with no more than one increase in any 12-month period (HB21-1121). Denver passed limited renter protections in 2023-2024, including a right to an attorney in certain eviction cases for income-qualified tenants. However, coverage remains partial, not universal.
 
 Denver County Court processed approximately 10,000+ eviction filings in 2023 (Colorado Judicial Branch data). The legal representation disparity is stark: a 2022 National Coalition for a Civil Right to Counsel analysis found landlords have attorneys in over 90% of eviction cases nationally, while fewer than 10% of tenants do, a figure consistent with Denver County Court observations.
 
@@ -76,7 +120,7 @@ Every tenant facing eviction in Denver is entitled to a city-funded attorney, re
 - New York City's right to counsel program prevented eviction in 84% of represented cases (NYC Office of Civil Justice, 2023), and similar programs show prevention rates of 70-85%, saving cities money through reduced shelter costs, emergency services, and school disruption
 
 **2. 90-Day Notice for Rent Increases**
-Any rent increase requires 90 days written notice (currently 21 days for month-to-month in Colorado). This gives tenants real time to budget, negotiate, or find alternatives - not a scramble.
+Any rent increase requires 90 days written notice (currently 60 days under Colorado's HB21-1121). This gives tenants real time to budget, negotiate, or find alternatives - not a scramble.
 
 **3. Right of First Refusal**
 When a rental building is sold, tenants and recognized tenant organizations have the right of first refusal to purchase the building - at the same price offered by the buyer. This enables tenant cooperatives and community land trust acquisitions.

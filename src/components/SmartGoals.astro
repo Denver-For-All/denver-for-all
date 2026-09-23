@@ -1,0 +1,312 @@
+---
+import { Icon } from 'astro-icon/components';
+
+interface SmartGoal {
+  goal: string;
+  goalEs: string;
+  metric: string;
+  metricEs: string;
+  baseline: string;
+  baselineEs: string;
+  target: string;
+  targetEs: string;
+  deadline: string;
+  owner: string;
+  ownerEs: string;
+  precedent: string;
+  precedentEs: string;
+  source: string;
+}
+
+interface Props {
+  goals: SmartGoal[];
+  reviewed: string;
+}
+
+const { goals, reviewed } = Astro.props;
+
+const MONTHS_EN = [
+  'January',
+  'February',
+  'March',
+  'April',
+  'May',
+  'June',
+  'July',
+  'August',
+  'September',
+  'October',
+  'November',
+  'December',
+];
+const MONTHS_ES = [
+  'enero',
+  'febrero',
+  'marzo',
+  'abril',
+  'mayo',
+  'junio',
+  'julio',
+  'agosto',
+  'septiembre',
+  'octubre',
+  'noviembre',
+  'diciembre',
+];
+
+function formatMonth(value: string, lang: 'en' | 'es'): string {
+  const [year, month] = value.split('-');
+  if (!month) return year;
+  const idx = Number(month) - 1;
+  return lang === 'en' ? `${MONTHS_EN[idx]} ${year}` : `${MONTHS_ES[idx]} de ${year}`;
+}
+
+const reviewedEn = formatMonth(reviewed, 'en');
+const reviewedEs = formatMonth(reviewed, 'es');
+---
+
+<section class="smart-goals" aria-labelledby="smart-goals-heading">
+  <h2 id="smart-goals-heading" data-en="How We'll Measure Success" data-es="Cómo Mediremos el Éxito">
+    How We'll Measure Success
+  </h2>
+  <p
+    class="smart-goals__intro"
+    data-en={`Every target below is SMART: specific, measurable against a dated baseline, achievable because another city has done it, relevant to this proposal, and tied to a deadline. Hold us and City Hall to these numbers. Targets last reviewed ${reviewedEn}.`}
+    data-es={`Cada meta a continuación es SMART: específica, medible frente a una línea de base con fecha, alcanzable porque otra ciudad ya lo logró, relevante para esta propuesta y con fecha límite. Exíjannos a nosotros y al Ayuntamiento estos números. Metas revisadas por última vez en ${reviewedEs}.`}
+  >
+    Every target below is SMART: specific, measurable against a dated baseline, achievable because
+    another city has done it, relevant to this proposal, and tied to a deadline. Hold us and City
+    Hall to these numbers. Targets last reviewed {reviewedEn}.
+  </p>
+
+  <ol class="smart-goals__list">
+    {
+      goals.map((g) => (
+        <li class="smart-goal">
+          <div class="smart-goal__head">
+            <h3 class="smart-goal__title" data-en={g.goal} data-es={g.goalEs}>
+              {g.goal}
+            </h3>
+            <span
+              class="smart-goal__deadline"
+              data-en={`By ${formatMonth(g.deadline, 'en')}`}
+              data-es={`Para ${formatMonth(g.deadline, 'es')}`}
+            >
+              <Icon name="lucide:calendar-clock" size={14} />
+              By {formatMonth(g.deadline, 'en')}
+            </span>
+          </div>
+
+          <p class="smart-goal__metric">
+            <span class="smart-goal__label" data-en="Metric:" data-es="Indicador:">
+              Metric:
+            </span>{' '}
+            <span data-en={g.metric} data-es={g.metricEs}>
+              {g.metric}
+            </span>
+          </p>
+
+          <div class="smart-goal__progress">
+            <div class="smart-goal__point">
+              <span class="smart-goal__label" data-en="Baseline" data-es="Línea de base">
+                Baseline
+              </span>
+              <span class="smart-goal__value" data-en={g.baseline} data-es={g.baselineEs}>
+                {g.baseline}
+              </span>
+            </div>
+            <span class="smart-goal__arrow" aria-hidden="true">
+              →
+            </span>
+            <div class="smart-goal__point smart-goal__point--target">
+              <span class="smart-goal__label" data-en="Target" data-es="Meta">
+                Target
+              </span>
+              <span class="smart-goal__value" data-en={g.target} data-es={g.targetEs}>
+                {g.target}
+              </span>
+            </div>
+          </div>
+
+          <dl class="smart-goal__details">
+            <div>
+              <dt data-en="Accountable" data-es="Responsable">
+                Accountable
+              </dt>
+              <dd data-en={g.owner} data-es={g.ownerEs}>
+                {g.owner}
+              </dd>
+            </div>
+            <div>
+              <dt data-en="Proven elsewhere" data-es="Comprobado en otros lugares">
+                Proven elsewhere
+              </dt>
+              <dd data-en={g.precedent} data-es={g.precedentEs}>
+                {g.precedent}
+              </dd>
+            </div>
+          </dl>
+
+          <p class="smart-goal__source">
+            <span data-en="Baseline source:" data-es="Fuente de la línea de base:">
+              Baseline source:
+            </span>{' '}
+            {g.source}
+          </p>
+        </li>
+      ))
+    }
+  </ol>
+</section>
+
+<style>
+  .smart-goals {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .smart-goals h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  .smart-goals__intro {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .smart-goals__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 1rem;
+  }
+
+  .smart-goal {
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+
+  .smart-goal__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+  }
+
+  .smart-goal__title {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.4;
+    flex: 1 1 16rem;
+  }
+
+  .smart-goal__deadline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    white-space: nowrap;
+  }
+
+  .smart-goal__metric {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin: 0 0 0.75rem;
+  }
+
+  .smart-goal__label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+  }
+
+  .smart-goal__progress {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: stretch;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .smart-goal__point {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    padding: 0.6rem 0.75rem;
+    border-radius: var(--radius);
+    background: var(--color-bg-alt);
+  }
+
+  .smart-goal__point--target {
+    border: 1px solid var(--color-primary);
+  }
+
+  .smart-goal__value {
+    font-weight: 600;
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+
+  .smart-goal__arrow {
+    align-self: center;
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+  .smart-goal__details {
+    display: grid;
+    gap: 0.5rem;
+    margin: 0 0 0.5rem;
+    font-size: 0.85rem;
+  }
+
+  .smart-goal__details dt {
+    font-weight: 700;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-text-muted);
+  }
+
+  .smart-goal__details dd {
+    margin: 0.1rem 0 0;
+  }
+
+  .smart-goal__source {
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+    margin: 0;
+  }
+
+  @media (max-width: 540px) {
+    .smart-goals {
+      padding: 1.25rem;
+    }
+
+    .smart-goal__progress {
+      grid-template-columns: 1fr;
+    }
+
+    .smart-goal__arrow {
+      transform: rotate(90deg);
+      justify-self: center;
+    }
+  }
+</style>

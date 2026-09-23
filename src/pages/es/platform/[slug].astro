@@ -4,6 +4,7 @@ import EmailCapture from '../../../components/EmailCapture.astro';
 import PolicyActionScore from '../../../components/PolicyActionScore.astro';
 import PolicyActionCTA from '../../../components/PolicyActionCTA.astro';
 import DonationCTA from '../../../components/DonationCTA.astro';
+import SmartGoals from '../../../components/SmartGoals.astro';
 import ShareableStatCard from '../../../components/ShareableStatCard';
 import '../../../components/ShareableStatCard.css';
 import { Icon } from 'astro-icon/components';
@@ -125,6 +126,8 @@ const issueURL = `https://github.com/${ghRepo}/issues/new?title=${issueTitle}&bo
           locale="es"
         />
       )}
+
+      <SmartGoals goals={policy.data.smartGoals} reviewed={policy.data.goalsReviewed} />
 
       {relatedLegislation.length > 0 && (
         <div class="related-legislation">

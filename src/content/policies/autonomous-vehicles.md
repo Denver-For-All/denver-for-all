@@ -1,8 +1,8 @@
 ---
 title: 'Autonomous Vehicle Safety & Accountability'
 titleEs: 'Seguridad y Responsabilidad de Vehículos Autónomos'
-summary: 'Waymo is coming to Denver. Colorado has almost no rules. We need community safety standards, labor protections for displaced drivers, public transit integration, data privacy safeguards, and local democratic control over how self-driving cars operate on our streets.'
-summaryEs: 'Waymo está llegando a Denver. Colorado casi no tiene reglas. Necesitamos estándares de seguridad comunitaria, protecciones laborales para conductores desplazados, integración con el transporte público, salvaguardas de privacidad de datos y control democrático local sobre cómo operan los autos autónomos en nuestras calles.'
+summary: 'Waymo is now running driverless rides in Denver. Colorado has almost no rules. We need community safety standards, labor protections for displaced drivers, public transit integration, data privacy safeguards, and local democratic control over how self-driving cars operate on our streets.'
+summaryEs: 'Waymo ya ofrece viajes sin conductor en Denver. Colorado casi no tiene reglas. Necesitamos estándares de seguridad comunitaria, protecciones laborales para conductores desplazados, integración con el transporte público, salvaguardas de privacidad de datos y control democrático local sobre cómo operan los autos autónomos en nuestras calles.'
 category: 'infrastructure'
 icon: 'car'
 order: 63
@@ -30,11 +30,55 @@ keyStats:
     context: 'AV companies pay permit fees, per-trip assessments, and fund the Driver Transition Fund'
     contextEs: 'Las empresas de VA pagan permisos, tasas por viaje y financian el Fondo de Transicion'
     theme: 'primary'
+smartGoals:
+  - goal: 'Adopt the Denver Autonomous Vehicle Accountability Act now that driverless service has launched'
+    goalEs: 'Aprobar la Ley de Responsabilidad de Vehículos Autónomos de Denver ahora que el servicio sin conductor ya comenzó'
+    metric: 'Ordinance adopted with emergency geofencing, incident reporting, and citation authority'
+    metricEs: 'Ordenanza aprobada con geocercas de emergencia, reporte de incidentes y facultad de multar'
+    baseline: 'No city AV rules; Waymo launched driverless rides across 60 square miles on September 1, 2026'
+    baselineEs: 'Sin reglas municipales para vehículos autónomos; Waymo lanzó viajes sin conductor en 60 millas cuadradas el 1 de septiembre de 2026'
+    target: 'City ordinance using curb, permit, and contracting powers in force; state bill to lift SB 17-213 preemption introduced'
+    targetEs: 'Ordenanza municipal vigente usando facultades sobre banquetas, permisos y contratos; proyecto de ley estatal para eliminar la prohibición de SB 17-213 presentado'
+    deadline: '2027-06'
+    owner: 'Denver City Council and the Denver legislative delegation'
+    ownerEs: 'Concejo Municipal de Denver y la delegación legislativa de Denver'
+    precedent: 'California AB 1777 (effective July 2026) lets police issue notices of noncompliance to AV operators and requires operators to answer first responders promptly'
+    precedentEs: 'La ley AB 1777 de California (vigente desde julio de 2026) permite a la policía emitir avisos de incumplimiento a operadores de vehículos autónomos y exige responder con prontitud a los rescatistas'
+    source: 'Colorado Sun, September 1, 2026'
+  - goal: 'Publish every AV incident on a public dashboard'
+    goalEs: 'Publicar cada incidente de vehículos autónomos en un tablero público'
+    metric: 'Share of AV crashes, obstructions over 5 minutes, and first-responder interactions reported within 24 hours and posted weekly'
+    metricEs: 'Porcentaje de choques, obstrucciones de más de 5 minutos e interacciones con rescatistas reportados en 24 horas y publicados semanalmente'
+    baseline: '0% (no local reporting requirement, 2026)'
+    baselineEs: '0% (sin requisito local de reporte, 2026)'
+    target: '100% of incidents on a weekly public dashboard'
+    targetEs: '100% de los incidentes en un tablero público semanal'
+    deadline: '2027-12'
+    owner: 'Department of Transportation and Infrastructure (DOTI)'
+    ownerEs: 'Departamento de Transporte e Infraestructura (DOTI)'
+    precedent: 'Austin publishes an AV incident tracker even without direct regulatory authority (2025)'
+    precedentEs: 'Austin publica un registro de incidentes de vehículos autónomos aun sin autoridad regulatoria directa (2025)'
+    source: 'Denver DOTI, 2026'
+  - goal: 'Make AV fleets wheelchair accessible'
+    goalEs: 'Hacer accesibles para sillas de ruedas las flotas de vehículos autónomos'
+    metric: 'Share of each AV fleet operating in Denver that is wheelchair accessible'
+    metricEs: 'Porcentaje de cada flota de vehículos autónomos en Denver accesible para sillas de ruedas'
+    baseline: '0% of launch fleet wheelchair accessible (2026)'
+    baselineEs: '0% de la flota inicial es accesible para sillas de ruedas (2026)'
+    target: '20% by 2028, rising to 50% by 2031'
+    targetEs: '20% para 2028, subiendo a 50% para 2031'
+    deadline: '2031'
+    owner: 'DOTI, enforced through AV operating permits'
+    ownerEs: 'DOTI, mediante permisos de operación de vehículos autónomos'
+    precedent: 'London requires all licensed taxis to be wheelchair accessible, achieved by 2000'
+    precedentEs: 'Londres exige que todos los taxis con licencia sean accesibles para sillas de ruedas, lo cual logró en 2000'
+    source: 'Waymo Denver launch fleet specifications, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
 
-Waymo is actively mapping Denver's streets and plans to launch driverless ride-hailing service in 2026. Denver will become one of the first major cities to host fully autonomous vehicles (AVs) in a state with almost no regulatory framework. Colorado's 2017 law (SB 17-213) is among the most permissive in the country: no state AV permit is required, no incident reporting is mandated, no first-responder protocols exist, no data transparency requirements are in place, and local governments are preempted from imposing their own AV regulations (Colorado Revised Statutes, Title 42, Article 4, Part 18).
+Waymo opened fully driverless ride-hailing to the Denver public on September 1, 2026, with dozens of vehicles serving about 60 square miles of the city, from downtown and Cherry Creek to Sloan's Lake and Central Park; Denver is the 14th city where Waymo operates driverless (Colorado Sun, 2026; Axios Denver, 2026). Denver is now hosting fully autonomous vehicles (AVs) in a state with almost no regulatory framework. Colorado's 2017 law (SB 17-213) is among the most permissive in the country: no state AV permit is required, no incident reporting is mandated, no first-responder protocols exist, no data transparency requirements are in place, and local governments are preempted from imposing their own AV regulations (Colorado Revised Statutes, Title 42, Article 4, Part 18).
 
 This means Waymo can deploy hundreds of driverless vehicles on Denver streets with:
 
@@ -184,6 +228,8 @@ You should be. A fleet of 500 AVs with high-resolution cameras operating 12+ hou
 
 ## References
 
+- _Colorado Sun_. (2026, September 1). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
+- Axios Denver. (2026, September 1). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
 - Colorado SB 17-213. (2017). Concerning the Operation of Autonomous Vehicles. (State AV framework; local preemption provisions.)
 - Colorado HB 25-1122. (2025). Concerning Humans Operating Certain Motor Vehicles. (Vetoed by Governor Polis.)
 - California AB 1777. (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)

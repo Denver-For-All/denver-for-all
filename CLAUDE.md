@@ -68,6 +68,7 @@ public/                Static assets
 - Claims must be backed by citations in a References section.
 - Policy documents should include: problem statement, proposed solution, evidence, local context, FAQs, and funding sources.
 - Spanish translations in `policies-es/` must have empty `{}` frontmatter and the slug must match the English original.
+- Every policy needs at least three `smartGoals` in its frontmatter (specific goal, measurable metric with a dated baseline, achievable via an accountable owner and a real-world precedent, relevant to the proposal, and a `deadline` within 10 years), plus a `goalsReviewed` month. `tests/smart-goals.test.ts` enforces this; update `goalsReviewed` whenever you refresh baselines.
 
 ## Environment variables
 

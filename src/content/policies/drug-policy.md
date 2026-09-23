@@ -10,12 +10,12 @@ status: 'draft'
 actionTarget: 'state'
 hasFundingSources: true
 keyStats:
-  - value: '827'
-    label: 'drug poisoning deaths in Denver in 2023'
-    labelEs: 'muertes por envenenamiento de drogas en Denver en 2023'
-    context: 'Fentanyl involved in 64%. Denver made 2,800+ drug arrests. Deaths kept rising.'
-    contextEs: 'El fentanilo estuvo involucrado en el 64%. Denver hizo mas de 2,800 arrestos. Las muertes siguieron subiendo.'
-    source: 'Denver Office of the Medical Examiner, 2024'
+  - value: '598'
+    label: 'overdose deaths in Denver in 2023, a record'
+    labelEs: 'muertes por sobredosis en Denver en 2023, un récord'
+    context: 'Deaths fell to 483 in 2024, then climbed again in 2025 while falling nationwide. Arrests did not stop them.'
+    contextEs: 'Las muertes bajaron a 483 en 2024 y volvieron a subir en 2025 mientras caían en el resto del país. Los arrestos no las detuvieron.'
+    source: 'Denver Office of the Medical Examiner, 2024; 9News, December 2025'
     theme: 'danger'
   - value: '-95%'
     label: 'HIV among drug users after Portugal decriminalized'
@@ -40,6 +40,50 @@ relatedLegislation:
     title: 'Colorimetric Field Drug Tests in Drug Possessions'
     status: 'Referred from Judiciary to House Committee of the Whole (amended)'
     url: 'https://leg.colorado.gov/bills/hb26-1020'
+smartGoals:
+  - goal: 'Cut overdose deaths in Denver in half'
+    goalEs: 'Reducir a la mitad las muertes por sobredosis en Denver'
+    metric: 'Drug overdose deaths recorded by the Denver Office of the Medical Examiner'
+    metricEs: 'Muertes por sobredosis registradas por la Oficina del Médico Forense de Denver'
+    baseline: '598 deaths (2023 record); 483 (2024); rising again in 2025'
+    baselineEs: '598 muertes (récord de 2023); 483 (2024); en aumento otra vez en 2025'
+    target: 'Under 300 deaths per year'
+    targetEs: 'Menos de 300 muertes por año'
+    deadline: '2030'
+    owner: 'Denver Department of Public Health and Environment (DDPHE)'
+    ownerEs: 'Departamento de Salud Pública y Medio Ambiente de Denver (DDPHE)'
+    precedent: "OnPoint NYC's two supervised consumption sites reversed 1,000+ overdoses with zero deaths (2021-2024)"
+    precedentEs: 'Los dos sitios de consumo supervisado de OnPoint NYC revirtieron más de 1,000 sobredosis sin muertes (2021-2024)'
+    source: 'Denver Office of the Medical Examiner, 2024 annual report; 9News (December 2025)'
+  - goal: 'Guarantee treatment within 24 hours of asking'
+    goalEs: 'Garantizar tratamiento dentro de las 24 horas de solicitarlo'
+    metric: 'Share of people requesting treatment who start medication or a program within 24 hours'
+    metricEs: 'Porcentaje de personas que piden tratamiento y comienzan medicación o un programa en 24 horas'
+    baseline: 'Not measured; waitlists common (2026)'
+    baselineEs: 'No se mide; las listas de espera son comunes (2026)'
+    target: '90% start within 24 hours'
+    targetEs: '90% comienza en 24 horas'
+    deadline: '2029'
+    owner: 'DDPHE with Denver Health'
+    ownerEs: 'DDPHE con Denver Health'
+    precedent: "Rhode Island's statewide jail medication program cut post-release overdose deaths by ~60% (JAMA Psychiatry, 2018)"
+    precedentEs: 'El programa de medicamentos en cárceles de Rhode Island redujo ~60% las muertes por sobredosis tras la liberación (JAMA Psychiatry, 2018)'
+    source: 'Denver Health Addiction Services, 2026'
+  - goal: "Open Denver's first overdose prevention center"
+    goalEs: 'Abrir el primer centro de prevención de sobredosis de Denver'
+    metric: 'Supervised use sites operating in Denver'
+    metricEs: 'Sitios de consumo supervisado operando en Denver'
+    baseline: "0 sites; Denver's 2018 authorizing ordinance awaits state permission (2026)"
+    baselineEs: '0 sitios; la ordenanza de Denver de 2018 espera autorización estatal (2026)'
+    target: '1 site open, then 3'
+    targetEs: '1 sitio abierto, luego 3'
+    deadline: '2028'
+    owner: 'Colorado General Assembly (authorization) and DDPHE'
+    ownerEs: 'Asamblea General de Colorado (autorización) y DDPHE'
+    precedent: "Rhode Island authorized the first state-sanctioned site, in Providence; Vancouver's Insite has operated since 2003"
+    precedentEs: 'Rhode Island autorizó el primer sitio sancionado por un estado, en Providence; Insite en Vancouver funciona desde 2003'
+    source: 'Denver supervised use site ordinance, 2018'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -58,7 +102,7 @@ Denver specifically faces an opioid/fentanyl crisis that law enforcement cannot 
 
 Denver has some harm reduction infrastructure but treats drug use primarily as a criminal matter. The city decriminalized psilocybin via Initiated Ordinance 301 in 2019, and Colorado passed Proposition 122 in 2022 legalizing therapeutic psychedelics. But for the substances driving the actual crisis - fentanyl, methamphetamine, heroin - the approach remains enforcement-first.
 
-Denver reported 827 unintentional drug poisoning deaths in 2023 (Denver Office of the Medical Examiner, 2024). Fentanyl was involved in 64% of those deaths. Denver Police made 2,800+ drug-related arrests in 2023, but overdose deaths have continued to rise year over year. The enforcement approach is not producing results.
+Denver recorded 598 overdose deaths in 2023, the deadliest year in the city's history (Denver Office of the Medical Examiner, 2024). Deaths fell to 483 in 2024, then climbed again in 2025 - topping the 2024 total by December even as overdose deaths fell nationwide (9News, December 2025). Fentanyl was involved in roughly two-thirds of deaths. Denver Police made 2,800+ drug-related arrests in 2023, yet overdose deaths remain near record levels. The enforcement approach is not producing results.
 
 ### Who Opposes This (and Why)
 
@@ -159,6 +203,7 @@ Studies from Vancouver's Insite (operating since 2003), Sydney's MSIC, and Europ
 ## References
 
 - Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (December 2025). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
 - CDC WONDER Database. Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
 - SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
 - Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)

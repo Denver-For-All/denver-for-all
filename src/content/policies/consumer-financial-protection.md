@@ -13,8 +13,8 @@ keyStats:
   - value: '4 in 5'
     label: 'payday loans are rolled over or re-borrowed within a month'
     labelEs: 'préstamos de día de pago se renuevan o se vuelven a pedir dentro de un mes'
-    context: 'The product is designed around repeat borrowing, not one-time emergencies - 80% of borrowers re-borrow within 14 days'
-    contextEs: 'El producto está diseñado en torno al endeudamiento repetido, no a emergencias puntuales: el 80% de los prestatarios vuelven a pedir prestado dentro de 14 días'
+    context: 'The product is designed around repeat borrowing, not one-time emergencies - 80% of loans are rolled over or followed by another loan within 14 days'
+    contextEs: 'El producto está diseñado en torno al endeudamiento repetido, no a emergencias puntuales: el 80% de los préstamos se renuevan o van seguidos de otro préstamo dentro de 14 días'
     source: 'Consumer Financial Protection Bureau, 2014'
     sourceEs: 'Oficina de Protección Financiera del Consumidor, 2014'
     theme: 'danger'
@@ -94,7 +94,7 @@ Walk through Denver's lower-income and historically redlined neighborhoods - par
 
 This is the architecture of financial extraction. A working family hit by a car repair or a medical bill, with no savings cushion and no bank willing to lend small amounts, turns to the lender on the corner. The terms are designed not to solve the emergency but to convert it into a recurring revenue stream.
 
-The national research is damning. The Consumer Financial Protection Bureau found that **more than four out of five payday loans are rolled over or re-borrowed within a month** - 80% of borrowers re-borrow within 14 days, and payday borrowers are in debt a median of roughly 199 days per year (Consumer Financial Protection Bureau, 2014). The "two-week loan" is a marketing fiction. The real product is a cycle of debt.
+The national research is damning. The Consumer Financial Protection Bureau found that **more than four out of five payday loans are rolled over or re-borrowed within a month** - 80% are rolled over or followed by another loan within 14 days, and payday borrowers are in debt a median of roughly 199 days per year (Consumer Financial Protection Bureau, 2014). The "two-week loan" is a marketing fiction. The real product is a cycle of debt.
 
 High-cost lenders are also distributed unequally. Research finds payday and auto-title lenders disproportionately concentrated in lower-income communities and in neighborhoods with larger Black and Latino populations (Center for Responsible Lending, 2020). The result is that the families with the least margin pay the most for credit - a regressive, racialized tax on being poor.
 
@@ -197,7 +197,7 @@ This is a low-cost, high-leverage policy. It is primarily regulatory, and much o
 
 3. **Credit-union seed support.** The most significant discretionary cost is seed and loss-reserve funding to help community credit unions and CDFIs stand up or expand capped-rate small-dollar loan programs. This can be a modest revolving contribution (loss reserves are leveraged many times over in lending) and is a strong candidate for philanthropic and CDFI matching funds rather than ongoing general-fund spending.
 
-The return is real even if it does not appear as a line item: every dollar a Denver family keeps instead of paying to a high-cost lender is a dollar that stays in the local economy. Because **hasFundingSources** is false for this policy, the emphasis is on regulatory action and partnership leverage, not a major new appropriation.
+The return is real even if it does not appear as a line item: every dollar a Denver family keeps instead of paying to a high-cost lender is a dollar that stays in the local economy. The emphasis is on regulatory action and partnership leverage, not a major new appropriation.
 
 ## References
 

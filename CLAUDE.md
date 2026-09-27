@@ -24,7 +24,7 @@ The CI workflow (`.github/workflows/ci.yml`) runs on PRs to `main`:
 2. `npm run lint` — ESLint (must pass)
 3. `npm run test` — Vitest (must pass)
 4. `npm run build` — Astro build (must pass)
-5. `node scripts/translate/check-coverage.js` — Translation coverage (must pass)
+5. `node scripts/translate/check-coverage.js --strict` — Translation coverage (must pass; every policy needs a body and metadata in all six locales)
 
 **Before submitting work, always run:** `npm run lint && npm run test && npm run build`
 

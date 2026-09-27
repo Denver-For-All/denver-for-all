@@ -87,7 +87,7 @@ goalsReviewed: '2026-09'
 
 Denver's city elections are broken in a specific, fixable way. Here is how they currently work:
 
-In a competitive race with three or more candidates, if no one gets more than 50% of the vote in May, the top two candidates advance to a runoff election in July. That runoff is expensive, poorly attended, and often produces a winner who a majority of voters in the May election voted _against_.
+In a competitive race with three or more candidates, if no one gets more than 50% of the vote in May, the top two candidates advance to a runoff election in June. That runoff is expensive, poorly attended, and often produces a winner who a majority of voters in the May election voted _against_.
 
 This is not a bug in the system. This is the system. And it has predictable effects:
 
@@ -117,7 +117,7 @@ Under RCV:
 
 **The result:** The winner has the broadest support among the electorate, not just the most effective base mobilization. Voters can vote their genuine first choice without worrying about wasting their vote on a candidate who might be eliminated. Third-party and independent candidates can compete without acting as spoilers.
 
-**What disappears:** The expensive, low-turnout July runoff. Instead, the RCV tabulation - which takes hours, not weeks - produces a majority winner from the initial election. The city saves $2M+ per election cycle. Voters participate once, in the high-turnout May election.
+**What disappears:** The expensive, low-turnout June runoff. Instead, the RCV tabulation - which takes hours, not weeks - produces a majority winner from the initial election. The city saves $2M+ per election cycle. Voters participate once, in the high-turnout May election.
 
 ### 2. Implement Universal Voter Registration
 
@@ -173,7 +173,7 @@ This is modeled on New York City's 6:1 matching program, which produced a dramat
 
 ## Local Context
 
-Denver's demographics have shifted dramatically in the past 20 years. The city is younger, more diverse, more renter-heavy, and more progressive than the homeowner base that has traditionally dominated local elections. Yet Denver's elected leadership - in the Mayor's office and on City Council - has consistently reflected the preferences of the high-information, high-wealth, homeowner minority that turns out reliably in May primaries and especially in July runoffs.
+Denver's demographics have shifted dramatically in the past 20 years. The city is younger, more diverse, more renter-heavy, and more progressive than the homeowner base that has traditionally dominated local elections. Yet Denver's elected leadership - in the Mayor's office and on City Council - has consistently reflected the preferences of the high-information, high-wealth, homeowner minority that turns out reliably in May primaries and especially in June runoffs.
 
 This is not a conspiracy. It is a predictable structural outcome of the current voting system. RCV does not guarantee progressive outcomes - it guarantees that whoever wins has the broadest support among people who vote. That is what democracy is supposed to do.
 
@@ -199,7 +199,7 @@ RCV is a cost-saving measure, not a cost:
 
 | Item                                 | Annual Impact                                   |
 | ------------------------------------ | ----------------------------------------------- |
-| Eliminate July runoff elections      | Save ~$2M per election cycle                    |
+| Eliminate June runoff elections      | Save ~$2M per election cycle                    |
 | Small-dollar matching fund           | ~$3-5M per election cycle (new spending)        |
 | Independent redistricting commission | ~$500K per redistricting cycle (every 10 years) |
 | Net over a 4-year council term       | Approximately cost-neutral to slight savings    |

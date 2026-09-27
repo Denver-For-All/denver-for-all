@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Las elecciones municipales de Denver están rotas de una manera específica y solucionable. Actualmente, si nadie obtiene más del 50% de los votos en mayo, los dos primeros candidatos avanzan a una segunda vuelta en julio. Esa segunda vuelta es costosa, tiene poca asistencia y a menudo produce un ganador que la mayoría de los votantes de la elección de mayo votó _en contra_.
+Las elecciones municipales de Denver están rotas de una manera específica y solucionable. Actualmente, si nadie obtiene más del 50% de los votos en mayo, los dos primeros candidatos avanzan a una segunda vuelta en junio. Esa segunda vuelta es costosa, tiene poca asistencia y a menudo produce un ganador que la mayoría de los votantes de la elección de mayo votó _en contra_.
 
 - **El dinero domina las segundas vueltas.** Una campaña bien financiada puede permitirse la saturación publicitaria necesaria para impulsar la participación en una segunda vuelta de bajo ciclo.
 - **El efecto "spoiler" suprime las preferencias genuinas.** Los votantes que prefieren a un candidato que creen que no puede ganar a menudo votan estratégicamente por su "menor mal".
@@ -25,7 +25,7 @@ Con la VOP:
 
 **El resultado:** El ganador tiene el apoyo más amplio entre el electorado. Los votantes pueden votar por su primera opción genuina sin preocuparse por desperdiciar su voto.
 
-**Lo que desaparece:** La costosa segunda vuelta de julio de baja participación.
+**Lo que desaparece:** La costosa segunda vuelta de junio de baja participación.
 
 ### 2. Implementar el Registro Universal de Votantes
 
@@ -59,7 +59,7 @@ Crear un **programa de correspondencia de pequeñas donaciones** para las elecci
 
 ## Contexto Local
 
-Los datos demográficos de Denver han cambiado dramáticamente en los últimos 20 años. La ciudad es más joven, más diversa, con más inquilinos y más progresista que la base de propietarios que ha dominado tradicionalmente las elecciones locales. Sin embargo, el liderazgo electo de Denver ha reflejado consistentemente las preferencias de la minoría de altos ingresos que participa en las primarias de mayo y especialmente en las segundas vueltas de julio.
+Los datos demográficos de Denver han cambiado dramáticamente en los últimos 20 años. La ciudad es más joven, más diversa, con más inquilinos y más progresista que la base de propietarios que ha dominado tradicionalmente las elecciones locales. Sin embargo, el liderazgo electo de Denver ha reflejado consistentemente las preferencias de la minoría de altos ingresos que participa en las primarias de mayo y especialmente en las segundas vueltas de junio.
 
 Las comunidades con más que ganar de la reforma electoral son las actualmente menos representadas: inquilinos, jóvenes, inmigrantes y residentes de la clase trabajadora cuyos trabajos dificultan votar durante el horario electoral tradicional.
 
@@ -75,7 +75,7 @@ Eso es exactamente lo que la VOP evita. Si tu primera opción es eliminada, tu v
 
 | Elemento                                        | Impacto Anual                            |
 | ----------------------------------------------- | ---------------------------------------- |
-| Eliminar las segundas vueltas de julio          | Ahorrar ~$2M por ciclo electoral         |
+| Eliminar las segundas vueltas de junio          | Ahorrar ~$2M por ciclo electoral         |
 | Fondo de correspondencia de pequeñas donaciones | ~$3-5M por ciclo electoral (nuevo gasto) |
 | Comisión de redistribución independiente        | ~$500K por ciclo de redistribución       |
 

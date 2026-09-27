@@ -12,6 +12,8 @@ import { Image } from 'astro:assets';
 import { getOgImage } from '@config/og-images';
 import { getCollection, getEntry, render } from 'astro:content';
 import { siteConfig, siteUrl } from '@config/site';
+import { localeFromPath } from '@i18n/utils';
+import { localizePolicy } from '@i18n/policy-l10n';
 
 export async function getStaticPaths() {
   const policies = await getCollection('policies');
@@ -26,9 +28,9 @@ const { Content } = await render(policy);
 
 let ContentLoc: (typeof Content) | null = null;
 try {
-  const policyLoc = await getEntry('policies-am', policy.slug);
+  const policyLoc = await getEntry('policies-am', policy.id);
   if (policyLoc) {
-    const rendered = await policyLoc.render();
+    const rendered = await render(policyLoc);
     ContentLoc = rendered.Content;
   }
 } catch {
@@ -41,7 +43,9 @@ const hasFundingSources = policy.data.hasFundingSources;
 const hasGrantProposal = !!policy.data.grantProposal;
 const hasCouncilChampion = !!policy.data.councilChampion;
 const relatedLegislation = policy.data.relatedLegislation || [];
-const keyStats = policy.data.keyStats || [];
+const lang = localeFromPath(Astro.url.pathname);
+const loc = localizePolicy(policy.id, policy.data, lang);
+const keyStats = loc.keyStats;
 
 const categoryMap: Record<string, string> = {
   housing: 'Vivienda y Personas sin Hogar',
@@ -95,7 +99,7 @@ const progressStages: ProgressStage[] = [
 ];
 ---
 
-<Layout title={policy.data.title} description={policy.data.summary} ogCategory={policy.data.category} ogType="article">
+<Layout title={loc.title} description={loc.summary} ogCategory={policy.data.category} ogType="article">
   <article class="section">
     <div class="container container--narrow">
       <a href="/platform" class="back-link" data-en="← Back to Platform" data-es="← Volver a la Plataforma">
@@ -110,9 +114,9 @@ const progressStages: ProgressStage[] = [
           <Icon name={`lucide:${policy.data.icon}`} size={32} />
         </div>
         <span class="policy-header__category" data-en={policy.data.category} data-es={categoryEs}>{policy.data.category}</span>
-        <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{policy.data.title}</h1>
+        <h1 data-en={policy.data.title} data-es={policy.data.titleEs}>{loc.title}</h1>
         <p class="policy-header__summary" data-en={policy.data.summary} data-es={policy.data.summaryEs}>
-          {policy.data.summary}
+          {loc.summary}
         </p>
       </header>
 
@@ -173,13 +177,13 @@ const progressStages: ProgressStage[] = [
         <ShareableStatCard
           client:visible
           stats={keyStats}
-          policyTitle={policy.data.title}
+          policyTitle={loc.title}
           policyTitleEs={policy.data.titleEs}
           policySlug={policy.id}
         />
       )}
 
-      <SmartGoals goals={policy.data.smartGoals} reviewed={policy.data.goalsReviewed} />
+      <SmartGoals goals={loc.smartGoals} reviewed={policy.data.goalsReviewed} lang={lang} />
 
       {relatedLegislation.length > 0 && (
         <div class="related-legislation">
@@ -221,7 +225,7 @@ const progressStages: ProgressStage[] = [
               actionTarget={policy.data.actionTarget}
               petition={policy.data.petition}
               grantProposal={policy.data.grantProposal}
-              policyTitle={policy.data.title}
+              policyTitle={loc.title}
             />
           </div>
           <div class="policy-footer__score">

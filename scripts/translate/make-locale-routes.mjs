@@ -56,9 +56,9 @@ function transform(src, rel, locale) {
       /let ContentEs: \(typeof Content\) \| null = null;[\s\S]*?\n}\n/,
       `let ContentLoc: (typeof Content) | null = null;\n` +
         `try {\n` +
-        `  const policyLoc = await getEntry('policies-${locale}', policy.slug);\n` +
+        `  const policyLoc = await getEntry('policies-${locale}', policy.id);\n` +
         `  if (policyLoc) {\n` +
-        `    const rendered = await policyLoc.render();\n` +
+        `    const rendered = await render(policyLoc);\n` +
         `    ContentLoc = rendered.Content;\n` +
         `  }\n` +
         `} catch {\n` +

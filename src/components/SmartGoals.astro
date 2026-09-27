@@ -1,5 +1,6 @@
 ---
 import { Icon } from 'astro-icon/components';
+import type { Locale } from '@i18n/utils';
 
 interface SmartGoal {
   goal: string;
@@ -21,24 +22,100 @@ interface SmartGoal {
 interface Props {
   goals: SmartGoal[];
   reviewed: string;
+  /** Active locale. English pages also carry Spanish via data-es swapping. */
+  lang?: Locale;
 }
 
-const { goals, reviewed } = Astro.props;
+const { goals, reviewed, lang = 'en' } = Astro.props;
 
-const MONTHS_EN = [
-  'January',
-  'February',
-  'March',
-  'April',
-  'May',
-  'June',
-  'July',
-  'August',
-  'September',
-  'October',
-  'November',
-  'December',
-];
+interface Labels {
+  heading: string;
+  intro: string;
+  metric: string;
+  baseline: string;
+  target: string;
+  owner: string;
+  precedent: string;
+  source: string;
+  by: string;
+}
+
+// `{date}` is replaced with the localized month or year.
+const LABELS: Record<Locale, Labels> = {
+  en: {
+    heading: "How We'll Measure Success",
+    intro:
+      'Every target below is SMART: specific, measurable against a dated baseline, achievable because another city has done it, relevant to this proposal, and tied to a deadline. Hold us and City Hall to these numbers. Targets last reviewed {date}.',
+    metric: 'Metric:',
+    baseline: 'Baseline',
+    target: 'Target',
+    owner: 'Accountable',
+    precedent: 'Proven elsewhere',
+    source: 'Baseline source:',
+    by: 'By {date}',
+  },
+  es: {
+    heading: 'Cómo Mediremos el Éxito',
+    intro:
+      'Cada meta a continuación es SMART: específica, medible frente a una línea de base con fecha, alcanzable porque otra ciudad ya lo logró, relevante para esta propuesta y con fecha límite. Exíjannos a nosotros y al Ayuntamiento estos números. Metas revisadas por última vez en {date}.',
+    metric: 'Indicador:',
+    baseline: 'Línea de base',
+    target: 'Meta',
+    owner: 'Responsable',
+    precedent: 'Comprobado en otros lugares',
+    source: 'Fuente de la línea de base:',
+    by: 'Para {date}',
+  },
+  vi: {
+    heading: 'Chúng Tôi Sẽ Đo Lường Thành Công Như Thế Nào',
+    intro:
+      'Mỗi mục tiêu dưới đây đều đạt chuẩn SMART: cụ thể, đo lường được so với mức cơ sở có ghi năm, khả thi vì đã có thành phố khác làm được, phù hợp với đề xuất này và có thời hạn rõ ràng. Hãy dùng những con số này để yêu cầu chúng tôi và Tòa Thị Chính chịu trách nhiệm. Các mục tiêu được xem xét lần cuối vào {date}.',
+    metric: 'Chỉ số:',
+    baseline: 'Mức cơ sở',
+    target: 'Mục tiêu',
+    owner: 'Cơ quan chịu trách nhiệm',
+    precedent: 'Đã được chứng minh ở nơi khác',
+    source: 'Nguồn của mức cơ sở:',
+    by: 'Hạn chót: {date}',
+  },
+  zh: {
+    heading: '我们如何衡量成效',
+    intro:
+      '以下每项目标都符合 SMART 原则：具体明确、可对照注明年份的基准进行衡量、可以实现（其他城市已经做到）、与本提案密切相关，并设有明确期限。请用这些数字监督我们和市政府。目标最近一次审核于{date}。',
+    metric: '指标：',
+    baseline: '基准',
+    target: '目标',
+    owner: '负责机构',
+    precedent: '其他地方的成功先例',
+    source: '基准来源：',
+    by: '期限：{date}',
+  },
+  ar: {
+    heading: 'كيف سنقيس النجاح',
+    intro:
+      'كل هدف أدناه هدفٌ ذكي (SMART): محدد، وقابل للقياس مقارنةً بخط أساس مؤرَّخ، وقابل للتحقيق لأن مدينة أخرى حققته، ووثيق الصلة بهذا المقترح، ومرتبط بموعد نهائي. حاسِبونا وحاسِبوا مجلس المدينة على هذه الأرقام. آخر مراجعة للأهداف: {date}.',
+    metric: 'المؤشر:',
+    baseline: 'خط الأساس',
+    target: 'الهدف',
+    owner: 'الجهة المسؤولة',
+    precedent: 'ثبت نجاحه في أماكن أخرى',
+    source: 'مصدر خط الأساس:',
+    by: 'بحلول {date}',
+  },
+  am: {
+    heading: 'ስኬትን እንዴት እንለካለን',
+    intro:
+      'ከዚህ በታች ያሉት ግቦች በሙሉ SMART ናቸው፦ የተወሰኑ፣ ዓመቱ ከተጠቀሰ መነሻ አንጻር የሚለኩ፣ ሌላ ከተማ ስላሳካቸው ሊደረስባቸው የሚችሉ፣ ከዚህ ሀሳብ ጋር የተያያዙ እና የጊዜ ገደብ ያላቸው ናቸው። እኛንም የከተማውን አስተዳደርም በእነዚህ ቁጥሮች ተጠያቂ ያድርጉ። ግቦቹ ለመጨረሻ ጊዜ የተገመገሙት፦ {date}።',
+    metric: 'መለኪያ፦',
+    baseline: 'መነሻ',
+    target: 'ግብ',
+    owner: 'ተጠያቂ አካል',
+    precedent: 'በሌሎች ቦታዎች የተረጋገጠ',
+    source: 'የመነሻው ምንጭ፦',
+    by: 'እስከ {date}',
+  },
+};
+
 const MONTHS_ES = [
   'enero',
   'febrero',
@@ -54,107 +131,105 @@ const MONTHS_ES = [
   'diciembre',
 ];
 
-function formatMonth(value: string, lang: 'en' | 'es'): string {
+function formatMonth(value: string, locale: Locale): string {
   const [year, month] = value.split('-');
   if (!month) return year;
-  const idx = Number(month) - 1;
-  return lang === 'en' ? `${MONTHS_EN[idx]} ${year}` : `${MONTHS_ES[idx]} de ${year}`;
+  if (locale === 'es') return `${MONTHS_ES[Number(month) - 1]} de ${year}`;
+  const date = new Date(Date.UTC(Number(year), Number(month) - 1, 1));
+  return new Intl.DateTimeFormat(locale === 'en' ? 'en-US' : locale, {
+    year: 'numeric',
+    month: 'long',
+    timeZone: 'UTC',
+  }).format(date);
 }
 
-const reviewedEn = formatMonth(reviewed, 'en');
+const fill = (template: string, date: string) => template.replace('{date}', date);
+
+// English pages render English and carry Spanish in data-es for the in-page
+// language swap. Other locales render their own text directly, with no
+// data-en keys, so the runtime dictionary leaves them alone.
+const bilingual = lang === 'en' || lang === 'es';
+const L = LABELS[bilingual ? 'en' : lang];
+const Les = LABELS.es;
+
+function attrs(en: string, es: string): Record<string, string> {
+  return bilingual ? { 'data-en': en, 'data-es': es } : {};
+}
+
+const reviewedText = formatMonth(reviewed, bilingual ? 'en' : lang);
 const reviewedEs = formatMonth(reviewed, 'es');
+const arrow = lang === 'ar' ? '←' : '→';
 ---
 
 <section class="smart-goals" aria-labelledby="smart-goals-heading">
-  <h2 id="smart-goals-heading" data-en="How We'll Measure Success" data-es="Cómo Mediremos el Éxito">
-    How We'll Measure Success
-  </h2>
-  <p
-    class="smart-goals__intro"
-    data-en={`Every target below is SMART: specific, measurable against a dated baseline, achievable because another city has done it, relevant to this proposal, and tied to a deadline. Hold us and City Hall to these numbers. Targets last reviewed ${reviewedEn}.`}
-    data-es={`Cada meta a continuación es SMART: específica, medible frente a una línea de base con fecha, alcanzable porque otra ciudad ya lo logró, relevante para esta propuesta y con fecha límite. Exíjannos a nosotros y al Ayuntamiento estos números. Metas revisadas por última vez en ${reviewedEs}.`}
-  >
-    Every target below is SMART: specific, measurable against a dated baseline, achievable because
-    another city has done it, relevant to this proposal, and tied to a deadline. Hold us and City
-    Hall to these numbers. Targets last reviewed {reviewedEn}.
+  <h2 id="smart-goals-heading" {...attrs(L.heading, Les.heading)}>{L.heading}</h2>
+  <p class="smart-goals__intro" {...attrs(fill(L.intro, reviewedText), fill(Les.intro, reviewedEs))}>
+    {fill(L.intro, reviewedText)}
   </p>
 
   <ol class="smart-goals__list">
     {
-      goals.map((g) => (
-        <li class="smart-goal">
-          <div class="smart-goal__head">
-            <h3 class="smart-goal__title" data-en={g.goal} data-es={g.goalEs}>
-              {g.goal}
-            </h3>
-            <span
-              class="smart-goal__deadline"
-              data-en={`By ${formatMonth(g.deadline, 'en')}`}
-              data-es={`Para ${formatMonth(g.deadline, 'es')}`}
-            >
-              <Icon name="lucide:calendar-clock" size={14} />
-              By {formatMonth(g.deadline, 'en')}
-            </span>
-          </div>
-
-          <p class="smart-goal__metric">
-            <span class="smart-goal__label" data-en="Metric:" data-es="Indicador:">
-              Metric:
-            </span>{' '}
-            <span data-en={g.metric} data-es={g.metricEs}>
-              {g.metric}
-            </span>
-          </p>
-
-          <div class="smart-goal__progress">
-            <div class="smart-goal__point">
-              <span class="smart-goal__label" data-en="Baseline" data-es="Línea de base">
-                Baseline
-              </span>
-              <span class="smart-goal__value" data-en={g.baseline} data-es={g.baselineEs}>
-                {g.baseline}
+      goals.map((g) => {
+        const byText = fill(L.by, formatMonth(g.deadline, bilingual ? 'en' : lang));
+        const byEs = fill(Les.by, formatMonth(g.deadline, 'es'));
+        return (
+          <li class="smart-goal">
+            <div class="smart-goal__head">
+              <h3 class="smart-goal__title" {...attrs(g.goal, g.goalEs)}>
+                {g.goal}
+              </h3>
+              <span class="smart-goal__deadline">
+                <Icon name="lucide:calendar-clock" size={14} />
+                <span {...attrs(byText, byEs)}>{byText}</span>
               </span>
             </div>
-            <span class="smart-goal__arrow" aria-hidden="true">
-              →
-            </span>
-            <div class="smart-goal__point smart-goal__point--target">
-              <span class="smart-goal__label" data-en="Target" data-es="Meta">
-                Target
-              </span>
-              <span class="smart-goal__value" data-en={g.target} data-es={g.targetEs}>
-                {g.target}
-              </span>
-            </div>
-          </div>
 
-          <dl class="smart-goal__details">
-            <div>
-              <dt data-en="Accountable" data-es="Responsable">
-                Accountable
-              </dt>
-              <dd data-en={g.owner} data-es={g.ownerEs}>
-                {g.owner}
-              </dd>
-            </div>
-            <div>
-              <dt data-en="Proven elsewhere" data-es="Comprobado en otros lugares">
-                Proven elsewhere
-              </dt>
-              <dd data-en={g.precedent} data-es={g.precedentEs}>
-                {g.precedent}
-              </dd>
-            </div>
-          </dl>
+            <p class="smart-goal__metric">
+              <span class="smart-goal__label" {...attrs(L.metric, Les.metric)}>
+                {L.metric}
+              </span>{' '}
+              <span {...attrs(g.metric, g.metricEs)}>{g.metric}</span>
+            </p>
 
-          <p class="smart-goal__source">
-            <span data-en="Baseline source:" data-es="Fuente de la línea de base:">
-              Baseline source:
-            </span>{' '}
-            {g.source}
-          </p>
-        </li>
-      ))
+            <div class="smart-goal__progress">
+              <div class="smart-goal__point">
+                <span class="smart-goal__label" {...attrs(L.baseline, Les.baseline)}>
+                  {L.baseline}
+                </span>
+                <span class="smart-goal__value" {...attrs(g.baseline, g.baselineEs)}>
+                  {g.baseline}
+                </span>
+              </div>
+              <span class="smart-goal__arrow" aria-hidden="true">
+                {arrow}
+              </span>
+              <div class="smart-goal__point smart-goal__point--target">
+                <span class="smart-goal__label" {...attrs(L.target, Les.target)}>
+                  {L.target}
+                </span>
+                <span class="smart-goal__value" {...attrs(g.target, g.targetEs)}>
+                  {g.target}
+                </span>
+              </div>
+            </div>
+
+            <dl class="smart-goal__details">
+              <div>
+                <dt {...attrs(L.owner, Les.owner)}>{L.owner}</dt>
+                <dd {...attrs(g.owner, g.ownerEs)}>{g.owner}</dd>
+              </div>
+              <div>
+                <dt {...attrs(L.precedent, Les.precedent)}>{L.precedent}</dt>
+                <dd {...attrs(g.precedent, g.precedentEs)}>{g.precedent}</dd>
+              </div>
+            </dl>
+
+            <p class="smart-goal__source">
+              <span {...attrs(L.source, Les.source)}>{L.source}</span> <cite>{g.source}</cite>
+            </p>
+          </li>
+        );
+      })
     }
   </ol>
 </section>
@@ -287,6 +362,10 @@ const reviewedEs = formatMonth(reviewed, 'es');
 
   .smart-goal__details dd {
     margin: 0.1rem 0 0;
+  }
+
+  .smart-goal__source cite {
+    font-style: normal;
   }
 
   .smart-goal__source {

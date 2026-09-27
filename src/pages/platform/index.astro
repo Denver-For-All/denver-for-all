@@ -5,9 +5,15 @@ import EmailCapture from '../../components/EmailCapture.astro';
 import { Image } from 'astro:assets';
 import { getOgImage } from '@config/og-images';
 import { getCollection } from 'astro:content';
+import { localeFromPath } from '@i18n/utils';
+import { localizePolicy } from '@i18n/policy-l10n';
 
 const policies = (await getCollection('policies'))
   .sort((a, b) => a.data.order - b.data.order);
+
+// Titles and summaries in the page's locale (English fallback) for vi/zh/ar/am.
+const lang = localeFromPath(Astro.url.pathname);
+const localized = new Map(policies.map((p) => [p.id, localizePolicy(p.id, p.data, lang)]));
 
 const categories = [
   { key: 'housing', en: 'Housing & Homelessness', es: 'Vivienda y Personas sin Hogar' },
@@ -76,16 +82,16 @@ const categories = [
                   <div
                     class="policy-card-wrapper"
                     data-category={cat.key}
-                    data-title-en={policy.data.title.toLowerCase()}
+                    data-title-en={localized.get(policy.id)!.title.toLowerCase()}
                     data-title-es={policy.data.titleEs.toLowerCase()}
-                    data-summary-en={policy.data.summary.toLowerCase()}
+                    data-summary-en={localized.get(policy.id)!.summary.toLowerCase()}
                     data-summary-es={policy.data.summaryEs.toLowerCase()}
                   >
                     <PolicyCard
                       slug={policy.id}
-                      title={policy.data.title}
+                      title={localized.get(policy.id)!.title}
                       titleEs={policy.data.titleEs}
-                      summary={policy.data.summary}
+                      summary={localized.get(policy.id)!.summary}
                       summaryEs={policy.data.summaryEs}
                       category={cat.en}
                       categoryEs={cat.es}

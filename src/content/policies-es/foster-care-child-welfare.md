@@ -92,7 +92,7 @@ Los niños de color son retirados a tasas más altas y trasladados con más frec
 
 ## Cómo lo Pagamos
 
-Esta política se financia a través de una combinación de reasignación y reembolso federal en lugar de un nuevo impuesto importante, razón por la cual `hasFundingSources` está configurado como falso: depende de dólares que ya circulan por el sistema.
+Esta política se financia a través de una combinación de reasignación y reembolso federal en lugar de un nuevo impuesto importante: depende de dólares que ya circulan por el sistema.
 
 1. **Estipendios de parentesco a la par de las tarifas de crianza.** Financiados mediante la redirección de los dólares de colocación lejos de las colocaciones congregadas y no familiares de mayor costo, a medida que más niños son colocados de manera segura con parientes, además del reembolso federal descrito a continuación.
 2. **Reembolso de la Ley Family First de Servicios de Prevención.** Colorado puede obtener al menos un 50% de reembolso federal para programas de navegación de parentesco y prevención basados en evidencia (Ley Family First de Servicios de Prevención, 2018). Establecer un programa de navegación de parentesco de Denver y servicios de prevención permite a la ciudad pagar aproximadamente la mitad de estos apoyos con dólares federales.

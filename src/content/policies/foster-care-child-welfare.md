@@ -179,7 +179,7 @@ Children of color are removed at higher rates and moved more often once in care,
 
 ## How We Pay For It
 
-This policy is funded through a combination of reallocation and federal match rather than a major new tax, which is why `hasFundingSources` is set to false - it relies on dollars already moving through the system.
+This policy is funded through a combination of reallocation and federal match rather than a major new tax - it relies on dollars already moving through the system.
 
 1. **Kinship stipends at parity with foster rates.** Funded by redirecting placement dollars away from higher-cost congregate and non-relative placements as more children are safely placed with kin, plus the federal match described below.
 2. **Family First Prevention Services Act match.** Colorado can draw down at least 50% federal reimbursement for evidence-based kinship navigator and prevention programs (Family First Prevention Services Act, 2018). Standing up a Denver kinship navigator program and prevention services lets the city pay for roughly half of these supports with federal dollars.

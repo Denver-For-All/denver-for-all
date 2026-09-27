@@ -76,7 +76,7 @@ smartGoals:
     deadline: '2029'
     owner: 'Department of Housing Stability (HOST)'
     ownerEs: 'Departamento de Estabilidad de Vivienda (HOST)'
-    precedent: 'Barcelona has stopped renewing its ~10,000 tourist apartment licenses by 2028 to return them to residents'
+    precedent: 'Barcelona will stop renewing its ~10,000 tourist apartment licenses by 2028 to return them to residents'
     precedentEs: 'Barcelona dejará de renovar sus ~10,000 licencias de pisos turísticos para 2028 para devolverlos a los residentes'
     source: 'Denver Excise and Licenses, 2026'
 goalsReviewed: '2026-09'
@@ -163,12 +163,12 @@ After 12 months, full enforcement begins.
 
 ### Cities That Have Acted - And What Happened
 
-| City                                   | Policy                                                                                                 | Result                                                                                                                        |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| **New York City** (Local Law 18, 2023) | Required STR hosts to be present during guest stays; platforms barred from listing non-compliant units | Airbnb listings dropped from ~22,000 to ~3,000 within months; long-term rental inventory increased (McGeehan, NY Times, 2023) |
-| **Barcelona, Spain**                   | Began revoking STR licenses citywide in 2028 (announced 2023)                                          | 10,000 STR licenses not renewed; tourism apartments converted to long-term rentals                                            |
-| **Amsterdam, Netherlands**             | 30-night annual cap on whole-unit STRs; platform data-sharing required                                 | STR listings declined 30%+ year-over-year; compliance increased dramatically                                                  |
-| **Santa Monica, CA**                   | Home-sharing ordinance with strict primary-residence requirement and platform liability                | STR listings fell 80%; long-term vacancy rates improved (Santa Monica City Planning, 2020)                                    |
+| City                                   | Policy                                                                                                                  | Result                                                                                                                        |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **New York City** (Local Law 18, 2023) | Required STR hosts to be present during guest stays; platforms barred from listing non-compliant units                  | Airbnb listings dropped from ~22,000 to ~3,000 within months; long-term rental inventory increased (McGeehan, NY Times, 2023) |
+| **Barcelona, Spain**                   | Announced (June 2024) it will not renew any of its ~10,000 tourist-apartment licenses when they expire in November 2028 | Pending; non-renewals take effect in November 2028                                                                            |
+| **Amsterdam, Netherlands**             | 30-night annual cap on whole-unit STRs; platform data-sharing required                                                  | STR listings declined 30%+ year-over-year; compliance increased dramatically                                                  |
+| **Santa Monica, CA**                   | Home-sharing ordinance with strict primary-residence requirement and platform liability                                 | STR listings fell 80%; long-term vacancy rates improved (Santa Monica City Planning, 2020)                                    |
 
 The common thread: **platform liability is the enforcement mechanism that works**. When Airbnb and VRBO face fines for listing non-compliant properties, they comply. When only hosts face fines, non-compliant listings persist because individual hosts are hard to find and prosecute.
 

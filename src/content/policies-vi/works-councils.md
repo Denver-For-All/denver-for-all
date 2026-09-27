@@ -104,8 +104,8 @@ Các hội đồng công nhân bổ sung cho các công đoàn - họ không tha
 
 ## Tài Liệu Tham Khảo
 
-- Đạo Luật Hiến Pháp Lao Động của Đức (_Betriebsverfassungsgesetz_), 1972 (sửa đổi năm 2001)
-- Đạo Luật Đồng Quyết Định của Đức (_Mitbestimmungsgesetz_), 1976
-- Viện Chính Sách Kinh Tế, "Lương CEO Đã Tăng Vọt 1.460% Kể Từ Năm 1978," _Báo Cáo_, 2022 (bao gồm dữ liệu năm 2021)
-- Tổ Chức Lao Động Quốc Tế (ILO), _Sự Tham Gia của Người Lao Động Vào Quản Trị Doanh Nghiệp_, 2022
-- Đạo Luật Đồng Quyết Định Tại Nơi Làm Việc của Thụy Điển (_Medbestammandelagen_, MBL), 1976
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

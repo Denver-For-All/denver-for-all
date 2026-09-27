@@ -93,9 +93,11 @@ El fondo de desarrollo cooperativo está basado en incentivos, no es obligatorio
 
 ## Referencias
 
-- Birchall, J. y Ketilson, L.H. _Resilience of the Cooperative Business Model in Times of Crisis._ OIT, 2009.
-- Asamblea General de Colorado. HB24-1092, _Worker Cooperative Corporations Act._ 2024.
-- Dube, A. y Freeman, R. _Complementarity of Shared Compensation and Decision-Making Systems._ NBER, 2010.
-- Centro Nacional de Propiedad de los Empleados. _Employee Ownership and Economic Well-Being._ 2023.
-- Project Equity. _The Ownership Crisis: Retiring Boomer Business Owners._ 2023.
-- Federación de Cooperativas de Trabajadores de EE. UU. _Informe Anual._ 2023.
+- Birchall, J. & Ketilson, L.H. (2009). _Resilience of the Cooperative Business Model in Times of Crisis._ ILO.
+- Colorado General Assembly. (2024). HB24-1092, _Worker Cooperative Corporations Act._.
+- Doucouliagos, C. (1995). _Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms._ Industrial and Labor Relations Review.
+- Dube, A. & Freeman, R. (2010). _Complementarity of Shared Compensation and Decision-Making Systems._ NBER.
+- National Center for Employee Ownership. (2023). _Employee Ownership and Economic Well-Being._.
+- Pencavel, J. et al. (2006). _Wages, Employment, and Capital in Capitalist and Worker-Owned Firms._ Industrial and Labor Relations Review.
+- Project Equity. (2023). _The Ownership Crisis: Retiring Boomer Business Owners._.
+- US Federation of Worker Cooperatives. (2023). _Annual Report._.

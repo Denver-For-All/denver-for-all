@@ -32,6 +32,50 @@ keyStats:
     contextEs: 'Los mismos vecindarios con menos probabilidad de tener aceras tienen las tasas mas altas de muertes peatonales'
     source: 'Denver Streets Partnership, 2022'
     theme: 'accent'
+smartGoals:
+  - goal: 'Build every missing sidewalk on school routes and transit corridors'
+    goalEs: 'Construir cada banqueta faltante en rutas escolares y corredores de transporte'
+    metric: 'Miles of missing sidewalk remaining within 1/4 mile of schools and high-frequency transit'
+    metricEs: 'Millas de banqueta faltante a menos de 1/4 de milla de escuelas y transporte de alta frecuencia'
+    baseline: '153 miles missing citywide; 54% of high-ridership transit stops have deficient access (State of the System, January 2026)'
+    baselineEs: '153 millas faltantes en la ciudad; 54% de las paradas de mayor uso tienen acceso deficiente (State of the System, enero de 2026)'
+    target: 'Zero missing on school routes and transit corridors'
+    targetEs: 'Cero faltantes en rutas escolares y corredores de transporte'
+    deadline: '2030'
+    owner: 'DOTI Sidewalk Enterprise'
+    ownerEs: 'Empresa de Banquetas de DOTI'
+    precedent: 'Hoboken, NJ has gone nine years without a traffic death after daylighting intersections and widening curbs citywide'
+    precedentEs: 'Hoboken, NJ lleva nueve años sin muertes de tráfico tras despejar esquinas y ampliar banquetas en toda la ciudad'
+    source: 'Denver DOTI State of the System Report, January 2026'
+  - goal: 'Cut pedestrian deaths by at least half'
+    goalEs: 'Reducir al menos a la mitad las muertes de peatones'
+    metric: 'Pedestrians killed on Denver streets per year'
+    metricEs: 'Peatones muertos en las calles de Denver por año'
+    baseline: '35 pedestrian deaths out of 93 traffic deaths (2025)'
+    baselineEs: '35 peatones muertos de 93 muertes de tráfico (2025)'
+    target: '17 or fewer'
+    targetEs: '17 o menos'
+    deadline: '2030'
+    owner: 'DOTI (Vision Zero)'
+    ownerEs: 'DOTI (Visión Cero)'
+    precedent: 'Oslo and Helsinki each recorded zero pedestrian deaths in 2019 after lowering speeds and redesigning streets'
+    precedentEs: 'Oslo y Helsinki registraron cero muertes de peatones en 2019 tras bajar velocidades y rediseñar calles'
+    source: 'Denver Vision Zero data, reported by Axios Denver (January 2026)'
+  - goal: 'Replace the flat sidewalk fee with a progressive fee'
+    goalEs: 'Reemplazar la tarifa fija de banquetas con una tarifa progresiva'
+    metric: 'Share of households below 60% AMI automatically receiving a fee rebate'
+    metricEs: 'Porcentaje de hogares con menos de 60% del AMI que reciben automáticamente un reembolso'
+    baseline: '$150 flat fee; rebates require an application (2025)'
+    baselineEs: 'Tarifa fija de $150; los reembolsos requieren solicitud (2025)'
+    target: 'Tiered fee adopted; 90% of eligible households rebated automatically'
+    targetEs: 'Tarifa escalonada aprobada; 90% de los hogares elegibles reembolsados automáticamente'
+    deadline: '2028'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Colorado's Property Tax Deferral and Denver's own NEST discount show income-based relief can be automated through assessor data"
+    precedentEs: 'El aplazamiento de impuestos de Colorado y el descuento NEST de Denver muestran que el alivio por ingresos puede automatizarse con datos del tasador'
+    source: 'Denver Sidewalk Enterprise ordinance, 2022'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -184,5 +228,5 @@ Under current rules, property owners are responsible for clearing sidewalks with
 - Denver Gazette / City of Denver. (2022). Measure 307 (Ordinance 307) and Denver Deserves Sidewalks ordinance. ($150/year fee; NEST discount; income-based rebates.)
 - City and County of Denver, City Council. (2024, September). Ordinance 1076-24. (Established the sidewalk service charge and Sidewalk Enterprise Fund; fee collection began January 2025; impact fees for >230 linear feet of frontage; overrode 2007 sidewalk exemptions.)
 - City and County of Denver. (2050). Denver Moves Everyone 2050 (strategic transportation plan); Complete Streets Guidelines (2020); Denver Moves: Pedestrians and Trails (2019); Transportation Standards and Details (2017). (Guiding plans referenced in the SIP.)
-- City of Pontevedra, Spain. Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
-- City of Oslo, Norway. Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)
+- City of Pontevedra, Spain. (n.d.). Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
+- City of Oslo, Norway. (n.d.). Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)

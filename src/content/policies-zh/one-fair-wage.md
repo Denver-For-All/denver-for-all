@@ -73,9 +73,9 @@ Colorado 的小费最低工资在 2025 年为每小时 $15.79（Colorado 劳工�
 
 ## 参考文献
 
-- Colorado 劳工和就业部，《2025 年最低工资标准》
-- 统一公平工资，《小费 работников 研究和政策中心》报告 (onefairwage.org)
-- 经济政策研究所，“各州的次最低工资”，《政策简报》，2023 年
-- 美国劳工统计局，《职业就业和工资统计》，Denver-Aurora-Lakewood MSA，2023 年
-- Allegretto & Nadler，“小费工资对提供全方位服务的餐馆的收入和就业的影响”，《劳资关系》54(4): 622-647 (2015)
-- 全国妇女法律中心，《小费最低工资及其对妇女的影响》，2023 年
+- Colorado Department of Labor and Employment. (n.d.). _2025 Minimum Wage Rates_.
+- One Fair Wage. (n.d.). _Tipped Worker Research and Policy Center_ reports. (onefairwage.org)
+- Economic Policy Institute. (2023). "Subminimum Wages in the States," _Policy Brief_.
+- Bureau of Labor Statistics. (2023). _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA.
+- Allegretto, S., & Nadler, C. (2015). Tipped wage effects on earnings and employment in full-service restaurants. _Industrial Relations, 54_(4), 622–647.
+- National Women's Law Center. (2023). _The Tipped Minimum Wage and Its Impact on Women_.

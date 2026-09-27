@@ -61,3 +61,9 @@ No. Asegura que el desarrollo beneficie a los residentes existentes en lugar de 
 
 **"¿No es demasiado alto el 30 % de inclusión?"**
 Ciudades como Montreal, Barcelona y varias jurisdicciones en los Estados Unidos han implementado con éxito requisitos de inclusión del 20 al 30 %. La clave es que se aplica a todos por igual, sin desventajas competitivas.
+
+## Referencias
+
+- Bardaka, E., Delgado, M. S., & Florax, R. J. G. M. (2018). Causal identification of transit-induced gentrification and spatial spillover effects: The case of the Denver light rail. _Journal of Transport Geography, 71_, 15-31. https://doi.org/10.1016/j.jtrangeo.2018.06.025
+- City and County of Denver. (2022). _Expanding Housing Affordability (EHA) ordinance_. https://www.denvergov.org
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit permanently affordable community in West Colfax]. https://www.coloradopolitics.com

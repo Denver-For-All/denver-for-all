@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'Cerraron oficinas cada viernes por un mes; costos de electricidad bajaron 23%'
     source: 'Microsoft Japan, 2019'
     theme: 'primary'
+smartGoals:
+  - goal: 'Give all 12,000+ city employees the right to disconnect'
+    goalEs: 'Dar a los más de 12,000 empleados municipales el derecho a desconectarse'
+    metric: 'City departments with written disconnect policies and no-retaliation protections'
+    metricEs: 'Departamentos municipales con políticas escritas de desconexión y protección contra represalias'
+    baseline: '0 (no policy, 2026)'
+    baselineEs: '0 (sin política, 2026)'
+    target: '100% of departments'
+    targetEs: '100% de los departamentos'
+    deadline: '2027-12'
+    owner: 'Office of Human Resources'
+    ownerEs: 'Oficina de Recursos Humanos'
+    precedent: 'France (2017), Portugal (2021), Ontario (2022), and Australia (2024) require right-to-disconnect policies'
+    precedentEs: 'Francia (2017), Portugal (2021), Ontario (2022) y Australia (2024) exigen políticas de derecho a la desconexión'
+    source: 'City and County of Denver HR policies, 2026'
+  - goal: 'Extend the right to disconnect to large private employers'
+    goalEs: 'Extender el derecho a la desconexión a los grandes empleadores privados'
+    metric: 'Ordinance covering employers with 20+ workers'
+    metricEs: 'Ordenanza que cubre a empleadores con 20 o más trabajadores'
+    baseline: 'No local or state protection (2026)'
+    baselineEs: 'Sin protección local ni estatal (2026)'
+    target: 'Ordinance in force'
+    targetEs: 'Ordenanza vigente'
+    deadline: '2029'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Australia's Fair Work Amendment (2024) applied the right to disconnect to large employers first, then small businesses in 2025"
+    precedentEs: 'La reforma Fair Work de Australia (2024) aplicó el derecho a desconectarse primero a grandes empleadores y luego a pequeñas empresas en 2025'
+    source: 'Denver Revised Municipal Code, 2026'
+  - goal: 'Pilot a 32-hour week at the same pay for city workers'
+    goalEs: 'Probar una semana de 32 horas con el mismo salario para trabajadores municipales'
+    metric: 'City employees in a 32-hour/4-day pilot with published productivity and retention results'
+    metricEs: 'Empleados municipales en un piloto de 32 horas/4 días con resultados publicados de productividad y retención'
+    baseline: '0 employees (2026)'
+    baselineEs: '0 empleados (2026)'
+    target: '2,000 employees in the pilot, evaluated independently'
+    targetEs: '2,000 empleados en el piloto, con evaluación independiente'
+    deadline: '2028'
+    owner: 'Office of Human Resources'
+    ownerEs: 'Oficina de Recursos Humanos'
+    precedent: "Iceland's 2015-2019 public-sector trials led to ~86% of the workforce gaining shorter hours; 92% of UK pilot firms kept the 4-day week"
+    precedentEs: 'Los ensayos del sector público de Islandia (2015-2019) llevaron a ~86% de la fuerza laboral a jornadas más cortas; 92% de las empresas del piloto británico mantuvieron la semana de 4 días'
+    source: 'City and County of Denver workforce data, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -125,8 +169,8 @@ Essential services operate on shift schedules, not standard work weeks. A 32-hou
 
 ## References
 
-- OECD, _Hours Worked_ indicator (data.oecd.org), 2023
-- France, _Code du travail_, Article L2242-17 (Right to Disconnect, enacted 2017)
-- Autonomy Research, _The Results Are In: The UK's Four-Day Week Pilot_, 2023
-- Iceland, _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
-- Microsoft Japan, _Work-Life Choice Challenge Summer 2019_ results
+- OECD. (2023). _Hours Worked_ indicator (data.oecd.org).
+- France. (n.d.). _Code du travail_, Article L2242-17. (Right to Disconnect, enacted 2017)
+- Autonomy Research. (2023). _The Results Are In: The UK's Four-Day Week Pilot_.
+- Iceland. (2021). _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week,"
+- Microsoft Japan. (n.d.). _Work-Life Choice Challenge Summer 2019_ results.

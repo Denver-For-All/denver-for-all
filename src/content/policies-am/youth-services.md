@@ -115,13 +115,13 @@ DPS በአንዳንድ ትምህርት ቤቶች የትምህርት ቤት ጤ�
 **"የጥቃት ጣልቃ ገብነት በወንጀል ላይ ልዝብ ነው።"**
 በማህበረሰብ ላይ የተመሰረተ የጥቃት ጣልቃ ገብነት ለአካለ መጠን ላልደረሱ ልጆች ከ70%+ ድጋሚ የወንጀል መጠን ካለው እስር የበለጠ ውጤታማ በሆነ መንገድ የአመጽ ወንጀልን ይቀንሳል። በኒው ዮርክ እና በቺካጎ ያሉ ታማኝ የመልእክተኛ ፕሮግራሞች ኢላማ በሆኑ አካባቢዎች ተኩስ በ30-60% ቀንሰዋል። በወንጀል ላይ ብልህ መሆን ማለት በጠንካራ ከመሰማት ይልቅ በትክክል በሚሰሩ ነገሮች ላይ ኢንቨስት ማድረግ ማለት ነው።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- የኮሎራዶ የህዝብ ጤና እና አካባቢ ጥበቃ መምሪያ። (2023)። የወጣቶች ራስን የማጥፋት መረጃ። (ከ10-24 አመት የሆናቸው ዋነኛ የሞት ምክንያት፤ ከአገራዊው አማካይ በ58% በላይ።)
-- የዴንቨር የህዝብ ትምህርት ቤቶች። (2023)። ተጠያቂነት እና ሥር የሰደደ የመቅረት ሪፖርቶች። (38% ሥር የሰደደ የመቅረት መጠን።)
-- የአሜሪካ ትምህርት ቤት አማካሪ ማህበር። የሚመከር የአማካሪ-ተማሪ ጥምርታ፡ 1:250።
-- የዴንቨር ፖሊስ መምሪያ። (2023)። ታዳጊ ተጎጂ እና የወንጀል መረጃ።
-- Measure of America. የወጣቶች መቋረጥ ተከታታይ። (በሜትሮ አካባቢ የወጣቶች መቋረጥ መጠን።)
-- የቦስተን ከንቲባ የሰራተኛ ልማት ጽ/ቤት። SuccessLink የፕሮግራም መረጃ እና ግምገማ።
-- የኒው ዮርክ ከተማ የወጣቶች እና የማህበረሰብ ልማት መምሪያ። የበጋ የወጣቶች የስራ ስምሪት ፕሮግራም ሪፖርቶች።
-- የኮሎራዶ የወጣቶች አገልግሎት ክፍል (2023)። በእስር ቤት ውስጥ ለአንድ ወጣት የሚወጣው ወጪ።
+- Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
+- Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
+- Denver Police Department. (2023). Juvenile victim and crime data.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
+- Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

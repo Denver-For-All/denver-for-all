@@ -93,8 +93,8 @@ Los servicios esenciales operan en horarios de turnos, no en semanas laborales e
 
 ## Referencias
 
-- OCDE, indicador _Horas Trabajadas_ (data.oecd.org), 2023
-- Francia, _Code du travail_, Artículo L2242-17 (Derecho a la Desconexión, promulgado en 2017)
-- Autonomy Research, _The Results Are In: The UK's Four-Day Week Pilot_, 2023
-- Islandia, _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
-- Microsoft Japón, resultados de _Work-Life Choice Challenge Summer 2019_
+- OECD. (2023). _Hours Worked_ indicator (data.oecd.org).
+- France. (n.d.). _Code du travail_, Article L2242-17. (Right to Disconnect, enacted 2017)
+- Autonomy Research. (2023). _The Results Are In: The UK's Four-Day Week Pilot_.
+- Iceland. (2021). _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week,"
+- Microsoft Japan. (n.d.). _Work-Life Choice Challenge Summer 2019_ results.

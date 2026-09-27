@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'Primera ciudad de EE.UU. en desembolsar reparaciones con fondos publicos'
     source: 'City of Evanston, 2025'
     theme: 'primary'
+smartGoals:
+  - goal: 'Establish the Denver Reparations & Restorative Justice Commission'
+    goalEs: 'Establecer la Comisión de Reparaciones y Justicia Restaurativa de Denver'
+    metric: 'Funded 25-member commission seated with a published harms report'
+    metricEs: 'Comisión de 25 miembros financiada e instalada con un informe publicado de daños'
+    baseline: 'No commission; Race and Social Justice Office has no reparations mandate (2026)'
+    baselineEs: 'Sin comisión; la Oficina de Raza y Justicia Social no tiene mandato de reparaciones (2026)'
+    target: 'Commission seated by 2027; harms report published by 2029'
+    targetEs: 'Comisión instalada en 2027; informe de daños publicado en 2029'
+    deadline: '2029'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Evanston, IL funded housing reparations from cannabis tax revenue beginning in 2021; Asheville seated a reparations commission and California's state task force reported in 2023"
+    precedentEs: 'Evanston, IL financió reparaciones de vivienda con impuestos al cannabis desde 2021; Asheville instaló una comisión de reparaciones y el grupo de trabajo de California presentó su informe en 2023'
+    source: 'Denver Race and Social Justice Office, 2026'
+  - goal: 'Deliver homeownership grants to families harmed by redlining and urban renewal'
+    goalEs: 'Entregar subvenciones de vivienda a familias afectadas por la discriminación hipotecaria y la renovación urbana'
+    metric: '$25,000 homeownership grants disbursed to eligible residents'
+    metricEs: 'Subvenciones de vivienda de $25,000 entregadas a residentes elegibles'
+    baseline: '0 grants (2026)'
+    baselineEs: '0 subvenciones (2026)'
+    target: '500 grants ($12.5M)'
+    targetEs: '500 subvenciones ($12.5M)'
+    deadline: '2031'
+    owner: 'HOST with the Reparations Commission'
+    ownerEs: 'HOST con la Comisión de Reparaciones'
+    precedent: "Evanston's Restorative Housing Program has disbursed $25,000 benefits to hundreds of eligible residents since 2023"
+    precedentEs: 'El Programa de Vivienda Restaurativa de Evanston ha entregado beneficios de $25,000 a cientos de residentes elegibles desde 2023'
+    source: 'Denver Race and Social Justice Office, 2026'
+  - goal: 'Narrow the life expectancy gap between Denver neighborhoods'
+    goalEs: 'Reducir la brecha de esperanza de vida entre vecindarios de Denver'
+    metric: 'Gap in life expectancy between the highest- and lowest-ranked Denver neighborhoods'
+    metricEs: 'Diferencia en esperanza de vida entre los vecindarios de Denver mejor y peor ubicados'
+    baseline: '11 years (DDPHE, 2023)'
+    baselineEs: '11 años (DDPHE, 2023)'
+    target: '8 years or less, starting with GES environmental health remediation'
+    targetEs: '8 años o menos, empezando con la remediación ambiental en GES'
+    deadline: '2035'
+    owner: 'DDPHE'
+    ownerEs: 'DDPHE'
+    precedent: "London's Health Inequalities Strategy (2018) sets targets to narrow life-expectancy gaps between boroughs"
+    precedentEs: 'La Estrategia de Desigualdades en Salud de Londres (2018) fija metas para reducir las brechas de esperanza de vida entre distritos'
+    source: 'Denver Department of Public Health and Environment, 2023'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -144,7 +188,7 @@ This proposal specifically names Black, Latino, Indigenous, and Asian American c
 
 ## References
 
-- Mapping Inequality Project, University of Richmond. (1938/2023). HOLC Redlining Maps for Denver, Colorado. Grade D designations for Five Points, Curtis Park, Whittier, and Cole.
+- Mapping Inequality Project, University of Richmond. (n.d.). (1938/2023). HOLC Redlining Maps for Denver, Colorado. Grade D designations for Five Points, Curtis Park, Whittier, and Cole.
 - Federal Reserve Board. (2022). Survey of Consumer Finances. Median household wealth by race.
 - Prosperity Now Scorecard. (2023). Racial wealth gap data by metro area.
 - U.S. Census Bureau. (2020). American Community Survey, Denver. Dissimilarity index, segregation, and income data.
@@ -154,7 +198,7 @@ This proposal specifically names Black, Latino, Indigenous, and Asian American c
 - Evanston RoundTable. (2025). "Reparations Committee Finalizes 2025 Grant Recipients." 45 ancestors and descendants, $25,000 each.
 - City of Asheville. (2022-2025). Reparations Commission recommendations: guaranteed income and Black-led Economic Development Center.
 - San Francisco Board of Supervisors. (2025). Reparations fund ordinance (11-0 vote).
-- Denver Public Library, Western History Collection. Auraria urban renewal and Skyline Urban Renewal Project documentation.
-- Federal Highway Administration. I-70 East Environmental Impact Statement. Community impact documentation for Globeville-Elyria-Swansea.
-- EPA. ASARCO Superfund site records for Globeville.
-- Rocky Flats Right to Know Act. Congressional advocacy and independent contamination studies.
+- Denver Public Library, Western History Collection. (n.d.). Auraria urban renewal and Skyline Urban Renewal Project documentation.
+- Federal Highway Administration. (n.d.). I-70 East Environmental Impact Statement. Community impact documentation for Globeville-Elyria-Swansea.
+- EPA. (n.d.). ASARCO Superfund site records for Globeville.
+- Rocky Flats Right to Know Act. (n.d.). Congressional advocacy and independent contamination studies.

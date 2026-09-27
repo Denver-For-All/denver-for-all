@@ -30,6 +30,50 @@ keyStats:
     context: 'Every top-performing education system has universal pre-K, free meals, and well-paid teachers'
     contextEs: 'Todo sistema educativo de alto rendimiento tiene pre-K universal y maestros bien pagados'
     theme: 'secondary'
+smartGoals:
+  - goal: 'Offer free full-day preschool to every 3- and 4-year-old'
+    goalEs: 'Ofrecer preescolar gratuito de día completo a todo niño de 3 y 4 años'
+    metric: 'Share of Denver 3- and 4-year-olds enrolled in free full-day pre-K'
+    metricEs: 'Porcentaje de niños de 3 y 4 años de Denver inscritos en pre-K gratuito de día completo'
+    baseline: 'UPK funds 15 hours/week for 4-year-olds; ~65% of eligible 4-year-olds served statewide (2024-25)'
+    baselineEs: 'UPK financia 15 horas/semana para niños de 4 años; ~65% de los elegibles atendidos en el estado (2024-25)'
+    target: '80% of 4-year-olds and 60% of 3-year-olds in full-day seats'
+    targetEs: '80% de niños de 4 años y 60% de 3 años en cupos de día completo'
+    deadline: '2030'
+    owner: 'Denver Preschool Program with Denver Public Schools'
+    ownerEs: 'Denver Preschool Program con las Escuelas Públicas de Denver'
+    precedent: 'Washington, DC enrolls roughly 85% of 4-year-olds and 70% of 3-year-olds in free universal pre-K'
+    precedentEs: 'Washington, DC inscribe a cerca de 85% de los niños de 4 años y 70% de 3 años en pre-K universal gratuito'
+    source: 'Colorado Department of Early Childhood, 2024-25'
+  - goal: 'Convert 20 high-need schools to full-service community schools'
+    goalEs: 'Convertir 20 escuelas de alta necesidad en escuelas comunitarias de servicio completo'
+    metric: 'DPS schools with a funded community school coordinator, health clinic or services partner, and family center'
+    metricEs: 'Escuelas de DPS con coordinador de escuela comunitaria financiado, clínica o socio de servicios y centro familiar'
+    baseline: 'No citywide community-schools funding stream (2026)'
+    baselineEs: 'Sin fondos municipales para escuelas comunitarias (2026)'
+    target: '20 schools'
+    targetEs: '20 escuelas'
+    deadline: '2030'
+    owner: "Mayor's Office and Denver Public Schools"
+    ownerEs: 'Oficina del Alcalde y Escuelas Públicas de Denver'
+    precedent: "NYC's community schools cut chronic absenteeism and raised on-time grade progression (RAND, 2020)"
+    precedentEs: 'Las escuelas comunitarias de NYC redujeron el ausentismo crónico y mejoraron el avance de grado (RAND, 2020)'
+    source: 'Denver Public Schools, 2026'
+  - goal: 'Put free after-school programs within reach of every student'
+    goalEs: 'Poner programas extraescolares gratuitos al alcance de cada estudiante'
+    metric: 'Free after-school seats open until 6 PM, as a share of DPS K-8 students'
+    metricEs: 'Cupos extraescolares gratuitos abiertos hasta las 6 PM, como porcentaje de estudiantes K-8 de DPS'
+    baseline: 'Not tracked citywide (2026)'
+    baselineEs: 'No se mide en toda la ciudad (2026)'
+    target: 'Seats for 50% of K-8 students, prioritizing Title I schools'
+    targetEs: 'Cupos para 50% de los estudiantes K-8, priorizando escuelas Título I'
+    deadline: '2029'
+    owner: "Denver Office of Children's Affairs with DPS and Denver Parks and Recreation"
+    ownerEs: 'Oficina de Asuntos Infantiles de Denver con DPS y Parques y Recreación'
+    precedent: "Iceland's municipal after-school and youth programs are credited with cutting teen substance use by more than half since 1998"
+    precedentEs: 'Los programas municipales extraescolares de Islandia se asocian con reducir a menos de la mitad el consumo de sustancias entre adolescentes desde 1998'
+    source: "Denver Office of Children's Affairs, 2026"
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -128,10 +172,10 @@ Yes. Colorado's CDEC provides 15 hours/week of Pre-K for 4-year-olds, which is a
 
 ## References
 
-- Colorado Department of Early Childhood (CDEC). Universal Pre-K enrollment and program data.
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
 - DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
 - Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
 - Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
-- National Center for Education Statistics. DPS salary and staffing data.
-- OECD PISA Rankings. International education comparison data.
-- Sahlberg, P. "Finnish Lessons." (Finland education reform evidence.)
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)

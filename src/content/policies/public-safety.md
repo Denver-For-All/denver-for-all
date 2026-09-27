@@ -36,6 +36,50 @@ keyStats:
     contextEs: 'Oakland, Glasgow, Bogota, Richmond todos superaron los enfoques de solo policia'
     source: 'Oakland Ceasefire; Glasgow VRU evaluations'
     theme: 'primary'
+smartGoals:
+  - goal: 'Keep homicides at historic lows'
+    goalEs: 'Mantener los homicidios en mínimos históricos'
+    metric: 'Homicides in Denver per year'
+    metricEs: 'Homicidios en Denver por año'
+    baseline: '37 homicides (2025), down 48% from 70 (2024)'
+    baselineEs: '37 homicidios (2025), 48% menos que 70 (2024)'
+    target: '35 or fewer each year, with non-fatal shootings down another 25%'
+    targetEs: '35 o menos cada año, con disparos no fatales 25% menos'
+    deadline: '2030'
+    owner: 'Denver Department of Public Safety, including community violence intervention'
+    ownerEs: 'Departamento de Seguridad Pública de Denver, incluida la intervención comunitaria contra la violencia'
+    precedent: "Oakland's Ceasefire and Cure Violence-style programs cut shootings 30-50% in targeted areas"
+    precedentEs: 'Ceasefire de Oakland y programas tipo Cure Violence redujeron 30-50% los tiroteos en zonas focalizadas'
+    source: 'Denver Police Department, reported by Colorado Politics (January 2026)'
+  - goal: 'Divert people from arrest to services through LEAD citywide'
+    goalEs: 'Desviar personas del arresto a servicios con LEAD en toda la ciudad'
+    metric: 'Annual LEAD diversions from arrest to case management'
+    metricEs: 'Desvíos anuales de arresto a manejo de casos mediante LEAD'
+    baseline: 'Pilot in 3 of 6 police districts (2025)'
+    baselineEs: 'Piloto en 3 de 6 distritos policiales (2025)'
+    target: '2,000+ diversions per year in all 6 districts'
+    targetEs: 'Más de 2,000 desvíos por año en los 6 distritos'
+    deadline: '2029'
+    owner: 'Denver Police Department with the Denver District Attorney'
+    ownerEs: 'Departamento de Policía de Denver con la Fiscalía de Distrito'
+    precedent: "Seattle's LEAD participants had 58-60% lower odds of arrest than controls"
+    precedentEs: 'Los participantes de LEAD en Seattle tuvieron 58-60% menos probabilidad de arresto que el grupo de control'
+    source: 'Denver LEAD program data, 2025'
+  - goal: 'Give civilian oversight real investigative power'
+    goalEs: 'Dar poder de investigación real a la supervisión civil'
+    metric: 'Independent civilian board with subpoena power and binding discipline recommendations'
+    metricEs: 'Junta civil independiente con poder de citación y recomendaciones disciplinarias vinculantes'
+    baseline: 'Office of the Independent Monitor cannot independently investigate or discipline (2026)'
+    baselineEs: 'La Oficina del Monitor Independiente no puede investigar ni disciplinar de forma independiente (2026)'
+    target: 'Board seated and operating'
+    targetEs: 'Junta instalada y en funcionamiento'
+    deadline: '2028'
+    owner: 'Denver voters (charter amendment) and Denver City Council'
+    ownerEs: 'Votantes de Denver (enmienda a la carta) y Concejo Municipal de Denver'
+    precedent: "Chicago's Civilian Office of Police Accountability and Oakland's Police Commission hold independent investigative authority"
+    precedentEs: 'La Oficina Civil de Rendición de Cuentas de la Policía de Chicago y la Comisión de Policía de Oakland tienen autoridad de investigación independiente'
+    source: 'Denver Office of the Independent Monitor annual report, 2025'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -307,28 +351,28 @@ Denver has the Office of the Independent Monitor (OIM, est. 2004) and a Citizen 
 
 - Denver Annual Budget. (2024). Department of Safety appropriation. ($300M+ police budget.)
 - Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute. (23,000+ STAR responses; 16% reduction in subsequent arrests and police contacts; 2-3x larger impacts for people experiencing homelessness; Co-Responder Program shows 15% reduction in subsequent arrests; cost analysis: $237 per van response, $470 including Community Partner Network; scalability analysis showing 9-10 concurrent van units needed to meet demand.)
-- Denver Office of the Independent Monitor. Annual reports. (Structure and limitations.)
-- Denver City Attorney's Office. Law enforcement settlement data, 2017-2023. Denver Post analysis, 2024.
+- Denver Office of the Independent Monitor. (n.d.). Annual reports. (Structure and limitations.)
+- Denver City Attorney's Office. (2024). Law enforcement settlement data, 2017-2023. Denver Post analysis.
 - Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
-- World Prison Brief. International incarceration rate comparisons.
-- Norwegian Correctional Service. Recidivism statistics. (20% recidivism rate.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate.)
 - Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." _Evaluation and Program Planning_, 64, 49-56. (58-60% lower odds of arrest for LEAD participants vs. controls.)
-- Colorado Behavioral Health Administration. Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Denver pilot outcomes in DPD Districts 1, 2, and 6.)
+- Colorado Behavioral Health Administration. (n.d.). Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Denver pilot outcomes in DPD Districts 1, 2, and 6.)
 - Denver District Attorney's Office. (2018). Denver Pilot Program launch announcement. LEAD partnership with ARTS and the Empowerment Program.
 - LEAD National Support Bureau. (2024). LEAD program replication data. (80+ cities operating LEAD programs nationally.)
 - Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (Disabled people constitute one-third to one-half of all people killed by police.)
-- Cure Violence Global. Program evaluation data. (Community violence intervention outcomes.)
-- University of Chicago Crime Lab. READI Chicago evaluation. (Youth employment and violence reduction.)
+- Cure Violence Global. (n.d.). Program evaluation data. (Community violence intervention outcomes.)
+- University of Chicago Crime Lab. (n.d.). READI Chicago evaluation. (Youth employment and violence reduction.)
 - Brookings Institution. (2022). After-school programming and youth crime timing data.
 - Desmond, M. (2016). _Evicted: Poverty and Profit in the American City_. (Housing instability and crime correlation.)
-- Council of State Governments Justice Center. Reentry housing and recidivism data.
-- National Institute on Drug Abuse. Medication-assisted treatment and crime reduction outcomes.
+- Council of State Governments Justice Center. (n.d.). Reentry housing and recidivism data.
+- National Institute on Drug Abuse. (n.d.). Medication-assisted treatment and crime reduction outcomes.
 - NYU Furman Center. (2019). Randomized controlled trial of street lighting and crime in NYC public housing. (36% reduction.)
 - University of Pennsylvania. (2018). Vacant lot remediation and gun violence reduction in Philadelphia. (29% reduction, RCT.)
 - Kondo, M., et al. (2016). "Effects of greening vacant lots on crime." _Landscape and Urban Planning_.
 - Oakland Ceasefire evaluation. (2019). Homicide reduction data 2012-2018.
-- Glasgow Violence Reduction Unit. Program reports and outcome data 2005-2015. (60% murder rate reduction.)
-- Richmond Office of Neighborhood Safety. Program evaluation and gun homicide data 2007-2019. (75% reduction.)
+- Glasgow Violence Reduction Unit. (2005–2015). Program reports and outcome data. (60% murder rate reduction.)
+- Richmond Office of Neighborhood Safety. (2007–2019). Program evaluation and gun homicide data. (75% reduction.)
 - National Institute of Justice. (2024). Cost of crime estimates. (~$1.5M per homicide.)
 - Denverite. (2025). "Denver extends Flock surveillance cameras despite pushback from city council." Mayor extended contract through March 2026; council rejection; community town hall.
 - ACLU of Colorado. (2025). "Community Organizations and City Leaders Call for Denver Mayor Mike Johnston to Immediately Turn off Flock Cameras." 1,400+ ICE searches; coalition of 15+ civil rights organizations.

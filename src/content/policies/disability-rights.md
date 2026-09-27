@@ -40,6 +40,50 @@ relatedLegislation:
     title: 'Sterilization Rights of Person with Disabilities'
     status: 'Referred from Health & Human Services to House Committee of the Whole'
     url: 'https://leg.colorado.gov/bills/hb26-1040'
+smartGoals:
+  - goal: 'Make every city website and digital service accessible'
+    goalEs: 'Hacer accesibles todos los sitios web y servicios digitales de la ciudad'
+    metric: 'Share of city web pages and apps passing an independent WCAG 2.1 AA audit'
+    metricEs: 'Porcentaje de páginas web y aplicaciones municipales que aprueban una auditoría independiente WCAG 2.1 AA'
+    baseline: 'Not audited or published (2026)'
+    baselineEs: 'Sin auditoría ni publicación (2026)'
+    target: '100% passing WCAG 2.1 AA by April 2027, then WCAG 2.2 AA by 2029'
+    targetEs: '100% aprobado en WCAG 2.1 AA para abril de 2027, y WCAG 2.2 AA para 2029'
+    deadline: '2027-04'
+    owner: 'Denver Technology Services with the Office of Disability Rights'
+    ownerEs: 'Servicios de Tecnología de Denver con la Oficina de Derechos de las Personas con Discapacidad'
+    precedent: 'The 2024 DOJ ADA Title II rule adopted WCAG 2.1 AA as the web standard for state and local governments'
+    precedentEs: 'La norma del Título II de la ADA del DOJ (2024) adoptó WCAG 2.1 AA como estándar web para gobiernos estatales y locales'
+    source: 'U.S. DOJ ADA Title II web accessibility rule, 2024'
+  - goal: 'Build accessible homes in every new apartment building'
+    goalEs: 'Construir viviendas accesibles en cada nuevo edificio de apartamentos'
+    metric: 'Share of units in new 10+ unit buildings meeting universal design standards'
+    metricEs: 'Porcentaje de unidades en edificios nuevos de 10+ unidades que cumplen normas de diseño universal'
+    baseline: '5% accessible units required only in federally funded housing (2026)'
+    baselineEs: 'Solo se exige 5% de unidades accesibles en vivienda con fondos federales (2026)'
+    target: '15% universal design in all new multifamily permits'
+    targetEs: '15% de diseño universal en todos los permisos multifamiliares nuevos'
+    deadline: '2028'
+    owner: 'Community Planning and Development (building code)'
+    ownerEs: 'Planificación y Desarrollo Comunitario (código de construcción)'
+    precedent: 'The London Plan requires 90% of new homes to be accessible and adaptable and 10% wheelchair-user homes; universal design adds $100-600 per unit'
+    precedentEs: 'El Plan de Londres exige que 90% de las viviendas nuevas sean accesibles y adaptables y 10% para usuarios de silla de ruedas; el diseño universal cuesta $100-600 por unidad'
+    source: 'U.S. HUD Section 504 regulations, 2024'
+  - goal: 'Close the disability employment gap in city government'
+    goalEs: 'Cerrar la brecha de empleo de personas con discapacidad en el gobierno municipal'
+    metric: 'Share of City and County of Denver employees who self-identify as having a disability'
+    metricEs: 'Porcentaje de empleados de la Ciudad y Condado de Denver que se identifican con una discapacidad'
+    baseline: 'Not tracked; 37.7% employment rate for working-age disabled Coloradans (2024)'
+    baselineEs: 'No se registra; tasa de empleo de 37.7% para coloradenses con discapacidad en edad laboral (2024)'
+    target: '7% of city workforce'
+    targetEs: '7% de la fuerza laboral municipal'
+    deadline: '2030'
+    owner: 'Office of Human Resources'
+    ownerEs: 'Oficina de Recursos Humanos'
+    precedent: 'Federal Section 503 has required a 7% disability utilization goal for federal contractors since 2014'
+    precedentEs: 'La Sección 503 federal exige desde 2014 una meta de 7% de personas con discapacidad a los contratistas federales'
+    source: 'Cornell University Disability Statistics, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -164,10 +208,10 @@ It means disabled people lead disability policy. The Office of Disability Rights
 - Bureau of Labor Statistics. (2024). Persons with a Disability: Labor Force Characteristics. (37.2% employment rate for disabled working-age adults vs. 77.2% for non-disabled; 74 cents on the dollar wage gap.)
 - Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (One-third to one-half of people killed by police are disabled.)
 - Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (<5% of housing stock accessible to wheelchair users; <1% for vision/hearing impairments.)
-- National Association of Home Builders. Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
-- Dartmouth IPS Employment Center. Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
+- National Association of Home Builders. (n.d.). Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
+- Dartmouth IPS Employment Center. (n.d.). Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
 - Genworth/CareScout. (2024). Cost of Care Survey: Colorado. (Nursing home $10,600+/month vs. community-based care $2,000-$4,000/month.)
 - Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. (Program "not designed for ADA compliance," decades behind schedule.)
 - RTD-Denver. (2024-2025). Access-a-Ride and Access-on-Demand program data; federal ADA fare lawsuit.
-- Colorado Department of Labor and Employment. Disability employment data. (37.7% vs. 80.0% employment rate.)
-- National Council on Disability. Various reports on community-based living, institutional bias, and disability rights enforcement gaps.
+- Colorado Department of Labor and Employment. (n.d.). Disability employment data. (37.7% vs. 80.0% employment rate.)
+- National Council on Disability. (n.d.). Various reports on community-based living, institutional bias, and disability rights enforcement gaps.

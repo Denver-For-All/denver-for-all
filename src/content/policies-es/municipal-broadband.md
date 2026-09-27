@@ -103,10 +103,10 @@ Sí. En 2018, el 85% de los votantes de Denver aprobaron la Medida Electoral 2J 
 
 ## Referencias
 
-- Medida Electoral 2J de Denver (2018). 85.34% de votos a favor. (División de Elecciones de Denver).
-- Colorado SB 05-152. (Antigua restricción a nivel estatal sobre la banda ancha municipal, que requiere la exclusión voluntaria mediante votación local).
-- NextLight (Longmont, CO). Informes anuales y estados financieros. (Rentabilidad en 5 años, más del 90% de satisfacción).
-- Connexion de Fort Collins. Informes operativos. (Gasto de oposición de Comcast: registros de financiación de campaña de Fort Collins).
-- ACSI (Índice Americano de Satisfacción del Cliente). Informe anual de telecomunicaciones. (Comcast el ISP principal con la calificación más baja).
-- Informe de Despliegue de Banda Ancha de la FCC (Comisión Federal de Comunicaciones). (Datos de velocidad y disponibilidad).
-- Instituto para la Autosuficiencia Local. Base de datos de "Redes de Banda Ancha Comunitarias". (Más de 900 redes de banda ancha municipales en todo el país).
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

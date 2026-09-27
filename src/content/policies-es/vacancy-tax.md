@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Miles de unidades de vivienda en Denver permanecen vacías, retenidas por especuladores que esperan que los precios suban, por inversores que tratan la vivienda como un activo financiero, o simplemente abandonadas por propietarios negligentes. Mientras tanto, 7.500 personas no tienen hogar y miles más están a un aumento de alquiler del desplazamiento.
+Miles de unidades de vivienda en Denver permanecen vacías, retenidas por especuladores que esperan que los precios suban, por inversores que tratan la vivienda como un activo financiero, o simplemente abandonadas por propietarios negligentes. Mientras tanto, más de 6,400 personas no tienen hogar (MDHI, 2026) y miles más están a un aumento de alquiler del desplazamiento.
 
 Las casas vacías en vecindarios ocupados atraen el crimen, reducen los valores de las propiedades para los vecinos y representan una obscenidad moral en una ciudad con una crisis de vivienda.
 
@@ -81,3 +81,11 @@ Los datos de los servicios públicos no mienten. Una unidad que usa cero agua y 
 
 **"Esto perjudicará a las personas que están renovando."**
 La exención de renovación de 12 meses con permisos válidos cubre las renovaciones legítimas. Si su "renovación" toma 3 años sin permisos, no es una renovación, es especulación.
+
+## Referencias
+
+- City of Vancouver. (2023). _Empty Homes Tax annual report_. https://vancouver.ca/home-property-development/empty-homes-tax.aspx
+- Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
+- Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- U.S. Census Bureau. (2024). _Selected housing characteristics: Rental vacancy rate_ [American Community Survey estimates, Denver-Aurora-Lakewood, CO metro area]. https://data.census.gov

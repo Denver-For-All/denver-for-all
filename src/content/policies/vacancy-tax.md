@@ -18,8 +18,8 @@ keyStats:
   - value: '5,000-8,000'
     label: 'homes sitting empty in Denver'
     labelEs: 'hogares vacios en Denver'
-    context: '7,500 people are homeless while thousands of units sit vacant for speculation'
-    contextEs: '7,500 personas sin hogar mientras miles de unidades estan vacias por especulacion'
+    context: 'More than 6,400 people are homeless (2026) while thousands of units sit vacant for speculation'
+    contextEs: 'Más de 6,400 personas sin hogar (2026) mientras miles de unidades están vacías por especulación'
     source: 'U.S. Census Bureau, ACS 2022'
     theme: 'danger'
   - value: '25%'
@@ -35,11 +35,55 @@ keyStats:
     context: 'Every dollar goes to the Affordable Housing Trust Fund for social housing and CLTs'
     contextEs: 'Cada dolar va al Fondo de Vivienda Asequible para vivienda social y CLTs'
     theme: 'primary'
+smartGoals:
+  - goal: 'Win voter approval for a progressive vacancy tax'
+    goalEs: 'Lograr la aprobación de los votantes para un impuesto progresivo a la vivienda vacía'
+    metric: 'Vacancy tax measure approved under TABOR'
+    metricEs: 'Medida de impuesto a la vivienda vacía aprobada bajo TABOR'
+    baseline: 'No vacancy tax (2026)'
+    baselineEs: 'Sin impuesto a la vivienda vacía (2026)'
+    target: 'Approved on the November 2027 ballot'
+    targetEs: 'Aprobado en la boleta de noviembre de 2027'
+    deadline: '2027-11'
+    owner: 'Denver City Council (referral) and Denver voters'
+    ownerEs: 'Concejo Municipal de Denver (remisión) y votantes de Denver'
+    precedent: "Vancouver's Empty Homes Tax (2017) and Oakland's Vacant Property Tax (2018) were both adopted by local vote or council"
+    precedentEs: 'El Empty Homes Tax de Vancouver (2017) y el Vacant Property Tax de Oakland (2018) se adoptaron por voto local o del concejo'
+    source: 'Colorado Constitution Article X, Section 20 (TABOR), 2026'
+  - goal: 'Return empty homes to use'
+    goalEs: 'Devolver al uso las viviendas vacías'
+    metric: 'Residential units registered or identified as vacant 6+ months per year'
+    metricEs: 'Unidades residenciales registradas o identificadas como vacías 6 meses o más al año'
+    baseline: 'Estimated 5,000-8,000 long-term vacant units (ACS, 2023)'
+    baselineEs: 'Se estiman 5,000-8,000 unidades vacías a largo plazo (ACS, 2023)'
+    target: '30% fewer vacant units within 3 years of enactment'
+    targetEs: '30% menos unidades vacías 3 años después de aprobarse'
+    deadline: '2031'
+    owner: 'Denver Department of Finance (Treasury)'
+    ownerEs: 'Departamento de Finanzas de Denver (Tesorería)'
+    precedent: "Vancouver's count of taxable vacant homes dropped by roughly a third in the tax's first four years"
+    precedentEs: 'Las viviendas vacías gravables de Vancouver bajaron cerca de un tercio en los primeros cuatro años del impuesto'
+    source: 'U.S. Census Bureau, American Community Survey, 2023'
+  - goal: 'Dedicate vacancy tax revenue to affordable housing'
+    goalEs: 'Destinar los ingresos del impuesto a la vivienda asequible'
+    metric: 'Annual vacancy tax revenue deposited into the affordable housing fund'
+    metricEs: 'Ingresos anuales del impuesto depositados en el fondo de vivienda asequible'
+    baseline: '$0 (2026)'
+    baselineEs: '$0 (2026)'
+    target: '$30M+ per year, declining as vacancies fall'
+    targetEs: 'Más de $30M por año, bajando a medida que disminuyen las viviendas vacías'
+    deadline: '2029'
+    owner: 'HOST (Affordable Housing Fund)'
+    ownerEs: 'HOST (Fondo de Vivienda Asequible)'
+    precedent: 'Vancouver has raised over C$100M from its Empty Homes Tax for affordable housing since 2017'
+    precedentEs: 'Vancouver ha recaudado más de C$100M con su Empty Homes Tax para vivienda asequible desde 2017'
+    source: 'City and County of Denver 2026 Budget'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
 
-Thousands of housing units in Denver sit vacant - held by speculators waiting for prices to rise, by investors treating housing as a financial asset, or simply abandoned by negligent owners. Meanwhile, 7,500 people are homeless and thousands more are one rent increase away from displacement.
+Thousands of housing units in Denver sit vacant - held by speculators waiting for prices to rise, by investors treating housing as a financial asset, or simply abandoned by negligent owners. Meanwhile, more than 6,400 people are homeless (MDHI, 2026) and thousands more are one rent increase away from displacement.
 
 Empty homes in occupied neighborhoods attract crime, reduce property values for neighbors, and represent a moral obscenity in a city with a housing crisis.
 

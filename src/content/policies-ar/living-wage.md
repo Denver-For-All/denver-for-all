@@ -106,10 +106,12 @@
 
 ## المراجع
 
-- "حاسبة الأجور المعيشية" (Living Wage Calculator) التابعة لمعهد ماساتشوستس للتكنولوجيا (MIT)، مقاطعة دنفر، livingwage.mit.edu (تم الدخول إليه في عام 2024)
-- مكتب إحصاءات العمل، _إحصاءات التوظيف المهني والأجور_، منطقة دنفر-أورورا-ليك وود الحضرية، مايو 2023
-- أريندراجيت دوبي، تي ويليام ليستر، مايكل ريش، "آثار الحد الأدنى للأجور عبر حدود الولاية: تقديرات باستخدام المقاطعات المتجاورة"، _مجلة الاقتصاد والإحصاء_ 92 (4): 945-964 (2010)
-- دوروك سينجيز وآخرون، "تأثير الحد الأدنى للأجور على الوظائف ذات الأجور المنخفضة"، _المجلة الفصلية للاقتصاد_ 134 (3): 1405-1454 (2019)
-- "لجنة الأجور المنخفضة" (Low Pay Commission) في المملكة المتحدة، _التقرير السنوي للحد الأدنى للأجور الوطنية_، 2023
-- "قسم المالية في دنفر" (Denver Department of Finance)، _التقرير السنوي لمرسوم الحد الأدنى للأجور_، 2024
-- "جامعة واشنطن" (University of Washington)، _دراسة الحد الأدنى للأجور في سياتل_، منشورات مختلفة (2017-2023)
+- Glasmeier, A. K. (2024). _Living wage calculator: Denver County, Colorado_. Massachusetts Institute of Technology. https://livingwage.mit.edu
+- Bureau of Labor Statistics. (2023, May). _Occupational employment and wage statistics: Denver-Aurora-Lakewood, CO MSA_.
+- Dube, A., Lester, T. W., & Reich, M. (2010). Minimum wage effects across state borders: Estimates using contiguous counties. _The Review of Economics and Statistics, 92_(4), 945–964.
+- Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. _The Quarterly Journal of Economics, 134_(3), 1405–1454.
+- UK Low Pay Commission. (2023). _National Minimum Wage Annual Report_.
+- Denver Department of Finance. (2025). _Denver local minimum wage adjusts to $19.29 per hour for 2026_ [Press release].
+- Denver Labor, Office of the Auditor. (2026). _Citywide minimum wage_ [2026–2027 rate schedule].
+- Denver Department of Finance. (2024). _Minimum Wage Ordinance Annual Report_.
+- University of Washington. (2017–2023). _Seattle Minimum Wage Study_ [Various publications].

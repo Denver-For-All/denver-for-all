@@ -101,11 +101,11 @@
 
 ## المراجع
 
-- إدارة الصحة العامة والبيئة في دنفر (DDPHE). (2021-2024). بيانات استطلاع انعدام الأمن الغذائي؛ فهرس خدمات دنفر البشرية لرسم خرائط المناطق الصحراوية الغذائية.
-- معهد كولورادو للصحة. (2023). استطلاع كولورادو للوصول إلى الصحة (CHAS): الأمن الغذائي. معدل انعدام الأمن الغذائي 11.2% على مستوى الولاية.
-- منظمة Feeding America. (2024). خريطة فجوة الوجبات: بيانات كولورادو. 474,420 من سكان كولورادو يعانون من انعدام الأمن الغذائي بما في ذلك 141,570 طفلًا.
-- الغذاء الصحي لأطفال دنفر (HFDK). (2023). التقرير السنوي إلى مجلس المدينة. تم توزيع 66.5 مليون دولار، وتقديم أكثر من 31 مليون وجبة منذ عام 2020.
-- خدمة البحوث الاقتصادية التابعة لوزارة الزراعة الأمريكية. (2023). أطلس أبحاث الوصول إلى الغذاء. تعيينات المناطق الصحراوية الغذائية على مستوى منطقة التعداد في دنفر.
-- بنك الطعام في روكيز. (2024). التقرير السنوي. زيادة بنسبة 13% في عدد الأشخاص الذين يتم خدمتهم؛ زيادة بنسبة 60% في الطلب على المخزن المتنقل؛ تكاليف شراء الغذاء 1.3 مليون دولار / شهر.
-- حدائق دنفر الحضرية (DUG). (2023). تقرير الأثر. 200 حديقة مجتمعية، 24 غابة غذائية، 34 فدانًا، أكثر من 17,000 بستاني.
-- وزير خارجية كولورادو. (2022, 2025). الاقتراح FF (2022، موافقة 55%)، نتائج انتخابات الاقتراح LL والاقتراح MM (2025). بيانات برنامج الوجبات المدرسية المجانية الشاملة.
+- Denver Department of Public Health and Environment (DDPHE). (2021-2024). Food insecurity survey data; Denver Human Services Index food desert mapping.
+- Colorado Health Institute. (2023). Colorado Health Access Survey (CHAS): Food Security. 11.2% food insecurity rate statewide.
+- Feeding America. (2024). Map the Meal Gap: Colorado data. 474,420 food-insecure Coloradans including 141,570 children.
+- Healthy Food for Denver's Kids (HFDK). (2023). Annual Report to City Council. $66.5M distributed, 31M+ meals served since 2020.
+- USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
+- Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
+- Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

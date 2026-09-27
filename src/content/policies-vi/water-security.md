@@ -111,13 +111,13 @@ Chúng tôi đang tấn công ý tưởng rằng một thành phố nhận đư�
 
 ## Tài Liệu Tham Khảo
 
-- Williams, A.P., et al. (2022). "Sự tăng cường nhanh chóng của đợt đại hạn đang nổi lên ở tây nam Bắc Mỹ vào năm 2020-2021." _Nature Climate Change_. (Đợt hạn hán tồi tệ nhất trong 1.200 năm.)
-- Cục Cải tạo Đất Hoa Kỳ. Báo cáo về nguồn cung cấp nước và tuyên bố thiếu hụt của lưu vực sông Colorado.
-- Denver Water. Báo cáo hàng năm, tài liệu lập kế hoạch dài hạn và cập nhật dự án mở rộng Gross Reservoir.
-- Hiệp hội Công trình Nước Hoa Kỳ. Phân tích chi phí-lợi ích của quản lý nhu cầu so với mở rộng nguồn cung.
-- Phòng Tài nguyên Nước Colorado. Dữ liệu về tuyết phủ và dòng chảy; quản lý quyền sử dụng nước.
-- Ban Tiện ích Công cộng Singapore (PUB). Báo cáo về chương trình NEWater và Bốn Nguồn Nước Quốc Gia.
-- Thành phố Melbourne. Dữ liệu chương trình bảo tồn nước và xu hướng tiêu thụ bình quân đầu người.
-- Sở Nước Thành phố Tucson. Kết quả chương trình bảo tồn và sắc lệnh thu gom nước mưa.
-- Cơ quan Nước Israel. Báo cáo về nền kinh tế nước quốc gia; dữ liệu tái chế nước thải.
-- Tổ chức Những Người Ủng Hộ Tài Nguyên Miền Tây. Phân tích chính sách bảo tồn nước của Colorado.
+- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

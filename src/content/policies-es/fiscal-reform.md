@@ -124,12 +124,12 @@ Los votantes de Denver aprobaron un impuesto sobre las ventas del 0.25% para la 
 
 ## Referencias
 
-- Denver Annual Budget (Presupuesto Anual de Denver). (2024-2025). Office of the Mayor, Budget and Management Office (Oficina del Alcalde, Oficina de Presupuesto y Administración).
-- Colorado Department of Revenue (Departamento de Hacienda de Colorado). Sales tax rate tables (Tablas de tasas del impuesto sobre las ventas). (Denver combined rate [tasa combinada de Denver] ~8.81%.)
-- Denver Assessor's Office (Oficina del Tasador de Denver). Property assessment rates and residential assessment rate data (Tasas de tasación de la propiedad y datos de la tasa de tasación residencial).
-- Colorado TABOR (Article X, Section 20, Colorado Constitution) (TABOR de Colorado [Artículo X, Sección 20, Constitución de Colorado]). Voter approval requirements (Requisitos de aprobación de los votantes).
-- Institute on Taxation and Economic Policy (Instituto de Tributación y Política Económica). (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States" ("¿Quién Paga? Un Análisis Distributivo de los Sistemas Impositivos en los 50 Estados"). (Regressive sales tax impact data [Datos sobre el impacto regresivo del impuesto sobre las ventas].)
-- Lincoln Institute of Land Policy (Instituto Lincoln de Política de Suelo). Property tax rate comparisons across US cities (Comparaciones de las tasas del impuesto sobre la propiedad en las ciudades de los Estados Unidos).
-- Portland Clean Energy Community Benefits Fund (Fondo de Beneficios Comunitarios de Energía Limpia de Portland). Annual revenue reports (Informes de ingresos anuales). ($60-90M/year [millones al año].)
-- City of Vienna (Ciudad de Viena). Housing and fiscal policy reports (Informes de vivienda y política fiscal). (Social housing funding model [Modelo de financiación de la vivienda social].)
-- Denver Climate Protection Fund (Fondo de Protección Climática de Denver). (2020 ballot measure [Medida electoral de 2020]). Revenue and allocation reports (Informes de ingresos y asignación).
+- Denver Annual Budget. (2024-2025). Office of the Mayor, Budget and Management Office.
+- Colorado Department of Revenue. (n.d.). Sales tax rate tables. (Denver combined rate ~8.81%.)
+- Denver Assessor's Office. (n.d.). Property assessment rates and residential assessment rate data.
+- Colorado TABOR (Article X, Section 20, Colorado Constitution). (n.d.). Voter approval requirements.
+- Institute on Taxation and Economic Policy. (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States." (Regressive sales tax impact data.)
+- Lincoln Institute of Land Policy. (n.d.). Property tax rate comparisons across US cities.
+- Portland Clean Energy Community Benefits Fund. (n.d.). Annual revenue reports. ($60-90M/year.)
+- City of Vienna. (n.d.). Housing and fiscal policy reports. (Social housing funding model.)
+- Denver Climate Protection Fund. (n.d.). (2020 ballot measure). Revenue and allocation reports.

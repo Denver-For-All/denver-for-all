@@ -47,6 +47,50 @@ relatedLegislation:
     title: 'Public Accessibility of Emissions Records'
     status: 'Introduced - Assigned to Energy & Environment'
     url: 'https://leg.colorado.gov/bills/hb26-1121'
+smartGoals:
+  - goal: 'Replace every lead service line in Denver'
+    goalEs: 'Reemplazar todas las líneas de servicio de plomo en Denver'
+    metric: "Lead service lines remaining in Denver Water's service area"
+    metricEs: 'Líneas de servicio de plomo restantes en el área de servicio de Denver Water'
+    baseline: '15,000+ of an estimated 60,000-64,000 lines replaced since 2020 (Denver Water, 2023)'
+    baselineEs: 'Más de 15,000 de unas 60,000-64,000 líneas reemplazadas desde 2020 (Denver Water, 2023)'
+    target: 'Zero lead service lines remaining'
+    targetEs: 'Cero líneas de servicio de plomo restantes'
+    deadline: '2031'
+    owner: 'Denver Water, with city coordination through DOTI and DDPHE'
+    ownerEs: 'Denver Water, en coordinación con DOTI y DDPHE'
+    precedent: 'Newark, NJ replaced all 23,000 of its lead service lines in under three years (2019-2021)'
+    precedentEs: 'Newark, NJ reemplazó sus 23,000 líneas de plomo en menos de tres años (2019-2021)'
+    source: 'Denver Water Lead Reduction Program, 2023'
+  - goal: 'Cut citywide greenhouse gas emissions 65% below 2015 levels'
+    goalEs: 'Reducir las emisiones de gases de efecto invernadero 65% por debajo de 2015'
+    metric: 'Citywide GHG emissions versus the 2015 baseline, reported annually'
+    metricEs: 'Emisiones de GEI de toda la ciudad frente a la línea de base de 2015, reportadas anualmente'
+    baseline: '18% below 2015 (2024 inventory)'
+    baselineEs: '18% por debajo de 2015 (inventario de 2024)'
+    target: '65% below 2015'
+    targetEs: '65% por debajo de 2015'
+    deadline: '2030'
+    owner: 'Office of Climate Action, Sustainability and Resiliency (CASR)'
+    ownerEs: 'Oficina de Acción Climática, Sostenibilidad y Resiliencia (CASR)'
+    precedent: 'Copenhagen cut emissions roughly 80% from 2005 to 2022 through district heating and cycling'
+    precedentEs: 'Copenhague redujo sus emisiones cerca de 80% entre 2005 y 2022 con calefacción urbana y ciclismo'
+    source: 'Denver CASR annual report, 2025'
+  - goal: 'Grow tree canopy where heat hits hardest'
+    goalEs: 'Aumentar la cobertura arbórea donde el calor golpea más'
+    metric: 'Tree canopy cover in the ten lowest-canopy neighborhoods (e.g., Sun Valley at ~4%)'
+    metricEs: 'Cobertura arbórea en los diez vecindarios con menos árboles (p. ej., Sun Valley con ~4%)'
+    baseline: '~4-10% canopy in lowest-canopy neighborhoods; ~20% citywide (2020)'
+    baselineEs: '~4-10% de cobertura en los vecindarios con menos árboles; ~20% en toda la ciudad (2020)'
+    target: '15% canopy in every one of those neighborhoods; 10,000 trees planted per year'
+    targetEs: '15% de cobertura en cada uno de esos vecindarios; 10,000 árboles plantados por año'
+    deadline: '2035'
+    owner: 'Denver Parks and Recreation, Office of the City Forester'
+    ownerEs: 'Parques y Recreación de Denver, Oficina del Forestal de la Ciudad'
+    precedent: "Milan's ForestaMi has planted hundreds of thousands of trees since 2019 toward a 3-million-tree goal for 2030"
+    precedentEs: 'ForestaMi de Milán ha plantado cientos de miles de árboles desde 2019 hacia una meta de 3 millones para 2030'
+    source: 'Denver Urban Forest Strategic Plan, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -220,12 +264,12 @@ Colorado's energy transition is already happening. The question is whether displ
 - Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
 - Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
 - Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
-- NREL (National Renewable Energy Laboratory). Solar resource data for Denver, CO.
-- Rocky Flats Downwinders. Community health data and independent sampling results.
-- DOE Office of Legacy Management. Rocky Flats Site annual surveillance and maintenance reports.
-- IRENA (International Renewable Energy Agency). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
-- EPA. Denver Metro/North Front Range ozone non-attainment area designation and classification.
-- NOAA Earth System Research Laboratories. Front Range methane and VOC emission studies.
-- Colorado State University. DJ Basin air quality research and monitoring data.
-- South Coast Air Quality Management District (Los Angeles). Historical ozone trend data. (75%+ reduction over 30 years.)
-- Suncor Energy. Commerce City refinery compliance history and community health impact data.
+- NREL (National Renewable Energy Laboratory). (n.d.). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. (n.d.). Community health data and independent sampling results.
+- DOE Office of Legacy Management. (n.d.). Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). (n.d.). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
+- EPA. (n.d.). Denver Metro/North Front Range ozone non-attainment area designation and classification.
+- NOAA Earth System Research Laboratories. (n.d.). Front Range methane and VOC emission studies.
+- Colorado State University. (n.d.). DJ Basin air quality research and monitoring data.
+- South Coast Air Quality Management District (Los Angeles). (n.d.). Historical ozone trend data. (75%+ reduction over 30 years.)
+- Suncor Energy. (n.d.). Commerce City refinery compliance history and community health impact data.

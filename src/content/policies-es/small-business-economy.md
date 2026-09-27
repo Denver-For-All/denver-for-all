@@ -135,11 +135,11 @@ Alrededor del 20% de las pequeñas empresas fracasan en su primer año, y el 50%
 
 ## Referencias
 
-- SBA Office of Advocacy. (2023). Perfil Económico de las Pequeñas Empresas: Colorado. 684.726 pequeñas empresas; 49,6% del empleo privado.
-- Colorado Restaurant Association. (2024). Datos de cierre de restaurantes de Denver. Pérdida neta de 222 restaurantes (julio de 2022-julio de 2023); 183 cierres (julio de 2023-julio de 2024).
-- Bisnow. (2024). Datos de vacantes y absorción minorista de RiNo. Tasa de disponibilidad del 8,1%; 43.000 pies cuadrados de absorción negativa.
-- Civic Economics & Institute for Local Self-Reliance. (2012). Estudios del multiplicador del gasto local. 52,9% de recirculación local (independientes) frente a 13,6% (cadenas).
-- CLES (Centre for Local Economic Strategies). (2019). El Modelo Preston: Construcción de Riqueza Comunitaria en Preston, Reino Unido. £74 millones redirigidos localmente; 4.500 empleos creados.
-- Shelterforce / Fifty by Fifty. (2021). Revisión de 10 años de Cleveland Evergreen Cooperatives. 320 trabajadores propietarios; modelo de adquisición de instituciones ancla.
-- SBA / Bureau of Labor Statistics. (2024). Tasas de fracaso de las pequeñas empresas: 20% en el año 1, 50% en el año 5. El flujo de caja y el acceso al capital como principales impulsores del fracaso.
-- W.E. Upjohn Institute for Employment Research. Bartik, T. Análisis de costo-beneficio del desarrollo económico local dirigido. ROI del 22%+ para incentivos centrados en pequeñas empresas.
+- SBA Office of Advocacy. (2023). Small Business Economic Profile: Colorado. 684,726 small businesses; 49.6% of private employment.
+- Colorado Restaurant Association. (2024). Denver restaurant closure data. Net loss of 222 restaurants (July 2022-July 2023); 183 closures (July 2023-July 2024).
+- Bisnow. (2024). RiNo retail vacancy and absorption data. 8.1% availability rate; 43,000 SF negative absorption.
+- Civic Economics & Institute for Local Self-Reliance. (2012). Local spending multiplier studies. 52.9% local recirculation (independents) vs. 13.6% (chains).
+- CLES (Centre for Local Economic Strategies). (2019). The Preston Model: Community Wealth Building in Preston, UK. £74M redirected locally; 4,500 jobs created.
+- Shelterforce / Fifty by Fifty. (2021). Cleveland Evergreen Cooperatives 10-year review. 320 worker-owners; anchor institution procurement model.
+- SBA / Bureau of Labor Statistics. (2024). Small business failure rates: 20% in Year 1, 50% by Year 5. Cash flow and capital access as primary failure drivers.
+- W.E. Upjohn Institute for Employment Research. (n.d.). Bartik, T. Cost-benefit analysis of targeted local economic development. 22%+ ROI for small business-focused incentives.

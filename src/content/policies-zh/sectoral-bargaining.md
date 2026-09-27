@@ -85,8 +85,8 @@ NLRA优先于直接监管工会和雇主之间集体谈判过程的法律。但�
 
 ## 参考文献
 
-- 美国劳工统计局，《工会会员摘要》，丹佛-奥罗拉-莱克伍德 MSA，2023年
-- 经济政策研究所，《生产力-工资差距》，2024年更新
-- 加州 AB 1228（快餐委员会），2023年
-- 经合组织，《谈判提升之路：变革工作世界中的集体谈判》，2019年
-- 国际劳工组织（ILO），《按国家划分的行业集体谈判覆盖率》，2023年
+- Bureau of Labor Statistics. (2023). _Union Members Summary_, Denver-Aurora-Lakewood MSA.
+- Economic Policy Institute. (2024). _The Productivity-Pay Gap_, updated.
+- California State Legislature. (2023). _Assembly Bill 1228: Fast food restaurant industry: Fast Food Council_.
+- OECD. (2019). _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_.
+- International Labour Organization (ILO). (2023). _Sectoral Bargaining Coverage by Country_.

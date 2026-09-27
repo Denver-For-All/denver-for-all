@@ -48,6 +48,50 @@ relatedLegislation:
     title: 'Mandatory Coverage Hormone Replacement Therapy'
     status: 'Introduced - Assigned to Health & Human Services'
     url: 'https://leg.colorado.gov/bills/hb26-1122'
+smartGoals:
+  - goal: 'Keep Denver abortion providers open with a sustainability fund'
+    goalEs: 'Mantener abiertos los proveedores de aborto de Denver con un fondo de sostenibilidad'
+    metric: 'Annual city provider sustainability and security grants'
+    metricEs: 'Subvenciones municipales anuales de sostenibilidad y seguridad para proveedores'
+    baseline: '$0; Colorado clinics fell from 42 to 23 since 2011 (2024)'
+    baselineEs: '$0; las clínicas de Colorado bajaron de 42 a 23 desde 2011 (2024)'
+    target: '$3M per year, with zero Denver clinic closures'
+    targetEs: '$3M por año, con cero cierres de clínicas en Denver'
+    deadline: '2028'
+    owner: 'DDPHE and Denver City Council (budget)'
+    ownerEs: 'DDPHE y Concejo Municipal de Denver (presupuesto)'
+    precedent: 'New York City and Chicago created municipal abortion-access funds after Dobbs (2022)'
+    precedentEs: 'Nueva York y Chicago crearon fondos municipales de acceso al aborto después de Dobbs (2022)'
+    source: 'Colorado Department of Public Health and Environment, 2024'
+  - goal: 'Guarantee timely appointments for every patient'
+    goalEs: 'Garantizar citas oportunas para cada paciente'
+    metric: 'Median days from first contact to abortion appointment at Denver providers'
+    metricEs: 'Mediana de días desde el primer contacto hasta la cita de aborto con proveedores de Denver'
+    baseline: 'Not published; ~30% of Colorado abortions were for out-of-state patients (2023)'
+    baselineEs: 'No se publica; ~30% de los abortos en Colorado fueron para pacientes de otros estados (2023)'
+    target: '7 days or less, reported on a public dashboard'
+    targetEs: '7 días o menos, reportado en un tablero público'
+    deadline: '2028'
+    owner: 'DDPHE (Annual Reproductive Healthcare Access Report)'
+    ownerEs: 'DDPHE (Informe Anual de Acceso a Salud Reproductiva)'
+    precedent: 'France guarantees abortion access with no waiting period and full public insurance coverage'
+    precedentEs: 'Francia garantiza el acceso al aborto sin periodo de espera y con cobertura completa del seguro público'
+    source: 'Colorado Department of Public Health and Environment, 2023'
+  - goal: 'Offer same-day contraception at every city clinic'
+    goalEs: 'Ofrecer anticoncepción el mismo día en cada clínica municipal'
+    metric: 'Denver Health and FQHC sites offering same-day access to all methods, including LARCs'
+    metricEs: 'Sitios de Denver Health y centros de salud que ofrecen acceso el mismo día a todos los métodos, incluidos LARC'
+    baseline: 'Not reported (2026)'
+    baselineEs: 'No se reporta (2026)'
+    target: '100% of sites'
+    targetEs: '100% de los sitios'
+    deadline: '2028'
+    owner: 'Denver Health and DDPHE'
+    ownerEs: 'Denver Health y DDPHE'
+    precedent: "Colorado's Family Planning Initiative cut teen births by ~50% from 2009 to 2014 with free LARCs"
+    precedentEs: 'La Iniciativa de Planificación Familiar de Colorado redujo ~50% los nacimientos en adolescentes entre 2009 y 2014 con LARC gratuitos'
+    source: 'Colorado Family Planning Initiative evaluation, 2017'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -194,8 +238,8 @@ Not entirely, but Denver can prepare. Contingency protocols using misoprostol-on
 - Guttmacher Institute. (2022). "State-level estimates of changes in abortion patient travel following Dobbs." (Projected 10-25% increase in patients traveling to protective states.)
 - Guttmacher Institute. (2015). "Publicly Funded Contraceptive Services: Costs and Cost Savings." ($7.09 saved per $1 invested in contraceptive services; $21 billion annual cost of unintended pregnancies.)
 - Colorado Secretary of State. (2024). Amendment 79: "Right to Abortion and Health Insurance Coverage." Approved November 2024 with 61.6% support. Effective January 1, 2026.
-- Colorado General Assembly. SB 25-183: "Reproductive Health Care Coverage Under Medicaid." Signed 2025. Expands Medicaid coverage to include abortion as "family-planning-related services."
-- Colorado General Assembly. SB 23-188 and SB 25-129: Colorado shield laws protecting reproductive healthcare providers from out-of-state legal action.
+- Colorado General Assembly. (2025). SB 25-183: "Reproductive Health Care Coverage Under Medicaid." Signed 2025. Expands Medicaid coverage to include abortion as "family-planning-related services."
+- Colorado General Assembly. (n.d.). SB 23-188 and SB 25-129: Colorado shield laws protecting reproductive healthcare providers from out-of-state legal action.
 - Cobalt Advocates. (2026). Press briefing on Amendment 79 implementation. Cited in KGNU Morning Magazine, February 2, 2026. ("Our success is going to be measured by our outcomes, not our intent... Colorado risks creating a legal right that patients cannot practically use.")
 - Brookings Institution. (2016). "The Economic Consequences of Unintended Pregnancy." (Unintended pregnancies carried to term have higher costs across healthcare, education, and social services.)
 - Hassan, A. (2026). "Bodily Autonomy as a Public Health Imperative." School of Public Health lecture series. (Bodily autonomy as foundational to health equity and self-determination.)
@@ -208,8 +252,8 @@ Not entirely, but Denver can prepare. Contingency protocols using misoprostol-on
 - National Abortion Federation. (2024). Violence and Disruption Statistics. (65% of Colorado providers reported trespassing in 2023-2024; 53% reported anti-abortion protesters.)
 - Planned Parenthood of the Rocky Mountains. (2024). Post-Dobbs capacity reports. (Wait time data: first-trimester 22 days, second-trimester 41 days; pre-Dobbs baselines.)
 - Colorado Legislative Council Staff. (2025). SB 25-183 Fiscal Note. ($5.9M costs; $6.4M savings from averted births; net savings $550K/year; $2.9M general fund appropriation.)
-- Colorado General Assembly. HB 22-1279: "Reproductive Health Equity Act." (Prohibits denying, restricting, or discriminating against the right to have an abortion. No independent fetal rights under state law.)
-- Colorado General Assembly. SB 23-189: "Reproductive Health Care Coverage." (Commercial insurance must cover abortion and STI services without cost-sharing.)
+- Colorado General Assembly. (n.d.). HB 22-1279: "Reproductive Health Equity Act." (Prohibits denying, restricting, or discriminating against the right to have an abortion. No independent fetal rights under state law.)
+- Colorado General Assembly. (n.d.). SB 23-189: "Reproductive Health Care Coverage." (Commercial insurance must cover abortion and STI services without cost-sharing.)
 - Medicaid Provider Rate Review Advisory Committee. (2025). Recommended maintaining provider rates at 80-100% of Medicare benchmarks.
 - Axios Denver. (2023). "Denver Health is offering abortions for first time in hospital history." (Denver Health began elective abortions November 2023.)
 - American Journal of Obstetrics & Gynecology (AJOG). (2025). Out-of-state residents 2.14x more likely to travel to Colorado post-Dobbs; Texas residents 7x more likely post-SB 8.

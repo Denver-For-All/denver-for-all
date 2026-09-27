@@ -101,11 +101,11 @@ Denver For All እንደሚያምነው በዴንቨር በግልጽ የሚታ�
 
 ## ማጣቀሻዎች
 
-- የዴንቨር የሕዝብ ጤና እና አካባቢ ጥበቃ መምሪያ (DDPHE)። (2021-2024)። የምግብ ዋስትና እጦት የዳሰሳ ጥናት መረጃ፤ የዴንቨር የሰብአዊ አገልግሎት መረጃ ጠቋሚ የምግብ በረሃ ካርታ።
-- የኮሎራዶ ጤና ተቋም (Colorado Health Institute)። (2023)። የኮሎራዶ የጤና ተደራሽነት ዳሰሳ (CHAS)፡ የምግብ ዋስትና። በክልል አቀፍ ደረጃ 11.2% የምግብ ዋስትና እጦት መጠን።
-- ፊዲንግ አሜሪካ (Feeding America)። (2024)። የሜል ጋፕ ካርታ፡ የኮሎራዶ መረጃ። 474,420 የምግብ ዋስትና የሌላቸው የኮሎራዶ ነዋሪዎች 141,570 ህጻናትን ጨምሮ።
-- ለዴንቨር ልጆች ጤናማ ምግብ (HFDK)። (2023)። ለከተማ ምክር ቤት ዓመታዊ ሪፖርት። $66.5 ሚሊዮን ዶላር ተሰራጭቷል፣ ከ2020 ጀምሮ 31M+ ምግቦች ተሰጥተዋል።
-- የ USDA የኢኮኖሚ ምርምር አገልግሎት። (2023)። የምግብ ተደራሽነት ምርምር አትላስ። ለዴንቨር የሴንሰስ-ትራክት ደረጃ የምግብ በረሃ ስያሜዎች።
-- የሮኪስ የምግብ ባንክ (Food Bank of the Rockies)። (2024)። ዓመታዊ ሪፖርት። 13% ተጨማሪ ሰዎች ተገለግለዋል፤ 60% የሞባይል ማከፋፈያ ፍላጎት ጨምሯል፤ በወር $1.3M የምግብ ግዥ ወጪዎች።
-- ዴንቨር የከተማ አትክልቶች (DUG)። (2023)። የአይምፓክት ሪፖርት። 200 የጋራ የአትክልት ቦታዎች፣ 24 የምግብ ደኖች፣ 34 ኤከር፣ 17,000+ አትክልተኞች።
-- የኮሎራዶ የውጭ ጉዳይ ሚኒስትር። (2022, 2025)። ፕሮፖዚሽን ኤፍኤፍ (2022፣ 55% ማረጋገጫ)፣ ፕሮፖዚሽን ኤልኤል እና ፕሮፖዚሽን ኤምኤም (2025) የምርጫ ውጤቶች። ሁለንተናዊ ነፃ የትምህርት ቤት ምግቦች ፕሮግራም መረጃ።
+- Denver Department of Public Health and Environment (DDPHE). (2021-2024). Food insecurity survey data; Denver Human Services Index food desert mapping.
+- Colorado Health Institute. (2023). Colorado Health Access Survey (CHAS): Food Security. 11.2% food insecurity rate statewide.
+- Feeding America. (2024). Map the Meal Gap: Colorado data. 474,420 food-insecure Coloradans including 141,570 children.
+- Healthy Food for Denver's Kids (HFDK). (2023). Annual Report to City Council. $66.5M distributed, 31M+ meals served since 2020.
+- USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
+- Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
+- Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

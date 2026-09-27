@@ -147,13 +147,13 @@ RTD 是一个区域机构。丹佛无法直接控制它。但丹佛是 RTD 最�
 
 ## 参考文献
 
-- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. （完成 FasTracks 报告：剩余走廊的资本和运营成本。需要 16 亿美元；计划完成 75%。）
-- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." （《丹佛邮报》。2025 年。“随着州政府推动交通发展，RTD 客流量仍在下降。”2024 年有 6520 万人次乘坐；比 2019 年低 38%；2025 年上半年下降 6.4%。）
-- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. （丹佛市和县。2025 年。“零愿景”仪表板和统计数据。2025 年有 93 人死于交通事故；35 名行人死亡，比 2024 年增加 34%。）
-- Texas A&M Transportation Institute. (2025). Urban Mobility Report. （德克萨斯 A&M 交通研究所。2025 年。城市交通报告。2024 年，丹佛司机因拥堵而损失 76 个小时；区域成本为 35 亿美元。）
-- University of Denver / Terner Center. (2025). Denver parking reform study. （丹佛大学/Terner 中心。2025 年。丹佛停车改革研究。预计取消最低停车位要求将使住房增加 12.5%，即每年 460 套。）
-- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." （布鲁金斯学会。2024 年。“停车要求和地基正在推高多户住宅的成本。”结构性停车平均每套增加 50,000 美元。）
-- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." （堪萨斯大学。2025 年。“研究发现，堪萨斯城免票公交政策吸引了新乘客，增加了总体使用率。”客流量比同类城市高出 24%；17% 的是新乘客。）
-- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." （《丹佛公报》。2024 年。“丹佛 860 万美元的电动自行车计划使低收入居民受益。”已兑换 8,000 张代金券；64% 发放给中低收入居民。）
-- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." （世界经济论坛。2024 年。“为什么现在是将城市形态纳入全球气候议程的时候了。”上海（50 公里的线路连接 480 万居民）、悉尼（乔治街重新设计，每小时 8,000 名乘客）、印第安纳波利斯（2700 万美元的自行车投资催化了 1.7 亿美元的私人开发）。）
-- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." （Giving Compass / Smart Cities Dive。2026 年。“2026 年值得关注的城市住房、交通和气候适应力 8 大趋势。”15 分钟城市和气候一致的城市化趋势。）
+- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. ($1.6 billion needed; 75% program completion.)
+- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." (65.2 million boardings in 2024; 38% below 2019; 6.4% decline in first half of 2025.)
+- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. (93 traffic deaths in 2025; 35 pedestrian deaths, up 34% from 2024.)
+- Texas A&M Transportation Institute. (2025). Urban Mobility Report. (Denver drivers lost 76 hours to congestion in 2024; $3.5 billion regional cost.)
+- University of Denver / Terner Center. (2025). Denver parking reform study. (Eliminating parking minimums projected to boost housing by 12.5%, or 460 units/year.)
+- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (Structured parking adds average $50,000 per unit.)
+- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (24% ridership above peer cities; 17% new riders.)
+- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 vouchers redeemed; 64% to lower/moderate income.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghai (50 km of routes connecting 4.8M residents), Sydney (George Street redesign, 8,000 riders/hour), Indianapolis ($27M bike investment catalyzed $170M private development).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." 15-minute city and climate-aligned urbanism trends.

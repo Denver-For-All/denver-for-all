@@ -118,10 +118,11 @@
 
 ## المراجع
 
-- قسم انتخابات دنفر. (2023). بيانات إقبال الانتخابات البلدية. (38٪ إقبال.)
-- ميزانية مدينة دنفر السنوية. (2024). إجمالي الميزانية وأرقام الميزانية الرأسمالية.
-- سينتومر، واي وآخرون. (2012). "الميزنة التشاركية في جميع أنحاء العالم." دراسة للوكالة الفيدرالية الألمانية للتعليم المدني. (بيانات أكثر من 7000 مدينة.)
-- كابانيس، واي. (2004). "الميزنة التشاركية: مساهمة كبيرة في الديمقراطية التشاركية." البيئة والتحضر. (نتائج بورتو أليغري.)
-- PBNYC (الميزنة التشاركية في مدينة نيويورك). التقارير السنوية وبيانات المشاركة.
-- فاريل، دي وآخرون. (2019). "الجمهوريات المصغرة التداولية: ميزات التصميم الأساسية." مركز الديمقراطية التداولية والحوكمة العالمية. (تصميم مجلس المواطنين.)
-- مجلس المواطنين الأيرلندي. تقارير حول التعديل الثامن (2017) والمساواة في الزواج (2014).
+- Denver Elections Division. (2023). Municipal election turnout data. (38% turnout.)
+- City of Denver Annual Budget. (2024). Total budget and capital budget figures.
+- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
+- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
+- PBNYC (Participatory Budgeting New York City). (n.d.). Annual reports and participation data.
+- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
+- Citizens' Assembly (Ireland). (2017). _First report and recommendations of the Citizens' Assembly: The Eighth Amendment of the Constitution_.
+- Convention on the Constitution (Ireland). (2014). _Report on marriage equality_.

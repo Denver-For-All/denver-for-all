@@ -153,18 +153,20 @@ Bạn nên lo lắng. Một đội xe gồm 500 AV với camera độ phân gi�
 
 ## Tài Liệu Tham Khảo
 
-- Colorado SB 17-213. (2017). Liên quan đến Hoạt động của Xe Tự Hành. (Khung AV tiểu bang; các điều khoản cấm đoán địa phương.)
-- Colorado HB 25-1122. (2025). Liên quan đến Con người Vận hành Một số Phương tiện Cơ giới Nhất định. (Bị Thống đốc Polis phủ quyết.)
-- California AB 1777. (2025, có hiệu lực từ tháng 7 năm 2026). Xe tự hành: dịch vụ khẩn cấp. (Đường dây nóng ứng phó khẩn cấp, hàng rào địa lý, quyền ban hành trát, yêu cầu liên lạc hai chiều.)
-- Texas SB 2807. (2025). Liên quan đến việc vận hành xe cơ giới tự động. (Ủy quyền tiểu bang, thiết bị ghi âm, kế hoạch ứng cứu đầu tiên.)
-- NYC Taxi & Limousine Commission. (2024). Quy tắc Thử nghiệm Xe Tự Hành. (Cấp phép, yêu cầu tài xế an toàn, báo cáo dữ liệu.)
-- National Conference of State Legislatures. (2025). Cơ sở Dữ liệu Pháp luật về Xe Tự Hành. (So sánh quy định AV theo từng tiểu bang.)
-- Waymo. (2023). Báo cáo An toàn Waymo: So sánh Va chạm. (Dữ liệu an toàn do tự báo cáo; tuyên bố ít hơn 57% các vụ va chạm gây thương tích.)
-- San Francisco Municipal Transportation Agency. (2023-2024). Báo cáo Sự cố AV. (Tài liệu về sự can thiệp của AV vào nhân viên cấp cứu, cản trở giao thông.)
-- Austin Transportation Department. (2025). Bảng Điều khiển Sự cố Xe Tự Hành. (122 sự cố được ghi lại.)
-- City of Chandler, AZ. (2024). Quan hệ Đối tác Microtransit Chandler Flex / Waymo. (Mô hình tích hợp giao thông công cộng; định giá công bằng.)
-- UC Davis Institute of Transportation Studies. (2020). "Giao thông Vận tải Đột phá: Việc Áp dụng, Sử dụng và Tác động của Dịch vụ Đi chung xe ở Hoa Kỳ." (Tăng VMT từ dịch vụ đi chung xe.)
-- Schaller Consulting. (2018). "Tính Cơ Động Mới: Lyft, Uber và Tương lai của Các Thành Phố ở Mỹ." (Ước tính tăng 85% VMT.)
-- ACLU của Colorado. (2025). Công nghệ giám sát và các mối lo ngại về quyền riêng tư dữ liệu AV. (Tiền lệ camera Flock về rủi ro giám sát AV.)
-- Liên Minh Châu Âu. (2022). Quy định 2022/1426. Khuôn khổ phê duyệt kiểu hệ thống lái tự động và an toàn chung.
-- Đạo luật Tiếp cận AV Liên bang (H.R. 7126). (2024). Các yêu cầu được đề xuất về khả năng tiếp cận AV cho người khuyết tật.
+- _Colorado Sun_. (2026, September 1). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
+- Axios Denver. (2026, September 1). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
+- Colorado SB 17-213. (2017). Concerning the Operation of Autonomous Vehicles. (State AV framework; local preemption provisions.)
+- Colorado HB 25-1122. (2025). Concerning Humans Operating Certain Motor Vehicles. (Vetoed by Governor Polis.)
+- California AB 1777. (n.d.). (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)
+- Texas SB 2807. (2025). Relating to the operation of automated motor vehicles. (State authorization, recording devices, first-responder plans.)
+- NYC Taxi & Limousine Commission. (2024). Autonomous Vehicle Testing Rules. (Permitting, safety driver requirement, data reporting.)
+- National Conference of State Legislatures. (2025). Autonomous Vehicles Legislation Database. (State-by-state AV regulatory comparison.)
+- Waymo. (2023). Waymo Safety Report: Collision Comparisons. (Self-reported safety data; 57% fewer injury-causing crashes claim.)
+- San Francisco Municipal Transportation Agency. (2023-2024). AV Incident Reports. (Documented AV interference with emergency responders, traffic obstructions.)
+- Austin Transportation Department. (2025). Autonomous Vehicle Incident Dashboard. (122 documented incidents.)
+- City of Chandler, AZ. (2024). Chandler Flex Microtransit / Waymo Partnership. (Transit integration model; equity pricing.)
+- UC Davis Institute of Transportation Studies. (2020). "Disruptive Transportation: The Adoption, Utilization, and Impacts of Ride-Hailing in the United States." (VMT increase from ride-hailing.)
+- Schaller Consulting. (2018). "The New Automobility: Lyft, Uber and the Future of American Cities." (85% VMT increase estimate.)
+- ACLU of Colorado. (2025). Surveillance technology and AV data privacy concerns. (Flock camera precedent for AV surveillance risks.)
+- European Union. (2022). Regulation 2022/1426. General safety and automated driving systems type-approval framework.
+- Federal AV Accessibility Act (H.R. 7126). (2024). Proposed requirements for AV accessibility for people with disabilities.

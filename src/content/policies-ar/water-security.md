@@ -111,13 +111,13 @@
 
 ## المراجع
 
-- Williams, A.P., et al. (2022). "تسارع سريع للجفاف الشديد الناشئ في جنوب غرب أمريكا الشمالية في 2020-2021." _Nature Climate Change_. (أسوأ جفاف منذ 1200 عام.)
-- مكتب الاستصلاح الأمريكي. تقارير إمدادات المياه وإعلانات النقص في حوض نهر كولورادو.
-- هيئة مياه دنفر. التقارير السنوية ووثائق التخطيط طويل الأجل وتحديثات مشروع توسيع خزان غروس.
-- الجمعية الأمريكية لأعمال المياه. تحليل التكلفة والفوائد لإدارة الطلب مقابل توسيع الإمدادات.
-- قسم موارد المياه في كولورادو. بيانات الغطاء الثلجي وتدفق الجداول؛ إدارة حقوق المياه.
-- مجلس المرافق العامة في سنغافورة (PUB). تقارير برنامج المياه الجديدة وأربعة صنابير وطنية.
-- مدينة ملبورن. بيانات برنامج الحفاظ على المياه واتجاهات استهلاك الفرد.
-- قسم المياه في مدينة توسون. نتائج برنامج الحفاظ على المياه وقانون تجميع مياه الأمطار.
-- هيئة المياه الإسرائيلية. التقارير الوطنية للاقتصاد المائي؛ بيانات إعادة تدوير مياه الصرف الصحي.
-- مناصرو الموارد الغربية. تحليل سياسة الحفاظ على المياه في كولورادو.
+- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

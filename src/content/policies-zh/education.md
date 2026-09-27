@@ -97,10 +97,10 @@ DPS 在 200 多所学校招收了大约 90,000 名学生，其中包括大约 60
 
 ## 参考文献
 
-- Colorado Department of Early Childhood (CDEC). 普及学前教育入学和项目数据。
-- DPS 年度报告。(2024)。入学率、特许学校数量、人均经费。
-- Denver Classroom Teachers Association. (2023)。教师留任和住房调查。
-- Hunger Free Colorado. (2023)。丹佛儿童粮食不安全估计。
-- National Center for Education Statistics. DPS 工资和人员配置数据。
-- OECD PISA Rankings. 国际教育比较数据。
-- Sahlberg, P. "Finnish Lessons." (芬兰教育改革证据。)
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
+- DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
+- Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
+- Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)

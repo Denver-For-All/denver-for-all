@@ -101,11 +101,11 @@ SCFD là một nguồn tài trợ quan trọng ($85 triệu vào năm 2024), nh�
 
 ## Tài Liệu Tham Khảo
 
-- Colorado Business Committee for the Arts (CBCA). (2024). Nghiên cứu Hoạt động Kinh tế của Văn hóa Đô thị Denver. 3,12 tỷ đô la hoạt động kinh tế, 14.466 việc làm, 692 triệu đô la du lịch văn hóa, 14,52 triệu lượt tham dự.
-- Scientific and Cultural Facilities District (SCFD). (2024). Báo cáo Thường niên. $85 triệu được phân phối cho hơn 300 tổ chức trên bảy quận.
-- Denver Arts & Venues. (2024). Kế hoạch Văn hóa Denver Creates. Kế hoạch chiến lược mười năm được xây dựng dựa trên hơn 2.500 tiếng nói của cộng đồng.
-- Denver Public Art Program. (2023). Tổng quan về chương trình. 1% cho nghệ thuật trên CIP của thành phố kể từ năm 1991, đã tạo ra hơn $40 triệu, hơn 400 tác phẩm, 55% của các nghệ sĩ Colorado.
-- Colorado Office of Economic Development and International Trade (OEDIT). (2024). Dữ liệu Colorado Creative Industries. Tác động kinh tế sáng tạo trên toàn tiểu bang là $19,7 tỷ, hơn 121.000 việc làm, tiểu bang xếp thứ 39 về tài trợ nghệ thuật bình quân đầu người.
-- SMU DataArts. (2024). Arts Vibrancy Index. Denver xếp thứ 18 trong số các cộng đồng lớn.
+- Colorado Business Committee for the Arts (CBCA). (2024). Economic Activity Study of Metro Denver Culture. $3.12 billion in economic activity, 14,466 jobs, $692 million in cultural tourism, 14.52 million attendance.
+- Scientific and Cultural Facilities District (SCFD). (2024). Annual Report. $85 million distributed to 300+ organizations across seven counties.
+- Denver Arts & Venues. (2024). Denver Creates Cultural Plan. Ten-year strategic plan built on 2,500+ community voices.
+- Denver Public Art Program. (2023). Program overview. 1% for art on city CIP since 1991, $40M+ generated, 400+ works, 55% by Colorado artists.
+- Colorado Office of Economic Development and International Trade (OEDIT). (2024). Colorado Creative Industries data. $19.7 billion statewide creative economy impact, 121,000+ jobs, state ranking of 39th in per capita arts funding.
+- SMU DataArts. (2024). Arts Vibrancy Index. Denver ranked 18th among large communities.
 - Bonfils-Stanton Foundation. (2020). "Ghosts of a City: How Denver's Housing Crisis is Driving Out its Artists."
-- Westword. (2024). Tin tức về âm nhạc và nghệ thuật Denver, bao gồm đóng cửa địa điểm, phân tích phân phối SCFD và báo cáo Denver Creates.
+- Westword. (2024). Denver music and arts coverage, including venue closures, SCFD distribution analysis, and Denver Creates reporting.

@@ -86,8 +86,8 @@ Ngân hàng North Dakota có thành tích hơn 100 năm với những năm khôn
 
 ## Tài Liệu Tham Khảo
 
-- FDIC National Survey of Unbanked and Underbanked Households (Khảo sát Quốc gia của FDIC về các Hộ gia đình Không có và Ít tài khoản Ngân hàng). (2023). (4,2% không có tài khoản ngân hàng, 14,2% có ít tài khoản ngân hàng trên toàn quốc; tỷ lệ cao hơn ở các cộng đồng da màu.)
-- Bank of North Dakota (Ngân hàng North Dakota). Báo cáo thường niên và báo cáo tài chính. (Hơn 100 năm, những năm không thua lỗ, trả lại hơn $100 triệu đô la/năm.)
-- California AB 857. (2019). Đạo luật Ngân hàng Công cho phép pháp luật.
-- German Sparkassen (Savings Banks Association) (Hiệp hội Ngân hàng Tiết kiệm Đức). Báo cáo tài chính. (€1,4 nghìn tỷ tài sản, 50 triệu khách hàng.)
-- Public Banking Institute (Viện Ngân hàng Công). Nghiên cứu và phân tích về ngân hàng công thành phố.
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
+- Bank of North Dakota. (n.d.). Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- California AB 857. (2019). Public Banking Act enabling legislation.
+- German Sparkassen (Savings Banks Association). (n.d.). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. (n.d.). Research and analysis on municipal public banking.

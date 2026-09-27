@@ -97,10 +97,10 @@ Sí. El CDEC de Colorado ofrece 15 horas/semana de Pre-K para niños de 4 años,
 
 ## Referencias
 
-- Departamento de la Primera Infancia de Colorado (CDEC). Datos de inscripción y programas de Pre-K Universal.
-- Informe Anual de DPS. (2024). Inscripción, número de escuelas charter, financiación por alumno.
-- Asociación de Maestros de Denver (Denver Classroom Teachers Association). (2023). Encuesta sobre la retención de maestros y la vivienda.
-- Hunger Free Colorado. (2023). Estimaciones de inseguridad alimentaria infantil para Denver.
-- Centro Nacional de Estadísticas de la Educación (National Center for Education Statistics). Datos sobre salarios y personal de DPS.
-- Clasificaciones PISA de la OCDE. Datos comparativos internacionales sobre educación.
-- Sahlberg, P. "Lecciones Finlandesas" ("Finnish Lessons"). (Evidencia de la reforma educativa de Finlandia).
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
+- DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
+- Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
+- Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)

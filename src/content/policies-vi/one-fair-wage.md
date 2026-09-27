@@ -73,9 +73,9 @@ Khoản tín dụng thuế 2 năm cho các doanh nghiệp nhỏ đặc biệt gi
 
 ## Tài Liệu Tham Khảo
 
-- Sở Lao động và Việc làm Colorado, _Mức Lương Tối Thiểu Năm 2025_
-- One Fair Wage, _Báo cáo của Trung tâm Nghiên cứu và Chính sách về Công nhân Nhận Tiền Boa_ (onefairwage.org)
-- Viện Chính sách Kinh tế, "Mức Lương Tối Thiểu Phụ ở Các Tiểu Bang," _Báo cáo Chính sách_, 2023
-- Cục Thống kê Lao động, _Thống kê Việc làm và Tiền lương Nghề nghiệp_, Denver-Aurora-Lakewood MSA, 2023
-- Allegretto & Nadler, "Ảnh hưởng của Lương Nhận Tiền Boa đến Thu nhập và Việc làm trong các Nhà hàng Phục vụ Đầy đủ," _Quan hệ Công nghiệp_ 54(4): 622-647 (2015)
-- Trung tâm Luật Phụ nữ Quốc gia, _Mức Lương Tối Thiểu Cho Người Nhận Tiền Boa và Tác động của Nó đối với Phụ nữ_, 2023
+- Colorado Department of Labor and Employment. (n.d.). _2025 Minimum Wage Rates_.
+- One Fair Wage. (n.d.). _Tipped Worker Research and Policy Center_ reports. (onefairwage.org)
+- Economic Policy Institute. (2023). "Subminimum Wages in the States," _Policy Brief_.
+- Bureau of Labor Statistics. (2023). _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA.
+- Allegretto, S., & Nadler, C. (2015). Tipped wage effects on earnings and employment in full-service restaurants. _Industrial Relations, 54_(4), 622–647.
+- National Women's Law Center. (2023). _The Tipped Minimum Wage and Its Impact on Women_.

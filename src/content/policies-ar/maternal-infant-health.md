@@ -112,3 +112,27 @@
 - **دعم الأسر في وحدة العناية المركزة لحديثي الولادة (NICU)** (مسؤولو المساعدة، والسكن، ودعم الأقران، والصحة العقلية): 3-4 ملايين دولار في السنة. التعويض: تقليل إعادة الإدخال إلى وحدة العناية المركزة لحديثي الولادة (NICU) (دعم الأسرة أثناء وبعد وحدة العناية المركزة لحديثي الولادة (NICU) يحسن النتائج)، وتقليل عبء الديون الطبية على برنامج الإعفاء من الديون المدينة، وتقليل تكاليف أزمة الصحة العقلية اللاحقة
 - **توسيع الزيارات المنزلية** (NFP، زيارات ما بعد الولادة، الخطوات الصحية، الانتقال من وحدة العناية المركزة لحديثي الولادة (NICU)): 5-8 ملايين دولار في السنة. تغطي الأموال المطابقة الفيدرالية MIECHV (الزيارات المنزلية للأمهات والرضع والأطفال الصغار) ما يصل إلى 75٪ من تكاليف برنامج الزيارات المنزلية المؤهلة. تحقق شراكة الممرضة-الأسرة (NFP) وحدها عائدًا قدره 5.70 دولار لكل دولار يتم استثماره على مدار حياة الطفل (RAND Corporation)
 - **البنية التحتية لدعم ما بعد الولادة** (أخصائيو الصحة العقلية، ودعم الأقران، والزيارات الممتدة): 2-3 ملايين دولار في السنة. التعويض: يكلف الاكتئاب المحيط بالولادة غير المعالج 14,000 دولار لكل زوج من الأمهات والرضع في السنة الأولى وحد
+
+## المراجع
+
+- CDC National Center for Health Statistics. (2024). Maternal Mortality Rates in the United States, 2022. (817 maternal deaths; 22.3 per 100,000 live births.)
+- CDC WONDER. (2023). Linked Birth/Infant Death Records. (US infant mortality 5.6/1,000; Black infant mortality 10.9/1,000.)
+- Colorado Department of Public Health and Environment. (2023). Colorado Maternal Mortality Review Committee Report. (Black birthing people experience severe maternal morbidity at 2-3x the rate of white birthing people; racism and discrimination identified as contributing factors.)
+- Colorado Department of Public Health and Environment. (2023). Colorado Birth Statistics. (Infant mortality by race; preterm birth rates by race.)
+- March of Dimes. (2024). Report Card: Colorado. (Preterm birth rates by race/ethnicity; Black preterm birth rate 14.4% vs. 9.5% white.)
+- America's Health Rankings. (2023). Health of Women and Children Report: Colorado. (Maternal mortality rate 18.2/100,000.)
+- Bohren, M.A., et al. (2017). "Continuous support for women during childbirth." Cochrane Database of Systematic Reviews. (26 RCTs, 15,000+ participants: 39% reduction in C-sections, 31% reduction in synthetic oxytocin use.)
+- Gruber, K.J., et al. (2020). "Impact of Doulas on Healthy Birth Outcomes." Journal of Perinatal Education / JAMA Network Open analyses. (Doula-supported Medicaid births: reduced preterm birth, low birth weight, C-sections; largest benefits for Black participants.)
+- Greenwood, B.N., et al. (2020). "Physician-patient racial concordance and disparities in birthing mortality for newborns." Proceedings of the National Academy of Sciences, 117(35): 21194-21200. (Black newborns cared for by Black physicians had significantly lower mortality.)
+- Ickovics, J.R., et al. (2007). "Group Prenatal Care and Perinatal Outcomes." Obstetrics & Gynecology, 110(2): 330-339. (Centering Pregnancy: 33% reduction in preterm birth for Black participants.)
+- Sandall, J., et al. (2016). "Midwife-led continuity models versus other models of care for childbearing women." Cochrane Database of Systematic Reviews. (Midwife-led care: fewer interventions, equivalent or better outcomes, higher satisfaction, 24% reduction in preterm birth.)
+- Olds, D. L., et al. (1986–2019). _Nurse-Family Partnership randomized controlled trials_ [Multiple publications in _Pediatrics_, _JAMA_, and _Prevention Science_]. (Reduced preterm birth, child abuse/neglect, emergency visits; improved school readiness; $5.70 ROI per $1 invested per RAND analysis.)
+- Hynan, M.T., et al. (2013). "Recommendations for mental health professionals in the NICU." Journal of Perinatology, 33: 748-753. (20-40% of NICU parents experience PTSD, depression, or anxiety.)
+- Luca, D.L., et al. (2020). "Financial Costs of Untreated Perinatal Mood and Anxiety Disorders." American Journal of Psychiatry, 177(3): 232-241. ($14,000 per mother-infant pair in the first year; $32,000 over 5 years.)
+- Paulson, J.F. & Bazemore, S.D. (2010). "Prenatal and Postpartum Depression in Fathers." JAMA, 303(19): 1961-1969. (5-10% paternal postpartum depression rate.)
+- American Association of Critical-Care Nurses (AACN). (2024). Healthy Work Environment Survey. (66% of critical care nurses have considered leaving due to staffing.)
+- RAND Corporation. (n.d.). Nurse-Family Partnership cost-benefit analyses. ($5.70 return per $1 invested.)
+- National Perinatal Information Center. (n.d.). NICU cost data. ($3,000-$5,000+ per day.)
+- Dennis, C.L. (2003). "Peer support within a health care context: a concept analysis." International Journal of Nursing Studies. (Peer support evidence for perinatal depression.)
+- Moseson, H., et al. (2020). "Experiences of transgender and nonbinary individuals seeking reproductive care." Obstetrics & Gynecology, 136(6): 1203-1211. (High rates of gender-related discrimination during pregnancy and postpartum; provider refusal, misgendering, outing without consent.)
+- Preyde, M. & Ardal, F. (2003). "Effectiveness of a parent 'buddy' program for mothers of very preterm infants in a neonatal intensive care unit." Canadian Medical Association Journal, 168(8): 969-973. (NICU peer support reduces maternal anxiety and depression.)

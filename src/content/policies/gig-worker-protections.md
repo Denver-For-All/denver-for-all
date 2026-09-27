@@ -30,6 +30,50 @@ keyStats:
     contextEs: 'La Directiva de Trabajo en Plataformas de la UE (2024) crea presuncion de empleo'
     source: 'European Commission, 2021'
     theme: 'primary'
+smartGoals:
+  - goal: 'Guarantee gig workers the Denver minimum wage for all active time'
+    goalEs: 'Garantizar a los trabajadores de plataformas el salario mínimo de Denver por todo el tiempo activo'
+    metric: 'Share of audited app-based trips and deliveries paying at least the Denver minimum wage plus expenses for engaged and waiting time'
+    metricEs: 'Porcentaje de viajes y entregas auditados que pagan al menos el salario mínimo de Denver más gastos por tiempo activo y de espera'
+    baseline: 'No local earnings floor; state TNC minimum pay only (SB 22-161, 2022)'
+    baselineEs: 'Sin piso local de ingresos; solo pago mínimo estatal para TNC (SB 22-161, 2022)'
+    target: '95% compliance'
+    targetEs: '95% de cumplimiento'
+    deadline: '2028'
+    owner: "Denver Labor (Auditor's Office)"
+    ownerEs: 'Denver Labor (Oficina del Auditor)'
+    precedent: "Seattle's App-Based Worker Minimum Payment Ordinance (2024) and NYC's delivery worker minimum pay rule (2023) raised pay per hour"
+    precedentEs: 'La ordenanza de pago mínimo para trabajadores de aplicaciones de Seattle (2024) y la norma de pago mínimo de repartidores de NYC (2023) aumentaron el pago por hora'
+    source: 'Colorado SB 22-161, 2022'
+  - goal: 'Stop unfair deactivations'
+    goalEs: 'Detener las desactivaciones injustas'
+    metric: 'Share of deactivations with written reasons and access to an independent appeal within 14 days'
+    metricEs: 'Porcentaje de desactivaciones con razones por escrito y acceso a una apelación independiente en 14 días'
+    baseline: 'No deactivation rights (2026)'
+    baselineEs: 'Sin derechos ante desactivaciones (2026)'
+    target: '100% of deactivations'
+    targetEs: '100% de las desactivaciones'
+    deadline: '2028'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Seattle's App-Based Worker Deactivation Rights Ordinance took effect in 2025"
+    precedentEs: 'La ordenanza de derechos ante desactivación de Seattle entró en vigor en 2025'
+    source: 'Denver Revised Municipal Code, 2026'
+  - goal: 'Fund portable benefits for gig workers'
+    goalEs: 'Financiar beneficios portátiles para trabajadores de plataformas'
+    metric: 'Denver gig workers with an active portable benefits account funded by platform contributions'
+    metricEs: 'Trabajadores de plataformas de Denver con cuenta de beneficios portátiles activa financiada por las plataformas'
+    baseline: '0 accounts (2026)'
+    baselineEs: '0 cuentas (2026)'
+    target: '25,000 workers enrolled'
+    targetEs: '25,000 trabajadores inscritos'
+    deadline: '2030'
+    owner: 'Denver Labor with Colorado FAMLI coordination'
+    ownerEs: 'Denver Labor en coordinación con FAMLI de Colorado'
+    precedent: "Pennsylvania's DoorDash portable benefits pilot (2024) and Utah's 2023 portable benefits law created per-hour contributions"
+    precedentEs: 'El piloto de beneficios portátiles de DoorDash en Pensilvania (2024) y la ley de Utah de 2023 crearon aportes por hora'
+    source: 'Denver Labor, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -119,9 +163,10 @@ Denver's ordinance applies to work performed within Denver city limits. For ride
 
 ## References
 
-- Colorado SB 22-161, _Transportation Network Company (TNC) Minimum Pay_, 2022
-- California Assembly Bill 5 (AB5), 2019
-- European Parliament, _Platform Work Directive_, 2024
-- UK Supreme Court, _Uber BV v. Aslam_ [2021] UKSC 5
-- Spain, _Ley Rider_ (Royal Decree-Law 9/2021)
-- McKinsey Global Institute, _Independent Work: Choice, Necessity, and the Gig Economy_, 2022 update
+- Colorado SB 22-161. (2022). _Transportation Network Company (TNC) Minimum Pay_.
+- California State Legislature. (2019). _Assembly Bill 5 (AB5): Worker status: employees and independent contractors_.
+- European Parliament. (2024). _Platform Work Directive_.
+- _Uber BV v. Aslam_, [2021] UKSC 5 (U.K. Supreme Court).
+- Spain. (n.d.). _Ley Rider_ (Royal Decree-Law 9/2021)
+- McKinsey Global Institute. (2016). _Independent work: Choice, necessity, and the gig economy_. McKinsey & Company.
+- McKinsey & Company. (2022). _Freelance, side hustles, and gigs: Many more Americans have become independent workers_ [American Opportunity Survey].

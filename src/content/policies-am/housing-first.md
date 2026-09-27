@@ -143,11 +143,12 @@
 
 ## ማጣቀሻዎች
 
-- Metro Denver Homeless Initiative (MDHI)። (2024)። Metro Denver Point-in-Time Count። (9,065 ሰዎች ቤት እጦት ያጋጠማቸው።)
-- Denver Department of Housing Stability (HOST)። የበጀት እና የፕሮግራም መረጃ።
-- Y-Foundation (ፊንላንድ)። ዓመታዊ ሪፖርቶች። (በቤት እጦት 35% ቅናሽ፤ መጠለያ ወደ አፓርትመንት የመቀየር ሞዴል)
-- Coalition for the Homeless, Houston/Harris County። የመኖሪያ ቤት መጀመሪያ የውጤት መረጃ። (ከ2012 ጀምሮ ከ25,000+ በላይ ቤት የገቡ።)
-- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing መሠረታዊ ማስረጃ)
-- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (የዋጋ ቁጠባ ማስረጃ)
-- ARA (Housing Finance and Development Centre of Finland)። ብሔራዊ የቤት እጦት ስታትስቲክስ።
-- Medicine Hat Community Housing Society። የተግባር ዜሮ የቤት እጦት መረጃ።
+- Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Metro Denver Homeless Initiative (MDHI). (2026). 2026 Point-in-Time Count Data. (9,950 metro; 6,411 in Denver; 1,703 unsheltered in Denver.)
+- Denver Department of Housing Stability (HOST). (n.d.). Budget and program data.
+- Y-Foundation (Finland). (n.d.). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
+- Coalition for the Homeless, Houston/Harris County. (n.d.). Housing First outcomes data. (25,000+ housed since 2012.)
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing foundational evidence.)
+- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Cost savings evidence.)
+- ARA (Housing Finance and Development Centre of Finland). (n.d.). National homelessness statistics.
+- Medicine Hat Community Housing Society. (n.d.). Functional zero homelessness data.

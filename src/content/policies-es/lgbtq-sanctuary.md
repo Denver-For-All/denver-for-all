@@ -125,13 +125,13 @@ Porque la discriminación tiene consecuencias económicas. Las personas LGBTQ+, 
 
 ## Referencias
 
-- GLAAD. (2025). "Project 2025 Exposed". Seguimiento de las reversiones federales de las protecciones LGBTQ+.
-- Movement Advancement Project (MAP). (2025). "Local Nondiscrimination Ordinances". Más de 395 municipios con protecciones LGBTQ+ explícitas.
-- Williams Institute, UCLA School of Law. (2023). Estimaciones de población LGBTQ+ y datos económicos por estado y área metropolitana.
-- True Colors United. (2023). "LGBTQ+ Youth Homelessness". Hasta el 40% de los jóvenes sin hogar se identifican como LGBTQ+.
-- American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation". La terapia de conversión causa daño; no hay evidencia de eficacia.
-- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council". Marco de protección municipal LGBTQ+.
-- National LGBTQ Task Force. (2026). "Creating Change 2026". Propuestas de conferencias que abordan la política intersectorial LGBTQ+.
-- Asamblea General de Colorado. HB 19-1129. "Prohibición de la Terapia de Conversión para Menores". Promulgada en 2019.
-- Ley Anti-Discriminación de Colorado (CADA). C.R.S. 24-34-301 et seq. Protecciones de orientación sexual e identidad de género.
-- Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action". Conjunto de herramientas de política municipal.
+- GLAAD. (2025). "Project 2025 Exposed." Tracking federal rollbacks of LGBTQ+ protections.
+- Movement Advancement Project (MAP). (2025). "Local Nondiscrimination Ordinances." 395+ municipalities with explicit LGBTQ+ protections.
+- Williams Institute, UCLA School of Law. (2023). LGBTQ+ population estimates and economic data by state and metro area.
+- True Colors United. (2023). "LGBTQ+ Youth Homelessness." Up to 40% of homeless youth identify as LGBTQ+.
+- American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Conversion therapy causes harm; no evidence of efficacy.
+- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Municipal LGBTQ+ protection framework.
+- National LGBTQ Task Force. (2026). "Creating Change 2026." Conference proposals addressing intersectional LGBTQ+ policy.
+- Colorado General Assembly. (2019). HB 19-1129. "Conversion Therapy Ban for Minors."
+- Colo. Rev. Stat. § 24-34-301 et seq. (Colorado Anti-Discrimination Act). Sexual orientation and gender identity protections.
+- Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Municipal policy toolkit.

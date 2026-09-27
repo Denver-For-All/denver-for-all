@@ -169,23 +169,23 @@
 
 ## 参考文献
 
-- Denver Gazette. (2025). "随着Flock摄像头网络的增长，隐私和数据问题也随之而来。" Flock审计日志显示，自2024年6月以来，ICE对丹佛数据进行了1,400多次搜索；市长Johnston签署了低于议会批准门槛的498,509美元的合同。
-- ACLU of Colorado. (2025). "公民权利和倡导组织联盟强烈反对使用Flock摄像头进行ICE监控。" 市政厅有500多名与会者；市议会以12比0的投票结果反对续签Flock合同。
-- Colorado Newsline. (2024). "新数据重新引发了对丹佛使用ShotSpotter的担忧。" 传感器位置集中在低收入的有色人种社区；470万美元的合同延期于2022年以10比1的投票结果获得批准。
-- Colorado Sun. (2023). "丹佛市长候选人筹集了660万美元，而外部团体花费了360万美元。" 超级政治行动委员会Advancing Denver筹集了420万美元；三位捐助者共捐赠了230万美元。
-- Denverite. (2024). "丹佛公平选举基金：候选人如何花费以及他们回馈了多少。" 向47名候选人支付了770万美元；个人捐助者从25,000人增加到50,000人。
-- Denver Board of Ethics. (2024). 丹佛道德规范，2024年4月修订。对“微不足道的价值”（25美元或以下）的物品的礼物例外情况；咖啡漏洞成立于2017年。
-- Brennan Center for Justice. (2024). "纽约州的公共竞选资金计划赋予选民小额捐助者权力。" 小额捐助者的参与度翻了一番；大额捐款从资金的70%下降到38%。
-- Georgetown University McCabe Center. (2023). "为民主投票：新报告考察了西雅图计划，该计划旨在消除大笔资金对政治的影响。" 超过106,000名代金券用户；捐助者参与度增加了五倍；人口结构与城市人口结构相似。
-- Colorado General Assembly. HB 23-1115. "废除当地住宅租金管制的禁令。" 在众议院获得通过；在参议院地方政府和住房委员会中以3比4的投票结果被否决。一位民主党人叛逃。
-- Colorado General Assembly. SB25-148. "竞选资金要求的修改。" 2025年3月，在参议院州、退伍军人和军事事务委员会中无限期推迟，投票结果为3比2。
-- Colorado General Assembly. SB 22-113. "人工智能面部识别。" 2022年生效。要求立法机构通知面部识别的使用。
-- Colorado General Assembly. HB 24-1130. "生物识别标识符和数据的隐私。" 2024年5月签署；2025年7月生效。收集生物识别数据需要书面同意。
-- Colorado General Assembly. HB 19-1210. "地方政府最低工资。" 2019年签署。废除了州对地方最低工资法的优先权。
-- California Legislature. AB 481. "执法部门和州机构：军事装备：资金、购置和使用。" 2021年生效。州级监控监督的模型。
-- ACLU. "社区控制警察监控。" 截至2025年，有26个司法管辖区拥有CCOPS条例。
-- Colorado Independent Ethics Commission. (2025). 针对17名议员的道德投诉已推进调查；在Vail度假村的游说者礼物指控。
-- Denver City Charter. 第二条（市长），第三条（市议会）。否决权推翻门槛：13票中的9票（69%）。合同批准门槛：500,000美元。
+- Denver Gazette. (2025). "As Flock camera network grows, so do privacy and data concerns." Flock audit logs showed 1,400+ ICE searches of Denver data since June 2024; Mayor Johnston signed $498,509 contract below council approval threshold.
+- ACLU of Colorado. (2025). "Coalition of Civil Rights and Advocacy Organizations Deeply Opposed to Use of Flock Cameras for ICE Surveillance." Over 500 attendees at town hall; 12-0 city council vote against Flock contract renewal.
+- Colorado Newsline. (2024). "New data reignites concerns about Denver's use of ShotSpotter." Sensor locations concentrated in low-income communities of color; $4.7M contract extension approved 10-1 in 2022.
+- Colorado Sun. (2023). "Denver mayoral candidates raised $6.6 million, while outside groups spent $3.6 million." Super PAC Advancing Denver raised $4.2M; three donors gave $2.3M combined.
+- Denverite. (2024). "Denver Fair Elections Fund: how candidates spent and how much they gave back." $7.7M disbursed to 47 candidates; individual donors doubled from 25,000 to 50,000.
+- Denver Board of Ethics. (2024). Denver Code of Ethics, revised April 2024. Gift exceptions for items of "trivial value" ($25 or less); coffee loophole established 2017.
+- Brennan Center for Justice. (2024). "New York State's Public Campaign Financing Program Empowers Constituent Small Donors." Small donor participation doubled; large donations dropped from 70% to 38% of funding.
+- Georgetown University McCabe Center. (2023). "Vouching for Democracy: New Report Examines the Seattle Program Fighting Big Money's Influence on Politics." 106,000+ voucher users; fivefold increase in donor participation; demographics mirror city population.
+- Colorado General Assembly. (n.d.). HB 23-1115. "Repeal Prohibition Local Residential Rent Control." Passed House; killed 3-4 in Senate Local Government & Housing Committee. One Democratic defection.
+- Colorado General Assembly. (2025). SB25-148. "Modifications to Campaign Finance Requirements." Postponed indefinitely 3-2 in Senate State, Veterans, & Military Affairs Committee, March.
+- Colorado General Assembly. (2022). SB 22-113. "Artificial Intelligence Facial Recognition." Enacted 2022. Requires legislative body notification for facial recognition use.
+- Colorado General Assembly. (2024). HB 24-1130. "Privacy of Biometric Identifiers & Data." Signed May 2024; effective July 2025. Written consent required for biometric data collection.
+- Colorado General Assembly. (2019). HB 19-1210. "Local Government Minimum Wage." Signed 2019. Repealed state preemption of local minimum wage laws.
+- California Legislature. (2021). AB 481. "Law Enforcement and State Agencies: Military Equipment: Funding, Acquisition, and Use." Enacted 2021. Model for statewide surveillance oversight.
+- ACLU. (2025). "Community Control Over Police Surveillance." 26 jurisdictions with CCOPS ordinances as of.
+- Colorado Independent Ethics Commission. (2025). Ethics complaints against 17 legislators advanced for investigation; lobbyist gift allegations at Vail resort.
+- Denver City Charter. (n.d.). Article II (Mayor), Article III (City Council). Veto override threshold: 9-of-13 (69%). Contract approval threshold: $500,000.
 
 ---
 

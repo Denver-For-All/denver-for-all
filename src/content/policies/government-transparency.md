@@ -53,6 +53,50 @@ relatedLegislation:
     title: 'Voter Transparency in Ballot Measures'
     status: 'Introduced - Assigned to State, Civic, Military, & Veterans Affairs'
     url: 'https://leg.colorado.gov/bills/hb26-1084'
+smartGoals:
+  - goal: 'Publish every city contract over $25,000 in full'
+    goalEs: 'Publicar completo cada contrato municipal de más de $25,000'
+    metric: 'Share of active contracts over $25,000 whose full text is keyword-searchable online'
+    metricEs: 'Porcentaje de contratos activos de más de $25,000 con texto completo buscable en línea'
+    baseline: 'Summary data only; full text by records request (2026)'
+    baselineEs: 'Solo datos resumidos; texto completo por solicitud de registros (2026)'
+    target: '100% posted within 10 days of execution'
+    targetEs: '100% publicado a los 10 días de su firma'
+    deadline: '2028'
+    owner: 'Denver Department of Finance, Purchasing Division'
+    ownerEs: 'Departamento de Finanzas de Denver, División de Compras'
+    precedent: 'Slovakia has required all public contracts to be published online before they take effect since 2011'
+    precedentEs: 'Eslovaquia exige desde 2011 publicar en línea todos los contratos públicos antes de que entren en vigor'
+    source: 'Denver Open Data Catalog, 2026'
+  - goal: 'Launch democracy vouchers for every Denver voter'
+    goalEs: 'Lanzar vales de democracia para cada votante de Denver'
+    metric: 'Registered voters who assign at least one democracy voucher'
+    metricEs: 'Votantes registrados que asignan al menos un vale de democracia'
+    baseline: 'No voucher program; Fair Elections Fund 9:1 match only (2026)'
+    baselineEs: 'Sin programa de vales; solo la contrapartida 9:1 del Fondo de Elecciones Justas (2026)'
+    target: '25,000 voters using vouchers in the 2031 election'
+    targetEs: '25,000 votantes usando vales en la elección de 2031'
+    deadline: '2031'
+    owner: 'Denver Clerk and Recorder'
+    ownerEs: 'Secretario y Registrador de Denver'
+    precedent: "Seattle's Democracy Voucher program multiplied the number of campaign donors roughly fivefold after 2017"
+    precedentEs: 'El programa de Vales de Democracia de Seattle multiplicó por cerca de cinco el número de donantes después de 2017'
+    source: 'Denver Fair Elections Fund, 2026'
+  - goal: 'Post all lobbyist contacts with city officials within 48 hours'
+    goalEs: 'Publicar todos los contactos de cabilderos con funcionarios en 48 horas'
+    metric: 'Share of registered lobbyist contacts disclosed in a searchable database within 48 hours'
+    metricEs: 'Porcentaje de contactos de cabilderos registrados divulgados en una base buscable en 48 horas'
+    baseline: 'Registration only; contacts not disclosed (2026)'
+    baselineEs: 'Solo registro; los contactos no se divulgan (2026)'
+    target: '100% of contacts'
+    targetEs: '100% de los contactos'
+    deadline: '2028'
+    owner: 'Denver Clerk and Recorder with the Board of Ethics'
+    ownerEs: 'Secretario y Registrador de Denver con la Junta de Ética'
+    precedent: 'Chicago and Los Angeles require quarterly lobbyist activity reports naming officials contacted'
+    precedentEs: 'Chicago y Los Ángeles exigen informes trimestrales de cabildeo que nombran a los funcionarios contactados'
+    source: 'Denver Clerk and Recorder lobbyist registry, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -231,15 +275,15 @@ The barrier is not legal authority - it is political will and the concentration 
 - Denver Board of Ethics. (2024). Denver Code of Ethics, revised April 2024. Gift exceptions for items of "trivial value" ($25 or less); coffee loophole established 2017.
 - Brennan Center for Justice. (2024). "New York State's Public Campaign Financing Program Empowers Constituent Small Donors." Small donor participation doubled; large donations dropped from 70% to 38% of funding.
 - Georgetown University McCabe Center. (2023). "Vouching for Democracy: New Report Examines the Seattle Program Fighting Big Money's Influence on Politics." 106,000+ voucher users; fivefold increase in donor participation; demographics mirror city population.
-- Colorado General Assembly. HB 23-1115. "Repeal Prohibition Local Residential Rent Control." Passed House; killed 3-4 in Senate Local Government & Housing Committee. One Democratic defection.
-- Colorado General Assembly. SB25-148. "Modifications to Campaign Finance Requirements." Postponed indefinitely 3-2 in Senate State, Veterans, & Military Affairs Committee, March 2025.
-- Colorado General Assembly. SB 22-113. "Artificial Intelligence Facial Recognition." Enacted 2022. Requires legislative body notification for facial recognition use.
-- Colorado General Assembly. HB 24-1130. "Privacy of Biometric Identifiers & Data." Signed May 2024; effective July 2025. Written consent required for biometric data collection.
-- Colorado General Assembly. HB 19-1210. "Local Government Minimum Wage." Signed 2019. Repealed state preemption of local minimum wage laws.
-- California Legislature. AB 481. "Law Enforcement and State Agencies: Military Equipment: Funding, Acquisition, and Use." Enacted 2021. Model for statewide surveillance oversight.
-- ACLU. "Community Control Over Police Surveillance." 26 jurisdictions with CCOPS ordinances as of 2025.
+- Colorado General Assembly. (n.d.). HB 23-1115. "Repeal Prohibition Local Residential Rent Control." Passed House; killed 3-4 in Senate Local Government & Housing Committee. One Democratic defection.
+- Colorado General Assembly. (2025). SB25-148. "Modifications to Campaign Finance Requirements." Postponed indefinitely 3-2 in Senate State, Veterans, & Military Affairs Committee, March.
+- Colorado General Assembly. (2022). SB 22-113. "Artificial Intelligence Facial Recognition." Enacted 2022. Requires legislative body notification for facial recognition use.
+- Colorado General Assembly. (2024). HB 24-1130. "Privacy of Biometric Identifiers & Data." Signed May 2024; effective July 2025. Written consent required for biometric data collection.
+- Colorado General Assembly. (2019). HB 19-1210. "Local Government Minimum Wage." Signed 2019. Repealed state preemption of local minimum wage laws.
+- California Legislature. (2021). AB 481. "Law Enforcement and State Agencies: Military Equipment: Funding, Acquisition, and Use." Enacted 2021. Model for statewide surveillance oversight.
+- ACLU. (2025). "Community Control Over Police Surveillance." 26 jurisdictions with CCOPS ordinances as of.
 - Colorado Independent Ethics Commission. (2025). Ethics complaints against 17 legislators advanced for investigation; lobbyist gift allegations at Vail resort.
-- Denver City Charter. Article II (Mayor), Article III (City Council). Veto override threshold: 9-of-13 (69%). Contract approval threshold: $500,000.
+- Denver City Charter. (n.d.). Article II (Mayor), Article III (City Council). Veto override threshold: 9-of-13 (69%). Contract approval threshold: $500,000.
 
 ---
 

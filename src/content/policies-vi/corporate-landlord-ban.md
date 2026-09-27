@@ -87,3 +87,10 @@ Các tòa nhà chung cư lớn (50+ căn) bị loại trừ khỏi lệnh cấm 
 
 **"Việc thoái vốn bắt buộc sẽ không gây ra một cuộc bán tháo làm giảm giá trị tài sản sao?"**
 Thời hạn thoái vốn 5 năm cố ý đủ dài để ngăn chặn một cuộc bán tháo. Với tốc độ bán nhà hiện tại của Denver (~30.000 giao dịch mỗi năm trong khu vực đô thị), khối lượng thoái vốn của tổ chức sẽ chỉ chiếm một phần nhỏ trong tổng hoạt động thị trường. Các chủ nhà là công ty ở Denver nắm giữ hàng nghìn căn hộ, không phải hàng trăm nghìn. Yêu cầu bán theo giá trị thị trường hợp lý được thẩm định độc lập - không phải theo giá khó khăn - ngăn chặn việc bán phá giá. Và quyền ưu tiên từ chối đầu tiên cho những người thuê nhà hiện tại, quỹ đất cộng đồng và Cơ Quan Quản Lý Nhà Ở Xã Hội đảm bảo các căn hộ sẽ đến tay những người mua có cùng mục tiêu, không phải đến tay chủ nhà là công ty tiếp theo trong danh sách. Quá trình trưng thu của Berlin, được 59% cư dân bỏ phiếu vào năm 2021, đang tiến hành theo một thời gian biểu nhiều năm tương tự mà không gây ra sự gián đoạn thị trường.
+
+## Tài Liệu Tham Khảo
+
+- Deutsche Welle. (2021, September 27). _Berlin referendum: Majority votes to expropriate large landlords_. https://www.dw.com
+- Organisation for Economic Co-operation and Development. (2024). _OECD Affordable Housing Database_. https://www.oecd.org/housing/data/affordable-housing-database/
+- Redfin. (2024). _Investor home purchases in 2023_ [Data analysis]. https://www.redfin.com/news/investor-home-purchases-q4-2023/
+- U.S. Department of Justice. (2024, August 23). _Justice Department sues RealPage for algorithmic pricing scheme that harms millions of American renters_ [Press release]. https://www.justice.gov

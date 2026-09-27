@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Denver tiene aproximadamente 7500 personas sin hogar en una noche cualquiera (Conteo de Personas sin Hogar del MDHI, 2024; estimaciones de Denver HOST). El enfoque de la ciudad ha sido el modelo estadounidense tradicional: refugios como triaje, vivienda condicional (debe estar sobrio, empleado o "listo para la vivienda" para calificar) y criminalización de dormir al aire libre.
+Denver tenía 6,411 personas sin hogar la noche del Conteo de Personas sin Hogar de enero de 2026, incluidas 1,703 que dormían a la intemperie (Iniciativa de Personas sin Hogar del Área Metropolitana de Denver, 2026). El enfoque de la ciudad ha sido el modelo estadounidense tradicional: refugios como triaje, vivienda condicional (debe estar sobrio, empleado o "listo para la vivienda" para calificar) y criminalización de dormir al aire libre.
 
 Este modelo ha producido sistemáticamente peores resultados y mayores costos que los enfoques de Housing First (Vivienda Primero) en cada comparación rigurosa. Cuesta más que dar vivienda a la gente, produce peores resultados y trata un problema de vivienda como un defecto de carácter.
 
@@ -11,7 +11,7 @@ Este modelo ha producido sistemáticamente peores resultados y mayores costos qu
 
 El enfoque de Denver hacia la falta de vivienda se centra en el Departamento de Estabilidad de la Vivienda (HOST), que coordina los refugios, la rápida reinserción en la vivienda y la vivienda de apoyo permanente (PSH, por sus siglas en inglés). Denver tenía aproximadamente 1300 unidades de PSH en 2024, muy por debajo de la necesidad. La ciudad ha gastado fuertemente en refugios de emergencia, incluyendo la conversión de hoteles durante la pandemia, y en la gestión de campamentos (barridas), que la ACLU de Colorado ha impugnado repetidamente.
 
-La iniciativa "All In Mile High" del Alcalde Johnston prometió dar vivienda a 1000 personas y trasladarlas de los campamentos. Si bien algunas personas han sido alojadas, el enfoque se basa en gran medida en ubicaciones de refugio temporales en lugar de vivienda permanente, y las barridas de campamentos continúan desplazando a las personas sin resolver su falta de vivienda. El Conteo de Personas sin Hogar del Área Metropolitana de Denver de 2024 identificó aproximadamente 9065 personas sin hogar en el área metropolitana (MDHI, 2024).
+La iniciativa "All In Mile High" del Alcalde Johnston prometió dar vivienda a 1000 personas y trasladarlas de los campamentos. Si bien algunas personas han sido alojadas, el enfoque se basa en gran medida en ubicaciones de refugio temporales en lugar de vivienda permanente, y las barridas de campamentos continúan desplazando a las personas sin resolver su falta de vivienda. Los resultados son reales donde la ciudad ha dado vivienda a las personas: el conteo de Denver bajó de 7,327 en 2025 a 6,411 en 2026, y la falta de vivienda a la intemperie cayó 21% en un año hasta su nivel más bajo en nueve años (MDHI, 2026). Pero más de 6,400 personas aún no tienen hogar, y el conteo se hizo en una noche bajo cero con los refugios de invierno abiertos. La lección es ampliar lo que funciona - la vivienda permanente - en lugar de la rotación entre refugios.
 
 **Las cuentas son condenatorias:** Denver gasta un estimado de $40 000 a $60 000 por persona por año administrando la falta de vivienda a través de servicios de emergencia. La vivienda de apoyo permanente cuesta entre $15 000 y $25 000 por persona por año. El cálculo de ahorros en nuestra propuesta debe entenderse como aplicable principalmente a la población sin hogar crónica (aproximadamente 2000 a 3000 personas), no al conteo total de más de 9000, pero el ahorro de costos solo para esa población supera los $50 a 100 millones al año.
 
@@ -143,11 +143,12 @@ Las barridas sin ubicaciones de vivienda no reducen la falta de vivienda; la reu
 
 ## Referencias
 
-- Iniciativa de Personas sin Hogar del Área Metropolitana de Denver (MDHI). (2024). Conteo de Personas sin Hogar del Área Metropolitana de Denver. (9065 personas sin hogar).
-- Departamento de Estabilidad de la Vivienda de Denver (HOST). Presupuesto y datos del programa.
-- Fundación Y (Finlandia). Informes anuales. (Reducción del 35% en la falta de vivienda; modelo de conversión de refugio a apartamento).
-- Coalición para las Personas sin Hogar, Houston/Condado de Harris. Datos de resultados de Housing First (Vivienda Primero). (Más de 25 000 alojados desde 2012).
-- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis" (Housing First, Elección del Consumidor y Reducción de Daños para Individuos Sin Hogar Con un Diagnóstico Dual). American Journal of Public Health. (Evidencia fundamental de Pathways to Housing).
-- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing" (Reducciones de Servicios Públicos Asociadas con la Colocación de Personas Sin Hogar con Enfermedad Mental Grave en Viviendas de Apoyo). Housing Policy Debate. (Evidencia de ahorro de costos).
-- ARA (Centro de Financiación y Desarrollo de la Vivienda de Finlandia). Estadísticas nacionales sobre personas sin hogar.
-- Sociedad de Vivienda Comunitaria de Medicine Hat. Datos funcionales de cero personas sin hogar.
+- Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Metro Denver Homeless Initiative (MDHI). (2026). 2026 Point-in-Time Count Data. (9,950 metro; 6,411 in Denver; 1,703 unsheltered in Denver.)
+- Denver Department of Housing Stability (HOST). (n.d.). Budget and program data.
+- Y-Foundation (Finland). (n.d.). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
+- Coalition for the Homeless, Houston/Harris County. (n.d.). Housing First outcomes data. (25,000+ housed since 2012.)
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing foundational evidence.)
+- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Cost savings evidence.)
+- ARA (Housing Finance and Development Centre of Finland). (n.d.). National homelessness statistics.
+- Medicine Hat Community Housing Society. (n.d.). Functional zero homelessness data.

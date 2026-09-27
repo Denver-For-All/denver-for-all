@@ -85,8 +85,8 @@
 
 ## المراجع
 
-- مكتب إحصاءات العمل، _ملخص أعضاء النقابات_، دنفر-أورورا-ليكود MSA، 2023
-- معهد السياسة الاقتصادية، _فجوة الإنتاجية والأجور_، تم تحديثه في 2024
-- كاليفورنيا AB 1228 (مجلس الوجبات السريعة)، 2023
-- منظمة التعاون الاقتصادي والتنمية، _التفاوض على طريقنا إلى الأعلى: المفاوضة الجماعية في عالم العمل المتغير_، 2019
-- منظمة العمل الدولية (ILO)، _تغطية المفاوضة القطاعية حسب البلد_، 2023
+- Bureau of Labor Statistics. (2023). _Union Members Summary_, Denver-Aurora-Lakewood MSA.
+- Economic Policy Institute. (2024). _The Productivity-Pay Gap_, updated.
+- California State Legislature. (2023). _Assembly Bill 1228: Fast food restaurant industry: Fast Food Council_.
+- OECD. (2019). _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_.
+- International Labour Organization (ILO). (2023). _Sectoral Bargaining Coverage by Country_.

@@ -141,16 +141,17 @@ CDOC هي وكالة تابعة للولاية، نعم. لكن دنفر هي ع
 
 ## المراجع
 
-- دستور كولورادو، المادة الثانية، القسم 26 (بصيغته المعدلة بموجب التعديل (أ) Amendment A، 2018). "لا يجوز أبدًا أن تكون هناك في هذه الولاية عبودية أو خدمة قسرية."
-- وزير خارجية كولورادو. (2018). النتائج الرسمية للانتخابات: التعديل (أ) Amendment A. (موافقة 65٪).
-- ACLU. (2022). _العمل القسري: استغلال العمال المسجونين._ (بيانات العمل في السجون على الصعيد الوطني؛ متوسط الأجور 0.13-0.52 دولارًا في الساعة؛ أكثر من 800,000 عامل مسجون؛ قيمة سنوية تزيد عن 11 مليار دولار).
-- ACLU. (2022). بيانات الأجور على مستوى الولاية: أجور العمال المسجونين في كولورادو 0.33-1.61 دولارًا في الساعة.
-- Woodruff، C. (2025). "تبدأ محاكمة كولورادو بشأن العمل القسري في السجون في دنفر." _Colorado Newsline_، 7 تشرين الأول/أكتوبر 2025. (تغطية محاكمة _Mortis v. Polis_؛ اقتباسات من إيداعات CDOC؛ شهادة في التجمع).
-- _Mortis v. Polis_، محكمة مقاطعة دنفر. (2022). رد الولاية على شكوى المدعين. ("امتيازات السجن هي مجرد امتيازات.")
-- Pew Charitable Trusts. (2018). _المال والتنقل: النتائج المالية للأشخاص المسجونين._ (المدخرات عند الإفراج وتقليل العودة إلى الإجرام).
-- خدمة الإصلاحيات النرويجية. إحصائيات العودة إلى الإجرام. (معدل العودة إلى الإجرام 20٪؛ نموذج عمل السجون التعويضي الطوعي).
-- مكتب الإحصاء الفيدرالي الألماني. بيانات التعويض عن العودة إلى الإجرام وعمل السجون. (35-40٪ عودة إلى الإجرام.)
-- معهد فيرا للعدالة. (2022). _تكلفة السجون: قياس تكلفة دافعي الضرائب للسجن المحلي._ (تكلفة السجن 40-60 ألف دولار في السنة).
-- حملة "إنهاء العبودية في كولورادو". مواد الحملة والدعوة. (تاريخ تنظيم التعديل (أ) Amendment A).
-- نحو العدالة. مواد قضية _Mortis v. Polis_ والبيانات العامة. (ديفيد سيليجمان، المدير التنفيذي).
-- World Prison Brief. مقارنات معدلات السجن الدولية.
+- Colorado Public Radio. (2026, February 17). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
+- Colo. Const. art. II, § 26 (as amended by Amendment A, 2018). "There shall never be in this state either slavery or involuntary servitude."
+- Colorado Secretary of State. (2018). Official Election Results: Amendment A. (65% approval.)
+- ACLU. (2022). _Captive Labor: Exploitation of Incarcerated Workers._ (National prison labor data; $0.13-$0.52/hr average wages; 800,000+ incarcerated workers; $11B+ annual value.)
+- ACLU. (2022). State-level wage data: Colorado incarcerated worker wages $0.33-$1.61/hr.
+- Woodruff, C. (2025). "Colorado trial over coerced prison labor begins in Denver." _Colorado Newsline_, October 7, 2025. (_Mortis v. Polis_ trial coverage; CDOC filing quotes; rally testimony.)
+- _Mortis v. Polis_, Denver District Court. (2022). State's Response to Plaintiffs' Complaint. ("Prison privileges are just that - privileges.")
+- Pew Charitable Trusts. (2018). _Money and Mobility: Financial Outcomes for Incarcerated People._ (Savings at release and recidivism reduction.)
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate; voluntary compensated prison labor model.)
+- German Federal Statistical Office. (n.d.). Recidivism and prison labor compensation data. (35-40% recidivism.)
+- Vera Institute of Justice. (2022). _The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration._ ($40-60K/year incarceration cost.)
+- End Slavery Colorado campaign. (n.d.). Campaign and advocacy materials. (Amendment A organizing history.)
+- Towards Justice. (n.d.). _Mortis v. Polis_ case materials and public statements. (David Seligman, executive director.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.

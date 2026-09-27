@@ -61,3 +61,9 @@ Denver 拥有的反流离失所工具非常有限。“扩大住房可负担性 
 
 **“30% 的包容性是否太高了？”**
 蒙特利尔、巴塞罗那以及美国的几个司法管辖区已经成功实施了 20-30% 的包容性要求。关键在于它平等地适用于每个人 -  - 没有竞争劣势。
+
+## 参考文献
+
+- Bardaka, E., Delgado, M. S., & Florax, R. J. G. M. (2018). Causal identification of transit-induced gentrification and spatial spillover effects: The case of the Denver light rail. _Journal of Transport Geography, 71_, 15-31. https://doi.org/10.1016/j.jtrangeo.2018.06.025
+- City and County of Denver. (2022). _Expanding Housing Affordability (EHA) ordinance_. https://www.denvergov.org
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit permanently affordable community in West Colfax]. https://www.coloradopolitics.com

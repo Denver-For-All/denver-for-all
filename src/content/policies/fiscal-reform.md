@@ -32,6 +32,50 @@ relatedLegislation:
     title: 'Revenue Classification Taxpayers Bill of Rights'
     status: 'Introduced - Assigned to Finance'
     url: 'https://leg.colorado.gov/bills/sb26-042'
+smartGoals:
+  - goal: "Reduce Denver's dependence on regressive sales tax"
+    goalEs: 'Reducir la dependencia de Denver del impuesto regresivo sobre las ventas'
+    metric: 'Sales and use tax as a share of General Fund revenue'
+    metricEs: 'Impuesto sobre ventas y uso como porcentaje de los ingresos del Fondo General'
+    baseline: '~50% of General Fund revenue (2026 budget)'
+    baselineEs: '~50% de los ingresos del Fondo General (presupuesto de 2026)'
+    target: '35% of General Fund revenue'
+    targetEs: '35% de los ingresos del Fondo General'
+    deadline: '2034'
+    owner: 'Denver Department of Finance, with voter approval under TABOR'
+    ownerEs: 'Departamento de Finanzas de Denver, con aprobación de los votantes bajo TABOR'
+    precedent: "Seattle's JumpStart payroll expense tax on large employers (2020) raises roughly $300M per year"
+    precedentEs: 'El impuesto JumpStart de Seattle sobre nóminas de grandes empleadores (2020) recauda cerca de $300M por año'
+    source: 'City and County of Denver 2026 Budget'
+  - goal: 'Rebuild reserves so Denver never has to cut services in a downturn'
+    goalEs: 'Reconstruir reservas para que Denver no tenga que recortar servicios en una recesión'
+    metric: 'General Fund reserves as a share of annual expenditures'
+    metricEs: 'Reservas del Fondo General como porcentaje del gasto anual'
+    baseline: '$200M shortfall closed with ~$100M in job cuts (2026 budget)'
+    baselineEs: 'Déficit de $200M cerrado con ~$100M en recortes de empleos (presupuesto de 2026)'
+    target: '17% reserves (GFOA-recommended two months of spending)'
+    targetEs: '17% de reservas (dos meses de gasto recomendados por GFOA)'
+    deadline: '2030'
+    owner: 'Denver Department of Finance and City Council'
+    ownerEs: 'Departamento de Finanzas de Denver y Concejo Municipal'
+    precedent: 'The GFOA best-practice standard of two months of operating expenditures is met by most AAA-rated cities'
+    precedentEs: 'La mayoría de las ciudades con calificación AAA cumplen la norma de GFOA de dos meses de gasto operativo'
+    source: 'Denverite (April 2025); Westword (2025)'
+  - goal: 'Put every corporate subsidy in a searchable public database'
+    goalEs: 'Publicar cada subsidio corporativo en una base de datos pública'
+    metric: 'Share of active TIF districts and incentive agreements disclosed with job and wage outcomes'
+    metricEs: 'Porcentaje de distritos TIF e incentivos activos divulgados con resultados de empleo y salarios'
+    baseline: 'No consolidated disclosure (2026)'
+    baselineEs: 'Sin divulgación consolidada (2026)'
+    target: '100% disclosed; clawbacks in every new agreement'
+    targetEs: '100% divulgado; cláusulas de recuperación en cada nuevo acuerdo'
+    deadline: '2028'
+    owner: 'Denver Economic Development & Opportunity and the Denver Auditor'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver y el Auditor de Denver'
+    precedent: 'Chicago publishes all TIF district finances annually; GASB 77 (2015) requires tax abatement disclosure'
+    precedentEs: 'Chicago publica anualmente las finanzas de todos sus distritos TIF; GASB 77 (2015) exige divulgar las exenciones fiscales'
+    source: 'GASB Statement 77, 2015'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -158,11 +202,11 @@ Denver voters approved a 0.25% sales tax for climate action in 2020 (by 63%) and
 ## References
 
 - Denver Annual Budget. (2024-2025). Office of the Mayor, Budget and Management Office.
-- Colorado Department of Revenue. Sales tax rate tables. (Denver combined rate ~8.81%.)
-- Denver Assessor's Office. Property assessment rates and residential assessment rate data.
-- Colorado TABOR (Article X, Section 20, Colorado Constitution). Voter approval requirements.
+- Colorado Department of Revenue. (n.d.). Sales tax rate tables. (Denver combined rate ~8.81%.)
+- Denver Assessor's Office. (n.d.). Property assessment rates and residential assessment rate data.
+- Colorado TABOR (Article X, Section 20, Colorado Constitution). (n.d.). Voter approval requirements.
 - Institute on Taxation and Economic Policy. (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States." (Regressive sales tax impact data.)
-- Lincoln Institute of Land Policy. Property tax rate comparisons across US cities.
-- Portland Clean Energy Community Benefits Fund. Annual revenue reports. ($60-90M/year.)
-- City of Vienna. Housing and fiscal policy reports. (Social housing funding model.)
-- Denver Climate Protection Fund. (2020 ballot measure). Revenue and allocation reports.
+- Lincoln Institute of Land Policy. (n.d.). Property tax rate comparisons across US cities.
+- Portland Clean Energy Community Benefits Fund. (n.d.). Annual revenue reports. ($60-90M/year.)
+- City of Vienna. (n.d.). Housing and fiscal policy reports. (Social housing funding model.)
+- Denver Climate Protection Fund. (n.d.). (2020 ballot measure). Revenue and allocation reports.

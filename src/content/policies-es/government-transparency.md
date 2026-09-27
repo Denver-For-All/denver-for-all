@@ -169,13 +169,20 @@ La barrera no es la autoridad legal; es la voluntad política y la concentració
 
 ## Referencias
 
-- Denver Gazette. (2025). "A medida que crece la red de cámaras Flock, también lo hacen las preocupaciones sobre la privacidad y los datos". Los registros de auditoría de Flock mostraron más de 1,400 búsquedas de datos de Denver por parte de ICE desde junio de 2024; El Alcalde Johnston firmó un contrato de $498,509 por debajo del umbral de aprobación del Concejo Municipal.
-- ACLU de Colorado. (2025). "Coalición de Organizaciones de Derechos Civiles y Defensa Profundamente Opuesta al Uso de Cámaras Flock para la Vigilancia de ICE". Más de 500 asistentes en el ayuntamiento; votación del Concejo Municipal 12-0 en contra de la renovación del contrato de Flock.
-- Colorado Newsline. (2024). "Nuevos datos reavivan las preocupaciones sobre el uso de ShotSpotter por parte de Denver". Ubicaciones de los sensores concentradas en comunidades de color de bajos ingresos; extensión del contrato de $4.7 millones aprobada 10-1 en 2022.
-- Colorado Sun. (2023). "Los candidatos a la alcaldía de Denver recaudaron $6.6 millones, mientras que grupos externos gastaron $3.6 millones". El súper PAC Advancing Denver recaudó $4.2 millones; tres donantes donaron $2.3 millones combinados.
-- Denverite. (2024). "Fondo de Elecciones Justas de Denver: cómo gastaron los candidatos y cuánto devolvieron". $7.7 millones desembolsados a 47 candidatos; los donantes individuales se duplicaron de 25,000 a 50,000.
-- Junta de Ética de Denver. (2024). Código de Ética de Denver, revisado en abril de 2024. Excepciones de regalos para artículos de "valor trivial" ($25 o menos); laguna del café establecida en 2017.
-- Brennan Center for Justice. (2024). "El Programa de Financiación Pública de Campañas del Estado de Nueva York Empodera a los Pequeños Donantes Constituyentes". La participación de los pequeños donantes se duplicó; las grandes donaciones se redujeron del 70% al 38% de la financiación.
-- Centro McCabe de la Universidad de Georgetown. (2023). "Apostando por la Democracia: Un Nuevo Informe Examina el Programa de Seattle que Lucha Contra la Influencia del Gran Dinero en la Política". Más de 106,000 usuarios de vales; aumento de cinco veces en la participación de los donantes; la demografía refleja la población de la ciudad.
-- Asamblea General de Colorado. HB 23-1115. "Derogar la Prohibición del Control Local de Alquileres Residenciales". Aprobada por la Cámara de Representantes; muerta 3-4 en el Comité Senatorial de Gobierno Local y Vivienda. Una deserción demócrata.
-- Asamblea General de Colorado. SB25-148. "Modificaciones a los Requisitos de Financiación de Campañas". Aplazada indefinidamente 3-2 en
+- Denver Gazette. (2025). "As Flock camera network grows, so do privacy and data concerns." Flock audit logs showed 1,400+ ICE searches of Denver data since June 2024; Mayor Johnston signed $498,509 contract below council approval threshold.
+- ACLU of Colorado. (2025). "Coalition of Civil Rights and Advocacy Organizations Deeply Opposed to Use of Flock Cameras for ICE Surveillance." Over 500 attendees at town hall; 12-0 city council vote against Flock contract renewal.
+- Colorado Newsline. (2024). "New data reignites concerns about Denver's use of ShotSpotter." Sensor locations concentrated in low-income communities of color; $4.7M contract extension approved 10-1 in 2022.
+- Colorado Sun. (2023). "Denver mayoral candidates raised $6.6 million, while outside groups spent $3.6 million." Super PAC Advancing Denver raised $4.2M; three donors gave $2.3M combined.
+- Denverite. (2024). "Denver Fair Elections Fund: how candidates spent and how much they gave back." $7.7M disbursed to 47 candidates; individual donors doubled from 25,000 to 50,000.
+- Denver Board of Ethics. (2024). Denver Code of Ethics, revised April 2024. Gift exceptions for items of "trivial value" ($25 or less); coffee loophole established 2017.
+- Brennan Center for Justice. (2024). "New York State's Public Campaign Financing Program Empowers Constituent Small Donors." Small donor participation doubled; large donations dropped from 70% to 38% of funding.
+- Georgetown University McCabe Center. (2023). "Vouching for Democracy: New Report Examines the Seattle Program Fighting Big Money's Influence on Politics." 106,000+ voucher users; fivefold increase in donor participation; demographics mirror city population.
+- Colorado General Assembly. (n.d.). HB 23-1115. "Repeal Prohibition Local Residential Rent Control." Passed House; killed 3-4 in Senate Local Government & Housing Committee. One Democratic defection.
+- Colorado General Assembly. (2025). SB25-148. "Modifications to Campaign Finance Requirements." Postponed indefinitely 3-2 in Senate State, Veterans, & Military Affairs Committee, March.
+- Colorado General Assembly. (2022). SB 22-113. "Artificial Intelligence Facial Recognition." Enacted 2022. Requires legislative body notification for facial recognition use.
+- Colorado General Assembly. (2024). HB 24-1130. "Privacy of Biometric Identifiers & Data." Signed May 2024; effective July 2025. Written consent required for biometric data collection.
+- Colorado General Assembly. (2019). HB 19-1210. "Local Government Minimum Wage." Signed 2019. Repealed state preemption of local minimum wage laws.
+- California Legislature. (2021). AB 481. "Law Enforcement and State Agencies: Military Equipment: Funding, Acquisition, and Use." Enacted 2021. Model for statewide surveillance oversight.
+- ACLU. (2025). "Community Control Over Police Surveillance." 26 jurisdictions with CCOPS ordinances as of.
+- Colorado Independent Ethics Commission. (2025). Ethics complaints against 17 legislators advanced for investigation; lobbyist gift allegations at Vail resort.
+- Denver City Charter. (n.d.). Article II (Mayor), Article III (City Council). Veto override threshold: 9-of-13 (69%). Contract approval threshold: $500,000.

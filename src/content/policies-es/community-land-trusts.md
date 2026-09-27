@@ -69,3 +69,10 @@ Champlain Housing Trust en Burlington, VT, ha operado desde 1984 con más de 2,8
 
 **"¿Es esto realmente propiedad de la vivienda si no puedes quedarte con todas las ganancias?"**
 Usted es dueño de su vivienda. Usted genera capital. Simplemente no puede especular sobre la tierra debajo de ella. La contrapartida: usted pagó un precio asequible al principio. La próxima familia merece la misma oportunidad. Esta es la propiedad de la vivienda para las personas que quieren viviendas, no para las personas que quieren vehículos de inversión.
+
+## Referencias
+
+- Champlain Housing Trust. (n.d.). _About CHT_. Retrieved May 2026, from https://www.getahome.org
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing need estimates_. https://www.denvergov.org/host
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, including remarks by Mayor Mike Johnston on Denver's affordable-housing pace]. https://www.coloradopolitics.com
+- Elevation Community Land Trust. (n.d.). _Our homes_. Retrieved May 2026, from https://www.elevationclt.org

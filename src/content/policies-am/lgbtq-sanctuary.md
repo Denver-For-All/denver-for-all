@@ -123,15 +123,15 @@ LGBTQ+ ወጣቶች ለቤት እጦት፣ ጉልበተኝነት እና የአ�
 **"LGBTQ+ ሰዎችን የኢኮኖሚ ጥበቃ ለምን ማካተት አስፈለገ?"**
 ምክንያቱም መድልዎ የኢኮኖሚ መዘዝ ስላለው ነው። LGBTQ+ ሰዎች፣ በተለይም ትራንስጀንደር የሆኑ የቆዳ ቀለም ያላቸው ሴቶች ለስራ እጦት፣ ለቤት መድልዎ እና ለድህነት ከፍተኛ ተጋላጭነት አላቸው። የ2023 የዊልያምስ ኢንስቲትዩት ጥናት እንደሚያሳየው 45.5% የሚሆኑት የ LGBTQ+ ጎልማሶች በህይወታቸው ውስጥ የስራ መድልዎ ያጋጠማቸው ሲሆን የ LGBTQ+ ሰዎች ከ LGBTQ+ ካልሆኑ ሰዎች በእጥፍ በድህነት ውስጥ የመኖር ዕድላቸው ሰፊ ነው። ያለ ኢኮኖሚያዊ ፍትሃዊነት ጥበቃው ያልተሟላ ነው።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- GLAAD. (2025). "Project 2025 Exposed." የ LGBTQ+ ጥበቃዎችን የፌደራል ማሻሻያዎችን መከታተል።
-- የእንቅስቃሴ ማሻሻያ ፕሮጀክት (MAP)። (2025). "Local Nondiscrimination Ordinances." ከ 395+ በላይ ማዘጋጃ ቤቶች ግልጽ የ LGBTQ+ ጥበቃዎች አሏቸው።
-- ዊልያምስ ኢንስቲትዩት፣ የ UCLA የህግ ትምህርት ቤት። (2023). የ LGBTQ+ የህዝብ ብዛት ግምቶች እና በክልል እና በሜትሮ አካባቢ ያለው ኢኮኖሚያዊ መረጃ።
-- True Colors United. (2023). "LGBTQ+ Youth Homelessness." እስከ 40% የሚደርሱ ቤት የሌላቸው ወጣቶች LGBTQ+ መሆናቸውን ይገልጻሉ።
-- የአሜሪካ የስነ-ልቦና ማህበር። (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." የመለወጥ ሕክምና ጉዳት ያስከትላል፤ ምንም ውጤታማነት ማስረጃ የለም።
-- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." የማዘጋጃ ቤት LGBTQ+ ጥበቃ ማዕቀፍ።
-- ብሔራዊ LGBTQ የስራ ቡድን። (2026). "Creating Change 2026." መገናኛ LGBTQ+ ፖሊሲን የሚመለከቱ የኮንፈረንስ ሃሳቦች።
-- የኮሎራዶ ጠቅላላ ጉባኤ። HB 19-1129. "Conversion Therapy Ban for Minors." በ2019 የፀደቀ።
-- የኮሎራዶ ፀረ-መድልዎ ህግ (CADA)። C.R.S. 24-34-301 et seq. የፆታዊ ዝንባሌ እና የፆታ ማንነት ጥበቃዎች።
-- የአሜሪካን የእድገት ማዕከል. (2025). "Advancing LGBTQ Equality Through Local Executive Action." የማዘጋጃ ቤት ፖሊሲ መሣሪያ ስብስብ።
+- GLAAD. (2025). "Project 2025 Exposed." Tracking federal rollbacks of LGBTQ+ protections.
+- Movement Advancement Project (MAP). (2025). "Local Nondiscrimination Ordinances." 395+ municipalities with explicit LGBTQ+ protections.
+- Williams Institute, UCLA School of Law. (2023). LGBTQ+ population estimates and economic data by state and metro area.
+- True Colors United. (2023). "LGBTQ+ Youth Homelessness." Up to 40% of homeless youth identify as LGBTQ+.
+- American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Conversion therapy causes harm; no evidence of efficacy.
+- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Municipal LGBTQ+ protection framework.
+- National LGBTQ Task Force. (2026). "Creating Change 2026." Conference proposals addressing intersectional LGBTQ+ policy.
+- Colorado General Assembly. (2019). HB 19-1129. "Conversion Therapy Ban for Minors."
+- Colo. Rev. Stat. § 24-34-301 et seq. (Colorado Anti-Discrimination Act). Sexual orientation and gender identity protections.
+- Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Municipal policy toolkit.

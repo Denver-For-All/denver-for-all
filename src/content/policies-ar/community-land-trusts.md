@@ -69,3 +69,10 @@
 
 **"هل هذه حقًا ملكية للمنزل إذا لم تتمكن من الاحتفاظ بكل الأرباح؟"**
 أنت تملك منزلك. أنت تبني حقوق الملكية. أنت فقط لا يمكنك المضاربة على الأرض التي تحته. المفاضلة: لقد دفعت سعرًا معقولًا عند الدخول. تستحق العائلة التالية نفس الفرصة. هذه ملكية منزل للأشخاص الذين يريدون منازل، وليس للأشخاص الذين يريدون أدوات استثمار.
+
+## المراجع
+
+- Champlain Housing Trust. (n.d.). _About CHT_. Retrieved May 2026, from https://www.getahome.org
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing need estimates_. https://www.denvergov.org/host
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, including remarks by Mayor Mike Johnston on Denver's affordable-housing pace]. https://www.coloradopolitics.com
+- Elevation Community Land Trust. (n.d.). _Our homes_. Retrieved May 2026, from https://www.elevationclt.org

@@ -47,6 +47,50 @@ relatedLegislation:
     title: 'Consumer Protections Medical Care Entities'
     status: 'Introduced - Assigned to Health & Human Services'
     url: 'https://leg.colorado.gov/bills/sb26-041'
+smartGoals:
+  - goal: 'Erase medical debt for Denver residents'
+    goalEs: 'Eliminar la deuda médica de los residentes de Denver'
+    metric: 'Face value of medical debt purchased and forgiven for Denver residents'
+    metricEs: 'Valor nominal de la deuda médica comprada y perdonada para residentes de Denver'
+    baseline: '$0 city program (2026)'
+    baselineEs: '$0 en programa municipal (2026)'
+    target: '$300M forgiven'
+    targetEs: '$300M perdonados'
+    deadline: '2028'
+    owner: "Mayor's Office with Undue Medical Debt (nonprofit partner)"
+    ownerEs: 'Oficina del Alcalde con Undue Medical Debt (organización aliada)'
+    precedent: 'New York City committed $18M in 2024 to erase up to $2B in medical debt; Cook County, IL runs a similar ARPA-funded program'
+    precedentEs: 'Nueva York comprometió $18M en 2024 para eliminar hasta $2,000M en deuda médica; el condado de Cook, IL tiene un programa similar con fondos ARPA'
+    source: 'Undue Medical Debt program reports, 2024'
+  - goal: 'Staff STAR to answer every eligible call, 24 hours a day'
+    goalEs: 'Dotar a STAR para responder cada llamada elegible, las 24 horas'
+    metric: 'Share of STAR-eligible 911 calls that receive a STAR response'
+    metricEs: 'Porcentaje de llamadas al 911 elegibles para STAR que reciben respuesta de STAR'
+    baseline: '~45-50% of ~15,000 eligible calls answered (2024)'
+    baselineEs: '~45-50% de ~15,000 llamadas elegibles atendidas (2024)'
+    target: '90% of eligible calls, 24/7'
+    targetEs: '90% de las llamadas elegibles, 24/7'
+    deadline: '2029'
+    owner: 'DDPHE and Denver 911'
+    ownerEs: 'DDPHE y Denver 911'
+    precedent: 'Albuquerque Community Safety answered 45,235 calls in FY2025, over 85% without police or fire'
+    precedentEs: 'Albuquerque Community Safety atendió 45,235 llamadas en el año fiscal 2025, más de 85% sin policía ni bomberos'
+    source: 'Axios Denver, June 2025; Urban Institute STAR evaluation, 2026'
+  - goal: 'Guarantee a behavioral health appointment within two weeks'
+    goalEs: 'Garantizar una cita de salud conductual en dos semanas'
+    metric: 'Median days from request to first outpatient mental health or substance use appointment at city-contracted providers'
+    metricEs: 'Mediana de días desde la solicitud hasta la primera cita ambulatoria de salud mental o uso de sustancias con proveedores contratados'
+    baseline: 'Not reported; Colorado ranked 48th for mental health access (Mental Health America, 2024)'
+    baselineEs: 'No se reporta; Colorado ocupa el lugar 48 en acceso a salud mental (Mental Health America, 2024)'
+    target: '14 days or less for 90% of requests'
+    targetEs: '14 días o menos para 90% de las solicitudes'
+    deadline: '2029'
+    owner: 'DDPHE with WellPower and Denver Health'
+    ownerEs: 'DDPHE con WellPower y Denver Health'
+    precedent: 'Certified Community Behavioral Health Clinics must offer services within 10 business days under federal criteria'
+    precedentEs: 'Las Clínicas Certificadas de Salud Conductual Comunitaria deben ofrecer servicios en 10 días hábiles según los criterios federales'
+    source: 'Mental Health America, State of Mental Health in America, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -194,17 +238,17 @@ Colorado's BHA is working on statewide coordination, and we support that work. B
 
 - Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
 - Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
-- Undue Medical Debt (formerly RIP Medical Debt). Program data and city partnership outcomes.
+- Undue Medical Debt (formerly RIP Medical Debt). (n.d.). Program data and city partnership outcomes.
 - Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
 - OECD Health Statistics. (2024). Health spending per capita comparisons.
 - Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
-- HRSA Data Warehouse. FQHC locations and service areas in Denver.
-- Colorado Division of Insurance. Uninsured rate data.
+- HRSA Data Warehouse. (n.d.). FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. (n.d.). Uninsured rate data.
 - CDC. (2024). Oral Health Surveillance Report. (Dental caries as #1 chronic childhood disease; untreated decay prevalence by income.)
 - CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Sealants reduce cavities by 80% in treated teeth; $2 return per $1 invested.)
 - Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (35% of adults skipped dental care due to cost; dental provider shortage data.)
 - Mental Health America. (2024). The State of Mental Health in America. (Colorado ranks 48th in access to mental health care.)
-- American School Counselor Association. Student-to-counselor ratio recommendations (1:250; DPS actual ~1:450).
+- American School Counselor Association. (n.d.). Student-to-counselor ratio recommendations. (1:250; DPS actual ~1:450).
 - Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. ($2.3B annual cost estimate for untreated mental illness.)
 - Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews. (Integrated behavioral health improves outcomes and reduces total cost.)
 - WHO. (2022). World Mental Health Report. ($4-7 return per $1 invested in early mental health intervention.)

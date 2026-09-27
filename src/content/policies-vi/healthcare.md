@@ -144,20 +144,20 @@ BHA của Colorado đang làm việc về điều phối trên toàn tiểu bang
 
 ## Tài Liệu Tham Khảo
 
-- Himmelstein, D., và cộng sự. (2009). "Phá Sản Y Tế tại Hoa Kỳ." American Journal of Medicine. (62% số vụ phá sản liên quan đến nợ y tế.)
-- Dobkin, C., Finkelstein, A., Kluender, R., và Notowidigdo, M.J. (2018). "Hậu Quả Kinh Tế của Việc Nhập Viện." American Economic Review, 108(2): 308-352. (Việc nhập viện làm giảm thu nhập 20% và làm tăng nguy cơ phá sản, với tác động lớn hơn đối với những người không có bảo hiểm.)
-- Undue Medical Debt (trước đây là RIP Medical Debt). Dữ liệu chương trình và kết quả hợp tác thành phố.
-- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Điều Chỉnh Ứng Phó Khủng Hoảng với Nhu Cầu Cộng Đồng: Bằng Chứng từ Chương Trình Hỗ Trợ Ứng Phó (STAR) và Chương Trình Đồng Ứng Phó của Denver." Urban Institute.
-- OECD Health Statistics. (2024). So sánh chi tiêu y tế bình quân đầu người.
-- Commonwealth Fund. (2023). "Gương kia, Gương kia: Phản Chiếu Tồi Tệ." (So sánh hệ thống y tế của Hoa Kỳ với các quốc gia ngang hàng.)
-- HRSA Data Warehouse. Vị trí và khu vực dịch vụ FQHC ở Denver.
-- Colorado Division of Insurance. Dữ liệu về tỷ lệ không có bảo hiểm.
-- CDC. (2024). Báo Cáo Giám Sát Sức Khỏe Răng Miệng. (Sâu răng là bệnh mãn tính phổ biến số 1 ở trẻ em; tỷ lệ sâu răng không được điều trị theo thu nhập.)
-- CDC Community Preventive Services Task Force. (2016). Sâu Răng: Các Chương Trình Cung Cấp Chất Trám Răng Tại Trường Học. (Chất trám răng làm giảm 80% số lượng sâu răng ở răng được điều trị; lợi nhuận 2 đô la cho mỗi 1 đô la đầu tư.)
-- Colorado Dental Association Health Policy Institute. (2023). Dữ Liệu Sức Khỏe Răng Miệng Colorado. (35% người lớn bỏ qua việc chăm sóc răng miệng vì chi phí; dữ liệu về tình trạng thiếu nhà cung cấp dịch vụ nha khoa.)
-- Mental Health America. (2024). Tình Trạng Sức Khỏe Tâm Thần ở Hoa Kỳ. (Colorado xếp thứ 48 về khả năng tiếp cận dịch vụ chăm sóc sức khỏe tâm thần.)
-- American School Counselor Association. Các khuyến nghị về tỷ lệ học sinh trên nhân viên tư vấn (1:250; DPS thực tế ~1:450).
-- Colorado Health Institute. (2023). Sức Khỏe Hành Vi ở Colorado: Chi Phí của Nhu Cầu Chưa Được Đáp Ứng. (Ước tính chi phí hàng năm là 2,3 tỷ đô la cho bệnh tâm thần không được điều trị.)
-- Archer, J., và cộng sự. (2012). "Chăm sóc hợp tác cho các vấn đề trầm cảm và lo âu." Cochrane Database of Systematic Reviews. (Sức khỏe hành vi tích hợp cải thiện kết quả và giảm tổng chi phí.)
-- WHO. (2022). Báo Cáo Sức Khỏe Tâm Thần Thế Giới. (Lợi nhuận 4-7 đô la cho mỗi 1 đô la đầu tư vào can thiệp sức khỏe tâm thần sớm.)
-- Sanz, M., và cộng sự. (2020). "Điều Trị Viêm Nha Chu Giai Đoạn I-III." Journal of Clinical Periodontology. (Mối liên hệ giữa bệnh nha chu và các bệnh toàn thân.)
+- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
+- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
+- Undue Medical Debt (formerly RIP Medical Debt). (n.d.). Program data and city partnership outcomes.
+- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
+- OECD Health Statistics. (2024). Health spending per capita comparisons.
+- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
+- HRSA Data Warehouse. (n.d.). FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. (n.d.). Uninsured rate data.
+- CDC. (2024). Oral Health Surveillance Report. (Dental caries as #1 chronic childhood disease; untreated decay prevalence by income.)
+- CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Sealants reduce cavities by 80% in treated teeth; $2 return per $1 invested.)
+- Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (35% of adults skipped dental care due to cost; dental provider shortage data.)
+- Mental Health America. (2024). The State of Mental Health in America. (Colorado ranks 48th in access to mental health care.)
+- American School Counselor Association. (n.d.). Student-to-counselor ratio recommendations. (1:250; DPS actual ~1:450).
+- Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. ($2.3B annual cost estimate for untreated mental illness.)
+- Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews. (Integrated behavioral health improves outcomes and reduces total cost.)
+- WHO. (2022). World Mental Health Report. ($4-7 return per $1 invested in early mental health intervention.)
+- Sanz, M., et al. (2020). "Treatment of Stage I-III Periodontitis." Journal of Clinical Periodontology. (Links between periodontal disease and systemic health conditions.)

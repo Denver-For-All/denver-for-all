@@ -59,15 +59,17 @@ public/                Static assets
 - **Linting:** ESLint with `@typescript-eslint` and `eslint-plugin-astro`. `no-unused-vars` uses warn with `^_` pattern for ignored args.
 - **Path aliases:** `@components/*`, `@layouts/*`, `@i18n/*`, `@styles/*` (see tsconfig.json).
 - **Content schema:** Policy frontmatter is validated by Zod in `src/content/config.ts`. Categories: housing, labor, climate, health, safety, education, immigration, infrastructure, justice, democracy, economy, community.
-- **i18n:** Default locale is `en`, supported locales: `en`, `es`. English routes are unprefixed; Spanish routes use `/es/` prefix.
+- **i18n:** Default locale is `en`; supported locales: `en`, `es`, `vi`, `zh`, `ar`, `am`. English routes are unprefixed; others use a `/<code>/` prefix. The `vi`/`zh`/`ar`/`am` routes are generated from the English pages by `node scripts/translate/make-locale-routes.mjs` (edit the English page, then regenerate). Their policy titles, summaries, key stats, and SMART goals live in `src/i18n/policy-meta-<code>.json`; keep `translations/incoming/` empty (see `scripts/translate/README.md`).
 - **Tests:** Vitest with `globals: true`, node environment. Test files go in `tests/**/*.test.ts`.
 
 ## Policy content rules
 
 - All statistics must include the year of the data.
-- Claims must be backed by citations in a References section.
+- Claims must be backed by citations in a References section, formatted in APA 7 author–date style: `- Author. (Year). _Title_. Publisher. https://url`. Use `(n.d.)` when a source has no date, `(2025, December)` for dated news, and legal form for statutes and cases (`Colo. Rev. Stat. § 38-12-301`). Never invent URLs, authors, or dates. In body text, cite as `(Author, Year)`. `tests/citations.test.ts` enforces the format.
+- Translated policy bodies carry the English References list verbatim (sources are cited as published). After editing English references, run `node scripts/translate/sync-references.mjs`.
 - Policy documents should include: problem statement, proposed solution, evidence, local context, FAQs, and funding sources.
 - Spanish translations in `policies-es/` must have empty `{}` frontmatter and the slug must match the English original.
+- Every policy needs at least three `smartGoals` in its frontmatter (specific goal, measurable metric with a dated baseline, achievable via an accountable owner and a real-world precedent, relevant to the proposal, and a `deadline` within 10 years), plus a `goalsReviewed` month. `tests/smart-goals.test.ts` enforces this; update `goalsReviewed` whenever you refresh baselines.
 
 ## Environment variables
 

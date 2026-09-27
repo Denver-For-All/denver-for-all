@@ -154,19 +154,20 @@
 
 ## المراجع
 
-- لجنة المرافق العامة في كولورادو. (2025). إحاطة حول أداء خدمة العملاء وانقطاع التيار الكهربائي في شركة Xcel Energy. (متوسط مدة الانقطاع 352 دقيقة، 90,000 عميل لديهم 6 انقطاعات أو أكثر في عام 2024.)
-- كولورادو صن. (2025، 1 مايو). "يواجه عملاء Xcel زيادة في الانقطاعات وينتظرون وقتًا أطول للحصول على الدعم." (تخفيض عدد الموظفين بنسبة 10٪، وتخفيض ميزانية خدمة العملاء بنسبة 5٪، وزيادة الأسعار بنسبة 30٪ في الفترة 2022-2024.)
-- دنفر بوست. (2025، 8 مايو). "تضاعفت حالات انقطاع التيار الكهربائي في Xcel Energy-Colorado في عام 2024." (بيانات اتجاه انقطاع التيار الكهربائي 2014-2024.)
-- ويستوورد. (2025). "فشل الطاقة: لجنة المرافق العامة في كولورادو غير سعيدة بـ 'الفشل الذريع' لشركة Xcel في خدمة العملاء في عام 2024." (اقتباس المفوض توم بلانت.)
-- كولورادو صن. (2025، 15 مايو). "تقول Xcel إنها تحركت لحل مشاكل الخدمة. يريد منظمو كولورادو التحقق من التقدم المحرز." (برنامج مراقبة لجنة المرافق العامة.)
-- أخبار CPR. (2024، 11 سبتمبر). "Xcel Energy قيد التحقيق بعد العديد من الشكاوى حول انقطاع التيار الكهربائي على مستوى الولاية."
-- دنفرات. (2025، 27 أغسطس). "فات الأوان لوضع Xcel على اقتراع دنفر هذا العام. ماذا الآن؟" (تاريخ وجدول اتفاقية الامتياز الزمني.)
-- دنفرات. (2025، 12 أغسطس). "تريد Xcel الموافقة على الاستمرار في العمل في دنفر. رفض مجلس المدينة للتو الإجراء." (تصويت 7-6، اقتباس عضوة المجلس لويس.)
-- دنفر غازيت. (2025، 24 ديسمبر). "تواجه الشركات خسائر بعد عمليات إغلاق الطاقة في Xcel." (خسارة متوسطة قدرها 25,000 دولار لغرفة بولدر، واقتباس مولد مستشفى سانت أنتوني.)
-- مختبر بولدر للتقارير. (2024، 7 أبريل). "Xcel: قد لا تعود بعض طاقة مقاطعة بولدر حتى بعد يوم الاثنين." (مستشفى فوتهيلز على مولدات لأكثر من 24 ساعة.)
-- دنفر 7. (2025). "يقصف المشرعون في كولورادو رئيس Xcel Energy بأسئلة ومخاوف بشأن عمليات إغلاق الطاقة المتعلقة بالسلامة العامة."
-- الجمعية الأمريكية للطاقة العامة. (2024). الدليل السنوي والتقرير الإحصائي. (أكثر من 2,000 شركة مرافق بلدية تخدم 49 مليون أمريكي.)
-- مجلس مدينة دنفر. (2025). الملف رقم 25-0922، إجراءات اتفاقية امتياز Xcel Energy.
-- مدينة لونغمونت. التقارير السنوية لشركة Longmont Power & Communications.
-- شركة Colorado Springs Utilities. تقارير الأداء السنوية ورضا العملاء.
-- منطقة ساكرامنتو للمرافق البلدية (SMUD). بيانات مقارنة الأسعار والتقارير السنوية.
+- _Colorado Politics_. (2026, July 28). "Denver City Council sends Xcel franchise deal to voters." https://www.coloradopolitics.com/2026/07/28/denver-city-council-sends-xcel-franchise-deal-to-voters/
+- Colorado Public Utilities Commission. (2025). Xcel Energy outage and customer service performance briefing. (352 minutes average outage duration, 90,000 customers with 6+ outages in 2024.)
+- Colorado Sun. (2025, May 1). "Xcel customers face increasing outages and are waiting longer for support." (10% staff reduction, 5% customer service budget cut, 30% rate increase 2022-2024.)
+- Denver Post. (2025, May 8). "Xcel Energy-Colorado power outages doubled in 2024." (Outage trend data 2014-2024.)
+- Westword. (2025). "Power Failure: Colorado PUC Not Happy With Xcel's 'Giant Fail' at Customer Service in 2024." (Commissioner Tom Plant quote.)
+- Colorado Sun. (2025, May 15). "Xcel says it has moved to solve service problems. Colorado regulators want to verify the progress." (PUC monitoring program.)
+- CPR News. (2024, September 11). "Xcel Energy under investigation after numerous complaints of power outages statewide."
+- Denverite. (2025, August 27). "It's too late to put Xcel on the Denver ballot this year. Now what?" (Franchise agreement history and timeline.)
+- Denverite. (2025, August 12). "Xcel wants approval to keep operating in Denver. City Council just rejected the measure." (7-6 vote, Councilwoman Lewis quote.)
+- Denver Gazette. (2025, December 24). "Businesses face losses after Xcel power shutoffs." (Boulder Chamber $25,000 average loss, St. Anthony Hospital generator quote.)
+- Boulder Reporting Lab. (2024, April 7). "Xcel: Some Boulder County power may not return until after Monday." (Foothills Hospital on generators for 24+ hours.)
+- Denver7. (2025). "Colorado lawmakers bombard Xcel Energy President with questions, concerns about Public Safety Power Shutoffs."
+- American Public Power Association. (2024). Annual directory and statistical report. (2,000+ municipal utilities serving 49 million Americans.)
+- Denver City Council. (2025). File #25-0922, Xcel Energy franchise agreement proceedings.
+- City of Longmont. (n.d.). Longmont Power & Communications annual reports.
+- Colorado Springs Utilities. (n.d.). Annual performance and customer satisfaction reports.
+- Sacramento Municipal Utility District (SMUD). (n.d.). Rate comparison data and annual reports.

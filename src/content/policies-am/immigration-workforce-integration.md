@@ -125,12 +125,12 @@
 **"ከማይተማመኑ መዝገቦች ካሏቸው አገራት ማስረጃዎችን እንዴት ያረጋግጣሉ?"**
 የማረጋገጫ እውቅና ጽ / ቤቱ ከእያንዳንዱ ሀገር ማስረጃዎችን በመገምገም የአስርተ ዓመታት ልምድ ያላቸውን የተቋቋሙ ዓለም አቀፍ የግምገማ ማዕቀፎችን (ከ WES - የዓለም ትምህርት አገልግሎቶች ጋር ተመሳሳይ) ይጠቀማል። ሰነዶች ያልተሟሉ በሚሆኑበት ጊዜ በአቅም ላይ የተመሠረተ ምዘና (የክህሎት ሙከራ ፣ ክትትል የሚደረግበት ክሊኒካዊ ልምምድ ፣ የፖርትፎሊዮ ግምገማ) አማራጭ መንገድ ይሰጣል። የጀርመን እውቅና ሕግ ይህንን ተመሳሳይ ፈተና የገጠመው ሲሆን በተለዋዋጭ የግምገማ ዘዴዎች ፈታው።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- የስደት ፖሊሲ ተቋም (Migration Policy Institute)። (2023)። "የአእምሮ ብክነት፦ በአሜሪካ ውስጥ የምስክር ወረቀት ያለ እውቅና ዋጋ"
-- የኮሎራዶ HB 23-1224። የምስክር ወረቀት እውቅና ጥናት ሕግ።
-- የካናዳ ኮንፈረንስ ቦርድ (Conference Board of Canada)። (2020)። "የስደተኛ የምስክር ወረቀት እውቅና የኢኮኖሚ ተፅእኖ" ($20B + ጠቅላላ የሀገር ውስጥ ምርት አስተዋጽኦ።)
-- BIBB (Bundesinstitut für Berufsbildung)። (2021)። "የእውቅና ሕግ ክትትል ውጤቶች" (80% የእውቅና መጠን ፣ 25% የደመወዝ ጭማሪ።)
-- የቪክቶሪያ መንግስት (Victorian Government)። (2022)። "የተካኑ የስደተኞች የሥራ ውጤቶች ሪፖርት" (40% ፈጣን የሥራ ማዛመድ።)
-- TRIEC (የቶሮንቶ ክልል ስደተኛ የሥራ ምክር ቤት)። (2021)። ዓመታዊ የውጤት ሪፖርት። (75% የሥራ ስምሪት መጠን ፣ 4: 1 ROI።)
-- ዴንቨር የኢኮኖሚ ልማት እና ዕድል (Denver Economic Development & Opportunity)። (2024)። የዴንቨር የሠራተኛ ገበያ ሪፖርት። (የሠራተኛ እጥረት መረጃ።)
+- Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
+- Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
+- BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
+- Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)
+- TRIEC (Toronto Region Immigrant Employment Council). (2021). Annual Impact Report. (75% employment rate, 4:1 ROI.)
+- Denver Economic Development & Opportunity. (2024). Denver Labor Market Report. (Labor shortage data.)

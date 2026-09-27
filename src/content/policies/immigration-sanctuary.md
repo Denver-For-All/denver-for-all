@@ -36,6 +36,50 @@ relatedLegislation:
     title: 'Rights Violation in Immigration Enforcement Remedy'
     status: 'Referred from Judiciary to Appropriations (amended)'
     url: 'https://leg.colorado.gov/bills/sb26-005'
+smartGoals:
+  - goal: 'Fund universal deportation defense'
+    goalEs: 'Financiar defensa universal contra la deportación'
+    metric: 'Share of detained Denver residents in removal proceedings with a lawyer'
+    metricEs: 'Porcentaje de residentes de Denver detenidos en procesos de deportación que tienen abogado'
+    baseline: 'No universal representation program; most detained immigrants nationally face court without a lawyer (Vera Institute, 2024)'
+    baselineEs: 'Sin programa de representación universal; la mayoría de los inmigrantes detenidos en el país enfrentan la corte sin abogado (Vera Institute, 2024)'
+    target: '90% represented, funded at $5M per year'
+    targetEs: '90% con representación, con $5M por año'
+    deadline: '2028'
+    owner: "Mayor's Office and Denver City Council (budget)"
+    ownerEs: 'Oficina del Alcalde y Concejo Municipal de Denver (presupuesto)'
+    precedent: "New York's Immigrant Family Unity Project raised the share of detained immigrants who win their cases from ~4% to an estimated ~48%"
+    precedentEs: 'El Proyecto de Unidad Familiar Inmigrante de Nueva York elevó la proporción de detenidos que ganan su caso de ~4% a ~48% estimado'
+    source: 'Vera Institute of Justice, 2024'
+  - goal: 'Launch a Denver municipal ID'
+    goalEs: 'Lanzar una identificación municipal de Denver'
+    metric: 'Denver IDs issued'
+    metricEs: 'Identificaciones de Denver emitidas'
+    baseline: '0 (no municipal ID program, 2026)'
+    baselineEs: '0 (sin programa de identificación municipal, 2026)'
+    target: '50,000 IDs issued'
+    targetEs: '50,000 identificaciones emitidas'
+    deadline: '2029'
+    owner: 'Denver Clerk and Recorder'
+    ownerEs: 'Secretario y Registrador de Denver'
+    precedent: "New York City's IDNYC has issued 1.3 million+ cards since 2015"
+    precedentEs: 'IDNYC de Nueva York ha emitido más de 1.3 millones de tarjetas desde 2015'
+    source: 'Denver Clerk and Recorder, 2026'
+  - goal: "Offer every city service in Denver's top languages"
+    goalEs: 'Ofrecer todo servicio municipal en los idiomas principales de Denver'
+    metric: 'Share of vital city documents and 311 services available in Spanish plus the top 5 other languages'
+    metricEs: 'Porcentaje de documentos esenciales y servicios 311 disponibles en español y los otros 5 idiomas principales'
+    baseline: 'Spanish widely available; other languages inconsistent (2026)'
+    baselineEs: 'Español ampliamente disponible; otros idiomas de forma irregular (2026)'
+    target: '100% of vital documents and 311 in 6 languages'
+    targetEs: '100% de documentos esenciales y 311 en 6 idiomas'
+    deadline: '2028'
+    owner: 'Agency for Human Rights and Community Partnerships'
+    ownerEs: 'Agencia de Derechos Humanos y Alianzas Comunitarias'
+    precedent: "New York City's Local Law 30 (2017) requires covered agencies to translate documents into the 10 most common languages"
+    precedentEs: 'La Ley Local 30 de Nueva York (2017) exige a las agencias traducir documentos a los 10 idiomas más comunes'
+    source: 'Denver Language Access Plan, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -164,9 +208,9 @@ The Trump administration threatened to withhold federal funds from sanctuary cit
 
 ## References
 
-- U.S. Census Bureau. American Community Survey (ACS), 2023. (Denver Latino population.)
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
 - Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
 - Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
 - Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
 - City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
-- IDNYC Annual Report. (1.3M+ municipal IDs issued data.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

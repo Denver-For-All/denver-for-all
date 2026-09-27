@@ -46,6 +46,50 @@ keyStats:
     contextEs: 'La demanda supera con creces la oferta: las reglas locales complejas, las tarifas altas y los requisitos de diseño ralentizan la construcción de unidades asequibles en patios traseros y sótanos'
     source: 'Denver Community Planning and Development, 2024'
     theme: 'primary'
+smartGoals:
+  - goal: 'Legalize at least four homes per lot citywide'
+    goalEs: 'Legalizar al menos cuatro viviendas por lote en toda la ciudad'
+    metric: 'Share of residential land where 4+ homes per lot are allowed by right (8+ near transit)'
+    metricEs: 'Porcentaje del suelo residencial donde se permiten por derecho 4 o más viviendas por lote (8+ cerca del transporte)'
+    baseline: '~78% of residential land zoned single-family only before recent reforms (Denver Zoning Code, 2024)'
+    baselineEs: '~78% del suelo residencial solo para viviendas unifamiliares antes de las reformas recientes (Código de Zonificación de Denver, 2024)'
+    target: '100% of residential land'
+    targetEs: '100% del suelo residencial'
+    deadline: '2028'
+    owner: 'Community Planning and Development and Denver City Council'
+    ownerEs: 'Planificación y Desarrollo Comunitario y Concejo Municipal de Denver'
+    precedent: "Auckland's 2016 upzoning added ~43,500 extra homes in six years and left rents ~28% lower than they would have been"
+    precedentEs: 'La rezonificación de Auckland de 2016 agregó ~43,500 viviendas adicionales en seis años y dejó los alquileres ~28% más bajos de lo que habrían sido'
+    source: 'Denver Zoning Code and Blueprint Denver, 2024'
+  - goal: 'Grow missing-middle housing production'
+    goalEs: 'Aumentar la producción de vivienda intermedia'
+    metric: 'Homes permitted per year in 2-19 unit buildings and ADUs'
+    metricEs: 'Viviendas permitidas por año en edificios de 2 a 19 unidades y ADU'
+    baseline: 'Most new units in 20+ unit buildings; ADUs allowed by right since 2023'
+    baselineEs: 'La mayoría de las unidades nuevas en edificios de 20+ unidades; ADU permitidas por derecho desde 2023'
+    target: '2,000 missing-middle homes and ADUs permitted per year'
+    targetEs: '2,000 viviendas intermedias y ADU permitidas por año'
+    deadline: '2030'
+    owner: 'Community Planning and Development'
+    ownerEs: 'Planificación y Desarrollo Comunitario'
+    precedent: "Minneapolis' 2040 Plan helped hold rents to ~1% growth (2017-2022) while the rest of Minnesota saw 14%"
+    precedentEs: 'El Plan 2040 de Minneápolis ayudó a limitar el alza de alquileres a ~1% (2017-2022) mientras el resto de Minnesota vio 14%'
+    source: 'Denver Community Planning and Development permit data, 2025'
+  - goal: 'Approve conforming rezonings in 90 days'
+    goalEs: 'Aprobar rezonificaciones conformes en 90 días'
+    metric: 'Median days from complete application to Council decision for plan-conforming rezonings'
+    metricEs: 'Mediana de días desde la solicitud completa hasta la decisión del Concejo para rezonificaciones conformes al plan'
+    baseline: 'Discretionary process often exceeding 6 months (2025)'
+    baselineEs: 'Proceso discrecional que a menudo supera 6 meses (2025)'
+    target: '90 days or less'
+    targetEs: '90 días o menos'
+    deadline: '2028'
+    owner: 'Community Planning and Development and Denver City Council'
+    ownerEs: 'Planificación y Desarrollo Comunitario y Concejo Municipal de Denver'
+    precedent: "Japan's national zoning system approves conforming projects by right, keeping Tokyo housing starts high and rents stable"
+    precedentEs: 'El sistema nacional de zonificación de Japón aprueba por derecho los proyectos conformes, manteniendo alta la construcción en Tokio y rentas estables'
+    source: 'Denver Community Planning and Development, 2025'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -164,17 +208,17 @@ The savings are substantial: every new market-rate unit built without public sub
 
 ## References
 
-- Apartment Association of Metro Denver. _Vacancy and Rent Report (Q1 2026)._ 2026.
-- Denver Community Planning and Development. _Blueprint Denver._ 2019.
-- RentCafe. _Average Rent in Denver, CO_ [Yardi Matrix market-trends data]. 2026.
-- Colorado General Assembly. HB23-1255, _Accessory Dwelling Units._ 2023.
-- Colorado General Assembly. HB24-1313, _Transit-Oriented Communities._ 2024.
-- Greenaway-McGrevy, R. & Phillips, P. _Housing Affordability in Auckland._ University of Auckland, 2023.
-- Harding, R. _Why Tokyo is the model for housing affordability._ Financial Times, 2022.
-- Manville, M., et al. _The Effect of California's SB 9 on Housing Supply._ UCLA Lewis Center, 2023.
-- Mast, E. _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics, 2021.
-- Rosenthal, S. _Are Private Markets and Filtering a Viable Source of Low-Income Housing?_ American Economic Review, 2014.
-- Sightline Institute. _Oregon's Middle Housing Law: Year Two Update._ 2023.
-- University of Minnesota. _Minneapolis 2040 - Rent and Housing Supply Outcomes._ 2024.
-- U.S. Census Bureau, American Community Survey. _Denver Housing Tenure Data._ 2023.
-- Victoria Transport Policy Institute / Parking Reform Network. _Parking Cost and Reform Analysis._ 2023.
+- Apartment Association of Metro Denver. (2026). _Vacancy and Rent Report (Q1 2026)._.
+- Denver Community Planning and Development. (2019). _Blueprint Denver._.
+- RentCafe. (2026). _Average Rent in Denver, CO_ [Yardi Matrix market-trends data].
+- Colorado General Assembly. (2023). HB23-1255, _Accessory Dwelling Units._.
+- Colorado General Assembly. (2024). HB24-1313, _Transit-Oriented Communities._.
+- Greenaway-McGrevy, R. & Phillips, P. (2023). _Housing Affordability in Auckland._ University of Auckland.
+- Harding, R. (2022). _Why Tokyo is the model for housing affordability._ Financial Times.
+- Manville, M., et al. (2023). _The Effect of California's SB 9 on Housing Supply._ UCLA Lewis Center.
+- Mast, E. (2021). _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics.
+- Rosenthal, S. (2014). _Are Private Markets and Filtering a Viable Source of Low-Income Housing?_ American Economic Review.
+- Sightline Institute. (2023). _Oregon's Middle Housing Law: Year Two Update._.
+- University of Minnesota. (2024). _Minneapolis 2040 - Rent and Housing Supply Outcomes._.
+- U.S. Census Bureau, American Community Survey. (2023). _Denver Housing Tenure Data._.
+- Victoria Transport Policy Institute / Parking Reform Network. (2023). _Parking Cost and Reform Analysis._.

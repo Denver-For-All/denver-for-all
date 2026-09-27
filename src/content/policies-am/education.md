@@ -97,10 +97,10 @@ DPS በግምት 90,000 ተማሪዎችን ከ200 በሚበልጡ ትምህር�
 
 ## ማጣቀሻዎች
 
-- የኮሎራዶ የቅድመ ልጅነት መምሪያ (CDEC)። ሁለንተናዊ የቅድመ መደበኛ ትምህርት ምዝገባ እና የፕሮግራም መረጃ።
-- DPS ዓመታዊ ሪፖርት። (2024)። ምዝገባ፣ የቻርተር ትምህርት ቤት ብዛት፣ የነፍስ ወከፍ የገንዘብ ድጋፍ።
-- የዴንቨር መምህራን ማኅበር። (2023)። የመምህራን ቆይታ እና የመኖሪያ ቤት ጥናት።
-- Hunger Free Colorado. (2023)። በዴንቨር የሕፃናት የምግብ ዋስትና እጦት ግምቶች።
-- ብሔራዊ የትምህርት ስታትስቲክስ ማዕከል. የ DPS ደመወዝ እና የሠራተኞች መረጃ።
-- OECD PISA ደረጃዎች። ዓለም አቀፍ የትምህርት ንጽጽር መረጃ።
-- Sahlberg, P. "የፊንላንድ ትምህርቶች።" (የፊንላንድ የትምህርት ማሻሻያ ማስረጃ።)
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
+- DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
+- Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
+- Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)

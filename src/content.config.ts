@@ -1,6 +1,24 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
+const smartGoal = z.object({
+  goal: z.string(),
+  goalEs: z.string(),
+  metric: z.string(),
+  metricEs: z.string(),
+  baseline: z.string(),
+  baselineEs: z.string(),
+  target: z.string(),
+  targetEs: z.string(),
+  // Year or year-month the target must be met by
+  deadline: z.string().regex(/^20\d{2}(-(0[1-9]|1[0-2]))?$/),
+  owner: z.string(),
+  ownerEs: z.string(),
+  precedent: z.string(),
+  precedentEs: z.string(),
+  source: z.string(),
+});
+
 const policies = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/policies' }),
   schema: z.object({
@@ -63,6 +81,10 @@ const policies = defineCollection({
         }),
       )
       .optional(),
+    // SMART targets: Specific goal, Measurable metric with a dated baseline, Achievable
+    // (accountable owner + real-world precedent), Relevant (tied to the proposal), Time-bound.
+    smartGoals: z.array(smartGoal).min(3),
+    goalsReviewed: z.string().regex(/^20\d{2}-(0[1-9]|1[0-2])$/),
   }),
 });
 

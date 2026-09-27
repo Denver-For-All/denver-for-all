@@ -48,6 +48,50 @@ relatedLegislation:
     title: 'Electrical Generation & Distribution Resiliency'
     status: 'Introduced - Assigned to Energy & Environment'
     url: 'https://leg.colorado.gov/bills/hb26-1124'
+smartGoals:
+  - goal: 'Cut average outage time for Denver customers by two-thirds'
+    goalEs: 'Reducir en dos tercios el tiempo promedio de apagones para los clientes de Denver'
+    metric: 'Average minutes without power per customer per year (SAIDI, including major events)'
+    metricEs: 'Minutos promedio sin electricidad por cliente al año (SAIDI, incluidos eventos mayores)'
+    baseline: '352 minutes (2024), up from ~100 (2023)'
+    baselineEs: '352 minutos (2024), frente a ~100 (2023)'
+    target: 'Under 120 minutes'
+    targetEs: 'Menos de 120 minutos'
+    deadline: '2029'
+    owner: 'Xcel Energy, enforced through the franchise agreement and PUC'
+    ownerEs: 'Xcel Energy, mediante el acuerdo de franquicia y la PUC'
+    precedent: "Longmont Power & Communications and Fort Collins Utilities routinely report outage times far below Xcel's (2024)"
+    precedentEs: 'Longmont Power & Communications y Fort Collins Utilities reportan tiempos de apagón muy por debajo de los de Xcel (2024)'
+    source: 'Colorado Public Utilities Commission reliability reports, 2024'
+  - goal: 'Protect every medically vulnerable household from outages'
+    goalEs: 'Proteger de los apagones a cada hogar médicamente vulnerable'
+    metric: 'Registered households dependent on powered medical equipment with a battery backup and 72-hour shutoff notice'
+    metricEs: 'Hogares registrados que dependen de equipo médico eléctrico con batería de respaldo y aviso de 72 horas'
+    baseline: 'No city registry; 55,000 customers cut off with little warning in the April 2024 shutoff'
+    baselineEs: 'Sin registro municipal; 55,000 clientes sin luz con poco aviso en el corte de abril de 2024'
+    target: '100% of registered households equipped'
+    targetEs: '100% de los hogares registrados equipados'
+    deadline: '2028'
+    owner: 'Office of Emergency Management with Denver Health'
+    ownerEs: 'Oficina de Manejo de Emergencias con Denver Health'
+    precedent: "California utilities' Medical Baseline programs provide advance PSPS notice and backup-battery programs to registered customers"
+    precedentEs: 'Los programas Medical Baseline de las empresas de California dan aviso previo de cortes y baterías de respaldo a clientes registrados'
+    source: 'Colorado Public Utilities Commission, April 2024 PSPS review'
+  - goal: "Decide Denver's power future with a municipal energy feasibility study"
+    goalEs: 'Decidir el futuro energético de Denver con un estudio de viabilidad municipal'
+    metric: 'Published study comparing franchise renewal, community choice aggregation, and municipalization'
+    metricEs: 'Estudio publicado que compare la renovación de franquicia, la agregación comunitaria y la municipalización'
+    baseline: '20-year Xcel franchise on the November 3, 2026 ballot; no independent alternatives study'
+    baselineEs: 'Franquicia de 20 años con Xcel en la boleta del 3 de noviembre de 2026; sin estudio independiente de alternativas'
+    target: 'Study published'
+    targetEs: 'Estudio publicado'
+    deadline: '2027-12'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Sacramento's SMUD and Colorado's own Longmont, Fort Collins, and Colorado Springs utilities offer lower rates under public ownership"
+    precedentEs: 'SMUD de Sacramento y las empresas públicas de Longmont, Fort Collins y Colorado Springs ofrecen tarifas más bajas'
+    source: 'Colorado Politics, July 28, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -88,7 +132,7 @@ When hospitals operate on backup power, capacity is limited. Elective procedures
 
 ### What Denver Currently Does
 
-Very little. Denver's current franchise agreement with Xcel expires December 31, 2026. In August 2025, Denver City Council rejected a proposed 20-year renewal by a 7-6 vote, with Councilwoman Shontel Lewis noting that the agreement gave Xcel "a lot of leeway" with no obligations to share data, improve customer service, or use clean energy (Denverite, 2025). The agreement is being renegotiated.
+Very little. Denver's current franchise agreement with Xcel expires December 31, 2026. In August 2025, Denver City Council rejected a proposed 20-year renewal by a 7-6 vote, with Councilwoman Shontel Lewis noting that the agreement gave Xcel "a lot of leeway" with no obligations to share data, improve customer service, or use clean energy (Denverite, 2025). After renegotiation, Council voted 10-2 in July 2026 to send a revised 20-year franchise to voters on the November 3, 2026 ballot, with Councilmembers Shontel Lewis and Sarah Parady opposed (Colorado Politics, July 28, 2026). The deal would keep a 3% franchise fee (about $34 million for the General Fund next year) and roughly $150 million a year in relocation and undergrounding obligations. Voters should judge it against the enforceable reliability, transparency, and exit standards below.
 
 Denver has no municipal power utility. Denver has no backup power program for medically vulnerable residents. Denver has no enforceable reliability standards beyond what the PUC imposes at the state level. Denver's leverage is the franchise agreement - and that leverage is being exercised right now, in real time, as of this writing.
 
@@ -203,6 +247,7 @@ No. This is about whether your lights stay on. Whether a family with a child on 
 
 ## References
 
+- _Colorado Politics_. (2026, July 28). "Denver City Council sends Xcel franchise deal to voters." https://www.coloradopolitics.com/2026/07/28/denver-city-council-sends-xcel-franchise-deal-to-voters/
 - Colorado Public Utilities Commission. (2025). Xcel Energy outage and customer service performance briefing. (352 minutes average outage duration, 90,000 customers with 6+ outages in 2024.)
 - Colorado Sun. (2025, May 1). "Xcel customers face increasing outages and are waiting longer for support." (10% staff reduction, 5% customer service budget cut, 30% rate increase 2022-2024.)
 - Denver Post. (2025, May 8). "Xcel Energy-Colorado power outages doubled in 2024." (Outage trend data 2014-2024.)
@@ -216,6 +261,6 @@ No. This is about whether your lights stay on. Whether a family with a child on 
 - Denver7. (2025). "Colorado lawmakers bombard Xcel Energy President with questions, concerns about Public Safety Power Shutoffs."
 - American Public Power Association. (2024). Annual directory and statistical report. (2,000+ municipal utilities serving 49 million Americans.)
 - Denver City Council. (2025). File #25-0922, Xcel Energy franchise agreement proceedings.
-- City of Longmont. Longmont Power & Communications annual reports.
-- Colorado Springs Utilities. Annual performance and customer satisfaction reports.
-- Sacramento Municipal Utility District (SMUD). Rate comparison data and annual reports.
+- City of Longmont. (n.d.). Longmont Power & Communications annual reports.
+- Colorado Springs Utilities. (n.d.). Annual performance and customer satisfaction reports.
+- Sacramento Municipal Utility District (SMUD). (n.d.). Rate comparison data and annual reports.

@@ -133,15 +133,15 @@ Thành phố đã chọn người thắng và kẻ thua thông qua quy hoạch, 
 **"Các doanh nghiệp nhỏ dù sao cũng thất bại. Tại sao phải đầu tư?"**
 Khoảng 20% doanh nghiệp nhỏ thất bại trong năm đầu tiên và 50% thất bại trong vòng năm năm (SBA, Cục Thống kê Lao động). Nhưng những con số này che giấu một phát hiện quan trọng: các động lực chính của sự thất bại là các vấn đề về dòng tiền và thiếu vốn, không phải ý tưởng tồi. Toàn bộ 33% doanh nghiệp thất bại viện dẫn vốn không đủ là nguyên nhân. Khi các doanh nghiệp nhận được cả vốn và hỗ trợ kỹ thuật (cố vấn, hỗ trợ kế toán, lập kế hoạch kinh doanh), tỷ lệ thất bại giảm đáng kể. Ví dụ, những người được SCORE cố vấn có tỷ lệ sống sót cao hơn đáng kể so với các doanh nghiệp không được hỗ trợ. Câu hỏi không phải là liệu một số doanh nghiệp sẽ thất bại hay không. Câu hỏi là liệu chúng ta có để một hệ thống từ chối vốn cho các doanh nhân BIPOC, tính thời gian cấp phép 300 ngày và cho phép tăng giá thuê không giới hạn tiếp tục đảm bảo thất bại cho các doanh nghiệp mà cộng đồng của chúng ta cần nhất hay không.
 
-## Tham Khảo
+## Tài Liệu Tham Khảo
 
-- SBA Office of Advocacy (Văn phòng Vận động của SBA). (2023). Hồ sơ Kinh tế Doanh nghiệp Nhỏ: Colorado. 684.726 doanh nghiệp nhỏ; 49,6% việc làm tư nhân.
-- Colorado Restaurant Association (Hiệp hội Nhà hàng Colorado). (2024). Dữ liệu đóng cửa nhà hàng ở Denver. Lỗ ròng 222 nhà hàng (tháng 7 năm 2022 - tháng 7 năm 2023); 183 đóng cửa (tháng 7 năm 2023 - tháng 7 năm 2024).
-- Bisnow. (2024). Dữ liệu về chỗ trống và hấp thụ bán lẻ của RiNo. Tỷ lệ sẵn có 8,1%; Hấp thụ âm 43.000 SF.
-- Civic Economics & Institute for Local Self-Reliance (Kinh tế Dân sự & Viện Tự lực Địa phương). (2012). Các nghiên cứu về số nhân chi tiêu địa phương. 52,9% tái lưu thông địa phương (độc lập) so với 13,6% (chuỗi).
-- CLES (Centre for Local Economic Strategies) (Trung tâm Chiến lược Kinh tế Địa phương). (2019). Preston Model: Xây dựng Sự giàu có Cộng đồng ở Preston, Vương quốc Anh. £74 triệu được chuyển hướng tại địa phương; 4.500 việc làm được tạo ra.
-- Shelterforce / Fifty by Fifty. (2021). Đánh giá 10 năm của Cleveland Evergreen Cooperatives. 320 chủ sở hữu là công nhân; mô hình mua sắm của tổ chức neo.
-- SBA / Bureau of Labor Statistics (Cục Thống kê Lao động). (2024). Tỷ lệ thất bại của doanh nghiệp nhỏ: 20% trong năm 1, 50% vào năm 5. Dòng tiền và khả năng tiếp cận vốn là động lực chính của sự thất bại.
-- W.E. Upjohn Institute for Employment Research (Viện Nghiên cứu Việc làm W.E. Upjohn). Bartik, T. Phân tích chi phí-lợi ích của phát triển kinh tế địa phương có mục tiêu. ROI 22%+ cho các ưu đãi tập trung vào doanh nghiệp nhỏ.
+- SBA Office of Advocacy. (2023). Small Business Economic Profile: Colorado. 684,726 small businesses; 49.6% of private employment.
+- Colorado Restaurant Association. (2024). Denver restaurant closure data. Net loss of 222 restaurants (July 2022-July 2023); 183 closures (July 2023-July 2024).
+- Bisnow. (2024). RiNo retail vacancy and absorption data. 8.1% availability rate; 43,000 SF negative absorption.
+- Civic Economics & Institute for Local Self-Reliance. (2012). Local spending multiplier studies. 52.9% local recirculation (independents) vs. 13.6% (chains).
+- CLES (Centre for Local Economic Strategies). (2019). The Preston Model: Community Wealth Building in Preston, UK. £74M redirected locally; 4,500 jobs created.
+- Shelterforce / Fifty by Fifty. (2021). Cleveland Evergreen Cooperatives 10-year review. 320 worker-owners; anchor institution procurement model.
+- SBA / Bureau of Labor Statistics. (2024). Small business failure rates: 20% in Year 1, 50% by Year 5. Cash flow and capital access as primary failure drivers.
+- W.E. Upjohn Institute for Employment Research. (n.d.). Bartik, T. Cost-benefit analysis of targeted local economic development. 22%+ ROI for small business-focused incentives.
 
 Denver For All

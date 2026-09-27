@@ -30,6 +30,50 @@ keyStats:
     contextEs: 'El referendum de Berlin en 2021 para expropiar 240,000 apartamentos corporativos fue aprobado'
     source: 'Berlin 2021 referendum'
     theme: 'primary'
+smartGoals:
+  - goal: 'Stop large corporate landlords from buying more Denver homes'
+    goalEs: 'Impedir que grandes arrendadores corporativos compren más viviendas en Denver'
+    metric: '1-4 unit homes acquired by entities owning 50+ units nationally'
+    metricEs: 'Viviendas de 1 a 4 unidades adquiridas por entidades con 50+ unidades a nivel nacional'
+    baseline: 'No restriction; investors bought ~26% of low-priced single-family homes nationally (2023)'
+    baselineEs: 'Sin restricción; inversionistas compraron ~26% de las casas unifamiliares de bajo precio a nivel nacional (2023)'
+    target: 'Zero new acquisitions after the ordinance takes effect'
+    targetEs: 'Cero adquisiciones nuevas después de que entre en vigor la ordenanza'
+    deadline: '2028'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "New Zealand banned most foreign purchases of existing homes in 2018; Berlin voters backed socializing large landlords' stock in 2021"
+    precedentEs: 'Nueva Zelanda prohibió en 2018 la mayoría de las compras extranjeras de viviendas existentes; los votantes de Berlín apoyaron en 2021 socializar el parque de los grandes arrendadores'
+    source: 'Redfin investor purchase data, 2023'
+  - goal: 'Publish who really owns Denver rental housing'
+    goalEs: 'Publicar quién es realmente dueño de la vivienda de alquiler en Denver'
+    metric: 'Share of LLC-held residential parcels with beneficial owners disclosed in a public registry'
+    metricEs: 'Porcentaje de parcelas residenciales de LLC con dueños beneficiarios divulgados en un registro público'
+    baseline: '0% (no beneficial ownership registry, 2026)'
+    baselineEs: '0% (sin registro de dueños beneficiarios, 2026)'
+    target: '95% disclosed'
+    targetEs: '95% divulgado'
+    deadline: '2028-12'
+    owner: "Denver Assessor's Office and Department of Finance"
+    ownerEs: 'Oficina del Tasador y Departamento de Finanzas de Denver'
+    precedent: 'New York City requires every rental building owner to file an annual registration naming its owners, officers, and managing agent'
+    precedentEs: 'Nueva York exige a cada dueño de edificio de alquiler un registro anual que nombre a sus dueños, directivos y administrador'
+    source: "Denver Assessor's Office, 2026"
+  - goal: 'Return corporate-held homes to owner-occupants and nonprofits'
+    goalEs: 'Devolver las viviendas corporativas a propietarios residentes y organizaciones sin fines de lucro'
+    metric: 'Homes divested by covered entities to owner-occupants, tenants, CLTs, or the social housing authority'
+    metricEs: 'Viviendas desinvertidas por entidades cubiertas hacia propietarios residentes, inquilinos, fideicomisos o la autoridad de vivienda social'
+    baseline: '0 divestitures (2026)'
+    baselineEs: '0 desinversiones (2026)'
+    target: '100% of covered 1-4 unit homes divested'
+    targetEs: '100% de las viviendas cubiertas de 1 a 4 unidades desinvertidas'
+    deadline: '2033'
+    owner: 'Denver Department of Finance with HOST'
+    ownerEs: 'Departamento de Finanzas de Denver con HOST'
+    precedent: "Washington, DC's Tenant Opportunity to Purchase Act has helped preserve thousands of units through tenant and nonprofit purchase since 1980"
+    precedentEs: 'La Ley de Oportunidad de Compra del Inquilino de Washington, DC ha preservado miles de unidades mediante compras de inquilinos y organizaciones desde 1980'
+    source: "Denver Assessor's Office parcel data, 2026"
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem

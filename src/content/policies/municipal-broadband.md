@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'Consistentemente superan a los ISP privados en velocidad, precio y confiabilidad'
     source: 'Institute for Local Self-Reliance, 2025'
     theme: 'secondary'
+smartGoals:
+  - goal: 'Adopt a Denver Fiber business plan and financing'
+    goalEs: 'Aprobar un plan de negocios y financiamiento para Denver Fiber'
+    metric: 'Council-approved business plan with revenue-bond financing for a city-owned fiber network'
+    metricEs: 'Plan de negocios aprobado por el Concejo con financiamiento de bonos de ingresos para una red de fibra municipal'
+    baseline: 'Voters authorized municipal broadband with 85% support (Ballot Measure 2J, 2018); no network built as of 2026'
+    baselineEs: 'Los votantes autorizaron la banda ancha municipal con 85% de apoyo (Medida 2J, 2018); sin red construida en 2026'
+    target: 'Plan adopted and bonds authorized'
+    targetEs: 'Plan aprobado y bonos autorizados'
+    deadline: '2027-12'
+    owner: 'Denver Technology Services with Denver City Council'
+    ownerEs: 'Servicios de Tecnología de Denver con el Concejo Municipal'
+    precedent: 'Fort Collins voters approved Connexion in 2017; the city-owned fiber network is now about 95% built'
+    precedentEs: 'Los votantes de Fort Collins aprobaron Connexion en 2017; la red de fibra municipal está construida en cerca de 95%'
+    source: 'Denver Ballot Measure 2J results, 2018'
+  - goal: 'Pass half of Denver addresses with city fiber'
+    goalEs: 'Llevar fibra municipal a la mitad de las direcciones de Denver'
+    metric: 'Share of Denver addresses where Denver Fiber service is available'
+    metricEs: 'Porcentaje de direcciones de Denver donde el servicio de Denver Fiber está disponible'
+    baseline: '0% (2026)'
+    baselineEs: '0% (2026)'
+    target: '50% of addresses, starting with the least-served neighborhoods; 100% by 2033'
+    targetEs: '50% de las direcciones, empezando por los vecindarios peor conectados; 100% para 2033'
+    deadline: '2031'
+    owner: 'Denver Fiber (city enterprise)'
+    ownerEs: 'Denver Fiber (empresa municipal)'
+    precedent: "Longmont's NextLight reached citywide coverage within about five years and offers gigabit for about $50 per month"
+    precedentEs: 'NextLight de Longmont alcanzó cobertura en toda la ciudad en unos cinco años y ofrece gigabit por unos $50 al mes'
+    source: 'Denver Digital Equity Plan 2023-2025'
+  - goal: 'Connect low-income households for free'
+    goalEs: 'Conectar gratis a los hogares de bajos ingresos'
+    metric: 'Households at or below 200% of poverty enrolled in the free tier'
+    metricEs: 'Hogares con ingresos de hasta 200% del nivel de pobreza inscritos en el plan gratuito'
+    baseline: '0; federal Affordable Connectivity Program subsidy ended in 2024'
+    baselineEs: '0; el subsidio federal del Programa de Conectividad Asequible terminó en 2024'
+    target: '20,000 households'
+    targetEs: '20,000 hogares'
+    deadline: '2031'
+    owner: 'Denver Fiber with Denver Public Library (digital navigators)'
+    ownerEs: 'Denver Fiber con la Biblioteca Pública de Denver (navegadores digitales)'
+    precedent: "Chattanooga's EPB HomePlusU program gave free 100 Mbps home internet to 28,000+ low-income students"
+    precedentEs: 'El programa HomePlusU de EPB en Chattanooga dio internet gratuito de 100 Mbps en casa a más de 28,000 estudiantes de bajos ingresos'
+    source: 'FCC Affordable Connectivity Program wind-down, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -135,10 +179,10 @@ Yes. In 2018, 85% of Denver voters approved Ballot Measure 2J authorizing munici
 
 ## References
 
-- Denver Ballot Measure 2J (2018). 85.34% yes vote. (Denver Elections Division.)
-- Colorado SB 05-152. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
-- NextLight (Longmont, CO). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
-- Fort Collins Connexion. Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
-- ACSI (American Customer Satisfaction Index). Annual telecommunications report. (Comcast lowest-rated major ISP.)
-- FCC Broadband Deployment Report. (Speed and availability data.)
-- Institute for Local Self-Reliance. "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

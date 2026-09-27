@@ -172,6 +172,22 @@ Places validated translations into the codebase:
 3. Update `src/content/config.ts` — register new `policies-<lang>` collections
 4. Human review of all Amharic translations
 
+## Source of truth after hydration
+
+`src/` is the source of truth for every translation once it has been hydrated:
+
+- Policy bodies: `src/content/policies-<lang>/<slug>.md`
+- Policy titles, summaries, key stats, and SMART goals: `src/i18n/policy-meta-<lang>.json`
+  (key stats are matched to the English frontmatter by `value`; SMART goals by position)
+- UI strings: `src/i18n/<lang>.json`
+
+`npm run build` runs `hydrate-incoming.js` first, which re-hydrates anything in
+`translations/incoming/` over `src/` on every build. Drop a translation batch there, run
+the build once, commit the hydrated `src/` files, then **empty `translations/incoming/`**
+(leave only `.gitkeep`). Otherwise later edits to translated content are silently reverted.
+`tests/translations.test.ts` fails if the directory is not empty. Translated grant
+proposals, which the site does not render yet, are archived in `translations/archive/`.
+
 ## Tips
 
 ### Translate incrementally
@@ -195,3 +211,7 @@ node scripts/translate/extract-content.js
 ### Amharic quality
 
 The Amharic prompt instructs the model to add `[REVIEW: explanation]` flags for uncertain translations. The validation script counts these flags. **All Amharic output should be reviewed by a native speaker** before publishing — partner with the Ethiopian Community Center.
+
+## References in translated bodies
+
+Reference lists are not translated: APA 7 cites sources as published, so readers can find them. `sync-references.mjs` copies each English policy's References list into every `policies-<locale>` body under the locale's heading (`src/markdown/rehype-references.mjs` defines the headings and marks the list for styling). Run it after editing English references; `tests/citations.test.ts` fails on drift.

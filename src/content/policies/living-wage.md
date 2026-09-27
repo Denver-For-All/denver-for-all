@@ -30,6 +30,50 @@ keyStats:
     contextEs: 'El salario minimo actual cubre menos de la mitad de lo que necesita un padre soltero'
     source: 'MIT Living Wage Calculator, Denver County'
     theme: 'danger'
+smartGoals:
+  - goal: "Raise Denver's minimum wage to $25 by 2029"
+    goalEs: 'Subir el salario mínimo de Denver a $25 para 2029'
+    metric: 'Denver citywide minimum wage'
+    metricEs: 'Salario mínimo de Denver'
+    baseline: '$19.29/hr (2026); $19.84/hr scheduled for 2027'
+    baselineEs: '$19.29/hr (2026); $19.84/hr programado para 2027'
+    target: '$21 (2027), $23 (2028), $25 (2029), then CPI-indexed'
+    targetEs: '$21 (2027), $23 (2028), $25 (2029), luego indexado al IPC'
+    deadline: '2029-01'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: 'Tukwila, WA and several California cities already exceed $20/hr in 2026; Seattle reached $20.76 in 2025'
+    precedentEs: 'Tukwila, WA y varias ciudades de California ya superan $20/hr en 2026; Seattle llegó a $20.76 en 2025'
+    source: 'Denver Department of Finance, 2025; Denver Labor, 2026'
+  - goal: 'Close the gap between the minimum wage and a living wage'
+    goalEs: 'Cerrar la brecha entre el salario mínimo y un salario digno'
+    metric: 'Denver minimum wage as a share of the MIT living wage for 2 working adults with 2 children'
+    metricEs: 'Salario mínimo de Denver como porcentaje del salario digno del MIT para 2 adultos que trabajan con 2 hijos'
+    baseline: '~75% ($19.29 vs. $25-26 needed, 2026)'
+    baselineEs: '~75% ($19.29 frente a $25-26 necesarios, 2026)'
+    target: '100% or higher'
+    targetEs: '100% o más'
+    deadline: '2029'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "The UK's National Living Wage reached two-thirds of median earnings in 2024 with no detectable job losses (Low Pay Commission)"
+    precedentEs: 'El Salario Digno Nacional del Reino Unido alcanzó dos tercios del ingreso mediano en 2024 sin pérdidas de empleo detectables (Low Pay Commission)'
+    source: 'MIT Living Wage Calculator, Denver County, 2024'
+  - goal: 'Enforce the wage floor so workers actually get paid'
+    goalEs: 'Hacer cumplir el salario mínimo para que los trabajadores realmente cobren'
+    metric: 'Wage theft investigators in Denver Labor per 100,000 workers'
+    metricEs: 'Investigadores de robo de salario en Denver Labor por cada 100,000 trabajadores'
+    baseline: 'Complaint-driven enforcement (Denver Labor, 2025)'
+    baselineEs: 'Cumplimiento basado en quejas (Denver Labor, 2025)'
+    target: 'Staffing doubled; proactive audits in the 5 highest-violation industries every year'
+    targetEs: 'Personal duplicado; auditorías proactivas cada año en las 5 industrias con más violaciones'
+    deadline: '2028'
+    owner: "Denver Labor (Auditor's Office)"
+    ownerEs: 'Denver Labor (Oficina del Auditor)'
+    precedent: "Seattle's Office of Labor Standards grew enforcement staff alongside its minimum wage phase-in and recovers millions each year"
+    precedentEs: 'La Oficina de Normas Laborales de Seattle amplió su personal junto con el aumento del salario mínimo y recupera millones cada año'
+    source: 'Denver Labor annual report, 2025'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -137,11 +181,12 @@ Their argument: "It will cost jobs and hurt small businesses." Our response: Eve
 
 ## References
 
-- MIT Living Wage Calculator, Denver County, livingwage.mit.edu (accessed 2024)
-- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, May 2023
-- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
-- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
-- UK Low Pay Commission, _National Minimum Wage Annual Report_, 2023
-- Denver Department of Finance, "Denver Local Minimum Wage Adjusts to $19.29 per Hour for 2026" (2025); Denver Labor (Auditor's Office), _Citywide Minimum Wage_ schedule, 2026-2027 rates
-- Denver Department of Finance, _Minimum Wage Ordinance Annual Report_, 2024
-- University of Washington, _Seattle Minimum Wage Study_, various publications (2017-2023)
+- Glasmeier, A. K. (2024). _Living wage calculator: Denver County, Colorado_. Massachusetts Institute of Technology. https://livingwage.mit.edu
+- Bureau of Labor Statistics. (2023, May). _Occupational employment and wage statistics: Denver-Aurora-Lakewood, CO MSA_.
+- Dube, A., Lester, T. W., & Reich, M. (2010). Minimum wage effects across state borders: Estimates using contiguous counties. _The Review of Economics and Statistics, 92_(4), 945–964.
+- Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. _The Quarterly Journal of Economics, 134_(3), 1405–1454.
+- UK Low Pay Commission. (2023). _National Minimum Wage Annual Report_.
+- Denver Department of Finance. (2025). _Denver local minimum wage adjusts to $19.29 per hour for 2026_ [Press release].
+- Denver Labor, Office of the Auditor. (2026). _Citywide minimum wage_ [2026–2027 rate schedule].
+- Denver Department of Finance. (2024). _Minimum Wage Ordinance Annual Report_.
+- University of Washington. (2017–2023). _Seattle Minimum Wage Study_ [Various publications].

@@ -124,12 +124,12 @@ Cử tri Denver đã phê duyệt thuế doanh thu 0,25% cho hành động vì k
 
 ## Tài Liệu Tham Khảo
 
-- Ngân Sách Hàng Năm của Denver. (2024-2025). Văn phòng Thị trưởng, Văn phòng Ngân sách và Quản lý.
-- Sở Doanh Thu Colorado. Bảng thuế suất doanh thu. (Tỷ lệ kết hợp của Denver ~8,81%.)
-- Văn phòng Thẩm định viên Denver. Tỷ lệ đánh giá tài sản và dữ liệu tỷ lệ đánh giá nhà ở.
-- TABOR Colorado (Điều X, Mục 20, Hiến pháp Colorado). Yêu cầu phê duyệt của cử tri.
-- Viện Thuế và Chính sách Kinh tế. (2018). "Ai Trả Tiền? Phân Tích Phân Phối Hệ Thống Thuế ở Tất Cả 50 Tiểu Bang." (Dữ liệu tác động của thuế doanh thu lũy thoái.)
-- Viện Chính sách Đất đai Lincoln. So sánh thuế suất bất động sản giữa các thành phố của Hoa Kỳ.
-- Quỹ Phúc Lợi Cộng Đồng Năng Lượng Sạch Portland. Báo cáo doanh thu hàng năm. (60-90 triệu đô la/năm.)
-- Thành phố Vienna. Báo cáo về chính sách nhà ở và tài chính. (Mô hình tài trợ nhà ở xã hội.)
-- Quỹ Bảo Vệ Khí Hậu Denver. (Biện pháp bỏ phiếu năm 2020). Báo cáo doanh thu và phân bổ.
+- Denver Annual Budget. (2024-2025). Office of the Mayor, Budget and Management Office.
+- Colorado Department of Revenue. (n.d.). Sales tax rate tables. (Denver combined rate ~8.81%.)
+- Denver Assessor's Office. (n.d.). Property assessment rates and residential assessment rate data.
+- Colorado TABOR (Article X, Section 20, Colorado Constitution). (n.d.). Voter approval requirements.
+- Institute on Taxation and Economic Policy. (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States." (Regressive sales tax impact data.)
+- Lincoln Institute of Land Policy. (n.d.). Property tax rate comparisons across US cities.
+- Portland Clean Energy Community Benefits Fund. (n.d.). Annual revenue reports. ($60-90M/year.)
+- City of Vienna. (n.d.). Housing and fiscal policy reports. (Social housing funding model.)
+- Denver Climate Protection Fund. (n.d.). (2020 ballot measure). Revenue and allocation reports.

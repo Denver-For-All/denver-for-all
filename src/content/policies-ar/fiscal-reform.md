@@ -124,12 +124,12 @@
 
 ## المراجع
 
-- ميزانية دنفر السنوية. (2024-2025). مكتب رئيس البلدية، مكتب الميزانية والإدارة.
-- وزارة الإيرادات في كولورادو. جداول معدلات ضريبة المبيعات. (معدل دنفر المجمع ~8.81%.)
-- مكتب المثمن في دنفر. معدلات تقييم الممتلكات وبيانات معدل تقييم المساكن.
-- TABOR في كولورادو (المادة العاشرة، القسم 20، دستور كولورادو). متطلبات موافقة الناخبين.
-- معهد الضرائب والسياسة الاقتصادية. (2018). "من يدفع؟ تحليل توزيعي للأنظمة الضريبية في جميع الولايات الخمسين". (بيانات تأثير ضريبة المبيعات التنازلية).
-- معهد لينكولن لسياسة الأراضي. مقارنات معدلات ضريبة الأملاك عبر المدن الأمريكية.
-- صندوق مزايا مجتمع الطاقة النظيفة في بورتلاند. تقارير الإيرادات السنوية. (60-90 مليون دولار في السنة).
-- مدينة فيينا. تقارير الإسكان والسياسة المالية. (نموذج تمويل الإسكان الاجتماعي).
-- صندوق حماية المناخ في دنفر. (إجراء اقتراع 2020). تقارير الإيرادات والتخصيص.
+- Denver Annual Budget. (2024-2025). Office of the Mayor, Budget and Management Office.
+- Colorado Department of Revenue. (n.d.). Sales tax rate tables. (Denver combined rate ~8.81%.)
+- Denver Assessor's Office. (n.d.). Property assessment rates and residential assessment rate data.
+- Colorado TABOR (Article X, Section 20, Colorado Constitution). (n.d.). Voter approval requirements.
+- Institute on Taxation and Economic Policy. (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States." (Regressive sales tax impact data.)
+- Lincoln Institute of Land Policy. (n.d.). Property tax rate comparisons across US cities.
+- Portland Clean Energy Community Benefits Fund. (n.d.). Annual revenue reports. ($60-90M/year.)
+- City of Vienna. (n.d.). Housing and fiscal policy reports. (Social housing funding model.)
+- Denver Climate Protection Fund. (n.d.). (2020 ballot measure). Revenue and allocation reports.

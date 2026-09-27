@@ -30,6 +30,50 @@ keyStats:
     contextEs: 'Concentrados en restaurantes, bares, hoteles y servicios personales'
     source: 'BLS, 2023'
     theme: 'accent'
+smartGoals:
+  - goal: 'Win state authority for Denver to end the tip credit'
+    goalEs: 'Lograr que el estado permita a Denver eliminar el crédito por propinas'
+    metric: 'State law allowing local governments to eliminate or reduce the $3.02 tip credit'
+    metricEs: 'Ley estatal que permita a los gobiernos locales eliminar o reducir el crédito por propinas de $3.02'
+    baseline: 'State law requires local minimum wages to allow the $3.02 tip credit (2026)'
+    baselineEs: 'La ley estatal exige que los salarios mínimos locales permitan el crédito por propinas de $3.02 (2026)'
+    target: 'Bill signed'
+    targetEs: 'Proyecto de ley firmado'
+    deadline: '2028-06'
+    owner: 'Colorado General Assembly (Denver delegation)'
+    ownerEs: 'Asamblea General de Colorado (delegación de Denver)'
+    precedent: 'California, Washington, Oregon, Nevada, Minnesota, Montana, and Alaska pay tipped workers the full minimum; Chicago is phasing out its tip credit'
+    precedentEs: 'California, Washington, Oregón, Nevada, Minnesota, Montana y Alaska pagan el mínimo completo; Chicago elimina gradualmente su crédito'
+    source: 'Colorado Revised Statutes 8-6-101, 2026'
+  - goal: 'Pay tipped workers the full Denver minimum wage'
+    goalEs: 'Pagar a los trabajadores con propina el salario mínimo completo de Denver'
+    metric: 'Denver tipped minimum wage as a share of the full minimum wage'
+    metricEs: 'Salario mínimo con propina de Denver como porcentaje del mínimo completo'
+    baseline: '$16.27 of $19.29 (84%, 2026)'
+    baselineEs: '$16.27 de $19.29 (84%, 2026)'
+    target: '100%'
+    targetEs: '100%'
+    deadline: '2030'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Chicago's One Fair Wage ordinance (2023) phases out the tip credit by July 2028"
+    precedentEs: 'La ordenanza One Fair Wage de Chicago (2023) elimina gradualmente el crédito por propinas para julio de 2028'
+    source: 'Denver Labor, 2026 minimum wage schedule'
+  - goal: 'Stop tip theft and misleading service charges'
+    goalEs: 'Acabar con el robo de propinas y los cargos por servicio engañosos'
+    metric: 'Tip-theft and service-charge complaints resolved with restitution within 90 days'
+    metricEs: 'Quejas por robo de propinas y cargos por servicio resueltas con restitución en 90 días'
+    baseline: 'Not reported separately (Denver Labor, 2025)'
+    baselineEs: 'No se reporta por separado (Denver Labor, 2025)'
+    target: '90% resolved within 90 days, reported annually'
+    targetEs: '90% resueltas en 90 días, reportado anualmente'
+    deadline: '2028'
+    owner: "Denver Labor (Auditor's Office)"
+    ownerEs: 'Denver Labor (Oficina del Auditor)'
+    precedent: "New York's Hospitality Wage Order requires restaurants to disclose that service charges not paid to workers are not tips"
+    precedentEs: 'La Orden Salarial de Hospitalidad de Nueva York exige a los restaurantes aclarar que los cargos por servicio que no van a los trabajadores no son propinas'
+    source: 'Denver Labor annual report, 2025'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -104,9 +148,9 @@ The 2-year tax credit for small businesses specifically addresses this. But the 
 
 ## References
 
-- Colorado Department of Labor and Employment, _2025 Minimum Wage Rates_
-- One Fair Wage, _Tipped Worker Research and Policy Center_ reports (onefairwage.org)
-- Economic Policy Institute, "Subminimum Wages in the States," _Policy Brief_, 2023
-- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, 2023
-- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," _Industrial Relations_ 54(4): 622-647 (2015)
-- National Women's Law Center, _The Tipped Minimum Wage and Its Impact on Women_, 2023
+- Colorado Department of Labor and Employment. (n.d.). _2025 Minimum Wage Rates_.
+- One Fair Wage. (n.d.). _Tipped Worker Research and Policy Center_ reports. (onefairwage.org)
+- Economic Policy Institute. (2023). "Subminimum Wages in the States," _Policy Brief_.
+- Bureau of Labor Statistics. (2023). _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA.
+- Allegretto, S., & Nadler, C. (2015). Tipped wage effects on earnings and employment in full-service restaurants. _Industrial Relations, 54_(4), 622–647.
+- National Women's Law Center. (2023). _The Tipped Minimum Wage and Its Impact on Women_.

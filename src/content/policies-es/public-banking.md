@@ -86,8 +86,8 @@ El Banco de North Dakota tiene una trayectoria de más de 100 años con cero añ
 
 ## Referencias
 
-- Encuesta Nacional de la FDIC de Hogares No Bancarizados y Subbancarizados. (2023). (4.2% no bancarizados, 14.2% subbancarizados a nivel nacional; tasas más altas en las comunidades de color).
-- Banco de North Dakota. Informes anuales y estados financieros. (Más de 100 años, cero años de pérdidas, más de $100 millones al año de rentabilidad).
-- California AB 857. (2019). Ley de Banca Pública que permite la legislación.
-- Sparkassen alemanas (Asociación de Cajas de Ahorro). Informes financieros. (1.4 billones de euros en activos, 50 millones de clientes).
-- Instituto de Banca Pública. Investigación y análisis sobre la banca pública municipal.
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
+- Bank of North Dakota. (n.d.). Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- California AB 857. (2019). Public Banking Act enabling legislation.
+- German Sparkassen (Savings Banks Association). (n.d.). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. (n.d.). Research and analysis on municipal public banking.

@@ -17,7 +17,7 @@
 
 لدى Denver بعض البنية التحتية للحد من الضرر، لكنها تتعامل مع تعاطي المخدرات في المقام الأول كمسألة جنائية. ألغت المدينة تجريم السيلوسيبين عبر المرسوم رقم 301 في عام 2019، وأقرت Colorado الاقتراح 122 في عام 2022 الذي يقنن المواد المخدرة العلاجية. ولكن بالنسبة للمواد التي تقود الأزمة الفعلية - الفنتانيل والميثامفيتامين والهيروين - يظل النهج هو الإنفاذ أولاً.
 
-أبلغت Denver عن 827 حالة وفاة غير مقصودة بسبب التسمم بالمخدرات في عام 2023 (مكتب الفحص الطبي في Denver، 2024). كان الفنتانيل متورطًا في 64٪ من هذه الوفيات. نفذت شرطة Denver أكثر من 2800 عملية اعتقال متعلقة بالمخدرات في عام 2023، لكن الوفيات الناجمة عن الجرعات الزائدة استمرت في الارتفاع عامًا بعد عام. نهج الإنفاذ لا يحقق نتائج.
+أبلغت Denver عن 598 حالة وفاة غير مقصودة بسبب التسمم بالمخدرات في عام 2023 (مكتب الفحص الطبي في Denver، 2024). كان الفنتانيل متورطًا في 64٪ من هذه الوفيات. نفذت شرطة Denver أكثر من 2800 عملية اعتقال متعلقة بالمخدرات في عام 2023، لكن الوفيات الناجمة عن الجرعات الزائدة استمرت في الارتفاع عامًا بعد عام. نهج الإنفاذ لا يحقق نتائج.
 
 ### من يعارض هذا (ولماذا)
 
@@ -117,13 +117,14 @@
 
 ## المراجع
 
-- مكتب الفحص الطبي في Denver. (2024). تقرير سنوي: الوفيات غير المقصودة الناجمة عن التسمم بالمخدرات في مدينة ومقاطعة Denver، 2023.
-- قاعدة بيانات CDC WONDER. تعدادات الوفيات المؤقتة بسبب الجرعات الزائدة من المخدرات. (الفنتانيل هو السبب الرئيسي للوفاة للفئة العمرية 18-45).
-- SICAD (البرتغال). (2023). تقرير سنوي عن تعاطي المخدرات والمشاكل المتعلقة بالمخدرات. (نتائج إلغاء التجريم في البرتغال).
-- Potier، C.، وآخرون. (2014). "خدمات الحقن الخاضعة للإشراف: ما الذي تم إثباته؟" Drug and Alcohol Dependence، 145، 48-68. (صفر وفيات في مواقع الاستهلاك الخاضعة للإشراف؛ تمت مراجعة 75 دراسة).
-- المكتب الفيدرالي السويسري للصحة العامة. تقارير تقييم العلاج بمساعدة الهيروين. (نتائج سويسرا HAT).
-- هيئة الصحة في Oregon. (2023). تقرير تنفيذ الإجراء 110. (رقم صرف 10٪ من الأموال).
-- EMCDDA (المركز الأوروبي لرصد المخدرات والإدمان). التقرير الأوروبي السنوي عن المخدرات. (بيانات مقارنة للاتحاد الأوروبي).
-- المركز الوطني للمعلومات الاستخباراتية عن المخدرات. (2011). الأثر الاقتصادي لتعاطي المخدرات غير المشروع على المجتمع الأمريكي. (تقدير تكلفة 193 مليار دولار سنويًا؛ أكثر من تريليون دولار تراكمي).
-- معهد فيرا للعدالة. (2022). سعر السجون: قياس تكلفة دافعي الضرائب للسجن المحلي. (تكلفة السجن 40 ألف دولار + سنويًا).
-- NIDA (المعهد الوطني لتعاطي المخدرات). بيانات فعالية تكلفة العلاج. (تكلفة العلاج 4-8 آلاف دولار سنويًا).
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

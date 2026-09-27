@@ -93,8 +93,8 @@
 
 ## ማጣቀሻዎች
 
-- OECD፣ _Hours Worked_ አመልካች (data.oecd.org), 2023
-- ፈረንሳይ፣ _Code du travail_, አንቀጽ L2242-17 (የመቋረጥ መብት፣ በ2017 የፀደቀ)
-- Autonomy Research, _The Results Are In: The UK's Four-Day Week Pilot_, 2023
-- አይስላንድ፣ _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
-- ማይክሮሶፍት ጃፓን፣ _Work-Life Choice Challenge Summer 2019_ ውጤቶች
+- OECD. (2023). _Hours Worked_ indicator (data.oecd.org).
+- France. (n.d.). _Code du travail_, Article L2242-17. (Right to Disconnect, enacted 2017)
+- Autonomy Research. (2023). _The Results Are In: The UK's Four-Day Week Pilot_.
+- Iceland. (2021). _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week,"
+- Microsoft Japan. (n.d.). _Work-Life Choice Challenge Summer 2019_ results.

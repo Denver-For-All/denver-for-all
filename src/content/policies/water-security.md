@@ -29,6 +29,50 @@ keyStats:
     contextEs: 'Conservacion obligatoria durante la sequia, reglas permanentes despues'
     source: 'City of Melbourne'
     theme: 'primary'
+smartGoals:
+  - goal: 'Cut per-person indoor water use to efficient levels'
+    goalEs: 'Reducir el uso de agua en interiores por persona a niveles eficientes'
+    metric: 'Indoor gallons per person per day, single-family residential'
+    metricEs: 'Galones por persona por día en interiores, vivienda unifamiliar'
+    baseline: '~50 gallons per person per day (Denver Water, 2025)'
+    baselineEs: '~50 galones por persona por día (Denver Water, 2025)'
+    target: '40 gallons per person per day'
+    targetEs: '40 galones por persona por día'
+    deadline: '2030'
+    owner: 'Denver Water with Community Planning and Development'
+    ownerEs: 'Denver Water con Planificación y Desarrollo Comunitario'
+    precedent: 'Melbourne cut per-person water use by roughly 40% during the Millennium Drought and has kept most of the savings'
+    precedentEs: 'Melbourne redujo cerca de 40% el consumo de agua por persona durante la Sequía del Milenio y ha mantenido la mayor parte del ahorro'
+    source: 'Denver Water efficiency data, 2025'
+  - goal: 'Convert thirsty turf to water-wise landscapes'
+    goalEs: 'Convertir el césped de alto consumo en paisajes que ahorran agua'
+    metric: 'Square feet of non-functional turf converted to xeriscape on public and private property'
+    metricEs: 'Pies cuadrados de césped no funcional convertidos a xeriscape en propiedades públicas y privadas'
+    baseline: 'Lawn irrigation uses ~50% of residential water (Denver Water, 2024)'
+    baselineEs: 'El riego de césped usa ~50% del agua residencial (Denver Water, 2024)'
+    target: '5 million square feet converted; 100% of non-recreational city turf'
+    targetEs: '5 millones de pies cuadrados convertidos; 100% del césped municipal no recreativo'
+    deadline: '2031'
+    owner: 'Denver Water and Denver Parks and Recreation'
+    ownerEs: 'Denver Water y Parques y Recreación de Denver'
+    precedent: "Southern Nevada Water Authority's turf removal program has replaced 200+ million square feet of grass since 1999"
+    precedentEs: 'El programa de retiro de césped de la Autoridad del Agua del Sur de Nevada ha reemplazado más de 200 millones de pies cuadrados desde 1999'
+    source: 'Denver Water, 2024'
+  - goal: 'Guarantee affordable water for basic needs'
+    goalEs: 'Garantizar agua asequible para las necesidades básicas'
+    metric: 'Low-income households enrolled in a lifeline rate and shielded from shutoff'
+    metricEs: 'Hogares de bajos ingresos inscritos en una tarifa básica y protegidos contra cortes'
+    baseline: 'Customer assistance program limited; no lifeline rate (2026)'
+    baselineEs: 'Programa de asistencia limitado; sin tarifa básica (2026)'
+    target: 'Lifeline rate adopted; 20,000 households enrolled'
+    targetEs: 'Tarifa básica aprobada; 20,000 hogares inscritos'
+    deadline: '2029'
+    owner: 'Denver Water Board of Water Commissioners'
+    ownerEs: 'Junta de Comisionados de Agua de Denver Water'
+    precedent: "Philadelphia's Tiered Assistance Program (2017) caps water bills at a share of household income"
+    precedentEs: 'El Programa de Asistencia Escalonada de Filadelfia (2017) limita la factura de agua a un porcentaje del ingreso del hogar'
+    source: 'Denver Water customer assistance program, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -142,12 +186,12 @@ We're attacking the idea that a city receiving 14-17 inches of rain per year sho
 ## References
 
 - Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
-- U.S. Bureau of Reclamation. Colorado River Basin water supply reports and shortage declarations.
-- Denver Water. Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
-- American Water Works Association. Cost-benefit analysis of demand management vs. supply expansion.
-- Colorado Division of Water Resources. Snowpack and streamflow data; water rights administration.
-- Singapore Public Utilities Board (PUB). NEWater and Four National Taps program reports.
-- City of Melbourne. Water conservation program data and per-capita consumption trends.
-- City of Tucson Water Department. Conservation program outcomes and rainwater harvesting ordinance.
-- Israel Water Authority. National water economy reports; wastewater recycling data.
-- Western Resource Advocates. Colorado water conservation policy analysis.
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

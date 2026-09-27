@@ -30,6 +30,50 @@ keyStats:
     context: 'City has direct authority to implement works councils for its own workforce today'
     contextEs: 'La ciudad tiene autoridad directa para implementar comites de empresa hoy'
     theme: 'accent'
+smartGoals:
+  - goal: 'Establish works councils across Denver city government'
+    goalEs: 'Establecer consejos de trabajadores en todo el gobierno municipal de Denver'
+    metric: 'City agencies with an elected works council holding information and consultation rights'
+    metricEs: 'Agencias municipales con un consejo de trabajadores electo con derechos de información y consulta'
+    baseline: "0 of the city's agencies; 12,000+ city employees without a council (2026)"
+    baselineEs: '0 agencias municipales; más de 12,000 empleados sin consejo (2026)'
+    target: '100% of agencies'
+    targetEs: '100% de las agencias'
+    deadline: '2028'
+    owner: 'Office of Human Resources and Denver City Council'
+    ownerEs: 'Oficina de Recursos Humanos y Concejo Municipal de Denver'
+    precedent: "Germany's Works Constitution Act has covered private and public workplaces since 1952"
+    precedentEs: 'La Ley de Constitución de Empresas de Alemania cubre centros de trabajo privados y públicos desde 1952'
+    source: 'City and County of Denver workforce data, 2026'
+  - goal: 'Put worker directors on city-owned enterprise boards'
+    goalEs: 'Poner directores trabajadores en las juntas de empresas municipales'
+    metric: 'Share of board seats elected by workers at Denver Water, Denver Health, and DIA governance bodies'
+    metricEs: 'Porcentaje de puestos elegidos por trabajadores en las juntas de Denver Water, Denver Health y DIA'
+    baseline: '0% (2026)'
+    baselineEs: '0% (2026)'
+    target: 'One-third of seats'
+    targetEs: 'Un tercio de los puestos'
+    deadline: '2029'
+    owner: "Denver City Council and the Mayor's Office"
+    ownerEs: 'Concejo Municipal de Denver y Oficina del Alcalde'
+    precedent: "Germany's One-Third Participation Act (2004) gives workers a third of supervisory board seats in firms with 500+ employees"
+    precedentEs: 'La Ley de Participación de un Tercio de Alemania (2004) da a los trabajadores un tercio de los puestos en empresas con más de 500 empleados'
+    source: 'Denver Water, Denver Health, and DIA governance documents, 2026'
+  - goal: 'Require works councils for large city contractors'
+    goalEs: 'Exigir consejos de trabajadores a los grandes contratistas municipales'
+    metric: 'Share of city contractors with 10+ employees that facilitate a works council on worker request'
+    metricEs: 'Porcentaje de contratistas municipales con 10+ empleados que facilitan un consejo de trabajadores a petición'
+    baseline: 'No requirement (2026)'
+    baselineEs: 'Sin requisito (2026)'
+    target: '100% of new contracts include the requirement'
+    targetEs: '100% de los nuevos contratos incluyen el requisito'
+    deadline: '2029'
+    owner: 'Denver Department of Finance (Purchasing)'
+    ownerEs: 'Departamento de Finanzas de Denver (Compras)'
+    precedent: 'The EU Works Council Directive (2009/38) requires consultation bodies in large multinational employers'
+    precedentEs: 'La Directiva de Comités de Empresa de la UE (2009/38) exige órganos de consulta en grandes empleadores multinacionales'
+    source: 'Denver Department of Finance, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -135,8 +179,8 @@ For city contractors and city-owned enterprises: unquestionably yes. For private
 
 ## References
 
-- German Works Constitution Act (_Betriebsverfassungsgesetz_), 1972 (amended 2001)
-- German Codetermination Act (_Mitbestimmungsgesetz_), 1976
-- Economic Policy Institute, "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_, 2022 (covering 2021 data)
-- International Labour Organization (ILO), _Worker Participation in Enterprise Governance_, 2022
-- Swedish Codetermination at Work Act (_Medbestammandelagen_, MBL), 1976
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

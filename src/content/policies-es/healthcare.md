@@ -144,20 +144,20 @@ La BHA de Colorado está trabajando en la coordinación en todo el estado, y apo
 
 ## Referencias
 
-- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States". American Journal of Medicine. (El 62% de las quiebras involucran deuda médica).
-- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions". American Economic Review, 108(2): 308-352. (Las admisiones hospitalarias reducen las ganancias en un 20% y aumentan el riesgo de quiebra, con mayores efectos para las poblaciones sin seguro).
-- Undue Medical Debt (antes RIP Medical Debt). Datos del programa y resultados de la asociación de la ciudad.
-- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs". Urban Institute.
+- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
+- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
+- Undue Medical Debt (formerly RIP Medical Debt). (n.d.). Program data and city partnership outcomes.
+- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
 - OECD Health Statistics. (2024). Health spending per capita comparisons.
-- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly". (Comparación del sistema de salud de EE. UU. con el de otras naciones).
-- HRSA Data Warehouse. Ubicaciones de FQHC y áreas de servicio en Denver.
-- Colorado Division of Insurance. Datos de la tasa de personas sin seguro.
-- CDC. (2024). Oral Health Surveillance Report. (Caries dental como la enfermedad crónica infantil número 1; prevalencia de caries no tratadas por ingresos).
-- CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Los selladores reducen las caries en un 80% en los dientes tratados; $2 de retorno por cada $1 invertido).
-- Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (El 35% de los adultos no recibieron atención dental debido al costo; datos sobre la escasez de proveedores dentales).
-- Mental Health America. (2024). The State of Mental Health in America. (Colorado ocupa el puesto 48 en cuanto al acceso a la atención de salud mental).
-- American School Counselor Association. Recomendaciones de la proporción de estudiantes por consejero (1:250; DPS real ~1:450).
-- Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. (Estimación de costos anuales de $2.3 mil millones para enfermedades mentales no tratadas).
-- Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems". Cochrane Database of Systematic Reviews. (La salud conductual integrada mejora los resultados y reduce el costo total).
-- WHO. (2022). World Mental Health Report. ($4-7 de retorno por cada $1 invertido en la intervención temprana de salud mental).
-- Sanz, M., et al. (2020). "Treatment of Stage I-III Periodontitis". Journal of Clinical Periodontology. (Vínculos entre la enfermedad periodontal y las afecciones de salud sistémicas).
+- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
+- HRSA Data Warehouse. (n.d.). FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. (n.d.). Uninsured rate data.
+- CDC. (2024). Oral Health Surveillance Report. (Dental caries as #1 chronic childhood disease; untreated decay prevalence by income.)
+- CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Sealants reduce cavities by 80% in treated teeth; $2 return per $1 invested.)
+- Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (35% of adults skipped dental care due to cost; dental provider shortage data.)
+- Mental Health America. (2024). The State of Mental Health in America. (Colorado ranks 48th in access to mental health care.)
+- American School Counselor Association. (n.d.). Student-to-counselor ratio recommendations. (1:250; DPS actual ~1:450).
+- Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. ($2.3B annual cost estimate for untreated mental illness.)
+- Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews. (Integrated behavioral health improves outcomes and reduces total cost.)
+- WHO. (2022). World Mental Health Report. ($4-7 return per $1 invested in early mental health intervention.)
+- Sanz, M., et al. (2020). "Treatment of Stage I-III Periodontitis." Journal of Clinical Periodontology. (Links between periodontal disease and systemic health conditions.)

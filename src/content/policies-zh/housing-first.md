@@ -144,11 +144,12 @@
 
 ## 参考文献
 
-- 丹佛都会区无家可归者倡议组织 (MDHI)。(2024)。丹佛都会区时间点统计。（9,065 人无家可归。）
-- 丹佛住房稳定部 (HOST)。预算和项目数据。
-- Y 基金会（芬兰）。年度报告。（无家可归现象减少 35%；庇护所到公寓的转换模式。）
-- 休斯顿/哈里斯县无家可归者联盟。“住房优先”结果数据。（自 2012 年以来安置了 25,000 多人。）
-- Tsemberis, S. (2004)。《对患有双重诊断的无家可归者的住房优先、消费者选择和减少危害》。《美国公共卫生杂志》。（通往住房的基础证据。）
-- Culhane, D., Metraux, S., & Hadley, T. (2002)。《将患有严重精神疾病的无家可归者安置在支持性住房中相关的公共服务减少》。《住房政策辩论》。（节省成本的证据。）
-- ARA（芬兰住房融资和发展中心）。国家无家可归统计数据。
-- 梅迪辛哈特社区住房协会。功能性零无家可归数据。
+- Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Metro Denver Homeless Initiative (MDHI). (2026). 2026 Point-in-Time Count Data. (9,950 metro; 6,411 in Denver; 1,703 unsheltered in Denver.)
+- Denver Department of Housing Stability (HOST). (n.d.). Budget and program data.
+- Y-Foundation (Finland). (n.d.). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
+- Coalition for the Homeless, Houston/Harris County. (n.d.). Housing First outcomes data. (25,000+ housed since 2012.)
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing foundational evidence.)
+- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Cost savings evidence.)
+- ARA (Housing Finance and Development Centre of Finland). (n.d.). National homelessness statistics.
+- Medicine Hat Community Housing Society. (n.d.). Functional zero homelessness data.

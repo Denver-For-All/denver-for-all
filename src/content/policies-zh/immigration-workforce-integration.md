@@ -127,10 +127,10 @@
 
 ## 参考文献
 
-- 移民政策研究所。（2023 年）。“脑力浪费：美国资格证书不被认可的代价。”
-- 科罗拉多州 HB 23-1224。《资格证书认可研究法案》。
-- 加拿大咨议局。（2020 年）。“移民资格证书认可的经济影响。”（超过 $200 亿美元的 GDP 贡献。）
-- BIBB（德国联邦职业教育研究所）。（2021 年）。“认可法监控结果。”（80% 的认可率，25% 的工资增长。）
-- 维多利亚州政府。（2022 年）。“熟练移民就业结果报告。”（就业匹配速度快 40%。）
-- TRIEC（多伦多地区移民就业委员会）。（2021 年）。年度影响报告。（75% 的就业率，4:1 的投资回报率。）
-- 丹佛经济发展与机遇办公室。（2024 年）。丹佛劳动力市场报告。（劳动力短缺数据。）
+- Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
+- Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
+- BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
+- Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)
+- TRIEC (Toronto Region Immigrant Employment Council). (2021). Annual Impact Report. (75% employment rate, 4:1 ROI.)
+- Denver Economic Development & Opportunity. (2024). Denver Labor Market Report. (Labor shortage data.)

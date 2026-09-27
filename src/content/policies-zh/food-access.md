@@ -101,11 +101,11 @@
 
 ## 参考文献
 
-- 丹佛市公共卫生与环境部门 (Denver Department of Public Health and Environment, DDPHE)。(2021-2024)。食物不足调查数据；Denver Human Services Index 食物荒漠地图。
-- Colorado Health Institute。(2023)。Colorado Health Access Survey (CHAS)：食物安全。全州食物不足率为 11.2%。
-- Feeding America。(2024)。Map the Meal Gap：科罗拉多州数据。474,420 名食物不足的科罗拉多州居民，包括 141,570 名儿童。
-- Healthy Food for Denver's Kids (HFDK)。(2023)。向市议会提交的年度报告。自 2020 年以来，已分配 $6650 万美元，提供超过 3100 万份餐食。
-- USDA Economic Research Service。(2023)。Food Access Research Atlas。丹佛市人口普查区级别的食物荒漠指定。
-- Food Bank of the Rockies。(2024)。年度报告。服务人数增加 13%；移动食品救济站需求增加 60%；每月食品采购成本 $130 万美元。
-- Denver Urban Gardens (DUG)。(2023)。Impact Report。200 个社区花园、24 个食物森林、34 英亩、17,000 多名园丁。
-- 科罗拉多州州务卿。(2022, 2025)。Proposition FF (2022, 55% 赞成票)、Proposition LL 和 Proposition MM (2025) 选举结果。普及性免费学校餐食计划数据。
+- Denver Department of Public Health and Environment (DDPHE). (2021-2024). Food insecurity survey data; Denver Human Services Index food desert mapping.
+- Colorado Health Institute. (2023). Colorado Health Access Survey (CHAS): Food Security. 11.2% food insecurity rate statewide.
+- Feeding America. (2024). Map the Meal Gap: Colorado data. 474,420 food-insecure Coloradans including 141,570 children.
+- Healthy Food for Denver's Kids (HFDK). (2023). Annual Report to City Council. $66.5M distributed, 31M+ meals served since 2020.
+- USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
+- Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
+- Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

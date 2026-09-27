@@ -113,9 +113,9 @@ CCCAP có mức cắt giảm thu nhập loại trừ nhiều gia đình lao đ�
 
 ## Tài Liệu Tham Khảo
 
-- Economic Policy Institute. (2023). Child Care Costs in the United States. (Dữ liệu chi phí giữ trẻ ở Denver.)
-- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. (Mức lương trung bình $14,50/giờ.)
-- Dữ liệu chương trình Colorado CCCAP và ngưỡng đủ điều kiện.
-- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Tác động của dịch vụ giữ trẻ phổ cập ở Quebec.)
-- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. (Lợi nhuận $7-13 trên mỗi $1 đầu tư.)
-- Học phí nội bang CU Boulder (2024-2025): $13.590/năm. (So sánh với chi phí giữ trẻ.)
+- Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
+- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
+- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
+- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

@@ -144,20 +144,20 @@ Colorado 的 BHA 正在努力进行全州协调，我们支持这项工作。但
 
 ## 参考文献
 
-- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine.（62% 的破产涉及医疗债务。）
-- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352.（住院治疗会使收入减少 20% 并增加破产风险，其中没有保险的人群的影响更大。）
-- Undue Medical Debt（前身为 RIP Medical Debt）。项目数据和城市合作伙伴关系结果。
+- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
+- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
+- Undue Medical Debt (formerly RIP Medical Debt). (n.d.). Program data and city partnership outcomes.
 - Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
 - OECD Health Statistics. (2024). Health spending per capita comparisons.
-- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly."（美国与同行国家/地区卫生系统比较。）
-- HRSA Data Warehouse。Denver 的 FQHC 位置和服务区域。
-- Colorado Division of Insurance。没有保险率数据。
-- CDC. (2024). Oral Health Surveillance Report.（龋齿是排名第一的儿童慢性疾病；按收入划分的未经治疗的龋齿患病率。）
-- CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs.（窝沟封闭剂可将治疗过的牙齿的龋齿减少 80%；每投资 $1 美元，即可获得 $2 美元的回报。）
-- Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data.（35% 的成年人因费用问题而未接受牙科护理；牙科服务提供者短缺数据。）
-- Mental Health America. (2024). The State of Mental Health in America.（Colorado 在心理健康护理的可及性方面排名第 48 位。）
-- American School Counselor Association。学生与辅导员的比例建议（1:250；DPS 实际比例约为 1:450）。
-- Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need.（未经治疗的精神疾病的年度成本估计为 $23 亿美元。）
-- Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews.（综合行为健康可改善结果并降低总成本。）
-- WHO. (2022). World Mental Health Report.（在早期心理健康干预方面每投资 1 美元，即可节省 $4-7 美元。）
-- Sanz, M., et al. (2020). "Treatment of Stage I-III Periodontitis." Journal of Clinical Periodontology.（牙周病与全身健康状况之间的联系。）
+- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
+- HRSA Data Warehouse. (n.d.). FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. (n.d.). Uninsured rate data.
+- CDC. (2024). Oral Health Surveillance Report. (Dental caries as #1 chronic childhood disease; untreated decay prevalence by income.)
+- CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Sealants reduce cavities by 80% in treated teeth; $2 return per $1 invested.)
+- Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (35% of adults skipped dental care due to cost; dental provider shortage data.)
+- Mental Health America. (2024). The State of Mental Health in America. (Colorado ranks 48th in access to mental health care.)
+- American School Counselor Association. (n.d.). Student-to-counselor ratio recommendations. (1:250; DPS actual ~1:450).
+- Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. ($2.3B annual cost estimate for untreated mental illness.)
+- Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews. (Integrated behavioral health improves outcomes and reduces total cost.)
+- WHO. (2022). World Mental Health Report. ($4-7 return per $1 invested in early mental health intervention.)
+- Sanz, M., et al. (2020). "Treatment of Stage I-III Periodontitis." Journal of Clinical Periodontology. (Links between periodontal disease and systemic health conditions.)

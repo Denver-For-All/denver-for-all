@@ -97,10 +97,10 @@
 
 ## المراجع
 
-- إدارة كولورادو للطفولة المبكرة (CDEC). بيانات التسجيل والبرنامج العالمي لمرحلة ما قبل الروضة.
-- تقرير DPS السنوي. (2024). التسجيل، وعدد المدارس المستقلة، وتمويل نصيب الفرد.
-- جمعية معلمي دنفر (Denver Classroom Teachers Association). (2023). استطلاع حول الاحتفاظ بالمعلمين والإسكان.
-- منظمة Hunger Free Colorado. (2023). تقديرات لانعدام الأمن الغذائي للأطفال في دنفر.
-- المركز الوطني لإحصاءات التعليم. بيانات الرواتب والتوظيف في منطقة دنفر التعليمية (DPS).
-- تصنيفات OECD PISA. بيانات مقارنة التعليم الدولية.
-- سالبيرج، P. "دروس فنلندية". (أدلة على إصلاح التعليم في فنلندا.)
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
+- DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
+- Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
+- Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)

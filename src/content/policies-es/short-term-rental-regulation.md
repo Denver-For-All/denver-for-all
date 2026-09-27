@@ -91,9 +91,10 @@ Costos operativos de la Oficina de Aplicación de STR: ~$1.5M/año. Superávit n
 
 ## Referencias
 
-- Barron, K., Kung, E. y Proserpio, D. _The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb._ Review of Financial Studies, 2021.
-- Oficina de Desarrollo Económico de Denver. _Denver Housing Market Analysis._ 2023.
-- Inside Airbnb. _Conjunto de datos de Denver, Colorado._ 2024.
-- McGeehan, P. _New York's Airbnb Crackdown: A Year Later._ New York Times, 2024.
-- Concejo Municipal de Nueva York. _Ley Local 18 de 2022._
-- División de Planificación de Santa Mónica. _Home-Sharing Ordinance Annual Report._ 2020.
+- Barron, K., Kung, E. & Proserpio, D. (2021). _The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb._ Review of Financial Studies.
+- City and County of Denver. (2024). _Short-Term Rental Licensing._ Department of Excise and Licenses.
+- Denver Office of Economic Development. (2023). _Denver Housing Market Analysis._.
+- Inside Airbnb. (2024). _Denver, Colorado dataset._ http://insideairbnb.com
+- McGeehan, P. (2024). _New York's Airbnb Crackdown: A Year Later._ New York Times.
+- New York City Council. (n.d.). _Local Law 18 of 2022._ Short-Term Rental Registration Law.
+- Santa Monica City Planning Division. (2020). _Home-Sharing Ordinance Annual Report._.

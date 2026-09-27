@@ -17,7 +17,7 @@
 
 ዴንቨር ጉዳትን ለመቀነስ የሚያስችሉ የተወሰኑ መሠረተ ልማቶች ቢኖሯትም የዕፅ አጠቃቀምን በዋናነት እንደ ወንጀል ጉዳይ ነው የምትመለከተው። ከተማዋ በ2019 በተጀመረው አዋጅ 301 አማካኝነት ሳይሎሲቢንን (psilocybin) ሕጋዊ ያደረገች ሲሆን፣ ኮሎራዶ በ2022 የሕክምና ሳይኬዴሊክስን (therapeutic psychedelics) ሕጋዊ በማድረግ ድንጋጌ 122ን አሳልፏል። ነገር ግን ቀውሱን ለሚያባብሱት ንጥረ ነገሮች ማለትም ፌንታኒል፣ ሜታምፌታሚን (methamphetamine)፣ ሄሮይን (heroin) አቀራረቡ አሁንም ማስፈጸምን መጀመሪያ ያደረገ ነው።
 
-ዴንቨር በ2023 827 ድንገተኛ የአደገኛ ዕፅ መመረዝ ሞት እንደተመዘገበ ገልጻለች (Denver Office of the Medical Examiner, 2024)። ከእነዚህ ሞቶች ውስጥ 64% የሚሆኑት ፌንታኒልን ያካተቱ ነበሩ። የዴንቨር ፖሊስ በ2023 ከ2,800 በላይ ከዕፅ ጋር የተያያዙ እስሮችን የፈጸመ ቢሆንም ከመጠን በላይ በመውሰድ የሚሞቱ ሰዎች ቁጥር ከዓመት ወደ ዓመት እየጨመረ መጥቷል። የማስፈጸም አካሄድ ውጤት እያመጣ አይደለም።
+ዴንቨር በ2023 598 ድንገተኛ የአደገኛ ዕፅ መመረዝ ሞት እንደተመዘገበ ገልጻለች (Denver Office of the Medical Examiner, 2024)። ከእነዚህ ሞቶች ውስጥ 64% የሚሆኑት ፌንታኒልን ያካተቱ ነበሩ። የዴንቨር ፖሊስ በ2023 ከ2,800 በላይ ከዕፅ ጋር የተያያዙ እስሮችን የፈጸመ ቢሆንም ከመጠን በላይ በመውሰድ የሚሞቱ ሰዎች ቁጥር ከዓመት ወደ ዓመት እየጨመረ መጥቷል። የማስፈጸም አካሄድ ውጤት እያመጣ አይደለም።
 
 ### ይህንን የሚቃወሙት እነማን ናቸው (ለምን)?
 
@@ -115,15 +115,16 @@
 **"ደህንነታቸው የተጠበቁ የፍጆታ ቦታዎች አቅራቢያ ባሉ ሰፈሮች ላይ ስለሚኖረው ተጽዕኖስ፧"**
 የቫንኮቨር Insite (ከ2003 ጀምሮ ሥራ ላይ የዋለ)፣ የሲድኒ MSIC እና የአውሮፓ ተቋማት ጥናቶች በተከታታይ የሚያሳዩት የሚከተለውን ነው፦ ቁጥጥር የሚደረግባቸው የፍጆታ ቦታዎች አቅራቢያ የሕዝብ ዕፅ አጠቃቀም ይቀንሳል፣ የተጣሉ መርፌዎች ይቀንሳሉ እንዲሁም ወንጀል አይጨምርም (Potier et al., Drug and Alcohol Dependence, 2014)። የማኅበረሰብ ተቃውሞ በተለምዶ ቦታዎቹ ከመከፈታቸው በፊት ከፍተኛ ነው፤ ነዋሪዎች ትክክለኛ ውጤቶችን ካዩ በኋላ በከፍተኛ ሁኔታ ይቀንሳል።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- Denver Office of the Medical Examiner. (2024). ዓመታዊ ሪፖርት፦ እ.ኤ.አ. 2023 በዴንቨር ከተማና ካውንቲ ውስጥ ድንገተኛ የአደገኛ ዕፅ መመረዝ ሞት።
-- CDC WONDER Database. ጊዜያዊ የአደገኛ ዕፅ ከመጠን በላይ የመውሰድ ሞት ቆጠራ። (ፌንታኒል ከ18-45 ዓመት ዕድሜ ክልል ውስጥ ዋነኛ የሞት ምክንያት እንደሆነ ተገልጿል።)
-- SICAD (Portugal)። (2023)። በአደገኛ ዕፅ አጠቃቀምና ከአደገኛ ዕፅ ጋር በተያያዙ ችግሮች ላይ የቀረበ ዓመታዊ ሪፖርት። (የፖርቱጋል ሕገወጥ አለማድረግ ውጤቶች።)
-- Potier, C., et al. (2014)። "ቁጥጥር የሚደረግባቸው መርፌ አገልግሎቶች፦ ምን ተረጋገጠ፧" Drug and Alcohol Dependence, 145, 48-68. (በቁጥጥር የሚደረግባቸው የፍጆታ ቦታዎች ውስጥ ምንም ሞት የለም፤ 75 ጥናቶች ተገምግመዋል።)
-- Swiss Federal Office of Public Health. በሄሮይን የታገዘ የሕክምና ግምገማ ሪፖርቶች። (የስዊዘርላንድ HAT ውጤቶች።)
-- Oregon Health Authority. (2023)። የመለኪያ 110 ትግበራ ሪፖርት። (10% የገንዘብ ክፍያ አኃዝ።)
-- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction)። የአውሮፓ ዓመታዊ የአደገኛ ዕፅ ሪፖርት። (የአውሮፓ ኅብረት ተነጻጻሪ መረጃ።)
-- National Drug Intelligence Center. (2011). በሕገወጥ የዕፅ አጠቃቀም ላይ የአሜሪካ ማኅበረሰብ የኢኮኖሚ ተፅዕኖ። (በዓመት $193B የወጪ ግምት፤ ድምር $1T+።)
-- Vera Institute of Justice. (2022). የወኅኒዎች ዋጋ፦ የአካባቢ እስር ለግብር ከፋዮች የሚጠይቀውን ወጪ መለካት። (በዓመት ለእያንዳንዱ ሰው $40ሺ+ የእስር ወጪ።)
-- NIDA (National Institute on Drug Abuse)። የሕክምና ወጪ ቆጣቢነት መረጃ። (በዓመት ከ$4-8ሺ የሕክምና ወጪ።)
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

@@ -141,16 +141,17 @@ Nạn nhân xứng đáng được công lý. Công lý không được phục v
 
 ## Tài Liệu Tham Khảo
 
-- Hiến pháp Colorado, Điều II, Mục 26 (được sửa đổi bởi Tu chính án A, 2018). "Không bao giờ được có chế độ nô lệ hoặc lao động cưỡng bức ở tiểu bang này."
-- Bộ trưởng Bộ Ngoại giao Colorado. (2018). Kết quả Bầu cử Chính thức: Tu chính án A. (65% phê duyệt.)
-- ACLU. (2022). _Lao động Bị giam cầm: Khai thác Người lao động Bị giam giữ._ (Dữ liệu lao động nhà tù quốc gia; mức lương trung bình $0,13-$0,52/giờ; hơn 800.000 người lao động bị giam giữ; giá trị hàng năm hơn $11 tỷ.)
-- ACLU. (2022). Dữ liệu tiền lương cấp tiểu bang: Tiền lương của người lao động bị giam giữ ở Colorado là $0,33-$1,61/giờ.
-- Woodruff, C. (2025). "Phiên tòa ở Colorado về lao động nhà tù bị ép buộc bắt đầu ở Denver." _Colorado Newsline_, ngày 7 tháng 10 năm 2025. (Tin tức về phiên tòa _Mortis kiện Polis_; trích dẫn hồ sơ của CDOC; lời khai tại cuộc biểu tình.)
-- _Mortis kiện Polis_, Tòa án Quận Denver. (2022). Phản hồi của Tiểu bang đối với Đơn Khiếu nại của Nguyên đơn. ("Các đặc quyền trong tù chỉ là những đặc quyền.")
-- Pew Charitable Trusts. (2018). _Tiền bạc và Khả năng Di chuyển: Kết quả Tài chính cho Người bị Giam giữ._ (Tiết kiệm khi được thả và giảm tái phạm.)
-- Dịch vụ Cải huấn Na Uy. Thống kê tái phạm. (Tỷ lệ tái phạm 20%; mô hình lao động nhà tù tự nguyện được bồi thường.)
-- Văn phòng Thống kê Liên bang Đức. Dữ liệu bồi thường lao động nhà tù và tái phạm. (Tái phạm 35-40%.)
-- Vera Institute of Justice. (2022). _Cái giá của các Nhà tù: Đo lường Chi phí của Người nộp thuế cho Việc Giam giữ Địa phương._ (Chi phí giam giữ $40-60 nghìn/năm.)
-- Chiến dịch Chấm dứt Chế độ Nô lệ Colorado. Tài liệu vận động và chiến dịch. (Lịch sử tổ chức Tu chính án A.)
-- Towards Justice. _Mortis kiện Polis_ tài liệu vụ án và tuyên bố công khai. (David Seligman, giám đốc điều hành.)
-- World Prison Brief. So sánh tỷ lệ giam giữ quốc tế.
+- Colorado Public Radio. (2026, February 17). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
+- Colo. Const. art. II, § 26 (as amended by Amendment A, 2018). "There shall never be in this state either slavery or involuntary servitude."
+- Colorado Secretary of State. (2018). Official Election Results: Amendment A. (65% approval.)
+- ACLU. (2022). _Captive Labor: Exploitation of Incarcerated Workers._ (National prison labor data; $0.13-$0.52/hr average wages; 800,000+ incarcerated workers; $11B+ annual value.)
+- ACLU. (2022). State-level wage data: Colorado incarcerated worker wages $0.33-$1.61/hr.
+- Woodruff, C. (2025). "Colorado trial over coerced prison labor begins in Denver." _Colorado Newsline_, October 7, 2025. (_Mortis v. Polis_ trial coverage; CDOC filing quotes; rally testimony.)
+- _Mortis v. Polis_, Denver District Court. (2022). State's Response to Plaintiffs' Complaint. ("Prison privileges are just that - privileges.")
+- Pew Charitable Trusts. (2018). _Money and Mobility: Financial Outcomes for Incarcerated People._ (Savings at release and recidivism reduction.)
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate; voluntary compensated prison labor model.)
+- German Federal Statistical Office. (n.d.). Recidivism and prison labor compensation data. (35-40% recidivism.)
+- Vera Institute of Justice. (2022). _The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration._ ($40-60K/year incarceration cost.)
+- End Slavery Colorado campaign. (n.d.). Campaign and advocacy materials. (Amendment A organizing history.)
+- Towards Justice. (n.d.). _Mortis v. Polis_ case materials and public statements. (David Seligman, executive director.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.

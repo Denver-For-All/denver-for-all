@@ -3,6 +3,7 @@ import react from '@astrojs/react';
 import icon from 'astro-icon';
 import sitemap from '@astrojs/sitemap';
 import remarkSmartypants from 'remark-smartypants';
+import rehypeReferences from './src/markdown/rehype-references.mjs';
 
 // When forking for another city, update the site URL here AND in src/config/site.ts
 export default defineConfig({
@@ -14,6 +15,7 @@ export default defineConfig({
     // conversion so prose hyphens never render as en/em dashes.
     smartypants: false,
     remarkPlugins: [[remarkSmartypants, { dashes: false }]],
+    rehypePlugins: [rehypeReferences],
   },
   i18n: {
     defaultLocale: 'en',

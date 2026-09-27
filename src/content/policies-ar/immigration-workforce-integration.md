@@ -127,10 +127,10 @@
 
 ## المراجع
 
-- معهد سياسة الهجرة. (2023). "هدر الدماغ: تكلفة عدم الاعتراف بالشهادات في الولايات المتحدة."
-- كولورادو HB 23-1224. قانون دراسة الاعتراف بالشهادات.
-- مجلس المؤتمرات الكندي. (2020). "الأثر الاقتصادي للاعتراف بشهادات المهاجرين." (مساهمة في الناتج المحلي الإجمالي تزيد عن 20 مليار دولار كندي).
-- BIBB (المعهد الفيدرالي للتعليم والتدريب المهني). (2021). "نتائج مراقبة قانون الاعتراف." (معدل اعتراف 80٪، زيادة في الأجور بنسبة 25٪).
-- حكومة فيكتوريا. (2022). "تقرير نتائج توظيف المهاجرين المهرة." (مطابقة التوظيف أسرع بنسبة 40٪).
-- TRIEC (مجلس توظيف المهاجرين في منطقة تورنتو). (2021). تقرير الأثر السنوي. (معدل توظيف 75٪، عائد استثمار 4:1).
-- دنفر للتنمية الاقتصادية والفرص. (2024). تقرير سوق العمل في دنفر. (بيانات نقص العمالة).
+- Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
+- Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
+- BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
+- Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)
+- TRIEC (Toronto Region Immigrant Employment Council). (2021). Annual Impact Report. (75% employment rate, 4:1 ROI.)
+- Denver Economic Development & Opportunity. (2024). Denver Labor Market Report. (Labor shortage data.)

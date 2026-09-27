@@ -69,3 +69,10 @@
 
 **“如果你不能保留所有的利润，这真的是房屋所有权吗？”**
 你拥有你的房子。你积累权益。你只是不能投机它下面的土地。作为交换：你一开始就支付了可负担的价格。下一个家庭应该得到同样的机会。这是为想要住房的人提供的房屋所有权，而不是为想要投资工具的人提供的房屋所有权。
+
+## 参考文献
+
+- Champlain Housing Trust. (n.d.). _About CHT_. Retrieved May 2026, from https://www.getahome.org
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing need estimates_. https://www.denvergov.org/host
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, including remarks by Mayor Mike Johnston on Denver's affordable-housing pace]. https://www.coloradopolitics.com
+- Elevation Community Land Trust. (n.d.). _Our homes_. Retrieved May 2026, from https://www.elevationclt.org

@@ -141,7 +141,16 @@
 **"ይህ ለምን የከተማ ጉዳይ ሆነ?"**
 የቆሻሻ አያያዝ ዋና የማዘጋጃ ቤት ተግባር ነው። ዴንቨር የመኖሪያ አካባቢ ስብስብን ይቆጣጠራል፣ ለንግድ ተሸካሚዎች የፈቃድ መስፈርቶችን ያስቀምጣል፣ የማስወገጃ ኮንትራቶችን ይደራደራል እንዲሁም እንደገና ጥቅም ላይ ለማዋል እና ብስባሽ ማዳበሪያን በተመለከተ የአካባቢ ደረጃዎችን ማቋቋም ይችላል። ከተማዋ ቀድሞውኑ በኮሎራዶ ውስጥ ትልቁ የሆነውን የዴንቨር አራፓሆ ማከፋፈያ ጣቢያን ትሰራለች። የዴንቨር ድምጽ ሰጪዎች «ቆሻሻን አለማባከን» አዋጅን በ 71% ድምጽ አጽድቀዋል። ነዋሪዎች ድምፃቸውን አሰምተዋል። ከተማዋ መፈጸም አለባት።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- Denverite. (2024). "ዴንቨር የቆሻሻ አወጋገድን በተመለከተ ትልቅ ለውጥ አድርጓል። ገና በትክክል እየሰራ አይደለም።" የአወጋገድ መጠን መረጃ፡ ከመጀመሩ በፊት 23%፣ እስከ ጥቅምት 2024 ድረስ 26%።
-- Eco-Cycle and CoPIRG. (2025
+- Denverite. (2024). "Denver made a big change to waste pickup. It's not quite working yet." Diversion rate data: 23% pre-program, 26% as of October 2024.
+- Eco-Cycle and CoPIRG. (2025). "State of Recycling and Composting in Colorado." Colorado statewide diversion rate of 15.7%.
+- Axios Denver. (2025). "How Denver's composting efforts stack up." 73,000+ households enrolled, composting at 6% of collected waste.
+- U.S. EPA. (2023). "Quantifying Methane Emissions from Landfilled Food Waste." 58% of fugitive landfill methane from food waste.
+- Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." Legacy contamination and brownfield data.
+- Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
+- Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
+- Eco-Cycle. (n.d.). "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
+- Colorado General Assembly. (n.d.). SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

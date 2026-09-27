@@ -106,10 +106,12 @@
 
 ## 参考文献
 
-- 麻省理工学院生活工资计算器，丹佛县，livingwage.mit.edu（访问于 2024 年）
-- 美国劳工统计局，《职业就业和工资统计》，丹佛-奥罗拉-莱克伍德 MSA，2023 年 5 月
-- Arindrajit Dube、T. William Lester、Michael Reich，“跨州边界的最低工资效应：使用相邻县的估计”，《经济学与统计评论》92(4): 945-964 (2010)
-- Doruk Cengiz 等人，“最低工资对低工资工作的影响”，《经济学季刊》134(3): 1405-1454 (2019)
-- 英国低薪委员会，《国家最低工资年度报告》，2023 年
-- 丹佛财政部，《最低工资条例年度报告》，2024 年
-- 华盛顿大学，《西雅图最低工资研究》，各种出版物（2017-2023 年）
+- Glasmeier, A. K. (2024). _Living wage calculator: Denver County, Colorado_. Massachusetts Institute of Technology. https://livingwage.mit.edu
+- Bureau of Labor Statistics. (2023, May). _Occupational employment and wage statistics: Denver-Aurora-Lakewood, CO MSA_.
+- Dube, A., Lester, T. W., & Reich, M. (2010). Minimum wage effects across state borders: Estimates using contiguous counties. _The Review of Economics and Statistics, 92_(4), 945–964.
+- Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. _The Quarterly Journal of Economics, 134_(3), 1405–1454.
+- UK Low Pay Commission. (2023). _National Minimum Wage Annual Report_.
+- Denver Department of Finance. (2025). _Denver local minimum wage adjusts to $19.29 per hour for 2026_ [Press release].
+- Denver Labor, Office of the Auditor. (2026). _Citywide minimum wage_ [2026–2027 rate schedule].
+- Denver Department of Finance. (2024). _Minimum Wage Ordinance Annual Report_.
+- University of Washington. (2017–2023). _Seattle Minimum Wage Study_ [Various publications].

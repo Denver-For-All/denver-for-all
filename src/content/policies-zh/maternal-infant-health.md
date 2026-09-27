@@ -138,25 +138,26 @@ Denver 缺乏的是：一个城市层面的生育公平倡议，任何 NICU 家�
 **"公开报告医院公平数据不会导致患者远离安全网医院吗？"**
 透明度可以保护患者。像 Denver Health 这样的安全网医院为最脆弱的人群提供服务，并且通常具有最佳的公平实践，正是因为他们的患者群体要求这样做。公开报告为所有医院（包括为更富裕、更白人的人群提供服务且可能存在隐藏差异的资源充足的私人机构）创建了问责制。英国的 MBRRACE 系统多年来一直在发布医院级别的孕产妇死亡率数据。结果是改进，而不是回避。隐藏数据可以保护机构。发布它可以保护家庭。
 
-## 参考资料
+## 参考文献
 
-- CDC National Center for Health Statistics. (2024). 2022 年美国的孕产妇死亡率。（817 例孕产妇死亡；每 100,000 例活产 22.3 例。）
-- CDC WONDER. (2023). 链接的出生/婴儿死亡记录。（美国婴儿死亡率为 5.6/1,000；黑人婴儿死亡率为 10.9/1,000。）
-- Colorado Department of Public Health and Environment. (2023). 科罗拉多州孕产妇死亡率审查委员会报告。（黑人生育者患严重孕产妇疾病的几率是白人生育者的 2-3 倍；种族主义和歧视被确定为促成因素。）
-- Colorado Department of Public Health and Environment. (2023). 科罗拉多州出生统计。（按种族划分的婴儿死亡率；按种族划分的早产率。）
-- March of Dimes. (2024). 成绩单：科罗拉多州。（按种族/民族划分的早产率；黑人早产率为 14.4%，而白人为 9.5%。）
-- America's Health Rankings. (2023). 妇女和儿童健康报告：科罗拉多州。（孕产妇死亡率为 18.2/100,000。）
-- Bohren, M.A., et al. (2017). "分娩期间对妇女的持续支持。" Cochrane 数据库系统评价。（26 项 RCT，15,000 多名参与者：剖腹产减少 39%，合成催产素的使用减少 31%。）
-- Gruber, K.J., et al. (2020). "导乐对健康分娩结果的影响。" Journal of Perinatal Education / JAMA Network Open 分析。（导乐支持的 Medicaid 分娩：早产、低出生体重、剖腹产减少；黑人参与者的益处最大。）
-- Greenwood, B.N., et al. (2020). "医生-患者种族一致性和新生儿分娩死亡率的差异。" Proceedings of the National Academy of Sciences, 117(35): 21194-21200。（由黑人医生照顾的黑人新生儿的死亡率显著降低。）
-- Ickovics, J.R., et al. (2007). "团体产前护理和围产期结果。" Obstetrics & Gynecology, 110(2): 330-339。（以孕妇为中心的妊娠：黑人参与者的早产减少 33%。）
-- Sandall, J., et al. (2016). "助产士主导的连续性模式与儿童妇女的其他护理模式。" Cochrane 数据库系统评价。（助产士主导的护理：干预较少、结果相当或更好、满意度更高、早产减少 24%。）
-- Olds, D.L., et al. (多项出版物，1986-2019)。在 Pediatrics、JAMA 和 Prevention Science 上发表的护士-家庭伙伴关系随机对照试验。（减少早产、虐待/忽视儿童、急诊就诊；提高入学准备度；根据 RAND 分析，每投资 1 美元的回报为 5.70 美元。）
-- Hynan, M.T., et al. (2013). "NICU 中心理健康专业人员的建议。" Journal of Perinatology, 33: 748-753。（20-40% 的 NICU 父母经历 PTSD、抑郁症或焦虑症。）
-- Luca, D.L., et al. (2020). "未经治疗的围产期情绪和焦虑障碍的经济成本。" American Journal of Psychiatry, 177(3): 232-241。（在第一年中，每对母婴的费用为 $14,000 美元；5 年内为 $32,000 美元。）
-- Paulson, J.F. & Bazemore, S.D. (2010). "父亲的产前和产后抑郁症。" JAMA, 303(19): 1961-1969。（父亲产后抑郁症发病率为 5-10%。）
-- American Association of Critical-Care Nurses (AACN). (2024). 健康工作环境调查。（由于人员配置问题，66% 的重症监护护士已经考虑过离开。）
-- RAND Corporation. 护士-家庭伙伴关系成本效益分析。（每投资 1 美元的回报为 5.70 美元。）
-- National Perinatal Information Center. NICU 成本数据。（每天 $3,000-$5,000 美元以上。）
-- Dennis, C.L. (2003). "医疗保健环境中的同伴支持：概念分析。" International Journal of Nursing Studies。（围产期抑郁症的同伴支持证据。）
-- Moseson, H., et al. (2020). "寻求生殖护理的跨性别和非二元性别个体的经历。" Obstetrics & Gynecology,
+- CDC National Center for Health Statistics. (2024). Maternal Mortality Rates in the United States, 2022. (817 maternal deaths; 22.3 per 100,000 live births.)
+- CDC WONDER. (2023). Linked Birth/Infant Death Records. (US infant mortality 5.6/1,000; Black infant mortality 10.9/1,000.)
+- Colorado Department of Public Health and Environment. (2023). Colorado Maternal Mortality Review Committee Report. (Black birthing people experience severe maternal morbidity at 2-3x the rate of white birthing people; racism and discrimination identified as contributing factors.)
+- Colorado Department of Public Health and Environment. (2023). Colorado Birth Statistics. (Infant mortality by race; preterm birth rates by race.)
+- March of Dimes. (2024). Report Card: Colorado. (Preterm birth rates by race/ethnicity; Black preterm birth rate 14.4% vs. 9.5% white.)
+- America's Health Rankings. (2023). Health of Women and Children Report: Colorado. (Maternal mortality rate 18.2/100,000.)
+- Bohren, M.A., et al. (2017). "Continuous support for women during childbirth." Cochrane Database of Systematic Reviews. (26 RCTs, 15,000+ participants: 39% reduction in C-sections, 31% reduction in synthetic oxytocin use.)
+- Gruber, K.J., et al. (2020). "Impact of Doulas on Healthy Birth Outcomes." Journal of Perinatal Education / JAMA Network Open analyses. (Doula-supported Medicaid births: reduced preterm birth, low birth weight, C-sections; largest benefits for Black participants.)
+- Greenwood, B.N., et al. (2020). "Physician-patient racial concordance and disparities in birthing mortality for newborns." Proceedings of the National Academy of Sciences, 117(35): 21194-21200. (Black newborns cared for by Black physicians had significantly lower mortality.)
+- Ickovics, J.R., et al. (2007). "Group Prenatal Care and Perinatal Outcomes." Obstetrics & Gynecology, 110(2): 330-339. (Centering Pregnancy: 33% reduction in preterm birth for Black participants.)
+- Sandall, J., et al. (2016). "Midwife-led continuity models versus other models of care for childbearing women." Cochrane Database of Systematic Reviews. (Midwife-led care: fewer interventions, equivalent or better outcomes, higher satisfaction, 24% reduction in preterm birth.)
+- Olds, D. L., et al. (1986–2019). _Nurse-Family Partnership randomized controlled trials_ [Multiple publications in _Pediatrics_, _JAMA_, and _Prevention Science_]. (Reduced preterm birth, child abuse/neglect, emergency visits; improved school readiness; $5.70 ROI per $1 invested per RAND analysis.)
+- Hynan, M.T., et al. (2013). "Recommendations for mental health professionals in the NICU." Journal of Perinatology, 33: 748-753. (20-40% of NICU parents experience PTSD, depression, or anxiety.)
+- Luca, D.L., et al. (2020). "Financial Costs of Untreated Perinatal Mood and Anxiety Disorders." American Journal of Psychiatry, 177(3): 232-241. ($14,000 per mother-infant pair in the first year; $32,000 over 5 years.)
+- Paulson, J.F. & Bazemore, S.D. (2010). "Prenatal and Postpartum Depression in Fathers." JAMA, 303(19): 1961-1969. (5-10% paternal postpartum depression rate.)
+- American Association of Critical-Care Nurses (AACN). (2024). Healthy Work Environment Survey. (66% of critical care nurses have considered leaving due to staffing.)
+- RAND Corporation. (n.d.). Nurse-Family Partnership cost-benefit analyses. ($5.70 return per $1 invested.)
+- National Perinatal Information Center. (n.d.). NICU cost data. ($3,000-$5,000+ per day.)
+- Dennis, C.L. (2003). "Peer support within a health care context: a concept analysis." International Journal of Nursing Studies. (Peer support evidence for perinatal depression.)
+- Moseson, H., et al. (2020). "Experiences of transgender and nonbinary individuals seeking reproductive care." Obstetrics & Gynecology, 136(6): 1203-1211. (High rates of gender-related discrimination during pregnancy and postpartum; provider refusal, misgendering, outing without consent.)
+- Preyde, M. & Ardal, F. (2003). "Effectiveness of a parent 'buddy' program for mothers of very preterm infants in a neonatal intensive care unit." Canadian Medical Association Journal, 168(8): 969-973. (NICU peer support reduces maternal anxiety and depression.)

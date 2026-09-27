@@ -143,14 +143,14 @@ Quản lý chất thải là một chức năng cốt lõi của thành phố. D
 
 ## Tài Liệu Tham Khảo
 
-- Denverite. (2024). "Denver đã thực hiện một thay đổi lớn đối với việc thu gom chất thải. Nó vẫn chưa hoạt động hoàn toàn." Dữ liệu tỷ lệ chuyển hướng: 23% trước chương trình, 26% tính đến tháng 10 năm 2024.
-- Eco-Cycle and CoPIRG. (2025). "Tình hình Tái chế và Ủ phân ở Colorado." Tỷ lệ chuyển hướng toàn tiểu bang Colorado là 15,7%.
-- Axios Denver. (2025). "Những nỗ lực ủ phân của Denver được xếp hạng như thế nào." Hơn 73.000 hộ gia đình đã đăng ký, ủ phân ở mức 6% chất thải thu gom.
-- U.S. EPA (Cơ quan Bảo vệ Môi trường Hoa Kỳ). (2023). "Định lượng Khí thải Mê-tan từ Chất thải Thực phẩm Chôn lấp." 58% khí mê-tan thất thoát từ bãi chôn lấp đến từ chất thải thực phẩm.
-- Conservation Colorado. (2020). "Lập bản đồ cho Công bằng Môi trường ở Globeville, Elyria-Swansea." Dữ liệu ô nhiễm di sản và khu đất ô nhiễm.
-- Denver Post. (2025). "Denver có thể sử dụng doanh thu phí túi dùng một lần cho Waste No More." Tổng doanh thu phí túi $6,2 triệu; Ít hơn 5 triệu túi mỗi năm.
-- Colorado DPHE (Sở Y tế Công cộng và Môi trường Colorado). (2024). Kế hoạch thực hiện Chương trình Trách nhiệm của Nhà sản xuất (HB 22-1355). Mục tiêu tái chế: 41% vào năm 2030, 55% vào năm 2035.
-- Eco-Cycle. "Việc làm và Lợi ích Kinh tế của Không Chất thải." Tái chế tạo ra số lượng việc làm gấp 9 lần so với chôn lấp trên mỗi tấn vật liệu.
-- Denver Water. (2023). Kế hoạch Thích ứng Khí hậu. Dự báo cung cấp và mục tiêu bảo tồn cho hệ thống nước của Denver.
-- Colorado General Assembly (Quốc hội Colorado). SB 13-181. Ủy quyền tái sử dụng nước xám. HB 16-1005. Hợp pháp hóa việc thu gom nước mưa dân cư.
-- World Economic Forum (Diễn đàn Kinh tế Thế giới). (2025). "8 Xu hướng về Nhà ở Đô thị, Giao thông Vận tải và Khả năng Phục hồi Khí hậu." Các thành phố mở rộng quy mô tái sử dụng nước xám và hệ thống nước tuần hoàn.
+- Denverite. (2024). "Denver made a big change to waste pickup. It's not quite working yet." Diversion rate data: 23% pre-program, 26% as of October 2024.
+- Eco-Cycle and CoPIRG. (2025). "State of Recycling and Composting in Colorado." Colorado statewide diversion rate of 15.7%.
+- Axios Denver. (2025). "How Denver's composting efforts stack up." 73,000+ households enrolled, composting at 6% of collected waste.
+- U.S. EPA. (2023). "Quantifying Methane Emissions from Landfilled Food Waste." 58% of fugitive landfill methane from food waste.
+- Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." Legacy contamination and brownfield data.
+- Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
+- Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
+- Eco-Cycle. (n.d.). "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
+- Colorado General Assembly. (n.d.). SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

@@ -37,6 +37,50 @@ relatedLegislation:
     status: 'Signed into law'
     session: '2024'
     url: 'https://leg.colorado.gov/bills/hb24-1092'
+smartGoals:
+  - goal: 'Capitalize a $20M Denver Cooperative Development Fund'
+    goalEs: 'Capitalizar un Fondo de Desarrollo Cooperativo de Denver de $20M'
+    metric: 'Committed city, federal, and CDFI capital in the fund'
+    metricEs: 'Capital municipal, federal y de CDFI comprometido en el fondo'
+    baseline: '$0 (2026)'
+    baselineEs: '$0 (2026)'
+    target: '$20M committed'
+    targetEs: '$20M comprometidos'
+    deadline: '2028'
+    owner: 'Denver Economic Development & Opportunity'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver'
+    precedent: "New York City's Worker Cooperative Business Development Initiative has funded co-op development since 2014"
+    precedentEs: 'La Iniciativa de Desarrollo de Cooperativas de Trabajo de Nueva York financia el desarrollo cooperativo desde 2014'
+    source: 'Colorado Worker Cooperative Corporations Act, 2024'
+  - goal: 'Convert 50 retiring-owner businesses to worker ownership'
+    goalEs: 'Convertir 50 negocios de dueños que se jubilan en propiedad de los trabajadores'
+    metric: 'Completed worker cooperative or ESOP conversions with fund support'
+    metricEs: 'Conversiones completadas a cooperativa de trabajo o ESOP con apoyo del fondo'
+    baseline: '0 fund-supported conversions (2026)'
+    baselineEs: '0 conversiones con apoyo del fondo (2026)'
+    target: '50 conversions preserving 1,500+ jobs'
+    targetEs: '50 conversiones que preservan más de 1,500 empleos'
+    deadline: '2030'
+    owner: 'Denver Economic Development & Opportunity with Rocky Mountain Employee Ownership Center'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver con el Rocky Mountain Employee Ownership Center'
+    precedent: 'Project Equity and the Democracy at Work Institute have guided hundreds of U.S. conversions'
+    precedentEs: 'Project Equity y el Democracy at Work Institute han guiado cientos de conversiones en EE. UU.'
+    source: 'Colorado Employee Ownership Office, 2025'
+  - goal: 'Launch a Denver homecare cooperative'
+    goalEs: 'Lanzar una cooperativa de cuidado en el hogar en Denver'
+    metric: 'Worker-owners employed by a Denver homecare cooperative'
+    metricEs: 'Socios trabajadores empleados en una cooperativa de cuidado en el hogar de Denver'
+    baseline: 'No Denver homecare cooperative of scale (2026)'
+    baselineEs: 'Sin cooperativa de cuidado en el hogar de escala en Denver (2026)'
+    target: '100 worker-owners'
+    targetEs: '100 socios trabajadores'
+    deadline: '2029'
+    owner: 'Denver Economic Development & Opportunity'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver'
+    precedent: 'Cooperative Home Care Associates in the Bronx employs roughly 2,000 worker-owners'
+    precedentEs: 'Cooperative Home Care Associates en el Bronx emplea a cerca de 2,000 socios trabajadores'
+    source: 'Denver Economic Development & Opportunity, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -190,11 +234,11 @@ The Cooperative Development Fund is designed as a revolving fund: loan repayment
 
 ## References
 
-- Birchall, J. & Ketilson, L.H. _Resilience of the Cooperative Business Model in Times of Crisis._ ILO, 2009.
-- Colorado General Assembly. HB24-1092, _Worker Cooperative Corporations Act._ 2024.
-- Doucouliagos, C. _Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms._ Industrial and Labor Relations Review, 1995.
-- Dube, A. & Freeman, R. _Complementarity of Shared Compensation and Decision-Making Systems._ NBER, 2010.
-- National Center for Employee Ownership. _Employee Ownership and Economic Well-Being._ 2023.
-- Pencavel, J. et al. _Wages, Employment, and Capital in Capitalist and Worker-Owned Firms._ Industrial and Labor Relations Review, 2006.
-- Project Equity. _The Ownership Crisis: Retiring Boomer Business Owners._ 2023.
-- US Federation of Worker Cooperatives. _Annual Report._ 2023.
+- Birchall, J. & Ketilson, L.H. (2009). _Resilience of the Cooperative Business Model in Times of Crisis._ ILO.
+- Colorado General Assembly. (2024). HB24-1092, _Worker Cooperative Corporations Act._.
+- Doucouliagos, C. (1995). _Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms._ Industrial and Labor Relations Review.
+- Dube, A. & Freeman, R. (2010). _Complementarity of Shared Compensation and Decision-Making Systems._ NBER.
+- National Center for Employee Ownership. (2023). _Employee Ownership and Economic Well-Being._.
+- Pencavel, J. et al. (2006). _Wages, Employment, and Capital in Capitalist and Worker-Owned Firms._ Industrial and Labor Relations Review.
+- Project Equity. (2023). _The Ownership Crisis: Retiring Boomer Business Owners._.
+- US Federation of Worker Cooperatives. (2023). _Annual Report._.

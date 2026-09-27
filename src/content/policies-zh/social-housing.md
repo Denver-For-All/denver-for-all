@@ -96,3 +96,16 @@ DSHA将是一个独立的机构，拥有专业的物业管理，类似于丹佛�
 
 **“10,000个单元将建在哪里？ 社区反对怎么办？”**
 社会住房将分布在丹佛的所有社区，包括富裕社区，而不是集中在低收入地区。 这是20世纪中叶美国公共住房的错误，我们不会重蹈覆辙。 维也纳的模式之所以有效，正是因为公共住房随处可见：在富裕地区、在商业走廊、在以交通为导向的开发项目中。 丹佛已经在城市的每个地区拥有数百块市属空置土地。 DSHA的选址过程将优先考虑靠近交通、就业和学校 -  - 并将包括强制性的社区参与。 但“社区参与”不是否决权。 住房危机影响着整个城市，每个社区都必须参与解决方案。
+
+## 参考文献
+
+- Apartment List. (2026). _Denver, CO rent report_. https://www.apartmentlist.com/rent-report/co/denver
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing programs and need estimates_. https://www.denvergov.org/host
+- Colorado General Assembly. (2026). _2026 regular session housing bills (HB26-1001, SB26-001, HB26-1065, HB26-1066, HB26-1114)_. https://leg.colorado.gov
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit Proposition 123-funded affordable community in West Colfax]. https://www.coloradopolitics.com
+- Metro Denver Homeless Initiative. (2026). _2026 Point-in-Time count data_ (6,411 people in Denver). https://www.mdhi.org/pit
+- RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
+- Rothstein, R. (2017). _The color of law: A forgotten history of how our government segregated America_. Liveright Publishing.
+- U.S. Census Bureau. (2023). _Selected housing characteristics_ [American Community Survey, Denver-Aurora-Lakewood MSA]. https://data.census.gov
+- Wiener Wohnen. (2023). _Facts and figures on Vienna's municipal housing_. https://www.wienerwohnen.at
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood, CO_ [Data set]. https://www.zillow.com/research/data/

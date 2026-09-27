@@ -104,8 +104,8 @@ Para los contratistas de la ciudad y las empresas de propiedad municipal: incues
 
 ## Referencias
 
-- Ley de Constitución de Empresas Alemana (_Betriebsverfassungsgesetz_), 1972 (modificada en 2001)
-- Ley de Cogestión Alemana (_Mitbestimmungsgesetz_), 1976
-- Instituto de Política Económica, "La remuneración de los directores ejecutivos se ha disparado un 1,460% desde 1978", _Informe_, 2022 (que cubre los datos de 2021)
-- Organización Internacional del Trabajo (OIT), _Participación de los trabajadores en la gobernanza de la empresa_, 2022
-- Ley Sueca de Cogestión en el Trabajo (_Medbestammandelagen_, MBL), 1976
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

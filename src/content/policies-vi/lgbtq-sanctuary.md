@@ -125,13 +125,13 @@ Vì phân biệt đối xử có hậu quả kinh tế. Người LGBTQ+, đặc 
 
 ## Tài Liệu Tham Khảo
 
-- GLAAD. (2025). "Project 2025 Exposed." Theo dõi việc thu hồi các biện pháp bảo vệ LGBTQ+ của liên bang.
-- Movement Advancement Project (MAP). (2025). "Local Nondiscrimination Ordinances." Hơn 395 thành phố có các biện pháp bảo vệ LGBTQ+ rõ ràng.
-- Williams Institute, UCLA School of Law. (2023). Ước tính dân số LGBTQ+ và dữ liệu kinh tế theo tiểu bang và khu vực đô thị.
-- True Colors United. (2023). "LGBTQ+ Youth Homelessness." Lên đến 40% thanh niên vô gia cư tự nhận mình là LGBTQ+.
-- American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Liệu pháp chuyển đổi gây hại; không có bằng chứng về hiệu quả.
-- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Khung bảo vệ LGBTQ+ của thành phố.
-- National LGBTQ Task Force. (2026). "Creating Change 2026." Các đề xuất hội nghị giải quyết chính sách LGBTQ+ giao thoa.
-- Colorado General Assembly. HB 19-1129. "Conversion Therapy Ban for Minors." Ban hành năm 2019.
-- Colorado Anti-Discrimination Act (CADA). C.R.S. 24-34-301 et seq. Các biện pháp bảo vệ xu hướng tính dục và bản dạng giới.
-- Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Bộ công cụ chính sách của thành phố.
+- GLAAD. (2025). "Project 2025 Exposed." Tracking federal rollbacks of LGBTQ+ protections.
+- Movement Advancement Project (MAP). (2025). "Local Nondiscrimination Ordinances." 395+ municipalities with explicit LGBTQ+ protections.
+- Williams Institute, UCLA School of Law. (2023). LGBTQ+ population estimates and economic data by state and metro area.
+- True Colors United. (2023). "LGBTQ+ Youth Homelessness." Up to 40% of homeless youth identify as LGBTQ+.
+- American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Conversion therapy causes harm; no evidence of efficacy.
+- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Municipal LGBTQ+ protection framework.
+- National LGBTQ Task Force. (2026). "Creating Change 2026." Conference proposals addressing intersectional LGBTQ+ policy.
+- Colorado General Assembly. (2019). HB 19-1129. "Conversion Therapy Ban for Minors."
+- Colo. Rev. Stat. § 24-34-301 et seq. (Colorado Anti-Discrimination Act). Sexual orientation and gender identity protections.
+- Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Municipal policy toolkit.

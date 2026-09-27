@@ -143,14 +143,14 @@
 
 ## 参考文献
 
-- Denverite. (2024). "Denver made a big change to waste pickup. It's not quite working yet." 分流率数据：项目启动前为23%，截至2024年10月为26%。
-- Eco-Cycle and CoPIRG. (2025). "State of Recycling and Composting in Colorado." 科罗拉多州全州分流率为15.7%。
-- Axios Denver. (2025). "How Denver's composting efforts stack up." 73,000多户家庭注册，堆肥占收集垃圾的6%。
-- U.S. EPA. (2023). "Quantifying Methane Emissions from Landfilled Food Waste." 58%的垃圾填埋场无组织甲烷来自食物垃圾。
-- Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." 遗留污染和棕地数据。
-- Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $620万的塑料袋收费总收入；每年减少500万个塑料袋。
-- Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. 回收目标：到2030年达到41%，到2035年达到55%。
-- Eco-Cycle. "Jobs and Economic Benefits of Zero Waste." 回收利用平均每吨创造的就业机会是垃圾填埋的9倍。
-- Denver Water. (2023). Climate Adaptation Plan. 丹佛市供水系统的供水预测和节水目标。
-- Colorado General Assembly. SB 13-181. 灰水回用授权。HB 16-1005. 住宅雨水收集合法化。
-- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." 城市扩大灰水回用和循环水系统。
+- Denverite. (2024). "Denver made a big change to waste pickup. It's not quite working yet." Diversion rate data: 23% pre-program, 26% as of October 2024.
+- Eco-Cycle and CoPIRG. (2025). "State of Recycling and Composting in Colorado." Colorado statewide diversion rate of 15.7%.
+- Axios Denver. (2025). "How Denver's composting efforts stack up." 73,000+ households enrolled, composting at 6% of collected waste.
+- U.S. EPA. (2023). "Quantifying Methane Emissions from Landfilled Food Waste." 58% of fugitive landfill methane from food waste.
+- Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." Legacy contamination and brownfield data.
+- Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
+- Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
+- Eco-Cycle. (n.d.). "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
+- Colorado General Assembly. (n.d.). SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

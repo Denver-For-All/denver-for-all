@@ -141,9 +141,9 @@ FAMLI هي خطوة كبيرة إلى الأمام. اقتراحنا يعتمد 
 
 ## المراجع
 
-- القوانين المعدلة في Colorado، القسم 8-13.3-501 وما يليه. (قانون FAMLI)
-- قسم FAMLI في Colorado، _تقرير تنفيذ البرنامج_، 2024
-- قانون العائلات الصحية وأماكن العمل في Colorado (HFWA)، C.R.S. 8-13.3-401 وما يليه.
-- وكالة التأمين الاجتماعي السويدية (_Forsakringskassan_)، _إحصائيات إجازة الأبوة والأمومة_، 2023
-- منظمة التعاون الاقتصادي والتنمية، _قاعدة بيانات العائلة: أنظمة إجازة الأبوة والأمومة_، 2023
-- وزارة العمل والاندماج الاجتماعي النرويجية، _لوائح إجازة الأبوة والأمومة_، 2023
+- Colo. Rev. Stat. § 8-13.3-501 et seq. (Paid Family and Medical Leave Insurance Act).
+- Colorado FAMLI Division. (2024). _Program Implementation Report_.
+- Colo. Rev. Stat. § 8-13.3-401 et seq. (Healthy Families and Workplaces Act).
+- Swedish Social Insurance Agency (_Forsakringskassan_). (2023). _Parental Leave Statistics_.
+- OECD. (2023). _Family Database: Parental Leave Systems_.
+- Norway Ministry of Labour and Social Inclusion. (2023). _Parental Leave Regulations_.

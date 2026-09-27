@@ -87,3 +87,10 @@
 
 **"ألن تتسبب التصفية القسرية في بيع حراج يؤدي إلى انهيار قيم العقارات؟"**
 الجدول الزمني للتصفية لمدة 5 سنوات طويل بما يكفي عن قصد لمنع البيع الحراج. في وتيرة مبيعات المنازل الحالية في Denver (~ 30,000 صفقة سنويًا في منطقة العاصمة)، فإن حجم التصفية المؤسسية سيمثل جزءًا صغيرًا من إجمالي نشاط السوق. يمتلك مالكو الشركات في Denver آلاف الوحدات، وليس مئات الآلاف. إن شرط البيع بالقيمة السوقية العادلة المقدرة بشكل مستقل - وليس بالأسعار المتعثرة - يمنع التقويض. ويضمن حق الشفعة للمستأجرين الحاليين وصناديق الأراضي المجتمعية وهيئة الإسكان الاجتماعي أن تذهب الوحدات إلى مشترين متوافقين مع المهمة، وليس إلى مالك الشركة التالي في الصف. إن عملية المصادرة في برلين، التي صوت عليها 59٪ من السكان في عام 2021، تسير وفقًا لجدول زمني مماثل متعدد السنوات دون تعطيل السوق.
+
+## المراجع
+
+- Deutsche Welle. (2021, September 27). _Berlin referendum: Majority votes to expropriate large landlords_. https://www.dw.com
+- Organisation for Economic Co-operation and Development. (2024). _OECD Affordable Housing Database_. https://www.oecd.org/housing/data/affordable-housing-database/
+- Redfin. (2024). _Investor home purchases in 2023_ [Data analysis]. https://www.redfin.com/news/investor-home-purchases-q4-2023/
+- U.S. Department of Justice. (2024, August 23). _Justice Department sues RealPage for algorithmic pricing scheme that harms millions of American renters_ [Press release]. https://www.justice.gov

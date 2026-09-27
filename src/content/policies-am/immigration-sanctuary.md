@@ -127,9 +127,9 @@
 
 ## ማጣቀሻዎች
 
-- የአሜሪካ የህዝብ ቆጠራ ቢሮ። የአሜሪካ ማህበረሰብ ጥናት (ACS)፣ 2023። (የዴንቨር የላቲኖ ህዝብ።)
-- የዴንቨር የፋይናንስ መምሪያ። (2024)። የአዲስ መጤዎች አገልግሎት ወጪ ሪፖርቶች። (ከ$100 ሚሊዮን ዶላር በላይ የስደተኞች ወጪ።)
-- Wong, T. (2017). "የመጠለያ ፖሊሲዎች በወንጀል እና በኢኮኖሚ ላይ የሚያሳድሩት ተጽዕኖ።" የአሜሪካ የሂደት ማዕከል. (የመጠለያ ከተሞች ደህንነት መረጃ።)
-- Printz v. United States, 521 U.S. 898 (1997). (የፀረ-ቁጥጥር አስተምህሮ።)
-- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (የመጠለያ ፖሊሲዎች ጸድቀዋል።)
-- IDNYC ዓመታዊ ሪፖርት። (ከ1.3 ሚሊዮን በላይ የማዘጋጃ ቤት መታወቂያዎች የወጡበት መረጃ።)
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
+- Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

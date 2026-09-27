@@ -1,8 +1,732 @@
 {
+  "aging-accessibility": {
+    "title": "Người Cao Tuổi, Người Khuyết Tật & Khả Năng Tiếp Cận",
+    "summary": "Thiết kế thành phố thân thiện với người cao tuổi cho nhóm dân số tăng nhanh nhất của Denver. Khả năng tiếp cận toàn diện vượt trên mức tối thiểu của ADA. Mở rộng dịch vụ cho người cao tuổi. Hỗ trợ người chăm sóc. Phòng chống cô lập xã hội.",
+    "keyStats": [
+      {
+        "value": "50%+",
+        "label": "mức tăng dân số của Colorado sẽ là người từ 65 tuổi trở lên",
+        "context": "Tăng 36% vào năm 2030 - Denver gần như chưa chuẩn bị gì cho làn sóng này",
+        "source": "Colorado State Demography Office"
+      },
+      {
+        "value": "24%",
+        "label": "người cao tuổi ở Colorado bị cô lập xã hội",
+        "context": "Liên quan đến nguy cơ sa sút trí tuệ tăng 50% và tỷ lệ tử vong tương đương hút thuốc",
+        "source": "CDC, 2021"
+      },
+      {
+        "value": "$10,600+/mo",
+        "label": "cho một viện dưỡng lão ở Colorado",
+        "context": "Sống tại nhà với sự hỗ trợ của cộng đồng chỉ tốn $2,000-$4,000/tháng - một phần nhỏ",
+        "source": "Genworth/CareScout, 2024"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Sửa vỉa hè và lắp dốc lề đường đạt chuẩn trên mọi tuyến đường chính",
+        "metric": "Tỷ lệ số dặm vỉa hè trên đường chính có tồn tại, rộng ít nhất 5 feet và đạt chuẩn ADA tại các điểm băng qua đường",
+        "baseline": "43% trong tổng số 3,140 dặm vỉa hè bị thiếu hoặc quá hẹp cho xe lăn (DOTI, 2025)",
+        "target": "100% vỉa hè đường chính đạt chuẩn",
+        "owner": "Sở Giao Thông và Hạ Tầng (DOTI), Quỹ Vỉa Hè",
+        "precedent": "Khoản thuế Move Seattle 2015-2024 của Seattle đã tài trợ một chương trình vỉa hè riêng, ưu tiên các đoạn thiếu gần trạm giao thông, trường học và đường chính"
+      },
+      {
+        "goal": "Cấp thẻ đi RTD miễn phí cho mọi cư dân Denver từ 65 tuổi",
+        "metric": "Số cư dân Denver từ 65 tuổi có thẻ RTD miễn phí đang hoạt động",
+        "baseline": "0 thẻ miễn phí; người cao tuổi trả giá vé giảm (RTD, 2026)",
+        "target": "30,000 thẻ đang hoạt động (khoảng một phần ba người cao tuổi ở Denver)",
+        "owner": "Văn Phòng Thị Trưởng cùng RTD (thỏa thuận liên chính quyền)",
+        "precedent": "Pennsylvania đã cho mọi cư dân từ 65 tuổi đi phương tiện công cộng miễn phí từ năm 1973, bằng nguồn thu xổ số của tiểu bang"
+      },
+      {
+        "goal": "Tài trợ sửa nhà để người cao tuổi có thể sống tại nhà mình",
+        "metric": "Số hộ hoàn thành sửa đổi tiếp cận do thành phố tài trợ (dốc, tay vịn, buồng tắm không bậc)",
+        "baseline": "Chưa có chương trình trợ cấp riêng của thành phố cho việc sống tại nhà khi về già (2026)",
+        "target": "1,000 hộ được sửa nhà (khoảng 250 hộ mỗi năm)",
+        "owner": "Sở Ổn Định Nhà Ở (HOST) cùng Văn Phòng Người Cao Tuổi Denver",
+        "precedent": "Chương trình CAPABLE của Johns Hopkins giảm 30% tình trạng khuyết tật trong sinh hoạt hằng ngày của người cao tuổi thu nhập thấp với khoảng $3,000 mỗi nhà"
+      }
+    ]
+  },
+  "anti-displacement": {
+    "title": "Khu Vực Chống Di Dời",
+    "summary": "Bảo vệ các cộng đồng quanh trạm giao thông và khu phát triển. Không còn xây đường sắt nhẹ để rồi làm các khu dân cư bị cải tạo đô thị đẩy cư dân đi.",
+    "keyStats": [
+      {
+        "value": "1/2 mile",
+        "label": "từ các trạm mới, tiền thuê nhà tăng vọt",
+        "context": "Denver xây giao thông công cộng, rồi chính những người được phục vụ lại bị di dời",
+        "source": "Bardaka, Delgado & Florax, Journal of Transport Geography, 2018"
+      },
+      {
+        "value": "8-15%",
+        "label": "căn hộ giá phải chăng hiện được yêu cầu",
+        "context": "Quy định hiện nay chỉ bằng một phần nhỏ nhu cầu. Đề xuất của chúng tôi yêu cầu 30%.",
+        "source": "Denver EHA ordinance"
+      },
+      {
+        "value": "30%",
+        "label": "căn hộ giá phải chăng bắt buộc trong công trình mới",
+        "context": "Xây tại chỗ, không được nộp phí thay thế. Barcelona và Montreal đã làm thành công.",
+        "source": ""
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thông qua sắc lệnh Khu Vực Chống Di Dời bao phủ mọi khu vực quanh trạm đường sắt và BRT",
+        "metric": "Tỷ lệ khu vực quanh trạm đường sắt và BRT của RTD trong Denver được một khu vực đã thông qua bao phủ",
+        "baseline": "0 khu vực được thông qua (2026)",
+        "target": "Sắc lệnh được thông qua; 100% khu vực quanh trạm được bao phủ",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Chiến Lược Nhà Ở N/NE của Portland (2015) kết hợp nhà ở giá phải chăng mới với chính sách ưu tiên cho các gia đình bị di dời khỏi khu dân cư đang bị cải tạo đô thị"
+      },
+      {
+        "goal": "Thay thế từng căn nhà giá phải chăng bị phá dỡ bằng một căn khác trong cùng khu vực",
+        "metric": "Thay đổi ròng số căn hộ có giới hạn thu nhập và giá phải chăng tự nhiên trong các khu vực, theo dõi trong báo cáo công khai hằng năm",
+        "baseline": "Không có yêu cầu thay thế; tổn thất không được theo dõi (2026)",
+        "target": "Không mất ròng căn hộ giá phải chăng nào ở mọi khu vực, mỗi năm",
+        "owner": "Sở Quy Hoạch và Phát Triển Cộng Đồng (CPD) cùng HOST",
+        "precedent": "Luật SB 330 của California (2019) yêu cầu thay thế một-đổi-một các căn hộ được bảo vệ bị phá dỡ trên toàn tiểu bang"
+      },
+      {
+        "goal": "Cung cấp nhà ở giá phải chăng vĩnh viễn ở mức 50% AMI gần giao thông công cộng",
+        "metric": "Số căn hộ mới có giới hạn thu nhập ở mức 50% AMI trở xuống được cấp phép trong các khu vực",
+        "baseline": "Quy định hiện hành yêu cầu dành 8-15% căn hộ giá phải chăng (2026)",
+        "target": "2,500 căn hộ ở mức 50% AMI trở xuống được cấp phép trong các khu vực",
+        "owner": "HOST và Sở Quy Hoạch và Phát Triển Cộng Đồng (CPD)",
+        "precedent": "Quỹ TOD Denver của Urban Land Conservancy đã dùng hình thức dự trữ đất từ 2010 để giữ các khu đất gần trạm cho nhà ở giá phải chăng vĩnh viễn, như The Irving (2026)"
+      }
+    ]
+  },
+  "anti-harassment-tenant-protections": {
+    "title": "Bảo Vệ Người Thuê Nhà Khỏi Bị Quấy Rối",
+    "summary": "Một sắc lệnh chống quấy rối riêng của Denver, nêu rõ và cấm các thủ đoạn cưỡng ép của chủ nhà - cắt điện nước, khóa cửa, kiểm tra lấy cớ, đe dọa và trục xuất gián tiếp - kèm theo tiền phạt dân sự và quyền khởi kiện riêng để người thuê nhà có thể tự kiện.",
+    "keyStats": [
+      {
+        "value": "$5,000",
+        "label": "tiền bồi thường tối thiểu theo luật cho việc khóa cửa hoặc cắt điện nước trái phép theo luật Colorado",
+        "context": "CRS 38-12-510 đã cho phép người thuê nhận thiệt hại thực tế cộng với mức cao hơn giữa ba tháng tiền thuê hoặc $5,000 - nhưng người thuê phải tự tìm luật sư và tự kiện, và hầu hết không bao giờ làm",
+        "source": "Colorado Revised Statutes § 38-12-510, 2024"
+      },
+      {
+        "value": "15,953",
+        "label": "vụ nộp đơn đuổi nhà ở Denver năm 2025",
+        "context": "Trục xuất chính thức chỉ là phần nổi của tình trạng di dời. Nhiều người thuê khác bị đẩy đi một cách không chính thức qua các hành vi quấy rối không bao giờ ra tới tòa",
+        "source": "Denver County Court; Eviction Lab, Princeton University, 2025"
+      },
+      {
+        "value": "$1,000-$10,000",
+        "label": "mức phạt dân sự cho mỗi vụ theo luật chống quấy rối người thuê nhà của New York City",
+        "context": "Người thuê ở các tòa nhà từ ba căn trở lên tại NYC có thể kiện ở tòa án nhà ở; tòa có thể phạt chủ nhà cho mỗi hành vi quấy rối và buộc bồi thường cùng phí luật sư cho người thuê",
+        "source": "New York City Administrative Code; New York State Attorney General, 2023"
+      },
+      {
+        "value": "3x",
+        "label": "thiệt hại thực tế mà người thuê bị quấy rối có thể đòi theo Sắc Lệnh Bảo Vệ Người Thuê Nhà của Oakland",
+        "context": "Người thuê thắng kiện ở Oakland nhận mức cao hơn giữa gấp ba thiệt hại hoặc $1,000 bồi thường theo luật, với mức sàn cao hơn cho người cao tuổi, người khuyết tật hoặc người bệnh nặng",
+        "source": "Oakland Municipal Code § 8.22.640, 2014"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thông qua sắc lệnh riêng chống quấy rối người thuê nhà với quyền khởi kiện riêng",
+        "metric": "Sắc lệnh được thông qua với tiền phạt dân sự, quyền khởi kiện riêng và điều khoản chống trả đũa",
+        "baseline": "Denver chưa có sắc lệnh chống quấy rối; chỉ có luật tiểu bang về khóa cửa CRS 38-12-510 (2026)",
+        "target": "Sắc lệnh có hiệu lực",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "New York City (2008), Oakland (2014) và Los Angeles (2021) đều thực thi sắc lệnh chống quấy rối người thuê nhà"
+      },
+      {
+        "goal": "Điều tra nhanh các khiếu nại quấy rối",
+        "metric": "Số ngày trung vị từ khi khiếu nại đến lần kiểm tra hoặc liên hệ đầu tiên của điều tra viên",
+        "baseline": "Chưa có kênh tiếp nhận khiếu nại quấy rối (2026)",
+        "target": "Tối đa 10 ngày làm việc, báo cáo hằng quý",
+        "owner": "Bộ phận thực thi của Sở Ổn Định Nhà Ở Denver (HOST)",
+        "precedent": "Tổ Công Tác Phòng Chống Quấy Rối Người Thuê Nhà của NYC đã thực hiện hàng nghìn cuộc kiểm tra liên ngành từ năm 2015"
+      },
+      {
+        "goal": "Giảm số vụ đuổi nhà về gần mức trước đại dịch",
+        "metric": "Số đơn đuổi nhà hằng năm tại Tòa Án Quận Denver",
+        "baseline": "15,953 đơn (2025)",
+        "target": "Tối đa 11,000 đơn mỗi năm",
+        "owner": "HOST, phối hợp với Tòa Án Quận Denver và các đối tác trợ giúp pháp lý",
+        "precedent": "Quyền có luật sư của New York City đã giúp 84% người thuê được đại diện giữ được nhà (Văn Phòng Công Lý Dân Sự NYC, 2023)"
+      }
+    ]
+  },
+  "anti-surveillance-facial-recognition-ban": {
+    "title": "Khuôn Mặt Không Phải Là Bằng Chứng: Cấm Chính Quyền Dùng Nhận Diện Khuôn Mặt ở Denver",
+    "summary": "Denver chưa có sắc lệnh nào hạn chế giám sát sinh trắc học, mạng lưới đọc biển số xe hay chấm điểm rủi ro bằng thuật toán. Cấm thành phố dùng nhận diện khuôn mặt, kiềm chế việc theo dõi hàng loạt bằng ALPR, cấm cảnh sát dự báo, và yêu cầu giám sát công khai do hội đồng thành phố phê duyệt trước khi mua bất kỳ công cụ giám sát mới nào.",
+    "keyStats": [
+      {
+        "value": "Up to 100x",
+        "label": "tỷ lệ nhận diện sai cao hơn đối với khuôn mặt người châu Á và người da đen trong nhiều thuật toán",
+        "context": "Một nghiên cứu liên bang về 189 thuật toán nhận diện khuôn mặt cho thấy khuôn mặt người châu Á và người Mỹ gốc Phi bị nhận diện sai nhiều hơn tới 100 lần so với người da trắng trong đối chiếu một-một",
+        "source": "NIST FRVT Part 3: Demographic Effects (NISTIR 8280), 2019"
+      },
+      {
+        "value": "1,400+",
+        "label": "lượt tra cứu liên quan đến di trú trong dữ liệu biển số xe của Denver từ năm 2024",
+        "context": "Hồ sơ do ACLU Colorado thu thập cho thấy các cơ quan bên ngoài đã tra cứu mạng lưới đọc biển số xe tự động của Denver hơn 1,400 lần vì mục đích di trú, kể cả những lượt tra cứu chỉ ghi 'ICE'",
+        "source": "ACLU of Colorado records request, reported by NBC News, 2025"
+      },
+      {
+        "value": "0",
+        "label": "sắc lệnh của Denver yêu cầu phê duyệt công khai trước khi cảnh sát mua công nghệ giám sát",
+        "context": "Khác với San Francisco, Boston và hơn 26 khu vực tài phán khác có sắc lệnh cộng đồng kiểm soát, Denver không có luật nào cho công chúng hoặc Hội Đồng Thành Phố biểu quyết trước khi mua công cụ giám sát mới",
+        "source": "ACLU Community Control Over Police Surveillance project, 2024"
+      },
+      {
+        "value": "111",
+        "label": "camera giám sát Flock mà Denver lắp đặt khắp thành phố năm 2024",
+        "context": "Một mạng lưới 111 camera đọc biển số xe được xây dựng khắp Denver năm 2024 mà không có sắc lệnh giám sát công khai nào quy định ai được tra cứu dữ liệu hay dữ liệu được lưu trong bao lâu",
+        "source": "Denverite / Denver Gazette reporting, 2024-2026"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Cấm thành phố sử dụng công nghệ nhận diện khuôn mặt",
+        "metric": "Sắc lệnh cấm mọi cơ quan thành phố mua và sử dụng nhận diện khuôn mặt",
+        "baseline": "Denver chưa có lệnh cấm; chỉ có quy định công khai thông tin của tiểu bang theo SB22-113 (2026)",
+        "target": "Lệnh cấm có hiệu lực kèm quyền khởi kiện riêng",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "San Francisco (2019), Boston (2020), Portland (2020) và Minneapolis (2021) cấm chính quyền dùng nhận diện khuôn mặt"
+      },
+      {
+        "goal": "Yêu cầu phê duyệt công khai trước khi cảnh sát mua bất kỳ công nghệ giám sát nào",
+        "metric": "Tỷ lệ công nghệ giám sát hiện có và mới có chính sách sử dụng được Hội Đồng phê duyệt và kiểm toán hằng năm",
+        "baseline": "0% (không có sắc lệnh CCOPS; 111 camera ALPR được triển khai mà không qua biểu quyết của Hội Đồng, 2024)",
+        "target": "100% công nghệ được phê duyệt và kiểm toán",
+        "owner": "Hội Đồng Thành Phố Denver cùng Văn Phòng Giám Sát Độc Lập",
+        "precedent": "Sắc lệnh giám sát năm 2018 của Oakland yêu cầu báo cáo công khai hằng năm về mọi công nghệ được phê duyệt"
+      },
+      {
+        "goal": "Chấm dứt việc cơ quan di trú liên bang truy cập dữ liệu biển số xe của Denver",
+        "metric": "Số lượt tra cứu dữ liệu ALPR của Denver liên quan đến di trú trong nhật ký kiểm toán công khai hằng năm",
+        "baseline": "Hơn 1,400 lượt tra cứu liên quan đến di trú từ năm 2024 (hồ sơ ACLU Colorado, 2025)",
+        "target": "Không có lượt tra cứu nào liên quan đến di trú; dữ liệu không trùng khớp bị xóa trong vòng 7 ngày",
+        "owner": "Sở Cảnh Sát Denver, được Văn Phòng Giám Sát Độc Lập kiểm toán",
+        "precedent": "Illinois và California cấm chia sẻ dữ liệu ALPR với các cơ quan di trú liên bang và ngoài tiểu bang"
+      }
+    ]
+  },
+  "arts-culture": {
+    "title": "Nghệ Thuật, Văn Hóa & Kinh Tế Sáng Tạo",
+    "summary": "Bảo vệ nghệ sĩ khỏi bị di dời. Dành một phần trăm cho nghệ thuật trong các công trình mới. Không gian studio và biểu diễn giá phải chăng. Công nhận các khu văn hóa. Đầu tư vào kinh tế sáng tạo của Denver như một động lực kinh tế.",
+    "keyStats": [
+      {
+        "value": "$3.12B",
+        "label": "Nghệ thuật Denver tạo ra nhiều hơn thể thao chuyên nghiệp",
+        "context": "14.5 triệu lượt tham dự văn hóa so với 4.9 triệu của tất cả các đội thể thao chuyên nghiệp Denver cộng lại",
+        "source": "CBCA Economic Activity Study, 2024"
+      },
+      {
+        "value": "39th",
+        "label": "thứ hạng của Colorado về tài trợ nghệ thuật bình quân đầu người",
+        "context": "Dù có ngành văn hóa lớn thứ 4 tính theo tỷ trọng GDP của tiểu bang",
+        "source": "Colorado Creative Industries, 2024"
+      },
+      {
+        "value": "13.5%",
+        "label": "quỹ SCFD đến được các nhóm nghệ thuật nhỏ tại địa phương",
+        "context": "Hơn 280 tổ chức nhỏ chia nhau 13.5% trong khi 5 tổ chức lớn nhận 65.5% trong tổng số $85 triệu",
+        "source": "SCFD Annual Report, 2024"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Mở rộng quy định phần trăm cho nghệ thuật sang các dự án tư nhân lớn",
+        "metric": "Các dự án tư nhân trên $1 triệu đóng góp 1.5% cho nghệ thuật công cộng (hoặc vào quỹ thay thế)",
+        "baseline": "Yêu cầu 1% chỉ áp dụng cho các dự án vốn của thành phố (DRMC 20-85, 2026)",
+        "target": "Sắc lệnh được thông qua; $5 triệu mỗi năm dành cho nghệ thuật công cộng",
+        "owner": "Hội Đồng Thành Phố Denver cùng Denver Arts & Venues",
+        "precedent": "Los Angeles, Sacramento và Culver City đã áp dụng yêu cầu phần trăm cho nghệ thuật với các dự án tư nhân"
+      },
+      {
+        "goal": "Tạo studio và nhà ở kiêm xưởng làm việc giá phải chăng vĩnh viễn cho nghệ sĩ",
+        "metric": "Số studio và nhà ở kiêm xưởng dưới giá thị trường trong các tòa nhà do thành phố sở hữu hoặc trợ giá",
+        "baseline": "Thành phố chưa có chương trình studio giá phải chăng (2026)",
+        "target": "300 studio và nhà ở kiêm xưởng",
+        "owner": "Denver Arts & Venues cùng HOST",
+        "precedent": "Chương trình Atelierprogramm của Berlin tài trợ gần 800 studio giá thuê cố định cho nghệ sĩ chuyên nghiệp"
+      },
+      {
+        "goal": "Chính thức công nhận và bảo vệ các khu văn hóa của Denver",
+        "metric": "Các khu văn hóa được công nhận với quy tắc âm thanh Agent of Change và quỹ trợ cấp cho địa điểm biểu diễn nhỏ",
+        "baseline": "0 khu văn hóa do thành phố công nhận; chưa có quy tắc Agent of Change (2026)",
+        "target": "Công nhận 4 khu (Santa Fe, RiNo, Five Points/Welton, GES)",
+        "owner": "Denver Arts & Venues và Sở Quy Hoạch và Phát Triển Cộng Đồng",
+        "precedent": "Chương trình Khu Văn Hóa của San Francisco (2018) cấp cho các khu được công nhận nguồn tài trợ riêng từ thuế khách sạn và các chiến lược ổn định"
+      }
+    ]
+  },
+  "autonomous-vehicles": {
+    "title": "An Toàn & Trách Nhiệm Giải Trình của Xe Tự Lái",
+    "summary": "Waymo hiện đang chạy xe không người lái chở khách ở Denver. Colorado gần như không có quy định nào. Chúng ta cần tiêu chuẩn an toàn cộng đồng, bảo vệ lao động cho tài xế bị mất việc, tích hợp với giao thông công cộng, bảo vệ quyền riêng tư dữ liệu, và quyền kiểm soát dân chủ tại địa phương đối với cách xe tự lái hoạt động trên đường phố của chúng ta.",
+    "keyStats": [
+      {
+        "value": "0",
+        "label": "quy định về xe tự lái mà Denver hiện có",
+        "context": "Không giấy phép, không báo cáo sự cố, không quy định về quyền riêng tư dữ liệu",
+        "source": "Colorado SB 17-213"
+      },
+      {
+        "value": "85%",
+        "label": "số dặm xe chạy thêm từ dịch vụ gọi xe so với chuyến đi được thay thế",
+        "context": "Không có quy định, xe tự lái làm tăng ùn tắc và khí thải - chứ không giảm",
+        "source": "UC Davis / Schaller Consulting"
+      },
+      {
+        "value": "$0",
+        "label": "chi phí cho người đóng thuế Denver",
+        "context": "Các công ty xe tự lái trả phí giấy phép, phí theo chuyến và đóng góp vào Quỹ Chuyển Đổi cho Tài Xế",
+        "source": ""
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thông qua Đạo Luật Trách Nhiệm Xe Tự Lái của Denver khi dịch vụ không người lái đã ra mắt",
+        "metric": "Sắc lệnh được thông qua với khoanh vùng khẩn cấp, báo cáo sự cố và thẩm quyền xử phạt",
+        "baseline": "Thành phố chưa có quy định về xe tự lái; Waymo ra mắt dịch vụ không người lái trên 60 dặm vuông vào ngày 1 tháng 9 năm 2026",
+        "target": "Sắc lệnh thành phố dùng thẩm quyền về lề đường, giấy phép và hợp đồng có hiệu lực; dự luật tiểu bang để gỡ bỏ quyền ưu tiên của SB 17-213 được đệ trình",
+        "owner": "Hội Đồng Thành Phố Denver và phái đoàn lập pháp của Denver",
+        "precedent": "Luật AB 1777 của California (hiệu lực tháng 7 năm 2026) cho phép cảnh sát ra thông báo vi phạm với các nhà vận hành xe tự lái và buộc họ phản hồi nhanh chóng lực lượng ứng cứu"
+      },
+      {
+        "goal": "Công khai mọi sự cố xe tự lái trên một bảng thông tin công cộng",
+        "metric": "Tỷ lệ va chạm, cản trở giao thông trên 5 phút và tương tác với lực lượng ứng cứu của xe tự lái được báo cáo trong 24 giờ và đăng hằng tuần",
+        "baseline": "0% (không có yêu cầu báo cáo địa phương, 2026)",
+        "target": "100% sự cố trên bảng thông tin công khai hằng tuần",
+        "owner": "Sở Giao Thông và Hạ Tầng (DOTI)",
+        "precedent": "Austin công bố bảng theo dõi sự cố xe tự lái dù không có thẩm quyền quản lý trực tiếp (2025)"
+      },
+      {
+        "goal": "Làm cho đội xe tự lái tiếp cận được với xe lăn",
+        "metric": "Tỷ lệ xe tiếp cận được với xe lăn trong mỗi đội xe tự lái hoạt động tại Denver",
+        "baseline": "0% đội xe ra mắt tiếp cận được với xe lăn (2026)",
+        "target": "20% vào năm 2028, tăng lên 50% vào năm 2031",
+        "owner": "DOTI, thực thi thông qua giấy phép vận hành xe tự lái",
+        "precedent": "London yêu cầu mọi taxi có giấy phép phải tiếp cận được với xe lăn, đạt được từ năm 2000"
+      }
+    ]
+  },
+  "campaign-finance-reform": {
+    "title": "Cải Cách Tài Chính Tranh Cử: Loại Bỏ Tiền Lớn Khỏi Chính Trường Denver",
+    "summary": "Denver đã có công cụ theo dõi dòng tiền trong chính trị. Giờ chúng ta cần cải cách: hạ mức đóng góp tối đa, công khai các LLC, và chương trình đối ứng khoản đóng góp nhỏ để người lao động Denver có thể cạnh tranh với các nhà tài trợ doanh nghiệp.",
+    "keyStats": [
+      {
+        "value": "$10,000",
+        "label": "mức đóng góp cá nhân tối đa cho một ứng viên thị trưởng Denver mỗi kỳ bầu cử",
+        "context": "Một tấm séc $10,000 vượt khả năng của hầu hết cư dân Denver. Mức trần hiện nay khuếch đại tiếng nói của người giàu và có quan hệ, đánh đổi bằng tiếng nói của mọi người khác.",
+        "source": "Denver Campaign Finance Ordinance, 2024"
+      },
+      {
+        "value": "67%",
+        "label": "số tiền vận động tranh cử thị trưởng Denver đến từ các khoản đóng góp trên $500",
+        "context": "Cử tri Denver trung bình không thể viết séc $500. Chiến dịch xây dựng trên các khoản đóng góp lớn là chiến dịch phục vụ nhà tài trợ lớn.",
+        "source": "Denver Campaign Finance disclosure data, 2023 mayoral election"
+      },
+      {
+        "value": "7:1",
+        "label": "tỷ lệ đối ứng khoản đóng góp nhỏ mà New York City sử dụng - biến $25 thành $175",
+        "context": "Chương trình đối ứng của NYC năm 2021 tạo ra thêm 61% nhà tài trợ nhỏ và thêm 31% ứng viên lần đầu xuất thân từ tầng lớp lao động",
+        "source": "NYC Campaign Finance Board Annual Report, 2022"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Hạ mức đóng góp tối đa cho các cuộc bầu cử thành phố",
+        "metric": "Mức đóng góp cá nhân tối đa cho một ứng viên thị trưởng mỗi kỳ bầu cử",
+        "baseline": "$10,000 mỗi kỳ bầu cử (Sắc Lệnh Tài Chính Tranh Cử Denver, 2024)",
+        "target": "$2,500 cho thị trưởng; $1,000 cho Hội Đồng Thành Phố và hội đồng trường học",
+        "owner": "Cử tri Denver (sửa đổi hiến chương) và Hội Đồng Thành Phố Denver",
+        "precedent": "Seattle giới hạn mức đóng góp ở vài trăm đô la cho mỗi ứng viên mỗi kỳ bầu cử và kết hợp với Phiếu Dân Chủ"
+      },
+      {
+        "goal": "Đặt các nhà tài trợ nhỏ vào trung tâm các chiến dịch ở Denver",
+        "metric": "Tỷ lệ toàn bộ tiền vận động tranh cử thị trưởng đến từ các khoản đóng góp từ $500 trở lên",
+        "baseline": "67% (bầu cử thị trưởng 2023)",
+        "target": "Dưới 35% trong kỳ bầu cử thành phố năm 2031",
+        "owner": "Văn Phòng Thư Ký và Lưu Trữ Hồ Sơ Denver (cơ quan quản lý Quỹ Bầu Cử Công Bằng)",
+        "precedent": "Trong các cuộc bầu cử năm 2021 của NYC, quỹ đối ứng công đã khiến các nhà tài trợ nhỏ chiếm đa số số tiền của các ứng viên tham gia"
+      },
+      {
+        "goal": "Đưa mọi ứng viên nghiêm túc vào chương trình tài trợ công",
+        "metric": "Số ứng viên thị trưởng đủ điều kiện lên phiếu bầu và tham gia Quỹ Bầu Cử Công Bằng",
+        "baseline": "1 trong 10 ứng viên thị trưởng đã tuyên bố cho năm 2027 nhận quỹ đối ứng (tháng 8 năm 2026)",
+        "target": "Ít nhất 75% ứng viên thị trưởng đủ điều kiện lên phiếu tham gia",
+        "owner": "Văn Phòng Thư Ký và Lưu Trữ Hồ Sơ Denver; Ban Giám Sát Tài Chính Tranh Cử độc lập",
+        "precedent": "Phần lớn ứng viên Hội Đồng Thành Phố NYC trên lá phiếu năm 2021 đã tham gia chương trình đối ứng"
+      }
+    ]
+  },
+  "climate-environment": {
+    "title": "Khí Hậu & Công Lý Môi Trường",
+    "summary": "Điều tra ô nhiễm phóng xạ từ Rocky Flats ảnh hưởng đến Denver. Xử lý chì trong đất và nước ở Denver. 100% năng lượng tái tạo cho hoạt động của thành phố vào năm 2030. Công lý môi trường cho các cộng đồng tuyến đầu.",
+    "keyStats": [
+      {
+        "value": "24,000 yrs",
+        "label": "chu kỳ bán rã của plutonium - cách Denver 16 dặm",
+        "context": "Việc làm sạch Rocky Flats được tuyên bố hoàn tất. Lấy mẫu độc lập cho thấy điều ngược lại.",
+        "source": ""
+      },
+      {
+        "value": "10-15F",
+        "label": "nóng hơn ở khu thu nhập thấp so với khu giàu có",
+        "context": "Đảo nhiệt đô thị đi theo thu nhập và chủng tộc. Độ phủ cây xanh là 19.7% - mục tiêu là 30%.",
+        "source": "Trust for Public Land, 2023"
+      },
+      {
+        "value": "300+",
+        "label": "ngày nắng mỗi năm - năng lượng mặt trời chưa khai thác",
+        "context": "Burlington, VT đạt 100% năng lượng tái tạo vào năm 2014. Denver có nắng tốt hơn gần như mọi thành phố Mỹ.",
+        "source": "NREL Solar Resource Data"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thay thế mọi đường ống dịch vụ bằng chì ở Denver",
+        "metric": "Số đường ống dịch vụ bằng chì còn lại trong khu vực phục vụ của Denver Water",
+        "baseline": "Hơn 15,000 trong khoảng 60,000-64,000 đường ống đã được thay từ năm 2020 (Denver Water, 2023)",
+        "target": "Không còn đường ống dịch vụ bằng chì nào",
+        "owner": "Denver Water, phối hợp với thành phố qua DOTI và DDPHE",
+        "precedent": "Newark, NJ đã thay toàn bộ 23,000 đường ống bằng chì trong chưa đầy ba năm (2019-2021)"
+      },
+      {
+        "goal": "Cắt giảm 65% khí thải nhà kính toàn thành phố so với mức năm 2015",
+        "metric": "Khí thải nhà kính toàn thành phố so với mức cơ sở năm 2015, báo cáo hằng năm",
+        "baseline": "Thấp hơn 18% so với năm 2015 (kiểm kê năm 2024)",
+        "target": "Thấp hơn 65% so với năm 2015",
+        "owner": "Văn Phòng Hành Động Khí Hậu, Bền Vững và Khả Năng Chống Chịu (CASR)",
+        "precedent": "Copenhagen đã giảm khoảng 80% khí thải từ năm 2005 đến 2022 nhờ hệ thống sưởi tập trung và xe đạp"
+      },
+      {
+        "goal": "Tăng độ phủ cây xanh nơi nắng nóng khắc nghiệt nhất",
+        "metric": "Độ phủ tán cây ở mười khu dân cư có ít cây nhất (ví dụ Sun Valley ở mức ~4%)",
+        "baseline": "~4-10% độ phủ ở các khu ít cây nhất; ~20% toàn thành phố (2020)",
+        "target": "15% độ phủ ở mỗi khu dân cư đó; trồng 10,000 cây mỗi năm",
+        "owner": "Sở Công Viên và Giải Trí Denver, Văn Phòng Kiểm Lâm Thành Phố",
+        "precedent": "Chương trình ForestaMi của Milan đã trồng hàng trăm nghìn cây từ năm 2019 hướng tới mục tiêu 3 triệu cây vào năm 2030"
+      }
+    ]
+  },
+  "community-land-trusts": {
+    "title": "Quỹ Đất Cộng Đồng Do Thành Phố Tài Trợ",
+    "summary": "Sở hữu nhà giá phải chăng vĩnh viễn thông qua đất do cộng đồng kiểm soát. Nhà ở luôn giữ giá phải chăng mãi mãi, không chỉ đến khi tín dụng thuế hết hạn.",
+    "keyStats": [
+      {
+        "value": "10x",
+        "label": "tỷ lệ tịch thu nhà thấp hơn so với thông thường",
+        "context": "Chủ nhà trong quỹ đất cộng đồng gần như không bao giờ mất nhà - mô hình được thiết kế để bảo vệ họ",
+        "source": "Champlain Housing Trust, Burlington VT"
+      },
+      {
+        "value": "20-40",
+        "label": "căn nhà quỹ đất cộng đồng được thêm mỗi năm ở Denver",
+        "context": "Với tốc độ này sẽ mất hơn 50 năm mới đạt 2,500 căn",
+        "source": "Elevation Community Land Trust"
+      },
+      {
+        "value": "2,800+",
+        "label": "căn nhà quỹ đất cộng đồng được xây ở Burlington từ năm 1984",
+        "context": "Quỹ đất cộng đồng lớn nhất nước Mỹ chứng minh mô hình hiệu quả ở quy mô lớn, qua nhiều thế hệ",
+        "source": "Champlain Housing Trust"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Khởi tạo năm quỹ đất cộng đồng theo khu vực bằng vốn của thành phố",
+        "metric": "Các quỹ đất cộng đồng được thành lập với hội đồng ba bên và vốn khởi đầu được thành phố cam kết",
+        "baseline": "1 quỹ đất toàn thành phố (Elevation CLT) và không có chương trình cấp vốn riêng của thành phố (2026)",
+        "target": "5 quỹ đất theo khu vực với $50 triệu được cam kết",
+        "owner": "Sở Ổn Định Nhà Ở (HOST)",
+        "precedent": "Burlington, VT đã cấp vốn thành phố cho Champlain Housing Trust vào năm 1984; hiện quỹ này quản lý hơn 2,800 căn nhà"
+      },
+      {
+        "goal": "Tăng gấp mười số nhà giá phải chăng vĩnh viễn trong quỹ đất cộng đồng",
+        "metric": "Số nhà thuộc các quỹ đất cộng đồng của Denver (sở hữu và cho thuê)",
+        "baseline": "~300 căn của Elevation CLT cộng 102 căn tại The Irving (tháng 1 năm 2026)",
+        "target": "2,500 căn nhà trong quỹ đất cộng đồng",
+        "owner": "Năm quỹ đất cộng đồng của Denver, do HOST cấp vốn",
+        "precedent": "CLT Brussels đã phát triển từ một dự án thí điểm năm 2012 thành chương trình được vùng tài trợ với hàng trăm căn nhà đã giao hoặc đang phát triển"
+      },
+      {
+        "goal": "Giữ cho chủ nhà trong quỹ đất cộng đồng ở lại nhà mình",
+        "metric": "Tỷ lệ chủ nhà trong quỹ đất cộng đồng bị tịch thu nhà mỗi năm",
+        "baseline": "Tỷ lệ tịch thu nhà của quỹ đất cộng đồng thấp hơn ~10 lần so với thông thường trên toàn quốc (Lincoln Institute, 2011)",
+        "target": "Dưới 0.5% mỗi năm, với tư vấn sau mua nhà cho 100% người mua",
+        "owner": "Năm quỹ đất cộng đồng của Denver",
+        "precedent": "Trong khủng hoảng tịch thu nhà 2008-2010, chủ nhà trong quỹ đất cộng đồng trên toàn quốc vỡ nợ với tỷ lệ chỉ bằng một phần nhỏ so với thông thường"
+      }
+    ]
+  },
+  "consumer-financial-protection": {
+    "title": "Bảo Vệ Tài Chính Người Tiêu Dùng: Chấm Dứt Bẫy Nợ ở Denver",
+    "summary": "Giới hạn lãi suất cho vay nặng lãi, yêu cầu công khai khoản vay bằng ngôn ngữ dễ hiểu, và mở rộng các hợp tác xã tín dụng cộng đồng để các gia đình lao động ở Denver giữ được tiền của mình thay vì mất vào các khoản vay ngắn hạn, thuê-mua và vay mua xe lãi cao.",
+    "keyStats": [
+      {
+        "value": "4 in 5",
+        "label": "khoản vay ngắn hạn được gia hạn hoặc vay lại trong vòng một tháng",
+        "context": "Sản phẩm này được thiết kế dựa trên việc vay lặp lại, không phải cho các trường hợp khẩn cấp một lần - 80% người vay vay lại trong vòng 14 ngày",
+        "source": "Consumer Financial Protection Bureau, 2014"
+      },
+      {
+        "value": "36%",
+        "label": "mức trần APR mà cử tri Colorado áp dụng cho khoản vay ngắn hạn năm 2018",
+        "context": "Dự Luật 111 được thông qua với hơn 70% ủng hộ, chấm dứt lãi suất ba chữ số trên toàn tiểu bang - một tiền lệ để Denver xây dựng tiếp",
+        "source": "Colorado Secretary of State, 2018"
+      },
+      {
+        "value": "~$50M",
+        "label": "ước tính phí hằng năm người vay ở Colorado tiết kiệm được sau mức trần 36%",
+        "context": "Mức trần lãi suất giữ tiền trong ngân sách gia đình và nền kinh tế địa phương thay vì cho các bên cho vay lãi cao",
+        "source": "Center for Responsible Lending, 2018"
+      },
+      {
+        "value": "Disproportionate",
+        "label": "mật độ bên cho vay lãi cao tập trung ở các khu thu nhập thấp và thiểu số",
+        "context": "Các bên cho vay ngắn hạn và cầm giấy tờ xe tập trung ở các cộng đồng có tỷ lệ nghèo cao hơn và nhiều người da đen và người gốc Latinh hơn",
+        "source": "Center for Responsible Lending, 2020"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thông qua sắc lệnh công khai khoản vay bằng ngôn ngữ dễ hiểu",
+        "metric": "Sắc lệnh yêu cầu các bên cho vay lãi cao có giấy phép ở Denver công khai tổng chi phí bằng ngôn ngữ dễ hiểu và nhiều thứ tiếng",
+        "baseline": "Thành phố chưa có sắc lệnh công khai (2026)",
+        "target": "Sắc lệnh có hiệu lực",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Văn Phòng Trao Quyền Tài Chính của San Francisco và giới hạn quy hoạch đối với dịch vụ đổi séc (2007) đã trở thành mô hình toàn quốc"
+      },
+      {
+        "goal": "Cung cấp khoản vay nhỏ, công bằng từ hợp tác xã tín dụng trên toàn thành phố",
+        "metric": "Số khoản vay nhỏ (APR 36% trở xuống) được cấp qua chương trình hợp tác xã tín dụng do thành phố hỗ trợ",
+        "baseline": "0 khoản vay nhỏ do thành phố hỗ trợ (2026)",
+        "target": "5,000 khoản vay mỗi năm",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver cùng các hợp tác xã tín dụng đối tác",
+        "precedent": "Các khoản vay nhỏ qua người sử dụng lao động của Community Loan Center đã đến với hàng trăm nghìn người vay ở Texas và các tiểu bang khác từ năm 2011"
+      },
+      {
+        "goal": "Công bố dữ liệu về mật độ bên cho vay và khiếu nại mỗi năm",
+        "metric": "Báo cáo công khai hằng năm về địa điểm bên cho vay lãi cao, số lượng khiếu nại và các biện pháp thực thi",
+        "baseline": "Chưa có báo cáo của thành phố (2026)",
+        "target": "Báo cáo đầu tiên được công bố; cập nhật mỗi tháng Sáu",
+        "owner": "Sở Thuế Đặc Biệt và Cấp Phép Denver",
+        "precedent": "Tổng Chưởng Lý Colorado công bố báo cáo hằng năm về nhân khẩu học và khoản vay ngắn hạn theo Đạo Luật Cho Vay Ký Quỹ Hoãn Lại"
+      }
+    ]
+  },
+  "corporate-landlord-ban": {
+    "title": "Cấm Chủ Nhà Là Tập Đoàn",
+    "summary": "Denver là của con người. Cấm các nhà đầu tư tổ chức mua bất động sản nhà ở. Nhà là để ở, không phải cho danh mục đầu tư của quỹ phòng hộ.",
+    "keyStats": [
+      {
+        "value": "26%",
+        "label": "nhà giá phải chăng bị nhà đầu tư mua",
+        "context": "Các gia đình không thể cạnh tranh với những lời đề nghị trả toàn bộ bằng tiền mặt của tập đoàn cho chính những căn nhà họ cần nhất",
+        "source": "Redfin, 2023"
+      },
+      {
+        "value": "2-3x",
+        "label": "tỷ lệ đuổi nhà cao hơn từ chủ nhà là tập đoàn",
+        "context": "Chủ nhà Phố Wall đuổi người thuê với tỷ lệ gấp đôi hoặc gấp ba chủ nhà cá nhân",
+        "source": ""
+      },
+      {
+        "value": "59%",
+        "label": "cử tri Berlin đã bỏ phiếu lấy lại nhà ở",
+        "context": "Cuộc trưng cầu dân ý năm 2021 của Berlin về trưng thu 240,000 căn hộ do tập đoàn nắm giữ đã được thông qua áp đảo",
+        "source": "Berlin 2021 referendum"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Ngăn các chủ nhà là tập đoàn lớn mua thêm nhà ở Denver",
+        "metric": "Số nhà 1-4 căn được mua bởi các thực thể sở hữu từ 50 căn trở lên trên toàn quốc",
+        "baseline": "Không có hạn chế; nhà đầu tư đã mua ~26% nhà một gia đình giá thấp trên toàn quốc (2023)",
+        "target": "Không có giao dịch mua mới nào sau khi sắc lệnh có hiệu lực",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "New Zealand cấm phần lớn người nước ngoài mua nhà hiện có vào năm 2018; cử tri Berlin ủng hộ xã hội hóa quỹ nhà của các chủ nhà lớn vào năm 2021"
+      },
+      {
+        "goal": "Công khai ai thực sự sở hữu nhà cho thuê ở Denver",
+        "metric": "Tỷ lệ thửa đất nhà ở do LLC nắm giữ có chủ sở hữu hưởng lợi được công khai trong sổ đăng ký công cộng",
+        "baseline": "0% (không có sổ đăng ký chủ sở hữu hưởng lợi, 2026)",
+        "target": "95% được công khai",
+        "owner": "Văn Phòng Thẩm Định Denver và Sở Tài Chính",
+        "precedent": "New York City yêu cầu mọi chủ tòa nhà cho thuê đăng ký hằng năm, nêu tên chủ sở hữu, người điều hành và người quản lý"
+      },
+      {
+        "goal": "Trả nhà do tập đoàn nắm giữ về cho người ở và tổ chức phi lợi nhuận",
+        "metric": "Số nhà được các thực thể thuộc diện áp dụng thoái vốn cho người ở, người thuê, quỹ đất cộng đồng hoặc cơ quan nhà ở xã hội",
+        "baseline": "0 giao dịch thoái vốn (2026)",
+        "target": "100% nhà 1-4 căn thuộc diện áp dụng được thoái vốn",
+        "owner": "Sở Tài Chính Denver cùng HOST",
+        "precedent": "Đạo Luật Cơ Hội Mua Nhà của Người Thuê ở Washington, DC đã giúp bảo tồn hàng nghìn căn hộ thông qua việc người thuê và tổ chức phi lợi nhuận mua lại từ năm 1980"
+      }
+    ]
+  },
+  "disability-rights": {
+    "title": "Quyền của Người Khuyết Tật & Hòa Nhập",
+    "summary": "Hòa nhập trọn vẹn cho 10% cư dân Denver đang sống với khuyết tật. Thực thi ADA một cách thực chất. Nhà ở tiếp cận được trong mọi dự án mới. Việc làm có hỗ trợ và yêu cầu với nhà thầu của thành phố. Dịch vụ sống độc lập. Trách nhiệm giải trình của cảnh sát đối với bạo lực liên quan đến khuyết tật. Không có gì về chúng tôi mà thiếu chúng tôi.",
+    "keyStats": [
+      {
+        "value": "70,000+",
+        "label": "cư dân Denver sống với khuyết tật",
+        "context": "10% dân số thành phố - nhóm thiểu số duy nhất mà bất kỳ ai cũng có thể gia nhập vào bất kỳ lúc nào",
+        "source": "U.S. Census Bureau, ACS 2019-2023"
+      },
+      {
+        "value": "42-point",
+        "label": "chênh lệch việc làm đối với người Colorado khuyết tật",
+        "context": "37.7% có việc làm so với 80% người không khuyết tật - và những người đi làm chỉ kiếm được 74 xu trên mỗi đô la",
+        "source": "Bureau of Labor Statistics, 2024"
+      },
+      {
+        "value": "$100-600",
+        "label": "mỗi căn cho thiết kế phổ quát trong công trình mới",
+        "context": "Cải tạo sau này tốn $10,000-$50,000+. Xây đúng ngay từ đầu rẻ hơn 100 lần.",
+        "source": "National Association of Home Builders"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Làm cho mọi trang web và dịch vụ số của thành phố đều tiếp cận được",
+        "metric": "Tỷ lệ trang web và ứng dụng của thành phố đạt kiểm toán độc lập WCAG 2.1 AA",
+        "baseline": "Chưa được kiểm toán hoặc công bố (2026)",
+        "target": "100% đạt WCAG 2.1 AA vào tháng 4 năm 2027, sau đó WCAG 2.2 AA vào năm 2029",
+        "owner": "Dịch Vụ Công Nghệ Denver cùng Văn Phòng Quyền của Người Khuyết Tật",
+        "precedent": "Quy định Tiêu Đề II của ADA do Bộ Tư Pháp ban hành năm 2024 đã áp dụng WCAG 2.1 AA làm tiêu chuẩn web cho chính quyền tiểu bang và địa phương"
+      },
+      {
+        "goal": "Xây nhà tiếp cận được trong mọi tòa chung cư mới",
+        "metric": "Tỷ lệ căn hộ trong các tòa nhà mới từ 10 căn đạt tiêu chuẩn thiết kế phổ quát",
+        "baseline": "Chỉ yêu cầu 5% căn tiếp cận được trong nhà ở do liên bang tài trợ (2026)",
+        "target": "15% thiết kế phổ quát trong mọi giấy phép nhà nhiều hộ mới",
+        "owner": "Sở Quy Hoạch và Phát Triển Cộng Đồng (quy chuẩn xây dựng)",
+        "precedent": "Kế Hoạch London yêu cầu 90% nhà mới tiếp cận được và dễ điều chỉnh, và 10% dành cho người dùng xe lăn; thiết kế phổ quát chỉ tốn thêm $100-600 mỗi căn"
+      },
+      {
+        "goal": "Thu hẹp khoảng cách việc làm cho người khuyết tật trong chính quyền thành phố",
+        "metric": "Tỷ lệ nhân viên Thành Phố và Quận Denver tự xác nhận có khuyết tật",
+        "baseline": "Không được theo dõi; tỷ lệ có việc làm của người Colorado khuyết tật trong độ tuổi lao động là 37.7% (2024)",
+        "target": "7% lực lượng lao động của thành phố",
+        "owner": "Văn Phòng Nhân Sự",
+        "precedent": "Mục 503 của liên bang đã yêu cầu mục tiêu sử dụng 7% người khuyết tật với các nhà thầu liên bang từ năm 2014"
+      }
+    ]
+  },
+  "drug-policy": {
+    "title": "Phi Hình Sự Hóa & Chữa Lành",
+    "summary": "Phi hình sự hóa mọi chất sử dụng cho mục đích cá nhân. Chuyển ngân sách thực thi pháp luật sang điều trị và phục hồi. Địa điểm sử dụng an toàn. Xóa án tích cũ. Giảm thiểu tác hại cứu sống con người.",
+    "keyStats": [
+      {
+        "value": "598",
+        "label": "ca tử vong do quá liều ở Denver năm 2023, mức kỷ lục",
+        "context": "Số ca tử vong giảm xuống 483 vào năm 2024, rồi lại tăng vào năm 2025 trong khi giảm trên toàn quốc. Các vụ bắt giữ không ngăn được điều đó.",
+        "source": "Denver Office of the Medical Examiner, 2024; 9News, December 2025"
+      },
+      {
+        "value": "-95%",
+        "label": "HIV ở người sử dụng ma túy sau khi Bồ Đào Nha phi hình sự hóa",
+        "context": "Tử vong do quá liều giảm 80%. Tỷ lệ sử dụng ma túy xuống dưới mức trung bình của EU. Chính sách này hiệu quả.",
+        "source": "SICAD (Portugal), 2023"
+      },
+      {
+        "value": "0 deaths",
+        "label": "tại hơn 200 địa điểm sử dụng có giám sát trên thế giới",
+        "context": "Insite ở Vancouver đã can thiệp hơn 1,500 ca quá liều. Không ca tử vong nào. Từ năm 2003.",
+        "source": "Potier et al., Drug and Alcohol Dependence, 2014"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giảm một nửa số ca tử vong do quá liều ở Denver",
+        "metric": "Số ca tử vong do quá liều ma túy được Văn Phòng Giám Định Y Khoa Denver ghi nhận",
+        "baseline": "598 ca (kỷ lục năm 2023); 483 (2024); tăng trở lại vào năm 2025",
+        "target": "Dưới 300 ca mỗi năm",
+        "owner": "Sở Y Tế Công Cộng và Môi Trường Denver (DDPHE)",
+        "precedent": "Hai địa điểm sử dụng có giám sát của OnPoint NYC đã cứu hơn 1,000 ca quá liều mà không có ca tử vong nào (2021-2024)"
+      },
+      {
+        "goal": "Bảo đảm điều trị trong vòng 24 giờ kể từ khi yêu cầu",
+        "metric": "Tỷ lệ người yêu cầu điều trị bắt đầu dùng thuốc hoặc tham gia chương trình trong vòng 24 giờ",
+        "baseline": "Không được đo lường; danh sách chờ là phổ biến (2026)",
+        "target": "90% bắt đầu trong vòng 24 giờ",
+        "owner": "DDPHE cùng Denver Health",
+        "precedent": "Chương trình thuốc điều trị trong trại giam trên toàn tiểu bang của Rhode Island đã giảm ~60% ca tử vong do quá liều sau khi ra tù (JAMA Psychiatry, 2018)"
+      },
+      {
+        "goal": "Mở trung tâm phòng chống quá liều đầu tiên của Denver",
+        "metric": "Số địa điểm sử dụng có giám sát đang hoạt động tại Denver",
+        "baseline": "0 địa điểm; sắc lệnh cho phép năm 2018 của Denver đang chờ tiểu bang chấp thuận (2026)",
+        "target": "Mở 1 địa điểm, sau đó 3",
+        "owner": "Quốc Hội Tiểu Bang Colorado (cấp phép) và DDPHE",
+        "precedent": "Rhode Island đã cấp phép địa điểm đầu tiên được tiểu bang chấp thuận tại Providence; Insite ở Vancouver hoạt động từ năm 2003"
+      }
+    ]
+  },
+  "education": {
+    "title": "Giáo Dục Cho Mọi Trẻ Em",
+    "summary": "Mẫu giáo phổ cập, bữa ăn miễn phí ở trường, chương trình sau giờ học ở mọi khu dân cư, hỗ trợ nhà ở cho giáo viên, và chấm dứt tư nhân hóa.",
+    "keyStats": [
+      {
+        "value": "1 in 4",
+        "label": "trẻ em Denver đối mặt với tình trạng thiếu an ninh lương thực",
+        "context": "Bữa ăn miễn phí phổ cập xóa bỏ cả cái đói lẫn sự kỳ thị khi phải xác nhận được ăn trưa miễn phí",
+        "source": "Hunger Free Colorado, 2023"
+      },
+      {
+        "value": "40%+",
+        "label": "giáo viên DPS đã cân nhắc nghỉ việc trong vòng 2 năm",
+        "context": "Lương giáo viên trung bình là $58K nhưng chỉ riêng nhà ở tại Denver đã cần $55K",
+        "source": "Denver Classroom Teachers Association, 2023"
+      },
+      {
+        "value": "99%",
+        "label": "tỷ lệ đi mẫu giáo ở Pháp (miễn phí từ 3 tuổi)",
+        "context": "Mọi hệ thống giáo dục hàng đầu đều có mẫu giáo phổ cập, bữa ăn miễn phí và giáo viên được trả lương tốt",
+        "source": ""
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Cung cấp mẫu giáo cả ngày miễn phí cho mọi trẻ 3 và 4 tuổi",
+        "metric": "Tỷ lệ trẻ 3 và 4 tuổi ở Denver được ghi danh vào mẫu giáo cả ngày miễn phí",
+        "baseline": "UPK tài trợ 15 giờ/tuần cho trẻ 4 tuổi; ~65% trẻ 4 tuổi đủ điều kiện được phục vụ trên toàn tiểu bang (2024-25)",
+        "target": "80% trẻ 4 tuổi và 60% trẻ 3 tuổi có chỗ học cả ngày",
+        "owner": "Denver Preschool Program cùng Học Khu Công Lập Denver",
+        "precedent": "Washington, DC ghi danh khoảng 85% trẻ 4 tuổi và 70% trẻ 3 tuổi vào mẫu giáo phổ cập miễn phí"
+      },
+      {
+        "goal": "Chuyển 20 trường có nhu cầu cao thành trường cộng đồng đầy đủ dịch vụ",
+        "metric": "Số trường DPS có điều phối viên trường cộng đồng được tài trợ, phòng khám hoặc đối tác dịch vụ, và trung tâm gia đình",
+        "baseline": "Chưa có nguồn tài trợ trường cộng đồng toàn thành phố (2026)",
+        "target": "20 trường",
+        "owner": "Văn Phòng Thị Trưởng và Học Khu Công Lập Denver",
+        "precedent": "Các trường cộng đồng của NYC đã giảm tình trạng vắng học kinh niên và tăng tỷ lệ lên lớp đúng hạn (RAND, 2020)"
+      },
+      {
+        "goal": "Đưa chương trình sau giờ học miễn phí đến gần mọi học sinh",
+        "metric": "Số chỗ sau giờ học miễn phí mở đến 6 giờ chiều, tính theo tỷ lệ học sinh K-8 của DPS",
+        "baseline": "Không được theo dõi trên toàn thành phố (2026)",
+        "target": "Chỗ cho 50% học sinh K-8, ưu tiên các trường Title I",
+        "owner": "Văn Phòng Các Vấn Đề Trẻ Em Denver cùng DPS và Sở Công Viên và Giải Trí Denver",
+        "precedent": "Các chương trình sau giờ học và thanh thiếu niên của các thành phố Iceland được ghi nhận đã giảm hơn một nửa tình trạng sử dụng chất gây nghiện ở thanh thiếu niên từ năm 1998"
+      }
+    ]
+  },
   "emergency-preparedness": {
     "title": "Ứng Phó Khẩn Cấp & Khả Năng Thích Ứng với Biến Đổi Khí Hậu",
     "summary": "Kế hoạch ứng phó với khói cháy rừng với các khu trú ẩn không khí sạch ở mọi khu dân cư. Kế hoạch hành động ứng phó với nhiệt độ khắc nghiệt với các trung tâm làm mát. Chuẩn bị sẵn sàng ứng phó với lũ lụt và cơ sở hạ tầng thoát nước mưa xanh. Các trung tâm phục hồi cộng đồng. Ứng phó thảm họa công bằng.",
     "keyStats": [
+      {
+        "value": "105F",
+        "label": "nhiệt độ cao kỷ lục mọi thời đại của Denver (tháng 6 năm 2024)",
+        "context": "Nắng nóng giết chết nhiều người Mỹ hơn cả bão, lốc xoáy và lũ lụt cộng lại",
+        "source": "Denver Climate Action Task Force"
+      },
       {
         "value": "$1 to $6",
         "label": "mỗi đô la đầu tư vào công tác chuẩn bị giúp tiết kiệm sáu đô la chi phí ứng phó",
@@ -14,6 +738,32 @@
         "label": "ca tử vong liên quan đến nhiệt độ cao ở Colorado năm 2023",
         "context": "Cư dân có thu nhập thấp, người già, người lao động ngoài trời và người vô gia cư phải chịu ảnh hưởng nặng nề nhất",
         "source": "CO Dept of Public Health and Environment, 2023"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Mở một trung tâm chống chịu có không khí sạch và làm mát ở mỗi khu vực hội đồng",
+        "metric": "Số khu vực hội đồng có trung tâm chống chịu lọc HEPA, dùng năng lượng mặt trời và pin, mở cửa đến 10 giờ tối khi có nắng nóng và khói",
+        "baseline": "Chưa có trung tâm chống chịu cố định (2026)",
+        "target": "11 trung tâm, mỗi khu vực một trung tâm",
+        "owner": "Văn Phòng Quản Lý Khẩn Cấp Denver cùng CASR",
+        "precedent": "Các Trung Tâm Chống Chịu Cộng Đồng của Portland và mạng lưới Resiliency Hub của Baltimore duy trì điện và làm mát khi mất điện"
+      },
+      {
+        "goal": "Ngăn chặn tử vong do nắng nóng",
+        "metric": "Số cư dân Denver tử vong liên quan đến nắng nóng mỗi năm",
+        "baseline": "89 ca tử vong liên quan đến nắng nóng trên toàn tiểu bang (2023); Denver lập kỷ lục 105F (tháng 6 năm 2024)",
+        "target": "Không có ca tử vong do nắng nóng, với việc thăm hỏi 100% cư dân có nguy cơ đã đăng ký khi có cảnh báo nắng nóng",
+        "owner": "DDPHE và Văn Phòng Quản Lý Khẩn Cấp",
+        "precedent": "Kế Hoạch Hành Động Chống Nắng Nóng của Ahmedabad (2013) ước tính đã ngăn ~1,190 ca tử vong mỗi năm"
+      },
+      {
+        "goal": "Đăng ký cho các hộ gia đình nhận cảnh báo khẩn cấp đa ngôn ngữ",
+        "metric": "Số hộ đăng ký nhận thông báo khẩn cấp của Denver bằng ngôn ngữ họ chọn, bao gồm ASL và tin nhắn",
+        "baseline": "Không được báo cáo theo ngôn ngữ (2026)",
+        "target": "150,000 hộ, cân bằng giữa 5 ngôn ngữ phổ biến nhất của thành phố",
+        "owner": "Văn Phòng Quản Lý Khẩn Cấp",
+        "precedent": "Các ủy ban phòng chống thiên tai khu phố và cảnh báo đa ngôn ngữ của Tokyo giúp hầu như mọi hộ gia đình đều sẵn sàng"
       }
     ]
   },
@@ -31,6 +781,32 @@
         "value": "$115-175M",
         "label": "doanh thu lũy tiến mới mỗi năm",
         "context": "Chuyển gánh nặng từ các gia đình lao động sang các tập đoàn và chủ sở hữu bất động sản sang trọng"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giảm sự phụ thuộc của Denver vào thuế bán hàng lũy thoái",
+        "metric": "Thuế bán hàng và sử dụng tính theo tỷ lệ nguồn thu của Quỹ Tổng Quát",
+        "baseline": "~50% nguồn thu của Quỹ Tổng Quát (ngân sách 2026)",
+        "target": "35% nguồn thu của Quỹ Tổng Quát",
+        "owner": "Sở Tài Chính Denver, với sự chấp thuận của cử tri theo TABOR",
+        "precedent": "Thuế chi phí trả lương JumpStart của Seattle đối với các chủ lao động lớn (2020) thu về khoảng $300 triệu mỗi năm"
+      },
+      {
+        "goal": "Xây dựng lại quỹ dự trữ để Denver không bao giờ phải cắt dịch vụ khi kinh tế suy thoái",
+        "metric": "Dự trữ của Quỹ Tổng Quát tính theo tỷ lệ chi tiêu hằng năm",
+        "baseline": "Thâm hụt $200 triệu được bù bằng ~$100 triệu cắt giảm việc làm (ngân sách 2026)",
+        "target": "Dự trữ 17% (hai tháng chi tiêu theo khuyến nghị của GFOA)",
+        "owner": "Sở Tài Chính Denver và Hội Đồng Thành Phố",
+        "precedent": "Tiêu chuẩn thực hành tốt nhất của GFOA là dự trữ hai tháng chi phí hoạt động, được hầu hết các thành phố xếp hạng AAA đáp ứng"
+      },
+      {
+        "goal": "Đưa mọi khoản trợ cấp doanh nghiệp vào cơ sở dữ liệu công khai có thể tìm kiếm",
+        "metric": "Tỷ lệ các khu TIF và thỏa thuận ưu đãi đang hoạt động được công khai kèm kết quả việc làm và tiền lương",
+        "baseline": "Không có công khai hợp nhất (2026)",
+        "target": "Công khai 100%; điều khoản thu hồi trong mọi thỏa thuận mới",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver và Kiểm Toán Viên Denver",
+        "precedent": "Chicago công bố tài chính của mọi khu TIF hằng năm; GASB 77 (2015) yêu cầu công khai các khoản miễn giảm thuế"
       }
     ]
   },
@@ -56,6 +832,88 @@
         "context": "Brazil tuyên bố thực phẩm là quyền vào năm 1993 - chỉ tốn 2% ngân sách thành phố",
         "source": "City of Belo Horizonte"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Đưa một siêu thị đầy đủ hoặc trung tâm thực phẩm cộng đồng đến gần mọi khu dân cư thiếu thực phẩm",
+        "metric": "Số khu dân cư thiếu thực phẩm (Globeville, Elyria-Swansea, Montbello, Westwood, Sun Valley và các khu khác) có siêu thị hoặc trung tâm thực phẩm trong phạm vi 1 dặm với phần lớn cư dân",
+        "baseline": "93% cư dân Globeville không có siêu thị ở gần (DDPHE, 2023)",
+        "target": "Mọi khu dân cư thiếu thực phẩm được xác định đều được phục vụ",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver cùng DDPHE",
+        "precedent": "Chương trình an ninh lương thực của thành phố Belo Horizonte, gồm Nhà Hàng Bình Dân được trợ giá và quầy rau quả giá cố định, đã hoạt động từ năm 1993"
+      },
+      {
+        "goal": "Giảm một nửa tình trạng thiếu an ninh lương thực ở Denver",
+        "metric": "Tỷ lệ cư dân Denver báo cáo thiếu an ninh lương thực",
+        "baseline": "33% cư dân Denver (DDPHE, 2023)",
+        "target": "16% trở xuống",
+        "owner": "DDPHE và Hội Đồng Chính Sách Thực Phẩm Bền Vững Denver",
+        "precedent": "Các chương trình Không Còn Nạn Đói của Brazil đã giảm khoảng 85% tỷ lệ người thiếu an ninh lương thực nghiêm trọng từ năm 2022 đến 2023"
+      },
+      {
+        "goal": "Để mọi chợ nông sản nhân đôi tiền SNAP",
+        "metric": "Số khu vực hội đồng có ít nhất một chợ nông sản nhận SNAP với Double Up Food Bucks",
+        "baseline": "Các chợ tập trung ở ngoài các khu vực thiếu thực phẩm (SFPC, 2025)",
+        "target": "11 trên 11 khu vực",
+        "owner": "DDPHE cùng Nourish Colorado",
+        "precedent": "Double Up Food Bucks của Michigan, mô hình toàn quốc, đã nhân đôi tiền SNAP mua rau quả trên toàn tiểu bang từ năm 2009"
+      }
+    ]
+  },
+  "foster-care-child-welfare": {
+    "title": "Cải Cách Chăm Sóc Nuôi Dưỡng & Phúc Lợi Trẻ Em",
+    "summary": "Không trẻ em nào phải vô gia cư hay vào tù vì đã quá tuổi trong hệ thống nuôi dưỡng. Tài trợ đầy đủ cho người thân chăm sóc với trợ cấp hằng tháng, xây nhà ở chuyển tiếp cho thanh niên rời hệ thống, giới hạn số hồ sơ của nhân viên xã hội để các gia đình được quan tâm thực sự, và cung cấp dịch vụ phù hợp văn hóa giúp trẻ giữ kết nối với cộng đồng của mình.",
+    "keyStats": [
+      {
+        "value": "20-30%",
+        "label": "thanh niên rời hệ thống nuôi dưỡng khi đủ tuổi rơi vào tình trạng vô gia cư",
+        "context": "Từ 22% đến 30% thanh niên rời hệ thống khi đủ tuổi trở nên vô gia cư trong giai đoạn chuyển sang tuổi trưởng thành, so với khoảng 4% dân số chung (2022)",
+        "source": "National Youth in Transition Database analysis, 2022"
+      },
+      {
+        "value": "~30%",
+        "label": "thanh niên từng trong hệ thống nuôi dưỡng bị giam giữ khi mới trưởng thành",
+        "context": "Thanh niên rời hệ thống khi đủ tuổi có nguy cơ bị giam giữ cao hơn nhiều so với bạn đồng trang lứa; những em được giám hộ hoặc nhận nuôi có nguy cơ thấp hơn (2025)",
+        "source": "Prospective NYTD analysis, 2025"
+      },
+      {
+        "value": "10:1",
+        "label": "tỷ lệ hồ sơ trên nhân viên của Colorado, thấp hơn chuẩn CWLA 12-15",
+        "context": "Colorado tài trợ nhân viên xã hội ở mức 10 hồ sơ mỗi người, nhưng số hồ sơ thực tế thường vượt mức được tài trợ (2020)",
+        "source": "Colorado Department of Human Services, 2020"
+      },
+      {
+        "value": "50%",
+        "label": "phần đối ứng liên bang cho dịch vụ người thân chăm sóc và phòng ngừa",
+        "context": "Đạo Luật Dịch Vụ Phòng Ngừa Gia Đình Là Trên Hết cho phép các tiểu bang nhận ít nhất 50% hoàn trả liên bang cho các chương trình hướng dẫn người thân chăm sóc và phòng ngừa dựa trên bằng chứng (2018)",
+        "source": "Family First Prevention Services Act, 2018"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Trả cho người thân chăm sóc bằng với cha mẹ nuôi có giấy phép",
+        "metric": "Trợ cấp hằng tháng cho người thân chăm sóc tính theo tỷ lệ mức trợ cấp nuôi dưỡng có giấy phép",
+        "baseline": "Người thân không có giấy phép chỉ nhận một phần nhỏ mức trợ cấp nuôi dưỡng (Colorado DHS, 2025)",
+        "target": "Ngang bằng 100% cho mọi gia đình người thân chăm sóc ở Denver",
+        "owner": "Sở Dịch Vụ Nhân Sinh Denver",
+        "precedent": "Quy định liên bang năm 2023 cho phép các tiểu bang cấp phép cho người thân theo tiêu chuẩn đơn giản hơn và trả đủ mức trợ cấp nuôi dưỡng; nhiều tiểu bang đã áp dụng vào năm 2024"
+      },
+      {
+        "goal": "Bảo đảm không thanh niên nào rời hệ thống nuôi dưỡng để rồi vô gia cư",
+        "metric": "Tỷ lệ thanh niên Denver rời hệ thống khi đủ tuổi bị vô gia cư trong vòng 2 năm",
+        "baseline": "22-30% trên toàn quốc (Cơ Sở Dữ Liệu Thanh Niên Chuyển Tiếp Quốc Gia, 2024)",
+        "target": "Dưới 5%, với huấn luyện viên chuyển tiếp và kế hoạch nhà ở cho 100% thanh niên",
+        "owner": "Sở Dịch Vụ Nhân Sinh Denver cùng HOST",
+        "precedent": "Phiếu nhà ở Foster Youth to Independence của HUD, được các cơ quan nhà ở trên toàn quốc sử dụng, cung cấp nhà cho thanh niên từng được nuôi dưỡng tới 36 tháng"
+      },
+      {
+        "goal": "Giữ số hồ sơ của nhân viên xã hội bằng hoặc thấp hơn chuẩn quốc gia",
+        "metric": "Tỷ lệ nhân viên xã hội theo dõi lâu dài ở Denver phụ trách hơn 12 trẻ, công bố hằng quý",
+        "baseline": "Không được công bố; tiểu bang tài trợ ~10 hồ sơ mỗi người nhưng các vị trí trống đẩy số hồ sơ thực tế lên cao hơn (2025)",
+        "target": "0% vượt mức trần, với tỷ lệ nghỉ việc hằng năm của nhân viên dưới 20%",
+        "owner": "Sở Dịch Vụ Nhân Sinh Denver",
+        "precedent": "Chuẩn 12-15 trẻ mỗi nhân viên của Liên Đoàn Phúc Lợi Trẻ Em Hoa Kỳ được các tiểu bang như New Jersey đáp ứng theo cải cách có tòa án giám sát"
+      }
     ]
   },
   "gig-worker-protections": {
@@ -77,6 +935,32 @@
         "label": "người lao động nền tảng EU có được quyền của người lao động",
         "context": "Chỉ thị về Công việc Nền tảng của EU (2024) tạo ra sự suy đoán về việc làm trên toàn lục địa",
         "source": "European Commission, 2021"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Bảo đảm lao động nền tảng được trả lương tối thiểu Denver cho toàn bộ thời gian làm việc",
+        "metric": "Tỷ lệ chuyến xe và giao hàng qua ứng dụng được kiểm toán trả ít nhất bằng lương tối thiểu Denver cộng chi phí cho thời gian làm việc và thời gian chờ",
+        "baseline": "Không có mức sàn thu nhập địa phương; chỉ có mức trả tối thiểu cho tài xế TNC của tiểu bang (SB 22-161, 2022)",
+        "target": "95% tuân thủ",
+        "owner": "Denver Labor (Văn Phòng Kiểm Toán)",
+        "precedent": "Sắc Lệnh Trả Công Tối Thiểu cho Lao Động Ứng Dụng của Seattle (2024) và quy định lương tối thiểu cho người giao hàng của NYC (2023) đã nâng thu nhập mỗi giờ"
+      },
+      {
+        "goal": "Chấm dứt việc khóa tài khoản bất công",
+        "metric": "Tỷ lệ khóa tài khoản có lý do bằng văn bản và được quyền kháng nghị độc lập trong vòng 14 ngày",
+        "baseline": "Không có quyền liên quan đến khóa tài khoản (2026)",
+        "target": "100% trường hợp khóa tài khoản",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Sắc Lệnh Quyền Chống Khóa Tài Khoản cho Lao Động Ứng Dụng của Seattle đã có hiệu lực năm 2025"
+      },
+      {
+        "goal": "Tài trợ phúc lợi di động cho lao động nền tảng",
+        "metric": "Số lao động nền tảng ở Denver có tài khoản phúc lợi di động đang hoạt động do các nền tảng đóng góp",
+        "baseline": "0 tài khoản (2026)",
+        "target": "25,000 lao động đăng ký",
+        "owner": "Denver Labor phối hợp với FAMLI của Colorado",
+        "precedent": "Chương trình thí điểm phúc lợi di động của DoorDash ở Pennsylvania (2024) và luật phúc lợi di động năm 2023 của Utah đã tạo ra đóng góp theo giờ"
       }
     ]
   },
@@ -101,7 +985,89 @@
         "source": "Georgetown McCabe Center, 2023"
       }
     ],
-    "petitionTitle": "Yêu cầu Cải cách Hiến chương Denver"
+    "petitionTitle": "Yêu cầu Cải cách Hiến chương Denver",
+    "smartGoals": [
+      {
+        "goal": "Công bố toàn văn mọi hợp đồng của thành phố trên $25,000",
+        "metric": "Tỷ lệ hợp đồng đang hiệu lực trên $25,000 có toàn văn tìm kiếm được trực tuyến theo từ khóa",
+        "baseline": "Chỉ có dữ liệu tóm tắt; toàn văn phải yêu cầu hồ sơ (2026)",
+        "target": "100% được đăng trong vòng 10 ngày sau khi ký",
+        "owner": "Sở Tài Chính Denver, Bộ Phận Mua Sắm",
+        "precedent": "Slovakia đã yêu cầu mọi hợp đồng công phải được công bố trực tuyến trước khi có hiệu lực từ năm 2011"
+      },
+      {
+        "goal": "Ra mắt phiếu dân chủ cho mọi cử tri Denver",
+        "metric": "Số cử tri đã đăng ký dùng ít nhất một phiếu dân chủ",
+        "baseline": "Không có chương trình phiếu; chỉ có đối ứng 9:1 của Quỹ Bầu Cử Công Bằng (2026)",
+        "target": "25,000 cử tri dùng phiếu trong kỳ bầu cử 2031",
+        "owner": "Văn Phòng Thư Ký và Lưu Trữ Hồ Sơ Denver",
+        "precedent": "Chương trình Phiếu Dân Chủ của Seattle đã tăng số nhà tài trợ tranh cử lên khoảng năm lần sau năm 2017"
+      },
+      {
+        "goal": "Đăng mọi cuộc tiếp xúc giữa người vận động hành lang và quan chức thành phố trong vòng 48 giờ",
+        "metric": "Tỷ lệ cuộc tiếp xúc của người vận động hành lang đã đăng ký được công khai trong cơ sở dữ liệu tìm kiếm được trong vòng 48 giờ",
+        "baseline": "Chỉ có đăng ký; các cuộc tiếp xúc không được công khai (2026)",
+        "target": "100% cuộc tiếp xúc",
+        "owner": "Văn Phòng Thư Ký và Lưu Trữ Hồ Sơ Denver cùng Ban Đạo Đức",
+        "precedent": "Chicago và Los Angeles yêu cầu báo cáo hoạt động vận động hành lang hằng quý nêu tên các quan chức được tiếp xúc"
+      }
+    ]
+  },
+  "green-jobs-just-transition": {
+    "title": "Việc Làm Xanh & Chuyển Đổi Công Bằng cho Người Lao Động Denver",
+    "summary": "Tài trợ đào tạo lại cho người lao động ngành nhiên liệu hóa thạch và các ngành nghề, xây dựng chương trình học nghề về năng lượng mặt trời, cách nhiệt nhà ở và giao thông công cộng, và gắn tiêu chuẩn tuyển dụng địa phương và lương hiện hành vào mọi dự án khí hậu dùng tiền công, để quá trình chuyển đổi năng lượng sạch tạo ra việc làm công đoàn tốt cho cư dân Denver.",
+    "keyStats": [
+      {
+        "value": "~64,000",
+        "label": "việc làm năng lượng sạch ở Colorado vào đầu năm 2023",
+        "context": "Ngành này đã tăng thêm 2,700 lao động trong năm trước và tăng trưởng nhanh hơn nền kinh tế chung của tiểu bang - nhưng rất ít việc làm được bảo đảm cho cư dân Denver hoặc người lao động ngành nhiên liệu hóa thạch bị mất việc",
+        "source": "E2, Clean Jobs Colorado, 2023"
+      },
+      {
+        "value": "~3,000",
+        "label": "người Colorado được xác định là lao động chuyển đổi khỏi ngành than",
+        "context": "Khoảng 1,000 thợ mỏ, gần 800 công nhân điện lực và hơn 1,000 lao động chuỗi cung ứng có sinh kế phụ thuộc vào các nhà máy và mỏ than sẽ đóng cửa trong thập kỷ này",
+        "source": "Colorado Office of Just Transition, 2023"
+      },
+      {
+        "value": "2031",
+        "label": "lần đóng cửa theo kế hoạch cuối cùng của điện than Colorado (Comanche Tổ Máy 3)",
+        "context": "Comanche Tổ Máy 1 ngừng năm 2022 và Tổ Máy 2 năm 2025; Tổ Máy 3 ở Pueblo sẽ ngừng hoạt động trước ngày 1 tháng 1 năm 2031, sớm hơn nhiều thập kỷ so với kế hoạch ban đầu",
+        "source": "Colorado Public Utilities Commission, 2025"
+      },
+      {
+        "value": "#1",
+        "label": "nghề tăng nhanh nhất ở Mỹ: kỹ thuật viên điện gió & thợ lắp đặt pin mặt trời",
+        "context": "Kỹ thuật viên bảo dưỡng tua-bin gió (dự kiến tăng ~50%) và thợ lắp đặt quang điện mặt trời đứng đầu dự báo nghề nghiệp liên bang 2024-2034 - khoảng trống chính sách là đường ống đào tạo để lấp các vị trí này",
+        "source": "U.S. Bureau of Labor Statistics, 2025"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Đào tạo cư dân cho nghề nghiệp xanh kèm trợ cấp",
+        "metric": "Số cư dân hoàn thành khóa đào tạo việc làm xanh có trả lương hoặc tiền học nghề kèm hỗ trợ toàn diện",
+        "baseline": "Thành phố chưa có quỹ việc làm xanh riêng (2026)",
+        "target": "2,000 người hoàn thành, ít nhất 50% từ các Khu Công Lý Môi Trường",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver cùng CASR",
+        "precedent": "Văn Phòng Chuyển Đổi Công Bằng của Colorado hỗ trợ ~3,000 lao động chuyển đổi khỏi ngành than bằng thay thế tiền lương và đào tạo"
+      },
+      {
+        "goal": "Lấp đầy việc làm khí hậu thông qua học nghề có đăng ký",
+        "metric": "Số học viên học nghề có đăng ký đang làm các nghề năng lượng mặt trời, điện khí hóa, cách nhiệt và giao thông trong các công trình do thành phố tài trợ",
+        "baseline": "Không được theo dõi cho các dự án của Quỹ Bảo Vệ Khí Hậu (2025)",
+        "target": "15% giờ công trong các dự án khí hậu do thành phố tài trợ do học viên học nghề thực hiện",
+        "owner": "Văn Phòng Kiểm Toán Denver (Denver Labor) và CASR",
+        "precedent": "Tín dụng thuế năng lượng sạch liên bang theo IRA yêu cầu 12.5-15% giờ công do học viên học nghề thực hiện trong các dự án đủ điều kiện"
+      },
+      {
+        "goal": "Tuyển dụng địa phương trong các dự án khí hậu dùng tiền công",
+        "metric": "Tỷ lệ giờ công trong các dự án khí hậu do thành phố tài trợ do cư dân Denver thực hiện",
+        "baseline": "Không có yêu cầu tuyển dụng địa phương (2026)",
+        "target": "40% cư dân Denver, 20% từ các Khu Công Lý Môi Trường",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver",
+        "precedent": "Thỏa Thuận Lao Động Dự Án toàn thành phố của Los Angeles đặt mục tiêu 30% tuyển dụng địa phương cho các công trình công cộng"
+      }
+    ]
   },
   "guaranteed-income": {
     "title": "Thu Nhập Đảm Bảo Denver",
@@ -125,6 +1091,32 @@
         "context": "Việc làm toàn thời gian đã tăng từ 28% lên 40% trong số những người nhận",
         "source": "Stockton Economic Empowerment Demonstration"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Ra mắt chương trình thu nhập bảo đảm cho 2,000 người với đánh giá ngẫu nhiên",
+        "metric": "Số người tham gia nhận $1,000 mỗi tháng",
+        "baseline": "0 người tham gia do thành phố tài trợ; thành phố đã từ chối gia hạn tài trợ cho Denver Basic Income Project năm 2025",
+        "target": "2,000 người ghi danh",
+        "owner": "Văn Phòng Thị Trưởng cùng một đơn vị đánh giá học thuật độc lập",
+        "precedent": "Quận Cook, IL đã biến một chương trình thí điểm $42 triệu thành chương trình thu nhập bảo đảm thường trực vào năm 2024"
+      },
+      {
+        "goal": "Đưa người tham gia đang vô gia cư vào nhà ở",
+        "metric": "Tỷ lệ người tham gia không có nhà khi ghi danh có nhà ở ổn định sau 12 tháng",
+        "baseline": "45% có được nhà ở trong Denver Basic Income Project (2023-2024)",
+        "target": "55% trở lên",
+        "owner": "Văn Phòng Thị Trưởng và HOST",
+        "precedent": "Denver Basic Income Project đã tiết kiệm $589,214 chi phí dịch vụ công trong năm đầu tiên"
+      },
+      {
+        "goal": "Biến thu nhập bảo đảm thành chương trình thường trực",
+        "metric": "Khoản ngân sách định kỳ tài trợ ít nhất 5,000 người tham gia",
+        "baseline": "Không có tài trợ định kỳ (2026)",
+        "target": "Tài trợ thường trực cho 5,000 người tham gia",
+        "owner": "Hội Đồng Thành Phố Denver (ngân sách)",
+        "precedent": "Chương trình thường trực của Quận Cook và Cổ Tức Quỹ Thường Trực của Alaska (từ năm 1982) cho thấy các chương trình tiền mặt có thể duy trì lâu dài"
+      }
     ]
   },
   "healthcare": {
@@ -141,6 +1133,38 @@
         "label": "tiền của thành phố có thể xóa tới $500M nợ",
         "context": "Người mua nợ trả 1-5 xu cho mỗi đô la. Thành phố mua nó và hủy bỏ nó.",
         "source": "Undue Medical Debt program"
+      },
+      {
+        "value": "48th",
+        "label": "thứ hạng của Colorado về khả năng tiếp cận sức khỏe tâm thần",
+        "context": "Thời gian chờ trung bình cho một buổi trị liệu ở Denver là 6-8 tuần",
+        "source": "Mental Health America, 2024"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Xóa nợ y tế cho cư dân Denver",
+        "metric": "Mệnh giá nợ y tế được mua và xóa cho cư dân Denver",
+        "baseline": "Thành phố chưa có chương trình, $0 (2026)",
+        "target": "Xóa $300 triệu",
+        "owner": "Văn Phòng Thị Trưởng cùng Undue Medical Debt (đối tác phi lợi nhuận)",
+        "precedent": "New York City đã cam kết $18 triệu vào năm 2024 để xóa tới $2 tỷ nợ y tế; Quận Cook, IL có chương trình tương tự bằng quỹ ARPA"
+      },
+      {
+        "goal": "Bố trí nhân sự để STAR trả lời mọi cuộc gọi đủ điều kiện, 24 giờ mỗi ngày",
+        "metric": "Tỷ lệ cuộc gọi 911 đủ điều kiện STAR nhận được phản hồi từ STAR",
+        "baseline": "~45-50% trong khoảng 15,000 cuộc gọi đủ điều kiện được trả lời (2024)",
+        "target": "90% cuộc gọi đủ điều kiện, 24/7",
+        "owner": "DDPHE và Denver 911",
+        "precedent": "Albuquerque Community Safety đã trả lời 45,235 cuộc gọi trong năm tài chính 2025, hơn 85% không cần cảnh sát hay cứu hỏa"
+      },
+      {
+        "goal": "Bảo đảm có lịch hẹn sức khỏe hành vi trong vòng hai tuần",
+        "metric": "Số ngày trung vị từ khi yêu cầu đến buổi hẹn ngoại trú đầu tiên về sức khỏe tâm thần hoặc sử dụng chất gây nghiện tại các cơ sở hợp đồng với thành phố",
+        "baseline": "Không được báo cáo; Colorado xếp thứ 48 về khả năng tiếp cận sức khỏe tâm thần (Mental Health America, 2024)",
+        "target": "14 ngày trở xuống cho 90% yêu cầu",
+        "owner": "DDPHE cùng WellPower và Denver Health",
+        "precedent": "Các Phòng Khám Sức Khỏe Hành Vi Cộng Đồng Được Chứng Nhận phải cung cấp dịch vụ trong vòng 10 ngày làm việc theo tiêu chí liên bang"
       }
     ]
   },
@@ -149,22 +1173,48 @@
     "summary": "Cung cấp nhà ở cho mọi người trước, sau đó giải quyết mọi vấn đề khác. Phần Lan đã làm được điều đó và là quốc gia duy nhất trong EU có tình trạng vô gia cư đang giảm. Nó rẻ hơn so với các khu trú ẩn. Nó hoạt động.",
     "keyStats": [
       {
-        "value": "9,065",
-        "label": "người trải qua tình trạng vô gia cư ở khu vực đô thị Denver",
-        "context": "Thống kê Điểm Thời gian năm 2024 cho thấy cuộc khủng hoảng tiếp tục gia tăng",
-        "source": "MDHI Point-in-Time Count, 2024"
+        "value": "6,411",
+        "label": "người vô gia cư ở Denver",
+        "context": "Giảm 12.5% so với năm 2025 khi tình trạng vô gia cư ngoài đường xuống mức thấp nhất trong chín năm - bằng chứng rằng cung cấp nhà ở có hiệu quả, và rằng 6,400 người hàng xóm vẫn cần một mái nhà",
+        "source": "MDHI Point-in-Time Count, January 2026"
       },
       {
         "value": "$40-60K",
-        "label": "chi phí hàng năm cho mỗi người để quản lý tình trạng vô gia cư",
-        "context": "Cách tiếp cận dịch vụ khẩn cấp. Ưu Tiên Nhà Ở có chi phí $15-25 nghìn đô - chưa bằng một nửa.",
+        "label": "chi phí hằng năm mỗi người để quản lý tình trạng vô gia cư",
+        "context": "Cách tiếp cận dịch vụ khẩn cấp. Nhà Ở Trước Tiên chỉ tốn $15-25K - chưa đến một nửa.",
         "source": ""
       },
       {
         "value": "$15-25K",
-        "label": "chi phí hàng năm cho nhà ở hỗ trợ thường xuyên",
-        "context": "Phần Lan đã chứng minh điều này hoạt động trên toàn quốc. Houston đã chứng minh điều này hoạt động ở Hoa Kỳ.",
+        "label": "chi phí hằng năm của nhà ở hỗ trợ lâu dài",
+        "context": "Phần Lan đã chứng minh mô hình này hiệu quả trên toàn quốc. Houston đã chứng minh nó hiệu quả ở Mỹ.",
         "source": ""
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Chấm dứt tình trạng vô gia cư ngoài đường ở Denver",
+        "metric": "Số người được đếm là ngủ ngoài đường ở Denver trong cuộc Kiểm Đếm Thời Điểm hằng năm",
+        "baseline": "1,703 người ngủ ngoài đường (tháng 1 năm 2026)",
+        "target": "Dưới 250 (mức không chức năng đối với vô gia cư ngoài đường)",
+        "owner": "Sở Ổn Định Nhà Ở (HOST)",
+        "precedent": "Houston đã giảm hơn 60% tình trạng vô gia cư kể từ năm 2011 nhờ bố trí nhà ở phối hợp theo mô hình Nhà Ở Trước Tiên"
+      },
+      {
+        "goal": "Giảm một nửa tổng số người vô gia cư ở Denver",
+        "metric": "Tổng số người vô gia cư ở Denver (trong nơi trú ẩn và ngoài đường)",
+        "baseline": "6,411 người (tháng 1 năm 2026), giảm từ 7,327 (2025)",
+        "target": "3,200 người trở xuống",
+        "owner": "Sở Ổn Định Nhà Ở (HOST)",
+        "precedent": "Phần Lan đã giảm khoảng hai phần ba tình trạng vô gia cư dài hạn sau khi áp dụng Nhà Ở Trước Tiên trên toàn quốc năm 2008"
+      },
+      {
+        "goal": "Xây 2,000 căn nhà ở hỗ trợ lâu dài",
+        "metric": "Số căn nhà ở hỗ trợ lâu dài mới mở có dịch vụ tại chỗ",
+        "baseline": "~1,300 căn nhà ở hỗ trợ lâu dài trên toàn thành phố (HOST, 2024)",
+        "target": "2,000 căn được mở, với tỷ lệ giữ nhà sau một năm từ 85% trở lên",
+        "owner": "HOST cùng Cơ Quan Nhà Ở Denver",
+        "precedent": "Trái Phiếu Tác Động Xã Hội về Nhà Ở Hỗ Trợ của chính Denver đã giảm số lần tiếp xúc với cảnh sát, bắt giữ và tạm giam trong một thử nghiệm ngẫu nhiên"
       }
     ]
   },
@@ -190,6 +1240,32 @@
         "context": "Thực thi chủ động tạo ra thu hồi nhiều hơn 5-10 lần so với chờ đợi khiếu nại",
         "source": "NYC Dept. of Consumer and Worker Protection, 2023"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thu hồi tiền lương bị đánh cắp cho người lao động Denver",
+        "metric": "Tiền lương và tiền phạt Denver Labor thu hồi cho người lao động mỗi năm",
+        "baseline": "Denver Labor báo cáo số tiền thu hồi hằng năm; chưa có đơn vị riêng cho lao động nhập cư (2025)",
+        "target": "Gấp đôi tổng số thu hồi năm 2025, với 40% từ xây dựng, nhà hàng và giúp việc gia đình",
+        "owner": "Denver Labor (Văn Phòng Kiểm Toán) cùng một Đơn Vị Bảo Vệ Lao Động Nhập Cư mới",
+        "precedent": "Sở Bảo Vệ Người Tiêu Dùng và Người Lao Động của New York City đã thu hồi hơn $50 triệu cho người lao động chỉ trong một năm"
+      },
+      {
+        "goal": "Trấn áp việc phân loại sai công nhân xây dựng",
+        "metric": "Tỷ lệ công trình xây dựng trên $1 triệu được thành phố cấp phép được kiểm toán về phân loại sai",
+        "baseline": "Ước tính 20-40% công nhân xây dựng ở Colorado bị phân loại sai (Colorado Fiscal Institute, 2022)",
+        "target": "Kiểm toán 10% công trình lớn mỗi năm, công bố kết quả",
+        "owner": "Denver Labor cùng Sở Quy Hoạch và Phát Triển Cộng Đồng (cấp phép)",
+        "precedent": "Tổ công tác thực thi liên ngành về phân loại sai của Massachusetts đã thu hồi hàng chục triệu đô la tiền lương và thuế chưa trả từ năm 2008"
+      },
+      {
+        "goal": "Thành lập tổ công tác chống buôn bán lao động để tìm và giúp đỡ nạn nhân",
+        "metric": "Số nạn nhân buôn bán lao động được xác định và kết nối với dịch vụ cùng trợ giúp pháp lý về thị thực T/U",
+        "baseline": "Denver chưa có tổ công tác chống buôn bán lao động (2026)",
+        "target": "Tổ công tác hoạt động; phục vụ 200 nạn nhân",
+        "owner": "Văn Phòng Biện Lý Quận Denver, Denver Labor và các đối tác cộng đồng",
+        "precedent": "Văn Phòng Thị Trưởng về Buôn Bán Người của Houston (2015) điều phối công tố viên, thanh tra lao động và người bảo vệ nạn nhân trên toàn thành phố"
+      }
     ]
   },
   "immigration-newcomer-reception": {
@@ -207,6 +1283,38 @@
         "label": "người mới đến mà không có hệ thống tại chỗ",
         "context": "Denver đã chứng minh rằng họ có lòng trắc ẩn. Bây giờ nó cần cơ sở hạ tầng.",
         "source": "Denver Human Services, 2024"
+      },
+      {
+        "value": "90%",
+        "label": "người tị nạn ở Canada đạt được khả năng tự lập",
+        "context": "Người tị nạn được chính phủ hỗ trợ đạt độc lập tài chính trong vòng 5 năm",
+        "source": "Immigration, Refugees and Citizenship Canada, 2019"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Mở một Trung Tâm Tiếp Nhận thường trực của Denver có thể mở rộng nhanh",
+        "metric": "Trung tâm tiếp nhận với thủ tục tiếp nhận trong 48 giờ và kế hoạch ứng phó bằng văn bản có thể phục vụ 1,000 người trong 72 giờ",
+        "baseline": "Ứng phó tạm thời: 42,852 người mới đến được phục vụ với chi phí cao điểm $388 mỗi hộ mỗi ngày (2023-2024)",
+        "target": "Trung tâm mở cửa với kế hoạch ứng phó được thông qua",
+        "owner": "Sở Dịch Vụ Nhân Sinh Denver cùng Văn Phòng Quản Lý Khẩn Cấp",
+        "precedent": "Chương Trình Hỗ Trợ Tái Định Cư của Canada vận hành các trung tâm tiếp nhận thường trực có thể mở rộng theo số người đến"
+      },
+      {
+        "goal": "Rút ngắn thời gian chờ giấy phép lao động xuống dưới 90 ngày",
+        "metric": "Số ngày trung vị từ khi đến nơi đến khi nộp và được chấp thuận giấy phép lao động cho người tham gia chương trình đủ điều kiện",
+        "baseline": "Thường hơn 6 tháng (2024)",
+        "target": "Dưới 90 ngày cho người tham gia đủ điều kiện",
+        "owner": "Sở Dịch Vụ Nhân Sinh Denver cùng các đối tác dịch vụ pháp lý",
+        "precedent": "Chương Trình Người Xin Tị Nạn năm 2024 của Denver và Trung Tâm Hỗ Trợ Đơn Tị Nạn của New York đã nộp hàng nghìn đơn xin giấy phép lao động chỉ trong vài tháng"
+      },
+      {
+        "goal": "Thay nơi trú ẩn ở khách sạn bằng nhà ở chuyển tiếp chi phí thấp hơn",
+        "metric": "Chi phí trung bình mỗi người mỗi đêm cho nhà ở của người mới đến",
+        "baseline": "~$150 mỗi người mỗi đêm ở nơi trú ẩn khẩn cấp (2024)",
+        "target": "$50 trở xuống mỗi người mỗi đêm",
+        "owner": "Sở Dịch Vụ Nhân Sinh Denver và HOST",
+        "precedent": "Chương Trình Người Xin Tị Nạn năm 2024 của chính Denver đã giảm chi phí mỗi người bằng cách chuyển các gia đình vào căn hộ thuê kèm hỗ trợ việc làm"
       }
     ]
   },
@@ -215,9 +1323,47 @@
     "summary": "Không hợp tác với ICE. Cấp ID thành phố cho tất cả mọi người. Thành phố tài trợ bảo vệ chống trục xuất. Tiếp cận ngôn ngữ trong mọi dịch vụ. Những người hàng xóm của chúng ta không phải là tội phạm.",
     "keyStats": [
       {
+        "value": "30%+",
+        "label": "dân số Denver là người gốc Latinh",
+        "context": "Các cộng đồng nhập cư của chúng ta không phải chuyện thứ yếu - họ chính là Denver",
+        "source": "U.S. Census Bureau, ACS 2023"
+      },
+      {
         "value": "1.3M+",
         "label": "ID thành phố đã được cấp riêng tại NYC",
         "source": "Báo cáo Thường niên IDNYC"
+      },
+      {
+        "value": "0",
+        "label": "nghĩa vụ để Denver làm thay việc của ICE",
+        "context": "Tòa Án Tối Cao đã xác nhận các thành phố không thể bị buộc thực thi luật di trú liên bang",
+        "source": "Printz v. United States, 1997"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Tài trợ bào chữa chống trục xuất cho tất cả mọi người",
+        "metric": "Tỷ lệ cư dân Denver bị giam giữ trong thủ tục trục xuất có luật sư",
+        "baseline": "Không có chương trình đại diện phổ cập; phần lớn người nhập cư bị giam giữ trên toàn quốc ra tòa mà không có luật sư (Vera Institute, 2024)",
+        "target": "90% có đại diện, tài trợ $5 triệu mỗi năm",
+        "owner": "Văn Phòng Thị Trưởng và Hội Đồng Thành Phố Denver (ngân sách)",
+        "precedent": "Dự Án Đoàn Tụ Gia Đình Người Nhập Cư của New York đã nâng tỷ lệ người bị giam giữ thắng kiện từ ~4% lên ước tính ~48%"
+      },
+      {
+        "goal": "Ra mắt thẻ căn cước thành phố Denver",
+        "metric": "Số thẻ căn cước Denver được cấp",
+        "baseline": "0 (không có chương trình căn cước thành phố, 2026)",
+        "target": "Cấp 50,000 thẻ",
+        "owner": "Văn Phòng Thư Ký và Lưu Trữ Hồ Sơ Denver",
+        "precedent": "IDNYC của New York City đã cấp hơn 1.3 triệu thẻ từ năm 2015"
+      },
+      {
+        "goal": "Cung cấp mọi dịch vụ của thành phố bằng các ngôn ngữ phổ biến nhất ở Denver",
+        "metric": "Tỷ lệ tài liệu thiết yếu của thành phố và dịch vụ 311 có bằng tiếng Tây Ban Nha cùng 5 ngôn ngữ phổ biến khác",
+        "baseline": "Tiếng Tây Ban Nha phổ biến rộng rãi; các ngôn ngữ khác không đồng đều (2026)",
+        "target": "100% tài liệu thiết yếu và 311 bằng 6 ngôn ngữ",
+        "owner": "Cơ Quan Nhân Quyền và Đối Tác Cộng Đồng",
+        "precedent": "Luật Địa Phương 30 của New York City (2017) yêu cầu các cơ quan dịch tài liệu sang 10 ngôn ngữ phổ biến nhất"
       }
     ]
   },
@@ -240,6 +1386,32 @@
         "value": "4:1",
         "label": "lợi nhuận trên mỗi đô la đầu tư",
         "source": "TRIEC, 2021"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Đưa các chuyên gia được đào tạo ở nước ngoài trở lại ngành nghề của mình trong vòng một năm",
+        "metric": "Số tháng trung vị từ đánh giá bằng cấp đến có việc làm đúng ngành cho khách hàng của Văn Phòng Công Nhận Bằng Cấp",
+        "baseline": "Thường hơn 3 năm (2024)",
+        "target": "Dưới 12 tháng",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver cùng DORA Colorado",
+        "precedent": "Ontario đã tài trợ đào tạo chuyển tiếp cho các chuyên gia được đào tạo quốc tế từ năm 2003, đưa hàng nghìn người vào các công việc có giấy phép hành nghề"
+      },
+      {
+        "goal": "Ghi danh các chuyên gia nhập cư vào chương trình đào tạo chuyển tiếp có trả lương",
+        "metric": "Số người hoàn thành đào tạo chuyển tiếp trong ngành điều dưỡng, giảng dạy, kỹ thuật và nghề chuyên môn",
+        "baseline": "Thành phố chưa có chương trình chuyển tiếp (2026)",
+        "target": "1,500 người hoàn thành, 75% có việc làm đúng ngành trong vòng 6 tháng",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver cùng Community College of Denver",
+        "precedent": "Upwardly Global và các Welcome Back Center đã giúp hàng nghìn chuyên gia nhập cư trở lại ngành nghề của mình"
+      },
+      {
+        "goal": "Tài trợ các doanh nghiệp nhỏ do người nhập cư làm chủ",
+        "metric": "Số khoản vay vi mô được cấp qua Quỹ Khởi Nghiệp Người Nhập Cư",
+        "baseline": "0 (không có quỹ riêng, 2026)",
+        "target": "300 khoản vay với tổng số $6 triệu",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver",
+        "precedent": "Sáng Kiến Doanh Nghiệp Người Nhập Cư của New York City (2015) và các bên cho vay phi lợi nhuận như Accion Opportunity Fund tài trợ cho các doanh nghiệp khởi nghiệp của người nhập cư"
       }
     ]
   },
@@ -265,12 +1437,44 @@
         "context": "Sắc lệnh thành phố là hình thức bảo vệ pháp lý LGBTQ+ phổ biến và bền vững nhất",
         "source": "Dự án Thúc đẩy Phong trào, 2025"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Ban hành sắc lệnh nơi trú ẩn cho chăm sóc sức khỏe người chuyển giới",
+        "metric": "Sắc lệnh cấm thành phố hợp tác với các hành động của liên bang hoặc tiểu bang khác nhắm vào chăm sóc khẳng định giới",
+        "baseline": "Chỉ có luật bảo vệ của tiểu bang (SB 23-188, 2023); thành phố chưa có sắc lệnh (2026)",
+        "target": "Sắc lệnh có hiệu lực",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Minneapolis, Austin và các thành phố khác đã thông qua các biện pháp nơi trú ẩn cho người chuyển giới trong giai đoạn 2022-2023"
+      },
+      {
+        "goal": "Tài trợ giường dành riêng cho thanh thiếu niên LGBTQ+ vô gia cư",
+        "metric": "Số giường trú ẩn và chuyển tiếp mang tính khẳng định dành riêng cho thanh thiếu niên LGBTQ+",
+        "baseline": "Không có giường riêng do thành phố tài trợ; thanh thiếu niên LGBTQ+ chiếm tới 40% thanh thiếu niên vô gia cư (True Colors United, 2023)",
+        "target": "50 giường dành riêng",
+        "owner": "HOST cùng các tổ chức phi lợi nhuận phục vụ thanh thiếu niên",
+        "precedent": "Ali Forney Center ở New York đã cung cấp nhà ở cho thanh thiếu niên LGBTQ+ từ năm 2002"
+      },
+      {
+        "goal": "Để mọi cơ sở do thành phố sở hữu đều có nhà vệ sinh cho mọi giới tính",
+        "metric": "Tỷ lệ cơ sở công cộng do thành phố sở hữu có ít nhất một nhà vệ sinh cho mọi giới tính",
+        "baseline": "Chưa được kiểm kê (2026)",
+        "target": "100% cơ sở",
+        "owner": "Sở Dịch Vụ Tổng Hợp Denver",
+        "precedent": "Washington, DC và Philadelphia yêu cầu các nhà vệ sinh một người dùng phải dành cho mọi giới tính"
+      }
     ]
   },
   "living-wage": {
     "title": "Mức Lương Tối Thiểu $25",
     "summary": "Một mức lương đủ sống thực sự cho một thành phố thực sự. $25/giờ là số tiền mà một gia đình bốn người cần để tồn tại ở Denver - và vẫn không đủ cho các bậc cha mẹ đơn thân.",
     "keyStats": [
+      {
+        "value": "$19.29",
+        "label": "mức lương tối thiểu hiện tại của Denver (2026)",
+        "context": "Được quảng bá là tiến bộ, nhưng thấp hơn $6-7/giờ so với mức một gia đình bốn người cần để sống",
+        "source": ""
+      },
       {
         "value": "$25/hr",
         "label": "là những gì một gia đình bốn người thực sự cần",
@@ -282,6 +1486,32 @@
         "label": "mức lương đủ sống cho một cha/mẹ đơn thân có một con",
         "context": "Mức lương tối thiểu hiện tại chỉ trang trải chưa đến một nửa những gì một cha/mẹ đơn thân cần",
         "source": "Máy tính Mức Lương Đủ Sống của MIT, Quận Denver"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Nâng lương tối thiểu của Denver lên $25 vào năm 2029",
+        "metric": "Mức lương tối thiểu toàn thành phố Denver",
+        "baseline": "$19.29/giờ (2026); $19.84/giờ dự kiến cho năm 2027",
+        "target": "$21 (2027), $23 (2028), $25 (2029), sau đó điều chỉnh theo CPI",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Tukwila, WA và một số thành phố California đã vượt $20/giờ vào năm 2026; Seattle đạt $20.76 vào năm 2025"
+      },
+      {
+        "goal": "Thu hẹp khoảng cách giữa lương tối thiểu và lương đủ sống",
+        "metric": "Lương tối thiểu Denver tính theo tỷ lệ lương đủ sống của MIT cho 2 người lớn đi làm với 2 con",
+        "baseline": "~75% ($19.29 so với $25-26 cần thiết, 2026)",
+        "target": "100% trở lên",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Lương Đủ Sống Quốc Gia của Vương Quốc Anh đạt hai phần ba thu nhập trung vị vào năm 2024 mà không có tổn thất việc làm đáng kể nào (Low Pay Commission)"
+      },
+      {
+        "goal": "Thực thi mức lương sàn để người lao động thực sự được trả",
+        "metric": "Số điều tra viên về trộm cắp tiền lương của Denver Labor trên 100,000 người lao động",
+        "baseline": "Thực thi dựa trên khiếu nại (Denver Labor, 2025)",
+        "target": "Nhân sự tăng gấp đôi; kiểm toán chủ động mỗi năm ở 5 ngành vi phạm nhiều nhất",
+        "owner": "Denver Labor (Văn Phòng Kiểm Toán)",
+        "precedent": "Văn Phòng Tiêu Chuẩn Lao Động của Seattle đã tăng nhân sự thực thi song song với lộ trình tăng lương tối thiểu và thu hồi hàng triệu đô la mỗi năm"
       }
     ]
   },
@@ -307,6 +1537,82 @@
         "context": "Hoa Kỳ có tỷ lệ tử vong ở trẻ sơ sinh cao nhất trong số các quốc gia giàu có",
         "source": "CDC WONDER, 2023"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Cung cấp doula cộng đồng cho mọi ca sinh dùng Medicaid ở Denver",
+        "metric": "Tỷ lệ ca sinh dùng Medicaid ở Denver có doula hỗ trợ",
+        "baseline": "Quyền lợi doula của Medicaid ra mắt năm 2024, nhưng ít cơ sở tham gia (HCPF, 2025)",
+        "target": "50% ca sinh dùng Medicaid",
+        "owner": "DDPHE cùng Denver Health",
+        "precedent": "Các chương trình doula của Medicaid ở Minnesota và Oregon đã giảm tỷ lệ sinh mổ và sinh non ở người tham gia"
+      },
+      {
+        "goal": "Thu hẹp chênh lệch giữa người da đen và da trắng về bệnh tật nghiêm trọng ở sản phụ",
+        "metric": "Tỷ số tỷ lệ bệnh tật nghiêm trọng ở sản phụ giữa người da đen và người da trắng ở Denver",
+        "baseline": "Cao hơn 2-3 lần ở sản phụ da đen (Ủy Ban Đánh Giá Tử Vong Mẹ Colorado, 2023)",
+        "target": "Chênh lệch giảm một nửa, báo cáo hằng năm trên bảng thông tin công khai",
+        "owner": "DDPHE (Báo Cáo Công Bằng Sức Khỏe Mẹ & Trẻ Sơ Sinh Hằng Năm)",
+        "precedent": "Tổ Hợp Tác Chất Lượng Chăm Sóc Bà Mẹ của California đã giảm hơn một nửa tỷ lệ tử vong mẹ của tiểu bang từ năm 2006 đến 2013"
+      },
+      {
+        "goal": "Thăm tại nhà mọi gia đình có trẻ sơ sinh sau khi sinh",
+        "metric": "Tỷ lệ ca sinh ở Denver được điều dưỡng hoặc nhân viên y tế cộng đồng đến thăm tại nhà trong vòng 3 tuần",
+        "baseline": "Nurse-Family Partnership chỉ phục vụ cha mẹ lần đầu có thu nhập thấp đủ điều kiện (2025)",
+        "target": "60% tổng số ca sinh",
+        "owner": "DDPHE cùng Nurse-Family Partnership",
+        "precedent": "Chương trình thăm nhà phổ cập Family Connects ở Durham, NC đã giảm 50% số lần trẻ sơ sinh vào phòng cấp cứu trong một thử nghiệm ngẫu nhiên"
+      }
+    ]
+  },
+  "mental-health-crisis-response": {
+    "title": "Ứng Phó Khủng Hoảng Sức Khỏe Tâm Thần: Mở Rộng STAR Toàn Thành Phố",
+    "summary": "Chương trình STAR của Denver chứng minh rằng những người ứng phó sức khỏe tâm thần được đào tạo làm tốt hơn cảnh sát có vũ trang trong các khủng hoảng sức khỏe hành vi - với chi phí thấp hơn, kết quả tốt hơn và không có bạo lực. Hãy tài trợ đầy đủ. Triển khai ở mọi nơi.",
+    "keyStats": [
+      {
+        "value": "24%",
+        "label": "trong số các cuộc gọi 911 ở Denver liên quan đến sức khỏe hành vi, không phải tội phạm",
+        "context": "Gần 1 trong 4 cuộc gọi khẩn cấp điều một sĩ quan có vũ trang đến một tình huống không liên quan đến tội phạm",
+        "source": "Denver 911 call data analysis, Denver Post, 2023"
+      },
+      {
+        "value": "0",
+        "label": "vụ bắt giữ hoặc sử dụng vũ lực trong hơn 2,300 lần ứng phó của chương trình STAR (2020-2022)",
+        "context": "Không một cuộc gọi STAR nào dẫn đến bắt giữ hoặc sử dụng vũ lực trong hai năm đầu của chương trình - trong khi vẫn giải quyết các khủng hoảng mà cảnh sát có thể đã làm leo thang",
+        "source": "Denver STAR Program Evaluation, University of Denver, 2022"
+      },
+      {
+        "value": "$500",
+        "label": "mỗi lần ứng phó của STAR so với hơn $1,000 mỗi lần ứng phó của cảnh sát",
+        "context": "STAR hiệu quả hơn và chỉ tốn một nửa chi phí. Mở rộng chương trình vừa cứu người vừa tiết kiệm tiền",
+        "source": "Denver STAR Program Cost Analysis, 2022"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Vận hành STAR 24/7 ở cả sáu quận cảnh sát",
+        "metric": "Số giờ làm việc của đội STAR mỗi tuần và số quận được phủ sóng suốt ngày đêm",
+        "baseline": "6 giờ sáng - 10 giờ tối với 8 xe; ~một nửa trong 15,000 cuộc gọi đủ điều kiện được trả lời (2024)",
+        "target": "24/7 ở 6 trên 6 quận với ~30 đội",
+        "owner": "DDPHE cùng Denver Health, WellPower và Denver 911",
+        "precedent": "Mô hình CAHOOTS của Eugene đã xử lý ~17% tổng số cuộc gọi an toàn công cộng suốt ngày đêm trong nhiều thập kỷ"
+      },
+      {
+        "goal": "Cử người ứng phó không phải cảnh sát đến các cuộc gọi về sức khỏe hành vi",
+        "metric": "Tỷ lệ cuộc gọi 911 về sức khỏe hành vi (khoảng 24% tổng số cuộc gọi) được xử lý mà không cần cảnh sát",
+        "baseline": "~50% cuộc gọi đủ điều kiện STAR được STAR xử lý (2024)",
+        "target": "85% cuộc gọi đủ điều kiện",
+        "owner": "Denver 911 (tiêu chí điều phối) và DDPHE",
+        "precedent": "Albuquerque Community Safety xử lý hơn 85% trong số 45,000 cuộc gọi hằng năm mà không cần cảnh sát hay cứu hỏa (năm tài chính 2025)"
+      },
+      {
+        "goal": "Mở các trung tâm ổn định khủng hoảng tiếp nhận không cần hẹn trước",
+        "metric": "Số trung tâm ổn định khủng hoảng 24 giờ nhận người tự đến và người do lực lượng ứng cứu đưa đến",
+        "baseline": "Năng lực ứng phó khủng hoảng hạn chế; phòng cấp cứu và nhà tù vẫn là nơi đến mặc định (2025)",
+        "target": "Mở 2 trung tâm với chính sách không từ chối",
+        "owner": "DDPHE cùng Cơ Quan Quản Lý Sức Khỏe Hành Vi Colorado",
+        "precedent": "Các trung tâm của Connections Health Solutions ở Arizona tiếp nhận người do cảnh sát đưa đến trong chưa đầy 10 phút"
+      }
     ]
   },
   "municipal-broadband": {
@@ -328,6 +1634,82 @@
         "label": "cộng đồng Hoa Kỳ đã có băng thông rộng đô thị",
         "context": "Chúng luôn vượt trội hơn các ISP tư nhân về tốc độ, giá cả và độ tin cậy",
         "source": "Viện Tự lực Địa phương, 2025"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thông qua kế hoạch kinh doanh và phương án tài chính cho Denver Fiber",
+        "metric": "Kế hoạch kinh doanh được Hội Đồng phê duyệt với tài trợ bằng trái phiếu doanh thu cho mạng cáp quang do thành phố sở hữu",
+        "baseline": "Cử tri đã cho phép internet băng rộng của thành phố với 85% ủng hộ (Biện Pháp 2J, 2018); đến năm 2026 vẫn chưa xây mạng",
+        "target": "Kế hoạch được thông qua và trái phiếu được phép phát hành",
+        "owner": "Dịch Vụ Công Nghệ Denver cùng Hội Đồng Thành Phố Denver",
+        "precedent": "Cử tri Fort Collins đã chấp thuận Connexion vào năm 2017; mạng cáp quang do thành phố sở hữu hiện đã xây xong khoảng 95%"
+      },
+      {
+        "goal": "Đưa cáp quang của thành phố đến một nửa số địa chỉ ở Denver",
+        "metric": "Tỷ lệ địa chỉ ở Denver có thể dùng dịch vụ Denver Fiber",
+        "baseline": "0% (2026)",
+        "target": "50% địa chỉ, bắt đầu từ các khu dân cư ít được phục vụ nhất; 100% vào năm 2033",
+        "owner": "Denver Fiber (doanh nghiệp của thành phố)",
+        "precedent": "NextLight của Longmont đã phủ toàn thành phố trong khoảng năm năm và cung cấp gigabit với giá khoảng $50 mỗi tháng"
+      },
+      {
+        "goal": "Kết nối miễn phí cho các hộ thu nhập thấp",
+        "metric": "Số hộ có thu nhập bằng hoặc dưới 200% mức nghèo đăng ký gói miễn phí",
+        "baseline": "0; trợ cấp của Chương Trình Kết Nối Giá Phải Chăng liên bang đã kết thúc năm 2024",
+        "target": "20,000 hộ",
+        "owner": "Denver Fiber cùng Thư Viện Công Cộng Denver (hướng dẫn viên kỹ thuật số)",
+        "precedent": "Chương trình HomePlusU của EPB ở Chattanooga đã cung cấp internet gia đình 100 Mbps miễn phí cho hơn 28,000 học sinh thu nhập thấp"
+      }
+    ]
+  },
+  "nuclear-energy": {
+    "title": "Sẵn Sàng Năng Lượng Hạt Nhân - Lò Phản Ứng Mô-đun Nhỏ cho Denver",
+    "summary": "Chuẩn bị để Denver triển khai điện hạt nhân nền ổn định và sạch khi công nghệ SMR trưởng thành. Ủng hộ nghiên cứu khả thi của DIA. Tận dụng HB25-1040 để đưa hạt nhân vào kế hoạch năng lượng sạch. Bảo vệ người trả tiền điện khỏi rủi ro chi phí của dự án đầu tiên. Bổ sung - không thay thế - việc mở rộng năng lượng tái tạo.",
+    "keyStats": [
+      {
+        "value": "320 MW",
+        "label": "từ cụm 4 lò Xe-100 - đủ cho 240,000 hộ gia đình",
+        "context": "Denver có ~320,000 hộ. Một cụm SMR 4 lò có thể cung cấp 75% điện nền cho khu dân cư.",
+        "source": "X-energy Xe-100 specifications, 80 MW per module"
+      },
+      {
+        "value": "93%+",
+        "label": "hệ số công suất - hạt nhân so với 35% gió, 25% mặt trời",
+        "context": "Hạt nhân chạy 24/7. Điện gió và mặt trời ở Colorado chỉ phát điện khoảng một phần tư đến một phần ba thời gian.",
+        "source": "EIA Electric Power Monthly, 2024"
+      },
+      {
+        "value": "5.8 GW",
+        "label": "nhu cầu điện của trung tâm dữ liệu đang chờ trên lưới điện Xcel",
+        "context": "Gần bằng toàn bộ công suất hiện có 6.2 GW của Xcel tại Colorado. Nhu cầu này cần điện ổn định 24/7 mà riêng năng lượng tái tạo không liên tục không thể đáp ứng.",
+        "source": "Colorado Sun, 2025"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Hoàn thành nghiên cứu độc lập về Sẵn Sàng Năng Lượng Hạt Nhân của Denver",
+        "metric": "Nghiên cứu được công bố bao gồm địa điểm, tích hợp lưới điện, nguồn cung HALEU, chuẩn chi phí và sự đồng thuận của cộng đồng",
+        "baseline": "Thành phố chưa có nghiên cứu; nghiên cứu khả thi SMR trị giá $1.25 triệu của DIA đang tạm dừng (2025)",
+        "target": "Nghiên cứu được công bố với các buổi điều trần công khai ở mọi khu vực hội đồng",
+        "owner": "Văn Phòng Hành Động Khí Hậu, Bền Vững và Khả Năng Chống Chịu (CASR)",
+        "precedent": "Dự án Xe-100 của Dow ở Seadrift, TX và SMR Clinch River của TVA đều hoàn thành nghiên cứu địa điểm và chi phí trước khi quyết định xây dựng"
+      },
+      {
+        "goal": "Chốt các biện pháp bảo vệ người trả tiền điện trước bất kỳ cam kết hạt nhân nào",
+        "metric": "Sắc lệnh của Hội Đồng yêu cầu hợp đồng mua điện giá cố định, điểm dừng theo từng mốc và thẩm định chi phí độc lập",
+        "baseline": "Không có chính sách; NuScale-UAMPS bị hủy năm 2023 sau khi chi phí tăng từ $5.3 tỷ lên $9.3 tỷ",
+        "target": "Sắc lệnh được thông qua",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Hợp đồng SMR Darlington của Ontario dùng phê duyệt theo giai đoạn và báo cáo chi phí công khai ở mỗi mốc"
+      },
+      {
+        "goal": "Tăng điện ổn định, không phát thải trong cơ cấu điện của Denver",
+        "metric": "Tỷ lệ điện của Denver từ nguồn ổn định không phát thải (hạt nhân, thủy điện, địa nhiệt, lưu trữ dài hạn)",
+        "baseline": "Colorado sản xuất 46% điện từ khí đốt tự nhiên (EIA, 2023)",
+        "target": "25% điện ổn định không phát thải vào năm 2035, trên lộ trình đạt 50% vào năm 2040",
+        "owner": "CASR, thông qua hợp đồng nhượng quyền Xcel và hợp đồng mua điện",
+        "precedent": "Ontario lấy ~60% điện từ hạt nhân và đã loại bỏ hoàn toàn điện than vào năm 2014"
       }
     ]
   },
@@ -352,6 +1734,32 @@
         "context": "Tập trung ở các nhà hàng, quán bar, khách sạn và dịch vụ cá nhân",
         "source": "BLS, 2023"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giành quyền từ tiểu bang để Denver chấm dứt khấu trừ tiền boa",
+        "metric": "Luật tiểu bang cho phép chính quyền địa phương bỏ hoặc giảm khoản khấu trừ tiền boa $3.02",
+        "baseline": "Luật tiểu bang yêu cầu lương tối thiểu địa phương phải cho phép khấu trừ tiền boa $3.02 (2026)",
+        "target": "Dự luật được ký",
+        "owner": "Quốc Hội Tiểu Bang Colorado (phái đoàn Denver)",
+        "precedent": "California, Washington, Oregon, Nevada, Minnesota, Montana và Alaska trả đủ lương tối thiểu cho người lao động nhận tiền boa; Chicago đang loại bỏ dần khoản khấu trừ tiền boa"
+      },
+      {
+        "goal": "Trả lương tối thiểu đầy đủ của Denver cho người lao động nhận tiền boa",
+        "metric": "Lương tối thiểu cho người nhận tiền boa ở Denver tính theo tỷ lệ lương tối thiểu đầy đủ",
+        "baseline": "$16.27 trên $19.29 (84%, 2026)",
+        "target": "100%",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Sắc lệnh One Fair Wage của Chicago (2023) loại bỏ dần khoản khấu trừ tiền boa trước tháng 7 năm 2028"
+      },
+      {
+        "goal": "Chấm dứt việc lấy cắp tiền boa và phí dịch vụ gây hiểu lầm",
+        "metric": "Số khiếu nại về lấy cắp tiền boa và phí dịch vụ được giải quyết kèm bồi hoàn trong vòng 90 ngày",
+        "baseline": "Không được báo cáo riêng (Denver Labor, 2025)",
+        "target": "90% được giải quyết trong 90 ngày, báo cáo hằng năm",
+        "owner": "Denver Labor (Văn Phòng Kiểm Toán)",
+        "precedent": "Quy định Lương Ngành Khách Sạn - Nhà Hàng của New York yêu cầu nhà hàng công khai rằng phí dịch vụ không trả cho người lao động thì không phải tiền boa"
+      }
     ]
   },
   "paid-leave": {
@@ -367,6 +1775,38 @@
         "value": "1 in 4",
         "label": "người lao động Hoa Kỳ không có ngày nghỉ phép có lương",
         "context": "Người châu Âu được nghỉ 20-30 ngày; một phần tư người Mỹ không được gì"
+      },
+      {
+        "value": "10% to 90%",
+        "label": "số ông bố nghỉ phép sau khi Thụy Điển áp dụng hạn mức dành riêng cho bố",
+        "context": "Kỳ nghỉ dành riêng không chuyển nhượng được đã thay đổi hoàn toàn việc ai nghỉ phép cha mẹ",
+        "source": "Swedish Social Insurance Agency, 2023"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Biến Thành Phố Denver thành nhà tuyển dụng mẫu mực với 26 tuần nghỉ phép cha mẹ có lương",
+        "metric": "Số tuần nghỉ phép cha mẹ hưởng đủ lương cho nhân viên Thành Phố và Quận Denver",
+        "baseline": "Chế độ nghỉ của thành phố cộng thêm vào 12 tuần FAMLI của tiểu bang (2026)",
+        "target": "26 tuần, với 8 tuần dành riêng cho mỗi phụ huynh",
+        "owner": "Văn Phòng Nhân Sự và Hội Đồng Thành Phố Denver",
+        "precedent": "Thụy Điển dành riêng 90 ngày cho mỗi phụ huynh; các ông bố hiện dùng khoảng 30% tổng số ngày nghỉ phép cha mẹ"
+      },
+      {
+        "goal": "Bảo đảm nghỉ phép có lương cho mọi người lao động ở Denver",
+        "metric": "Số ngày nghỉ phép có lương tối thiểu theo sắc lệnh của Denver",
+        "baseline": "0 ngày được yêu cầu; khoảng 1 trong 4 người lao động Mỹ không có ngày nghỉ phép có lương (BLS, 2024)",
+        "target": "10 ngày vào năm 2029, tăng lên 20 ngày vào năm 2032",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Mọi quốc gia EU đều bảo đảm ít nhất 20 ngày nghỉ phép năm có lương; Maine, Nevada và Illinois yêu cầu nghỉ có lương vì bất kỳ lý do gì"
+      },
+      {
+        "goal": "Giúp người lao động lương thấp thực sự sử dụng FAMLI",
+        "metric": "Số yêu cầu FAMLI trên 1,000 người lao động được bảo hiểm ở Denver có thu nhập dưới $50,000",
+        "baseline": "Mức sử dụng thấp hơn ở người lao động lương thấp và nói tiếng Tây Ban Nha (báo cáo thường niên của Bộ Phận FAMLI, 2025)",
+        "target": "Mức sử dụng ngang bằng với người lao động lương cao hơn",
+        "owner": "Denver Labor cùng Bộ Phận FAMLI Colorado",
+        "precedent": "Các khoản tài trợ tiếp cận cộng đồng của New Jersey và California đã tăng số yêu cầu nghỉ có lương ở người lao động lương thấp và nhập cư"
       }
     ]
   },
@@ -392,6 +1832,32 @@
         "context": "Truy cập trung tâm giải trí miễn phí và lập trình thanh niên tốn một phần nhỏ chi phí đó",
         "source": "Bộ phận Dịch vụ Thanh niên Colorado"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Đưa một công viên chất lượng đến trong vòng 10 phút đi bộ của mọi cư dân",
+        "metric": "Tỷ lệ cư dân Denver sống trong vòng 10 phút đi bộ đến công viên",
+        "baseline": "97% (Trust for Public Land ParkScore, 2025)",
+        "target": "100%, ưu tiên các khu dân cư cần thiết trước",
+        "owner": "Sở Công Viên và Giải Trí Denver",
+        "precedent": "Minneapolis và Washington, DC báo cáo 98-99% cư dân sống trong vòng 10 phút đi bộ (ParkScore, 2025)"
+      },
+      {
+        "goal": "Thu hẹp khoảng cách diện tích công viên ở các khu thu nhập thấp",
+        "metric": "Số mẫu Anh công viên trên 1,000 cư dân ở các khu thu nhập thấp so với mức trung bình toàn thành phố",
+        "baseline": "Ít hơn 24% diện tích công viên mỗi người so với trung bình (ParkScore, 2025)",
+        "target": "Khoảng cách giảm xuống 10% hoặc ít hơn nhờ trái phiếu công bằng công viên $50 triệu",
+        "owner": "Sở Công Viên và Giải Trí Denver",
+        "precedent": "Biện Pháp A của Los Angeles (2016) hướng tài trợ công viên đến các cộng đồng có nhu cầu cao dựa trên chỉ số nhu cầu công viên"
+      },
+      {
+        "goal": "Miễn phí các trung tâm giải trí cho thanh thiếu niên và người cao tuổi",
+        "metric": "Số thanh thiếu niên dưới 18 tuổi và người cao tuổi từ 65 tuổi có thẻ hội viên giải trí miễn phí đang hoạt động",
+        "baseline": "Truy cập miễn phí cho thanh thiếu niên qua MY Denver cần đăng ký; thẻ hội viên người lớn tốn $190-369 (2025)",
+        "target": "60,000 thanh thiếu niên và 25,000 người cao tuổi đăng ký",
+        "owner": "Sở Công Viên và Giải Trí Denver",
+        "precedent": "Quận Công Viên Chicago và Toronto cung cấp chương trình miễn phí hoặc gần như miễn phí cho thanh thiếu niên và người cao tuổi trên toàn hệ thống"
+      }
     ]
   },
   "participatory-budgeting": {
@@ -409,6 +1875,32 @@
         "label": "các thành phố trên toàn thế giới sử dụng lập ngân sách có sự tham gia",
         "context": "Tiên phong ở Brazil năm 1989 - tỷ lệ tử vong ở trẻ sơ sinh giảm 50% ở Porto Alegre",
         "source": "Sintomer et al., 2012"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Tổ chức chu kỳ ngân sách có sự tham gia đầu tiên trên toàn thành phố Denver",
+        "metric": "Tỷ lệ ngân sách vốn hằng năm được phân bổ bằng lá phiếu của cư dân",
+        "baseline": "0% (2026)",
+        "target": "3% trong chu kỳ đầu, tăng lên 10% vào năm 2031",
+        "owner": "Văn Phòng Thị Trưởng và Hội Đồng Thành Phố Denver (ngân sách)",
+        "precedent": "Paris phân bổ khoảng 5% ngân sách đầu tư (~€100 triệu mỗi năm) thông qua ngân sách có sự tham gia"
+      },
+      {
+        "goal": "Đưa thêm tiếng nói mới vào các quyết định của thành phố",
+        "metric": "Số cư dân từ 14 tuổi bỏ phiếu trong chu kỳ ngân sách có sự tham gia",
+        "baseline": "62% cử tri đã đăng ký không đi bầu trong kỳ bầu cử thành phố năm 2023",
+        "target": "50,000 người tham gia, với tỷ lệ ở các khu thu nhập thấp bằng hoặc cao hơn mức toàn thành phố",
+        "owner": "Văn Phòng Thị Trưởng về Công Bằng Xã Hội và Đổi Mới",
+        "precedent": "The People's Money của New York City đã thu hút hơn 100,000 người tham gia trong chu kỳ toàn thành phố đầu tiên (2022-2023)"
+      },
+      {
+        "goal": "Triệu tập hội đồng công dân đầu tiên của Denver",
+        "metric": "Hội đồng được chọn ngẫu nhiên, đại diện cho nhân khẩu học, với yêu cầu Hội Đồng Thành Phố phải phản hồi",
+        "baseline": "Chưa tổ chức lần nào (2026)",
+        "target": "Hoàn thành hội đồng đầu tiên về khả năng chi trả nhà ở",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Các Hội Đồng Công Dân của Ireland đã dẫn đến các cuộc trưng cầu dân ý năm 2015 và 2018; Ostbelgien đã biến hội đồng công dân thành thường trực vào năm 2019"
       }
     ]
   },
@@ -433,6 +1925,32 @@
         "context": "Các khu dân cư ít có khả năng có vỉa hè nhất lại có tỷ lệ tử vong cao nhất",
         "source": "Denver Streets Partnership, 2022"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Xây mọi đoạn vỉa hè còn thiếu trên đường đến trường và hành lang giao thông công cộng",
+        "metric": "Số dặm vỉa hè còn thiếu trong phạm vi 1/4 dặm quanh trường học và tuyến giao thông tần suất cao",
+        "baseline": "Thiếu 153 dặm trên toàn thành phố; 54% trạm giao thông đông khách có lối tiếp cận kém (Báo Cáo Tình Trạng Hệ Thống, tháng 1 năm 2026)",
+        "target": "Không còn đoạn thiếu nào trên đường đến trường và hành lang giao thông",
+        "owner": "Quỹ Vỉa Hè của DOTI",
+        "precedent": "Hoboken, NJ đã trải qua chín năm không có ca tử vong giao thông nào sau khi giải phóng tầm nhìn tại giao lộ và nới rộng lề đường khắp thành phố"
+      },
+      {
+        "goal": "Giảm ít nhất một nửa số người đi bộ tử vong",
+        "metric": "Số người đi bộ thiệt mạng trên đường phố Denver mỗi năm",
+        "baseline": "35 người đi bộ tử vong trong tổng số 93 ca tử vong giao thông (2025)",
+        "target": "17 người trở xuống",
+        "owner": "DOTI (Tầm Nhìn Không)",
+        "precedent": "Oslo và Helsinki đều ghi nhận không có người đi bộ nào tử vong năm 2019 sau khi giảm tốc độ và thiết kế lại đường phố"
+      },
+      {
+        "goal": "Thay phí vỉa hè cố định bằng phí lũy tiến",
+        "metric": "Tỷ lệ hộ có thu nhập dưới 60% AMI tự động được hoàn phí",
+        "baseline": "Phí cố định $150; hoàn phí phải nộp đơn (2025)",
+        "target": "Thông qua phí theo bậc; 90% hộ đủ điều kiện được hoàn phí tự động",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Chương trình Hoãn Thuế Tài Sản của Colorado và khoản giảm NEST của chính Denver cho thấy việc giảm theo thu nhập có thể tự động hóa qua dữ liệu thẩm định"
+      }
     ]
   },
   "power-reliability": {
@@ -455,6 +1973,32 @@
         "value": "30-40%",
         "label": "giá thấp hơn tại các tiện ích công cộng (SMUD)",
         "source": "Hiệp Hội Năng Lượng Công Cộng Hoa Kỳ, 2024"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giảm hai phần ba thời gian mất điện trung bình của khách hàng Denver",
+        "metric": "Số phút mất điện trung bình mỗi khách hàng mỗi năm (SAIDI, gồm cả sự kiện lớn)",
+        "baseline": "352 phút (2024), tăng từ ~100 (2023)",
+        "target": "Dưới 120 phút",
+        "owner": "Xcel Energy, thực thi qua hợp đồng nhượng quyền và PUC",
+        "precedent": "Longmont Power & Communications và Fort Collins Utilities thường xuyên báo cáo thời gian mất điện thấp hơn nhiều so với Xcel (2024)"
+      },
+      {
+        "goal": "Bảo vệ mọi hộ gia đình dễ tổn thương về y tế khỏi mất điện",
+        "metric": "Số hộ đã đăng ký phụ thuộc vào thiết bị y tế chạy điện có pin dự phòng và được báo trước 72 giờ khi cắt điện",
+        "baseline": "Không có sổ đăng ký của thành phố; 55,000 khách hàng bị cắt điện gần như không được báo trước trong đợt cắt điện tháng 4 năm 2024",
+        "target": "100% hộ đã đăng ký được trang bị",
+        "owner": "Văn Phòng Quản Lý Khẩn Cấp cùng Denver Health",
+        "precedent": "Các chương trình Medical Baseline của các công ty điện California báo trước khi cắt điện phòng cháy và cung cấp pin dự phòng cho khách hàng đã đăng ký"
+      },
+      {
+        "goal": "Quyết định tương lai năng lượng của Denver bằng nghiên cứu khả thi về năng lượng của thành phố",
+        "metric": "Nghiên cứu được công bố so sánh gia hạn nhượng quyền, tổng hợp lựa chọn cộng đồng và công hữu hóa",
+        "baseline": "Hợp đồng nhượng quyền 20 năm với Xcel nằm trên lá phiếu ngày 3 tháng 11 năm 2026; chưa có nghiên cứu độc lập về các phương án thay thế",
+        "target": "Nghiên cứu được công bố",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "SMUD của Sacramento và các công ty điện công của chính Colorado ở Longmont, Fort Collins và Colorado Springs có giá điện thấp hơn nhờ sở hữu công"
       }
     ]
   },
@@ -480,6 +2024,32 @@
         "context": "Tạo ra hơn 11 tỷ đô la hàng hóa và dịch vụ hàng năm. Mức lương trung bình: $0,13-$0,52/giờ. Một ngành công nghiệp trị giá 11 tỷ đô la được xây dựng dựa trên lao động bị giam cầm.",
         "source": "ACLU, Báo Cáo Lao Động Bị Giam Cầm, 2022"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Chấm dứt lao động cưỡng ép trong các nhà tù Colorado và nhà giam Denver",
+        "metric": "Số biện pháp kỷ luật được ghi nhận vì từ chối nhận việc (CDOC và Sở Cảnh Sát Trưởng Denver)",
+        "baseline": "Tòa Án Quận Denver phán quyết các hoạt động của CDOC là cưỡng bức lao động vi hiến (Mortis v. Polis, tháng 2 năm 2026)",
+        "target": "Không có hình phạt nào vì từ chối làm việc, được một giám sát viên độc lập xác minh",
+        "owner": "Sở Cải Huấn Colorado và Sở Cảnh Sát Trưởng Denver",
+        "precedent": "Quy Tắc Nhà Tù Châu Âu (2006) yêu cầu trả công công bằng cho lao động trong tù và coi học tập là lựa chọn thay thế cho lao động"
+      },
+      {
+        "goal": "Trả lương tối thiểu tiểu bang cho người lao động đang bị giam giữ",
+        "metric": "Mức lương cơ bản mỗi giờ cho người lao động bị giam giữ trong các chương trình của CDOC",
+        "baseline": "$0.33-$1.61 mỗi giờ so với mức tối thiểu $15.16 của tiểu bang (2026)",
+        "target": "Lương tối thiểu tiểu bang, với khấu trừ tiền ăn ở tối đa 25%",
+        "owner": "Quốc Hội Tiểu Bang Colorado",
+        "precedent": "Các chương trình PIECP liên bang (Nâng Cao Công Nghiệp Nhà Tù) đã trả lương hiện hành ở hàng chục tiểu bang"
+      },
+      {
+        "goal": "Cho mọi người ra tù về Denver có tiền tiết kiệm, giấy tờ tùy thân và nhà ở",
+        "metric": "Tỷ lệ người được thả về Denver có căn cước tiểu bang, tài khoản tiết kiệm và chỗ ở ngay ngày đầu tiên",
+        "baseline": "Không được theo dõi (2026)",
+        "target": "90% số người được thả",
+        "owner": "Sở An Toàn Công Cộng Denver (Tái Hòa Nhập) cùng HOST",
+        "precedent": "Những người trở về cộng đồng có nhà ở trong vòng 30 ngày ít có khả năng tái phạm hơn khoảng 50% (Council of State Governments)"
+      }
     ]
   },
   "public-banking": {
@@ -503,6 +2073,32 @@
         "label": "ngân hàng tiết kiệm công ở riêng Đức",
         "context": "Phục vụ 50 triệu khách hàng - ngân hàng công là bình thường trên toàn thế giới",
         "source": "Hiệp Hội Sparkassen Đức"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Hoàn thành nghiên cứu khả thi và kế hoạch kinh doanh cho Ngân Hàng Denver",
+        "metric": "Nghiên cứu độc lập về nguồn vốn, lộ trình cấp phép, cơ sở tiền gửi và kế hoạch cho vay",
+        "baseline": "Chưa có nghiên cứu; tiền gửi của thành phố nằm ở ngân hàng thương mại với các điều khoản không công khai (2026)",
+        "target": "Nghiên cứu được công bố và Hội Đồng đã biểu quyết",
+        "owner": "Sở Tài Chính Denver",
+        "precedent": "Los Angeles và San Francisco đã hoàn thành nghiên cứu khả thi ngân hàng công sau luật AB 857 của California (2019); Philadelphia thành lập Doanh Nghiệp Tài Chính Công năm 2023"
+      },
+      {
+        "goal": "Ra mắt Ngân Hàng Denver",
+        "metric": "Tiền gửi hoạt động của thành phố tại Ngân Hàng Denver",
+        "baseline": "$0 (2026)",
+        "target": "Có giấy phép; chuyển 25% tiền gửi hoạt động của thành phố",
+        "owner": "Cử tri Denver (sửa đổi hiến chương) và Sở Tài Chính",
+        "precedent": "Ngân Hàng North Dakota hoạt động từ năm 1919 và đã đóng góp hơn $1 tỷ cho quỹ chung của tiểu bang"
+      },
+      {
+        "goal": "Cấp vốn cho nhà ở giá phải chăng và doanh nghiệp nhỏ với lãi suất dưới thị trường",
+        "metric": "Các khoản vay tham gia hoặc khởi tạo cho nhà ở giá phải chăng, quỹ đất cộng đồng, hợp tác xã và doanh nghiệp nhỏ",
+        "baseline": "$0 (2026)",
+        "target": "$250 triệu cho vay tích lũy, 40% ở các khu chưa được phục vụ đầy đủ",
+        "owner": "Ngân Hàng Denver",
+        "precedent": "Hơn 350 ngân hàng tiết kiệm công Sparkassen của Đức là trụ cột cho vay doanh nghiệp nhỏ"
       }
     ]
   },
@@ -528,7 +2124,83 @@
         "source": "Oakland Ceasefire; Đánh giá VRU của Glasgow"
       }
     ],
-    "petitionTitle": "Tắt Camera Giám Sát Flock"
+    "petitionTitle": "Tắt Camera Giám Sát Flock",
+    "smartGoals": [
+      {
+        "goal": "Giữ số vụ giết người ở mức thấp lịch sử",
+        "metric": "Số vụ giết người ở Denver mỗi năm",
+        "baseline": "37 vụ (2025), giảm 48% so với 70 vụ (2024)",
+        "target": "35 vụ trở xuống mỗi năm, với số vụ nổ súng không gây tử vong giảm thêm 25%",
+        "owner": "Sở An Toàn Công Cộng Denver, bao gồm can thiệp bạo lực cộng đồng",
+        "precedent": "Chương trình Ceasefire của Oakland và các chương trình theo mô hình Cure Violence đã giảm 30-50% số vụ nổ súng ở các khu vực mục tiêu"
+      },
+      {
+        "goal": "Chuyển người từ bị bắt sang được hỗ trợ qua LEAD trên toàn thành phố",
+        "metric": "Số trường hợp LEAD chuyển hướng từ bắt giữ sang quản lý hồ sơ mỗi năm",
+        "baseline": "Thí điểm ở 3 trên 6 quận cảnh sát (2025)",
+        "target": "Hơn 2,000 trường hợp chuyển hướng mỗi năm ở cả 6 quận",
+        "owner": "Sở Cảnh Sát Denver cùng Biện Lý Quận Denver",
+        "precedent": "Người tham gia LEAD ở Seattle có khả năng bị bắt thấp hơn 58-60% so với nhóm đối chứng"
+      },
+      {
+        "goal": "Trao cho cơ quan giám sát dân sự quyền điều tra thực sự",
+        "metric": "Ban dân sự độc lập có quyền triệu tập và khuyến nghị kỷ luật có tính ràng buộc",
+        "baseline": "Văn Phòng Giám Sát Độc Lập không thể tự điều tra hoặc kỷ luật (2026)",
+        "target": "Ban được thành lập và hoạt động",
+        "owner": "Cử tri Denver (sửa đổi hiến chương) và Hội Đồng Thành Phố Denver",
+        "precedent": "Văn Phòng Dân Sự Giám Sát Trách Nhiệm Cảnh Sát của Chicago và Ủy Ban Cảnh Sát Oakland có thẩm quyền điều tra độc lập"
+      }
+    ]
+  },
+  "ranked-choice-voting": {
+    "title": "Bỏ Phiếu Xếp Hạng Lựa Chọn & Cải Cách Bầu Cử",
+    "summary": "Thay các cuộc bầu cử vòng hai tốn kém, ít người đi bầu của Denver bằng bỏ phiếu xếp hạng lựa chọn để mọi cử tri có thể ủng hộ lựa chọn thật sự đầu tiên của mình mà không lãng phí lá phiếu. Chấm dứt hiệu ứng chia phiếu. Bầu ra những lãnh đạo được ủng hộ rộng rãi.",
+    "keyStats": [
+      {
+        "value": "$2M+",
+        "label": "chi phí bầu cử vòng hai của Denver mỗi chu kỳ",
+        "context": "Vòng hai đòi hỏi vận hành lại toàn bộ bộ máy bầu cử vài tuần sau vòng đầu, với đầy đủ chi phí - cho một cuộc bầu cử thường cho ra cùng một kết quả",
+        "source": "Denver Elections Division, 2023"
+      },
+      {
+        "value": "15%",
+        "label": "tỷ lệ đi bầu thông thường trong vòng hai ở Denver",
+        "context": "Khi tỷ lệ đi bầu sụt giảm ở vòng hai, một thiểu số nhỏ nhưng rất quyết tâm sẽ định ai thắng - thường là ứng viên được tiền có tổ chức ưa chuộng",
+        "source": "Denver Elections Division historical data"
+      },
+      {
+        "value": "50+",
+        "label": "thành phố và tiểu bang Mỹ dùng bỏ phiếu xếp hạng lựa chọn tính đến năm 2025",
+        "context": "New York City, Alaska, Maine, San Francisco, Minneapolis và hàng chục nơi khác đã áp dụng hình thức này với mức hài lòng cao của cử tri",
+        "source": "FairVote, 2025"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Đưa bỏ phiếu xếp hạng lựa chọn ra cho cử tri Denver quyết định",
+        "metric": "Sửa đổi hiến chương về bỏ phiếu xếp hạng lựa chọn được đưa lên lá phiếu",
+        "baseline": "Hội Đồng đã bác việc đưa ra lá phiếu vào tháng 8 năm 2025; luật tiểu bang HB24-1190 đã cho phép",
+        "target": "Có mặt trên lá phiếu tháng 11 năm 2027 (do Hội Đồng đưa ra hoặc qua kiến nghị của công dân)",
+        "owner": "Hội Đồng Thành Phố Denver hoặc một sáng kiến công dân",
+        "precedent": "Boulder đã áp dụng bỏ phiếu xếp hạng cho chức thị trưởng qua cử tri phê chuẩn năm 2021 và sử dụng năm 2023"
+      },
+      {
+        "goal": "Thay vòng hai ít người đi bầu bằng vòng hai tức thì",
+        "metric": "Số cuộc bầu cử vòng hai riêng được tổ chức",
+        "baseline": "Vòng hai tháng 6 tốn hơn $2 triệu mỗi chu kỳ với tỷ lệ đi bầu thấp hơn nhiều so với vòng đầu (2023)",
+        "target": "Không còn vòng hai; mọi cuộc đua của thành phố năm 2031 được quyết định bằng bỏ phiếu xếp hạng",
+        "owner": "Phòng Bầu Cử Denver",
+        "precedent": "Các cuộc bầu cử sơ bộ năm 2021 và 2025 của New York City dùng bỏ phiếu xếp hạng, với đa số cử tri xếp hạng nhiều ứng viên"
+      },
+      {
+        "goal": "Nâng tỷ lệ đi bầu trong các kỳ bầu cử thành phố",
+        "metric": "Tỷ lệ cử tri đã đăng ký đang hoạt động đi bầu trong kỳ bầu cử thành phố tháng 5",
+        "baseline": "~38% (bầu cử thành phố 2023)",
+        "target": "50% trở lên",
+        "owner": "Phòng Bầu Cử Denver",
+        "precedent": "Các thành phố California chuyển bầu cử sang cùng chu kỳ với bầu cử lớn theo SB 415 (2015) đã chứng kiến tỷ lệ đi bầu tăng gần gấp đôi"
+      }
+    ]
   },
   "rent-control": {
     "title": "Đạo Luật Ổn Định Tiền Thuê Nhà Denver",
@@ -541,9 +2213,10 @@
         "source": "Chỉ Số Tiền Thuê Quan Sát Được (ZORI) của Zillow, Denver-Aurora-Lakewood MSA"
       },
       {
-        "value": "$1,600+",
-        "label": "tiền thuê trung bình cho căn hộ 1 phòng ngủ",
-        "source": "Báo Cáo Tiền Thuê Nhà Toàn Quốc của ApartmentList, 2024"
+        "value": "$1,717",
+        "label": "giá thuê trung bình căn hộ 1 phòng ngủ (2026)",
+        "context": "Gần như không đổi so với đầu năm 2026 do làn sóng xây dựng giữ thị trường mềm, nhưng người lao động lương tối thiểu vẫn phải chi khoảng một nửa thu nhập cho căn hộ 1 phòng ngủ",
+        "source": "RentCafe (Yardi Matrix), August 2026"
       },
       {
         "value": "0",
@@ -555,6 +2228,32 @@
         "label": "số lượng đơn vị cho thuê bị ảnh hưởng",
         "context": "Hơn 50% cư dân Denver là người thuê nhà và không được bảo vệ trước những đợt tăng giá tùy tiện",
         "source": "Khảo Sát Cộng Đồng Hoa Kỳ, 2022"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Bãi bỏ lệnh cấm của Colorado đối với ổn định tiền thuê nhà ở địa phương",
+        "metric": "Việc bãi bỏ CRS 38-12-301 được ký thành luật",
+        "baseline": "Lệnh cấm vẫn còn; khóa họp năm 2026 kết thúc ngày 13 tháng 5 mà không bãi bỏ",
+        "target": "Việc bãi bỏ được ký",
+        "owner": "Quốc Hội Tiểu Bang Colorado (phái đoàn Denver)",
+        "precedent": "Oregon (2019) và Washington (2025) đã áp dụng mức trần tiền thuê trên toàn tiểu bang sau nhiều thập kỷ tranh luận về quyền ưu tiên"
+      },
+      {
+        "goal": "Thông qua Đạo Luật Ổn Định Tiền Thuê Nhà Denver",
+        "metric": "Sắc lệnh giới hạn mức tăng hằng năm ở CPI hoặc 3% và không cho phép tăng tự do khi đổi người thuê",
+        "baseline": "Không có bảo vệ ở địa phương (2026)",
+        "target": "Sắc lệnh có hiệu lực và Văn Phòng Ổn Định Tiền Thuê có nhân sự",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Tiền thuê được điều tiết của Vienna giữ giá thuê trung bình khoảng €10.5 mỗi mét vuông, chỉ bằng một phần nhỏ so với các thủ đô lớn khác (2023)"
+      },
+      {
+        "goal": "Giảm gánh nặng tiền thuê cho người thuê nhà ở Denver",
+        "metric": "Tỷ lệ hộ thuê nhà ở Denver trả từ 30% thu nhập trở lên cho tiền thuê",
+        "baseline": "Khoảng một nửa số hộ thuê nhà (ACS, 2023)",
+        "target": "40% trở xuống",
+        "owner": "HOST và Văn Phòng Ổn Định Tiền Thuê",
+        "precedent": "Việc nới quy hoạch của Auckland đã giữ mức tăng tiền thuê ở ~20% (2016-2023) và giảm tỷ lệ tiền thuê trên thu nhập từ 22.7% xuống 19.4% trong khi các thành phố khác ở New Zealand tăng"
       }
     ]
   },
@@ -580,6 +2279,32 @@
         "context": "Thành phố đầu tiên của Hoa Kỳ giải ngân tiền bồi thường do nhà nước tài trợ - 132 người nhận",
         "source": "Thành Phố Evanston, 2025"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thành lập Ủy Ban Bồi Thường & Công Lý Phục Hồi của Denver",
+        "metric": "Ủy ban 25 thành viên được tài trợ, đã nhậm chức và công bố báo cáo về các tổn hại",
+        "baseline": "Chưa có ủy ban; Văn Phòng Công Lý Chủng Tộc và Xã Hội không có nhiệm vụ bồi thường (2026)",
+        "target": "Ủy ban nhậm chức vào năm 2027; báo cáo tổn hại công bố vào năm 2029",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Evanston, IL đã tài trợ bồi thường nhà ở từ nguồn thuế cần sa bắt đầu năm 2021; Asheville thành lập ủy ban bồi thường và tổ công tác của tiểu bang California đã báo cáo năm 2023"
+      },
+      {
+        "goal": "Trao trợ cấp sở hữu nhà cho các gia đình bị tổn hại bởi phân biệt tín dụng nhà ở và cải tạo đô thị",
+        "metric": "Số khoản trợ cấp sở hữu nhà $25,000 được giải ngân cho cư dân đủ điều kiện",
+        "baseline": "0 khoản trợ cấp (2026)",
+        "target": "500 khoản trợ cấp ($12.5 triệu)",
+        "owner": "HOST cùng Ủy Ban Bồi Thường",
+        "precedent": "Chương Trình Nhà Ở Phục Hồi của Evanston đã giải ngân các khoản $25,000 cho hàng trăm cư dân đủ điều kiện từ năm 2023"
+      },
+      {
+        "goal": "Thu hẹp khoảng cách tuổi thọ giữa các khu dân cư ở Denver",
+        "metric": "Chênh lệch tuổi thọ giữa khu dân cư cao nhất và thấp nhất ở Denver",
+        "baseline": "11 năm (DDPHE, 2023)",
+        "target": "8 năm trở xuống, bắt đầu với việc xử lý sức khỏe môi trường ở GES",
+        "owner": "DDPHE",
+        "precedent": "Chiến Lược Bất Bình Đẳng Y Tế của London (2018) đặt mục tiêu thu hẹp khoảng cách tuổi thọ giữa các quận"
+      }
     ]
   },
   "reproductive-healthcare": {
@@ -603,6 +2328,32 @@
         "label": "tiết kiệm được cho mỗi $1 chi cho việc tiếp cận các biện pháp tránh thai",
         "context": "Chăm sóc sức khỏe sinh sản là một trong những khoản đầu tư y tế công cộng mang lại lợi nhuận cao nhất",
         "source": "Viện Guttmacher, 2015"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giữ các cơ sở phá thai ở Denver tiếp tục hoạt động bằng quỹ bền vững",
+        "metric": "Các khoản trợ cấp bền vững và an ninh hằng năm của thành phố cho các cơ sở",
+        "baseline": "$0; số phòng khám ở Colorado giảm từ 42 xuống 23 kể từ năm 2011 (2024)",
+        "target": "$3 triệu mỗi năm, không có phòng khám nào ở Denver đóng cửa",
+        "owner": "DDPHE và Hội Đồng Thành Phố Denver (ngân sách)",
+        "precedent": "New York City và Chicago đã thành lập quỹ tiếp cận phá thai của thành phố sau phán quyết Dobbs (2022)"
+      },
+      {
+        "goal": "Bảo đảm lịch hẹn kịp thời cho mọi bệnh nhân",
+        "metric": "Số ngày trung vị từ lần liên hệ đầu tiên đến lịch hẹn phá thai tại các cơ sở ở Denver",
+        "baseline": "Không được công bố; ~30% ca phá thai ở Colorado là của bệnh nhân từ tiểu bang khác (2023)",
+        "target": "7 ngày trở xuống, báo cáo trên bảng thông tin công khai",
+        "owner": "DDPHE (Báo Cáo Tiếp Cận Chăm Sóc Sức Khỏe Sinh Sản Hằng Năm)",
+        "precedent": "Pháp bảo đảm quyền phá thai không có thời gian chờ và được bảo hiểm công chi trả toàn bộ"
+      },
+      {
+        "goal": "Cung cấp biện pháp tránh thai ngay trong ngày tại mọi phòng khám của thành phố",
+        "metric": "Số cơ sở Denver Health và trung tâm y tế đủ điều kiện liên bang cung cấp mọi biện pháp ngay trong ngày, kể cả biện pháp tránh thai tác dụng dài",
+        "baseline": "Không được báo cáo (2026)",
+        "target": "100% cơ sở",
+        "owner": "Denver Health và DDPHE",
+        "precedent": "Sáng Kiến Kế Hoạch Hóa Gia Đình của Colorado đã giảm ~50% số ca sinh ở tuổi vị thành niên từ năm 2009 đến 2014 bằng biện pháp tránh thai tác dụng dài miễn phí"
       }
     ]
   },
@@ -628,6 +2379,32 @@
         "context": "Đóng cửa văn phòng vào mỗi thứ Sáu trong một tháng; chi phí điện giảm 23%",
         "source": "Microsoft Nhật Bản, 2019"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Trao quyền ngắt kết nối cho hơn 12,000 nhân viên thành phố",
+        "metric": "Số sở ban ngành của thành phố có chính sách ngắt kết nối bằng văn bản và bảo vệ chống trả đũa",
+        "baseline": "0 (không có chính sách, 2026)",
+        "target": "100% sở ban ngành",
+        "owner": "Văn Phòng Nhân Sự",
+        "precedent": "Pháp (2017), Bồ Đào Nha (2021), Ontario (2022) và Úc (2024) yêu cầu có chính sách về quyền ngắt kết nối"
+      },
+      {
+        "goal": "Mở rộng quyền ngắt kết nối cho các chủ lao động tư nhân lớn",
+        "metric": "Sắc lệnh áp dụng cho chủ lao động có từ 20 người lao động",
+        "baseline": "Không có bảo vệ ở địa phương hay tiểu bang (2026)",
+        "target": "Sắc lệnh có hiệu lực",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Luật sửa đổi Fair Work của Úc (2024) áp dụng quyền ngắt kết nối cho doanh nghiệp lớn trước, rồi đến doanh nghiệp nhỏ vào năm 2025"
+      },
+      {
+        "goal": "Thí điểm tuần làm việc 32 giờ giữ nguyên lương cho nhân viên thành phố",
+        "metric": "Số nhân viên thành phố tham gia thí điểm 32 giờ/4 ngày với kết quả năng suất và giữ chân nhân viên được công bố",
+        "baseline": "0 nhân viên (2026)",
+        "target": "2,000 nhân viên tham gia thí điểm, được đánh giá độc lập",
+        "owner": "Văn Phòng Nhân Sự",
+        "precedent": "Các thử nghiệm khu vực công của Iceland 2015-2019 đã giúp ~86% lực lượng lao động được giảm giờ làm; 92% doanh nghiệp trong thí điểm ở Anh giữ tuần làm việc 4 ngày"
+      }
     ]
   },
   "sectoral-bargaining": {
@@ -641,10 +2418,92 @@
         "source": "BLS, 2024"
       },
       {
+        "value": "$22/hr",
+        "label": "mức lương của nhân viên McDonald's ở Đan Mạch",
+        "context": "Cộng thêm 6 tuần nghỉ phép có lương - không có luật lương tối thiểu, chỉ có thương lượng theo ngành",
+        "source": ""
+      },
+      {
         "value": "7.2%",
         "label": "tỷ lệ thành viên công đoàn ở Colorado",
         "context": "Dưới mức trung bình thấp của quốc gia là 10%; ngành khách sạn gần bằng không",
         "source": "BLS, 2023"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giành quyền từ tiểu bang cho các hội đồng tiền lương theo ngành ở Denver",
+        "metric": "Luật tiểu bang cho phép thành lập hội đồng tiêu chuẩn theo ngành ở cấp địa phương hoặc tiểu bang",
+        "baseline": "Không có khuôn khổ theo ngành; tỷ lệ thành viên công đoàn ở Colorado ~7.2% (BLS, 2023)",
+        "target": "Dự luật được ký",
+        "owner": "Quốc Hội Tiểu Bang Colorado (phái đoàn Denver)",
+        "precedent": "Hội Đồng Tiêu Chuẩn Lao Động Viện Dưỡng Lão của Minnesota (2023) và Hội Đồng Thức Ăn Nhanh của California (2023) đã đặt mức lương sàn cho toàn ngành"
+      },
+      {
+        "goal": "Triệu tập các hội đồng tiền lương đầu tiên của Denver ở bốn ngành",
+        "metric": "Các hội đồng tiền lương được thành lập với thành viên đại diện người lao động, chủ lao động và công chúng (nhà hàng, khách sạn, chăm sóc tại nhà, lao động qua ứng dụng)",
+        "baseline": "0 hội đồng (2026)",
+        "target": "4 hội đồng được thành lập; ban hành các tiêu chuẩn đầu tiên",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Các hội đồng tiền lương của New York đã đặt mức tối thiểu theo ngành từ thập niên 1930, bao gồm lệnh tiền lương ngành thức ăn nhanh năm 2015"
+      },
+      {
+        "goal": "Yêu cầu tiêu chuẩn theo ngành trong mọi hợp đồng của thành phố",
+        "metric": "Tỷ lệ hợp đồng dịch vụ của thành phố yêu cầu lương hiện hành theo ngành, phúc lợi tương đương và hòa bình lao động",
+        "baseline": "Lương hiện hành áp dụng cho xây dựng, không cho phần lớn hợp đồng dịch vụ (2026)",
+        "target": "100% hợp đồng dịch vụ mới",
+        "owner": "Sở Tài Chính Denver (Mua Sắm) cùng Denver Labor",
+        "precedent": "San Francisco và Los Angeles áp dụng tiêu chuẩn hòa bình lao động và thù lao tối thiểu cho các hợp đồng dịch vụ của thành phố"
+      }
+    ]
+  },
+  "short-term-rental-regulation": {
+    "title": "Cải Cách Cho Thuê Ngắn Hạn: Nhà Ở Trước, Khách Sạn Sau",
+    "summary": "Hàng nghìn căn nhà ở Denver bỏ trống, chỉ dành cho khách du lịch, trong khi người lao động không tìm được chỗ thuê giá phải chăng. Giới hạn cho thuê ngắn hạn chỉ ở nơi cư trú chính, cấm cho thuê ngắn hạn do nhà đầu tư sở hữu, và trả nhà ở lại cho người dân Denver.",
+    "keyStats": [
+      {
+        "value": "3,500+",
+        "label": "căn hộ ở Denver đăng trên Airbnb/VRBO tính đến năm 2024",
+        "context": "Mỗi căn cho khách du lịch thuê là một căn không dành cho gia đình hay người lao động Denver đang tìm nhà ở lâu dài",
+        "source": "Inside Airbnb, Denver dataset, 2024"
+      },
+      {
+        "value": "43%",
+        "label": "tin đăng cho thuê ngắn hạn ở Denver thuộc chủ có nhiều bất động sản",
+        "context": "Gần một nửa hoạt động cho thuê ngắn hạn là đầu cơ thương mại, không phải chủ nhà chia sẻ phòng trống",
+        "source": "Inside Airbnb, Denver dataset, 2024"
+      },
+      {
+        "value": "7-13%",
+        "label": "mức tăng tiền thuê do chuyển đổi sang cho thuê ngắn hạn ở các khu nhiều nhà cho thuê ngắn hạn của Denver",
+        "context": "Khi 1% quỹ nhà ở một khu chuyển sang cho thuê ngắn hạn, tiền thuê tăng 0.7-1.3% (Barron và cộng sự, 2021)",
+        "source": "Barron, Kung & Proserpio, Review of Financial Studies, 2021"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Trả các căn cho thuê ngắn hạn không phải nơi cư trú chính về nhà ở dài hạn",
+        "metric": "Số tin đăng đang hoạt động không đạt xác minh nơi cư trú chính",
+        "baseline": "Hơn 3,500 tin đăng ở Denver; 43% thuộc chủ có nhiều bất động sản (2024)",
+        "target": "Không còn tin đăng vi phạm nào sau giai đoạn chuyển tiếp 12 tháng",
+        "owner": "Sở Thuế Đặc Biệt và Cấp Phép Denver (Văn Phòng Thực Thi Cho Thuê Ngắn Hạn)",
+        "precedent": "Luật Địa Phương 18 của New York City (2023) đã giảm khoảng 80% tin đăng cho thuê ngắn hạn nhờ đăng ký và xác minh qua nền tảng"
+      },
+      {
+        "goal": "Yêu cầu các nền tảng chia sẻ dữ liệu hằng tháng",
+        "metric": "Số nền tảng cung cấp đầy đủ dữ liệu tin đăng hằng tháng cho thành phố",
+        "baseline": "Thực thi dựa trên khiếu nại; không có thỏa thuận dữ liệu với nền tảng (2026)",
+        "target": "100% nền tảng hoạt động ở Denver",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Quy Định Cho Thuê Ngắn Hạn của EU (2024) yêu cầu các nền tảng chia sẻ dữ liệu hằng tháng với các thành phố từ tháng 5 năm 2026"
+      },
+      {
+        "goal": "Chuyển các căn cho thuê ngắn hạn sang hợp đồng thuê dài hạn kèm ưu đãi",
+        "metric": "Số căn từng cho thuê ngắn hạn ký hợp đồng thuê 2 năm qua Quỹ Hoàn Trả Nhà Ở",
+        "baseline": "0 (không có chương trình chuyển đổi, 2026)",
+        "target": "750 căn",
+        "owner": "Sở Ổn Định Nhà Ở (HOST)",
+        "precedent": "Barcelona sẽ ngừng gia hạn khoảng 10,000 giấy phép căn hộ du lịch trước năm 2028 để trả lại cho cư dân"
       }
     ]
   },
@@ -669,6 +2528,32 @@
         "label": "doanh nghiệp nhỏ bị các ngân hàng lớn từ chối",
         "context": "Các doanh nhân da màu bắt đầu với số vốn bằng 1/3 so với các doanh nhân da trắng"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Cấp giấy phép tiêu chuẩn cho doanh nghiệp nhỏ trong 30 ngày",
+        "metric": "Số ngày trung vị để cấp giấy phép tiêu chuẩn cho doanh nghiệp nhỏ qua văn phòng một cửa",
+        "baseline": "Trước đây hơn 300 ngày cho giấy phép xây dựng; mục tiêu 180 ngày sau cải cách năm 2025",
+        "target": "30 ngày trở xuống",
+        "owner": "Văn Phòng Cấp Phép Denver cùng Sở Thuế Đặc Biệt và Cấp Phép",
+        "precedent": "Chương trình Restaurant and Small Business Express của Los Angeles và dịch vụ điện tử của Tallinn đã rút ngắn thời gian phê duyệt khởi nghiệp xuống vài ngày"
+      },
+      {
+        "goal": "Giúp chủ doanh nghiệp sắp nghỉ hưu bán lại cho người lao động",
+        "metric": "Số doanh nghiệp lâu đời chuyển sang sở hữu của người lao động với sự hỗ trợ của thành phố",
+        "baseline": "0 trường hợp chuyển đổi có thành phố hỗ trợ (2026)",
+        "target": "50 trường hợp chuyển đổi",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver",
+        "precedent": "Văn Phòng Sở Hữu Của Nhân Viên Colorado đã hỗ trợ hàng chục trường hợp chuyển đổi từ năm 2019"
+      },
+      {
+        "goal": "Thanh toán cho nhà cung cấp nhỏ trong vòng 30 ngày",
+        "metric": "Tỷ lệ hóa đơn của thành phố cho doanh nghiệp nhỏ được thanh toán trong 30 ngày",
+        "baseline": "Không được công bố (2026)",
+        "target": "95% được thanh toán trong 30 ngày, báo cáo hằng quý",
+        "owner": "Sở Tài Chính Denver",
+        "precedent": "Quy định của Ban Chính Sách Mua Sắm New York City yêu cầu thanh toán trong vòng 30 ngày, với tiền lãi cho hóa đơn trễ hạn"
+      }
     ]
   },
   "social-housing": {
@@ -676,21 +2561,48 @@
     "summary": "10.000 căn nhà thuộc sở hữu công, giá cả phải chăng vĩnh viễn. Hỗn hợp thu nhập, được quản lý dân chủ và được tài trợ mà không tăng thuế của bạn.",
     "keyStats": [
       {
-        "value": "7,500",
-        "label": "người vô gia cư vào bất kỳ đêm nào",
-        "context": "Danh sách chờ Mục 8 kéo dài hàng năm trời và chủ nhà từ chối chấp nhận phiếu trợ cấp",
-        "source": "MDHI Point-in-Time Count, 2024"
+        "value": "6,411",
+        "label": "người vô gia cư ở Denver trong một đêm",
+        "context": "Danh sách chờ Mục 8 kéo dài nhiều năm và chủ nhà vẫn từ chối nhận phiếu nhà ở",
+        "source": "MDHI Point-in-Time Count, January 2026"
       },
       {
         "value": "60%",
-        "label": "số người ở Vienna sống trong nhà ở công cộng",
+        "label": "dân số Vienna sống trong nhà ở công",
+        "context": "Được xếp hạng thành phố đáng sống nhất thế giới - và không có khủng hoảng khả năng chi trả nhà ở",
         "source": "Wiener Wohnen, 2023"
       },
       {
         "value": "$400-600K",
-        "label": "chi phí trợ cấp hiện tại trên mỗi căn hộ",
-        "context": "Nhà ở xã hội có chi phí $200-350K mỗi căn. Chúng ta trả gấp đôi để các nhà phát triển giữ lợi nhuận.",
+        "label": "chi phí trợ cấp hiện tại mỗi căn",
+        "context": "Nhà ở xã hội tốn $200-350K mỗi căn. Chúng ta đang trả gấp đôi để các nhà phát triển giữ lợi nhuận.",
         "source": "Denver HOST / LIHTC program data"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thành lập Cơ Quan Nhà Ở Xã Hội Denver",
+        "metric": "Cơ quan được thành lập với hội đồng do người thuê bầu và nguồn thu riêng",
+        "baseline": "Chưa có cơ quan nhà ở xã hội (2026)",
+        "target": "Cơ quan được thành lập và có vốn",
+        "owner": "Cử tri Denver và Hội Đồng Thành Phố Denver",
+        "precedent": "Ủy Ban Cơ Hội Nhà Ở của Quận Montgomery, MD đã dùng một quỹ quay vòng từ năm 2021 để xây nhà ở công sở hữu, đa thu nhập"
+      },
+      {
+        "goal": "Cung cấp 3,000 căn nhà ở xã hội đầu tiên",
+        "metric": "Số căn nhà ở xã hội đa thu nhập được mua hoặc xây và có người ở",
+        "baseline": "0 căn (2026)",
+        "target": "1,000 căn vào năm 2029 và 3,000 căn vào năm 2031, trên đà đạt 10,000 căn vào năm 2036",
+        "owner": "Cơ Quan Nhà Ở Xã Hội Denver",
+        "precedent": "Khoảng 220,000 căn nhà của thành phố và khoảng 200,000 căn của các tổ chức lợi nhuận hạn chế ở Vienna cho một phần lớn cư dân thuê với giá được điều tiết (2025)"
+      },
+      {
+        "goal": "Giới hạn tiền thuê nhà ở xã hội ở mức 25% thu nhập",
+        "metric": "Tỷ lệ hộ trong nhà ở xã hội trả hơn 25% thu nhập cho tiền thuê",
+        "baseline": "Khoảng một nửa số hộ thuê nhà ở Denver trả từ 30% thu nhập trở lên (ACS, 2023)",
+        "target": "0% hộ trong nhà ở xã hội",
+        "owner": "Cơ Quan Nhà Ở Xã Hội Denver",
+        "precedent": "Nhà ở công của liên bang đã giới hạn tiền thuê ở 30% thu nhập từ năm 1981; nhà ở xã hội của Denver đi xa hơn 5 điểm"
       }
     ]
   },
@@ -714,6 +2626,32 @@
         "value": "4-5 wks",
         "label": "từ khi nộp đơn đến khi bị trục xuất ở Colorado",
         "context": "Một trong những khung thời gian trục xuất nhanh nhất trong nước"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Cung cấp luật sư cho mọi người thuê nhà đối mặt với việc bị đuổi",
+        "metric": "Tỷ lệ vụ đuổi nhà ở Denver mà người thuê có đại diện pháp lý",
+        "baseline": "3,331 hộ được hỗ trợ (2024) trên tổng số ~16,000 đơn (2025)",
+        "target": "75% vụ việc có luật sư cho người thuê",
+        "owner": "HOST cùng các tổ chức trợ giúp pháp lý",
+        "precedent": "Quyền có luật sư của New York City đã giúp 84% hộ được đại diện giữ được nhà (2023)"
+      },
+      {
+        "goal": "Yêu cầu báo trước 90 ngày khi tăng tiền thuê",
+        "metric": "Thời hạn báo trước bằng văn bản tối thiểu trước khi tăng tiền thuê",
+        "baseline": "60 ngày theo luật tiểu bang (HB21-1121, 2021)",
+        "target": "90 ngày",
+        "owner": "Hội Đồng Thành Phố Denver",
+        "precedent": "Oregon yêu cầu báo trước 90 ngày khi tăng tiền thuê trên toàn tiểu bang (SB 608, 2019)"
+      },
+      {
+        "goal": "Phản hồi khiếu nại về điều kiện sống trong vòng 72 giờ",
+        "metric": "Tỷ lệ khiếu nại về điều kiện sống của người thuê được kiểm tra trong vòng 72 giờ",
+        "baseline": "Không được công bố (2026)",
+        "target": "90% trong vòng 72 giờ, báo cáo hằng quý",
+        "owner": "DDPHE (Sức Khỏe Nhà Ở) cùng Sở Quy Hoạch và Phát Triển Cộng Đồng",
+        "precedent": "Chương Trình Thực Thi Quy Chuẩn Có Hệ Thống của Los Angeles chủ động kiểm tra mọi căn hộ cho thuê theo chu kỳ định kỳ"
       }
     ]
   },
@@ -739,6 +2677,32 @@
         "context": "Giao thông công cộng miễn phí có chi phí $35 triệu - chỉ bằng 1% thiệt hại do tắc nghẽn",
         "source": "Texas A&M Transportation Institute, 2025"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giảm một nửa số ca tử vong giao thông",
+        "metric": "Số người thiệt mạng trong các vụ tai nạn giao thông ở Denver mỗi năm",
+        "baseline": "93 ca tử vong (2025), nhiều nhất kể từ năm 2013",
+        "target": "46 ca trở xuống",
+        "owner": "DOTI (Tầm Nhìn Không)",
+        "precedent": "Hoboken, NJ không có ca tử vong giao thông nào kể từ năm 2017; Helsinki và Oslo đã giảm số ca tử vong xuống gần bằng không với giới hạn 30 km/h"
+      },
+      {
+        "goal": "Miễn phí phương tiện công cộng cho người thu nhập thấp và phục hồi lượng hành khách",
+        "metric": "Số lượt đi RTD hằng năm (toàn hệ thống) và số cư dân Denver dưới 200% FPL được miễn phí vé",
+        "baseline": "65.2 triệu lượt (2024), giảm 38% so với 2019; LiVE chỉ giảm giá 50%",
+        "target": "85 triệu lượt; miễn phí vé cho mọi cư dân Denver đủ điều kiện",
+        "owner": "Văn Phòng Thị Trưởng cùng RTD (trợ giá vé của thành phố)",
+        "precedent": "Xe buýt miễn phí của Kansas City (2020) và các tuyến miễn phí của Boston đã tăng lượng hành khách nhanh hơn các hệ thống tương đương"
+      },
+      {
+        "goal": "Xây làn xe đạp có bảo vệ trên mọi tuyến đường chính",
+        "metric": "Số dặm làn xe đạp có bảo vệ hoặc tách biệt",
+        "baseline": "~254 dặm làn xe đạp, phần lớn không có bảo vệ (DOTI, 2025)",
+        "target": "125 dặm làn có bảo vệ mới hướng tới mạng lưới Denver Moves 230 dặm",
+        "owner": "DOTI",
+        "precedent": "Paris đã xây hơn 1,000 km đường xe đạp và chứng kiến số chuyến đi bằng xe đạp vượt ô tô ở trung tâm thành phố vào năm 2024"
+      }
     ]
   },
   "universal-childcare": {
@@ -763,6 +2727,32 @@
         "context": "Khoản đầu tư công mang lại lợi nhuận cao nhất hiện có",
         "source": "James Heckman, Nobel laureate economist, 2006"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Bảo đảm chỗ giữ trẻ cho mọi trẻ từ 6 tháng tuổi đến khi vào mẫu giáo",
+        "metric": "Số chỗ giữ trẻ cả ngày có giấy phép trên 100 trẻ dưới 5 tuổi ở Denver",
+        "baseline": "Giữ trẻ sơ sinh tốn $1,440-2,200/tháng và danh sách chờ là phổ biến (2025)",
+        "target": "Đủ chỗ cho 75% trẻ dưới 5 tuổi",
+        "owner": "Văn Phòng Các Vấn Đề Trẻ Em Denver cùng Sở Phát Triển Trẻ Thơ Colorado",
+        "precedent": "New Mexico ra mắt dịch vụ giữ trẻ phổ cập miễn phí vào ngày 1 tháng 11 năm 2025 và ghi danh thêm hơn 16,700 trẻ trong những tháng đầu"
+      },
+      {
+        "goal": "Giới hạn chi phí giữ trẻ của gia đình ở mức 5% thu nhập",
+        "metric": "Tỷ lệ trung vị thu nhập hộ gia đình các gia đình Denver chi cho giữ trẻ toàn thời gian",
+        "baseline": "~18% thu nhập hộ gia đình (2025)",
+        "target": "5% trở xuống; miễn phí dưới 200% FPL",
+        "owner": "Văn Phòng Các Vấn Đề Trẻ Em Denver",
+        "precedent": "Dịch vụ giữ trẻ chi phí thấp của Quebec (từ năm 1997) đã tăng khoảng 70,000 bà mẹ đi làm và thu về tiền thuế nhiều hơn chi phí chương trình"
+      },
+      {
+        "goal": "Trả lương đủ sống cho giáo viên mầm non",
+        "metric": "Mức lương trung vị mỗi giờ của nhân viên giữ trẻ ở Denver",
+        "baseline": "$13-16/giờ (2024)",
+        "target": "Lương khởi điểm $25/giờ, ngang bằng giáo viên K-12 cho giáo viên có chứng chỉ",
+        "owner": "Văn Phòng Các Vấn Đề Trẻ Em Denver (bổ sung lương)",
+        "precedent": "New Mexico đặt mức lương sàn $18/giờ cho nhân viên giữ trẻ vào năm 2025 trong chương trình phổ cập của mình"
+      }
     ]
   },
   "vacancy-tax": {
@@ -771,14 +2761,47 @@
     "keyStats": [
       {
         "value": "5,000-8,000",
-        "label": "ngôi nhà bỏ trống ở Denver",
-        "context": "7.500 người vô gia cư trong khi hàng ngàn căn hộ bị bỏ trống để đầu cơ",
+        "label": "căn nhà bỏ trống ở Denver",
+        "context": "Hơn 6,400 người vô gia cư (2026) trong khi hàng nghìn căn bị bỏ trống để đầu cơ",
         "source": "U.S. Census Bureau, ACS 2022"
       },
       {
+        "value": "25%",
+        "label": "tỷ lệ nhà trống giảm trong năm đầu ở Vancouver",
+        "context": "Thuế Nhà Trống của Vancouver chứng minh thuế nhà bỏ trống nhanh chóng đưa nhà trở lại thị trường",
+        "source": "City of Vancouver, 2017-2023"
+      },
+      {
         "value": "$50-80M",
-        "label": "doanh thu hàng năm ước tính cho Denver",
-        "context": "Mỗi đô la được chuyển đến Quỹ Tín Thác Nhà Ở Giá Rẻ cho nhà ở xã hội và CLT"
+        "label": "nguồn thu ước tính hằng năm cho Denver",
+        "context": "Mỗi đô la đều vào Quỹ Ủy Thác Nhà Ở Giá Phải Chăng cho nhà ở xã hội và quỹ đất cộng đồng",
+        "source": ""
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giành sự chấp thuận của cử tri cho thuế nhà bỏ trống lũy tiến",
+        "metric": "Biện pháp thuế nhà bỏ trống được chấp thuận theo TABOR",
+        "baseline": "Không có thuế nhà bỏ trống (2026)",
+        "target": "Được chấp thuận trên lá phiếu tháng 11 năm 2027",
+        "owner": "Hội Đồng Thành Phố Denver (đưa ra lá phiếu) và cử tri Denver",
+        "precedent": "Thuế Nhà Trống của Vancouver (2017) và Thuế Bất Động Sản Bỏ Trống của Oakland (2018) đều được thông qua bằng lá phiếu địa phương hoặc hội đồng"
+      },
+      {
+        "goal": "Đưa nhà bỏ trống trở lại sử dụng",
+        "metric": "Số căn nhà ở được đăng ký hoặc xác định bỏ trống từ 6 tháng trở lên mỗi năm",
+        "baseline": "Ước tính 5,000-8,000 căn bỏ trống dài hạn (ACS, 2023)",
+        "target": "Ít hơn 30% số căn bỏ trống trong vòng 3 năm sau khi ban hành",
+        "owner": "Sở Tài Chính Denver (Ngân Khố)",
+        "precedent": "Số nhà bỏ trống chịu thuế ở Vancouver đã giảm khoảng một phần ba trong bốn năm đầu áp dụng thuế"
+      },
+      {
+        "goal": "Dành nguồn thu thuế nhà bỏ trống cho nhà ở giá phải chăng",
+        "metric": "Nguồn thu thuế nhà bỏ trống hằng năm nộp vào quỹ nhà ở giá phải chăng",
+        "baseline": "$0 (2026)",
+        "target": "Hơn $30 triệu mỗi năm, giảm dần khi số nhà trống giảm",
+        "owner": "HOST (Quỹ Nhà Ở Giá Phải Chăng)",
+        "precedent": "Vancouver đã thu hơn C$100 triệu từ Thuế Nhà Trống cho nhà ở giá phải chăng kể từ năm 2017"
       }
     ]
   },
@@ -796,6 +2819,38 @@
         "label": "nhiều việc làm hơn từ tái chế so với chôn lấp",
         "context": "Tái sử dụng và sửa chữa tạo ra số lượng việc làm gấp 30 lần. Không chất thải là một chương trình việc làm.",
         "source": "Eco-Cycle; Institute for Local Self-Reliance"
+      },
+      {
+        "value": "1%",
+        "label": "rác thải của Thụy Điển được đưa đến bãi chôn lấp",
+        "context": "Denver đưa 74%. Công nghệ đã có sẵn - vấn đề là ý chí chính trị.",
+        "source": "Swedish Waste Management Association"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Đạt tỷ lệ tái chế và ủ phân 50% trên toàn thành phố",
+        "metric": "Tỷ lệ chuyển hướng rác thải qua tái chế và ủ phân toàn thành phố",
+        "baseline": "Dự kiến 28.8% cho năm 2025 (DOTI)",
+        "target": "50% vào năm 2028 và 70% vào năm 2032",
+        "owner": "Bộ Phận Quản Lý Chất Thải Rắn của DOTI",
+        "precedent": "Hệ thống thu gom ba luồng bắt buộc của San Francisco (2009) đã giúp thành phố dẫn đầu cả nước về giảm rác chôn lấp"
+      },
+      {
+        "goal": "Đặt thùng ủ phân tại mọi hộ gia đình ở Denver",
+        "metric": "Số hộ có dịch vụ thu gom ủ phân tại lề đường",
+        "baseline": "~75,000 nhà một gia đình được phục vụ (2024)",
+        "target": "100% hộ gia đình nhà riêng và nhà nhiều hộ",
+        "owner": "Bộ Phận Quản Lý Chất Thải Rắn của DOTI",
+        "precedent": "Seattle đã bắt buộc ủ phân hộ gia đình từ năm 2015 và chuyển hướng hơn một nửa rác thải sinh hoạt"
+      },
+      {
+        "goal": "Thực thi Sắc Lệnh Tái Chế và Ủ Phân Phổ Cập",
+        "metric": "Tỷ lệ cơ sở thương mại và nhà nhiều hộ từ 8 căn thuộc diện áp dụng có dịch vụ tái chế và ủ phân",
+        "baseline": "Các yêu cầu có hiệu lực từ ngày 1 tháng 9 năm 2026",
+        "target": "90% tuân thủ",
+        "owner": "DOTI cùng Sở Thuế Đặc Biệt và Cấp Phép Denver",
+        "precedent": "Hệ thống trả tiền theo lượng rác thực phẩm của Seoul đạt mức tham gia gần như toàn diện và tái chế ~95% rác thực phẩm"
       }
     ]
   },
@@ -818,6 +2873,82 @@
         "label": "Melbourne cắt giảm một nửa lượng nước sử dụng - và giữ nguyên",
         "context": "Bảo tồn bắt buộc trong thời gian hạn hán, các quy tắc vĩnh viễn sau đó",
         "source": "City of Melbourne"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Giảm lượng nước dùng trong nhà mỗi người xuống mức hiệu quả",
+        "metric": "Số gallon nước dùng trong nhà mỗi người mỗi ngày, nhà ở một gia đình",
+        "baseline": "~50 gallon mỗi người mỗi ngày (Denver Water, 2025)",
+        "target": "40 gallon mỗi người mỗi ngày",
+        "owner": "Denver Water cùng Sở Quy Hoạch và Phát Triển Cộng Đồng",
+        "precedent": "Melbourne đã giảm khoảng 40% lượng nước dùng mỗi người trong Hạn Hán Thiên Niên Kỷ và giữ được phần lớn mức tiết kiệm"
+      },
+      {
+        "goal": "Chuyển bãi cỏ tốn nước sang cảnh quan tiết kiệm nước",
+        "metric": "Số feet vuông bãi cỏ không có công năng được chuyển sang cảnh quan chịu hạn trên đất công và tư",
+        "baseline": "Tưới cỏ chiếm ~50% lượng nước dân dụng (Denver Water, 2024)",
+        "target": "Chuyển đổi 5 triệu feet vuông; 100% bãi cỏ không dùng cho giải trí của thành phố",
+        "owner": "Denver Water và Sở Công Viên và Giải Trí Denver",
+        "precedent": "Chương trình loại bỏ cỏ của Cơ Quan Nước Nam Nevada đã thay thế hơn 200 triệu feet vuông cỏ từ năm 1999"
+      },
+      {
+        "goal": "Bảo đảm nước giá phải chăng cho nhu cầu cơ bản",
+        "metric": "Số hộ thu nhập thấp đăng ký biểu giá thiết yếu và được bảo vệ khỏi bị cắt nước",
+        "baseline": "Chương trình hỗ trợ khách hàng còn hạn chế; không có biểu giá thiết yếu (2026)",
+        "target": "Biểu giá thiết yếu được thông qua; 20,000 hộ đăng ký",
+        "owner": "Hội Đồng Ủy Viên Nước của Denver Water",
+        "precedent": "Chương Trình Hỗ Trợ Theo Bậc của Philadelphia (2017) giới hạn hóa đơn nước theo một tỷ lệ thu nhập hộ gia đình"
+      }
+    ]
+  },
+  "worker-cooperative-development": {
+    "title": "Phát Triển Hợp Tác Xã Của Người Lao Động: Nền Kinh Tế Đoàn Kết",
+    "summary": "Tài trợ các doanh nghiệp do người lao động làm chủ, chuyển các công ty của chủ sắp nghỉ hưu sang sở hữu của nhân viên, và ưu tiên hợp tác xã trong hợp đồng của thành phố. Xây dựng một nền kinh tế nơi người lao động sở hữu những gì họ tạo ra.",
+    "keyStats": [
+      {
+        "value": "2.5x",
+        "label": "bền vững hơn: hợp tác xã của người lao động vượt qua suy thoái với tỷ lệ gấp 2.5 lần doanh nghiệp thông thường",
+        "context": "Vì người lao động sở hữu việc làm của mình, họ chấp nhận giảm lương tạm thời thay vì sa thải - giữ mọi người có việc qua thời kỳ khó khăn",
+        "source": "ILO / Birchall & Ketilson, 2009; confirmed in COVID-19 period data"
+      },
+      {
+        "value": "70,000",
+        "label": "doanh nghiệp nhỏ khu vực Denver không có kế hoạch kế nhiệm, có nguy cơ đóng cửa trong thập kỷ tới",
+        "context": "Làn sóng nghỉ hưu của thế hệ baby boom đe dọa xóa sổ các doanh nghiệp đang hoạt động tốt và việc làm mà chúng tạo ra. Người lao động mua lại là giải pháp thay cho đóng cửa.",
+        "source": "Project Equity / National Center for Employee Ownership, 2023"
+      },
+      {
+        "value": "30%",
+        "label": "lương cao hơn ở hợp tác xã của người lao động so với doanh nghiệp thông thường tương đương",
+        "context": "Người lao động làm chủ giữ lại lợi nhuận do sức lao động của họ tạo ra thay vì chia cho các cổ đông vắng mặt",
+        "source": "Dube & Freeman, 2010; USFWC Annual Report, 2023"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Góp vốn $20 triệu cho Quỹ Phát Triển Hợp Tác Xã Denver",
+        "metric": "Vốn cam kết từ thành phố, liên bang và các tổ chức tài chính phát triển cộng đồng (CDFI) trong quỹ",
+        "baseline": "$0 (2026)",
+        "target": "$20 triệu được cam kết",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver",
+        "precedent": "Sáng Kiến Phát Triển Doanh Nghiệp Hợp Tác Xã Của Người Lao Động của New York City đã tài trợ phát triển hợp tác xã từ năm 2014"
+      },
+      {
+        "goal": "Chuyển 50 doanh nghiệp của chủ sắp nghỉ hưu sang sở hữu của người lao động",
+        "metric": "Số trường hợp chuyển đổi thành hợp tác xã của người lao động hoặc ESOP hoàn tất với hỗ trợ của quỹ",
+        "baseline": "0 trường hợp chuyển đổi có quỹ hỗ trợ (2026)",
+        "target": "50 trường hợp chuyển đổi giữ lại hơn 1,500 việc làm",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver cùng Rocky Mountain Employee Ownership Center",
+        "precedent": "Project Equity và Democracy at Work Institute đã hướng dẫn hàng trăm trường hợp chuyển đổi ở Mỹ"
+      },
+      {
+        "goal": "Ra mắt hợp tác xã chăm sóc tại nhà của Denver",
+        "metric": "Số người lao động làm chủ được một hợp tác xã chăm sóc tại nhà ở Denver tuyển dụng",
+        "baseline": "Denver chưa có hợp tác xã chăm sóc tại nhà có quy mô (2026)",
+        "target": "100 người lao động làm chủ",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver",
+        "precedent": "Cooperative Home Care Associates ở Bronx sử dụng khoảng 2,000 người lao động làm chủ"
       }
     ]
   },
@@ -842,6 +2973,32 @@
         "label": "Nhân viên thành phố Denver - điểm khởi đầu",
         "context": "Thành phố có quyền trực tiếp thực hiện các hội đồng công nhân cho lực lượng lao động của riêng mình ngay hôm nay"
       }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Thành lập hội đồng người lao động trong toàn bộ chính quyền thành phố Denver",
+        "metric": "Số cơ quan thành phố có hội đồng người lao động được bầu với quyền được thông tin và tham vấn",
+        "baseline": "0 cơ quan; hơn 12,000 nhân viên thành phố chưa có hội đồng (2026)",
+        "target": "100% cơ quan",
+        "owner": "Văn Phòng Nhân Sự và Hội Đồng Thành Phố Denver",
+        "precedent": "Luật Tổ Chức Doanh Nghiệp của Đức đã áp dụng cho nơi làm việc tư nhân và công cộng từ năm 1952"
+      },
+      {
+        "goal": "Đưa đại diện người lao động vào hội đồng quản trị các doanh nghiệp của thành phố",
+        "metric": "Tỷ lệ ghế do người lao động bầu trong cơ quan quản trị của Denver Water, Denver Health và DIA",
+        "baseline": "0% (2026)",
+        "target": "Một phần ba số ghế",
+        "owner": "Hội Đồng Thành Phố Denver và Văn Phòng Thị Trưởng",
+        "precedent": "Luật Tham Gia Một Phần Ba của Đức (2004) trao cho người lao động một phần ba số ghế trong ban giám sát ở các công ty có hơn 500 nhân viên"
+      },
+      {
+        "goal": "Yêu cầu hội đồng người lao động ở các nhà thầu lớn của thành phố",
+        "metric": "Tỷ lệ nhà thầu của thành phố có từ 10 nhân viên tạo điều kiện lập hội đồng người lao động khi người lao động yêu cầu",
+        "baseline": "Không có yêu cầu (2026)",
+        "target": "100% hợp đồng mới có yêu cầu này",
+        "owner": "Sở Tài Chính Denver (Mua Sắm)",
+        "precedent": "Chỉ Thị Hội Đồng Người Lao Động của EU (2009/38) yêu cầu các cơ quan tham vấn tại những chủ lao động đa quốc gia lớn"
+      }
     ]
   },
   "youth-services": {
@@ -865,6 +3022,82 @@
         "label": "trả lại cho mỗi $1 đầu tư vào thanh thiếu niên",
         "context": "Thông qua giảm giam giữ, thu nhập cao hơn và sức khỏe tốt hơn",
         "source": "Heckman and Masterov; Fight Crime: Invest in Kids"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Bảo đảm việc làm mùa hè cho mọi thiếu niên Denver muốn đi làm",
+        "metric": "Số chỗ việc làm mùa hè có lương cho thanh thiếu niên Denver từ 14-18 tuổi",
+        "baseline": "Khoảng 2,000-3,000 chỗ mỗi mùa hè (2025)",
+        "target": "10,000 chỗ mỗi mùa hè",
+        "owner": "Sở Phát Triển Kinh Tế & Cơ Hội Denver (Việc Làm Thanh Niên)",
+        "precedent": "One Summer Plus của Chicago đã giảm 43% số vụ bắt giữ vì tội bạo lực ở người tham gia trong một thử nghiệm ngẫu nhiên"
+      },
+      {
+        "goal": "Mở trung tâm thanh thiếu niên quanh năm ở mọi khu vực hội đồng",
+        "metric": "Số khu vực hội đồng có trung tâm thanh thiếu niên riêng mở cửa buổi tối và cuối tuần",
+        "baseline": "Chương trình cho thanh thiếu niên rải rác ở các trung tâm giải trí; phần lớn khu vực chưa có trung tâm riêng (2025)",
+        "target": "11 trên 11 khu vực",
+        "owner": "Văn Phòng Các Vấn Đề Trẻ Em Denver cùng Sở Công Viên và Giải Trí",
+        "precedent": "Các trung tâm thanh thiếu niên của các thành phố Iceland và quỹ hoạt động đã giúp giảm hơn một nửa tình trạng sử dụng chất gây nghiện ở thanh thiếu niên từ năm 1998"
+      },
+      {
+        "goal": "Giảm tình trạng vắng học kinh niên ở các trường Denver",
+        "metric": "Tỷ lệ học sinh DPS vắng học kinh niên",
+        "baseline": "38% (DPS, 2024)",
+        "target": "20% trở xuống, với tỷ lệ cố vấn 1:250",
+        "owner": "Học Khu Công Lập Denver cùng Văn Phòng Thị Trưởng",
+        "precedent": "Connecticut đã giảm tỷ lệ vắng học kinh niên toàn tiểu bang từ ~24% xuống ~18% (2022-2024), nhờ sự hỗ trợ của chương trình thăm nhà LEAP"
+      }
+    ]
+  },
+  "zoning-reform": {
+    "title": "Quy Hoạch Cho Tất Cả: Chấm Dứt Quy Hoạch Loại Trừ ở Denver",
+    "summary": "Hợp pháp hóa nhà ở trên mọi dãy phố. Bỏ quy hoạch chỉ dành cho nhà một gia đình, cho phép xây nhà phụ (ADU) theo quyền trên toàn thành phố, và bỏ yêu cầu chỗ đậu xe tối thiểu gần giao thông công cộng để nhà ở dồi dào và giá phải chăng hơn.",
+    "keyStats": [
+      {
+        "value": "78%",
+        "label": "đất ở của Denver chỉ dành cho nhà một gia đình trước các cải cách gần đây",
+        "context": "Quy hoạch loại trừ ngăn phần lớn thành phố xây nhà nhiều hộ, đẩy giá đất lên khắp thành phố",
+        "source": "Denver Community Planning and Development, 2022"
+      },
+      {
+        "value": "$1,200+",
+        "label": "cộng thêm vào chi phí mỗi căn nhà mới do yêu cầu chỗ đậu xe tối thiểu",
+        "context": "Bãi đậu xe ngầm tốn $30,000-$50,000 mỗi chỗ. Bỏ yêu cầu gần giao thông công cộng giúp giảm chi phí và cho phép nhiều căn hơn trên mỗi lô",
+        "source": "Victoria Transport Policy Institute / Parking Reform Network, 2023"
+      },
+      {
+        "value": "5,000",
+        "label": "giấy phép ADU được cấp ở Denver kể từ luật ADU toàn tiểu bang năm 2023",
+        "context": "Nhu cầu vượt xa nguồn cung - quy định địa phương phức tạp, phí cao và yêu cầu thiết kế làm chậm việc xây các căn nhà sân sau và tầng hầm giá phải chăng",
+        "source": "Denver Community Planning and Development, 2024"
+      }
+    ],
+    "smartGoals": [
+      {
+        "goal": "Hợp pháp hóa ít nhất bốn căn nhà trên mỗi lô đất trên toàn thành phố",
+        "metric": "Tỷ lệ đất ở được phép xây từ 4 căn trở lên trên mỗi lô theo quyền (từ 8 căn gần giao thông công cộng)",
+        "baseline": "~78% đất ở chỉ dành cho nhà một gia đình trước các cải cách gần đây (Bộ Luật Quy Hoạch Denver, 2024)",
+        "target": "100% đất ở",
+        "owner": "Sở Quy Hoạch và Phát Triển Cộng Đồng và Hội Đồng Thành Phố Denver",
+        "precedent": "Việc nới quy hoạch năm 2016 của Auckland đã tăng thêm ~43,500 căn nhà trong sáu năm và giữ tiền thuê thấp hơn ~28% so với nếu không nới"
+      },
+      {
+        "goal": "Tăng sản lượng nhà ở tầm trung",
+        "metric": "Số căn nhà được cấp phép mỗi năm trong các tòa nhà 2-19 căn và ADU",
+        "baseline": "Phần lớn căn hộ mới nằm trong tòa nhà từ 20 căn; ADU được phép theo quyền từ năm 2023",
+        "target": "2,000 căn nhà tầm trung và ADU được cấp phép mỗi năm",
+        "owner": "Sở Quy Hoạch và Phát Triển Cộng Đồng",
+        "precedent": "Kế Hoạch 2040 của Minneapolis đã giúp giữ mức tăng tiền thuê ở ~1% (2017-2022) trong khi phần còn lại của Minnesota tăng 14%"
+      },
+      {
+        "goal": "Phê duyệt các yêu cầu tái quy hoạch phù hợp trong 90 ngày",
+        "metric": "Số ngày trung vị từ khi hồ sơ đầy đủ đến quyết định của Hội Đồng đối với các yêu cầu tái quy hoạch phù hợp với kế hoạch",
+        "baseline": "Quy trình tùy nghi thường kéo dài hơn 6 tháng (2025)",
+        "target": "90 ngày trở xuống",
+        "owner": "Sở Quy Hoạch và Phát Triển Cộng Đồng và Hội Đồng Thành Phố Denver",
+        "precedent": "Hệ thống quy hoạch quốc gia của Nhật Bản phê duyệt theo quyền các dự án phù hợp, giữ cho số nhà khởi công ở Tokyo cao và tiền thuê ổn định"
       }
     ]
   }

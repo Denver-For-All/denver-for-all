@@ -86,8 +86,8 @@
 
 ## 参考文献
 
-- FDIC《全国无银行账户和银行服务不足家庭调查》。(2023)。（全国 4.2% 没有银行账户，14.2% 银行服务不足；有色人种社区的比例更高。）
-- 北达科他银行。年度报告和财务报表。（100 多年，零亏损年，每年回报 1 亿美元以上。）
-- 加州 AB 857。(2019)。授权立法的《公共银行法》。
-- 德国储蓄银行（储蓄银行协会）。财务报告。（1.4 万亿欧元资产，5000 万客户。）
-- 公共银行研究所。关于市政公共银行的研究和分析。
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
+- Bank of North Dakota. (n.d.). Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- California AB 857. (2019). Public Banking Act enabling legislation.
+- German Sparkassen (Savings Banks Association). (n.d.). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. (n.d.). Research and analysis on municipal public banking.

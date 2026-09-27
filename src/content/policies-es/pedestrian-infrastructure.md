@@ -140,16 +140,16 @@ Según las normas actuales, los propietarios son responsables de despejar las ac
 
 ## Referencias
 
-- City and County of Denver, DOTI. (22 de enero de 2026). Plan de Implementación de Aceras de Denver: Informe del Estado del Sistema. (5056 kilómetros en total; ~1870 kilómetros / 34% con ancho deficiente; 512 kilómetros / 9% faltantes; ~2382 kilómetros / 43% total faltantes o deficientes; 1233 cuadras / 5% que necesitan reparación. Áreas de equidad: 246 kilómetros faltantes, 1004 kilómetros deficientes. 54% de las paradas de transporte público con acera faltante a 2 minutos a pie. HIN: 50% de los accidentes mortales en el 5% de las calles).
-- Denver Streets Partnership. (2022). Materiales de la campaña Denver Deserves Sidewalks. (Más de 400 años para completar la red con los niveles de financiación anteriores; los barrios de bajos ingresos tienen el doble de la tasa de mortalidad de peatones).
-- Denver Auditor's Office. (2020). Auditoría del Programa de Reparación de Aceras del Vecindario. ("Décadas atrasado y no fue diseñado para el cumplimiento de la ADA").
-- City and County of Denver. (2025). Tablero de Visión Cero. (93 muertes por tráfico en 2025; 35 peatones, aumento del 34% con respecto a 2024; peatones 30 veces más propensos a morir que los automovilistas).
-- CBS Colorado. (2025). "El alivio de las aceras llegará pronto a los barrios de Denver, listo para comenzar con contratos de $75 millones". ($25 millones Milender White, $50 millones SEMA; se esperan $97.5 millones en ingresos por tarifas durante 3 años).
-- AAA Foundation for Traffic Safety. (2024). "Los peatones en barrios desfavorecidos tienen más probabilidades de morir en accidentes automovilísticos".
-- Joint Center for Housing Studies of Harvard University. (2019). "La vivienda de los adultos mayores de Estados Unidos". (Menos del 5% del parque de viviendas accesible para usuarios de sillas de ruedas).
-- ScienceDirect. (2024). "Las calles completas se encuentran con políticas fragmentadas: Aceras en 30 ciudades de EE. UU.". (San Francisco, Denver y Austin solo las 30 ciudades principales con políticas de aceras "equitativas").
-- Denver Gazette / City of Denver. (2022). Medida 307 (Ordenanza 307) y ordenanza de Denver Deserves Sidewalks. (Tarifa de $150/año; descuento NEST; rebajas basadas en los ingresos).
-- City and County of Denver, City Council. (Septiembre de 2024). Ordenanza 1076-24. (Estableció el cargo por servicio de aceras y el Fondo Empresarial de Aceras; la recaudación de tarifas comenzó en enero de 2025; tarifas de impacto para >70 metros lineales de fachada; anuló las exenciones de aceras de 2007).
-- City and County of Denver. (2050). Denver Moves Everyone 2050 (plan estratégico de transporte); Pautas de Calles Completas (2020); Denver Moves: Peatones y Senderos (2019); Estándares y Detalles de Transporte (2017). (Planes rectores a los que se hace referencia en el SIP).
-- City of Pontevedra, España. Resultados de la peatonalización urbana. (Cero muertes de peatones desde 2011).
-- City of Oslo, Noruega. Implementación de Visión Cero. (Cero muertes de peatones y ciclistas en 2019).
+- City and County of Denver, DOTI. (2026, January 22). Denver Sidewalk Implementation Plan: State of the System Report. (3,140 miles total; ~1,162 miles / 34% deficient width; 318 miles / 9% missing; ~1,480 miles / 43% total missing or deficient; 1,233 blocks / 5% needing repair. Equity areas: 153 mi missing, 624 mi deficient. 54% of transit stops with missing sidewalk within 2-min walk. HIN: 50% of fatal crashes on 5% of streets.)
+- Denver Streets Partnership. (2022). Denver Deserves Sidewalks campaign materials. (400+ years to complete network at prior funding levels; low-income neighborhoods 2x pedestrian fatality rate.)
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. ("Decades behind schedule and was not designed for ADA compliance.")
+- City and County of Denver. (2025). Vision Zero Dashboard. (93 traffic deaths in 2025; 35 pedestrians, 34% increase over 2024; pedestrians 30x more likely to die than motorists.)
+- CBS Colorado. (2025). "Sidewalk relief coming soon to Denver neighborhoods, set to begin with $75 million contracts." ($25M Milender White, $50M SEMA; $97.5M expected in fee revenue over 3 years.)
+- AAA Foundation for Traffic Safety. (2024). "Pedestrians in Disadvantaged Neighborhoods More Likely to Die in Car Crashes."
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (Less than 5% of housing stock accessible to wheelchair users.)
+- ScienceDirect. (2024). "Complete streets meet fragmented policies: Sidewalks in 30 U.S. cities." (San Francisco, Denver, and Austin only top-30 cities with "equitable" sidewalk policies.)
+- Denver Gazette / City of Denver. (2022). Measure 307 (Ordinance 307) and Denver Deserves Sidewalks ordinance. ($150/year fee; NEST discount; income-based rebates.)
+- City and County of Denver, City Council. (2024, September). Ordinance 1076-24. (Established the sidewalk service charge and Sidewalk Enterprise Fund; fee collection began January 2025; impact fees for >230 linear feet of frontage; overrode 2007 sidewalk exemptions.)
+- City and County of Denver. (2050). Denver Moves Everyone 2050 (strategic transportation plan); Complete Streets Guidelines (2020); Denver Moves: Pedestrians and Trails (2019); Transportation Standards and Details (2017). (Guiding plans referenced in the SIP.)
+- City of Pontevedra, Spain. (n.d.). Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
+- City of Oslo, Norway. (n.d.). Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)

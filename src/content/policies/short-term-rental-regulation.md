@@ -36,6 +36,50 @@ relatedLegislation:
     title: 'Short-Term Rental Licensing Requirements'
     status: 'In effect - insufficient enforcement'
     session: '2024'
+smartGoals:
+  - goal: 'Return non-primary-residence short-term rentals to long-term housing'
+    goalEs: 'Devolver las rentas de corto plazo que no son residencia principal a la vivienda de largo plazo'
+    metric: 'Active listings that fail primary-residence verification'
+    metricEs: 'Anuncios activos que no pasan la verificación de residencia principal'
+    baseline: '3,500+ Denver listings; 43% held by multi-property hosts (2024)'
+    baselineEs: 'Más de 3,500 anuncios en Denver; 43% de anfitriones con varias propiedades (2024)'
+    target: 'Zero non-compliant listings after the 12-month transition'
+    targetEs: 'Cero anuncios incumplidos después de la transición de 12 meses'
+    deadline: '2028'
+    owner: 'Denver Department of Excise and Licenses (STR Enforcement Office)'
+    ownerEs: 'Departamento de Impuestos Especiales y Licencias de Denver (Oficina de Cumplimiento de STR)'
+    precedent: "New York City's Local Law 18 (2023) cut short-term listings by roughly 80% through registration and platform verification"
+    precedentEs: 'La Ley Local 18 de Nueva York (2023) redujo cerca de 80% los anuncios de corto plazo mediante registro y verificación de plataformas'
+    source: 'Inside Airbnb and Denver Excise and Licenses data, 2024'
+  - goal: 'Require monthly platform data sharing'
+    goalEs: 'Exigir que las plataformas compartan datos cada mes'
+    metric: 'Platforms providing complete monthly listing data to the city'
+    metricEs: 'Plataformas que entregan a la ciudad datos completos de anuncios cada mes'
+    baseline: 'Complaint-driven enforcement; no platform data agreement (2026)'
+    baselineEs: 'Cumplimiento basado en quejas; sin acuerdo de datos con plataformas (2026)'
+    target: '100% of platforms operating in Denver'
+    targetEs: '100% de las plataformas que operan en Denver'
+    deadline: '2027-12'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: 'The EU Short-Term Rental Regulation (2024) requires platforms to share monthly data with cities by May 2026'
+    precedentEs: 'El Reglamento de Alquileres de Corta Duración de la UE (2024) exige a las plataformas compartir datos mensuales con las ciudades desde mayo de 2026'
+    source: 'Denver Excise and Licenses, 2026'
+  - goal: 'Convert STRs into long-term leases with incentives'
+    goalEs: 'Convertir rentas de corto plazo en arrendamientos de largo plazo con incentivos'
+    metric: 'Former STR units signed to 2-year leases through the Housing Return Fund'
+    metricEs: 'Unidades que eran de corto plazo firmadas con contratos de 2 años mediante el Fondo de Retorno de Vivienda'
+    baseline: '0 (no conversion program, 2026)'
+    baselineEs: '0 (sin programa de conversión, 2026)'
+    target: '750 units'
+    targetEs: '750 unidades'
+    deadline: '2029'
+    owner: 'Department of Housing Stability (HOST)'
+    ownerEs: 'Departamento de Estabilidad de Vivienda (HOST)'
+    precedent: 'Barcelona will stop renewing its ~10,000 tourist apartment licenses by 2028 to return them to residents'
+    precedentEs: 'Barcelona dejará de renovar sus ~10,000 licencias de pisos turísticos para 2028 para devolverlos a los residentes'
+    source: 'Denver Excise and Licenses, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -119,12 +163,12 @@ After 12 months, full enforcement begins.
 
 ### Cities That Have Acted - And What Happened
 
-| City                                   | Policy                                                                                                 | Result                                                                                                                        |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| **New York City** (Local Law 18, 2023) | Required STR hosts to be present during guest stays; platforms barred from listing non-compliant units | Airbnb listings dropped from ~22,000 to ~3,000 within months; long-term rental inventory increased (McGeehan, NY Times, 2023) |
-| **Barcelona, Spain**                   | Began revoking STR licenses citywide in 2028 (announced 2023)                                          | 10,000 STR licenses not renewed; tourism apartments converted to long-term rentals                                            |
-| **Amsterdam, Netherlands**             | 30-night annual cap on whole-unit STRs; platform data-sharing required                                 | STR listings declined 30%+ year-over-year; compliance increased dramatically                                                  |
-| **Santa Monica, CA**                   | Home-sharing ordinance with strict primary-residence requirement and platform liability                | STR listings fell 80%; long-term vacancy rates improved (Santa Monica City Planning, 2020)                                    |
+| City                                   | Policy                                                                                                                  | Result                                                                                                                        |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **New York City** (Local Law 18, 2023) | Required STR hosts to be present during guest stays; platforms barred from listing non-compliant units                  | Airbnb listings dropped from ~22,000 to ~3,000 within months; long-term rental inventory increased (McGeehan, NY Times, 2023) |
+| **Barcelona, Spain**                   | Announced (June 2024) it will not renew any of its ~10,000 tourist-apartment licenses when they expire in November 2028 | Pending; non-renewals take effect in November 2028                                                                            |
+| **Amsterdam, Netherlands**             | 30-night annual cap on whole-unit STRs; platform data-sharing required                                                  | STR listings declined 30%+ year-over-year; compliance increased dramatically                                                  |
+| **Santa Monica, CA**                   | Home-sharing ordinance with strict primary-residence requirement and platform liability                                 | STR listings fell 80%; long-term vacancy rates improved (Santa Monica City Planning, 2020)                                    |
 
 The common thread: **platform liability is the enforcement mechanism that works**. When Airbnb and VRBO face fines for listing non-compliant properties, they comply. When only hosts face fines, non-compliant listings persist because individual hosts are hard to find and prosecute.
 
@@ -169,10 +213,10 @@ Operating costs for the STR Enforcement Office: ~$1.5M/year. Net surplus dedicat
 
 ## References
 
-- Barron, K., Kung, E. & Proserpio, D. _The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb._ Review of Financial Studies, 2021.
-- City and County of Denver. _Short-Term Rental Licensing._ Department of Excise and Licenses, 2024.
-- Denver Office of Economic Development. _Denver Housing Market Analysis._ 2023.
-- Inside Airbnb. _Denver, Colorado dataset._ 2024. http://insideairbnb.com
-- McGeehan, P. _New York's Airbnb Crackdown: A Year Later._ New York Times, 2024.
-- New York City Council. _Local Law 18 of 2022._ Short-Term Rental Registration Law.
-- Santa Monica City Planning Division. _Home-Sharing Ordinance Annual Report._ 2020.
+- Barron, K., Kung, E. & Proserpio, D. (2021). _The Effect of Home-Sharing on House Prices and Rents: Evidence from Airbnb._ Review of Financial Studies.
+- City and County of Denver. (2024). _Short-Term Rental Licensing._ Department of Excise and Licenses.
+- Denver Office of Economic Development. (2023). _Denver Housing Market Analysis._.
+- Inside Airbnb. (2024). _Denver, Colorado dataset._ http://insideairbnb.com
+- McGeehan, P. (2024). _New York's Airbnb Crackdown: A Year Later._ New York Times.
+- New York City Council. (n.d.). _Local Law 18 of 2022._ Short-Term Rental Registration Law.
+- Santa Monica City Planning Division. (2020). _Home-Sharing Ordinance Annual Report._.

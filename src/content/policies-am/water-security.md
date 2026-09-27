@@ -111,13 +111,13 @@
 
 ## ማጣቀሻዎች
 
-- ዊሊያምስ፣ ኤ.ፒ.፣ እና ሌሎች። (2022) "በ2020-2021 በሰሜን አሜሪካ ደቡብ ምዕራብ እየተስፋፋ ያለው ከባድ ድርቅ ፈጣን መባባስ" _ተፈጥሮ የአየር ንብረት ለውጥ_። (ባለፉት 1,200 ዓመታት ውስጥ የከፋው ድርቅ።)
-- የዩኤስ ቢሮ ኦፍ ሪ reclamation. የኮሎራዶ ወንዝ ተፋሰስ የውሃ አቅርቦት ሪፖርቶች እና የአጭር ጊዜ መግለጫዎች።
-- ዴንቨር ውሃ. ዓመታዊ ሪፖርቶች፣ የረጅም ጊዜ እቅድ ሰነዶች እና የግሮስ የውሃ ማጠራቀሚያ ማስፋፊያ ፕሮጀክት ዝመናዎች።
-- የአሜሪካ የውሃ ሥራዎች ማህበር። የፍላጎት አስተዳደር እና የአቅርቦት መስፋፋት የወጪ-ጥቅም ትንተና።
-- የኮሎራዶ የውሃ ሀብት ክፍል. የበረዶ ክምችት እና የጅረት ፍሰት መረጃ፤ የውሃ መብት አስተዳደር።
-- የሲንጋፖር የህዝብ መገልገያዎች ቦርድ (PUB)። የ NEWater እና አራት ብሔራዊ ቧንቧዎች ፕሮግራም ሪፖርቶች።
-- የሜልቦርን ከተማ። የውሃ ጥበቃ ፕሮግራም መረጃ እና የነፍስ ወከፍ ፍጆታ አዝማሚያዎች።
-- የቱክሰን የውሃ መምሪያ ከተማ። የጥበቃ ፕሮግራም ውጤቶች እና የዝናብ ውሃ መሰብሰቢያ ድንጋጌ።
-- የእስራኤል የውሃ ባለስልጣን። ብሔራዊ የውሃ ኢኮኖሚ ሪፖርቶች፤ የቆሻሻ ውሃ መልሶ ጥቅም ላይ የሚውል መረጃ።
-- የምዕራባውያን ሀብት ተሟጋቾች። የኮሎራዶ የውሃ ጥበቃ ፖሊሲ ትንተና።
+- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

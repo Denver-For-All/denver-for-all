@@ -36,6 +36,50 @@ relatedLegislation:
     title: 'Measures to Improve Black Maternal Health Equity'
     status: 'Introduced - Assigned to Health & Human Services'
     url: 'https://leg.colorado.gov/bills/hb26-1044'
+smartGoals:
+  - goal: 'Offer a community doula to every Medicaid birth in Denver'
+    goalEs: 'Ofrecer una doula comunitaria a cada parto con Medicaid en Denver'
+    metric: 'Share of Denver Medicaid births with doula support'
+    metricEs: 'Porcentaje de partos con Medicaid en Denver con apoyo de doula'
+    baseline: 'Medicaid doula benefit launched 2024, with low provider participation (HCPF, 2025)'
+    baselineEs: 'Beneficio de doula de Medicaid lanzado en 2024, con baja participación de proveedores (HCPF, 2025)'
+    target: '50% of Medicaid births'
+    targetEs: '50% de los partos con Medicaid'
+    deadline: '2029'
+    owner: 'DDPHE with Denver Health'
+    ownerEs: 'DDPHE con Denver Health'
+    precedent: 'Minnesota and Oregon Medicaid doula programs cut cesarean rates and preterm births among participants'
+    precedentEs: 'Los programas de doulas de Medicaid de Minnesota y Oregón redujeron cesáreas y partos prematuros entre las participantes'
+    source: 'Colorado Department of Health Care Policy and Financing, 2025'
+  - goal: 'Close the Black-white gap in severe maternal morbidity'
+    goalEs: 'Cerrar la brecha entre mujeres negras y blancas en morbilidad materna grave'
+    metric: 'Ratio of severe maternal morbidity rates for Black vs. white birthing people in Denver'
+    metricEs: 'Razón de tasas de morbilidad materna grave entre personas negras y blancas que dan a luz en Denver'
+    baseline: '2-3x higher for Black birthing people (Colorado Maternal Mortality Review Committee, 2023)'
+    baselineEs: '2 a 3 veces mayor para personas negras (Comité de Revisión de Mortalidad Materna de Colorado, 2023)'
+    target: 'Gap cut in half, reported annually on a public dashboard'
+    targetEs: 'Brecha reducida a la mitad, reportada cada año en un tablero público'
+    deadline: '2031'
+    owner: 'DDPHE (Annual Maternal & Infant Health Equity Report)'
+    ownerEs: 'DDPHE (Informe Anual de Equidad en Salud Materna e Infantil)'
+    precedent: "California's Maternal Quality Care Collaborative cut the state's maternal mortality by more than half from 2006 to 2013"
+    precedentEs: 'La Colaborativa de Calidad de Atención Materna de California redujo a menos de la mitad la mortalidad materna del estado entre 2006 y 2013'
+    source: 'Colorado Maternal Mortality Review Committee, 2023'
+  - goal: "Visit every newborn's family at home after birth"
+    goalEs: 'Visitar en casa a cada familia con un recién nacido'
+    metric: 'Share of Denver births receiving a nurse or community health worker home visit within 3 weeks'
+    metricEs: 'Porcentaje de nacimientos en Denver que reciben una visita en casa de enfermería o promotora en 3 semanas'
+    baseline: 'Nurse-Family Partnership serves only eligible first-time, low-income parents (2025)'
+    baselineEs: 'Nurse-Family Partnership solo atiende a madres primerizas elegibles de bajos ingresos (2025)'
+    target: '60% of all births'
+    targetEs: '60% de todos los nacimientos'
+    deadline: '2030'
+    owner: 'DDPHE with Nurse-Family Partnership'
+    ownerEs: 'DDPHE con Nurse-Family Partnership'
+    precedent: "Durham, NC's Family Connects universal home visiting cut infant ER visits by 50% in a randomized trial"
+    precedentEs: 'La visita universal Family Connects de Durham, NC redujo 50% las visitas de bebés a emergencias en un ensayo aleatorio'
+    source: 'Nurse-Family Partnership Colorado, 2025'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -188,13 +232,13 @@ Transparency protects patients. Safety-net hospitals like Denver Health serve th
 - Greenwood, B.N., et al. (2020). "Physician-patient racial concordance and disparities in birthing mortality for newborns." Proceedings of the National Academy of Sciences, 117(35): 21194-21200. (Black newborns cared for by Black physicians had significantly lower mortality.)
 - Ickovics, J.R., et al. (2007). "Group Prenatal Care and Perinatal Outcomes." Obstetrics & Gynecology, 110(2): 330-339. (Centering Pregnancy: 33% reduction in preterm birth for Black participants.)
 - Sandall, J., et al. (2016). "Midwife-led continuity models versus other models of care for childbearing women." Cochrane Database of Systematic Reviews. (Midwife-led care: fewer interventions, equivalent or better outcomes, higher satisfaction, 24% reduction in preterm birth.)
-- Olds, D.L., et al. (Multiple publications, 1986-2019). Nurse-Family Partnership randomized controlled trials published in Pediatrics, JAMA, and Prevention Science. (Reduced preterm birth, child abuse/neglect, emergency visits; improved school readiness; $5.70 ROI per $1 invested per RAND analysis.)
+- Olds, D. L., et al. (1986–2019). _Nurse-Family Partnership randomized controlled trials_ [Multiple publications in _Pediatrics_, _JAMA_, and _Prevention Science_]. (Reduced preterm birth, child abuse/neglect, emergency visits; improved school readiness; $5.70 ROI per $1 invested per RAND analysis.)
 - Hynan, M.T., et al. (2013). "Recommendations for mental health professionals in the NICU." Journal of Perinatology, 33: 748-753. (20-40% of NICU parents experience PTSD, depression, or anxiety.)
 - Luca, D.L., et al. (2020). "Financial Costs of Untreated Perinatal Mood and Anxiety Disorders." American Journal of Psychiatry, 177(3): 232-241. ($14,000 per mother-infant pair in the first year; $32,000 over 5 years.)
 - Paulson, J.F. & Bazemore, S.D. (2010). "Prenatal and Postpartum Depression in Fathers." JAMA, 303(19): 1961-1969. (5-10% paternal postpartum depression rate.)
 - American Association of Critical-Care Nurses (AACN). (2024). Healthy Work Environment Survey. (66% of critical care nurses have considered leaving due to staffing.)
-- RAND Corporation. Nurse-Family Partnership cost-benefit analyses. ($5.70 return per $1 invested.)
-- National Perinatal Information Center. NICU cost data. ($3,000-$5,000+ per day.)
+- RAND Corporation. (n.d.). Nurse-Family Partnership cost-benefit analyses. ($5.70 return per $1 invested.)
+- National Perinatal Information Center. (n.d.). NICU cost data. ($3,000-$5,000+ per day.)
 - Dennis, C.L. (2003). "Peer support within a health care context: a concept analysis." International Journal of Nursing Studies. (Peer support evidence for perinatal depression.)
 - Moseson, H., et al. (2020). "Experiences of transgender and nonbinary individuals seeking reproductive care." Obstetrics & Gynecology, 136(6): 1203-1211. (High rates of gender-related discrimination during pregnancy and postpartum; provider refusal, misgendering, outing without consent.)
 - Preyde, M. & Ardal, F. (2003). "Effectiveness of a parent 'buddy' program for mothers of very preterm infants in a neonatal intensive care unit." Canadian Medical Association Journal, 168(8): 969-973. (NICU peer support reduces maternal anxiety and depression.)

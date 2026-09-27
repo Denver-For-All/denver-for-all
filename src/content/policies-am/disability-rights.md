@@ -117,14 +117,16 @@ ADA የ 35 ዓመት ዕድሜ ያለው ሲሆን ጣሪያ ሳይሆን ወለ
 **"'ያለ እኛ ስለ እኛ ምንም ነገር የለም' በተግባር ምን ማለት ነው?"**
 ይህ ማለት የአካል ጉዳተኞች የአካል ጉዳት ፖሊሲን ይመራሉ ማለት ነው። የአካል ጉዳተኞች መብት ጽሕፈት ቤት በአካል ጉዳተኛ ሰው መመራት አለበት። ለአካል ጉዳት ነክ ጥሪዎች ምላሽ የሚሰጡ STAR ቡድኖች የአካል ጉዳት ዕውቀት እና የኖሩበት ልምድ ያላቸውን ሰዎች ማካተት አለባቸው። ኮሚሽኑ ራሳቸው የአካል ጉዳተኞች የሆኑ አባላት አብላጫ መሆን አለባቸው። የአካል ጉዳተኞች አመራር የሌለው የፖሊሲ ንድፍ ለአካል ጉዳተኞች የማይጠቅም ፖሊሲን ያመርታል። ይህ ምልክት አይደለም - ብቃት ነው።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County የአካል ጉዳተኝነት ሁኔታ መረጃ። (~10% የአካል ጉዳተኝነት መጠን፣ ከ 70,000 በላይ ነዋሪዎች።)
-- Bureau of Labor Statistics. (2024). Persons with a Disability: Labor Force Characteristics. (ለአካል ጉዳተኛ የሥራ ዕድሜ ክልል ውስጥ ላሉ አዋቂዎች 37.2% የቅጥር መጠን ከአካል ጉዳት ከሌላቸው ጋር ሲነጻጸር 77.2%፤ የደመወዝ ልዩነት 74 ሳንቲም በዶላር።)
-- Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (በፖሊስ ከሚገደሉት ሰዎች መካከል አንድ ሦስተኛው እስከ ግማሽ የሚሆኑት የአካል ጉዳት አለባቸው።)
-- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (ለተሽከርካሪ ወንበር ተጠቃሚዎች <5% የቤቶች ክምችት ተደራሽ ነው፤ <1% የማየት/የመስማት ችግር ላለባቸው።)
-- National Association of Home Builders. ሁለንተናዊ የንድፍ ወጪ ትንተና። (በአዲስ ግንባታ ውስጥ በአንድ ክፍል ከ $100-$600 ዶላር ከ $10,000-$50,000+ ጋር ለማስተካከል ሲነጻጸር።)
-- Dartmouth IPS Employment Center. የግለሰብ ምደባ እና ድጋፍ ማስረጃ መሠረት። (ከባህላዊ የሙያ ማገገሚያ ጋር ሲነጻጸር ከ 55-65% የሚወዳደር የቅጥር ምደባ መጠን ከ 20-25% ጋር።)
-- Genworth/CareScout. (2024). Cost of Care Survey: Colorado. (የአረጋውያን መንከባከቢያ ቤት $10,600+/በወር ከማኅበረሰብ ላይ የተመሠረተ እንክብካቤ $2,000-$4,000/በወር ጋር ሲነጻጸር።)
-- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. (ፕሮግራሙ "ADAን ለማክበር አልተነደፈም፣" ከአሥርተ ዓመታት ጀርባ ቀርቷል።)
-- RTD-Denver. (2024-2025). Access-a-Ride እና Access-on-Demand የፕሮግራም መረጃ፤ የፌዴራል ADA የክፍያ ክስ።
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County disability status data. (~10% disability rate, 70,000+ residents.)
+- Bureau of Labor Statistics. (2024). Persons with a Disability: Labor Force Characteristics. (37.2% employment rate for disabled working-age adults vs. 77.2% for non-disabled; 74 cents on the dollar wage gap.)
+- Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (One-third to one-half of people killed by police are disabled.)
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (<5% of housing stock accessible to wheelchair users; <1% for vision/hearing impairments.)
+- National Association of Home Builders. (n.d.). Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
+- Dartmouth IPS Employment Center. (n.d.). Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado. (Nursing home $10,600+/month vs. community-based care $2,000-$4,000/month.)
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. (Program "not designed for ADA compliance," decades behind schedule.)
+- RTD-Denver. (2024-2025). Access-a-Ride and Access-on-Demand program data; federal ADA fare lawsuit.
+- Colorado Department of Labor and Employment. (n.d.). Disability employment data. (37.7% vs. 80.0% employment rate.)
+- National Council on Disability. (n.d.). Various reports on community-based living, institutional bias, and disability rights enforcement gaps.

@@ -101,11 +101,11 @@ El SCFD es una fuente de financiación fundamental ($85 millones en 2024), pero 
 
 ## Referencias
 
-- Colorado Business Committee for the Arts (CBCA). (2024). Estudio de Actividad Económica de la Cultura del Área Metropolitana de Denver. $3.12 mil millones en actividad económica, 14,466 empleos, $692 millones en turismo cultural, 14.52 millones de asistencia.
-- Scientific and Cultural Facilities District (SCFD). (2024). Informe Anual. $85 millones distribuidos a más de 300 organizaciones en siete condados.
-- Denver Arts & Venues. (2024). Plan Cultural Denver Creates. Plan estratégico de diez años construido sobre más de 2,500 voces de la comunidad.
-- Programa de Arte Público de Denver. (2023). Visión general del programa. 1% para el arte en el CIP de la ciudad desde 1991, más de $40 millones generados, más de 400 obras, 55% por artistas de Colorado.
-- Colorado Office of Economic Development and International Trade (OEDIT). (2024). Datos de Colorado Creative Industries. Impacto de la economía creativa en todo el estado de $19.7 mil millones, más de 121,000 empleos, clasificación estatal de 39 en financiación de las artes per cápita.
-- SMU DataArts. (2024). Índice de Vibración de las Artes. Denver ocupa el puesto 18 entre las grandes comunidades.
-- Bonfils-Stanton Foundation. (2020). "Fantasmas de una ciudad: cómo la crisis de la vivienda de Denver está expulsando a sus artistas".
-- Westword. (2024). Cobertura de música y artes de Denver, incluyendo cierres de locales, análisis de la distribución del SCFD e informes de Denver Creates.
+- Colorado Business Committee for the Arts (CBCA). (2024). Economic Activity Study of Metro Denver Culture. $3.12 billion in economic activity, 14,466 jobs, $692 million in cultural tourism, 14.52 million attendance.
+- Scientific and Cultural Facilities District (SCFD). (2024). Annual Report. $85 million distributed to 300+ organizations across seven counties.
+- Denver Arts & Venues. (2024). Denver Creates Cultural Plan. Ten-year strategic plan built on 2,500+ community voices.
+- Denver Public Art Program. (2023). Program overview. 1% for art on city CIP since 1991, $40M+ generated, 400+ works, 55% by Colorado artists.
+- Colorado Office of Economic Development and International Trade (OEDIT). (2024). Colorado Creative Industries data. $19.7 billion statewide creative economy impact, 121,000+ jobs, state ranking of 39th in per capita arts funding.
+- SMU DataArts. (2024). Arts Vibrancy Index. Denver ranked 18th among large communities.
+- Bonfils-Stanton Foundation. (2020). "Ghosts of a City: How Denver's Housing Crisis is Driving Out its Artists."
+- Westword. (2024). Denver music and arts coverage, including venue closures, SCFD distribution analysis, and Denver Creates reporting.

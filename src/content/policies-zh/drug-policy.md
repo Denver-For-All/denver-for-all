@@ -17,7 +17,7 @@
 
 丹佛有一些减少危害的基础设施，但主要将吸毒视为刑事问题。该市在2019年通过第301号发起法令将赛洛西宾（psilocybin）合法化，科罗拉多州在2022年通过第122号提案，将治疗性迷幻药合法化。但对于引发实际危机的物质 -  - 芬太尼、甲基苯丙胺、海洛因 -  - 该方法仍然是执法优先。
 
-丹佛报告称，2023年有827起意外药物中毒死亡事件（丹佛法医办公室，2024）。芬太尼与其中64%的死亡有关。丹佛警察局在2023年进行了2,800多次与毒品相关的逮捕，但药物过量死亡人数逐年上升。执法方法没有产生效果。
+丹佛报告称，2023年有598起意外药物中毒死亡事件（丹佛法医办公室，2024）。芬太尼与其中64%的死亡有关。丹佛警察局在2023年进行了2,800多次与毒品相关的逮捕，但药物过量死亡人数逐年上升。执法方法没有产生效果。
 
 ### 谁反对这项政策（以及原因）
 
@@ -117,13 +117,14 @@
 
 ## 参考文献
 
-- 丹佛法医办公室。(2024)。年度报告：2023年丹佛市和县的意外药物中毒死亡人数。
-- CDC WONDER数据库。临时药物过量死亡人数。（芬太尼是18-45岁人群的主要死因。）
-- SICAD（葡萄牙）。(2023)。关于毒品使用和毒品相关问题的年度报告。（葡萄牙非罪化的结果。）
-- Potier, C., et al. (2014)。“监督注射服务：已经证明了什么？”《药物和酒精依赖》，145, 48-68。（监督消费场所零死亡；审查了75项研究。）
-- 瑞士联邦公共卫生办公室。海洛因辅助治疗评估报告。（瑞士HAT的结果。）
-- 俄勒冈州卫生局。(2023)。第110号措施实施报告。（10%的资金拨付数字。）
-- EMCDDA（欧洲毒品和毒瘾监测中心）。年度欧洲毒品报告。（欧盟比较数据。）
-- 国家毒品情报中心。(2011)。非法药物使用对美国社会的经济影响。（每年1930亿美元的成本估算；累计超过1万亿美元。）
-- Vera Justice研究所。(2022)。监狱的价格：衡量地方监禁的纳税人成本。（每年4万美元以上的监禁成本。）
-- NIDA（国家药物滥用研究所）。治疗成本效益数据。（每年4000-8000美元的治疗成本。）
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

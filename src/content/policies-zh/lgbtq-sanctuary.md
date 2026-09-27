@@ -125,13 +125,13 @@ LGBTQ+ 青年面临着不成比例的无家可归、欺凌和心理健康危机�
 
 ## 参考文献
 
-- GLAAD。(2025)。“2025 项目曝光。” 追踪联邦对 LGBTQ+ 保护措施的撤销。
-- 运动发展项目 (MAP)。(2025)。“地方非歧视条例。” 395+ 个具有明确 LGBTQ+ 保护措施的城市。
-- 威廉姆斯研究所，加州大学洛杉矶分校法学院。(2023)。各州和都市区的 LGBTQ+ 人口估计和经济数据。
-- True Colors United。(2023)。“LGBTQ+ 青年无家可归。” 高达 40% 的无家可归青年被认为是 LGBTQ+ 人群。
-- 美国心理学会。(2009)。“性取向适当治疗反应工作组报告。” 转化疗法造成伤害；没有疗效证据。
-- NYCLU。(2025)。“不退缩：2026 年纽约市议会的民权议程。” 市政 LGBTQ+ 保护框架。
-- 全国 LGBTQ 特遣部队。(2026)。“创造变革 2026。” 解决交叉 LGBTQ+ 政策的会议提案。
-- 科罗拉多州议会。HB 19-1129。“未成年人转化疗法禁令。” 2019 年颁布。
-- 科罗拉多州反歧视法案 (CADA)。C.R.S. 24-34-301 et seq. 性取向和性别认同保护。
-- 美国进步中心。(2025)。“通过地方行政行动推进 LGBTQ 平等。” 市政政策工具包。
+- GLAAD. (2025). "Project 2025 Exposed." Tracking federal rollbacks of LGBTQ+ protections.
+- Movement Advancement Project (MAP). (2025). "Local Nondiscrimination Ordinances." 395+ municipalities with explicit LGBTQ+ protections.
+- Williams Institute, UCLA School of Law. (2023). LGBTQ+ population estimates and economic data by state and metro area.
+- True Colors United. (2023). "LGBTQ+ Youth Homelessness." Up to 40% of homeless youth identify as LGBTQ+.
+- American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Conversion therapy causes harm; no evidence of efficacy.
+- NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Municipal LGBTQ+ protection framework.
+- National LGBTQ Task Force. (2026). "Creating Change 2026." Conference proposals addressing intersectional LGBTQ+ policy.
+- Colorado General Assembly. (2019). HB 19-1129. "Conversion Therapy Ban for Minors."
+- Colo. Rev. Stat. § 24-34-301 et seq. (Colorado Anti-Discrimination Act). Sexual orientation and gender identity protections.
+- Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Municipal policy toolkit.

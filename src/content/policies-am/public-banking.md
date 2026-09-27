@@ -86,8 +86,8 @@ Denver የአሠራር ገንዘቡን በንግድ ባንኮች በግምጃ �
 
 ## ማጣቀሻዎች
 
-- FDIC የባንክ አገልግሎት የሌላቸው እና በቂ የባንክ አገልግሎት የሌላቸው አባወራዎች ብሔራዊ ጥናት። (2023)። (4.2% የባንክ አገልግሎት የላቸውም ፣ 14.2% በሀገር አቀፍ ደረጃ በቂ የባንክ አገልግሎት የላቸውም ፤ ይህ ቁጥር በብዙኀን ማኅበረሰብ ውስጥ ከፍ ያለ ነው።)
-- የሰሜን Dakota ባንክ። ዓመታዊ ሪፖርቶች እና የፋይናንስ መግለጫዎች። (100+ ዓመታት ፣ ዜሮ የኪሳራ ዓመታት ፣ $100M+ በዓመት ይመለሳል።)
-- California AB 857። (2019)። የሕዝብ ባንክ ሕግ የማስቻል ሕግ።
-- የጀርመን Sparkassen (የቁጠባ ባንኮች ማኅበር)። የፋይናንስ ሪፖርቶች። (€1.4 ትሪሊዮን ሀብት ፣ 50M ደንበኞች።)
-- የሕዝብ ባንክ ኢንስቲትዩት። በማዘጋጃ ቤት የሕዝብ ባንክ ላይ ምርምር እና ትንተና።
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
+- Bank of North Dakota. (n.d.). Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- California AB 857. (2019). Public Banking Act enabling legislation.
+- German Sparkassen (Savings Banks Association). (n.d.). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. (n.d.). Research and analysis on municipal public banking.

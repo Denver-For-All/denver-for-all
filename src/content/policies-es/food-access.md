@@ -101,11 +101,11 @@ Las enfermedades relacionadas con la dieta le cuestan a Denver cientos de millon
 
 ## Referencias
 
-- Denver Department of Public Health and Environment (DDPHE). (2021-2024). Datos de la encuesta de inseguridad alimentaria; Mapeo del desierto alimentario del Denver Human Services Index.
-- Colorado Health Institute. (2023). Colorado Health Access Survey (CHAS): Seguridad Alimentaria. Tasa de inseguridad alimentaria del 11.2% en todo el estado.
-- Feeding America. (2024). Map the Meal Gap: Datos de Colorado. 474,420 habitantes de Colorado con inseguridad alimentaria, incluidos 141,570 niños.
-- Healthy Food for Denver's Kids (HFDK). (2023). Informe Anual al Concejo Municipal. $66.5 millones distribuidos, más de 31 millones de comidas servidas desde 2020.
-- USDA Economic Research Service. (2023). Food Access Research Atlas. Designaciones de desierto alimentario a nivel de distrito censal para Denver.
-- Food Bank of the Rockies. (2024). Informe Anual. Aumento del 13% en las personas atendidas; Aumento del 60% en la demanda de despensas móviles; Costos de compra de alimentos de $1.3 millones/mes.
-- Denver Urban Gardens (DUG). (2023). Informe de Impacto. 200 huertos comunitarios, 24 bosques de alimentos, 34 acres, más de 17,000 jardineros.
-- Colorado Secretary of State. (2022, 2025). Proposition FF (2022, 55% de aprobación), Proposition LL y Proposition MM (2025) resultados de las elecciones. Datos del programa universal de comidas escolares gratuitas.
+- Denver Department of Public Health and Environment (DDPHE). (2021-2024). Food insecurity survey data; Denver Human Services Index food desert mapping.
+- Colorado Health Institute. (2023). Colorado Health Access Survey (CHAS): Food Security. 11.2% food insecurity rate statewide.
+- Feeding America. (2024). Map the Meal Gap: Colorado data. 474,420 food-insecure Coloradans including 141,570 children.
+- Healthy Food for Denver's Kids (HFDK). (2023). Annual Report to City Council. $66.5M distributed, 31M+ meals served since 2020.
+- USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
+- Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
+- Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'El reconocimiento de credenciales no cuesta dinero - genera dinero'
     source: 'TRIEC, 2021'
     theme: 'primary'
+smartGoals:
+  - goal: 'Get foreign-trained professionals back into their fields within a year'
+    goalEs: 'Lograr que los profesionales formados en el extranjero vuelvan a su campo en un año'
+    metric: 'Median months from credential evaluation to employment in field for Credential Recognition Office clients'
+    metricEs: 'Mediana de meses desde la evaluación de credenciales hasta el empleo en su campo para clientes de la oficina'
+    baseline: '3+ years typical (2024)'
+    baselineEs: 'Más de 3 años en promedio (2024)'
+    target: 'Under 12 months'
+    targetEs: 'Menos de 12 meses'
+    deadline: '2029'
+    owner: 'Denver Economic Development & Opportunity with Colorado DORA'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver con DORA de Colorado'
+    precedent: 'Ontario has funded bridge training for internationally trained professionals since 2003, moving thousands into licensed work'
+    precedentEs: 'Ontario financia desde 2003 capacitación puente para profesionales formados en el extranjero, llevando a miles a trabajos con licencia'
+    source: 'Colorado HB 23-1224 Credential Recognition study, 2024'
+  - goal: 'Enroll immigrant professionals in paid bridge training'
+    goalEs: 'Inscribir a profesionales inmigrantes en capacitación puente pagada'
+    metric: 'Participants completing bridge training in nursing, teaching, engineering, and skilled trades'
+    metricEs: 'Participantes que completan capacitación puente en enfermería, docencia, ingeniería y oficios'
+    baseline: 'No city bridge program (2026)'
+    baselineEs: 'Sin programa puente municipal (2026)'
+    target: '1,500 completers, 75% employed in field within 6 months'
+    targetEs: '1,500 egresados, 75% empleados en su campo en 6 meses'
+    deadline: '2030'
+    owner: 'Denver Economic Development & Opportunity with Community College of Denver'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver con Community College of Denver'
+    precedent: 'Upwardly Global and Welcome Back Centers have helped thousands of immigrant professionals re-enter their fields'
+    precedentEs: 'Upwardly Global y los Welcome Back Centers han ayudado a miles de profesionales inmigrantes a volver a su campo'
+    source: 'Migration Policy Institute brain waste estimate, 2021'
+  - goal: 'Fund immigrant-owned small businesses'
+    goalEs: 'Financiar pequeños negocios de dueños inmigrantes'
+    metric: 'Microloans issued through the Immigrant Entrepreneurship Fund'
+    metricEs: 'Microcréditos otorgados mediante el Fondo de Emprendimiento Inmigrante'
+    baseline: '0 (no dedicated fund, 2026)'
+    baselineEs: '0 (sin fondo dedicado, 2026)'
+    target: '300 loans totaling $6M'
+    targetEs: '300 préstamos por un total de $6M'
+    deadline: '2029'
+    owner: 'Denver Economic Development & Opportunity'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver'
+    precedent: "New York City's Immigrant Business Initiative (2015) and nonprofit lenders like Accion Opportunity Fund finance immigrant-owned startups"
+    precedentEs: 'La Iniciativa de Negocios Inmigrantes de Nueva York (2015) y prestamistas sin fines de lucro como Accion Opportunity Fund financian negocios de inmigrantes'
+    source: 'Denver Economic Development & Opportunity, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -160,7 +204,7 @@ The Credential Recognition Office will use established international evaluation 
 ## References
 
 - Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
-- Colorado HB 23-1224. Credential Recognition Study Act.
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
 - Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
 - BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
 - Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)

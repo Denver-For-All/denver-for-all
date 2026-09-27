@@ -44,6 +44,50 @@ relatedLegislation:
     title: 'Child Care Provider Licensing & Quality'
     status: 'Introduced - Assigned to Education'
     url: 'https://leg.colorado.gov/bills/sb26-020'
+smartGoals:
+  - goal: 'Guarantee a childcare slot for every child from 6 months to kindergarten'
+    goalEs: 'Garantizar un cupo de cuidado infantil para cada niño desde los 6 meses hasta el kínder'
+    metric: 'Licensed full-day slots per 100 Denver children under 5'
+    metricEs: 'Cupos licenciados de día completo por cada 100 niños menores de 5 años en Denver'
+    baseline: 'Infant care costs $1,440-2,200/month and waitlists are common (2025)'
+    baselineEs: 'El cuidado infantil de bebés cuesta $1,440-2,200/mes y las listas de espera son comunes (2025)'
+    target: 'Enough slots for 75% of children under 5'
+    targetEs: 'Cupos suficientes para 75% de los niños menores de 5 años'
+    deadline: '2032'
+    owner: "Denver Office of Children's Affairs with the Colorado Department of Early Childhood"
+    ownerEs: 'Oficina de Asuntos Infantiles de Denver con el Departamento de la Primera Infancia de Colorado'
+    precedent: 'New Mexico launched free universal childcare on November 1, 2025 and enrolled 16,700+ additional children in its first months'
+    precedentEs: 'Nuevo México lanzó cuidado infantil universal gratuito el 1 de noviembre de 2025 e inscribió a más de 16,700 niños adicionales en sus primeros meses'
+    source: 'Care.com and DaycareCalc Denver cost data, 2025-2026'
+  - goal: 'Cap family childcare costs at 5% of income'
+    goalEs: 'Limitar el costo del cuidado infantil a 5% de los ingresos familiares'
+    metric: 'Median share of household income Denver families pay for full-time care'
+    metricEs: 'Porcentaje mediano del ingreso familiar que pagan las familias de Denver por cuidado de tiempo completo'
+    baseline: '~18% of household income (2025)'
+    baselineEs: '~18% del ingreso familiar (2025)'
+    target: '5% or less; free under 200% FPL'
+    targetEs: '5% o menos; gratis bajo 200% del FPL'
+    deadline: '2030'
+    owner: "Denver Office of Children's Affairs"
+    ownerEs: 'Oficina de Asuntos Infantiles de Denver'
+    precedent: "Quebec's low-fee childcare (since 1997) raised mothers' employment by ~70,000 and more than paid for itself in tax revenue"
+    precedentEs: 'El cuidado infantil de bajo costo de Quebec (desde 1997) aumentó en ~70,000 el empleo de las madres y se pagó con creces con impuestos'
+    source: 'Common Sense Institute, Colorado child care report, 2025'
+  - goal: 'Pay early educators a living wage'
+    goalEs: 'Pagar un salario digno a los educadores de primera infancia'
+    metric: 'Median hourly wage of Denver childcare workers'
+    metricEs: 'Salario mediano por hora de los trabajadores de cuidado infantil en Denver'
+    baseline: '$13-16/hr (2024)'
+    baselineEs: '$13-16/hr (2024)'
+    target: '$25/hr starting wage, with K-12 parity for credentialed educators'
+    targetEs: '$25/hr de salario inicial, con paridad con K-12 para educadores acreditados'
+    deadline: '2030'
+    owner: "Denver Office of Children's Affairs (wage supplements)"
+    ownerEs: 'Oficina de Asuntos Infantiles de Denver (complementos salariales)'
+    precedent: 'New Mexico set a $18/hr floor for childcare workers in 2025 as part of its universal program'
+    precedentEs: 'Nuevo México fijó un piso de $18/hr para trabajadores de cuidado infantil en 2025 como parte de su programa universal'
+    source: 'Bureau of Labor Statistics, OEWS Denver MSA, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -160,7 +204,7 @@ This is a real challenge. The childcare industry faces massive staffing shortage
 
 - Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
 - BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
-- Colorado CCCAP program data and eligibility thresholds.
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
 - Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
 - Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
-- CU Boulder in-state tuition (2024-2025): $13,590/year. (Comparison to childcare costs.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

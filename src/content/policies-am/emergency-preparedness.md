@@ -104,13 +104,13 @@ FEMA የዴንቨር ካውንቲን ለተፈጥሮ አደጋዎች ያለው �
 **"የአየር ንብረት ለውጥ ለአንድ ከተማ ለመቋቋም በጣም ትልቅ ነው።"**
 ይህ ፖሊሲ የአየር ንብረት ለውጥን ስለማስቆም ሳይሆን ስለ መላመድ እና ዝግጁነት ነው። በአየር ንብረት ፖሊሲ ላይ እምነት ይኑርዎትም አይኑርዎት፣ የሙቀት ማዕበሎች፣ ጭስ እና ጎርፍ ቀድሞውንም እየተከሰቱ ነው። ዝግጁነት አስተሳሰብ እንጂ ርዕዮተ ዓለም አይደለም።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- የኮሎራዶ DPHE የአየር ጥራት ቁጥጥር ኮሚሽን። (2023)። ዓመታዊ የአየር ጥራት ቁጥጥር መረጃ።
-- ለመንግሥት መሬት እምነት። (2023)። የከተማ ሙቀት ደሴት ካርታ ስራ፣ የዴንቨር ሜትሮ አካባቢ።
-- የዴንቨር የአየር ንብረት እርምጃ ግብረ ኃይል። (2020)። ለዴንቨር ሜትሮ አካባቢ የአየር ንብረት ትንበያዎች።
-- FEMA / ብሔራዊ የሕንፃ ሳይንስ ተቋም። (2019)። የተፈጥሮ አደጋ ስጋት ቅነሳ ይቆጥባል፦ የ2019 ሪፖርት። ($1 $6 ይቆጥባል።)
-- የዴንቨር የአደጋ ጊዜ አስተዳደር ጽሕፈት ቤት። (2023)። የአደጋ ስጋት ቅነሳ እቅድ ማዘመን።
-- የኮሎራዶ የሕዝብ ጤና እና አካባቢ ጥበቃ መምሪያ። (2023)። ከሙቀት ጋር የተያያዘ የሞት መረጃ።
-- የዴንቨር የዐውሎ ነፋስ ፍሳሽ ማስወገጃ ፈንድ። ዓመታዊ በጀት እና የመሠረተ ልማት ሪፖርቶች።
-- የፖርትላንድ የዕቅድ እና ዘላቂነት ቢሮ። የማህበረሰብ የመቋቋም አቅም ማዕከል ፕሮግራም ሪፖርቶች።
+- Colorado DPHE Air Quality Control Commission. (2023). Annual air quality monitoring data.
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver Climate Action Task Force. (2020). Climate projections for Denver metro area.
+- FEMA / National Institute of Building Sciences. (2019). Natural Hazard Mitigation Saves: 2019 Report. ($1 saves $6.)
+- Denver Office of Emergency Management. (2023). Hazard Mitigation Plan Update.
+- Colorado Department of Public Health and Environment. (2023). Heat-related mortality data.
+- Denver Storm Drainage Fund. (n.d.). Annual budget and infrastructure reports.
+- Portland Bureau of Planning and Sustainability. (n.d.). Community Resilience Hub program reports.

@@ -17,7 +17,7 @@ Denver se enfrenta específicamente a una crisis de opioides/fentanilo que las f
 
 Denver tiene cierta infraestructura de reducción de daños, pero trata el consumo de drogas principalmente como un asunto penal. La ciudad despenalizó la psilocibina a través de la Ordenanza Iniciada 301 en 2019, y Colorado aprobó la Proposición 122 en 2022 que legaliza los psicodélicos terapéuticos. Pero para las sustancias que impulsan la crisis actual - fentanilo, metanfetamina, heroína - el enfoque sigue siendo la aplicación de la ley en primer lugar.
 
-Denver reportó 827 muertes no intencionales por envenenamiento por drogas en 2023 (Oficina del Médico Forense de Denver, 2024). El fentanilo estuvo involucrado en el 64% de esas muertes. La Policía de Denver realizó más de 2,800 arrestos relacionados con drogas en 2023, pero las muertes por sobredosis han seguido aumentando año tras año. El enfoque de aplicación de la ley no está produciendo resultados.
+Denver registró 598 muertes por sobredosis en 2023, el año más mortal de su historia (Oficina del Médico Forense de Denver, 2024). Las muertes bajaron a 483 en 2024 y volvieron a subir en 2025, superando el total de 2024 para diciembre aun cuando bajaban en todo el país (9News, diciembre de 2025). El fentanilo estuvo involucrado en cerca de dos tercios de las muertes. La Policía de Denver realizó más de 2,800 arrestos relacionados con drogas en 2023, y aun así las muertes por sobredosis siguen cerca de niveles récord. El enfoque de aplicación de la ley no está produciendo resultados.
 
 ### Quién Se Opone a Esto (y Por Qué)
 
@@ -117,13 +117,14 @@ Los estudios del Insite de Vancouver (que opera desde 2003), el MSIC de Sydney y
 
 ## Referencias
 
-- Denver Office of the Medical Examiner. (2024). Informe Anual: Muertes No Intencionales por Envenenamiento por Drogas en la Ciudad y el Condado de Denver, 2023.
-- Base de Datos WONDER de los CDC. Conteo Provisional de Muertes por Sobredosis de Drogas. (El fentanilo como principal causa de muerte entre los 18 y 45 años).
-- SICAD (Portugal). (2023). Informe Anual sobre el Consumo de Drogas y los Problemas Relacionados con las Drogas. (Resultados de la despenalización en Portugal).
-- Potier, C., et al. (2014). "Servicios de inyección supervisada: ¿qué se ha demostrado?" Drug and Alcohol Dependence, 145, 48-68. (Cero muertes en centros de consumo supervisado; se revisaron 75 estudios).
-- Oficina Federal de Salud Pública de Suiza. Informes de evaluación del tratamiento asistido con heroína. (Resultados del TAH en Suiza).
-- Oregon Health Authority. (2023). Informe de Implementación de la Medida 110. (Cifra de desembolso del 10% de los fondos).
-- EMCDDA (Observatorio Europeo de las Drogas y las Toxicomanías). Informe Europeo Anual sobre Drogas. (Datos comparativos de la UE).
-- National Drug Intelligence Center. (2011). El Impacto Económico del Consumo Ilícito de Drogas en la Sociedad Americana. (Estimación de costos de $193 mil millones al año; más de $1 billón acumulado).
-- Vera Institute of Justice. (2022). El Precio de las Cárceles: Midiendo el Costo para el Contribuyente del Encarcelamiento Local. (Costo de encarcelamiento de más de $40,000 al año).
-- NIDA (Instituto Nacional sobre el Abuso de Drogas). Datos sobre la rentabilidad del tratamiento. (Costo de tratamiento de $4-8K/año).
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

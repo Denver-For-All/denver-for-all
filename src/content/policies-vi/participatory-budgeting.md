@@ -118,10 +118,11 @@ Các chương trình PB hoạt động sử dụng phân bổ theo trọng số 
 
 ## Tài Liệu Tham Khảo
 
-- Denver Elections Division (Phân Khu Bầu Cử Denver). (2023). Dữ liệu về tỷ lệ cử tri đi bầu trong cuộc bầu cử thành phố. (Tỷ lệ đi bầu là 38%.)
-- City of Denver Annual Budget (Ngân Sách Hằng Năm của Thành Phố Denver). (2024). Tổng ngân sách và số liệu ngân sách vốn.
-- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." (Lập Ngân Sách Có Sự Tham Gia Trên Toàn Thế Giới) Nghiên cứu cho Cơ Quan Giáo Dục Công Dân Liên Bang Đức. (Dữ liệu về hơn 7.000 thành phố.)
-- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." (Lập ngân sách có sự tham gia: một đóng góp quan trọng cho nền dân chủ có sự tham gia) Environment and Urbanization (Môi Trường và Đô Thị Hóa). (Kết quả của Porto Alegre.)
-- PBNYC (Participatory Budgeting New York City - Lập Ngân Sách Có Sự Tham Gia Thành Phố New York). Báo cáo hằng năm và dữ liệu tham gia.
-- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." (Các Tiểu Ban Công Khai Thảo Luận: Các Đặc Điểm Thiết Kế Cốt Lõi) Trung Tâm Dân Chủ Thảo Luận và Quản Trị Toàn Cầu. (Thiết kế hội đồng công dân.)
-- Irish Citizens' Assembly (Hội Đồng Công Dân Ireland). Báo cáo về Tu Chính Án Thứ Tám (2017) và Hôn Nhân Bình Đẳng (2014).
+- Denver Elections Division. (2023). Municipal election turnout data. (38% turnout.)
+- City of Denver Annual Budget. (2024). Total budget and capital budget figures.
+- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
+- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
+- PBNYC (Participatory Budgeting New York City). (n.d.). Annual reports and participation data.
+- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
+- Citizens' Assembly (Ireland). (2017). _First report and recommendations of the Citizens' Assembly: The Eighth Amendment of the Constitution_.
+- Convention on the Constitution (Ireland). (2014). _Report on marriage equality_.

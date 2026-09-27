@@ -36,6 +36,50 @@ relatedLegislation:
     title: 'Campaign Finance Disclosure and Contribution Limits'
     status: 'In effect - reform needed'
     session: '2024'
+smartGoals:
+  - goal: 'Lower contribution limits for city races'
+    goalEs: 'Reducir los límites de contribución para elecciones municipales'
+    metric: 'Maximum individual contribution to a mayoral candidate per election'
+    metricEs: 'Contribución individual máxima a un candidato a alcalde por elección'
+    baseline: '$10,000 per election (Denver Campaign Finance Ordinance, 2024)'
+    baselineEs: '$10,000 por elección (Ordenanza de Financiamiento de Campañas de Denver, 2024)'
+    target: '$2,500 for mayor; $1,000 for Council and school board'
+    targetEs: '$2,500 para alcalde; $1,000 para Concejo y junta escolar'
+    deadline: '2029-05'
+    owner: 'Denver voters (charter amendment) and Denver City Council'
+    ownerEs: 'Votantes de Denver (enmienda a la carta) y Concejo Municipal de Denver'
+    precedent: 'Seattle caps contributions at a few hundred dollars per candidate per election and pairs it with Democracy Vouchers'
+    precedentEs: 'Seattle limita las contribuciones a unos cientos de dólares por candidato por elección y lo combina con Vales de Democracia'
+    source: 'Denver Campaign Finance Ordinance, 2024'
+  - goal: 'Make small donors the center of Denver campaigns'
+    goalEs: 'Poner a los pequeños donantes en el centro de las campañas de Denver'
+    metric: 'Share of all mayoral campaign money raised from contributions of $500 or more'
+    metricEs: 'Porcentaje del dinero de campañas a alcalde recaudado en contribuciones de $500 o más'
+    baseline: '67% (2023 mayoral election)'
+    baselineEs: '67% (elección a alcalde de 2023)'
+    target: 'Under 35% in the 2031 municipal election'
+    targetEs: 'Menos de 35% en la elección municipal de 2031'
+    deadline: '2031'
+    owner: 'Denver Clerk and Recorder (Fair Elections Fund administrator)'
+    ownerEs: 'Secretario y Registrador de Denver (administrador del Fondo de Elecciones Justas)'
+    precedent: "In NYC's 2021 elections, public matching funds made small donors the majority of participating candidates' money"
+    precedentEs: 'En las elecciones de 2021 en Nueva York, los fondos públicos de contrapartida convirtieron a los pequeños donantes en la mayoría del dinero de los candidatos participantes'
+    source: 'Denver campaign finance filings for the 2023 mayoral election'
+  - goal: 'Get every serious candidate into public financing'
+    goalEs: 'Lograr que todo candidato serio use el financiamiento público'
+    metric: 'Mayoral candidates who qualify for the ballot and participate in the Fair Elections Fund'
+    metricEs: 'Candidatos a alcalde que califican para la boleta y participan en el Fondo de Elecciones Justas'
+    baseline: '1 of 10 declared 2027 mayoral candidates receiving matching funds (August 2026)'
+    baselineEs: '1 de 10 candidatos declarados a alcalde en 2027 recibe fondos de contrapartida (agosto de 2026)'
+    target: 'At least 75% of ballot-qualified mayoral candidates participating'
+    targetEs: 'Al menos 75% de los candidatos a alcalde en la boleta participando'
+    deadline: '2031'
+    owner: 'Denver Clerk and Recorder; independent Campaign Finance Oversight Board'
+    ownerEs: 'Secretario y Registrador de Denver; Junta Independiente de Supervisión de Financiamiento de Campañas'
+    precedent: 'Most NYC City Council candidates on the 2021 ballot participated in the matching program'
+    precedentEs: 'La mayoría de los candidatos al Concejo de Nueva York en la boleta de 2021 participaron en el programa de contrapartida'
+    source: 'Denverite, August 17, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -181,9 +225,9 @@ The Democracy Fund is capitalized through a new line item in the city budget, wi
 
 ## References
 
-- Denver Campaign Finance Ordinance. City and County of Denver, 2024.
-- La Raja, R. & Schaffner, B. _Campaign Finance and Political Polarization._ University of Michigan Press, 2015.
-- Malbin, M. et al. _Small Donors, Big Democracy._ The Campaign Finance Institute, 2012.
-- Montgomery County Campaign Finance Board. _Annual Report._ 2020.
-- New York City Campaign Finance Board. _Annual Report._ 2022.
-- Primo, D. & Milyo, J. _Campaign Finance Laws and Political Efficacy._ Election Law Journal, 2006.
+- Denver Campaign Finance Ordinance. (2024). City and County of Denver.
+- La Raja, R. & Schaffner, B. (2015). _Campaign Finance and Political Polarization._ University of Michigan Press.
+- Malbin, M. et al. (2012). _Small Donors, Big Democracy._ The Campaign Finance Institute.
+- Montgomery County Campaign Finance Board. (2020). _Annual Report._.
+- New York City Campaign Finance Board. (2022). _Annual Report._.
+- Primo, D. & Milyo, J. (2006). _Campaign Finance Laws and Political Efficacy._ Election Law Journal.

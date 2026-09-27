@@ -127,9 +127,9 @@
 
 ## المراجع
 
-- مكتب الإحصاء الأمريكي. مسح المجتمع الأمريكي (ACS)، 2023. (عدد سكان لاتينو في دنفر.)
-- إدارة المالية في دنفر. (2024). تقارير إنفاق خدمات الوافدين الجدد. (إنفاق على المهاجرين يزيد عن 100 مليون دولار.)
-- Wong، T. (2017). "آثار سياسات الملاذ على الجريمة والاقتصاد." مركز التقدم الأمريكي. (بيانات سلامة مدن الملاذ.)
-- Printz v. United States، 521 U.S. 898 (1997). (مبدأ مكافحة الاستيلاء.)
-- City of Chicago v. Sessions، 888 F.3d 272 (7th Cir. 2018). (تأييد سياسات الملاذ.)
-- تقرير IDNYC السنوي. (بيانات إصدار أكثر من 1.3 مليون هوية بلدية.)
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
+- Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

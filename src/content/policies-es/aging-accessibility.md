@@ -95,11 +95,11 @@ Directamente. Más de un tercio de las personas mayores de Colorado que alquilan
 
 ## Referencias
 
-- U.S. Census Bureau. (2023). American Community Survey Estimaciones a 5 años (2019-2023): Datos demográficos, distribución por edades y estado de discapacidad del condado de Denver.
-- Colorado State Demography Office. (2022). Proyecciones de Población: Crecimiento de la población de 65 años o más del 36% (317.000 adultos mayores adicionales) proyectado para 2030, con más del 50% del crecimiento de la población estatal en la cohorte de 65 años o más.
-- Denver Auditor's Office. (2020). Auditoría del Programa de Reparación de Aceras Vecinales: Se encontró que el programa estaba décadas atrasado y no estaba diseñado para el cumplimiento de la ADA, con el 80% de las aceras en la primera región que requerían reparaciones.
-- Genworth/CareScout. (2024). Encuesta sobre el Costo de la Atención: Los costos de la atención a largo plazo de Colorado superan los promedios nacionales, con una vivienda asistida que promedia $5.073/mes y auxiliares de salud en el hogar a $33.50/hora.
-- Colorado Health Institute. (2023). Encuesta de Acceso a la Salud de Colorado: Discapacidad, puntajes de vulnerabilidad al envejecimiento y datos de acceso a la atención médica para el condado de Denver.
-- America's Health Rankings. (2024). Informe para Personas Mayores: Factores de riesgo de aislamiento social entre adultos de 65 años o más, incluyendo la pobreza, vivir solo, la discapacidad y la dificultad para vivir de forma independiente en Colorado.
-- RTD-Denver. (2024). Datos del programa Access-a-Ride y Access-on-Demand: Más de 70.000 viajes mensuales en Access-on-Demand; informe de Revisión por Pares de Transporte Adaptado de la APTA.
-- National Low Income Housing Coalition. (2025). Perfil de Vivienda de Colorado: Datos sobre la carga de los costos de la vivienda, la escasez de viviendas asequibles de más de 100.000 unidades y los cálculos del Salario para la Vivienda.
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County demographics, age distribution, and disability status.
+- Colorado State Demography Office. (2022). Population Projections: 65+ population growth of 36% (317,000 additional older adults) projected by 2030, with over 50% of state population growth in the 65+ cohort.
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program: Found program decades behind schedule and not designed for ADA compliance, with 80% of sidewalks in the first region requiring repairs.
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado long-term care costs exceeding national averages, with assisted living averaging $5,073/month and home health aides at $33.50/hour.
+- Colorado Health Institute. (2023). Colorado Health Access Survey: Disability, aging vulnerability scores, and healthcare access data for Denver County.
+- America's Health Rankings. (2024). Senior Report: Social isolation risk factors among adults 65+, including poverty, living alone, disability, and independent living difficulty in Colorado.
+- RTD-Denver. (2024). Access-a-Ride and Access-on-Demand program data: Over 70,000 monthly rides on Access-on-Demand; APTA Paratransit Peer Review report.
+- National Low Income Housing Coalition. (2025). Colorado Housing Profile: Housing cost burden data, affordable housing shortage of 100,000+ units, and Housing Wage calculations.

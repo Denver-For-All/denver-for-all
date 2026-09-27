@@ -71,11 +71,11 @@
 - **ብሔራዊ ምግብ ቤት ማህበር (National Restaurant Association)** ("ሌላው NRA" የሚል ቅጽል ስም ተሰጥቶታል) በአገር አቀፍ ደረጃ አንድ ትክክለኛ ደመወዝን በመዋጋት በሚሊዮኖች የሚቆጠር ዶላር አውጥቷል።
 - በጥሩ የመመገቢያ ተቋማት ውስጥ ያሉ **አንዳንድ ከፍተኛ ገቢ ያላቸው አገልጋዮች** የጉርሻ ቅነሳን ይጨነቃሉ (ምንም እንኳን ማስረጃዎች እንደሚያሳዩት በአንድ ትክክለኛ ደመወዝ ግዛቶች ውስጥ ጉርሻዎች ጠንካራ ሆነው እንደሚቀጥሉ ያሳያል)።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- የኮሎራዶ የስራ እና የስራ ስምሪት መምሪያ፣ _የ2025 ዝቅተኛ የደመወዝ ተመኖች_
-- አንድ ትክክለኛ ደመወዝ፣ _የጉርሻ ሰራተኛ ምርምር እና የፖሊሲ ማዕከል_ ሪፖርቶች (onefairwage.org)
-- የኢኮኖሚ ፖሊሲ ተቋም፣ "በግዛቶች ውስጥ ንዑስ ደመወዝ"፣ _የፖሊሲ አጭር መግለጫ_፣ 2023
-- የሰራተኛ ስታትስቲክስ ቢሮ፣ _የስራ ስምሪት እና የደመወዝ ስታትስቲክስ_፣ ዴንቨር-አውሮራ-ሌክዉድ ኤምኤስኤ፣ 2023
-- Allegretto & Nadler, "Tipped Wage Effects on Earnings and Employment in Full-Service Restaurants," _Industrial Relations_ 54(4): 622-647 (2015)
-- የብሔራዊ የሴቶች ህግ ማዕከል፣ _የጉርሻ ዝቅተኛው ደመወዝ እና በሴቶች ላይ ያለው ተጽእኖ_፣ 2023
+- Colorado Department of Labor and Employment. (n.d.). _2025 Minimum Wage Rates_.
+- One Fair Wage. (n.d.). _Tipped Worker Research and Policy Center_ reports. (onefairwage.org)
+- Economic Policy Institute. (2023). "Subminimum Wages in the States," _Policy Brief_.
+- Bureau of Labor Statistics. (2023). _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA.
+- Allegretto, S., & Nadler, C. (2015). Tipped wage effects on earnings and employment in full-service restaurants. _Industrial Relations, 54_(4), 622–647.
+- National Women's Law Center. (2023). _The Tipped Minimum Wage and Its Impact on Women_.

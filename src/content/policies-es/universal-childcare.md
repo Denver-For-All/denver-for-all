@@ -113,9 +113,9 @@ Este es un verdadero desafío. La industria del cuidado infantil enfrenta una es
 
 ## Referencias
 
-- Economic Policy Institute. (2023). Child Care Costs in the United States. (Datos sobre el costo del cuidado infantil en Denver).
-- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr de salario medio).
-- Datos del programa CCCAP de Colorado y umbrales de elegibilidad.
-- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Impacto del cuidado infantil universal de Quebec).
-- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. (Retorno de $7-13 por cada $1 invertido).
-- Matrícula estatal de CU Boulder (2024-2025): $13.590/año. (Comparación con los costos de cuidado infantil).
+- Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
+- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
+- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
+- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

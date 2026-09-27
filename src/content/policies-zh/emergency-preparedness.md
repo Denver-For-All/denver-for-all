@@ -106,11 +106,11 @@ FEMA将丹佛县的自然灾害风险评为“相对中等”。该市的灾害�
 
 ## 参考文献
 
-- 科罗拉多州公共卫生与环境部空气质量控制委员会。（2023年）。年度空气质量监测数据。
-- 公共土地信托基金。（2023年）。城市热岛测绘，丹佛都市区。
-- 丹佛气候行动工作组。（2020年）。丹佛都市区气候预测。
-- FEMA/美国国家建筑科学研究院。（2019年）。自然灾害减灾节省：2019年报告。（1美元节省6美元。）
-- 丹佛紧急事务管理局。（2023年）。灾害缓解计划更新。
-- 科罗拉多州公共卫生与环境部。（2023年）。与高温相关的死亡率数据。
-- 丹佛雨水排水基金。年度预算和基础设施报告。
-- 波特兰规划与可持续发展局。社区恢复中心计划报告。
+- Colorado DPHE Air Quality Control Commission. (2023). Annual air quality monitoring data.
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver Climate Action Task Force. (2020). Climate projections for Denver metro area.
+- FEMA / National Institute of Building Sciences. (2019). Natural Hazard Mitigation Saves: 2019 Report. ($1 saves $6.)
+- Denver Office of Emergency Management. (2023). Hazard Mitigation Plan Update.
+- Colorado Department of Public Health and Environment. (2023). Heat-related mortality data.
+- Denver Storm Drainage Fund. (n.d.). Annual budget and infrastructure reports.
+- Portland Bureau of Planning and Sustainability. (n.d.). Community Resilience Hub program reports.

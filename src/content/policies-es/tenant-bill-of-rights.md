@@ -15,7 +15,7 @@ Más allá del desalojo, los inquilinos se enfrentan a:
 
 ### Lo Que Denver Hace Actualmente
 
-Las protecciones actuales para los inquilinos en Denver son mínimas. La ley de Colorado prevé un aviso de 10 días para subsanar el impago (C.R.S. 13-40-104) y un aviso de 21 días para los cambios en los contratos de arrendamiento mensuales. Denver aprobó protecciones limitadas para los inquilinos en 2023-2024, incluyendo el derecho a un abogado en ciertos casos de desalojo para los inquilinos que cumplen con los requisitos de ingresos. Sin embargo, la cobertura sigue siendo parcial, no universal.
+Las protecciones actuales para los inquilinos en Denver son mínimas. La ley de Colorado prevé un aviso de 10 días para subsanar el impago (C.R.S. 13-40-104) y exige un aviso por escrito de 60 días antes de un aumento de alquiler, con no más de un aumento en cualquier periodo de 12 meses (HB21-1121). Denver aprobó protecciones limitadas para los inquilinos en 2023-2024, incluyendo el derecho a un abogado en ciertos casos de desalojo para los inquilinos que cumplen con los requisitos de ingresos. Sin embargo, la cobertura sigue siendo parcial, no universal.
 
 El Tribunal del Condado de Denver procesó aproximadamente más de 10,000 demandas de desalojo en 2023 (datos del Poder Judicial de Colorado). La disparidad en la representación legal es evidente: un análisis de 2022 de la Coalición Nacional por el Derecho Civil a la Asistencia Letrada (National Coalition for a Civil Right to Counsel) encontró que los arrendadores tienen abogados en más del 90% de los casos de desalojo a nivel nacional, mientras que menos del 10% de los inquilinos los tienen, una cifra consistente con las observaciones del Tribunal del Condado de Denver.
 
@@ -32,7 +32,7 @@ Todo inquilino que se enfrente a un desalojo en Denver tiene derecho a un abogad
 - El programa de derecho a la asistencia letrada de la ciudad de Nueva York impidió el desalojo en el 84% de los casos representados (Oficina de Justicia Civil de Nueva York, 2023), y programas similares muestran tasas de prevención del 70-85%, lo que ahorra dinero a las ciudades al reducir los costos de los refugios, los servicios de emergencia y la interrupción escolar
 
 **2. Aviso de 90 Días para Aumentos de Alquiler**
-Cualquier aumento de alquiler requiere un aviso escrito de 90 días (actualmente 21 días para el alquiler mensual en Colorado). Esto les da a los inquilinos tiempo real para presupuestar, negociar o encontrar alternativas, no una lucha.
+Cualquier aumento de alquiler requiere un aviso escrito de 90 días (actualmente 60 días según la ley HB21-1121 de Colorado). Esto les da a los inquilinos tiempo real para presupuestar, negociar o encontrar alternativas, no una lucha.
 
 **3. Derecho de Preferencia**
 Cuando se vende un edificio de alquiler, los inquilinos y las organizaciones de inquilinos reconocidas tienen el derecho de preferencia para comprar el edificio, al mismo precio ofrecido por el comprador. Esto permite las adquisiciones de cooperativas de inquilinos y fideicomisos comunitarios de tierras.
@@ -108,3 +108,12 @@ Ahorra dinero. Cada $1 gastado en el derecho a la asistencia letrada ahorra entr
 
 **"Los arrendadores deben poder desalojar a los malos inquilinos".**
 Nada en este proyecto de ley impide el desalojo por causa legítima: falta de pago (con período de subsanación), incumplimiento del contrato de arrendamiento, actividad delictiva. Lo que impide son los desalojos basados en pretextos, los desalojos en represalia y los desalojos sin culpa sin asistencia.
+
+## Referencias
+
+- Colo. Rev. Stat. § 13-40-104.
+- Colorado General Assembly. (2026). _2026 regular session tenant-protection bills (HB26-1106, HB26-1047, HB26-1013)_. https://leg.colorado.gov
+- Colorado Judicial Branch. (2025). _Eviction filings dashboard (SB24-064)_ [Data set]. https://www.coloradojudicial.gov
+- Eviction Lab. (n.d.). _Denver, CO eviction tracking_. Princeton University. Retrieved May 2026, from https://evictionlab.org
+- National Coalition for a Civil Right to Counsel. (2022). _The right to counsel in eviction proceedings_. https://civilrighttocounsel.org
+- New York City Office of Civil Justice. (2023). _Universal access to legal services: Annual report_. https://www.nyc.gov/hra

@@ -108,11 +108,11 @@ Denver Urban Gardens 已经管理着都市区 200 多个社区花园和 24 个�
 
 ## 参考文献
 
-- 公共土地信托基金。（2025 年）。ParkScore 指数：科罗拉多州丹佛。得分：75.1/100，全国排名：第 10 位。97% 的居民居住在步行 10 分钟即可到达公园的范围内。人均公园支出 229 美元。
-- Sasaki / 丹佛公园与娱乐部门。（2019 年）。健康城市游戏计划。具有公平分析和投资框架的综合公园总体规划。
-- 丹佛公园与娱乐部门。（2025 年）。部门预算：9,730 万美元普通基金。系统包括 250 多个城市公园、30 个娱乐中心、32 个游泳池、14,000 英亩的山地公园。
-- Rigolon, A. & Flohr, T. (2018)。将青少年公园访问作为环境正义问题。_PLOS ONE_。记录了丹佛沿收入和种族界限的公园访问差异。
-- 丹佛城市花园。（2024 年）。在丹佛都会区拥有 200 多个社区花园和 24 个食物森林的网络。美国最大的独立食物生产花园网络。
-- Great Outdoors Colorado (GOCO)。（2024 年）。有史以来规模最大的资助周期：全州超过 1.17 亿美元。包括为丹佛都会区的 High Line Canal 改善项目提供的 700 万美元。
-- Colorado Trust / Collective Colorado。（2019 年）。“丹佛公园访问不平等源于历史。” 对歧视性土地利用和资金政策的分析。
-- Colorado State Forest Service。（2024 年）。森林恢复和野火风险缓解补助金：向 26 个县的 37 个项目授予 704 万美元，包括包含丹佛山地公园的县。
+- Trust for Public Land. (2025). ParkScore Index: Denver, CO. Score: 75.1/100, national rank: 10th. 97% of residents within a 10-minute walk of a park. $229 per capita park spending.
+- Sasaki / Denver Parks & Recreation. (2019). Game Plan for a Healthy City. Comprehensive parks master plan with equity analysis and investment framework.
+- Denver Parks & Recreation. (2025). Department budget: $97.3M general fund. System includes 250+ urban parks, 30 recreation centers, 32 pools, 14,000 acres of mountain parks.
+- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. Documented park access disparities along income and racial lines in Denver.
+- Denver Urban Gardens. (2024). Network of 200+ community gardens and 24 food forests across metro Denver. Largest independent food-producing garden network in the U.S.
+- Great Outdoors Colorado (GOCO). (2024). Largest-ever funding cycle: $117M+ statewide. Includes $7M for High Line Canal improvements in Denver metro.
+- Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." Analysis of discriminatory land use and funding policies.
+- Colorado State Forest Service. (2024). Forest Restoration and Wildfire Risk Mitigation grants: $7.04M awarded to 37 projects in 26 counties, including counties containing Denver's mountain parks.

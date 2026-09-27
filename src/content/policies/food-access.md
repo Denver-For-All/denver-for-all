@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'Brasil declaro la alimentacion un derecho en 1993 - costo solo 2% del presupuesto'
     source: 'City of Belo Horizonte'
     theme: 'primary'
+smartGoals:
+  - goal: 'Put a full-service grocery or community food hub within reach of every food-desert neighborhood'
+    goalEs: 'Poner un supermercado completo o centro comunitario de alimentos al alcance de cada vecindario sin acceso a alimentos'
+    metric: 'Food-desert neighborhoods (Globeville, Elyria-Swansea, Montbello, Westwood, Sun Valley, and others) with a grocery or food hub within 1 mile of most residents'
+    metricEs: 'Vecindarios sin acceso a alimentos (Globeville, Elyria-Swansea, Montbello, Westwood, Sun Valley y otros) con supermercado o centro de alimentos a menos de 1 milla de la mayoría de los residentes'
+    baseline: '93% of Globeville residents lack a nearby grocery store (DDPHE, 2023)'
+    baselineEs: '93% de los residentes de Globeville no tienen un supermercado cercano (DDPHE, 2023)'
+    target: 'Every identified food-desert neighborhood served'
+    targetEs: 'Todos los vecindarios identificados atendidos'
+    deadline: '2030'
+    owner: 'Denver Economic Development & Opportunity with DDPHE'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver con DDPHE'
+    precedent: "Belo Horizonte's municipal food-security program, including subsidized Popular Restaurants and fixed-price produce stalls, has run since 1993"
+    precedentEs: 'El programa municipal de seguridad alimentaria de Belo Horizonte, con Restaurantes Populares subsidiados y puestos de precio fijo, funciona desde 1993'
+    source: 'Denver Department of Public Health and Environment, 2023'
+  - goal: 'Cut food insecurity in Denver in half'
+    goalEs: 'Reducir a la mitad la inseguridad alimentaria en Denver'
+    metric: 'Share of Denver residents reporting food insecurity'
+    metricEs: 'Porcentaje de residentes de Denver que reportan inseguridad alimentaria'
+    baseline: '33% of Denver residents (DDPHE, 2023)'
+    baselineEs: '33% de los residentes de Denver (DDPHE, 2023)'
+    target: '16% or lower'
+    targetEs: '16% o menos'
+    deadline: '2031'
+    owner: 'DDPHE and the Denver Sustainable Food Policy Council'
+    ownerEs: 'DDPHE y el Consejo de Política Alimentaria Sostenible de Denver'
+    precedent: "Brazil's Zero Hunger programs cut the share of people facing severe food insecurity by roughly 85% between 2022 and 2023"
+    precedentEs: 'Los programas Hambre Cero de Brasil redujeron cerca de 85% la proporción de personas con inseguridad alimentaria severa entre 2022 y 2023'
+    source: 'Denver Department of Public Health and Environment, 2023'
+  - goal: 'Make every farmers market double SNAP dollars'
+    goalEs: 'Hacer que cada mercado de agricultores duplique los dólares de SNAP'
+    metric: 'Council districts with at least one farmers market accepting SNAP with Double Up Food Bucks'
+    metricEs: 'Distritos del Concejo con al menos un mercado de agricultores que acepte SNAP con Double Up Food Bucks'
+    baseline: 'Markets concentrated outside food-desert districts (SFPC, 2025)'
+    baselineEs: 'Mercados concentrados fuera de los distritos sin acceso a alimentos (SFPC, 2025)'
+    target: '11 of 11 districts'
+    targetEs: '11 de 11 distritos'
+    deadline: '2028'
+    owner: 'DDPHE with Nourish Colorado'
+    ownerEs: 'DDPHE con Nourish Colorado'
+    precedent: "Michigan's Double Up Food Bucks, the national model, has matched SNAP produce purchases statewide since 2009"
+    precedentEs: 'Double Up Food Bucks de Michigan, el modelo nacional, iguala compras de frutas y verduras con SNAP en todo el estado desde 2009'
+    source: 'Denver Sustainable Food Policy Council, 2025'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -140,4 +184,4 @@ Diet-related disease costs Denver hundreds of millions in healthcare spending an
 - USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
 - Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
 - Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
-- Colorado Secretary of State. (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

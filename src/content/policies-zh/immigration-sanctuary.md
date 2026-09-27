@@ -127,9 +127,9 @@ Denver 的移民成本是由于联邦政府未能处理庇护申请和签发工�
 
 ## 参考文献
 
-- U.S. Census Bureau. American Community Survey (ACS), 2023.（Denver 拉丁裔人口。）
-- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports.（1 亿美元以上的移民支出。）
-- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress.（庇护城市安全数据。）
-- Printz v. United States, 521 U.S. 898 (1997).（反征用原则。）
-- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018).（庇护政策得到支持。）
-- IDNYC Annual Report.（已发行 130 万多张市政身份证的数据。）
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
+- Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

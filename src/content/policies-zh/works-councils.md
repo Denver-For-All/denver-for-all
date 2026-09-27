@@ -104,8 +104,8 @@
 
 ## 参考文献
 
-- 德国《企业组织法》( _Betriebsverfassungsgesetz_ )，1972 年（2001 年修订）
-- 德国《共同决定法》( _Mitbestimmungsgesetz_ )，1976 年
-- 经济政策研究所，“自 1978 年以来，CEO 的薪酬飙升了 1,460%”，《报告》，2022 年（涵盖 2021 年的数据）
-- 国际劳工组织 (ILO)，《工人参与企业治理》，2022 年
-- 瑞典《工作场所共同决定法》( _Medbestammandelagen_, MBL)，1976 年
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

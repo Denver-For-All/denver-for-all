@@ -31,12 +31,12 @@ relatedLegislation:
     status: 'Postponed Indefinitely (Senate Local Government & Housing, Apr 23, 2026)'
     url: 'https://leg.colorado.gov/bills/hb26-1114'
 keyStats:
-  - value: '7,500'
-    label: 'people homeless on any given night'
+  - value: '6,411'
+    label: 'people homeless in Denver on a single night'
     labelEs: 'personas sin hogar en cualquier noche'
     context: 'The Section 8 waitlist is years long and landlords refuse to accept vouchers anyway'
     contextEs: 'La lista de espera de la Seccion 8 es de anos y los propietarios se niegan a aceptar vales'
-    source: 'MDHI Point-in-Time Count, 2024'
+    source: 'MDHI Point-in-Time Count, January 2026'
     theme: 'danger'
   - value: '60%'
     label: 'of Vienna housed in public housing'
@@ -52,11 +52,55 @@ keyStats:
     contextEs: 'La vivienda social cuesta $200-350K por unidad. Pagamos el doble para que los desarrolladores se queden con la ganancia.'
     source: 'Denver HOST / LIHTC program data'
     theme: 'accent'
+smartGoals:
+  - goal: 'Create the Denver Social Housing Authority'
+    goalEs: 'Crear la Autoridad de Vivienda Social de Denver'
+    metric: 'Authority chartered with a tenant-elected board and dedicated revenue'
+    metricEs: 'Autoridad constituida con junta elegida por inquilinos e ingresos dedicados'
+    baseline: 'No social housing authority (2026)'
+    baselineEs: 'Sin autoridad de vivienda social (2026)'
+    target: 'Authority chartered and capitalized'
+    targetEs: 'Autoridad constituida y capitalizada'
+    deadline: '2027-12'
+    owner: 'Denver voters and Denver City Council'
+    ownerEs: 'Votantes de Denver y Concejo Municipal de Denver'
+    precedent: "Montgomery County, MD's Housing Opportunities Commission has used a revolving fund since 2021 to build publicly owned mixed-income housing"
+    precedentEs: 'La Comisión de Oportunidades de Vivienda del condado de Montgomery, MD usa desde 2021 un fondo rotatorio para construir vivienda pública de ingresos mixtos'
+    source: 'Denver Revised Municipal Code, 2026'
+  - goal: 'Deliver the first 3,000 social housing homes'
+    goalEs: 'Entregar las primeras 3,000 viviendas sociales'
+    metric: 'Mixed-income social housing units acquired or built and occupied'
+    metricEs: 'Unidades de vivienda social de ingresos mixtos adquiridas o construidas y ocupadas'
+    baseline: '0 units (2026)'
+    baselineEs: '0 unidades (2026)'
+    target: '1,000 by 2029 and 3,000 by 2031, on track for 10,000 by 2036'
+    targetEs: '1,000 para 2029 y 3,000 para 2031, en camino a 10,000 para 2036'
+    deadline: '2031'
+    owner: 'Denver Social Housing Authority'
+    ownerEs: 'Autoridad de Vivienda Social de Denver'
+    precedent: "Vienna's ~220,000 municipal and ~200,000 limited-profit homes house a large share of residents at regulated rents (2025)"
+    precedentEs: 'Las ~220,000 viviendas municipales y ~200,000 de entidades sin fines de lucro limitados de Viena alojan a gran parte de los residentes con rentas reguladas (2025)'
+    source: 'Denver HOST, 2026'
+  - goal: 'Cap social housing rents at 25% of income'
+    goalEs: 'Limitar las rentas de vivienda social a 25% de los ingresos'
+    metric: 'Share of social housing households paying more than 25% of income in rent'
+    metricEs: 'Porcentaje de hogares en vivienda social que pagan más de 25% de sus ingresos en renta'
+    baseline: 'About half of Denver renter households pay 30%+ of income (ACS, 2023)'
+    baselineEs: 'Cerca de la mitad de los hogares inquilinos de Denver pagan 30% o más de sus ingresos (ACS, 2023)'
+    target: '0% of social housing households'
+    targetEs: '0% de los hogares en vivienda social'
+    deadline: '2029'
+    owner: 'Denver Social Housing Authority'
+    ownerEs: 'Autoridad de Vivienda Social de Denver'
+    precedent: "Federal public housing has capped tenant rent at 30% of income since 1981; Denver's social housing goes 5 points further"
+    precedentEs: 'La vivienda pública federal limita la renta a 30% del ingreso desde 1981; la vivienda social de Denver va 5 puntos más allá'
+    source: 'U.S. Census Bureau, American Community Survey, 2023'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
 
-Denver has over 7,500 people experiencing homelessness on any given night (MDHI Point-in-Time Count, 2024). The waitlist for Section 8 housing vouchers is years long (Denver Housing Authority) - and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
+Denver had 6,411 people experiencing homelessness on the night of the January 2026 count (MDHI Point-in-Time Count, 2026). The waitlist for Section 8 housing vouchers is years long (Denver Housing Authority) - and even when people get vouchers, landlords refuse to accept them. The private market has failed to provide affordable housing because the private market was never designed to. Its purpose is profit, not shelter.
 
 Meanwhile, Denver's median rent nearly doubled between 2010 and the early 2020s (Zillow Observed Rent Index, Denver-Aurora-Lakewood MSA). A 2024-2026 construction surge has since cooled the market - the average apartment rent eased to about $1,891 in mid-2026, down ~2.5% year-over-year, with a one-bedroom averaging ~$1,708 (RentCafe, 2026) - but rents remain far above pre-2020 levels, and a family earning median income still spends over 35% of their earnings on rent (U.S. Census Bureau ACS, 2023), above the federal affordability threshold. For low-income families, it's 50-70%. Market-rate supply lowers the baseline; only permanently affordable, publicly owned housing guarantees that low-income families are never again at the mercy of the next upswing.
 
@@ -142,7 +186,7 @@ American public housing was deliberately underfunded, concentrated in segregated
 DSHA would be an independent authority with professional property management, similar to how Denver manages its water utility. The city already operates Denver Health, DIA, and other large institutions. This is a management question, not a capability question.
 
 **"Won't this cost too much?"**
-The current cost of homelessness to Denver taxpayers is estimated at $40,000-60,000 per person per year (emergency services, policing, hospital visits). Housing 7,500 homeless people at $15,000/person/year in social housing saves money. It's cheaper to house people than to leave them on the streets.
+The current cost of homelessness to Denver taxpayers is estimated at $40,000-60,000 per person per year (emergency services, policing, hospital visits). Housing 6,400 homeless people at $15,000/person/year in social housing saves money. It's cheaper to house people than to leave them on the streets.
 
 **"Why not just give developers more incentives?"**
 We've tried that for 20 years. It has produced a fraction of the needed units, at higher per-unit costs, with expiring affordability periods. The private market builds housing to maximize profit, not to maximize housing. We need a public option.
@@ -156,7 +200,7 @@ Social housing will be distributed across all Denver neighborhoods - including a
 - City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing programs and need estimates_. https://www.denvergov.org/host
 - Colorado General Assembly. (2026). _2026 regular session housing bills (HB26-1001, SB26-001, HB26-1065, HB26-1066, HB26-1114)_. https://leg.colorado.gov
 - _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit Proposition 123-funded affordable community in West Colfax]. https://www.coloradopolitics.com
-- Metro Denver Homeless Initiative. (2024). _Point-in-Time count_. https://www.mdhi.org
+- Metro Denver Homeless Initiative. (2026). _2026 Point-in-Time count data_ (6,411 people in Denver). https://www.mdhi.org/pit
 - RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
 - Rothstein, R. (2017). _The color of law: A forgotten history of how our government segregated America_. Liveright Publishing.
 - U.S. Census Bureau. (2023). _Selected housing characteristics_ [American Community Survey, Denver-Aurora-Lakewood MSA]. https://data.census.gov

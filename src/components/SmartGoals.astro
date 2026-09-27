@@ -1,0 +1,398 @@
+---
+import { Icon } from 'astro-icon/components';
+import type { Locale } from '@i18n/utils';
+
+interface SmartGoal {
+  goal: string;
+  goalEs: string;
+  metric: string;
+  metricEs: string;
+  baseline: string;
+  baselineEs: string;
+  target: string;
+  targetEs: string;
+  deadline: string;
+  owner: string;
+  ownerEs: string;
+  precedent: string;
+  precedentEs: string;
+  source: string;
+}
+
+interface Props {
+  goals: SmartGoal[];
+  reviewed: string;
+  /** Active locale. English pages also carry Spanish via data-es swapping. */
+  lang?: Locale;
+}
+
+const { goals, reviewed, lang = 'en' } = Astro.props;
+
+interface Labels {
+  heading: string;
+  intro: string;
+  metric: string;
+  baseline: string;
+  target: string;
+  owner: string;
+  precedent: string;
+  source: string;
+  by: string;
+}
+
+// `{date}` is replaced with the localized month or year.
+const LABELS: Record<Locale, Labels> = {
+  en: {
+    heading: "How We'll Measure Success",
+    intro:
+      'Every target below is SMART: specific, measurable against a dated baseline, achievable because another city has done it, relevant to this proposal, and tied to a deadline. Hold us and City Hall to these numbers. Targets last reviewed {date}.',
+    metric: 'Metric:',
+    baseline: 'Baseline',
+    target: 'Target',
+    owner: 'Accountable',
+    precedent: 'Proven elsewhere',
+    source: 'Baseline source:',
+    by: 'By {date}',
+  },
+  es: {
+    heading: 'Cómo Mediremos el Éxito',
+    intro:
+      'Cada meta a continuación es SMART: específica, medible frente a una línea de base con fecha, alcanzable porque otra ciudad ya lo logró, relevante para esta propuesta y con fecha límite. Exíjannos a nosotros y al Ayuntamiento estos números. Metas revisadas por última vez en {date}.',
+    metric: 'Indicador:',
+    baseline: 'Línea de base',
+    target: 'Meta',
+    owner: 'Responsable',
+    precedent: 'Comprobado en otros lugares',
+    source: 'Fuente de la línea de base:',
+    by: 'Para {date}',
+  },
+  vi: {
+    heading: 'Chúng Tôi Sẽ Đo Lường Thành Công Như Thế Nào',
+    intro:
+      'Mỗi mục tiêu dưới đây đều đạt chuẩn SMART: cụ thể, đo lường được so với mức cơ sở có ghi năm, khả thi vì đã có thành phố khác làm được, phù hợp với đề xuất này và có thời hạn rõ ràng. Hãy dùng những con số này để yêu cầu chúng tôi và Tòa Thị Chính chịu trách nhiệm. Các mục tiêu được xem xét lần cuối vào {date}.',
+    metric: 'Chỉ số:',
+    baseline: 'Mức cơ sở',
+    target: 'Mục tiêu',
+    owner: 'Cơ quan chịu trách nhiệm',
+    precedent: 'Đã được chứng minh ở nơi khác',
+    source: 'Nguồn của mức cơ sở:',
+    by: 'Hạn chót: {date}',
+  },
+  zh: {
+    heading: '我们如何衡量成效',
+    intro:
+      '以下每项目标都符合 SMART 原则：具体明确、可对照注明年份的基准进行衡量、可以实现（其他城市已经做到）、与本提案密切相关，并设有明确期限。请用这些数字监督我们和市政府。目标最近一次审核于{date}。',
+    metric: '指标：',
+    baseline: '基准',
+    target: '目标',
+    owner: '负责机构',
+    precedent: '其他地方的成功先例',
+    source: '基准来源：',
+    by: '期限：{date}',
+  },
+  ar: {
+    heading: 'كيف سنقيس النجاح',
+    intro:
+      'كل هدف أدناه هدفٌ ذكي (SMART): محدد، وقابل للقياس مقارنةً بخط أساس مؤرَّخ، وقابل للتحقيق لأن مدينة أخرى حققته، ووثيق الصلة بهذا المقترح، ومرتبط بموعد نهائي. حاسِبونا وحاسِبوا مجلس المدينة على هذه الأرقام. آخر مراجعة للأهداف: {date}.',
+    metric: 'المؤشر:',
+    baseline: 'خط الأساس',
+    target: 'الهدف',
+    owner: 'الجهة المسؤولة',
+    precedent: 'ثبت نجاحه في أماكن أخرى',
+    source: 'مصدر خط الأساس:',
+    by: 'بحلول {date}',
+  },
+  am: {
+    heading: 'ስኬትን እንዴት እንለካለን',
+    intro:
+      'ከዚህ በታች ያሉት ግቦች በሙሉ SMART ናቸው፦ የተወሰኑ፣ ዓመቱ ከተጠቀሰ መነሻ አንጻር የሚለኩ፣ ሌላ ከተማ ስላሳካቸው ሊደረስባቸው የሚችሉ፣ ከዚህ ሀሳብ ጋር የተያያዙ እና የጊዜ ገደብ ያላቸው ናቸው። እኛንም የከተማውን አስተዳደርም በእነዚህ ቁጥሮች ተጠያቂ ያድርጉ። ግቦቹ ለመጨረሻ ጊዜ የተገመገሙት፦ {date}።',
+    metric: 'መለኪያ፦',
+    baseline: 'መነሻ',
+    target: 'ግብ',
+    owner: 'ተጠያቂ አካል',
+    precedent: 'በሌሎች ቦታዎች የተረጋገጠ',
+    source: 'የመነሻው ምንጭ፦',
+    by: 'እስከ {date}',
+  },
+};
+
+const MONTHS_ES = [
+  'enero',
+  'febrero',
+  'marzo',
+  'abril',
+  'mayo',
+  'junio',
+  'julio',
+  'agosto',
+  'septiembre',
+  'octubre',
+  'noviembre',
+  'diciembre',
+];
+
+function formatMonth(value: string, locale: Locale): string {
+  const [year, month] = value.split('-');
+  if (!month) return year;
+  if (locale === 'es') return `${MONTHS_ES[Number(month) - 1]} de ${year}`;
+  const date = new Date(Date.UTC(Number(year), Number(month) - 1, 1));
+  return new Intl.DateTimeFormat(locale === 'en' ? 'en-US' : locale, {
+    year: 'numeric',
+    month: 'long',
+    timeZone: 'UTC',
+  }).format(date);
+}
+
+const fill = (template: string, date: string) => template.replace('{date}', date);
+
+// English pages render English and carry Spanish in data-es for the in-page
+// language swap. Other locales render their own text directly, with no
+// data-en keys, so the runtime dictionary leaves them alone.
+const bilingual = lang === 'en' || lang === 'es';
+const L = LABELS[bilingual ? 'en' : lang];
+const Les = LABELS.es;
+
+function attrs(en: string, es: string): Record<string, string> {
+  return bilingual ? { 'data-en': en, 'data-es': es } : {};
+}
+
+const reviewedText = formatMonth(reviewed, bilingual ? 'en' : lang);
+const reviewedEs = formatMonth(reviewed, 'es');
+const arrow = lang === 'ar' ? '←' : '→';
+---
+
+<section class="smart-goals" aria-labelledby="smart-goals-heading">
+  <h2 id="smart-goals-heading" {...attrs(L.heading, Les.heading)}>{L.heading}</h2>
+  <p class="smart-goals__intro" {...attrs(fill(L.intro, reviewedText), fill(Les.intro, reviewedEs))}>
+    {fill(L.intro, reviewedText)}
+  </p>
+
+  <ol class="smart-goals__list">
+    {
+      goals.map((g) => {
+        const byText = fill(L.by, formatMonth(g.deadline, bilingual ? 'en' : lang));
+        const byEs = fill(Les.by, formatMonth(g.deadline, 'es'));
+        return (
+          <li class="smart-goal">
+            <div class="smart-goal__head">
+              <h3 class="smart-goal__title" {...attrs(g.goal, g.goalEs)}>
+                {g.goal}
+              </h3>
+              <span class="smart-goal__deadline">
+                <Icon name="lucide:calendar-clock" size={14} />
+                <span {...attrs(byText, byEs)}>{byText}</span>
+              </span>
+            </div>
+
+            <p class="smart-goal__metric">
+              <span class="smart-goal__label" {...attrs(L.metric, Les.metric)}>
+                {L.metric}
+              </span>{' '}
+              <span {...attrs(g.metric, g.metricEs)}>{g.metric}</span>
+            </p>
+
+            <div class="smart-goal__progress">
+              <div class="smart-goal__point">
+                <span class="smart-goal__label" {...attrs(L.baseline, Les.baseline)}>
+                  {L.baseline}
+                </span>
+                <span class="smart-goal__value" {...attrs(g.baseline, g.baselineEs)}>
+                  {g.baseline}
+                </span>
+              </div>
+              <span
+                class:list={['smart-goal__arrow', { 'smart-goal__arrow--rtl': lang === 'ar' }]}
+                aria-hidden="true"
+              >
+                {arrow}
+              </span>
+              <div class="smart-goal__point smart-goal__point--target">
+                <span class="smart-goal__label" {...attrs(L.target, Les.target)}>
+                  {L.target}
+                </span>
+                <span class="smart-goal__value" {...attrs(g.target, g.targetEs)}>
+                  {g.target}
+                </span>
+              </div>
+            </div>
+
+            <dl class="smart-goal__details">
+              <div>
+                <dt {...attrs(L.owner, Les.owner)}>{L.owner}</dt>
+                <dd {...attrs(g.owner, g.ownerEs)}>{g.owner}</dd>
+              </div>
+              <div>
+                <dt {...attrs(L.precedent, Les.precedent)}>{L.precedent}</dt>
+                <dd {...attrs(g.precedent, g.precedentEs)}>{g.precedent}</dd>
+              </div>
+            </dl>
+
+            <p class="smart-goal__source">
+              <span {...attrs(L.source, Les.source)}>{L.source}</span> <cite>{g.source}</cite>
+            </p>
+          </li>
+        );
+      })
+    }
+  </ol>
+</section>
+
+<style>
+  .smart-goals {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--color-bg-alt);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--color-border);
+  }
+
+  .smart-goals h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  .smart-goals__intro {
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .smart-goals__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 1rem;
+  }
+
+  .smart-goal {
+    padding: 1.25rem;
+    background: var(--color-bg-card);
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+
+  .smart-goal__head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+  }
+
+  .smart-goal__title {
+    font-size: 1rem;
+    margin: 0;
+    line-height: 1.4;
+    flex: 1 1 16rem;
+  }
+
+  .smart-goal__deadline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    background: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    white-space: nowrap;
+  }
+
+  .smart-goal__metric {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin: 0 0 0.75rem;
+  }
+
+  .smart-goal__label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+  }
+
+  .smart-goal__progress {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: stretch;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .smart-goal__point {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    padding: 0.6rem 0.75rem;
+    border-radius: var(--radius);
+    background: var(--color-bg-alt);
+  }
+
+  .smart-goal__point--target {
+    border: 1px solid var(--color-primary);
+  }
+
+  .smart-goal__value {
+    font-weight: 600;
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+
+  .smart-goal__arrow {
+    align-self: center;
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+  .smart-goal__details {
+    display: grid;
+    gap: 0.5rem;
+    margin: 0 0 0.5rem;
+    font-size: 0.85rem;
+  }
+
+  .smart-goal__details dt {
+    font-weight: 700;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-text-muted);
+  }
+
+  .smart-goal__details dd {
+    margin: 0.1rem 0 0;
+  }
+
+  .smart-goal__source cite {
+    font-style: normal;
+  }
+
+  .smart-goal__source {
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+    margin: 0;
+  }
+
+  @media (max-width: 540px) {
+    .smart-goals {
+      padding: 1.25rem;
+    }
+
+    .smart-goal__progress {
+      grid-template-columns: 1fr;
+    }
+
+    .smart-goal__arrow {
+      transform: rotate(90deg);
+      justify-self: center;
+    }
+
+    .smart-goal__arrow--rtl {
+      transform: rotate(-90deg);
+    }
+  }
+</style>

@@ -36,6 +36,50 @@ relatedLegislation:
     title: 'Legal Protections for Dignity of Minors'
     status: 'Introduced - Assigned to Judiciary'
     url: 'https://leg.colorado.gov/bills/sb26-018'
+smartGoals:
+  - goal: 'Enact a trans healthcare sanctuary ordinance'
+    goalEs: 'Aprobar una ordenanza de santuario para la salud trans'
+    metric: 'Ordinance barring city cooperation with out-of-state or federal actions targeting gender-affirming care'
+    metricEs: 'Ordenanza que prohíbe a la ciudad cooperar con acciones federales o de otros estados contra la atención de afirmación de género'
+    baseline: 'State shield law only (SB 23-188, 2023); no city ordinance (2026)'
+    baselineEs: 'Solo la ley estatal de protección (SB 23-188, 2023); sin ordenanza municipal (2026)'
+    target: 'Ordinance in force'
+    targetEs: 'Ordenanza vigente'
+    deadline: '2027-06'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: 'Minneapolis, Austin, and other cities adopted trans refuge measures in 2022-2023'
+    precedentEs: 'Minneápolis, Austin y otras ciudades adoptaron medidas de refugio trans en 2022-2023'
+    source: 'Colorado SB 23-188, 2023'
+  - goal: 'Fund dedicated beds for LGBTQ+ youth experiencing homelessness'
+    goalEs: 'Financiar camas dedicadas para jóvenes LGBTQ+ sin hogar'
+    metric: 'Affirming youth shelter and transitional beds dedicated to LGBTQ+ youth'
+    metricEs: 'Camas de refugio y transición para jóvenes dedicadas a jóvenes LGBTQ+'
+    baseline: 'No dedicated city-funded beds; LGBTQ+ youth up to 40% of homeless youth (True Colors United, 2023)'
+    baselineEs: 'Sin camas dedicadas con fondos municipales; jóvenes LGBTQ+ son hasta 40% de los jóvenes sin hogar (True Colors United, 2023)'
+    target: '50 dedicated beds'
+    targetEs: '50 camas dedicadas'
+    deadline: '2029'
+    owner: 'HOST with youth-serving nonprofits'
+    ownerEs: 'HOST con organizaciones juveniles'
+    precedent: "New York's Ali Forney Center has operated LGBTQ+ youth housing since 2002"
+    precedentEs: 'El Ali Forney Center de Nueva York ofrece vivienda a jóvenes LGBTQ+ desde 2002'
+    source: 'True Colors United, 2023'
+  - goal: 'Make every city-owned facility have an all-gender restroom'
+    goalEs: 'Lograr que cada edificio municipal tenga un baño para todos los géneros'
+    metric: 'Share of city-owned public facilities with at least one all-gender restroom'
+    metricEs: 'Porcentaje de edificios municipales públicos con al menos un baño para todos los géneros'
+    baseline: 'Not inventoried (2026)'
+    baselineEs: 'Sin inventario (2026)'
+    target: '100% of facilities'
+    targetEs: '100% de los edificios'
+    deadline: '2028'
+    owner: 'Denver Department of General Services'
+    ownerEs: 'Departamento de Servicios Generales de Denver'
+    precedent: 'Washington, DC and Philadelphia require single-occupancy restrooms to be all-gender'
+    precedentEs: 'Washington, DC y Filadelfia exigen que los baños individuales sean para todos los géneros'
+    source: 'Denver General Services facility inventory, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -169,6 +213,6 @@ Because discrimination has economic consequences. LGBTQ+ people, particularly tr
 - American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Conversion therapy causes harm; no evidence of efficacy.
 - NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Municipal LGBTQ+ protection framework.
 - National LGBTQ Task Force. (2026). "Creating Change 2026." Conference proposals addressing intersectional LGBTQ+ policy.
-- Colorado General Assembly. HB 19-1129. "Conversion Therapy Ban for Minors." Enacted 2019.
-- Colorado Anti-Discrimination Act (CADA). C.R.S. 24-34-301 et seq. Sexual orientation and gender identity protections.
+- Colorado General Assembly. (2019). HB 19-1129. "Conversion Therapy Ban for Minors."
+- Colo. Rev. Stat. § 24-34-301 et seq. (Colorado Anti-Discrimination Act). Sexual orientation and gender identity protections.
 - Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Municipal policy toolkit.

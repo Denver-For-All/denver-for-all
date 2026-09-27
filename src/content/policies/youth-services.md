@@ -31,6 +31,50 @@ keyStats:
     contextEs: 'Mediante menos encarcelamiento, mayores ingresos y mejor salud'
     source: 'Heckman and Masterov; Fight Crime: Invest in Kids'
     theme: 'primary'
+smartGoals:
+  - goal: 'Guarantee a summer job to every Denver teen who wants one'
+    goalEs: 'Garantizar un empleo de verano a cada adolescente de Denver que lo quiera'
+    metric: 'Paid summer job placements for Denver youth ages 14-18'
+    metricEs: 'Empleos de verano pagados para jóvenes de Denver de 14 a 18 años'
+    baseline: 'Roughly 2,000-3,000 placements per summer (2025)'
+    baselineEs: 'Cerca de 2,000-3,000 plazas por verano (2025)'
+    target: '10,000 placements per summer'
+    targetEs: '10,000 plazas por verano'
+    deadline: '2029'
+    owner: 'Denver Economic Development & Opportunity (Youth Employment)'
+    ownerEs: 'Desarrollo Económico y Oportunidad de Denver (Empleo Juvenil)'
+    precedent: "Chicago's One Summer Plus cut violent-crime arrests among participants by 43% in a randomized trial"
+    precedentEs: 'One Summer Plus de Chicago redujo 43% los arrestos por delitos violentos entre participantes en un ensayo aleatorio'
+    source: 'Denver youth employment program data, 2025'
+  - goal: 'Open a year-round youth center in every council district'
+    goalEs: 'Abrir un centro juvenil todo el año en cada distrito del Concejo'
+    metric: 'Council districts with a dedicated youth center open evenings and weekends'
+    metricEs: 'Distritos del Concejo con un centro juvenil dedicado abierto en noches y fines de semana'
+    baseline: 'Youth programming spread across rec centers; no dedicated center in most districts (2025)'
+    baselineEs: 'Programación juvenil dispersa en centros recreativos; sin centro dedicado en la mayoría de los distritos (2025)'
+    target: '11 of 11 districts'
+    targetEs: '11 de 11 distritos'
+    deadline: '2030'
+    owner: "Denver Office of Children's Affairs with Parks and Recreation"
+    ownerEs: 'Oficina de Asuntos Infantiles de Denver con Parques y Recreación'
+    precedent: "Iceland's municipal youth centers and activity funding helped cut teen substance use by more than half since 1998"
+    precedentEs: 'Los centros juveniles municipales de Islandia y sus fondos para actividades ayudaron a reducir a menos de la mitad el consumo de sustancias entre adolescentes desde 1998'
+    source: "Denver Office of Children's Affairs, 2025"
+  - goal: 'Cut chronic absenteeism in Denver schools'
+    goalEs: 'Reducir el ausentismo crónico en las escuelas de Denver'
+    metric: 'Share of DPS students chronically absent'
+    metricEs: 'Porcentaje de estudiantes de DPS con ausentismo crónico'
+    baseline: '38% (DPS, 2024)'
+    baselineEs: '38% (DPS, 2024)'
+    target: '20% or lower, with counselors at 1:250'
+    targetEs: '20% o menos, con consejeros en proporción 1:250'
+    deadline: '2030'
+    owner: "Denver Public Schools with the Mayor's Office"
+    ownerEs: 'Escuelas Públicas de Denver con la Oficina del Alcalde'
+    precedent: 'Connecticut cut statewide chronic absence from ~24% to ~18% (2022-2024), aided by its LEAP home-visiting program'
+    precedentEs: 'Connecticut redujo el ausentismo crónico estatal de ~24% a ~18% (2022-2024), con apoyo de su programa de visitas LEAP'
+    source: 'Denver Public Schools, 2024'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -151,9 +195,9 @@ Community-based violence intervention reduces violent crime more effectively tha
 
 - Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
 - Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
-- American School Counselor Association. Recommended counselor-to-student ratio: 1:250.
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
 - Denver Police Department. (2023). Juvenile victim and crime data.
-- Measure of America. Youth Disconnection series. (Disconnected youth rates by metro area.)
-- Boston Mayor's Office of Workforce Development. SuccessLink program data and evaluation.
-- NYC Department of Youth and Community Development. Summer Youth Employment Program reports.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
 - Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

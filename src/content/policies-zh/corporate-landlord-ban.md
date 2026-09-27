@@ -87,3 +87,10 @@
 
 **“强制资产剥离不会导致贱卖，从而导致房产价值暴跌吗？”**
 5年的资产剥离时间表有意设置得足够长，以防止贱卖。按照丹佛目前房屋销售的速度（大都会区每年约30,000笔交易），机构资产剥离的量仅占市场总活动的一小部分。丹佛的企业房东持有数千套房屋，而不是数十万套。以独立评估的公平市场价值（而不是以不良价格）出售的要求可防止低价竞争。当前租户、社区土地信托和社会住房管理局的优先购买权确保房屋出售给与使命一致的买家，而不是出售给下一个企业房东。柏林居民在2021年以59%的投票率通过的征用程序，也正在以类似多年的时间表进行，而没有造成市场混乱。
+
+## 参考文献
+
+- Deutsche Welle. (2021, September 27). _Berlin referendum: Majority votes to expropriate large landlords_. https://www.dw.com
+- Organisation for Economic Co-operation and Development. (2024). _OECD Affordable Housing Database_. https://www.oecd.org/housing/data/affordable-housing-database/
+- Redfin. (2024). _Investor home purchases in 2023_ [Data analysis]. https://www.redfin.com/news/investor-home-purchases-q4-2023/
+- U.S. Department of Justice. (2024, August 23). _Justice Department sues RealPage for algorithmic pricing scheme that harms millions of American renters_ [Press release]. https://www.justice.gov

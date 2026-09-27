@@ -24,6 +24,50 @@ keyStats:
     contextEs: 'Pionero en Brasil en 1989 - la mortalidad infantil bajo 50% en Porto Alegre'
     source: 'Sintomer et al., 2012'
     theme: 'primary'
+smartGoals:
+  - goal: "Run Denver's first citywide participatory budgeting cycle"
+    goalEs: 'Realizar el primer ciclo de presupuesto participativo en toda la ciudad'
+    metric: 'Share of the annual capital budget allocated by resident vote'
+    metricEs: 'Porcentaje del presupuesto de capital anual asignado por voto de los residentes'
+    baseline: '0% (2026)'
+    baselineEs: '0% (2026)'
+    target: '3% in the first cycle, rising to 10% by 2031'
+    targetEs: '3% en el primer ciclo, subiendo a 10% para 2031'
+    deadline: '2028'
+    owner: "Mayor's Office and Denver City Council (budget)"
+    ownerEs: 'Oficina del Alcalde y Concejo Municipal de Denver (presupuesto)'
+    precedent: 'Paris allocates about 5% of its investment budget (~€100M per year) through participatory budgeting'
+    precedentEs: 'París asigna cerca de 5% de su presupuesto de inversión (~€100M por año) mediante presupuesto participativo'
+    source: 'City and County of Denver 2026 Budget'
+  - goal: 'Bring new voices into city decisions'
+    goalEs: 'Incorporar nuevas voces en las decisiones de la ciudad'
+    metric: 'Residents 14+ voting in the participatory budgeting cycle'
+    metricEs: 'Residentes de 14+ años que votan en el ciclo de presupuesto participativo'
+    baseline: '62% of registered voters skipped the 2023 municipal election'
+    baselineEs: '62% de los votantes registrados no votaron en la elección municipal de 2023'
+    target: '50,000 participants, with turnout in low-income districts at or above the citywide rate'
+    targetEs: '50,000 participantes, con participación en distritos de bajos ingresos igual o mayor que el promedio'
+    deadline: '2029'
+    owner: "Mayor's Office of Social Equity and Innovation"
+    ownerEs: 'Oficina del Alcalde de Equidad Social e Innovación'
+    precedent: "New York City's The People's Money drew 100,000+ participants in its first citywide cycle (2022-2023)"
+    precedentEs: "The People's Money de Nueva York atrajo a más de 100,000 participantes en su primer ciclo en toda la ciudad (2022-2023)"
+    source: 'Denver Elections Division, 2023 municipal election results'
+  - goal: "Convene Denver's first citizens' assembly"
+    goalEs: 'Convocar la primera asamblea ciudadana de Denver'
+    metric: 'Randomly selected, demographically representative assembly with a required Council response'
+    metricEs: 'Asamblea elegida al azar y representativa con respuesta obligatoria del Concejo'
+    baseline: 'None held (2026)'
+    baselineEs: 'Ninguna realizada (2026)'
+    target: 'First assembly on housing affordability completed'
+    targetEs: 'Primera asamblea sobre vivienda asequible completada'
+    deadline: '2028-06'
+    owner: 'Denver City Council'
+    ownerEs: 'Concejo Municipal de Denver'
+    precedent: "Ireland's Citizens' Assemblies led to the 2015 and 2018 referendums; Ostbelgien made its citizens' council permanent in 2019"
+    precedentEs: 'Las Asambleas Ciudadanas de Irlanda llevaron a los referendos de 2015 y 2018; Ostbelgien hizo permanente su consejo ciudadano en 2019'
+    source: 'Denver City Council, 2026'
+goalsReviewed: '2026-09'
 ---
 
 ## The Problem
@@ -147,6 +191,7 @@ PB programs that work use equity-weighted allocation: districts with higher pove
 - City of Denver Annual Budget. (2024). Total budget and capital budget figures.
 - Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
 - Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
-- PBNYC (Participatory Budgeting New York City). Annual reports and participation data.
+- PBNYC (Participatory Budgeting New York City). (n.d.). Annual reports and participation data.
 - Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
-- Irish Citizens' Assembly. Reports on the Eighth Amendment (2017) and Marriage Equality (2014).
+- Citizens' Assembly (Ireland). (2017). _First report and recommendations of the Citizens' Assembly: The Eighth Amendment of the Constitution_.
+- Convention on the Constitution (Ireland). (2014). _Report on marriage equality_.

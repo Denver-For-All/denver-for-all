@@ -141,9 +141,9 @@ FAMLI 提供 12 周 90% 的工资 -  - 比什么都没有有了有意义的改�
 
 ## 参考文献
 
-- Colorado 州修订法规，第 8-13.3-501 节及后续章节（FAMLI 法案）
-- Colorado FAMLI Division，《计划实施报告》，2024 年
-- Colorado 健康家庭和工作场所法案 (HFWA)，C.R.S. 8-13.3-401 节及后续章节
-- 瑞典社会保险局 (_Forsakringskassan_)，《育儿假统计》，2023 年
-- OECD，《家庭数据库：育儿假制度》，2023 年
-- 挪威劳动和社会融合部，《育儿假条例》，2023 年
+- Colo. Rev. Stat. § 8-13.3-501 et seq. (Paid Family and Medical Leave Insurance Act).
+- Colorado FAMLI Division. (2024). _Program Implementation Report_.
+- Colo. Rev. Stat. § 8-13.3-401 et seq. (Healthy Families and Workplaces Act).
+- Swedish Social Insurance Agency (_Forsakringskassan_). (2023). _Parental Leave Statistics_.
+- OECD. (2023). _Family Database: Parental Leave Systems_.
+- Norway Ministry of Labour and Social Inclusion. (2023). _Parental Leave Regulations_.

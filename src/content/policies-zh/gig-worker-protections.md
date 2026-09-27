@@ -88,9 +88,10 @@ Denver 的条例适用于在 Denver 市区内进行的工作。对于网约车�
 
 ## 参考文献
 
-- Colorado SB 22-161，《交通网络公司 (TNC) 最低工资》，2022 年
-- California 众议院法案 5 (AB5)，2019 年
-- 欧洲议会，《平台工作指令》，2024 年
-- 英国最高法院，《Uber BV 诉 Aslam》[2021] UKSC 5
-- 西班牙，《Ley Rider》（皇家法令-法律 9/2021）
-- McKinsey Global Institute，《独立工作：选择、必要性和零工经济》，2022 年更新
+- Colorado SB 22-161. (2022). _Transportation Network Company (TNC) Minimum Pay_.
+- California State Legislature. (2019). _Assembly Bill 5 (AB5): Worker status: employees and independent contractors_.
+- European Parliament. (2024). _Platform Work Directive_.
+- _Uber BV v. Aslam_, [2021] UKSC 5 (U.K. Supreme Court).
+- Spain. (n.d.). _Ley Rider_ (Royal Decree-Law 9/2021)
+- McKinsey Global Institute. (2016). _Independent work: Choice, necessity, and the gig economy_. McKinsey & Company.
+- McKinsey & Company. (2022). _Freelance, side hustles, and gigs: Many more Americans have become independent workers_ [American Opportunity Survey].

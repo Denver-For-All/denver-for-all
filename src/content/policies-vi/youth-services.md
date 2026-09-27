@@ -117,11 +117,11 @@ Can thiệp bạo lực dựa vào cộng đồng làm giảm tội phạm bạo
 
 ## Tài Liệu Tham Khảo
 
-- Sở Y tế Công cộng và Môi trường Colorado. (2023). Dữ liệu tự tử ở thanh niên. (Nguyên nhân hàng đầu gây tử vong ở độ tuổi 10-24; cao hơn 58% so với mức trung bình toàn quốc.)
-- Học khu Công lập Denver. (2023). Báo cáo về trách nhiệm giải trình và tình trạng vắng mặt kinh niên. (Tỷ lệ vắng mặt kinh niên là 38%.)
-- Hiệp hội Cố vấn Học đường Hoa Kỳ. Tỷ lệ cố vấn/học sinh được khuyến nghị: 1:250.
-- Sở Cảnh sát Denver. (2023). Dữ liệu về nạn nhân vị thành niên và tội phạm.
-- Measure of America. Loạt bài Youth Disconnection. (Tỷ lệ thanh niên bị mất kết nối theo khu vực đô thị.)
-- Văn phòng Phát triển Lực lượng Lao động của Thị trưởng Boston. Dữ liệu và đánh giá chương trình SuccessLink.
-- Sở Phát triển Thanh niên và Cộng đồng NYC. Báo cáo Chương trình Việc làm Thanh niên Mùa hè.
-- Phòng Dịch vụ Thanh niên Colorado. (2023). Chi phí cho mỗi thanh thiếu niên bị giam giữ.
+- Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
+- Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
+- Denver Police Department. (2023). Juvenile victim and crime data.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
+- Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

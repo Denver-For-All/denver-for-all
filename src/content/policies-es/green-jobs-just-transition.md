@@ -116,9 +116,9 @@ Debido a que los mecanismos centrales, los requisitos de contratación local y l
 
 ## Referencias
 
-- Asamblea General de Colorado. (2019). _House Bill 19-1314: Just transition from coal-based electrical energy economy_. https://leg.colorado.gov/bills/hb19-1314
-- Asamblea General de Colorado. (2022). _House Bill 22-1394: Fund just transition community and worker supports_. https://leg.colorado.gov/bills/hb22-1394
-- Colorado Office of Just Transition. (2023). _Coal transition worker update_ [Informe de programa]. Colorado Department of Labor and Employment. https://cdle.colorado.gov/offices/the-office-of-just-transition
+- Colorado General Assembly. (2019). _House Bill 19-1314: Just transition from coal-based electrical energy economy_. https://leg.colorado.gov/bills/hb19-1314
+- Colorado General Assembly. (2022). _House Bill 22-1394: Fund just transition community and worker supports_. https://leg.colorado.gov/bills/hb22-1394
+- Colorado Office of Just Transition. (2023). _Coal transition worker update_ [Program report]. Colorado Department of Labor and Employment. https://cdle.colorado.gov/offices/the-office-of-just-transition
 - Colorado Public Utilities Commission. (2025). _Fact sheet: Comanche power plant unit 2 retirement extension_. https://puc.colorado.gov
 - E2. (2023). _Clean jobs Colorado 2023_. https://e2.org/reports/clean-jobs-colorado-2023/
 - U.S. Bureau of Labor Statistics. (2025). _Employment of wind turbine service technicians expected to increase 49.9 percent by 2034_ [The Economics Daily]. https://www.bls.gov/opub/ted/2025/

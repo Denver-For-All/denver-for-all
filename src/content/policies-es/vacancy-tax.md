@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Miles de unidades de vivienda en Denver permanecen vacías, retenidas por especuladores que esperan que los precios suban, por inversores que tratan la vivienda como un activo financiero, o simplemente abandonadas por propietarios negligentes. Mientras tanto, 7.500 personas no tienen hogar y miles más están a un aumento de alquiler del desplazamiento.
+Miles de unidades de vivienda en Denver permanecen vacías, retenidas por especuladores que esperan que los precios suban, por inversores que tratan la vivienda como un activo financiero, o simplemente abandonadas por propietarios negligentes. Mientras tanto, más de 6,400 personas no tienen hogar (MDHI, 2026) y miles más están a un aumento de alquiler del desplazamiento.
 
 Las casas vacías en vecindarios ocupados atraen el crimen, reducen los valores de las propiedades para los vecinos y representan una obscenidad moral en una ciudad con una crisis de vivienda.
 

@@ -59,7 +59,7 @@ public/                Static assets
 - **Linting:** ESLint with `@typescript-eslint` and `eslint-plugin-astro`. `no-unused-vars` uses warn with `^_` pattern for ignored args.
 - **Path aliases:** `@components/*`, `@layouts/*`, `@i18n/*`, `@styles/*` (see tsconfig.json).
 - **Content schema:** Policy frontmatter is validated by Zod in `src/content/config.ts`. Categories: housing, labor, climate, health, safety, education, immigration, infrastructure, justice, democracy, economy, community.
-- **i18n:** Default locale is `en`, supported locales: `en`, `es`. English routes are unprefixed; Spanish routes use `/es/` prefix.
+- **i18n:** Default locale is `en`; supported locales: `en`, `es`, `vi`, `zh`, `ar`, `am`. English routes are unprefixed; others use a `/<code>/` prefix. The `vi`/`zh`/`ar`/`am` routes are generated from the English pages by `node scripts/translate/make-locale-routes.mjs` (edit the English page, then regenerate). Their policy titles, summaries, key stats, and SMART goals live in `src/i18n/policy-meta-<code>.json`; keep `translations/incoming/` empty (see `scripts/translate/README.md`).
 - **Tests:** Vitest with `globals: true`, node environment. Test files go in `tests/**/*.test.ts`.
 
 ## Policy content rules

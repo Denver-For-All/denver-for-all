@@ -18,8 +18,8 @@ keyStats:
   - value: '5,000-8,000'
     label: 'homes sitting empty in Denver'
     labelEs: 'hogares vacios en Denver'
-    context: '7,500 people are homeless while thousands of units sit vacant for speculation'
-    contextEs: '7,500 personas sin hogar mientras miles de unidades estan vacias por especulacion'
+    context: 'More than 6,400 people are homeless (2026) while thousands of units sit vacant for speculation'
+    contextEs: 'Más de 6,400 personas sin hogar (2026) mientras miles de unidades están vacías por especulación'
     source: 'U.S. Census Bureau, ACS 2022'
     theme: 'danger'
   - value: '25%'
@@ -83,7 +83,7 @@ goalsReviewed: '2026-09'
 
 ## The Problem
 
-Thousands of housing units in Denver sit vacant - held by speculators waiting for prices to rise, by investors treating housing as a financial asset, or simply abandoned by negligent owners. Meanwhile, 7,500 people are homeless and thousands more are one rent increase away from displacement.
+Thousands of housing units in Denver sit vacant - held by speculators waiting for prices to rise, by investors treating housing as a financial asset, or simply abandoned by negligent owners. Meanwhile, more than 6,400 people are homeless (MDHI, 2026) and thousands more are one rent increase away from displacement.
 
 Empty homes in occupied neighborhoods attract crime, reduce property values for neighbors, and represent a moral obscenity in a city with a housing crisis.
 

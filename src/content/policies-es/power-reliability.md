@@ -39,7 +39,7 @@ Cuando los hospitales operan con energía de respaldo, la capacidad es limitada.
 
 ### Lo que Denver hace actualmente
 
-Muy poco. El acuerdo de franquicia actual de Denver con Xcel vence el 31 de diciembre de 2026. En agosto de 2025, el Concejo Municipal de Denver rechazó una renovación propuesta de 20 años por una votación de 7-6, y la concejal Shontel Lewis señaló que el acuerdo le daba a Xcel "mucha libertad" sin obligaciones de compartir datos, mejorar el servicio al cliente o usar energía limpia (Denverite, 2025). El acuerdo se está renegociando.
+Muy poco. El acuerdo de franquicia actual de Denver con Xcel vence el 31 de diciembre de 2026. En agosto de 2025, el Concejo Municipal de Denver rechazó una renovación propuesta de 20 años por una votación de 7-6, y la concejal Shontel Lewis señaló que el acuerdo le daba a Xcel "mucha libertad" sin obligaciones de compartir datos, mejorar el servicio al cliente o usar energía limpia (Denverite, 2025). Tras renegociarlo, el Concejo votó 10-2 en julio de 2026 para enviar una franquicia revisada de 20 años a los votantes en la boleta del 3 de noviembre de 2026, con los votos en contra de las concejales Shontel Lewis y Sarah Parady (Colorado Politics, 28 de julio de 2026). El acuerdo mantendría una tarifa de franquicia de 3% (unos $34 millones para el Fondo General el próximo año) y cerca de $150 millones anuales en obligaciones de reubicación y soterramiento. Los votantes deben juzgarlo frente a los estándares exigibles de confiabilidad, transparencia y salida que se describen abajo.
 
 Denver no tiene una empresa de energía municipal. Denver no tiene un programa de energía de respaldo para residentes médicamente vulnerables. Denver no tiene estándares de confiabilidad exigibles más allá de lo que la PUC impone a nivel estatal. La influencia de Denver es el acuerdo de franquicia, y esa influencia se está ejerciendo en este momento, en tiempo real, al momento de escribir este documento.
 
@@ -154,6 +154,7 @@ No. Se trata de si sus luces permanecen encendidas. Si una familia con un niño 
 
 ## Referencias
 
+- _Colorado Politics_. (28 de julio de 2026). "Denver City Council sends Xcel franchise deal to voters." https://www.coloradopolitics.com/2026/07/28/denver-city-council-sends-xcel-franchise-deal-to-voters/
 - Comisión de Servicios Públicos de Colorado. (2025). Informe sobre el rendimiento del servicio al cliente y los cortes de energía de Xcel Energy. (352 minutos de duración promedio de la interrupción, 90,000 clientes con más de 6 interrupciones en 2024).
 - Colorado Sun. (2025, 1 de mayo). "Los clientes de Xcel se enfrentan a cortes de energía cada vez mayores y esperan más tiempo para recibir asistencia". (Reducción del personal en un 10%, recorte del presupuesto de servicio al cliente en un 5%, aumento de la tarifa en un 30% entre 2022 y 2024).
 - Denver Post. (2025, 8 de mayo). "Los cortes de energía de Xcel Energy-Colorado se duplicaron en 2024". (Datos de tendencias de cortes de energía de 2014 a 2024).

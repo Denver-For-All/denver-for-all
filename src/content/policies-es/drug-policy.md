@@ -17,7 +17,7 @@ Denver se enfrenta específicamente a una crisis de opioides/fentanilo que las f
 
 Denver tiene cierta infraestructura de reducción de daños, pero trata el consumo de drogas principalmente como un asunto penal. La ciudad despenalizó la psilocibina a través de la Ordenanza Iniciada 301 en 2019, y Colorado aprobó la Proposición 122 en 2022 que legaliza los psicodélicos terapéuticos. Pero para las sustancias que impulsan la crisis actual - fentanilo, metanfetamina, heroína - el enfoque sigue siendo la aplicación de la ley en primer lugar.
 
-Denver reportó 827 muertes no intencionales por envenenamiento por drogas en 2023 (Oficina del Médico Forense de Denver, 2024). El fentanilo estuvo involucrado en el 64% de esas muertes. La Policía de Denver realizó más de 2,800 arrestos relacionados con drogas en 2023, pero las muertes por sobredosis han seguido aumentando año tras año. El enfoque de aplicación de la ley no está produciendo resultados.
+Denver registró 598 muertes por sobredosis en 2023, el año más mortal de su historia (Oficina del Médico Forense de Denver, 2024). Las muertes bajaron a 483 en 2024 y volvieron a subir en 2025, superando el total de 2024 para diciembre aun cuando bajaban en todo el país (9News, diciembre de 2025). El fentanilo estuvo involucrado en cerca de dos tercios de las muertes. La Policía de Denver realizó más de 2,800 arrestos relacionados con drogas en 2023, y aun así las muertes por sobredosis siguen cerca de niveles récord. El enfoque de aplicación de la ley no está produciendo resultados.
 
 ### Quién Se Opone a Esto (y Por Qué)
 

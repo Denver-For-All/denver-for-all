@@ -17,7 +17,7 @@ Denver đặc biệt phải đối mặt với cuộc khủng hoảng opioid/fen
 
 Denver có một số cơ sở hạ tầng giảm tác hại nhưng chủ yếu coi việc sử dụng ma túy là một vấn đề hình sự. Thành phố đã hợp pháp hóa psilocybin thông qua Sắc Lệnh Khởi Xướng 301 vào năm 2019 và Colorado đã thông qua Dự Luật 122 vào năm 2022 hợp pháp hóa các chất gây ảo giác trị liệu. Nhưng đối với các chất gây ra cuộc khủng hoảng thực sự - fentanyl, methamphetamine, heroin - phương pháp tiếp cận vẫn là thực thi pháp luật trước tiên.
 
-Denver báo cáo 827 ca tử vong do ngộ độc thuốc vô ý vào năm 2023 (Văn Phòng Giám Định Y Khoa Denver, 2024). Fentanyl có liên quan đến 64% số ca tử vong đó. Cảnh Sát Denver đã thực hiện hơn 2.800 vụ bắt giữ liên quan đến ma túy vào năm 2023, nhưng số ca tử vong do dùng thuốc quá liều vẫn tiếp tục tăng qua các năm. Phương pháp tiếp cận thực thi pháp luật không mang lại kết quả.
+Denver báo cáo 598 ca tử vong do ngộ độc thuốc vô ý vào năm 2023 (Văn Phòng Giám Định Y Khoa Denver, 2024). Fentanyl có liên quan đến 64% số ca tử vong đó. Cảnh Sát Denver đã thực hiện hơn 2.800 vụ bắt giữ liên quan đến ma túy vào năm 2023, nhưng số ca tử vong do dùng thuốc quá liều vẫn tiếp tục tăng qua các năm. Phương pháp tiếp cận thực thi pháp luật không mang lại kết quả.
 
 ### Ai Phản Đối Điều Này (và Tại Sao)
 

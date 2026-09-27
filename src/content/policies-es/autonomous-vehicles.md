@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Waymo está mapeando activamente las calles de Denver y planea lanzar un servicio de transporte sin conductor en 2026. Denver se convertirá en una de las primeras ciudades importantes en albergar vehículos totalmente autónomos (AV, por sus siglas en inglés) en un estado con casi ningún marco regulatorio. La ley de Colorado de 2017 (SB 17-213) es una de las más permisivas del país: no se requiere un permiso estatal de AV, no se exige la notificación de incidentes, no existen protocolos para los servicios de emergencia, no existen requisitos de transparencia de datos y los gobiernos locales tienen prohibido imponer sus propias regulaciones de AV (Estatutos Revisados de Colorado, Título 42, Artículo 4, Parte 18).
+Waymo abrió al público de Denver su servicio de transporte totalmente sin conductor el 1 de septiembre de 2026, con decenas de vehículos en unas 60 millas cuadradas de la ciudad, desde el centro y Cherry Creek hasta Sloan's Lake y Central Park; Denver es la ciudad número 14 donde Waymo opera sin conductor (Colorado Sun, 2026; Axios Denver, 2026). Denver ya alberga vehículos totalmente autónomos (AV, por sus siglas en inglés) en un estado con casi ningún marco regulatorio. La ley de Colorado de 2017 (SB 17-213) es una de las más permisivas del país: no se requiere un permiso estatal de AV, no se exige la notificación de incidentes, no existen protocolos para los servicios de emergencia, no existen requisitos de transparencia de datos y los gobiernos locales tienen prohibido imponer sus propias regulaciones de AV (Estatutos Revisados de Colorado, Título 42, Artículo 4, Parte 18).
 
 Esto significa que Waymo puede desplegar cientos de vehículos sin conductor en las calles de Denver con:
 
@@ -153,6 +153,8 @@ Deberías estarlo. Una flota de 500 AV con cámaras de alta resolución que oper
 
 ## Referencias
 
+- _Colorado Sun_. (1 de septiembre de 2026). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
+- Axios Denver. (1 de septiembre de 2026). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
 - Colorado SB 17-213. (2017). Relativo al Funcionamiento de Vehículos Autónomos. (Marco estatal de AV; disposiciones de preferencia local).
 - Colorado HB 25-1122. (2025). Relativo a los Humanos que Operan Ciertos Vehículos Motorizados. (Vetada por el gobernador Polis).
 - California AB 1777. (2025, en vigor en julio de 2026). Vehículos autónomos: servicios de emergencia. (Línea directa de respuesta a emergencias, geoperimetraje, autoridad de citación, requisitos de comunicación bidireccional).

@@ -200,7 +200,10 @@ const arrow = lang === 'ar' ? '←' : '→';
                   {g.baseline}
                 </span>
               </div>
-              <span class="smart-goal__arrow" aria-hidden="true">
+              <span
+                class:list={['smart-goal__arrow', { 'smart-goal__arrow--rtl': lang === 'ar' }]}
+                aria-hidden="true"
+              >
                 {arrow}
               </span>
               <div class="smart-goal__point smart-goal__point--target">
@@ -386,6 +389,10 @@ const arrow = lang === 'ar' ? '←' : '→';
     .smart-goal__arrow {
       transform: rotate(90deg);
       justify-self: center;
+    }
+
+    .smart-goal__arrow--rtl {
+      transform: rotate(-90deg);
     }
   }
 </style>

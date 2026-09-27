@@ -78,8 +78,10 @@ export function localizePolicy<S extends StatLike, G extends GoalLike>(
   lang: Locale,
 ) {
   const meta = POLICY_META[lang]?.[id] ?? {};
-  const keyStats = (data.keyStats ?? []).map((stat, i) => {
-    const loc = meta.keyStats?.[i] ?? {};
+  // Match translated stats by their value, not position, so a stat added to the English
+  // frontmatter later never borrows a neighbor's caption.
+  const keyStats = (data.keyStats ?? []).map((stat) => {
+    const loc = meta.keyStats?.find((s) => s.value === stat.value) ?? {};
     return {
       ...stat,
       label: loc.label || stat.label,

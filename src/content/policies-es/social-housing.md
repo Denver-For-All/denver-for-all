@@ -3,7 +3,7 @@
 
 ## El Problema
 
-Denver tiene más de 7,500 personas sin hogar en una noche cualquiera (Conteo de personas sin hogar en un momento dado de MDHI, 2024). La lista de espera para los vales de vivienda de la Sección 8 es de años (Autoridad de Vivienda de Denver), e incluso cuando las personas obtienen los vales, los arrendadores se niegan a aceptarlos. El mercado privado no ha logrado proporcionar viviendas asequibles porque nunca fue diseñado para ello. Su propósito es el lucro, no el refugio.
+Denver tenía 6,411 personas sin hogar la noche del conteo de enero de 2026 (Conteo de personas sin hogar en un momento dado de MDHI, 2026). La lista de espera para los vales de vivienda de la Sección 8 es de años (Autoridad de Vivienda de Denver), e incluso cuando las personas obtienen los vales, los arrendadores se niegan a aceptarlos. El mercado privado no ha logrado proporcionar viviendas asequibles porque nunca fue diseñado para ello. Su propósito es el lucro, no el refugio.
 
 Mientras tanto, el alquiler medio en Denver casi se ha duplicado desde 2010 (Índice de alquiler observado de Zillow, Área Estadística Metropolitana de Denver-Aurora-Lakewood). Un apartamento de una habitación promedia más de $1,600/mes (ApartmentList, 2024). Una familia que gana el ingreso medio gasta más del 35% de sus ingresos en alquiler (Oficina del Censo de EE. UU. ACS, 2023), por encima del umbral federal de asequibilidad. Para las familias de bajos ingresos, es del 50-70%.
 
@@ -89,7 +89,7 @@ La vivienda pública estadounidense fue deliberadamente subfinanciada, concentra
 La DSHA sería una autoridad independiente con administración de propiedades profesional, similar a cómo Denver administra su servicio de agua. La ciudad ya opera Denver Health, DIA (Aeropuerto Internacional de Denver) y otras grandes instituciones. Esta es una cuestión de gestión, no una cuestión de capacidad.
 
 **"¿No costará esto demasiado?"**
-El costo actual de la falta de vivienda para los contribuyentes de Denver se estima en $40,000-60,000 por persona por año (servicios de emergencia, vigilancia policial, visitas al hospital). Alojar a 7,500 personas sin hogar a $15,000/persona/año en vivienda social ahorra dinero. Es más barato alojar a las personas que dejarlas en la calle.
+El costo actual de la falta de vivienda para los contribuyentes de Denver se estima en $40,000-60,000 por persona por año (servicios de emergencia, vigilancia policial, visitas al hospital). Alojar a 6,400 personas sin hogar a $15,000/persona/año en vivienda social ahorra dinero. Es más barato alojar a las personas que dejarlas en la calle.
 
 **"¿Por qué no darles más incentivos a los promotores?"**
 Lo hemos intentado durante 20 años. Ha producido una fracción de las unidades necesarias, a costos por unidad más altos, con períodos de asequibilidad que expiran. El mercado privado construye viviendas para maximizar las ganancias, no para maximizar la vivienda. Necesitamos una opción pública.

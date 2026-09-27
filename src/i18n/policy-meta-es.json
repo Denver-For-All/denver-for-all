@@ -1083,5 +1083,323 @@
         "source": "Heckman and Masterov; Fight Crime: Invest in Kids"
       }
     ]
+  },
+  "anti-harassment-tenant-protections": {
+    "title": "Protecciones contra el Acoso para Inquilinos",
+    "summary": "Una ordenanza independiente de Denver contra el acoso que nombra y prohíbe las tácticas coercitivas de los propietarios - cortes de servicios, desalojos ilegales, inspecciones pretextuales, amenazas y desalojo constructivo - respaldada por sanciones civiles y un derecho privado de acción para que los inquilinos puedan demandar.",
+    "keyStats": [
+      {
+        "value": "$5,000",
+        "label": "daños estatutarios mínimos por un desalojo ilegal o corte de servicios bajo la ley de Colorado",
+        "context": "La CRS 38-12-510 ya da derecho al inquilino a los daños reales más el mayor de tres meses de alquiler o $5,000 - pero los inquilinos deben encontrar un abogado y demandar por su cuenta, y la mayoría nunca lo hace",
+        "source": "Estatutos Revisados de Colorado § 38-12-510, 2024"
+      },
+      {
+        "value": "15,953",
+        "label": "demandas de desalojo en Denver en 2025",
+        "context": "El desalojo formal es solo la punta visible del desplazamiento. Muchos más inquilinos son expulsados informalmente mediante acoso que nunca llega a un tribunal",
+        "source": "Tribunal del Condado de Denver; Eviction Lab, Universidad de Princeton, 2025"
+      },
+      {
+        "value": "$1,000-$10,000",
+        "label": "rango de sanción civil por incidente bajo la ley de acoso a inquilinos de la Ciudad de Nueva York",
+        "context": "Los inquilinos de Nueva York en edificios de tres o más unidades pueden demandar en el tribunal de vivienda; el tribunal puede multar al propietario por cada acto de acoso y otorgar al inquilino compensación y honorarios de abogados",
+        "source": "Código Administrativo de la Ciudad de Nueva York; Fiscal General del Estado de Nueva York, 2023"
+      },
+      {
+        "value": "3x",
+        "label": "daños reales que un inquilino acosado puede recuperar bajo la Ordenanza de Protección de Inquilinos de Oakland",
+        "context": "Un inquilino de Oakland que gana recupera el mayor de daños triplicados o $1,000 en daños estatutarios, con pisos más altos para inquilinos mayores, discapacitados o gravemente enfermos",
+        "source": "Código Municipal de Oakland § 8.22.640, 2014"
+      }
+    ]
+  },
+  "anti-surveillance-facial-recognition-ban": {
+    "title": "Los Rostros No Son Pruebas: Prohibir el Reconocimiento Facial Gubernamental en Denver",
+    "summary": "Denver no tiene ninguna ordenanza que restrinja la vigilancia biométrica, las redes de lectores de placas ni la puntuación algorítmica de riesgo. Prohibir el uso municipal del reconocimiento facial, frenar el rastreo masivo con ALPR, prohibir la vigilancia policial predictiva y exigir supervisión pública aprobada por el concejo antes de comprar cualquier nueva herramienta de vigilancia.",
+    "keyStats": [
+      {
+        "value": "Up to 100x",
+        "label": "tasas de coincidencia falsa más altas para rostros asiáticos y negros en muchos algoritmos",
+        "context": "Un estudio federal de 189 algoritmos de reconocimiento facial encontró que los rostros asiáticos y afroamericanos eran identificados erróneamente hasta 100 veces más que los rostros blancos en la comparación uno a uno",
+        "source": "NIST FRVT Parte 3: Efectos Demográficos (NISTIR 8280), 2019"
+      },
+      {
+        "value": "1,400+",
+        "label": "búsquedas relacionadas con inmigración en los datos de placas de Denver desde 2024",
+        "context": "Registros obtenidos por la ACLU de Colorado mostraron que agencias externas consultaron la red de lectores automáticos de placas de Denver más de 1,400 veces con fines migratorios, incluidas búsquedas etiquetadas simplemente como \"ICE\"",
+        "source": "Solicitud de registros de la ACLU de Colorado, reportada por NBC News, 2025"
+      },
+      {
+        "value": "0",
+        "label": "ordenanzas de Denver que exigen aprobación pública antes de que la policía compre tecnología de vigilancia",
+        "context": "A diferencia de San Francisco, Boston y más de 26 jurisdicciones con ordenanzas de control comunitario, Denver no tiene una ley que otorgue al público o al Concejo Municipal un voto antes de adquirir nuevas herramientas de vigilancia",
+        "source": "Proyecto de Control Comunitario sobre la Vigilancia Policial de la ACLU, 2024"
+      },
+      {
+        "value": "111",
+        "label": "cámaras de vigilancia Flock que Denver instaló en toda la ciudad en 2024",
+        "context": "Se construyó una red de 111 cámaras lectoras de placas en todo Denver en 2024 sin ninguna ordenanza pública de vigilancia que regulara quién podía consultar los datos ni cuánto tiempo se conservaban",
+        "source": "Reportajes de Denverite / Denver Gazette, 2024-2026"
+      }
+    ]
+  },
+  "campaign-finance-reform": {
+    "title": "Reforma del Financiamiento de Campañas: Sacar el Dinero Grande de la Política de Denver",
+    "summary": "Denver ya tiene una herramienta para rastrear el dinero en la política. Ahora necesitamos reforma: límites de contribución más bajos, divulgación de LLC y un programa de correspondencia de pequeñas donaciones.",
+    "keyStats": [
+      {
+        "value": "$10,000",
+        "label": "contribución individual máxima a un candidato a la alcaldía de Denver por elección",
+        "context": "Un cheque de $10,000 está fuera del alcance de la mayoría de los residentes de Denver. El límite actual amplifica las voces de los ricos y los bien conectados.",
+        "source": "Denver Campaign Finance Ordinance, 2024"
+      },
+      {
+        "value": "67%",
+        "label": "de los fondos de campaña para alcalde de Denver recaudados de contribuciones superiores a $500",
+        "context": "El votante medio de Denver no puede escribir un cheque de $500. Las campañas construidas sobre grandes donaciones son campañas construidas para grandes donantes.",
+        "source": "Denver Campaign Finance disclosure data, 2023 mayoral election"
+      },
+      {
+        "value": "7:1",
+        "label": "proporción de correspondencia de pequeñas donaciones utilizada por Nueva York - convirtiendo $25 en $175",
+        "context": "La correspondencia de NYC produjo un 61% más de pequeños donantes y un 31% más de candidatos por primera vez de entornos de clase trabajadora en 2021",
+        "source": "NYC Campaign Finance Board Annual Report, 2022"
+      }
+    ]
+  },
+  "consumer-financial-protection": {
+    "title": "Protección Financiera del Consumidor: Detener la Trampa de Deuda en Denver",
+    "summary": "Limitar las tasas de interés abusivas, exigir información clara y comprensible sobre los préstamos y ampliar las cooperativas de crédito comunitarias para que las familias trabajadoras de Denver conserven su dinero en lugar de perderlo ante prestamistas de día de pago, alquiler con opción a compra y préstamos de auto de alto costo.",
+    "keyStats": [
+      {
+        "value": "4 in 5",
+        "label": "préstamos de día de pago se renuevan o se vuelven a pedir dentro de un mes",
+        "context": "El producto está diseñado en torno al endeudamiento repetido, no a emergencias puntuales: el 80% de los prestatarios vuelven a pedir prestado dentro de 14 días",
+        "source": "Oficina de Protección Financiera del Consumidor, 2014"
+      },
+      {
+        "value": "36%",
+        "label": "tope de TAE que los votantes de Colorado impusieron a los préstamos de día de pago en 2018",
+        "context": "La Proposición 111 fue aprobada con más del 70% de apoyo, poniendo fin a las TAE de tres dígitos en los préstamos de día de pago en todo el estado, un precedente sobre el que Denver puede construir",
+        "source": "Secretaría de Estado de Colorado, 2018"
+      },
+      {
+        "value": "~$50M",
+        "label": "tarifas anuales estimadas que los prestatarios de Colorado ahorran tras el tope del 36%",
+        "context": "Los topes a las tasas mantienen el dinero en los presupuestos familiares y en las economías locales en lugar de en prestamistas de alto costo",
+        "source": "Centro para Préstamos Responsables, 2018"
+      },
+      {
+        "value": "Disproportionate",
+        "label": "concentración de prestamistas de alto costo en vecindarios de bajos ingresos y minoritarios",
+        "context": "Los prestamistas de día de pago y de título se agrupan en comunidades con mayor pobreza y mayores poblaciones negras y latinas",
+        "source": "Centro para Préstamos Responsables, 2020"
+      }
+    ]
+  },
+  "foster-care-child-welfare": {
+    "title": "Reforma del Cuidado de Crianza y el Bienestar Infantil",
+    "summary": "Ningún niño debería enfrentar la falta de vivienda o la cárcel por dejar el sistema de cuidado de crianza. Financiar plenamente a los cuidadores familiares con estipendios mensuales, construir vivienda de transición para jóvenes que dejan el sistema, limitar las cargas de casos de los trabajadores sociales para que las familias reciban atención real, y ofrecer servicios culturalmente receptivos que mantengan a los niños conectados con sus comunidades.",
+    "keyStats": [
+      {
+        "value": "20-30%",
+        "label": "de los jóvenes que dejan el cuidado de crianza al cumplir la mayoría de edad experimentan la falta de vivienda",
+        "context": "Entre el 22% y el 30% de los jóvenes que dejan el sistema al cumplir la mayoría de edad quedan sin hogar durante la transición a la adultez, frente a aproximadamente el 4% de la población general (2022)",
+        "source": "Análisis de la Base de Datos Nacional de Jóvenes en Transición, 2022"
+      },
+      {
+        "value": "~30%",
+        "label": "de exjóvenes de crianza encarcelados en la adultez temprana",
+        "context": "Los jóvenes que dejan el sistema enfrentan un riesgo de encarcelamiento mucho mayor que sus pares; quienes pasan a tutela o adopción enfrentan menor riesgo (2025)",
+        "source": "Análisis prospectivo de NYTD, 2025"
+      },
+      {
+        "value": "10:1",
+        "label": "la proporción de casos de Colorado, comparada con el estándar de 12-15 de la CWLA",
+        "context": "Colorado financia a los trabajadores sociales con una proporción de 10 casos por trabajador, pero las cargas reales suelen superar los niveles financiados (2020)",
+        "source": "Departamento de Servicios Humanos de Colorado, 2020"
+      },
+      {
+        "value": "50%",
+        "label": "reembolso federal disponible para servicios de parentesco y prevención",
+        "context": "La Ley Family First de Servicios de Prevención permite a los estados obtener al menos el 50% de reembolso federal para programas de navegación de parentesco y prevención basados en evidencia (2018)",
+        "source": "Ley Family First de Servicios de Prevención, 2018"
+      }
+    ]
+  },
+  "green-jobs-just-transition": {
+    "title": "Empleos Verdes y una Transición Justa para los Trabajadores de Denver",
+    "summary": "Financiar la recapacitación de trabajadores de combustibles fósiles y oficios, crear programas de aprendizaje en energía solar, climatización y transporte público, y vincular requisitos de contratación local y salario prevaleciente a cada proyecto climático financiado con fondos públicos para que la transición a la energía limpia genere buenos empleos sindicalizados para los residentes de Denver.",
+    "keyStats": [
+      {
+        "value": "~64,000",
+        "label": "empleos de energía limpia en Colorado a principios de 2023",
+        "context": "El sector sumó 2,700 trabajadores en el año anterior y ha crecido más rápido que la economía estatal general, pero pocos de esos empleos están garantizados para los residentes de Denver o los trabajadores desplazados de combustibles fósiles",
+        "source": "E2, Clean Jobs Colorado, 2023"
+      },
+      {
+        "value": "~3,000",
+        "label": "habitantes de Colorado clasificados como trabajadores en transición del carbón",
+        "context": "Aproximadamente 1,000 mineros, casi 800 trabajadores de servicios públicos y más de 1,000 trabajadores de la cadena de suministro cuyo sustento depende de las plantas y minas de carbón que cerrarán esta década",
+        "source": "Oficina de Transición Justa de Colorado, 2023"
+      },
+      {
+        "value": "2031",
+        "label": "cierre final programado de la generación de carbón de Colorado (Comanche Unidad 3)",
+        "context": "La Unidad 1 de Comanche se retiró en 2022 y la Unidad 2 en 2025; la Unidad 3 en Pueblo dejará de operar antes del 1 de enero de 2031, adelantada décadas respecto a su cronograma original",
+        "source": "Comisión de Servicios Públicos de Colorado, 2025"
+      },
+      {
+        "value": "#1",
+        "label": "ocupaciones de más rápido crecimiento en EE. UU.: técnicos eólicos e instaladores solares",
+        "context": "Los técnicos de servicio de turbinas eólicas (crecimiento proyectado de ~50%) y los instaladores fotovoltaicos solares encabezan las proyecciones ocupacionales federales 2024-2034; la falta de un sistema de capacitación es el vacío de política",
+        "source": "Oficina de Estadísticas Laborales de EE. UU., 2025"
+      }
+    ]
+  },
+  "mental-health-crisis-response": {
+    "title": "Respuesta a Crisis de Salud Mental: Expandir STAR en Toda la Ciudad",
+    "summary": "El programa STAR de Denver demuestra que los respondedores de salud mental capacitados superan a la policía armada en las crisis de salud conductual, con menor costo, mejores resultados y sin violencia. Financiarlo completamente. Desplegarlo en todas partes.",
+    "keyStats": [
+      {
+        "value": "24%",
+        "label": "de todas las llamadas al 911 de Denver involucran salud conductual, no delitos",
+        "context": "Casi 1 de cada 4 llamadas de emergencia despacha a un oficial armado a una situación que no involucra un delito",
+        "source": "Denver 911 call data analysis, Denver Post, 2023"
+      },
+      {
+        "value": "0",
+        "label": "arrestos o usos de fuerza en más de 2,300 respuestas del programa STAR (2020-2022)",
+        "context": "Ni una sola llamada de STAR resultó en arresto o uso de fuerza en los primeros dos años del programa, mientras resolvía crisis que la policía habría escalado",
+        "source": "Denver STAR Program Evaluation, University of Denver, 2022"
+      },
+      {
+        "value": "$500",
+        "label": "por respuesta de STAR vs. más de $1,000 por respuesta policial",
+        "context": "STAR es más efectivo y cuesta la mitad. Escalarlo salva vidas y dinero simultáneamente",
+        "source": "Denver STAR Program Cost Analysis, 2022"
+      }
+    ]
+  },
+  "nuclear-energy": {
+    "title": "Preparación para Energía Nuclear - Reactores Modulares Pequeños para Denver",
+    "summary": "Posicionar a Denver para desplegar energía nuclear limpia y firme como carga base a medida que la tecnología SMR madure. Apoyar el estudio de viabilidad de DIA. Aprovechar HB25-1040 para incluir la energía nuclear en la planificación de energía limpia. Proteger a los contribuyentes del riesgo de costos de primera generación. Complementar - no reemplazar - la expansión de energías renovables.",
+    "keyStats": [
+      {
+        "value": "320 MW",
+        "label": "de un paquete de 4 Xe-100 - suficiente para 240,000 hogares",
+        "context": "Denver tiene ~320,000 hogares. Una sola instalación SMR de 4 unidades podría proveer el 75% de la carga base residencial.",
+        "source": "X-energy Xe-100 specifications, 80 MW per module"
+      },
+      {
+        "value": "93%+",
+        "label": "factor de capacidad - nuclear vs 35% eólica, 25% solar",
+        "context": "La energía nuclear funciona 24/7. La eólica y solar en Colorado producen energía aproximadamente una cuarta a una tercera parte del tiempo.",
+        "source": "EIA Electric Power Monthly, 2024"
+      },
+      {
+        "value": "5.8 GW",
+        "label": "demanda de energía pendiente de centros de datos en la red de Xcel",
+        "context": "Casi igual a toda la capacidad existente de Xcel en Colorado de 6.2 GW. Esta demanda requiere energía firme 24/7 que las renovables intermitentes solas no pueden proveer.",
+        "source": "Colorado Sun, 2025"
+      }
+    ]
+  },
+  "ranked-choice-voting": {
+    "title": "Votación por Orden de Preferencia y Reforma Electoral",
+    "summary": "Reemplazar las costosas elecciones de segunda vuelta de Denver con votación por orden de preferencia para que cada votante pueda apoyar su primera opción sin desperdiciar su voto.",
+    "keyStats": [
+      {
+        "value": "$2M+",
+        "label": "costo de las elecciones de segunda vuelta de Denver por ciclo",
+        "context": "Las segundas vueltas requieren volver a realizar todo el aparato electoral semanas después de las primarias, a costo completo",
+        "source": "Denver Elections Division, 2023"
+      },
+      {
+        "value": "15%",
+        "label": "participación típica en las elecciones de segunda vuelta de Denver",
+        "context": "Cuando la participación colapsa en las segundas vueltas, una pequeña minoría altamente motivada determina quién gana",
+        "source": "Denver Elections Division historical data"
+      },
+      {
+        "value": "50+",
+        "label": "ciudades y estados de EE. UU. que utilizan la votación por orden de preferencia en 2025",
+        "context": "Nueva York, Alaska, Maine, San Francisco, Minneapolis y docenas más han adoptado la VOP con altas calificaciones de satisfacción de los votantes",
+        "source": "FairVote, 2025"
+      }
+    ]
+  },
+  "short-term-rental-regulation": {
+    "title": "Reforma de Alquileres a Corto Plazo: Primero la Vivienda, Después los Hoteles",
+    "summary": "Miles de hogares en Denver permanecen vacíos excepto para turistas, mientras los trabajadores no pueden encontrar alquileres asequibles. Restringir los alquileres a corto plazo a residencias primarias, prohibir los STR de inversores y devolver la vivienda a los habitantes de Denver.",
+    "keyStats": [
+      {
+        "value": "3,500+",
+        "label": "unidades de Denver listadas en Airbnb/VRBO en 2024",
+        "context": "Cada unidad alquilada a turistas es una unidad que no está disponible para una familia o trabajador de Denver que busca un hogar a largo plazo",
+        "source": "Inside Airbnb, Denver dataset, 2024"
+      },
+      {
+        "value": "43%",
+        "label": "de los listados de STR de Denver son de anfitriones con múltiples propiedades",
+        "context": "Casi la mitad de toda la actividad de STR es especulación comercial, no propietarios que comparten una habitación libre",
+        "source": "Inside Airbnb, Denver dataset, 2024"
+      },
+      {
+        "value": "7-13%",
+        "label": "aumento del alquiler atribuible a la conversión de STR en vecindarios de Denver con alta concentración de STR",
+        "context": "Cuando el 1% del parque de viviendas se convierte a STR en un vecindario, los alquileres suben un 0.7-1.3% (Barron et al., 2021)",
+        "source": "Barron, Kung & Proserpio, Review of Financial Studies, 2021"
+      }
+    ]
+  },
+  "worker-cooperative-development": {
+    "title": "Desarrollo de Cooperativas de Trabajadores: La Economía Solidaria",
+    "summary": "Financiar empresas de propiedad de los trabajadores, convertir empresas de propietarios que se jubilan a propiedad de los empleados y priorizar las cooperativas en los contratos de la ciudad.",
+    "keyStats": [
+      {
+        "value": "2.5x",
+        "label": "más resilientes: las cooperativas de trabajadores sobreviven las recesiones a 2.5 veces la tasa de las empresas convencionales",
+        "context": "Porque los trabajadores son dueños de sus empleos, aceptan reducciones salariales temporales en lugar de despidos",
+        "source": "ILO / Birchall & Ketilson, 2009; confirmed in COVID-19 period data"
+      },
+      {
+        "value": "70,000",
+        "label": "pequeñas empresas en el área de Denver sin un plan de sucesión, en riesgo de cierre en la próxima década",
+        "context": "La ola de jubilaciones de los baby boomers amenaza con destruir empresas funcionales y los empleos que sostienen. Las compras de trabajadores son la alternativa al cierre.",
+        "source": "Project Equity / National Center for Employee Ownership, 2023"
+      },
+      {
+        "value": "30%",
+        "label": "salarios más altos en cooperativas de trabajadores vs. empresas convencionales comparables",
+        "context": "Los trabajadores propietarios capturan las ganancias que crea su trabajo en lugar de distribuirlas a accionistas ausentes",
+        "source": "Dube & Freeman, 2010; USFWC Annual Report, 2023"
+      }
+    ]
+  },
+  "zoning-reform": {
+    "title": "Zonificación para Todos: Poner Fin a la Zonificación Excluyente en Denver",
+    "summary": "Legalizar viviendas en cada cuadra. Eliminar la zonificación exclusiva para viviendas unifamiliares, permitir unidades de vivienda adicionales en toda la ciudad y eliminar los mínimos de estacionamiento cerca del transporte público.",
+    "keyStats": [
+      {
+        "value": "78%",
+        "label": "del suelo residencial de Denver zonificado exclusivamente para viviendas unifamiliares antes de las reformas recientes",
+        "context": "La zonificación excluyente bloquea la mayor parte de la ciudad a la vivienda multifamiliar, lo que aumenta los costos de los terrenos en toda la ciudad",
+        "source": "Denver Community Planning and Development, 2022"
+      },
+      {
+        "value": "$1,200+",
+        "label": "añadidos al costo de cada nueva vivienda por los requisitos mínimos de estacionamiento",
+        "context": "El estacionamiento subterráneo cuesta entre $30,000 y $50,000 por espacio. Eliminar los mandatos cerca del transporte público reduce los costos y permite más unidades por lote",
+        "source": "Victoria Transport Policy Institute / Parking Reform Network, 2023"
+      },
+      {
+        "value": "5,000",
+        "label": "permisos de unidades de vivienda adicionales emitidos en Denver desde la ley estatal de 2023",
+        "context": "La demanda supera con creces la oferta: las reglas locales complejas, las tarifas altas y los requisitos de diseño ralentizan la construcción de unidades asequibles en patios traseros y sótanos",
+        "source": "Denver Community Planning and Development, 2024"
+      }
+    ]
   }
 }

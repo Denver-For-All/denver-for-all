@@ -7,7 +7,7 @@ Camine por los vecindarios de menores ingresos y los históricamente marginados 
 
 Esta es la arquitectura de la extracción financiera. Una familia trabajadora afectada por la reparación de un auto o una factura médica, sin un colchón de ahorros y sin un banco dispuesto a prestar cantidades pequeñas, recurre al prestamista de la esquina. Los términos están diseñados no para resolver la emergencia, sino para convertirla en una fuente recurrente de ingresos.
 
-La investigación nacional es contundente. La Oficina de Protección Financiera del Consumidor encontró que **más de cuatro de cada cinco préstamos de día de pago se renuevan o se vuelven a pedir dentro de un mes** - el 80% de los prestatarios vuelven a pedir prestado dentro de 14 días, y los prestatarios de día de pago están endeudados una mediana de aproximadamente 199 días al año (Oficina de Protección Financiera del Consumidor, 2014). El "préstamo a dos semanas" es una ficción de marketing. El producto real es un ciclo de deuda.
+La investigación nacional es contundente. La Oficina de Protección Financiera del Consumidor encontró que **más de cuatro de cada cinco préstamos de día de pago se renuevan o se vuelven a pedir dentro de un mes** - el 80% se renuevan o van seguidos de otro préstamo dentro de 14 días, y los prestatarios de día de pago están endeudados una mediana de aproximadamente 199 días al año (Oficina de Protección Financiera del Consumidor, 2014). El "préstamo a dos semanas" es una ficción de marketing. El producto real es un ciclo de deuda.
 
 Los prestamistas de alto costo también se distribuyen de manera desigual. Las investigaciones encuentran que los prestamistas de día de pago y de título de auto se concentran de manera desproporcionada en las comunidades de menores ingresos y en los vecindarios con mayores poblaciones negras y latinas (Centro para Préstamos Responsables, 2020). El resultado es que las familias con menor margen pagan más por el crédito - un impuesto regresivo y racializado por el hecho de ser pobre.
 
@@ -110,7 +110,7 @@ Esta es una política de bajo costo y alto apalancamiento. Es principalmente reg
 
 3. **Apoyo inicial a cooperativas de crédito.** El costo discrecional más significativo es el financiamiento inicial y de reservas para pérdidas para ayudar a las cooperativas de crédito comunitarias y a las CDFI a establecer o ampliar programas de préstamos de bajo monto con tasas limitadas. Esto puede ser una contribución renovable modesta (las reservas para pérdidas se apalancan muchas veces en los préstamos) y es un fuerte candidato para fondos de contrapartida filantrópicos y de CDFI en lugar de gasto continuo del fondo general.
 
-El retorno es real aunque no aparezca como una partida presupuestaria: cada dólar que una familia de Denver conserva en lugar de pagarlo a un prestamista de alto costo es un dólar que permanece en la economía local. Debido a que **hasFundingSources** es falso para esta política, el énfasis está en la acción regulatoria y el apalancamiento de asociaciones, no en una nueva asignación presupuestaria importante.
+El retorno es real aunque no aparezca como una partida presupuestaria: cada dólar que una familia de Denver conserva en lugar de pagarlo a un prestamista de alto costo es un dólar que permanece en la economía local. El énfasis está en la acción regulatoria y el apalancamiento de asociaciones, no en una nueva asignación presupuestaria importante.
 
 ## Referencias
 

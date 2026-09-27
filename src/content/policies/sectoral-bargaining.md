@@ -169,8 +169,8 @@ The NLRA preempts laws that directly regulate the collective bargaining process 
 
 ## References
 
-- Bureau of Labor Statistics, _Union Members Summary_, Denver-Aurora-Lakewood MSA, 2023
-- Economic Policy Institute, _The Productivity-Pay Gap_, updated 2024
-- California AB 1228 (Fast Food Council), 2023
-- OECD, _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_, 2019
-- International Labour Organization (ILO), _Sectoral Bargaining Coverage by Country_, 2023
+- Bureau of Labor Statistics. (2023). _Union Members Summary_, Denver-Aurora-Lakewood MSA.
+- Economic Policy Institute. (2024). _The Productivity-Pay Gap_, updated.
+- California State Legislature. (2023). _Assembly Bill 1228: Fast food restaurant industry: Fast Food Council_.
+- OECD. (2019). _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_.
+- International Labour Organization (ILO). (2023). _Sectoral Bargaining Coverage by Country_.

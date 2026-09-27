@@ -85,8 +85,8 @@ NLRA በማኅበራትና በአሠሪዎች መካከል ያለውን የጋ�
 
 ## ማጣቀሻዎች
 
-- የሠራተኛ ስታትስቲክስ ቢሮ፣ _የማኅበር አባላት ማጠቃለያ_፣ ዴንቨር-አውሮራ-ሌክዉድ MSA፣ 2023
-- የኢኮኖሚ ፖሊሲ ተቋም፣ _የምርታማነት-ክፍያ ክፍተት_፣ የዘመነው 2024
-- የካሊፎርኒያ AB 1228 (ፈጣን ምግብ ካውንስል)፣ 2023
-- OECD፣ _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_፣ 2019
-- ዓለም አቀፍ የሠራተኛ ድርጅት (ILO)፣ _Sectoral Bargaining Coverage by Country_፣ 2023
+- Bureau of Labor Statistics. (2023). _Union Members Summary_, Denver-Aurora-Lakewood MSA.
+- Economic Policy Institute. (2024). _The Productivity-Pay Gap_, updated.
+- California State Legislature. (2023). _Assembly Bill 1228: Fast food restaurant industry: Fast Food Council_.
+- OECD. (2019). _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_.
+- International Labour Organization (ILO). (2023). _Sectoral Bargaining Coverage by Country_.

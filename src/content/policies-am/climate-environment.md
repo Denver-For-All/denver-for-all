@@ -166,18 +166,18 @@ Xcel የዴንቨርን ኤሌክትሪክ በfranchise ስምምነት ያቀ�
 **"በቅሪተ አካል ነዳጅ ሰራተኞች ላይ ስላለው የኢኮኖሚ ተፅእኖስ?"**
 የኮሎራዶ የኃይል ሽግግር ቀድሞውንም እየተካሄደ ነው። ጥያቄው የተፈናቀሉ ሰራተኞች ድጋፍ ያገኛሉ ወይስ ይተዋሉ የሚለው ነው። የእኛ አስተያየት አረንጓዴ የስራ ስልጠና፣ ለንጹህ ኃይል ፕሮጀክቶች ቅድሚያ ቅጥርና የሽግግር ስራዎች ጥሩ ስራዎች መሆናቸውን ለማረጋገጥ ከሰራተኛ ማህበራት ጋር ትብብርን ያካትታል። የጀርመን Energiewende ለድንጋይ ከሰል ክልል ሰራተኞች ግልጽ ድንጋጌዎችን አካትቷል - ዴንቨር ተመሳሳይ ነገር ማድረግ ትችላለች።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- Colorado DPHE Air Quality Control Commission. (2023). ዓመታዊ የኦዞን ክትትል መረጃ። (18 ጤናማ ያልሆኑ+ ቀናት)።
-- Trust for Public Land. (2023). የከተማ ሙቀት ደሴት ካርታ ስራ፣ የዴንቨር ሜትሮ አካባቢ።
-- የዴንቨር 80x50 የአየር ንብረት እርምጃ ዕቅድ። (2018). የከባቢ አየር እርምጃ ጽሕፈት ቤት፣ ዘላቂነትና የመቋቋም አቅም።
-- Denver Parks & Recreation. (2023). የከተማ የዛፍ ሽፋን ግምገማ። (~19.7% ሽፋን።)
-- NREL (National Renewable Energy Laboratory)። የዴንቨር፣ CO የፀሐይ ኃይል ምንጭ መረጃ።
-- ሮኪ ፍላትስ ዳውንዊንደርስ። የማህበረሰብ ጤና መረጃና ራሱን የቻለ የናሙና ውጤቶች።
-- DOE Office of Legacy Management. የሮኪ ፍላትስ ጣቢያ ዓመታዊ ክትትልና የጥገና ሪፖርቶች።
-- IRENA (International Renewable Energy Agency)። ታዳሽ ኃይልና ስራዎች፣ ዓመታዊ ግምገማ። (ጀርመን 1.7M ስራዎች።)
-- EPA. የዴንቨር ሜትሮ/ሰሜን ግንባር ቀደም ክልል የኦዞን አለመሟላት አካባቢ ስያሜና ምደባ።
-- NOAA Earth System Research Laboratories። የግንባር ቀደም ሚቴን እና VOC ልቀት ጥናቶች።
-- Colorado State University. የDJ Basin የአየር ጥራት ምርምርና የክትትል መረጃ።
-- South Coast Air Quality Management District (ሎስ አንጀለስ)። ታሪካዊ የኦዞን አዝማሚያ መረጃ። (ከ30 ዓመታት በላይ 75%+ ቅናሽ።)
-- Suncor Energy. የ Commerce City ማጣሪያ ተገዢነት ታሪክና የማህበረሰብ ጤና ተጽእኖ መረጃ።
+- Colorado DPHE Air Quality Control Commission. (2023). Annual ozone monitoring data. (18 unhealthy+ days.)
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
+- Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
+- NREL (National Renewable Energy Laboratory). (n.d.). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. (n.d.). Community health data and independent sampling results.
+- DOE Office of Legacy Management. (n.d.). Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). (n.d.). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
+- EPA. (n.d.). Denver Metro/North Front Range ozone non-attainment area designation and classification.
+- NOAA Earth System Research Laboratories. (n.d.). Front Range methane and VOC emission studies.
+- Colorado State University. (n.d.). DJ Basin air quality research and monitoring data.
+- South Coast Air Quality Management District (Los Angeles). (n.d.). Historical ozone trend data. (75%+ reduction over 30 years.)
+- Suncor Energy. (n.d.). Commerce City refinery compliance history and community health impact data.

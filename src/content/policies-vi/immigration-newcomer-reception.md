@@ -127,11 +127,11 @@ Có - đó là vấn đề. Quỹ Dịch Vụ Người Mới Đến bao gồm m�
 
 ## Tài Liệu Tham Khảo
 
-- Sở Tài Chính Denver. (2024). Báo Cáo Chi Tiêu Dịch Vụ Người Mới Đến. (Dữ liệu phân bổ hơn 100 triệu đô la và 89,9 triệu đô la.)
-- Sở Dịch Vụ Nhân Sinh Denver. (2024). Báo Cáo Thường Niên Chương Trình Người Mới Đến Denver. (Số liệu hơn 40.000 người đến.)
-- Liên Minh Quốc Gia Chấm Dứt Tình Trạng Vô Gia Cư. (2023). So Sánh Chi Phí Nơi Trú Ẩn Khẩn Cấp so với Nhà Ở Chuyển Tiếp.
-- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Hội Nhập Thị Trường Lao Động của Người Tị Nạn ở Đức. (Tỷ lệ việc làm trong số những người đến năm 2015.)
-- Bộ Di Trú, Người Tị Nạn và Quốc Tịch Canada. (2019). Báo Cáo Kết Quả Tái Định Cư Người Tị Nạn Syria. (Số liệu độc lập tài chính 90%.)
-- Kiểm Toán Viên Thành Phố New York. (2024). Các Dịch Vụ Dành Cho Người Xin Tị Nạn: Chi Phí và Kết Quả.
-- Ngân Hàng Thế Giới. (2023). Di Cư Venezuela ở Colombia: Tác Động Kinh Tế và Kết Quả Hội Nhập.
-- Clemens, M. & Hunt, J. (2019). "Ảnh Hưởng của Làn Sóng Người Tị Nạn Đến Thị Trường Lao Động." Tạp Chí Quan Điểm Kinh Tế. (Bằng chứng về lựa chọn điểm đến di cư.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ and $89.9M allocation data.)
+- Denver Human Services. (2024). Denver Newcomer Program Annual Report. (40,000+ arrivals figure.)
+- National Alliance to End Homelessness. (2023). Emergency Shelter vs. Transitional Housing Cost Comparison.
+- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Labor Market Integration of Refugees in Germany. (Employment rates among 2015 arrivals.)
+- Immigration, Refugees and Citizenship Canada. (2019). Syrian Refugee Resettlement Outcomes Report. (90% financial independence figure.)
+- NYC Comptroller. (2024). Asylum Seeker Services: Costs and Outcomes.
+- World Bank. (2023). Venezuelan Migration in Colombia: Economic Impacts and Integration Outcomes.
+- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves." Journal of Economic Perspectives. (Migration destination choice evidence.)

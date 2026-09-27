@@ -211,3 +211,7 @@ node scripts/translate/extract-content.js
 ### Amharic quality
 
 The Amharic prompt instructs the model to add `[REVIEW: explanation]` flags for uncertain translations. The validation script counts these flags. **All Amharic output should be reviewed by a native speaker** before publishing — partner with the Ethiopian Community Center.
+
+## References in translated bodies
+
+Reference lists are not translated: APA 7 cites sources as published, so readers can find them. `sync-references.mjs` copies each English policy's References list into every `policies-<locale>` body under the locale's heading (`src/markdown/rehype-references.mjs` defines the headings and marks the list for styling). Run it after editing English references; `tests/citations.test.ts` fails on drift.

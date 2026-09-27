@@ -81,3 +81,11 @@ Los datos de los servicios públicos no mienten. Una unidad que usa cero agua y 
 
 **"Esto perjudicará a las personas que están renovando."**
 La exención de renovación de 12 meses con permisos válidos cubre las renovaciones legítimas. Si su "renovación" toma 3 años sin permisos, no es una renovación, es especulación.
+
+## Referencias
+
+- City of Vancouver. (2023). _Empty Homes Tax annual report_. https://vancouver.ca/home-property-development/empty-homes-tax.aspx
+- Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
+- Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- U.S. Census Bureau. (2024). _Selected housing characteristics: Rental vacancy rate_ [American Community Survey estimates, Denver-Aurora-Lakewood, CO metro area]. https://data.census.gov

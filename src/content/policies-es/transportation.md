@@ -147,13 +147,13 @@ Denver no puede controlar RTD, pero puede ejercer una enorme influencia. Denver 
 
 ## Referencias
 
-- RTD-Denver. (2025). Informe de Finalización de FasTracks: Costos de capital y operativos para los corredores restantes. ($1.6 mil millones necesarios; 75% de finalización del programa).
-- Denver Post. (2025). "El número de pasajeros de RTD sigue cayendo mientras el estado impulsa el desarrollo del transporte público". (65.2 millones de embarques en 2024; 38% por debajo de 2019; 6.4% de disminución en la primera mitad de 2025).
-- Ciudad y Condado de Denver. (2025). Panel de Visión Cero y Estadísticas. (93 muertes por accidentes de tráfico en 2025; 35 muertes de peatones, un aumento del 34% con respecto a 2024).
-- Texas A&M Transportation Institute. (2025). Informe de Movilidad Urbana. (Los conductores de Denver perdieron 76 horas por la congestión en 2024; $3.5 mil millones de costo regional).
-- Universidad de Denver / Terner Center. (2025). Estudio de reforma de estacionamiento de Denver. (Se proyecta que la eliminación de los mínimos de estacionamiento impulsará la vivienda en un 12.5%, o 460 unidades/año).
-- Brookings Institution. (2024). "Los requisitos de estacionamiento y los cimientos están elevando el costo de la vivienda multifamiliar". (El estacionamiento estructurado agrega un promedio de $50,000 por unidad).
-- Universidad de Kansas. (2025). "Un estudio encuentra que la política de autobús gratuito de Kansas City atrajo a nuevos pasajeros y aumentó el uso general". (24% de pasajeros por encima de ciudades similares; 17% de nuevos pasajeros).
-- Denver Gazette. (2024). "El programa de bicicletas eléctricas de $8.6 millones de Denver beneficia a los residentes de bajos ingresos". (8,000 vales canjeados; 64% para ingresos bajos/moderados).
-- Foro Económico Mundial. (2024). "Por qué es hora de poner la forma urbana en la agenda climática global". Shanghái (50 km de rutas que conectan a 4.8 millones de residentes), Sídney (rediseño de George Street, 8,000 pasajeros/hora), Indianápolis (la inversión en bicicletas de $27 millones catalizó el desarrollo privado de $170 millones).
-- Giving Compass / Smart Cities Dive. (2026). "8 Tendencias en Vivienda Urbana, Transporte y Resiliencia Climática para Observar en 2026". Tendencias de la ciudad de 15 minutos y el urbanismo alineado con el clima.
+- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. ($1.6 billion needed; 75% program completion.)
+- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." (65.2 million boardings in 2024; 38% below 2019; 6.4% decline in first half of 2025.)
+- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. (93 traffic deaths in 2025; 35 pedestrian deaths, up 34% from 2024.)
+- Texas A&M Transportation Institute. (2025). Urban Mobility Report. (Denver drivers lost 76 hours to congestion in 2024; $3.5 billion regional cost.)
+- University of Denver / Terner Center. (2025). Denver parking reform study. (Eliminating parking minimums projected to boost housing by 12.5%, or 460 units/year.)
+- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (Structured parking adds average $50,000 per unit.)
+- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (24% ridership above peer cities; 17% new riders.)
+- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 vouchers redeemed; 64% to lower/moderate income.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghai (50 km of routes connecting 4.8M residents), Sydney (George Street redesign, 8,000 riders/hour), Indianapolis ($27M bike investment catalyzed $170M private development).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." 15-minute city and climate-aligned urbanism trends.

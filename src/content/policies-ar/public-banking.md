@@ -86,8 +86,8 @@
 
 ## المراجع
 
-- المسح الوطني الذي أجرته المؤسسة الفيدرالية للتأمين على الودائع FDIC للأسر التي لا تتعامل مع البنوك أو تتعامل معها بشكل غير كافٍ. (2023). (4.2٪ لا يتعاملون مع البنوك، 14.2٪ يتعاملون مع البنوك بشكل غير كافٍ على الصعيد الوطني؛ معدلات أعلى في مجتمعات الأقليات.)
-- بنك نورث داكوتا. التقارير السنوية والبيانات المالية. (أكثر من 100 عام، سنوات خسارة صفرية، عائدات 100 مليون دولار أمريكي+/سنويًا.)
-- قانون كاليفورنيا AB 857. (2019). قانون الخدمات المصرفية العامة الذي يسمح بالتشريع.
-- Sparkassen الألمانية (رابطة البنوك الادخارية). التقارير المالية. (أصول بقيمة 1.4 تريليون يورو، 50 مليون عميل.)
-- معهد الخدمات المصرفية العامة. بحث وتحليل حول الخدمات المصرفية العامة البلدية.
+- FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
+- Bank of North Dakota. (n.d.). Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- California AB 857. (2019). Public Banking Act enabling legislation.
+- German Sparkassen (Savings Banks Association). (n.d.). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. (n.d.). Research and analysis on municipal public banking.

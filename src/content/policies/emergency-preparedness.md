@@ -198,5 +198,5 @@ This policy is about adaptation and preparedness, not stopping climate change. W
 - FEMA / National Institute of Building Sciences. (2019). Natural Hazard Mitigation Saves: 2019 Report. ($1 saves $6.)
 - Denver Office of Emergency Management. (2023). Hazard Mitigation Plan Update.
 - Colorado Department of Public Health and Environment. (2023). Heat-related mortality data.
-- Denver Storm Drainage Fund. Annual budget and infrastructure reports.
-- Portland Bureau of Planning and Sustainability. Community Resilience Hub program reports.
+- Denver Storm Drainage Fund. (n.d.). Annual budget and infrastructure reports.
+- Portland Bureau of Planning and Sustainability. (n.d.). Community Resilience Hub program reports.

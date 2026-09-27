@@ -117,11 +117,11 @@ DPS在一些学校运营校内医疗中心，并扩大了社交情感学习项�
 
 ## 参考文献
 
-- 科罗拉多州公共卫生与环境部。(2023). 青少年自杀数据。（10-24岁年龄段死亡的首要原因；比全国平均水平高出58%。）
-- 丹佛公立学校。(2023). 问责制和长期旷课报告。（长期旷课率为38%。）
-- 美国学校咨询师协会。建议的咨询师与学生比例：1:250。
-- 丹佛警察局。(2023). 青少年受害者和犯罪数据。
-- Measure of America. 青年失联系列。（按都会区划分的失联青少年比率。）
-- 波士顿市长劳动力发展办公室。SuccessLink 项目数据和评估。
-- 纽约市青年和社区发展部。夏季青年就业计划报告。
-- 科罗拉多州青少年服务部。(2023). 拘留中每名青少年的费用。
+- Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
+- Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
+- Denver Police Department. (2023). Juvenile victim and crime data.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
+- Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

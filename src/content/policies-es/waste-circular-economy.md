@@ -143,14 +143,14 @@ La gestión de residuos es una función municipal central. Denver controla la re
 
 ## Referencias
 
-- Denverite. (2024). "Denver hizo un gran cambio en la recogida de residuos. Todavía no está funcionando del todo". Datos de la tasa de desviación: 23% antes del programa, 26% a partir de octubre de 2024.
-- Eco-Cycle y CoPIRG. (2025). "Estado del reciclaje y el compostaje en Colorado". Tasa de desviación estatal de Colorado del 15.7%.
-- Axios Denver. (2025). "Cómo se comparan los esfuerzos de compostaje de Denver". Más de 73,000 hogares inscritos, compostaje en el 6% de los residuos recolectados.
-- U.S. EPA (Agencia de Protección Ambiental de EE. UU.). (2023). "Cuantificación de las emisiones de metano de los residuos de alimentos vertidos". El 58% del metano de vertedero fugitivo proviene de residuos de alimentos.
-- Conservation Colorado. (2020). "Mapeo para la justicia ambiental en Globeville, Elyria-Swansea". Datos de contaminación heredada y sitios contaminados.
-- Denver Post. (2025). "Denver podría usar los ingresos por la tarifa de bolsas desechables para Waste No More". $6.2 millones de ingresos totales por tarifas de bolsas; 5 millones de bolsas menos por año.
-- Colorado DPHE (Departamento de Salud Pública y Medio Ambiente de Colorado). (2024). Plan de implementación del Programa de Responsabilidad del Productor (HB 22-1355). Objetivos de reciclaje: 41% para 2030, 55% para 2035.
-- Eco-Cycle. "Empleos y beneficios económicos de Cero Residuos". El reciclaje crea 9 veces más empleos que el vertido por tonelada de material.
-- Denver Water. (2023). Plan de adaptación climática. Proyecciones de suministro y objetivos de conservación para el sistema de agua de Denver.
-- Asamblea General de Colorado. SB 13-181. Autorización de reutilización de aguas grises. HB 16-1005. Legalización de la recolección residencial de agua de lluvia.
-- Foro Económico Mundial. (2025). "8 tendencias en vivienda urbana, transporte y resiliencia climática". Ciudades que escalan la reutilización de aguas grises y los sistemas de agua circular.
+- Denverite. (2024). "Denver made a big change to waste pickup. It's not quite working yet." Diversion rate data: 23% pre-program, 26% as of October 2024.
+- Eco-Cycle and CoPIRG. (2025). "State of Recycling and Composting in Colorado." Colorado statewide diversion rate of 15.7%.
+- Axios Denver. (2025). "How Denver's composting efforts stack up." 73,000+ households enrolled, composting at 6% of collected waste.
+- U.S. EPA. (2023). "Quantifying Methane Emissions from Landfilled Food Waste." 58% of fugitive landfill methane from food waste.
+- Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." Legacy contamination and brownfield data.
+- Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
+- Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
+- Eco-Cycle. (n.d.). "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
+- Colorado General Assembly. (n.d.). SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

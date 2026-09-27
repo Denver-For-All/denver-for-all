@@ -119,14 +119,14 @@ National Association of Home Builders 发现，通用设计功能在新建建筑
 
 ## 参考文献
 
-- 美国人口普查局。(2023)。美国社区调查 5 年估算 (2019-2023)：Denver County 残疾状况数据。（约 10% 的残疾率，超过 70,000 名居民。）
-- 美国劳工统计局。(2024)。残疾人：劳动力特征。（适龄残疾成年人的就业率为 37.2%，而非残疾人为 77.2%；工资差距为 74 美分。）
-- Ruderman Family Foundation。(2016)。“执法部门使用武力和残疾的媒体报道。”（被警察杀害的人中，有三分之一到一半是残疾人。）
-- 哈佛大学住房研究联合中心。(2019)。“美国老年人的住房。”（<5% 的住房存量可供轮椅使用者使用；<1% 的住房存量可供视力/听力障碍者使用。）
-- National Association of Home Builders。通用设计成本分析。（新建建筑中每个单元 100-600 美元，而改造费用为 10,000-50,000 美元以上。）
-- Dartmouth IPS Employment Center。个人安置和支持证据基础。（竞争性就业安置率为 55-65%，而传统职业康复为 20-25%。）
-- Genworth/CareScout。(2024)。护理成本调查：Colorado。（疗养院每月 10,600 美元以上，而社区护理每月 2,000-4,000 美元。）
-- Denver 审计员办公室。(2020)。邻里人行道维修计划审计。（该计划“并非为 ADA 合规而设计”，落后数十年。）
-- RTD-Denver。(2024-2025)。Access-a-Ride 和 Access-on-Demand 计划数据；联邦 ADA 票价诉讼。
-- Colorado 劳工和就业部。残疾人就业数据。（就业率分别为 37.7% 和 80.0%。）
-- 国家残疾人委员会。关于社区生活、机构偏见和残疾人权利执法差距的各种报告。
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County disability status data. (~10% disability rate, 70,000+ residents.)
+- Bureau of Labor Statistics. (2024). Persons with a Disability: Labor Force Characteristics. (37.2% employment rate for disabled working-age adults vs. 77.2% for non-disabled; 74 cents on the dollar wage gap.)
+- Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (One-third to one-half of people killed by police are disabled.)
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (<5% of housing stock accessible to wheelchair users; <1% for vision/hearing impairments.)
+- National Association of Home Builders. (n.d.). Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
+- Dartmouth IPS Employment Center. (n.d.). Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado. (Nursing home $10,600+/month vs. community-based care $2,000-$4,000/month.)
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. (Program "not designed for ADA compliance," decades behind schedule.)
+- RTD-Denver. (2024-2025). Access-a-Ride and Access-on-Demand program data; federal ADA fare lawsuit.
+- Colorado Department of Labor and Employment. (n.d.). Disability employment data. (37.7% vs. 80.0% employment rate.)
+- National Council on Disability. (n.d.). Various reports on community-based living, institutional bias, and disability rights enforcement gaps.

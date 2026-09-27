@@ -113,9 +113,9 @@ CCCAP 的收入上限排除了许多在职家庭，存在候补名单，并且�
 
 ## 参考文献
 
-- Economic Policy Institute（经济政策研究所）。 (2023)。 Child Care Costs in the United States（美国儿童保育费用）。 （Denver 儿童保育费用数据。）
-- BLS（美国劳工统计局）职业就业和工资统计。 (2024)。 Childcare workers, Denver metro area（儿童保育工作者，Denver 都会区）。 （时薪中位数为 $14.50。）
-- Colorado CCCAP（科罗拉多州儿童照护补助计划）计划数据和资格阈值。
-- Baker, M., Gruber, J., & Milligan, K. (2008)。 "Universal Child Care, Maternal Labor Supply, and Family Well-Being."（普及儿童照护、母亲劳动力供应和家庭福祉） Journal of Political Economy（政治经济学杂志）。 （魁北克普及儿童照护的影响。）
-- Heckman, J. (2006)。 "Skill Formation and the Economics of Investing in Disadvantaged Children."（技能形成与投资弱势儿童的经济学） Science（科学）。 （每投资 $1 回报 $7-13。）
-- 科罗拉多大学 Boulder 分校州内学费（2024-2025）：$13,590/年。 （与儿童保育费用比较。）
+- Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
+- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
+- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
+- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

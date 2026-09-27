@@ -119,14 +119,14 @@
 
 ## المراجع
 
-- مكتب الإحصاء الأمريكي. (2023). تقديرات المسح المجتمعي الأمريكي لمدة 5 سنوات (2019-2023): بيانات حالة الإعاقة في مقاطعة Denver. (معدل إعاقة ~10٪، أكثر من 70,000 مقيم.)
-- مكتب إحصاءات العمل. (2024). الأشخاص ذوو الإعاقة: خصائص القوى العاملة. (معدل توظيف 37.2٪ للبالغين المعاقين في سن العمل مقابل 77.2٪ لغير المعاقين؛ فجوة في الأجور تبلغ 74 سنتًا على الدولار.)
-- مؤسسة Ruderman Family. (2016). "تغطية وسائل الإعلام لاستخدام قوات إنفاذ القانون والإعاقة." (من ثلث إلى نصف الأشخاص الذين تقتلهم الشرطة معاقون.)
-- المركز المشترك لدراسات الإسكان بجامعة Harvard. (2019). "إسكان كبار السن في أمريكا." (<5٪ من المخزون السكني متاح لمستخدمي الكراسي المتحركة؛ <1٪ لضعف البصر/السمع.)
-- الرابطة الوطنية لبناة المنازل. تحليل تكلفة التصميم الشامل. ($100-$600 لكل وحدة في البناء الجديد مقابل $10,000-$50,000+ للتعديل التحديثي.)
-- مركز التوظيف IPS في Dartmouth. قاعدة أدلة التوظيف والدعم الفردي. (معدل توظيف تنافسي 55-65٪ مقابل 20-25٪ لإعادة التأهيل المهني التقليدية.)
-- Genworth/CareScout. (2024). مسح تكلفة الرعاية: Colorado. (دار رعاية $10,600+/شهر مقابل رعاية مجتمعية $2,000-$4,000/شهر.)
-- مكتب مدقق حسابات Denver. (2020). تدقيق برنامج إصلاح أرصفة الأحياء. (البرنامج "غير مصمم للامتثال لقانون ADA"، متأخرًا عن الموعد المحدد بعقود.)
-- RTD-Denver. (2024-2025). بيانات برنامج Access-a-Ride و Access-on-Demand؛ دعوى قضائية فيدرالية بشأن أجرة ADA.
-- وزارة العمل والتوظيف في Colorado. بيانات توظيف الأشخاص ذوي الإعاقة. (معدل توظيف 37.7٪ مقابل 80.0٪.)
-- المجلس الوطني للإعاقة. تقارير مختلفة حول المعيشة المجتمعية والتحيز المؤسسي والفجوات في إنفاذ حقوق الإعاقة.
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County disability status data. (~10% disability rate, 70,000+ residents.)
+- Bureau of Labor Statistics. (2024). Persons with a Disability: Labor Force Characteristics. (37.2% employment rate for disabled working-age adults vs. 77.2% for non-disabled; 74 cents on the dollar wage gap.)
+- Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (One-third to one-half of people killed by police are disabled.)
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (<5% of housing stock accessible to wheelchair users; <1% for vision/hearing impairments.)
+- National Association of Home Builders. (n.d.). Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
+- Dartmouth IPS Employment Center. (n.d.). Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado. (Nursing home $10,600+/month vs. community-based care $2,000-$4,000/month.)
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. (Program "not designed for ADA compliance," decades behind schedule.)
+- RTD-Denver. (2024-2025). Access-a-Ride and Access-on-Demand program data; federal ADA fare lawsuit.
+- Colorado Department of Labor and Employment. (n.d.). Disability employment data. (37.7% vs. 80.0% employment rate.)
+- National Council on Disability. (n.d.). Various reports on community-based living, institutional bias, and disability rights enforcement gaps.

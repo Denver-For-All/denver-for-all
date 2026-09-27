@@ -88,9 +88,10 @@ Sắc lệnh của Denver áp dụng cho công việc được thực hiện tro
 
 ## Tài Liệu Tham Khảo
 
-- Colorado SB 22-161, _Mức Lương Tối Thiểu của Công Ty Mạng Lưới Giao Thông (TNC)_, 2022
-- Dự Luật Quốc Hội California 5 (AB5), 2019
-- Nghị Viện Châu Âu, _Chỉ Thị về Công Việc Nền Tảng_, 2024
-- Tòa Án Tối Cao Vương Quốc Anh, _Uber BV kiện Aslam_ [2021] UKSC 5
-- Tây Ban Nha, _Ley Rider_ (Nghị Định Hoàng Gia-Luật 9/2021)
-- McKinsey Global Institute, _Công Việc Độc Lập: Lựa Chọn, Sự Cần Thiết và Nền Kinh Tế Gig_, bản cập nhật năm 2022
+- Colorado SB 22-161. (2022). _Transportation Network Company (TNC) Minimum Pay_.
+- California State Legislature. (2019). _Assembly Bill 5 (AB5): Worker status: employees and independent contractors_.
+- European Parliament. (2024). _Platform Work Directive_.
+- _Uber BV v. Aslam_, [2021] UKSC 5 (U.K. Supreme Court).
+- Spain. (n.d.). _Ley Rider_ (Royal Decree-Law 9/2021)
+- McKinsey Global Institute. (2016). _Independent work: Choice, necessity, and the gig economy_. McKinsey & Company.
+- McKinsey & Company. (2022). _Freelance, side hustles, and gigs: Many more Americans have become independent workers_ [American Opportunity Survey].

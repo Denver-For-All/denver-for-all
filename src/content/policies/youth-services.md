@@ -195,9 +195,9 @@ Community-based violence intervention reduces violent crime more effectively tha
 
 - Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
 - Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
-- American School Counselor Association. Recommended counselor-to-student ratio: 1:250.
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
 - Denver Police Department. (2023). Juvenile victim and crime data.
-- Measure of America. Youth Disconnection series. (Disconnected youth rates by metro area.)
-- Boston Mayor's Office of Workforce Development. SuccessLink program data and evaluation.
-- NYC Department of Youth and Community Development. Summer Youth Employment Program reports.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
 - Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

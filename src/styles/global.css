@@ -262,6 +262,21 @@ p {
   margin-bottom: 0.5rem;
 }
 
+/* APA 7 reference list: no bullets, 0.5in-style hanging indent, long URLs wrap.
+   Logical properties keep the indent on the correct side for RTL (Arabic). */
+.policy-content ul.references {
+  list-style: none;
+  padding-inline-start: 0;
+  font-size: 0.925rem;
+}
+
+.policy-content ul.references li {
+  padding-inline-start: 2rem;
+  text-indent: -2rem;
+  text-align: start;
+  overflow-wrap: anywhere;
+}
+
 .policy-content blockquote {
   border-left: 4px solid var(--color-primary);
   padding: 1rem 1.5rem;

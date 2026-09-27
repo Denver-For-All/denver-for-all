@@ -238,17 +238,17 @@ Colorado's BHA is working on statewide coordination, and we support that work. B
 
 - Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
 - Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
-- Undue Medical Debt (formerly RIP Medical Debt). Program data and city partnership outcomes.
+- Undue Medical Debt (formerly RIP Medical Debt). (n.d.). Program data and city partnership outcomes.
 - Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
 - OECD Health Statistics. (2024). Health spending per capita comparisons.
 - Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
-- HRSA Data Warehouse. FQHC locations and service areas in Denver.
-- Colorado Division of Insurance. Uninsured rate data.
+- HRSA Data Warehouse. (n.d.). FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. (n.d.). Uninsured rate data.
 - CDC. (2024). Oral Health Surveillance Report. (Dental caries as #1 chronic childhood disease; untreated decay prevalence by income.)
 - CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Sealants reduce cavities by 80% in treated teeth; $2 return per $1 invested.)
 - Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (35% of adults skipped dental care due to cost; dental provider shortage data.)
 - Mental Health America. (2024). The State of Mental Health in America. (Colorado ranks 48th in access to mental health care.)
-- American School Counselor Association. Student-to-counselor ratio recommendations (1:250; DPS actual ~1:450).
+- American School Counselor Association. (n.d.). Student-to-counselor ratio recommendations. (1:250; DPS actual ~1:450).
 - Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. ($2.3B annual cost estimate for untreated mental illness.)
 - Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews. (Integrated behavioral health improves outcomes and reduces total cost.)
 - WHO. (2022). World Mental Health Report. ($4-7 return per $1 invested in early mental health intervention.)

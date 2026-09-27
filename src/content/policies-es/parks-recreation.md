@@ -108,11 +108,11 @@ La metodología ParkScore de Trust for Public Land evalúa las ciudades en cinco
 
 ## Referencias
 
-- Trust for Public Land. (2025). ParkScore Index: Denver, CO. Puntuación: 75.1/100, clasificación nacional: 10º. 97% de los residentes a 10 minutos a pie de un parque. $229 por habitante de gasto en parques.
-- Sasaki / Denver Parks & Recreation. (2019). Plan de Juego para una Ciudad Saludable (Game Plan for a Healthy City). Plan maestro integral de parques con análisis de equidad y marco de inversión.
-- Denver Parks & Recreation. (2025). Presupuesto del departamento: $97.3 millones del fondo general. El sistema incluye más de 250 parques urbanos, 30 centros de recreación, 32 piscinas, 5,665 hectáreas de parques de montaña.
-- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. Disparidades documentadas en el acceso a los parques a lo largo de las líneas de ingresos y raciales en Denver.
-- Denver Urban Gardens. (2024). Red de más de 200 huertos comunitarios y 24 bosques de alimentos en todo el área metropolitana de Denver. La mayor red independiente de huertos productores de alimentos en los EE. UU.
-- Great Outdoors Colorado (GOCO). (2024). El ciclo de financiación más grande de la historia: más de $117 millones en todo el estado. Incluye $7 millones para mejoras del High Line Canal en el área metropolitana de Denver.
-- Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." Análisis del uso discriminatorio de la tierra y las políticas de financiación.
-- Colorado State Forest Service. (2024). Forest Restoration and Wildfire Risk Mitigation grants: $7.04M otorgados a 37 proyectos en 26 condados, incluidos los condados que contienen los parques de montaña de Denver.
+- Trust for Public Land. (2025). ParkScore Index: Denver, CO. Score: 75.1/100, national rank: 10th. 97% of residents within a 10-minute walk of a park. $229 per capita park spending.
+- Sasaki / Denver Parks & Recreation. (2019). Game Plan for a Healthy City. Comprehensive parks master plan with equity analysis and investment framework.
+- Denver Parks & Recreation. (2025). Department budget: $97.3M general fund. System includes 250+ urban parks, 30 recreation centers, 32 pools, 14,000 acres of mountain parks.
+- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. Documented park access disparities along income and racial lines in Denver.
+- Denver Urban Gardens. (2024). Network of 200+ community gardens and 24 food forests across metro Denver. Largest independent food-producing garden network in the U.S.
+- Great Outdoors Colorado (GOCO). (2024). Largest-ever funding cycle: $117M+ statewide. Includes $7M for High Line Canal improvements in Denver metro.
+- Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." Analysis of discriminatory land use and funding policies.
+- Colorado State Forest Service. (2024). Forest Restoration and Wildfire Risk Mitigation grants: $7.04M awarded to 37 projects in 26 counties, including counties containing Denver's mountain parks.

@@ -188,7 +188,7 @@ This proposal specifically names Black, Latino, Indigenous, and Asian American c
 
 ## References
 
-- Mapping Inequality Project, University of Richmond. (1938/2023). HOLC Redlining Maps for Denver, Colorado. Grade D designations for Five Points, Curtis Park, Whittier, and Cole.
+- Mapping Inequality Project, University of Richmond. (n.d.). (1938/2023). HOLC Redlining Maps for Denver, Colorado. Grade D designations for Five Points, Curtis Park, Whittier, and Cole.
 - Federal Reserve Board. (2022). Survey of Consumer Finances. Median household wealth by race.
 - Prosperity Now Scorecard. (2023). Racial wealth gap data by metro area.
 - U.S. Census Bureau. (2020). American Community Survey, Denver. Dissimilarity index, segregation, and income data.
@@ -198,7 +198,7 @@ This proposal specifically names Black, Latino, Indigenous, and Asian American c
 - Evanston RoundTable. (2025). "Reparations Committee Finalizes 2025 Grant Recipients." 45 ancestors and descendants, $25,000 each.
 - City of Asheville. (2022-2025). Reparations Commission recommendations: guaranteed income and Black-led Economic Development Center.
 - San Francisco Board of Supervisors. (2025). Reparations fund ordinance (11-0 vote).
-- Denver Public Library, Western History Collection. Auraria urban renewal and Skyline Urban Renewal Project documentation.
-- Federal Highway Administration. I-70 East Environmental Impact Statement. Community impact documentation for Globeville-Elyria-Swansea.
-- EPA. ASARCO Superfund site records for Globeville.
-- Rocky Flats Right to Know Act. Congressional advocacy and independent contamination studies.
+- Denver Public Library, Western History Collection. (n.d.). Auraria urban renewal and Skyline Urban Renewal Project documentation.
+- Federal Highway Administration. (n.d.). I-70 East Environmental Impact Statement. Community impact documentation for Globeville-Elyria-Swansea.
+- EPA. (n.d.). ASARCO Superfund site records for Globeville.
+- Rocky Flats Right to Know Act. (n.d.). Congressional advocacy and independent contamination studies.

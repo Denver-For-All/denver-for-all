@@ -81,3 +81,11 @@ Dữ liệu tiện ích không nói dối. Một căn nhà sử dụng không c�
 
 **"Điều này sẽ gây tổn hại cho những người đang cải tạo."**
 Việc miễn trừ 12 tháng cải tạo với giấy phép hợp lệ bao gồm các trường hợp cải tạo hợp pháp. Nếu "việc cải tạo" của bạn mất 3 năm mà không có giấy phép, thì đó không phải là cải tạo - đó là đầu cơ.
+
+## Tài Liệu Tham Khảo
+
+- City of Vancouver. (2023). _Empty Homes Tax annual report_. https://vancouver.ca/home-property-development/empty-homes-tax.aspx
+- Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
+- Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- U.S. Census Bureau. (2024). _Selected housing characteristics: Rental vacancy rate_ [American Community Survey estimates, Denver-Aurora-Lakewood, CO metro area]. https://data.census.gov

@@ -141,16 +141,17 @@ CDOC የክልል ኤጀንሲ ነው፣ አዎ። ነገር ግን ዴንቨር
 
 ## ማጣቀሻዎች
 
-- የኮሎራዶ ሕገ መንግሥት፣ አንቀጽ II፣ ክፍል 26 (በማሻሻያ A እንደተሻሻለው፣ 2018)። "በዚህ ግዛት ውስጥ ባርነት ወይም በግዴታ የሚፈፀም የጉልበት ሥራ ፈጽሞ አይኖርም።"
-- የኮሎራዶ የውጭ ጉዳይ ሚኒስትር። (2018)። ኦፊሴላዊ የምርጫ ውጤቶች፡ ማሻሻያ A. (65% ድጋፍ።)
-- ACLU (2022)። _Captive Labor: Exploitation of Incarcerated Workers._ (ሀገራዊ የእስር ቤት የጉልበት መረጃ፤ አማካይ ደመወዝ በሰዓት ከ$0.13-$0.52፤ ከ800,000 በላይ በእስር ላይ ያሉ ሠራተኞች፤ ዓመታዊ እሴት ከ$11B በላይ።)
-- ACLU (2022)። የክልል ደረጃ የደመወዝ መረጃ፡ የኮሎራዶ በእስር ላይ ያሉ ሠራተኞች ደመወዝ በሰዓት ከ$0.33-$1.61።
-- Woodruff, C. (2025)። "Colorado trial over coerced prison labor begins in Denver." _Colorado Newsline_, October 7, 2025. (_ሞርቲስ v. ፖሊስ_ የፍርድ ሽፋን፤ የ CDOC ማስረከቢያ ጥቅሶች፤ የሰልፍ ምስክርነት።)
-- _ሞርቲስ v. ፖሊስ_, የዴንቨር ዲስትሪክት ፍርድ ቤት። (2022)። የግዛቱ ለከሳሾች ቅሬታ ምላሽ። ("የእስር ቤት ጥቅሞች ጥቅሞች ብቻ ናቸው።")
-- Pew Charitable Trusts. (2018)። _Money and Mobility: Financial Outcomes for Incarcerated People._ (በሚለቀቁበት ጊዜ ቁጠባ እና እንደገና ወደ ወንጀል የመመለስ ቅነሳ።)
-- የኖርዌይ ማረሚያ አገልግሎት። እንደገና ወደ ወንጀል የመመለስ ስታትስቲክስ። (20% እንደገና ወደ ወንጀል የመመለስ መጠን፤ በፈቃደኝነት ካሳ የሚከፈልበት የእስር ቤት የጉልበት ሞዴል።)
-- የጀርመን ፌዴራል ስታትስቲካዊ ቢሮ። እንደገና ወደ ወንጀል የመመለስ እና የእስር ቤት የጉልበት ካሳ መረጃ። (35-40% እንደገና ወደ ወንጀል የመመለስ።)
-- Vera Institute of Justice. (2022)። _The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration._ (በዓመት ከ$40-60ሺህ ዶላር የእስር ቤት ወጪ።)
-- End Slavery Colorado campaign. የዘመቻ እና የድጋፍ ቁሳቁሶች። (የማሻሻያ A አደረጃጀት ታሪክ።)
-- Towards Justice. _ሞርቲስ v. ፖሊስ_ የጉዳይ ቁሳቁሶች እና የሕዝብ መግለጫዎች። (ዴቪድ ሴሊግማን፣ ሥራ አስፈፃሚ ዳይሬክተር።)
-- World Prison Brief. ዓለም አቀፍ የእስር መጠን ንጽጽሮች።
+- Colorado Public Radio. (2026, February 17). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
+- Colo. Const. art. II, § 26 (as amended by Amendment A, 2018). "There shall never be in this state either slavery or involuntary servitude."
+- Colorado Secretary of State. (2018). Official Election Results: Amendment A. (65% approval.)
+- ACLU. (2022). _Captive Labor: Exploitation of Incarcerated Workers._ (National prison labor data; $0.13-$0.52/hr average wages; 800,000+ incarcerated workers; $11B+ annual value.)
+- ACLU. (2022). State-level wage data: Colorado incarcerated worker wages $0.33-$1.61/hr.
+- Woodruff, C. (2025). "Colorado trial over coerced prison labor begins in Denver." _Colorado Newsline_, October 7, 2025. (_Mortis v. Polis_ trial coverage; CDOC filing quotes; rally testimony.)
+- _Mortis v. Polis_, Denver District Court. (2022). State's Response to Plaintiffs' Complaint. ("Prison privileges are just that - privileges.")
+- Pew Charitable Trusts. (2018). _Money and Mobility: Financial Outcomes for Incarcerated People._ (Savings at release and recidivism reduction.)
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate; voluntary compensated prison labor model.)
+- German Federal Statistical Office. (n.d.). Recidivism and prison labor compensation data. (35-40% recidivism.)
+- Vera Institute of Justice. (2022). _The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration._ ($40-60K/year incarceration cost.)
+- End Slavery Colorado campaign. (n.d.). Campaign and advocacy materials. (Amendment A organizing history.)
+- Towards Justice. (n.d.). _Mortis v. Polis_ case materials and public statements. (David Seligman, executive director.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.

@@ -184,4 +184,4 @@ Diet-related disease costs Denver hundreds of millions in healthcare spending an
 - USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
 - Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
 - Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
-- Colorado Secretary of State. (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

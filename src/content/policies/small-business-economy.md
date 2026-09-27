@@ -217,4 +217,4 @@ About 20% of small businesses fail in their first year, and 50% fail within five
 - CLES (Centre for Local Economic Strategies). (2019). The Preston Model: Community Wealth Building in Preston, UK. £74M redirected locally; 4,500 jobs created.
 - Shelterforce / Fifty by Fifty. (2021). Cleveland Evergreen Cooperatives 10-year review. 320 worker-owners; anchor institution procurement model.
 - SBA / Bureau of Labor Statistics. (2024). Small business failure rates: 20% in Year 1, 50% by Year 5. Cash flow and capital access as primary failure drivers.
-- W.E. Upjohn Institute for Employment Research. Bartik, T. Cost-benefit analysis of targeted local economic development. 22%+ ROI for small business-focused incentives.
+- W.E. Upjohn Institute for Employment Research. (n.d.). Bartik, T. Cost-benefit analysis of targeted local economic development. 22%+ ROI for small business-focused incentives.

@@ -87,3 +87,10 @@ Los grandes edificios multifamiliares (más de 50 unidades) están excluidos de 
 
 **"¿No causará la desinversión forzada una venta de liquidación que desplome los valores de las propiedades?"**
 El cronograma de desinversión de 5 años es deliberadamente lo suficientemente largo como para evitar una venta de liquidación. Al ritmo actual de ventas de viviendas de Denver (~30,000 transacciones por año en el área metropolitana), el volumen de desinversión institucional representaría una pequeña fracción de la actividad total del mercado. Los arrendadores corporativos en Denver tienen miles de unidades, no cientos de miles. El requisito de vender al valor justo de mercado tasado independientemente, no a precios de liquidación, evita la subcotización. Y el derecho de preferencia para los inquilinos actuales, los fideicomisos de tierras comunitarias y la Autoridad de Vivienda Social asegura que las unidades vayan a compradores alineados con la misión, no al próximo arrendador corporativo en la fila. El proceso de expropiación de Berlín, votado por el 59% de los residentes en 2021, está procediendo en un cronograma similar de varios años sin interrupción del mercado.
+
+## Referencias
+
+- Deutsche Welle. (2021, September 27). _Berlin referendum: Majority votes to expropriate large landlords_. https://www.dw.com
+- Organisation for Economic Co-operation and Development. (2024). _OECD Affordable Housing Database_. https://www.oecd.org/housing/data/affordable-housing-database/
+- Redfin. (2024). _Investor home purchases in 2023_ [Data analysis]. https://www.redfin.com/news/investor-home-purchases-q4-2023/
+- U.S. Department of Justice. (2024, August 23). _Justice Department sues RealPage for algorithmic pricing scheme that harms millions of American renters_ [Press release]. https://www.justice.gov

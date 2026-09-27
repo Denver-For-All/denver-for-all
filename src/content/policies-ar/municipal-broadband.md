@@ -103,10 +103,10 @@ Longmont، كولورادو تفعل ذلك. تشاتانوغا، تينيسي �
 
 ## المراجع
 
-- Denver اقتراح الاقتراع 2J (2018). 85.34٪ صوت بنعم. (قسم انتخابات Denver.)
-- Colorado SB 05-152. (تقييد سابق على مستوى الولاية على النطاق العريض البلدي، مما يتطلب إلغاء الاشتراك بالاقتراع المحلي.)
-- NextLight (Longmont، كولورادو). التقارير السنوية والبيانات المالية. (الربحية في غضون 5 سنوات، ورضا يزيد عن 90٪.)
-- Fort Collins Connexion. التقارير التشغيلية. (إنفاق معارضة Comcast: سجلات تمويل حملة Fort Collins.)
-- ACSI (مؤشر رضا العملاء الأمريكي). تقرير الاتصالات السلكية واللاسلكية السنوي. (Comcast هو مزود خدمة الإنترنت الرئيسي الأقل تصنيفًا.)
-- تقرير نشر النطاق العريض الصادر عن لجنة الاتصالات الفيدرالية FCC. (بيانات السرعة والتوافر.)
-- معهد الاكتفاء الذاتي المحلي. قاعدة بيانات "شبكات النطاق العريض المجتمعية". (أكثر من 900 شبكة نطاق عريض بلدية على مستوى الدولة.)
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

@@ -141,16 +141,17 @@ Denver 目前没有采取任何具体措施来解决强迫监狱劳动问题。�
 
 ## 参考文献
 
-- Colorado 州宪法，第二条，第 26 款（经 2018 年 A 修正案修订）。“本州绝不允许存在奴隶制或非自愿奴役。”
-- Colorado 州务卿。（2018 年）。官方选举结果：A 修正案。（65% 的赞成票。）
-- ACLU。（2022 年）。_被监禁劳工：对被监禁工人的剥削。_（国家监狱劳工数据；平均工资每小时 $0.13-$0.52 美元；超过 80 万名被监禁工人；每年超过 $110 亿美元的价值。）
-- ACLU。（2022 年）。州级工资数据：Colorado 州被监禁工人的工资为每小时 $0.33-$1.61 美元。
-- Woodruff, C. (2025)。“Colorado 州关于强迫监狱劳动的审判在 Denver 开始。”_Colorado Newsline_，2025 年 10 月 7 日。（*Mortis v. Polis*审判报道；CDOC 文件引用；集会证词。）
-- _Mortis v. Polis_，Denver 地区法院。（2022 年）。州政府对原告起诉的回应。（“监狱特权只是特权。”）
-- Pew Charitable Trusts。（2018 年）。_金钱与流动性：被监禁者的财务状况。_（获释时的储蓄和降低再犯罪率。）
-- 挪威惩教署。再犯罪统计数据。（20% 的再犯罪率；自愿有偿监狱劳动模式。）
-- 德国联邦统计局。再犯罪和监狱劳动报酬数据。（35-40% 的再犯罪率。）
-- Vera Institute of Justice。（2022 年）。_监狱的代价：衡量地方监禁的纳税人成本。_（每年 $4 万到 $6 万美元的监禁成本。）
-- End Slavery Colorado 竞选活动。竞选和宣传材料。（A 修正案的组织历史。）
-- Towards Justice。_Mortis v. Polis_ 案件材料和公开声明。（David Seligman，执行董事。）
-- World Prison Brief。国际监禁率比较。
+- Colorado Public Radio. (2026, February 17). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
+- Colo. Const. art. II, § 26 (as amended by Amendment A, 2018). "There shall never be in this state either slavery or involuntary servitude."
+- Colorado Secretary of State. (2018). Official Election Results: Amendment A. (65% approval.)
+- ACLU. (2022). _Captive Labor: Exploitation of Incarcerated Workers._ (National prison labor data; $0.13-$0.52/hr average wages; 800,000+ incarcerated workers; $11B+ annual value.)
+- ACLU. (2022). State-level wage data: Colorado incarcerated worker wages $0.33-$1.61/hr.
+- Woodruff, C. (2025). "Colorado trial over coerced prison labor begins in Denver." _Colorado Newsline_, October 7, 2025. (_Mortis v. Polis_ trial coverage; CDOC filing quotes; rally testimony.)
+- _Mortis v. Polis_, Denver District Court. (2022). State's Response to Plaintiffs' Complaint. ("Prison privileges are just that - privileges.")
+- Pew Charitable Trusts. (2018). _Money and Mobility: Financial Outcomes for Incarcerated People._ (Savings at release and recidivism reduction.)
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate; voluntary compensated prison labor model.)
+- German Federal Statistical Office. (n.d.). Recidivism and prison labor compensation data. (35-40% recidivism.)
+- Vera Institute of Justice. (2022). _The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration._ ($40-60K/year incarceration cost.)
+- End Slavery Colorado campaign. (n.d.). Campaign and advocacy materials. (Amendment A organizing history.)
+- Towards Justice. (n.d.). _Mortis v. Polis_ case materials and public statements. (David Seligman, executive director.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.

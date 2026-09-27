@@ -234,11 +234,11 @@ The Cooperative Development Fund is designed as a revolving fund: loan repayment
 
 ## References
 
-- Birchall, J. & Ketilson, L.H. _Resilience of the Cooperative Business Model in Times of Crisis._ ILO, 2009.
-- Colorado General Assembly. HB24-1092, _Worker Cooperative Corporations Act._ 2024.
-- Doucouliagos, C. _Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms._ Industrial and Labor Relations Review, 1995.
-- Dube, A. & Freeman, R. _Complementarity of Shared Compensation and Decision-Making Systems._ NBER, 2010.
-- National Center for Employee Ownership. _Employee Ownership and Economic Well-Being._ 2023.
-- Pencavel, J. et al. _Wages, Employment, and Capital in Capitalist and Worker-Owned Firms._ Industrial and Labor Relations Review, 2006.
-- Project Equity. _The Ownership Crisis: Retiring Boomer Business Owners._ 2023.
-- US Federation of Worker Cooperatives. _Annual Report._ 2023.
+- Birchall, J. & Ketilson, L.H. (2009). _Resilience of the Cooperative Business Model in Times of Crisis._ ILO.
+- Colorado General Assembly. (2024). HB24-1092, _Worker Cooperative Corporations Act._.
+- Doucouliagos, C. (1995). _Worker Participation and Productivity in Labor-Managed and Participatory Capitalist Firms._ Industrial and Labor Relations Review.
+- Dube, A. & Freeman, R. (2010). _Complementarity of Shared Compensation and Decision-Making Systems._ NBER.
+- National Center for Employee Ownership. (2023). _Employee Ownership and Economic Well-Being._.
+- Pencavel, J. et al. (2006). _Wages, Employment, and Capital in Capitalist and Worker-Owned Firms._ Industrial and Labor Relations Review.
+- Project Equity. (2023). _The Ownership Crisis: Retiring Boomer Business Owners._.
+- US Federation of Worker Cooperatives. (2023). _Annual Report._.

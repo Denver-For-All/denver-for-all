@@ -113,9 +113,9 @@ CCCAP ብዙ የሥራ ቤተሰቦችን የሚያገለግል የገቢ ገደ
 
 ## ማጣቀሻዎች
 
-- የኢኮኖሚ ፖሊሲ ተቋም. (2023). በዩናይትድ ስቴትስ ውስጥ የሕፃናት እንክብካቤ ወጪዎች። (የዴንቨር የሕፃናት እንክብካቤ ወጪ መረጃ።)
-- BLS የሥራ ስምሪት እና የደመወዝ ስታትስቲክስ። (2024). የሕፃናት እንክብካቤ ሠራተኞች፣ የዴንቨር ሜትሮ አካባቢ። ($14.50/ሰዓት አማካይ።)
-- የኮሎራዶ CCCAP ፕሮግራም መረጃ እና የብቁነት ገደቦች።
-- ቤከር፣ ኤም.፣ ግሩበር፣ ጄ.፣ እና ሚሊጋን፣ ኬ. (2008). "ሁለንተናዊ የሕፃናት እንክብካቤ፣ የእናቶች የሠራተኛ አቅርቦት እና የቤተሰብ ደህንነት።" የፖለቲካ ኢኮኖሚ ጆርናል. (የኩቤክ ሁለንተናዊ የሕፃናት እንክብካቤ ተጽእኖ።)
-- ሄክማን፣ ጄ. (2006). "የክህሎት ምስረታ እና በችግር ላይ ባሉ ልጆች ላይ ኢንቨስት የማድረግ ኢኮኖሚክስ።" ሳይንስ ($1 ኢንቨስትመንት በ $7-13 ይመልሳል።)
-- CU Boulder የውስጥ ክፍያ (2024-2025): $13,590/ዓመት። (ከሕፃናት እንክብካቤ ወጪዎች ጋር ማወዳደር።)
+- Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
+- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
+- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
+- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

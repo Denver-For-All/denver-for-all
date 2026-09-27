@@ -106,11 +106,11 @@
 
 ## المراجع
 
-- لجنة مراقبة جودة الهواء في وزارة الصحة العامة والبيئة في كولورادو. (2023). بيانات مراقبة جودة الهواء السنوية.
-- Trust for Public Land. (2023). رسم خرائط الجزر الحرارية الحضرية، منطقة دنفر الكبرى.
-- فرقة عمل دنفر للعمل المناخي. (2020). توقعات المناخ لمنطقة دنفر الكبرى.
-- FEMA / المعهد الوطني لعلوم البناء. (2019). يوفر تخفيف المخاطر الطبيعية: تقرير 2019. (1 دولار يوفر 6 دولارات.)
-- مكتب إدارة الطوارئ في دنفر. (2023). تحديث خطة تخفيف المخاطر.
-- وزارة الصحة العامة والبيئة في كولورادو. (2023). بيانات الوفيات المرتبطة بالحرارة.
-- صندوق تصريف مياه الأمطار في دنفر. الميزانية السنوية وتقارير البنية التحتية.
-- مكتب التخطيط والاستدامة في بورتلاند. تقارير برنامج مركز مرونة المجتمع.
+- Colorado DPHE Air Quality Control Commission. (2023). Annual air quality monitoring data.
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver Climate Action Task Force. (2020). Climate projections for Denver metro area.
+- FEMA / National Institute of Building Sciences. (2019). Natural Hazard Mitigation Saves: 2019 Report. ($1 saves $6.)
+- Denver Office of Emergency Management. (2023). Hazard Mitigation Plan Update.
+- Colorado Department of Public Health and Environment. (2023). Heat-related mortality data.
+- Denver Storm Drainage Fund. (n.d.). Annual budget and infrastructure reports.
+- Portland Bureau of Planning and Sustainability. (n.d.). Community Resilience Hub program reports.

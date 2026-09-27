@@ -168,16 +168,16 @@
 
 ## المراجع
 
-- لجنة مراقبة جودة الهواء في إدارة الصحة العامة والبيئة في Colorado. (2023). بيانات مراقبة الأوزون السنوية. (18 يومًا غير صحي +.)
-- Trust for Public Land. (2023). رسم خرائط الجزر الحرارية الحضرية، منطقة Denver الحضرية.
-- خطة عمل المناخ 80x50 في Denver. (2018). مكتب العمل المناخي والاستدامة والقدرة على الصمود.
-- Denver Parks & Recreation. (2023). تقييم الغطاء الشجري الحضري. (~19.7% تغطية.)
-- NREL (المختبر الوطني للطاقة المتجددة). بيانات موارد الطاقة الشمسية لـ Denver، CO.
-- Rocky Flats Downwinders. بيانات الصحة المجتمعية ونتائج أخذ العينات المستقلة.
-- مكتب إدارة الإرث التابع لوزارة الطاقة. تقارير المراقبة والصيانة السنوية لموقع روكي فلاتس.
-- IRENA (الوكالة الدولية للطاقة المتجددة). الطاقة المتجددة والوظائف، المراجعة السنوية. (ألمانيا 1.7 مليون وظيفة.)
-- EPA. تعيين وتصنيف منطقة عدم تحقيق معايير الأوزون في Denver Metro/North Front Range.
-- مختبرات أبحاث نظام الأرض التابعة للإدارة الوطنية للمحيطات والغلاف الجوي. دراسات انبعاثات الميثان والمركبات العضوية المتطايرة في Front Range.
-- جامعة ولاية Colorado. بيانات أبحاث ومراقبة جودة الهواء في حوض DJ.
-- منطقة إدارة جودة الهواء في الساحل الجنوبي (Los Angeles). بيانات اتجاه الأوزون التاريخية. (تخفيض بنسبة 75%+ على مدى 30 عامًا.)
-- Suncor Energy. سجل الامتثال لمصفاة Commerce City وبيانات الأثر الصحي للمجتمع.
+- Colorado DPHE Air Quality Control Commission. (2023). Annual ozone monitoring data. (18 unhealthy+ days.)
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
+- Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
+- NREL (National Renewable Energy Laboratory). (n.d.). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. (n.d.). Community health data and independent sampling results.
+- DOE Office of Legacy Management. (n.d.). Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). (n.d.). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
+- EPA. (n.d.). Denver Metro/North Front Range ozone non-attainment area designation and classification.
+- NOAA Earth System Research Laboratories. (n.d.). Front Range methane and VOC emission studies.
+- Colorado State University. (n.d.). DJ Basin air quality research and monitoring data.
+- South Coast Air Quality Management District (Los Angeles). (n.d.). Historical ozone trend data. (75%+ reduction over 30 years.)
+- Suncor Energy. (n.d.). Commerce City refinery compliance history and community health impact data.

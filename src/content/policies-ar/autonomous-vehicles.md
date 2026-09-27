@@ -153,18 +153,20 @@
 
 ## المراجع
 
-- كولورادو SB 17-213. (2017). بشأن تشغيل المركبات المستقلة. (إطار عمل AV الحكومي؛ أحكام الاستباقية المحلية.)
-- كولورادو HB 25-1122. (2025). بشأن البشر الذين يشغلون بعض المركبات الآلية. (اعترض عليه الحاكم بوليس.)
-- كاليفورنيا AB 1777. (2025، ساري المفعول في يوليو 2026). المركبات ذاتية القيادة: خدمات الطوارئ. (الخط الساخن للاستجابة للطوارئ، وتحديد الموقع الجغرافي، وسلطة الاستدعاء، ومتطلبات الاتصال ثنائي الاتجاه.)
-- تكساس SB 2807. (2025). يتعلق بتشغيل المركبات الآلية. (تصريح حكومي، وأجهزة تسجيل، وخطط المستجيب الأول.)
-- لجنة سيارات الأجرة والليموزين في مدينة نيويورك. (2024). قواعد اختبار المركبات المستقلة. (الترخيص، شرط سائق السلامة، الإبلاغ عن البيانات.)
-- المؤتمر الوطني للهيئات التشريعية للولايات. (2025). قاعدة بيانات تشريعات المركبات المستقلة. (مقارنة تنظيمية للمركبات ذاتية القيادة بين الولايات.)
-- Waymo. (2023). تقرير السلامة Waymo: مقارنات التصادم. (بيانات السلامة المبلغ عنها ذاتيًا؛ ادعاء بنسبة 57% أقل من الحوادث المسببة للإصابات.)
-- وكالة النقل البلدية في سان فرانسيسكو. (2023-2024). تقارير حوادث AV. (توثيق تدخل AV مع المستجيبين لحالات الطوارئ، وعرقلة حركة المرور.)
-- وزارة النقل في أوستن. (2025). لوحة معلومات حوادث المركبات المستقلة. (122 حادثة موثقة.)
-- مدينة تشاندلر، أريزونا. (2024). شراكة النقل الجزئي Chandler Flex / Waymo. (نموذج تكامل النقل العام؛ تسعير الأسهم.)
-- معهد دراسات النقل بجامعة كاليفورنيا في ديفيس. (2020). "النقل التخريبي: اعتماد واستخدام وتأثيرات مشاركة الركوب في الولايات المتحدة." (زيادة VMT من مشاركة الركوب.)
-- Schaller Consulting. (2018). "إمكانية التنقل الجديدة: Lyft و Uber ومستقبل المدن الأمريكية." (تقدير زيادة VMT بنسبة 85%.)
-- ACLU في كولورادو. (2025). تقنية المراقبة ومخاوف خصوصية بيانات AV. (سابقة كاميرا Flock لمخاطر مراقبة AV.)
-- الاتحاد الأوروبي. (2022). اللائحة 2022/1426. السلامة العامة وإطار عمل الموافقة على نوع أنظمة القيادة الآلية.
-- قانون إمكانية الوصول إلى AV الفيدرالي (H.R. 7126). (2024). المتطلبات المقترحة لإمكانية الوصول إلى AV للأشخاص ذوي الإعاقة.
+- _Colorado Sun_. (2026, September 1). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
+- Axios Denver. (2026, September 1). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
+- Colorado SB 17-213. (2017). Concerning the Operation of Autonomous Vehicles. (State AV framework; local preemption provisions.)
+- Colorado HB 25-1122. (2025). Concerning Humans Operating Certain Motor Vehicles. (Vetoed by Governor Polis.)
+- California AB 1777. (n.d.). (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)
+- Texas SB 2807. (2025). Relating to the operation of automated motor vehicles. (State authorization, recording devices, first-responder plans.)
+- NYC Taxi & Limousine Commission. (2024). Autonomous Vehicle Testing Rules. (Permitting, safety driver requirement, data reporting.)
+- National Conference of State Legislatures. (2025). Autonomous Vehicles Legislation Database. (State-by-state AV regulatory comparison.)
+- Waymo. (2023). Waymo Safety Report: Collision Comparisons. (Self-reported safety data; 57% fewer injury-causing crashes claim.)
+- San Francisco Municipal Transportation Agency. (2023-2024). AV Incident Reports. (Documented AV interference with emergency responders, traffic obstructions.)
+- Austin Transportation Department. (2025). Autonomous Vehicle Incident Dashboard. (122 documented incidents.)
+- City of Chandler, AZ. (2024). Chandler Flex Microtransit / Waymo Partnership. (Transit integration model; equity pricing.)
+- UC Davis Institute of Transportation Studies. (2020). "Disruptive Transportation: The Adoption, Utilization, and Impacts of Ride-Hailing in the United States." (VMT increase from ride-hailing.)
+- Schaller Consulting. (2018). "The New Automobility: Lyft, Uber and the Future of American Cities." (85% VMT increase estimate.)
+- ACLU of Colorado. (2025). Surveillance technology and AV data privacy concerns. (Flock camera precedent for AV surveillance risks.)
+- European Union. (2022). Regulation 2022/1426. General safety and automated driving systems type-approval framework.
+- Federal AV Accessibility Act (H.R. 7126). (2024). Proposed requirements for AV accessibility for people with disabilities.

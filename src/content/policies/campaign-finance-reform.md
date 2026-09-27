@@ -225,9 +225,9 @@ The Democracy Fund is capitalized through a new line item in the city budget, wi
 
 ## References
 
-- Denver Campaign Finance Ordinance. City and County of Denver, 2024.
-- La Raja, R. & Schaffner, B. _Campaign Finance and Political Polarization._ University of Michigan Press, 2015.
-- Malbin, M. et al. _Small Donors, Big Democracy._ The Campaign Finance Institute, 2012.
-- Montgomery County Campaign Finance Board. _Annual Report._ 2020.
-- New York City Campaign Finance Board. _Annual Report._ 2022.
-- Primo, D. & Milyo, J. _Campaign Finance Laws and Political Efficacy._ Election Law Journal, 2006.
+- Denver Campaign Finance Ordinance. (2024). City and County of Denver.
+- La Raja, R. & Schaffner, B. (2015). _Campaign Finance and Political Polarization._ University of Michigan Press.
+- Malbin, M. et al. (2012). _Small Donors, Big Democracy._ The Campaign Finance Institute.
+- Montgomery County Campaign Finance Board. (2020). _Annual Report._.
+- New York City Campaign Finance Board. (2022). _Annual Report._.
+- Primo, D. & Milyo, J. (2006). _Campaign Finance Laws and Political Efficacy._ Election Law Journal.

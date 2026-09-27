@@ -154,19 +154,20 @@ Không. Đây là về việc đèn của quý vị có sáng hay không. Liệu
 
 ## Tài Liệu Tham Khảo
 
-- Ủy ban Dịch vụ Tiện ích Công cộng Colorado. (2025). Báo cáo tóm tắt về tình trạng mất điện và hiệu suất dịch vụ khách hàng của Xcel Energy. (Thời gian mất điện trung bình 352 phút, 90.000 khách hàng bị mất điện 6 lần trở lên vào năm 2024.)
-- Colorado Sun. (2025, ngày 1 tháng 5). "Khách hàng của Xcel phải đối mặt với tình trạng mất điện ngày càng tăng và phải chờ đợi lâu hơn để được hỗ trợ." (Giảm 10% nhân viên, cắt giảm 5% ngân sách dịch vụ khách hàng, tăng 30% giá điện từ 2022-2024.)
-- Denver Post. (2025, ngày 8 tháng 5). "Tình trạng mất điện của Xcel Energy-Colorado tăng gấp đôi vào năm 2024." (Dữ liệu xu hướng mất điện từ 2014-2024.)
-- Westword. (2025). "Sự cố mất điện: Ủy ban PUC Colorado không hài lòng với 'Thất bại lớn' của Xcel trong dịch vụ khách hàng năm 2024." (Trích dẫn của Ủy viên Tom Plant.)
-- Colorado Sun. (2025, ngày 15 tháng 5). "Xcel cho biết họ đã chuyển sang giải quyết các vấn đề về dịch vụ. Các cơ quan quản lý Colorado muốn xác minh tiến độ." (Chương trình giám sát của PUC.)
-- CPR News. (2024, ngày 11 tháng 9). "Xcel Energy đang bị điều tra sau nhiều khiếu nại về tình trạng mất điện trên toàn tiểu bang."
-- Denverite. (2025, ngày 27 tháng 8). "Đã quá muộn để đưa Xcel vào lá phiếu ở Denver trong năm nay. Bây giờ thì sao?" (Lịch sử và thời gian biểu của thỏa thuận nhượng quyền.)
-- Denverite. (2025, ngày 12 tháng 8). "Xcel muốn được phê duyệt để tiếp tục hoạt động ở Denver. Hội Đồng Thành Phố vừa bác bỏ biện pháp này." (Bỏ phiếu 7-6, trích dẫn của Nghị viên Lewis.)
-- Denver Gazette. (2025, ngày 24 tháng 12). "Các doanh nghiệp phải đối mặt với tổn thất sau khi Xcel tắt điện." (Phòng Thương mại Boulder thiệt hại trung bình $25.000, trích dẫn về máy phát điện của Bệnh viện St. Anthony.)
-- Boulder Reporting Lab. (2024, ngày 7 tháng 4). "Xcel: Một số nguồn điện ở Quận Boulder có thể không trở lại cho đến sau Thứ Hai." (Bệnh viện Foothills chạy bằng máy phát điện trong hơn 24 giờ.)
-- Denver7. (2025). "Các nhà lập pháp Colorado dồn dập các câu hỏi, lo ngại về việc Tắt điện để bảo đảm an toàn công cộng cho Chủ tịch Xcel Energy."
-- Hiệp hội Điện lực Công cộng Hoa Kỳ. (2024). Danh bạ hàng năm và báo cáo thống kê. (Hơn 2.000 công ty điện lực thành phố phục vụ 49 triệu người Mỹ.)
-- Hội Đồng Thành Phố Denver. (2025). Hồ sơ #25-0922, thủ tục tố tụng thỏa thuận nhượng quyền Xcel Energy.
-- Thành phố Longmont. Báo cáo thường niên của Longmont Power & Communications.
-- Colorado Springs Utilities. Báo cáo hàng năm về hiệu suất và mức độ hài lòng của khách hàng.
-- Khu Vực Điện Lực Thành Phố Sacramento (SMUD). Dữ liệu so sánh giá và báo cáo thường niên.
+- _Colorado Politics_. (2026, July 28). "Denver City Council sends Xcel franchise deal to voters." https://www.coloradopolitics.com/2026/07/28/denver-city-council-sends-xcel-franchise-deal-to-voters/
+- Colorado Public Utilities Commission. (2025). Xcel Energy outage and customer service performance briefing. (352 minutes average outage duration, 90,000 customers with 6+ outages in 2024.)
+- Colorado Sun. (2025, May 1). "Xcel customers face increasing outages and are waiting longer for support." (10% staff reduction, 5% customer service budget cut, 30% rate increase 2022-2024.)
+- Denver Post. (2025, May 8). "Xcel Energy-Colorado power outages doubled in 2024." (Outage trend data 2014-2024.)
+- Westword. (2025). "Power Failure: Colorado PUC Not Happy With Xcel's 'Giant Fail' at Customer Service in 2024." (Commissioner Tom Plant quote.)
+- Colorado Sun. (2025, May 15). "Xcel says it has moved to solve service problems. Colorado regulators want to verify the progress." (PUC monitoring program.)
+- CPR News. (2024, September 11). "Xcel Energy under investigation after numerous complaints of power outages statewide."
+- Denverite. (2025, August 27). "It's too late to put Xcel on the Denver ballot this year. Now what?" (Franchise agreement history and timeline.)
+- Denverite. (2025, August 12). "Xcel wants approval to keep operating in Denver. City Council just rejected the measure." (7-6 vote, Councilwoman Lewis quote.)
+- Denver Gazette. (2025, December 24). "Businesses face losses after Xcel power shutoffs." (Boulder Chamber $25,000 average loss, St. Anthony Hospital generator quote.)
+- Boulder Reporting Lab. (2024, April 7). "Xcel: Some Boulder County power may not return until after Monday." (Foothills Hospital on generators for 24+ hours.)
+- Denver7. (2025). "Colorado lawmakers bombard Xcel Energy President with questions, concerns about Public Safety Power Shutoffs."
+- American Public Power Association. (2024). Annual directory and statistical report. (2,000+ municipal utilities serving 49 million Americans.)
+- Denver City Council. (2025). File #25-0922, Xcel Energy franchise agreement proceedings.
+- City of Longmont. (n.d.). Longmont Power & Communications annual reports.
+- Colorado Springs Utilities. (n.d.). Annual performance and customer satisfaction reports.
+- Sacramento Municipal Utility District (SMUD). (n.d.). Rate comparison data and annual reports.

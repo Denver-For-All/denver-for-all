@@ -111,13 +111,13 @@
 
 ## 参考文献
 
-- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_.（2020-2021 年北美西南部新兴特大干旱迅速加剧。《自然气候变化》，1200 年来最严重的干旱。）
-- U.S. Bureau of Reclamation. Colorado River Basin water supply reports and shortage declarations.（美国垦务局。科罗拉多河流域供水报告和短缺声明。）
-- Denver Water. Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.（丹佛水务局。年度报告、长期规划文件和格罗斯水库扩建项目更新。）
-- American Water Works Association. Cost-benefit analysis of demand management vs. supply expansion.（美国自来水厂协会。需求管理与供应扩张的成本效益分析。）
-- Colorado Division of Water Resources. Snowpack and streamflow data; water rights administration.（科罗拉多州水资源部。积雪和径流数据；水权管理。）
-- Singapore Public Utilities Board (PUB). NEWater and Four National Taps program reports.（新加坡公用事业局 (PUB)。新生水和四个国家水龙头计划报告。）
-- City of Melbourne. Water conservation program data and per-capita consumption trends.（墨尔本市。节水计划数据和人均消费趋势。）
-- City of Tucson Water Department. Conservation program outcomes and rainwater harvesting ordinance.（图森市水务局。节水计划成果和雨水收集条例。）
-- Israel Water Authority. National water economy reports; wastewater recycling data.（以色列水务局。国家水资源经济报告；废水回收数据。）
-- Western Resource Advocates. Colorado water conservation policy analysis.（西部资源倡导者。科罗拉多州节水政策分析。）
+- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

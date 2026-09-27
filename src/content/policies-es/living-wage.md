@@ -106,10 +106,12 @@ Su argumento: "Costará empleos y perjudicará a las pequeñas empresas". Nuestr
 
 ## Referencias
 
-- Calculadora de Salario Digno del MIT, Condado de Denver, livingwage.mit.edu (consultado en 2024)
-- Oficina de Estadísticas Laborales, _Estadísticas de Empleo y Salarios Ocupacionales_, Denver-Aurora-Lakewood MSA, mayo de 2023
-- Arindrajit Dube, T. William Lester, Michael Reich, "Efectos del Salario Mínimo a Través de las Fronteras Estatales: Estimaciones Usando Condados Contiguos," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
-- Doruk Cengiz et al., "El Efecto de los Salarios Mínimos en los Empleos de Salarios Bajos," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
-- Comisión de Salarios Bajos del Reino Unido, _Informe Anual del Salario Mínimo Nacional_, 2023
-- Departamento de Finanzas de Denver, _Informe Anual de la Ordenanza de Salario Mínimo_, 2024
-- Universidad de Washington, _Estudio del Salario Mínimo de Seattle_, varias publicaciones (2017-2023)
+- Glasmeier, A. K. (2024). _Living wage calculator: Denver County, Colorado_. Massachusetts Institute of Technology. https://livingwage.mit.edu
+- Bureau of Labor Statistics. (2023, May). _Occupational employment and wage statistics: Denver-Aurora-Lakewood, CO MSA_.
+- Dube, A., Lester, T. W., & Reich, M. (2010). Minimum wage effects across state borders: Estimates using contiguous counties. _The Review of Economics and Statistics, 92_(4), 945–964.
+- Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. _The Quarterly Journal of Economics, 134_(3), 1405–1454.
+- UK Low Pay Commission. (2023). _National Minimum Wage Annual Report_.
+- Denver Department of Finance. (2025). _Denver local minimum wage adjusts to $19.29 per hour for 2026_ [Press release].
+- Denver Labor, Office of the Auditor. (2026). _Citywide minimum wage_ [2026–2027 rate schedule].
+- Denver Department of Finance. (2024). _Minimum Wage Ordinance Annual Report_.
+- University of Washington. (2017–2023). _Seattle Minimum Wage Study_ [Various publications].

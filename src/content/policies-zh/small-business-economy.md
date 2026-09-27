@@ -135,11 +135,11 @@
 
 ## 参考文献
 
-- SBA 小企业管理局倡导办公室。（2023 年）。小企业经济概况：科罗拉多州。684,726 家小企业；占私营企业就业的 49.6%。
-- 科罗拉多州餐馆协会。（2024 年）。丹佛餐馆倒闭数据。净亏损 222 家餐馆（2022 年 7 月 - 2023 年 7 月）；183 家倒闭（2023 年 7 月 - 2024 年 7 月）。
-- Bisnow。（2024 年）。RiNo 创新区零售空置率和吸收数据。可用率 8.1%；负吸收 43,000 平方英尺。
-- Civic Economics & 地方自力更生研究所。（2012 年）。本地消费乘数研究。52.9% 的本地再循环（独立企业）与 13.6%（连锁店）相比。
-- CLES（地方经济战略中心）。（2019 年）。普雷斯顿模式：英国普雷斯顿的社区财富建设。7400 万英镑在本地重新定向；创造了 4,500 个就业岗位。
-- Shelterforce / Fifty by Fifty。（2021 年）。克利夫兰常青合作社 10 年回顾。320 名工人所有者；锚定机构采购模式。
-- SBA 小企业管理局 / 劳工统计局。（2024 年）。小企业倒闭率：第一年为 20%，第五年为 50%。现金流和资本准入是主要的失败驱动因素。
-- W.E. Upjohn 就业研究所。Bartik, T. 针对性本地经济发展的成本效益分析。以小企业为重点的激励措施的回报率超过 22%。
+- SBA Office of Advocacy. (2023). Small Business Economic Profile: Colorado. 684,726 small businesses; 49.6% of private employment.
+- Colorado Restaurant Association. (2024). Denver restaurant closure data. Net loss of 222 restaurants (July 2022-July 2023); 183 closures (July 2023-July 2024).
+- Bisnow. (2024). RiNo retail vacancy and absorption data. 8.1% availability rate; 43,000 SF negative absorption.
+- Civic Economics & Institute for Local Self-Reliance. (2012). Local spending multiplier studies. 52.9% local recirculation (independents) vs. 13.6% (chains).
+- CLES (Centre for Local Economic Strategies). (2019). The Preston Model: Community Wealth Building in Preston, UK. £74M redirected locally; 4,500 jobs created.
+- Shelterforce / Fifty by Fifty. (2021). Cleveland Evergreen Cooperatives 10-year review. 320 worker-owners; anchor institution procurement model.
+- SBA / Bureau of Labor Statistics. (2024). Small business failure rates: 20% in Year 1, 50% by Year 5. Cash flow and capital access as primary failure drivers.
+- W.E. Upjohn Institute for Employment Research. (n.d.). Bartik, T. Cost-benefit analysis of targeted local economic development. 22%+ ROI for small business-focused incentives.

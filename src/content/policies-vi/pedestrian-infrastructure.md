@@ -140,14 +140,16 @@ Theo các quy tắc hiện hành, chủ sở hữu tài sản chịu trách nhi�
 
 ## Tài Liệu Tham Khảo
 
-- Thành phố và Quận Denver, DOTI. (22 tháng 1 năm 2026). Kế hoạch Thực hiện Vỉa hè Denver: Báo cáo Tình trạng Hệ thống. (Tổng cộng 3.140 dặm; ~1.162 dặm / 34% chiều rộng thiếu sót; 318 dặm / 9% bị thiếu; ~1.480 dặm / 43% tổng số bị thiếu hoặc thiếu sót; 1.233 khu nhà / 5% cần sửa chữa. Các khu vực công bằng: 153 dặm bị thiếu, 624 dặm thiếu sót. 54% các trạm trung chuyển có vỉa hè bị thiếu trong vòng 2 phút đi bộ. HIN: 50% số vụ tai nạn chết người trên 5% số đường phố.)
-- Denver Streets Partnership. (2022). Tài liệu chiến dịch Denver Deserves Sidewalks. (Hơn 400 năm để hoàn thành mạng lưới với mức tài trợ trước đó; các khu dân cư có thu nhập thấp có tỷ lệ tử vong cho người đi bộ cao gấp 2 lần.)
-- Văn phòng Kiểm toán viên Denver. (2020). Kiểm toán Chương trình Sửa chữa Vỉa hè Khu dân cư. ("Chậm tiến độ hàng thập kỷ và không được thiết kế để tuân thủ ADA.")
-- Thành phố và Quận Denver. (2025). Bảng điều khiển Vision Zero. (93 trường hợp tử vong do giao thông vào năm 2025; 35 người đi bộ, tăng 34% so với năm 2024; người đi bộ có khả năng chết cao hơn 30 lần so với người lái xe.)
-- CBS Colorado. (2025). "Việc cứu trợ vỉa hè sẽ sớm đến các khu dân cư Denver, dự kiến ​​bắt đầu với các hợp đồng trị giá 75 triệu đô la." ($25 triệu Milender White, $50 triệu SEMA; $97,5 triệu dự kiến ​​doanh thu từ phí trong 3 năm.)
-- Tổ chức An toàn Giao thông AAA. (2024). "Người đi bộ ở các khu dân cư khó khăn có nhiều khả năng chết trong các vụ tai nạn xe hơi hơn."
-- Trung tâm Nghiên cứu Nhà ở Chung của Đại học Harvard. (2019). "Nhà ở cho Người lớn Tuổi của Hoa Kỳ." (Chưa đến 5% số lượng nhà ở có thể tiếp cận được đối với người sử dụng xe lăn.)
-- ScienceDirect. (2024). "Đường phố hoàn chỉnh đáp ứng các chính sách rời rạc: Vỉa hè ở 30 thành phố của Hoa Kỳ." (San Francisco, Denver và Austin chỉ là 3 thành phố hàng đầu có các chính sách vỉa hè "công bằng".)
-- Denver Gazette / Thành phố Denver. (2022). Biện pháp 307 (Sắc lệnh 307) và sắc lệnh Denver Deserves Sidewalks. (Phí $150/năm; giảm giá NEST; giảm giá dựa trên thu nhập.)
-- Thành phố và Quận Denver, Hội Đồng Thành Phố. (Tháng 9 năm 2024). Sắc lệnh 1076-24. (Thiết lập phí dịch vụ vỉa hè và Quỹ Doanh nghiệp Vỉa hè; việc thu phí bắt đầu vào tháng 1 năm 2025; phí tác động cho >230 feet tuyến tính mặt tiền; ghi đè các trường hợp miễn trừ vỉa hè năm 2007.)
-- Thành phố và Quận Denver. (2050). Denver Moves Everyone 2050 (kế hoạch giao thông chiến lược); Hướng dẫn Đường
+- City and County of Denver, DOTI. (2026, January 22). Denver Sidewalk Implementation Plan: State of the System Report. (3,140 miles total; ~1,162 miles / 34% deficient width; 318 miles / 9% missing; ~1,480 miles / 43% total missing or deficient; 1,233 blocks / 5% needing repair. Equity areas: 153 mi missing, 624 mi deficient. 54% of transit stops with missing sidewalk within 2-min walk. HIN: 50% of fatal crashes on 5% of streets.)
+- Denver Streets Partnership. (2022). Denver Deserves Sidewalks campaign materials. (400+ years to complete network at prior funding levels; low-income neighborhoods 2x pedestrian fatality rate.)
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. ("Decades behind schedule and was not designed for ADA compliance.")
+- City and County of Denver. (2025). Vision Zero Dashboard. (93 traffic deaths in 2025; 35 pedestrians, 34% increase over 2024; pedestrians 30x more likely to die than motorists.)
+- CBS Colorado. (2025). "Sidewalk relief coming soon to Denver neighborhoods, set to begin with $75 million contracts." ($25M Milender White, $50M SEMA; $97.5M expected in fee revenue over 3 years.)
+- AAA Foundation for Traffic Safety. (2024). "Pedestrians in Disadvantaged Neighborhoods More Likely to Die in Car Crashes."
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (Less than 5% of housing stock accessible to wheelchair users.)
+- ScienceDirect. (2024). "Complete streets meet fragmented policies: Sidewalks in 30 U.S. cities." (San Francisco, Denver, and Austin only top-30 cities with "equitable" sidewalk policies.)
+- Denver Gazette / City of Denver. (2022). Measure 307 (Ordinance 307) and Denver Deserves Sidewalks ordinance. ($150/year fee; NEST discount; income-based rebates.)
+- City and County of Denver, City Council. (2024, September). Ordinance 1076-24. (Established the sidewalk service charge and Sidewalk Enterprise Fund; fee collection began January 2025; impact fees for >230 linear feet of frontage; overrode 2007 sidewalk exemptions.)
+- City and County of Denver. (2050). Denver Moves Everyone 2050 (strategic transportation plan); Complete Streets Guidelines (2020); Denver Moves: Pedestrians and Trails (2019); Transportation Standards and Details (2017). (Guiding plans referenced in the SIP.)
+- City of Pontevedra, Spain. (n.d.). Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
+- City of Oslo, Norway. (n.d.). Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)

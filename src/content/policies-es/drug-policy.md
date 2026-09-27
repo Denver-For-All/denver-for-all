@@ -117,13 +117,14 @@ Los estudios del Insite de Vancouver (que opera desde 2003), el MSIC de Sydney y
 
 ## Referencias
 
-- Denver Office of the Medical Examiner. (2024). Informe Anual: Muertes No Intencionales por Envenenamiento por Drogas en la Ciudad y el Condado de Denver, 2023.
-- Base de Datos WONDER de los CDC. Conteo Provisional de Muertes por Sobredosis de Drogas. (El fentanilo como principal causa de muerte entre los 18 y 45 años).
-- SICAD (Portugal). (2023). Informe Anual sobre el Consumo de Drogas y los Problemas Relacionados con las Drogas. (Resultados de la despenalización en Portugal).
-- Potier, C., et al. (2014). "Servicios de inyección supervisada: ¿qué se ha demostrado?" Drug and Alcohol Dependence, 145, 48-68. (Cero muertes en centros de consumo supervisado; se revisaron 75 estudios).
-- Oficina Federal de Salud Pública de Suiza. Informes de evaluación del tratamiento asistido con heroína. (Resultados del TAH en Suiza).
-- Oregon Health Authority. (2023). Informe de Implementación de la Medida 110. (Cifra de desembolso del 10% de los fondos).
-- EMCDDA (Observatorio Europeo de las Drogas y las Toxicomanías). Informe Europeo Anual sobre Drogas. (Datos comparativos de la UE).
-- National Drug Intelligence Center. (2011). El Impacto Económico del Consumo Ilícito de Drogas en la Sociedad Americana. (Estimación de costos de $193 mil millones al año; más de $1 billón acumulado).
-- Vera Institute of Justice. (2022). El Precio de las Cárceles: Midiendo el Costo para el Contribuyente del Encarcelamiento Local. (Costo de encarcelamiento de más de $40,000 al año).
-- NIDA (Instituto Nacional sobre el Abuso de Drogas). Datos sobre la rentabilidad del tratamiento. (Costo de tratamiento de $4-8K/año).
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

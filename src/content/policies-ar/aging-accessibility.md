@@ -95,11 +95,11 @@
 
 ## المراجع
 
-- مكتب الإحصاء الأمريكي. (2023). المسح المجتمعي الأمريكي تقديرات لمدة 5 سنوات (2019-2023): التركيبة السكانية لمقاطعة دنفر، وتوزيع الأعمار، وحالة الإعاقة.
-- مكتب الإحصاء الديموغرافي لولاية كولورادو. (2022). توقعات السكان: نمو عدد السكان الذين تبلغ أعمارهم 65 عامًا فأكثر بنسبة 36٪ (317,000 من كبار السن الإضافيين) بحلول عام 2030، مع أكثر من 50٪ من النمو السكاني في الولاية في المجموعة العمرية 65 عامًا فأكثر.
-- مكتب مدقق حسابات دنفر. (2020). تدقيق برنامج إصلاح أرصفة الأحياء: وجد أن البرنامج متأخر عن الجدول الزمني بعقود وغير مصمم للامتثال لقانون ADA، حيث يحتاج 80٪ من الأرصفة في المنطقة الأولى إلى إصلاحات.
-- Genworth/CareScout. (2024). مسح تكلفة الرعاية: تكاليف الرعاية طويلة الأجل في كولورادو تتجاوز المتوسطات الوطنية، حيث يبلغ متوسط المعيشة المدعومة 5,073 دولارًا شهريًا والمساعدين الصحيين المنزليين 33.50 دولارًا في الساعة.
-- معهد كولورادو للصحة. (2023). مسح الوصول إلى الصحة في كولورادو: الإعاقة، ودرجات ضعف الشيخوخة، وبيانات الوصول إلى الرعاية الصحية لمقاطعة دنفر.
-- تصنيفات الصحة الأمريكية. (2024). تقرير كبار السن: عوامل خطر العزلة الاجتماعية بين البالغين الذين تبلغ أعمارهم 65 عامًا فأكثر، بما في ذلك الفقر والمعيشة بمفردهم والإعاقة وصعوبة المعيشة المستقلة في كولورادو.
-- RTD-Denver. (2024). بيانات برنامج Access-a-Ride و Access-on-Demand: أكثر من 70,000 رحلة شهرية على Access-on-Demand؛ تقرير مراجعة الأقران للنقل الخاص APTA.
-- التحالف الوطني للإسكان لذوي الدخل المنخفض. (2025). الملف التعريفي للإسكان في كولورادو: بيانات عبء تكلفة الإسكان، ونقص الإسكان الميسور التكلفة الذي يزيد عن 100,000 وحدة، وحسابات أجر الإسكان.
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County demographics, age distribution, and disability status.
+- Colorado State Demography Office. (2022). Population Projections: 65+ population growth of 36% (317,000 additional older adults) projected by 2030, with over 50% of state population growth in the 65+ cohort.
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program: Found program decades behind schedule and not designed for ADA compliance, with 80% of sidewalks in the first region requiring repairs.
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado long-term care costs exceeding national averages, with assisted living averaging $5,073/month and home health aides at $33.50/hour.
+- Colorado Health Institute. (2023). Colorado Health Access Survey: Disability, aging vulnerability scores, and healthcare access data for Denver County.
+- America's Health Rankings. (2024). Senior Report: Social isolation risk factors among adults 65+, including poverty, living alone, disability, and independent living difficulty in Colorado.
+- RTD-Denver. (2024). Access-a-Ride and Access-on-Demand program data: Over 70,000 monthly rides on Access-on-Demand; APTA Paratransit Peer Review report.
+- National Low Income Housing Coalition. (2025). Colorado Housing Profile: Housing cost burden data, affordable housing shortage of 100,000+ units, and Housing Wage calculations.

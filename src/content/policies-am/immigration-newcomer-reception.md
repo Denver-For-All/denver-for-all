@@ -125,7 +125,7 @@
 **"የመጤዎች ቁጥር እንደገና ከጨመረ ዴንቨር ይህንን መቋቋም ትችላለች?"**
 አዎ - ቁም ነገሩ ይኸው ነው። የአዲስ መጤ አገልግሎት ፈንድ ተጨማሪ የገንዘብ ድጋፍ ራስ-ሰር ቀስቃሽ ያካትታል፣ እና የአቀባበል ማዕከሉ ሊሰፋ የሚችል መሠረተ ልማት ያቀርባል። የአስቸኳይ ጊዜ ሞዴል ያለ ምንም መሠረተ ልማት በመሆኑ በግፊት ተሰብሯል። ቋሚ ሥርዓቶች ሊሰፉ ይችላሉ፤ የአስቸኳይ ጊዜ ምላሾች ግን አይችሉም።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
 - Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ and $89.9M allocation data.)
 - Denver Human Services. (2024). Denver Newcomer Program Annual Report. (40,000+ arrivals figure.)

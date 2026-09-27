@@ -65,7 +65,8 @@ public/                Static assets
 ## Policy content rules
 
 - All statistics must include the year of the data.
-- Claims must be backed by citations in a References section.
+- Claims must be backed by citations in a References section, formatted in APA 7 author–date style: `- Author. (Year). _Title_. Publisher. https://url`. Use `(n.d.)` when a source has no date, `(2025, December)` for dated news, and legal form for statutes and cases (`Colo. Rev. Stat. § 38-12-301`). Never invent URLs, authors, or dates. In body text, cite as `(Author, Year)`. `tests/citations.test.ts` enforces the format.
+- Translated policy bodies carry the English References list verbatim (sources are cited as published). After editing English references, run `node scripts/translate/sync-references.mjs`.
 - Policy documents should include: problem statement, proposed solution, evidence, local context, FAQs, and funding sources.
 - Spanish translations in `policies-es/` must have empty `{}` frontmatter and the slug must match the English original.
 - Every policy needs at least three `smartGoals` in its frontmatter (specific goal, measurable metric with a dated baseline, achievable via an accountable owner and a real-world precedent, relevant to the proposal, and a `deadline` within 10 years), plus a `goalsReviewed` month. `tests/smart-goals.test.ts` enforces this; update `goalsReviewed` whenever you refresh baselines.

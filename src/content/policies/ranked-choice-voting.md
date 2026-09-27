@@ -210,11 +210,11 @@ The matching fund can be capitalized through a transfer from the city's general 
 
 ## References
 
-- Coll, J. et al. _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab, 2022.
-- Colorado General Assembly. HB24-1190, _Ranked Choice Voting - Municipal Elections Authorization._ 2024.
-- Denver Elections Division. _Historical Turnout and Cost Data._ 2023.
-- Donovan, T. et al. _Campaign Civility Under Preferential and Plurality Voting._ Electoral Studies, 2016.
-- FairVote. _Ranked Choice Voting in Practice._ 2025.
-- FairVote. _Voter Satisfaction Evidence._ 2024.
-- New York City Campaign Finance Board. _Small-Dollar Matching Program Impact Report._ 2022.
-- Colorado Secretary of State. _Voter Registration Statistics._ 2024.
+- Coll, J. et al. (2022). _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab.
+- Colorado General Assembly. (2024). HB24-1190, _Ranked Choice Voting - Municipal Elections Authorization._.
+- Denver Elections Division. (2023). _Historical Turnout and Cost Data._.
+- Donovan, T. et al. (2016). _Campaign Civility Under Preferential and Plurality Voting._ Electoral Studies.
+- FairVote. (2025). _Ranked Choice Voting in Practice._.
+- FairVote. (2024). _Voter Satisfaction Evidence._.
+- New York City Campaign Finance Board. (2022). _Small-Dollar Matching Program Impact Report._.
+- Colorado Secretary of State. (2024). _Voter Registration Statistics._.

@@ -106,11 +106,11 @@ Esta política trata sobre la adaptación y la preparación, no sobre detener el
 
 ## Referencias
 
-- Comisión de Control de la Calidad del Aire del DPHE de Colorado. (2023). Datos anuales de monitoreo de la calidad del aire.
-- Trust for Public Land. (2023). Mapeo de islas de calor urbano, área metropolitana de Denver.
-- Grupo de Trabajo de Acción Climática de Denver. (2020). Proyecciones climáticas para el área metropolitana de Denver.
-- FEMA / Instituto Nacional de Ciencias de la Construcción. (2019). Ahorros en la mitigación de peligros naturales: Informe de 2019. ($1 ahorra $6).
-- Oficina de Gestión de Emergencias de Denver. (2023). Actualización del Plan de Mitigación de Riesgos.
-- Departamento de Salud Pública y Medio Ambiente de Colorado. (2023). Datos de mortalidad relacionada con el calor.
-- Fondo de Drenaje Pluvial de Denver. Presupuesto anual e informes de infraestructura.
-- Oficina de Planificación y Sostenibilidad de Portland. Informes del programa Community Resilience Hub.
+- Colorado DPHE Air Quality Control Commission. (2023). Annual air quality monitoring data.
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver Climate Action Task Force. (2020). Climate projections for Denver metro area.
+- FEMA / National Institute of Building Sciences. (2019). Natural Hazard Mitigation Saves: 2019 Report. ($1 saves $6.)
+- Denver Office of Emergency Management. (2023). Hazard Mitigation Plan Update.
+- Colorado Department of Public Health and Environment. (2023). Heat-related mortality data.
+- Denver Storm Drainage Fund. (n.d.). Annual budget and infrastructure reports.
+- Portland Bureau of Planning and Sustainability. (n.d.). Community Resilience Hub program reports.

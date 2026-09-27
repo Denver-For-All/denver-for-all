@@ -143,14 +143,14 @@
 
 ## المراجع
 
-- Denverite. (2024). "أجرت دنفر تغييرًا كبيرًا في جمع النفايات. لم ينجح الأمر تمامًا بعد." بيانات معدل التحويل: 23% قبل البرنامج، 26% اعتبارًا من أكتوبر 2024.
-- Eco-Cycle and CoPIRG. (2025). "حالة إعادة التدوير والتسميد في كولورادو." معدل التحويل على مستوى ولاية كولورادو 15.7%.
-- Axios Denver. (2025). "كيف تتراكم جهود التسميد في دنفر." أكثر من 73000 أسرة مسجلة، والتسميد يمثل 6% من النفايات التي تم جمعها.
-- وكالة حماية البيئة الأمريكية (U.S. EPA). (2023). "تحديد كمية انبعاثات غاز الميثان من النفايات الغذائية المطمورة." 58% من غاز الميثان المتسرب من مدافن النفايات يأتي من النفايات الغذائية.
-- Conservation Colorado. (2020). "رسم الخرائط من أجل العدالة البيئية في Globeville و Elyria-Swansea." بيانات التلوث القديم والأراضي الملوثة.
-- Denver Post. (2025). "يمكن لدنفر استخدام عائدات رسوم الأكياس التي يمكن التخلص منها في مرسوم "لا مزيد من النفايات"." إجمالي عائدات رسوم الأكياس 6.2 مليون دولار؛ 5 ملايين كيس أقل سنويًا.
-- إدارة الصحة العامة والبيئة في كولورادو (Colorado DPHE). (2024). خطة تنفيذ برنامج مسؤولية المنتج (HB 22-1355). أهداف إعادة التدوير: 41% بحلول عام 2030، 55% بحلول عام 2035.
-- Eco-Cycle. "الوظائف والفوائد الاقتصادية لـ "صفر نفايات"." تخلق إعادة التدوير 9 أضعاف عدد الوظائف مقارنة بمدافن النفايات لكل طن من المواد.
-- Denver Water. (2023). خطة التكيف المناخي. توقعات الإمدادات وأهداف الحفاظ على المياه لنظام المياه في دنفر.
-- جمعية كولورادو العامة (Colorado General Assembly). SB 13-181. ترخيص إعادة استخدام المياه الرمادية. HB 16-1005. إضفاء الشرعية على تجميع مياه الأمطار السكنية.
-- المنتدى الاقتصادي العالمي (World Economic Forum). (2025). "8 اتجاهات في الإسكان والنقل والقدرة على التكيف مع المناخ في المناطق الحضرية." المدن التي تتوسع في إعادة استخدام المياه الرمادية وأنظمة المياه الدائرية.
+- Denverite. (2024). "Denver made a big change to waste pickup. It's not quite working yet." Diversion rate data: 23% pre-program, 26% as of October 2024.
+- Eco-Cycle and CoPIRG. (2025). "State of Recycling and Composting in Colorado." Colorado statewide diversion rate of 15.7%.
+- Axios Denver. (2025). "How Denver's composting efforts stack up." 73,000+ households enrolled, composting at 6% of collected waste.
+- U.S. EPA. (2023). "Quantifying Methane Emissions from Landfilled Food Waste." 58% of fugitive landfill methane from food waste.
+- Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." Legacy contamination and brownfield data.
+- Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
+- Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
+- Eco-Cycle. (n.d.). "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
+- Colorado General Assembly. (n.d.). SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

@@ -208,9 +208,9 @@ The Trump administration threatened to withhold federal funds from sanctuary cit
 
 ## References
 
-- U.S. Census Bureau. American Community Survey (ACS), 2023. (Denver Latino population.)
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
 - Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
 - Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
 - Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
 - City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
-- IDNYC Annual Report. (1.3M+ municipal IDs issued data.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

@@ -104,8 +104,8 @@
 
 ## المراجع
 
-- قانون دستور العمل الألماني (_Betriebsverfassungsgesetz_)، 1972 (تم تعديله عام 2001)
-- قانون الإدارة المشتركة الألماني (_Mitbestimmungsgesetz_)، 1976
-- معهد السياسة الاقتصادية، "ارتفعت رواتب الرؤساء التنفيذيين بنسبة 1,460٪ منذ عام 1978"، _تقرير_، 2022 (يغطي بيانات 2021)
-- منظمة العمل الدولية (ILO)، _مشاركة العمال في إدارة المؤسسات_، 2022
-- قانون الإدارة المشتركة في العمل السويدي (_Medbestammandelagen_، MBL)، 1976
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

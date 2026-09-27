@@ -94,9 +94,11 @@ Esta es una reasignación, no nuevo gasto. La ciudad actualmente gasta este dine
 
 ## Referencias
 
-- Dee, T. y Pyne, J. _A Community Response Approach to Mental Health and Substance Use Crises Reduced Crime._ Science Advances / NBER, 2022.
-- Departamento de Policía de Denver. _Datos de Clasificación de Llamadas al 911._ 2023.
-- Programa STAR de Denver. _Informe Anual._ 2023.
-- Alianza Nacional sobre Enfermedades Mentales. _The Cost of Mental Health Crises._ 2022.
-- Universidad de Denver. _Evaluación del Programa STAR._ 2022.
-- Clínica White Bird. _Programa CAHOOTS._ Eugene, Oregon.
+- Dee, T. & Pyne, J. (2022). _A Community Response Approach to Mental Health and Substance Use Crises Reduced Crime._ Science Advances / NBER.
+- Denver Police Department. (2023). _911 Call Classification Data._ Reported in Denver Post.
+- Denver STAR Program. (2023). _Annual Report._.
+- National Alliance on Mental Illness. (2022). _The Cost of Mental Health Crises._.
+- University of Denver, Sturm College of Law. (2022). _STAR Program Evaluation._.
+- Colorado General Assembly. (n.d.). SB23-008, _Behavioral Health Administration._.
+- Colorado General Assembly. (n.d.). HB24-1309, _Mental Health Crisis Response Co-Responder Program._.
+- White Bird Clinic. (n.d.). _CAHOOTS Program._ Eugene, Oregon. 30-year evaluation data.

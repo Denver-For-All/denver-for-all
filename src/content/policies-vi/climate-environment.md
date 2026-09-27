@@ -168,16 +168,16 @@ Quá trình chuyển đổi năng lượng của Colorado đã diễn ra. Vấn 
 
 ## Tài Liệu Tham Khảo
 
-- Ủy ban Kiểm soát Chất lượng Không khí DPHE Colorado. (2023). Dữ liệu giám sát ozone hàng năm. (18 ngày không lành mạnh+.)
-- Trust for Public Land. (2023). Bản đồ đảo nhiệt đô thị, khu vực đô thị Denver.
-- Kế hoạch Hành động Khí hậu 80x50 của Denver. (2018). Văn phòng Hành động Khí hậu, Bền vững và Khả năng phục hồi.
-- Công viên & Giải trí Denver. (2023). Đánh giá tán cây đô thị. (~19,7% độ che phủ.)
-- NREL (Phòng thí nghiệm Năng lượng Tái tạo Quốc gia). Dữ liệu tài nguyên năng lượng mặt trời cho Denver, CO.
-- Rocky Flats Downwinders. Dữ liệu sức khỏe cộng đồng và kết quả lấy mẫu độc lập.
-- Văn phòng Quản lý Di sản DOE. Báo cáo giám sát và bảo trì hàng năm của Địa điểm Rocky Flats.
-- IRENA (Cơ quan Năng lượng Tái tạo Quốc tế). Năng lượng Tái tạo và Việc làm, Đánh giá Hàng năm. (Đức 1,7 triệu việc làm.)
-- EPA. Chỉ định và phân loại khu vực không đạt tiêu chuẩn ozone Denver Metro/North Front Range.
-- Phòng thí nghiệm Nghiên cứu Hệ thống Trái đất NOAA. Các nghiên cứu về khí thải metan và VOC ở Front Range.
-- Đại học Bang Colorado. Nghiên cứu chất lượng không khí và dữ liệu giám sát Lưu vực DJ.
-- Khu Quản lý Chất lượng Không khí Bờ biển Nam (Los Angeles). Dữ liệu xu hướng ozone lịch sử. (Giảm 75%+ trong hơn 30 năm.)
-- Suncor Energy. Lịch sử tuân thủ nhà máy lọc dầu Commerce City và dữ liệu tác động sức khỏe cộng đồng.
+- Colorado DPHE Air Quality Control Commission. (2023). Annual ozone monitoring data. (18 unhealthy+ days.)
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
+- Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
+- NREL (National Renewable Energy Laboratory). (n.d.). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. (n.d.). Community health data and independent sampling results.
+- DOE Office of Legacy Management. (n.d.). Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). (n.d.). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
+- EPA. (n.d.). Denver Metro/North Front Range ozone non-attainment area designation and classification.
+- NOAA Earth System Research Laboratories. (n.d.). Front Range methane and VOC emission studies.
+- Colorado State University. (n.d.). DJ Basin air quality research and monitoring data.
+- South Coast Air Quality Management District (Los Angeles). (n.d.). Historical ozone trend data. (75%+ reduction over 30 years.)
+- Suncor Energy. (n.d.). Commerce City refinery compliance history and community health impact data.

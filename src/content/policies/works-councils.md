@@ -179,8 +179,8 @@ For city contractors and city-owned enterprises: unquestionably yes. For private
 
 ## References
 
-- German Works Constitution Act (_Betriebsverfassungsgesetz_), 1972 (amended 2001)
-- German Codetermination Act (_Mitbestimmungsgesetz_), 1976
-- Economic Policy Institute, "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_, 2022 (covering 2021 data)
-- International Labour Organization (ILO), _Worker Participation in Enterprise Governance_, 2022
-- Swedish Codetermination at Work Act (_Medbestammandelagen_, MBL), 1976
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

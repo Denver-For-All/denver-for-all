@@ -111,13 +111,13 @@ Estamos atacando la idea de que una ciudad que recibe de 35 a 43 cm de lluvia po
 
 ## Referencias
 
-- Williams, A.P., et al. (2022). "Intensificación rápida de la megasequía emergente del suroeste de América del Norte en 2020-2021". _Nature Climate Change_. (La peor sequía en 1.200 años).
-- Oficina de Reclamación de los Estados Unidos (U.S. Bureau of Reclamation). Informes sobre el suministro de agua de la cuenca del río Colorado y declaraciones de escasez.
-- Denver Water. Informes anuales, documentos de planificación a largo plazo y actualizaciones del proyecto de expansión del embalse Gross.
-- American Water Works Association. Análisis de costo-beneficio de la gestión de la demanda frente a la expansión del suministro.
-- División de Recursos Hídricos de Colorado (Colorado Division of Water Resources). Datos de la capa de nieve y el caudal de los arroyos; administración de los derechos de agua.
-- Junta de Servicios Públicos de Singapur (Singapore Public Utilities Board, PUB). Informes del programa NEWater y Cuatro Grifos Nacionales.
-- Ciudad de Melbourne. Datos del programa de conservación de agua y tendencias de consumo per cápita.
-- Departamento de Agua de la Ciudad de Tucson (City of Tucson Water Department). Resultados del programa de conservación y ordenanza de recolección de agua de lluvia.
-- Autoridad del Agua de Israel (Israel Water Authority). Informes de la economía nacional del agua; datos de reciclaje de aguas residuales.
-- Defensores de los Recursos Occidentales (Western Resource Advocates). Análisis de la política de conservación de agua de Colorado.
+- Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

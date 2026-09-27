@@ -111,13 +111,13 @@ El Condado de Cook, Illinois, estableció un financiamiento de ingreso garantiza
 
 ## Referencias
 
-- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Análisis agregado de los programas piloto de ingreso garantizado de EE. UU.
-- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Metaanálisis de 20 evaluaciones revisadas por pares.
-- Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 experimentos en curso; más de 150 en total.
-- University of Kansas. (2025). Evaluación del programa piloto de ingreso garantizado de Boulder. 200 residentes, $500/mes, resultados de empleo mixtos, resultados positivos de necesidades básicas.
-- Baltimore Mayor's Office. (2025). "Young Families Success Fund Final Report." 200 padres jóvenes, $1,000/mes, 24 meses. Beneficios financieros sostenidos después de que terminaron los pagos.
-- Washington University in St. Louis. (2025). "St. Louis Guaranteed Basic Income Pilot Improved Financial Stability." Los puntajes de crédito aumentaron un promedio de 12 puntos; redujo la inseguridad alimentaria.
-- City of Newark. (2025). "Mayor Baraka Announces Guaranteed Income Pilot Results." 400 residentes; mejoró la resiliencia financiera, la seguridad de la vivienda/alimentos, la salud mental.
-- Cook County, IL. (2025). Primer condado de EE. UU. en establecer un financiamiento de ingreso garantizado permanente después de un programa piloto de $42 millones que atiende a 3,250 residentes.
-- World Bank. (2014). Evans, D.K. and Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." Las transferencias de efectivo redujeron o no tuvieron ningún efecto en el gasto en alcohol/tabaco en 19 de 19 estudios.
-- U.S. Census Bureau. (2023). American Community Survey, Denver-Aurora-Lakewood MSA. Tasa de pobreza, distribución del ingreso y datos de carga de costos.
+- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Aggregate analysis of US guaranteed income pilots.
+- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Meta-analysis of 20 peer-reviewed evaluations.
+- Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 ongoing experiments; 150+ total.
+- University of Kansas. (2025). Boulder guaranteed income pilot evaluation. 200 residents, $500/month, mixed employment results, positive basic needs outcomes.
+- Baltimore Mayor's Office. (2025). "Young Families Success Fund Final Report." 200 young parents, $1,000/month, 24 months. Sustained financial benefits after payments ended.
+- Washington University in St. Louis. (2025). "St. Louis Guaranteed Basic Income Pilot Improved Financial Stability." Credit scores increased average 12 points; reduced food insecurity.
+- City of Newark. (2025). "Mayor Baraka Announces Guaranteed Income Pilot Results." 400 residents; improved financial resilience, housing/food security, mental health.
+- Cook County, IL. (2025). First US county to establish permanent guaranteed income funding after $42M pilot serving 3,250 residents.
+- World Bank. (2014). Evans, D.K. and Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." Cash transfers reduced or had no effect on alcohol/tobacco spending in 19 of 19 studies.
+- U.S. Census Bureau. (2023). American Community Survey, Denver-Aurora-Lakewood MSA. Poverty rate, income distribution, and cost burden data.

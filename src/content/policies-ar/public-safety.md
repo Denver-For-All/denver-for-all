@@ -207,3 +207,37 @@
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Oakland، كاليفورنيا** | عملية وقف إطلاق النار / التدخل في عنف الجماعات: تحديد الأفراد الذين يقودون عنف السلاح، وتقديم الخدمات + إنفاذ مركز. | انخفضت جرائم القتل بنسبة 50٪ (2012-2018). انخفضت عمليات إطلاق النار بهوامش مماثلة. البرنامج الأكثر فعالية للحد من عنف السلاح الذي تم تقييمه في الولايات المتحدة. |
 | **Glasgow، اسكتلندا**   | وحدة الحد من العنف (2005): تعاملت مع العنف على أنه وباء للصحة العامة. قدمت التدريب الوظيفي والإ                     |
+
+## المراجع
+
+- Denver Annual Budget. (2024). Department of Safety appropriation. ($300M+ police budget.)
+- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute. (23,000+ STAR responses; 16% reduction in subsequent arrests and police contacts; 2-3x larger impacts for people experiencing homelessness; Co-Responder Program shows 15% reduction in subsequent arrests; cost analysis: $237 per van response, $470 including Community Partner Network; scalability analysis showing 9-10 concurrent van units needed to meet demand.)
+- Denver Office of the Independent Monitor. (n.d.). Annual reports. (Structure and limitations.)
+- Denver City Attorney's Office. (2024). Law enforcement settlement data, 2017-2023. Denver Post analysis.
+- Morgan Williams Jr., J. & Chalfin, A. (2023). "Police and Public Safety." Various publications. (Police spending/crime correlation evidence.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate.)
+- Collins, S.E., Lonczak, H.S., & Clifasefi, S.L. (2017). "Seattle's Law Enforcement Assisted Diversion (LEAD): Program effects on recidivism outcomes." _Evaluation and Program Planning_, 64, 49-56. (58-60% lower odds of arrest for LEAD participants vs. controls.)
+- Colorado Behavioral Health Administration. (n.d.). Colorado Law Enforcement Assisted Diversion (LEAD) Pilot Programs: Final Evaluation Report. (Denver pilot outcomes in DPD Districts 1, 2, and 6.)
+- Denver District Attorney's Office. (2018). Denver Pilot Program launch announcement. LEAD partnership with ARTS and the Empowerment Program.
+- LEAD National Support Bureau. (2024). LEAD program replication data. (80+ cities operating LEAD programs nationally.)
+- Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (Disabled people constitute one-third to one-half of all people killed by police.)
+- Cure Violence Global. (n.d.). Program evaluation data. (Community violence intervention outcomes.)
+- University of Chicago Crime Lab. (n.d.). READI Chicago evaluation. (Youth employment and violence reduction.)
+- Brookings Institution. (2022). After-school programming and youth crime timing data.
+- Desmond, M. (2016). _Evicted: Poverty and Profit in the American City_. (Housing instability and crime correlation.)
+- Council of State Governments Justice Center. (n.d.). Reentry housing and recidivism data.
+- National Institute on Drug Abuse. (n.d.). Medication-assisted treatment and crime reduction outcomes.
+- NYU Furman Center. (2019). Randomized controlled trial of street lighting and crime in NYC public housing. (36% reduction.)
+- University of Pennsylvania. (2018). Vacant lot remediation and gun violence reduction in Philadelphia. (29% reduction, RCT.)
+- Kondo, M., et al. (2016). "Effects of greening vacant lots on crime." _Landscape and Urban Planning_.
+- Oakland Ceasefire evaluation. (2019). Homicide reduction data 2012-2018.
+- Glasgow Violence Reduction Unit. (2005–2015). Program reports and outcome data. (60% murder rate reduction.)
+- Richmond Office of Neighborhood Safety. (2007–2019). Program evaluation and gun homicide data. (75% reduction.)
+- National Institute of Justice. (2024). Cost of crime estimates. (~$1.5M per homicide.)
+- Denverite. (2025). "Denver extends Flock surveillance cameras despite pushback from city council." Mayor extended contract through March 2026; council rejection; community town hall.
+- ACLU of Colorado. (2025). "Community Organizations and City Leaders Call for Denver Mayor Mike Johnston to Immediately Turn off Flock Cameras." 1,400+ ICE searches; coalition of 15+ civil rights organizations.
+- CBS Colorado. (2025). "Denver extends contract for Flock cameras with new safeguards against sharing with immigration enforcement." New contract terms; $100,000 damages clause; MOU requirements.
+- Colorado Politics. (2025). "Denver mayor extends Flock camera contract against council's wishes." $498,509 contract below $500,000 council threshold; 12-0 council vote against renewal.
+- Denver Gazette. (2025). "As Flock camera network grows, so do privacy and data concerns." Audit logs delayed three months; ICE access documented.
+- Forbes. (2024). "No consistent evidence that ALPR camera networks reduce crime." Independent research on Flock effectiveness claims.

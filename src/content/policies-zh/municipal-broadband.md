@@ -101,12 +101,12 @@ Comcast 和 CenturyLink 有几十年的时间来提供良好、负担得起的�
 **“丹佛选民不是已经批准了吗？发生了什么事？”**
 是的。2018 年，85% 的丹佛选民批准了授权市政宽带的 2J 号提案。该市已经进行了可行性研究，但尚未承诺进行建设。我们打算让该市履行选民已经赋予它的授权。
 
-## 参考资料
+## 参考文献
 
-- 丹佛 2J 号提案 (2018)。85.34% 的赞成票。（丹佛选举部门。）
-- 科罗拉多州 SB 05-152。（以前州一级对市政宽带的限制，要求当地投票选择退出。）
-- NextLight（科罗拉多州朗蒙特）。年度报告和财务报表。（5 年内实现盈利，90% 以上的满意度。）
-- 柯林斯堡 Connexion。运营报告。（Comcast 的反对支出：柯林斯堡竞选财务记录。）
-- ACSI（美国客户满意度指数）。年度电信报告。（Comcast 是评价最低的主要 ISP。）
-- FCC 宽带部署报告。（速度和可用性数据。）
-- 地方自力更生研究所。《社区宽带网络》数据库。（全国 900 多个市政宽带网络。）
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

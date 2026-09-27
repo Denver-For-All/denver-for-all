@@ -147,8 +147,13 @@ RTD هي وكالة إقليمية. لا تستطيع Denver التحكم فيه
 
 ## المراجع
 
-- RTD-Denver. (2025). تقرير إنهاء FasTracks: التكاليف الرأسمالية والتشغيلية للممرات المتبقية. (مطلوب 1.6 مليار دولار؛ اكتمال البرنامج بنسبة 75%).
-- Denver Post. (2025). "لا يزال عدد ركاب RTD في انخفاض مع دفع الولاية لتطوير النقل." (65.2 مليون عملية صعود في عام 2024؛ أقل بنسبة 38% من عام 2019؛ انخفاض بنسبة 6.4% في النصف الأول من عام 2025).
-- مدينة ومقاطعة Denver. (2025). لوحة معلومات وإحصائيات Vision Zero. (93 حالة وفاة بسبب حوادث المرور في عام 2025؛ 35 حالة وفاة للمشاة، بزيادة قدرها 34% عن عام 2024).
-- معهد تكساس إيه آند إم للنقل. (2025). تقرير التنقل الحضري. (خسر سائقو Denver 76 ساعة بسبب الازدحام في عام 2024؛ تكلفة إقليمية قدرها 3.5 مليار دولار).
-- جامعة Denver / مركز Terner. (2025). دراسة إصلاح مواقف السيارات في Denver. (من المتوقع أن يؤدي إلغاء الحد الأدنى لمواقف السيارات إلى زيادة المساكن بنسبة 12.5%، أو 460 وحدة/سن
+- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. ($1.6 billion needed; 75% program completion.)
+- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." (65.2 million boardings in 2024; 38% below 2019; 6.4% decline in first half of 2025.)
+- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. (93 traffic deaths in 2025; 35 pedestrian deaths, up 34% from 2024.)
+- Texas A&M Transportation Institute. (2025). Urban Mobility Report. (Denver drivers lost 76 hours to congestion in 2024; $3.5 billion regional cost.)
+- University of Denver / Terner Center. (2025). Denver parking reform study. (Eliminating parking minimums projected to boost housing by 12.5%, or 460 units/year.)
+- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (Structured parking adds average $50,000 per unit.)
+- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (24% ridership above peer cities; 17% new riders.)
+- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 vouchers redeemed; 64% to lower/moderate income.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghai (50 km of routes connecting 4.8M residents), Sydney (George Street redesign, 8,000 riders/hour), Indianapolis ($27M bike investment catalyzed $170M private development).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." 15-minute city and climate-aligned urbanism trends.

@@ -108,3 +108,12 @@ Nó giúp tiết kiệm tiền. Mỗi $1 chi cho quyền tư vấn giúp tiết 
 
 **"Chủ nhà cần có khả năng đuổi những người thuê nhà tồi."**
 Không có gì trong dự luật này ngăn cản việc đòi nhà vì lý do chính đáng - không thanh toán (với thời gian khắc phục), vi phạm hợp đồng thuê nhà, hoạt động tội phạm. Điều mà nó ngăn cản là các vụ đòi nhà có lý do giả tạo, các vụ đòi nhà trả đũa và các vụ đòi nhà không có lỗi mà không có sự hỗ trợ.
+
+## Tài Liệu Tham Khảo
+
+- Colo. Rev. Stat. § 13-40-104.
+- Colorado General Assembly. (2026). _2026 regular session tenant-protection bills (HB26-1106, HB26-1047, HB26-1013)_. https://leg.colorado.gov
+- Colorado Judicial Branch. (2025). _Eviction filings dashboard (SB24-064)_ [Data set]. https://www.coloradojudicial.gov
+- Eviction Lab. (n.d.). _Denver, CO eviction tracking_. Princeton University. Retrieved May 2026, from https://evictionlab.org
+- National Coalition for a Civil Right to Counsel. (2022). _The right to counsel in eviction proceedings_. https://civilrighttocounsel.org
+- New York City Office of Civil Justice. (2023). _Universal access to legal services: Annual report_. https://www.nyc.gov/hra

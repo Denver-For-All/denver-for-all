@@ -163,7 +163,7 @@ The Bank of North Dakota has a 100+ year track record with zero loss years. Publ
 ## References
 
 - FDIC National Survey of Unbanked and Underbanked Households. (2023). (4.2% unbanked, 14.2% underbanked nationally; higher rates in communities of color.)
-- Bank of North Dakota. Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
+- Bank of North Dakota. (n.d.). Annual reports and financial statements. (100+ years, zero loss years, $100M+/year returns.)
 - California AB 857. (2019). Public Banking Act enabling legislation.
-- German Sparkassen (Savings Banks Association). Financial reports. (€1.4 trillion assets, 50M customers.)
-- Public Banking Institute. Research and analysis on municipal public banking.
+- German Sparkassen (Savings Banks Association). (n.d.). Financial reports. (€1.4 trillion assets, 50M customers.)
+- Public Banking Institute. (n.d.). Research and analysis on municipal public banking.

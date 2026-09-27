@@ -141,9 +141,9 @@ FAMLI proporciona 12 semanas al 90% del salario, una mejora significativa con re
 
 ## Referencias
 
-- Estatutos Revisados de Colorado, Sección 8-13.3-501 et seq. (Ley FAMLI)
-- División FAMLI de Colorado, _Informe de Implementación del Programa_, 2024
-- Ley de Familias y Lugares de Trabajo Saludables de Colorado (HFWA), C.R.S. 8-13.3-401 et seq.
-- Agencia Sueca de Seguros Sociales (_Forsakringskassan_), _Estadísticas de Permiso Parental_, 2023
-- OCDE, _Base de Datos Familiar: Sistemas de Permiso Parental_, 2023
-- Ministerio de Trabajo e Inclusión Social de Noruega, _Reglamento de Permiso Parental_, 2023
+- Colo. Rev. Stat. § 8-13.3-501 et seq. (Paid Family and Medical Leave Insurance Act).
+- Colorado FAMLI Division. (2024). _Program Implementation Report_.
+- Colo. Rev. Stat. § 8-13.3-401 et seq. (Healthy Families and Workplaces Act).
+- Swedish Social Insurance Agency (_Forsakringskassan_). (2023). _Parental Leave Statistics_.
+- OECD. (2023). _Family Database: Parental Leave Systems_.
+- Norway Ministry of Labour and Social Inclusion. (2023). _Parental Leave Regulations_.

@@ -97,10 +97,10 @@ Có. CDEC của Colorado cung cấp 15 giờ/tuần chương trình Mẫu giáo 
 
 ## Tài Liệu Tham Khảo
 
-- Sở Giáo dục Mầm non Colorado (CDEC). Dữ liệu ghi danh và chương trình Mẫu giáo Phổ cập.
-- Báo cáo Thường niên của DPS. (2024). Ghi danh, số lượng trường bán công, tài trợ trên mỗi học sinh.
-- Hiệp hội Giáo viên Denver Classroom. (2023). Khảo sát về việc giữ chân giáo viên và nhà ở.
-- Hunger Free Colorado. (2023). Ước tính về tình trạng mất an ninh lương thực của trẻ em ở Denver.
-- Trung tâm Thống kê Giáo dục Quốc gia. Dữ liệu về lương và nhân sự của DPS.
-- Bảng xếp hạng OECD PISA. Dữ liệu so sánh giáo dục quốc tế.
-- Sahlberg, P. "Bài học Phần Lan." (Bằng chứng về cải cách giáo dục Phần Lan.)
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
+- DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
+- Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
+- Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)

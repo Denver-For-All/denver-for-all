@@ -93,8 +93,8 @@ Các dịch vụ thiết yếu hoạt động theo lịch trình ca, không ph�
 
 ## Tài Liệu Tham Khảo
 
-- OECD, chỉ số _Hours Worked_ (data.oecd.org), 2023
-- Pháp, _Code du travail_, Điều L2242-17 (Quyền Được Ngắt Kết Nối, ban hành năm 2017)
-- Nghiên cứu về Quyền tự chủ, _The Results Are In: The UK's Four-Day Week Pilot_, 2023
-- Iceland, _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week," 2021
-- Microsoft Nhật Bản, kết quả _Work-Life Choice Challenge Summer 2019_
+- OECD. (2023). _Hours Worked_ indicator (data.oecd.org).
+- France. (n.d.). _Code du travail_, Article L2242-17. (Right to Disconnect, enacted 2017)
+- Autonomy Research. (2023). _The Results Are In: The UK's Four-Day Week Pilot_.
+- Iceland. (2021). _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week,"
+- Microsoft Japan. (n.d.). _Work-Life Choice Challenge Summer 2019_ results.

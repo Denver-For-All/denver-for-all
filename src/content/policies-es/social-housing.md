@@ -96,3 +96,16 @@ Lo hemos intentado durante 20 años. Ha producido una fracción de las unidades 
 
 **"¿Dónde irán 10,000 unidades? ¿Qué pasa con la oposición del vecindario?"**
 La vivienda social se distribuirá en todos los vecindarios de Denver, incluidos los más ricos, no concentrada en áreas de bajos ingresos. Ese fue el error de la vivienda pública estadounidense de mediados del siglo XX y no lo repetiremos. El modelo de Viena funciona precisamente porque la vivienda pública está en todas partes: en distritos ricos, en corredores comerciales, en desarrollos orientados al tránsito. Denver ya tiene cientos de parcelas vacantes de propiedad de la ciudad en cada parte de la ciudad. El proceso de selección de sitios de la DSHA priorizará la proximidad al transporte público, los empleos y las escuelas, e incluirá la participación obligatoria de la comunidad. Pero la "participación de la comunidad" no es un veto. La crisis de la vivienda afecta a toda la ciudad, y cada vecindario debe ser parte de la solución.
+
+## Referencias
+
+- Apartment List. (2026). _Denver, CO rent report_. https://www.apartmentlist.com/rent-report/co/denver
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing programs and need estimates_. https://www.denvergov.org/host
+- Colorado General Assembly. (2026). _2026 regular session housing bills (HB26-1001, SB26-001, HB26-1065, HB26-1066, HB26-1114)_. https://leg.colorado.gov
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, a 102-unit Proposition 123-funded affordable community in West Colfax]. https://www.coloradopolitics.com
+- Metro Denver Homeless Initiative. (2026). _2026 Point-in-Time count data_ (6,411 people in Denver). https://www.mdhi.org/pit
+- RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
+- Rothstein, R. (2017). _The color of law: A forgotten history of how our government segregated America_. Liveright Publishing.
+- U.S. Census Bureau. (2023). _Selected housing characteristics_ [American Community Survey, Denver-Aurora-Lakewood MSA]. https://data.census.gov
+- Wiener Wohnen. (2023). _Facts and figures on Vienna's municipal housing_. https://www.wienerwohnen.at
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood, CO_ [Data set]. https://www.zillow.com/research/data/

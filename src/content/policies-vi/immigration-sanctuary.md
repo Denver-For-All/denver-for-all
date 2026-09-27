@@ -127,9 +127,9 @@ Chính quyền Trump đã đe dọa giữ lại các khoản tiền liên bang t
 
 ## Tài Liệu Tham Khảo
 
-- Cục Thống Kê Dân Số Hoa Kỳ. Khảo Sát Cộng Đồng Hoa Kỳ (ACS), 2023. (Dân số Latino ở Denver.)
-- Sở Tài Chính Denver. (2024). Báo Cáo Chi Tiêu Dịch Vụ Dành Cho Người Mới Đến. (Chi hơn 100 triệu đô la cho người di cư.)
-- Wong, T. (2017). "Ảnh Hưởng Của Các Chính Sách Bảo Vệ Đến Tội Phạm Và Nền Kinh Tế." Trung Tâm Tiến Bộ Hoa Kỳ. (Dữ liệu an toàn của các thành phố bảo vệ.)
-- Printz kiện Hoa Kỳ, 521 U.S. 898 (1997). (Học thuyết chống trưng dụng.)
-- Thành phố Chicago kiện Sessions, 888 F.3d 272 (Tòa án khu vực 7 năm 2018). (Các chính sách bảo vệ được ủng hộ.)
-- Báo Cáo Thường Niên IDNYC. (Dữ liệu đã cấp hơn 1,3 triệu chứng minh thư thành phố.)
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
+- Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

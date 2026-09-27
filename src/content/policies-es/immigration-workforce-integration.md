@@ -127,10 +127,10 @@ La Oficina de Reconocimiento de Credenciales utilizará marcos de evaluación in
 
 ## Referencias
 
-- Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States".
-- Colorado HB 23-1224. Ley de Estudio de Reconocimiento de Credenciales.
-- Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition". (Contribución de más de $20 mil millones al PIB).
-- BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring". (Tasa de reconocimiento del 80%, aumento salarial del 25%).
-- Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report". (Emparejamiento de empleo un 40% más rápido).
-- TRIEC (Toronto Region Immigrant Employment Council). (2021). Informe de impacto anual. (Tasa de empleo del 75%, ROI de 4:1).
-- Denver Economic Development & Opportunity. (2024). Informe del mercado laboral de Denver. (Datos sobre la escasez de mano de obra).
+- Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
+- Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
+- BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
+- Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)
+- TRIEC (Toronto Region Immigrant Employment Council). (2021). Annual Impact Report. (75% employment rate, 4:1 ROI.)
+- Denver Economic Development & Opportunity. (2024). Denver Labor Market Report. (Labor shortage data.)

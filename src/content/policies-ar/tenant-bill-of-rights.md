@@ -110,3 +110,12 @@
 لا يوجد شيء في هذا القانون يمنع الإخلاء لسبب مشروع - عدم الدفع (مع فترة تصحيح) وانتهاكات عقد الإيجار والنشاط الإجرامي. ما يمنعه هو عمليات الإخلاء الوهمية وعمليات الإخلاء الانتقامية وعمليات الإخلاء بدون سبب دون مساعدة.
 
 Denver For All
+
+## المراجع
+
+- Colo. Rev. Stat. § 13-40-104.
+- Colorado General Assembly. (2026). _2026 regular session tenant-protection bills (HB26-1106, HB26-1047, HB26-1013)_. https://leg.colorado.gov
+- Colorado Judicial Branch. (2025). _Eviction filings dashboard (SB24-064)_ [Data set]. https://www.coloradojudicial.gov
+- Eviction Lab. (n.d.). _Denver, CO eviction tracking_. Princeton University. Retrieved May 2026, from https://evictionlab.org
+- National Coalition for a Civil Right to Counsel. (2022). _The right to counsel in eviction proceedings_. https://civilrighttocounsel.org
+- New York City Office of Civil Justice. (2023). _Universal access to legal services: Annual report_. https://www.nyc.gov/hra

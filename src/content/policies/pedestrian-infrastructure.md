@@ -228,5 +228,5 @@ Under current rules, property owners are responsible for clearing sidewalks with
 - Denver Gazette / City of Denver. (2022). Measure 307 (Ordinance 307) and Denver Deserves Sidewalks ordinance. ($150/year fee; NEST discount; income-based rebates.)
 - City and County of Denver, City Council. (2024, September). Ordinance 1076-24. (Established the sidewalk service charge and Sidewalk Enterprise Fund; fee collection began January 2025; impact fees for >230 linear feet of frontage; overrode 2007 sidewalk exemptions.)
 - City and County of Denver. (2050). Denver Moves Everyone 2050 (strategic transportation plan); Complete Streets Guidelines (2020); Denver Moves: Pedestrians and Trails (2019); Transportation Standards and Details (2017). (Guiding plans referenced in the SIP.)
-- City of Pontevedra, Spain. Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
-- City of Oslo, Norway. Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)
+- City of Pontevedra, Spain. (n.d.). Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
+- City of Oslo, Norway. (n.d.). Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)

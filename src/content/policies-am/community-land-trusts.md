@@ -69,3 +69,10 @@ Champlain Housing Trust በ Burlington, VT ከ1984 ጀምሮ ከ2,800 በላይ 
 
 **"ሁሉንም ትርፍ ማቆየት ካልቻሉ ይህ በእርግጥ የቤት ባለቤትነት ነውን?"**
 ቤትዎን ባለቤት ነዎት። ፍትሃዊነትን ይገነባሉ። ነገር ግን ከሱ በታች ባለው መሬት ላይ ግምት ውስጥ ማስገባት አይችሉም። የንግድ ልውውጡ፡ ወደ ውስጥ ሲገቡ ተመጣጣኝ ዋጋ ከፍለዋል። ቀጣዩ ቤተሰብ ተመሳሳይ ዕድል ይገባዋል። ይህ ቤቶችን ለሚፈልጉ ሰዎች የቤት ባለቤትነት ነው፣ ለኢንቨስትመንት ተሽከርካሪዎች ለሚፈልጉ ሰዎች አይደለም።
+
+## ማጣቀሻዎች
+
+- Champlain Housing Trust. (n.d.). _About CHT_. Retrieved May 2026, from https://www.getahome.org
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing need estimates_. https://www.denvergov.org/host
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, including remarks by Mayor Mike Johnston on Denver's affordable-housing pace]. https://www.coloradopolitics.com
+- Elevation Community Land Trust. (n.d.). _Our homes_. Retrieved May 2026, from https://www.elevationclt.org

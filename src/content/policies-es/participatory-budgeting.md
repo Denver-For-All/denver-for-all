@@ -118,10 +118,11 @@ Los programas de PB que funcionan utilizan la asignación ponderada por equidad:
 
 ## Referencias
 
-- División de Elecciones de Denver. (2023). Datos de participación en las elecciones municipales. (38% de participación).
-- Presupuesto Anual de la Ciudad de Denver. (2024). Cifras del presupuesto total y del presupuesto de capital.
-- Sintomer, Y., et al. (2012). "Presupuestación Participativa en Todo el Mundo". Estudio para la Agencia Federal Alemana para la Educación Cívica. (Datos de más de 7,000 ciudades).
-- Cabannes, Y. (2004). "La presupuestación participativa: una contribución significativa a la democracia participativa". Medio Ambiente y Urbanización. (Resultados de Porto Alegre).
-- PBNYC (Presupuestación Participativa de la Ciudad de Nueva York). Informes anuales y datos de participación.
-- Farrell, D., et al. (2019). "Mini-Públicos Deliberativos: Características Clave del Diseño". Centro para la Democracia Deliberativa y la Gobernanza Global. (Diseño de la asamblea ciudadana).
-- Asamblea Ciudadana Irlandesa. Informes sobre la Octava Enmienda (2017) y la Igualdad Matrimonial (2014).
+- Denver Elections Division. (2023). Municipal election turnout data. (38% turnout.)
+- City of Denver Annual Budget. (2024). Total budget and capital budget figures.
+- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
+- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
+- PBNYC (Participatory Budgeting New York City). (n.d.). Annual reports and participation data.
+- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
+- Citizens' Assembly (Ireland). (2017). _First report and recommendations of the Citizens' Assembly: The Eighth Amendment of the Constitution_.
+- Convention on the Constitution (Ireland). (2014). _Report on marriage equality_.

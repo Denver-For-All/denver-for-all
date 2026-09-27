@@ -112,17 +112,17 @@ Denver花费了$13亿用于I-70高速公路的扩建，该高速公路穿过其�
 
 ## 参考文献
 
-- Mapping Inequality Project, University of Richmond. (1938/2023). HOLC Redlining Maps for Denver, Colorado. 对Five Points、Curtis Park、Whittier和Cole的D级指定。
-- Federal Reserve Board. (2022). Survey of Consumer Finances. 按种族划分的家庭财富中位数。
-- Prosperity Now Scorecard. (2023). 按都会区划分的种族财富差距数据。
-- U.S. Census Bureau. (2020). American Community Survey, Denver. 隔离指数、隔离和收入数据。
-- Colorado Health Institute. (2022). Life expectancy by Denver neighborhood. 最高和最低社区之间的11年差距。
+- Mapping Inequality Project, University of Richmond. (n.d.). (1938/2023). HOLC Redlining Maps for Denver, Colorado. Grade D designations for Five Points, Curtis Park, Whittier, and Cole.
+- Federal Reserve Board. (2022). Survey of Consumer Finances. Median household wealth by race.
+- Prosperity Now Scorecard. (2023). Racial wealth gap data by metro area.
+- U.S. Census Bureau. (2020). American Community Survey, Denver. Dissimilarity index, segregation, and income data.
+- Colorado Health Institute. (2022). Life expectancy by Denver neighborhood. 11-year gap between highest and lowest neighborhoods.
 - Denver Department of Public Health and Environment. (2023). Blood lead level data for Globeville-Elyria-Swansea.
-- City of Evanston. (2025). Reparations program disbursement data. 向132名接受者支付$620万。
-- Evanston RoundTable. (2025). "Reparations Committee Finalizes 2025 Grant Recipients." 45名祖先和后代，每人$25,000。
-- City of Asheville. (2022-2025). 赔偿委员会建议：有保障的收入和由黑人领导的经济发展中心。
-- San Francisco Board of Supervisors. (2025). 赔偿基金条例（11票赞成，0票反对）。
-- Denver Public Library, Western History Collection. Auraria城市更新和Skyline城市更新项目文件。
-- Federal Highway Administration. I-70 East Environmental Impact Statement. Globeville-Elyria-Swansea的社区影响文件。
-- EPA. ASARCO Globeville超级基金站点记录。
-- Rocky Flats Right to Know Act. 国会倡导和独立的污染研究。
+- City of Evanston. (2025). Reparations program disbursement data. $6.2 million to 132 recipients.
+- Evanston RoundTable. (2025). "Reparations Committee Finalizes 2025 Grant Recipients." 45 ancestors and descendants, $25,000 each.
+- City of Asheville. (2022-2025). Reparations Commission recommendations: guaranteed income and Black-led Economic Development Center.
+- San Francisco Board of Supervisors. (2025). Reparations fund ordinance (11-0 vote).
+- Denver Public Library, Western History Collection. (n.d.). Auraria urban renewal and Skyline Urban Renewal Project documentation.
+- Federal Highway Administration. (n.d.). I-70 East Environmental Impact Statement. Community impact documentation for Globeville-Elyria-Swansea.
+- EPA. (n.d.). ASARCO Superfund site records for Globeville.
+- Rocky Flats Right to Know Act. (n.d.). Congressional advocacy and independent contamination studies.

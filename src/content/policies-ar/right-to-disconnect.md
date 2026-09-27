@@ -93,8 +93,8 @@
 
 ## المراجع
 
-- OECD، مؤشر _ساعات العمل_ (data.oecd.org)، 2023
-- فرنسا، _قانون العمل_، المادة L2242-17 (الحق في عدم الاتصال، صدر عام 2017)
-- Autonomy Research، _النتائج في: التجربة البريطانية لأربعة أيام في الأسبوع_، 2023
-- أيسلندا، _رابطة الاستدامة والديمقراطية (ALDA)_، "الخروج إلى العلن: رحلة أيسلندا نحو أسبوع عمل أقصر"، 2021
-- مايكروسوفت اليابان، نتائج _تحدي اختيار التوازن بين العمل والحياة صيف 2019_
+- OECD. (2023). _Hours Worked_ indicator (data.oecd.org).
+- France. (n.d.). _Code du travail_, Article L2242-17. (Right to Disconnect, enacted 2017)
+- Autonomy Research. (2023). _The Results Are In: The UK's Four-Day Week Pilot_.
+- Iceland. (2021). _Association for Sustainability and Democracy (ALDA)_, "Going Public: Iceland's Journey to a Shorter Working Week,"
+- Microsoft Japan. (n.d.). _Work-Life Choice Challenge Summer 2019_ results.

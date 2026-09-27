@@ -235,7 +235,7 @@ Waste management is a core municipal function. Denver controls residential colle
 - Conservation Colorado. (2020). "Mapping for Environmental Justice in Globeville, Elyria-Swansea." Legacy contamination and brownfield data.
 - Denver Post. (2025). "Denver could use disposable bag fee revenue for Waste No More." $6.2M total bag fee revenue; 5 million fewer bags per year.
 - Colorado DPHE. (2024). Producer Responsibility Program (HB 22-1355) implementation plan. Recycling targets: 41% by 2030, 55% by 2035.
-- Eco-Cycle. "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
+- Eco-Cycle. (n.d.). "Jobs and Economic Benefits of Zero Waste." Recycling creates 9x more jobs than landfilling per ton of material.
 - Denver Water. (2023). Climate Adaptation Plan. Supply projections and conservation targets for Denver's water system.
-- Colorado General Assembly. SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
+- Colorado General Assembly. (n.d.). SB 13-181. Greywater reuse authorization. HB 16-1005. Residential rainwater collection legalization.
 - World Economic Forum. (2025). "8 Trends in Urban Housing, Transportation, and Climate Resilience." Cities scaling greywater reuse and circular water systems.

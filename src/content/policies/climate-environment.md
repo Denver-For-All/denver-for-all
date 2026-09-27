@@ -264,12 +264,12 @@ Colorado's energy transition is already happening. The question is whether displ
 - Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
 - Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
 - Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
-- NREL (National Renewable Energy Laboratory). Solar resource data for Denver, CO.
-- Rocky Flats Downwinders. Community health data and independent sampling results.
-- DOE Office of Legacy Management. Rocky Flats Site annual surveillance and maintenance reports.
-- IRENA (International Renewable Energy Agency). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
-- EPA. Denver Metro/North Front Range ozone non-attainment area designation and classification.
-- NOAA Earth System Research Laboratories. Front Range methane and VOC emission studies.
-- Colorado State University. DJ Basin air quality research and monitoring data.
-- South Coast Air Quality Management District (Los Angeles). Historical ozone trend data. (75%+ reduction over 30 years.)
-- Suncor Energy. Commerce City refinery compliance history and community health impact data.
+- NREL (National Renewable Energy Laboratory). (n.d.). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. (n.d.). Community health data and independent sampling results.
+- DOE Office of Legacy Management. (n.d.). Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). (n.d.). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
+- EPA. (n.d.). Denver Metro/North Front Range ozone non-attainment area designation and classification.
+- NOAA Earth System Research Laboratories. (n.d.). Front Range methane and VOC emission studies.
+- Colorado State University. (n.d.). DJ Basin air quality research and monitoring data.
+- South Coast Air Quality Management District (Los Angeles). (n.d.). Historical ozone trend data. (75%+ reduction over 30 years.)
+- Suncor Energy. (n.d.). Commerce City refinery compliance history and community health impact data.

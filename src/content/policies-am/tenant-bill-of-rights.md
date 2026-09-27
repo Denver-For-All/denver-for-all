@@ -108,3 +108,12 @@
 
 **"አከራዮች መጥፎ ተከራዮችን ማስለቀቅ መቻል አለባቸው።"**
 በዚህ ረቂቅ ውስጥ ምንም ነገር በተገቢው ምክንያት መፈናቀልን አይከለክልም - ክፍያ አለመክፈል (ከማስተካከያ ጊዜ ጋር)፣ የሊዝ ጥሰቶች፣ የወንጀል ድርጊት። የሚከለክለው ግን ምክንያታዊ ያልሆነ መፈናቀልን፣ የበቀል መፈናቀልን እና ያለ እርዳታ ያለ በቂ ምክንያት መፈናቀልን ነው።
+
+## ማጣቀሻዎች
+
+- Colo. Rev. Stat. § 13-40-104.
+- Colorado General Assembly. (2026). _2026 regular session tenant-protection bills (HB26-1106, HB26-1047, HB26-1013)_. https://leg.colorado.gov
+- Colorado Judicial Branch. (2025). _Eviction filings dashboard (SB24-064)_ [Data set]. https://www.coloradojudicial.gov
+- Eviction Lab. (n.d.). _Denver, CO eviction tracking_. Princeton University. Retrieved May 2026, from https://evictionlab.org
+- National Coalition for a Civil Right to Counsel. (2022). _The right to counsel in eviction proceedings_. https://civilrighttocounsel.org
+- New York City Office of Civil Justice. (2023). _Universal access to legal services: Annual report_. https://www.nyc.gov/hra

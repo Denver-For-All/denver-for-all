@@ -103,11 +103,24 @@ El fracaso de NuScale fue específico e instructivo. El Xe-100 es un tipo de rea
 
 ## Referencias
 
-- Asamblea General de Colorado. (2025). HB25-1040: Clasificar la Energía Nuclear como Energía Limpia.
-- Administración de Información Energética de EE.UU. (2024). Perfil Eléctrico del Estado de Colorado.
-- Colorado Sun. (2025). "Xcel tiene $22 mil millones en demandas de energía de centros de datos."
-- X-energy. (2025). Especificaciones del reactor Xe-100.
-- Sociedad Nuclear Americana. (2025). "El aeropuerto de Denver podría optar por energía nuclear."
-- Clean Air Task Force. (2023). "Lecciones aprendidas del proyecto NuScale-UAMPS cancelado."
-- Power Magazine. (2025). "Centrus completa entrega de 900 kg de HALEU al DOE."
-- Departamento de Energía de EE.UU. Programa de Disponibilidad de HALEU.
+- Colorado General Assembly. (2025). HB25-1040: Classify Nuclear Energy as Clean Energy. Signed by Governor Polis, April 2025.
+- U.S. Energy Information Administration. (2024). Colorado State Electricity Profile. (46% natural gas, 30% wind, 8% solar generation mix, 2023.)
+- U.S. Energy Information Administration. (2024). Electric Power Monthly. (Nuclear capacity factor 93.1%, wind 34.6%, solar 24.9%, 2023.)
+- Colorado Sun. (2025, August 18). "Xcel has $22 billion in data center power demands." (5.8 GW pending applications, 8.5 GW projected by 2040.)
+- Colorado Sun. (2025, December 10). "Data center power demands in Colorado."
+- X-energy. (2025). Xe-100 reactor specifications. (80 MWe per module, 200 MWt, helium-cooled HTGR, TRISO pebble fuel, 60-year design life.)
+- American Nuclear Society. (2025, August 7). "Denver airport may go nuclear." (DIA $1.25M SMR feasibility study RFP.)
+- Denver7. (2025). "After pushback, Denver International Airport temporarily grounds plan to study nuclear energy."
+- Clean Air Task Force. (2023, November). "Lessons learned from the recently cancelled NuScale-UAMPS project." (Cost escalation from $5.3B to $9.3B, 26% subscription rate.)
+- IEEFA. (2023). "Eye-popping new cost estimates released for NuScale small modular reactor." ($20,139/kW cost, $89/MWh target price.)
+- Power Magazine. (2025). "Centrus completes 900-kg HALEU delivery to DOE." (Domestic HALEU production milestone.)
+- Nusano. (2025, June). "Breakthrough HALEU program expected to produce up to 350 metric tons annually." (Q4 2026 initial production, 2029 full-scale target.)
+- U.S. Department of Energy. (2026, January). $2.7 billion commitment for domestic uranium enrichment expansion.
+- U.S. Department of Energy. (n.d.). HALEU Availability Program. ($700M IRA funding for domestic HALEU supply chain.)
+- World Nuclear Association. (2025). "Small Modular Reactors." (SMR LCOE range $50-100/MWh, capacity factor data.)
+- ScienceDirect. (2023). "Techno-economic analysis of advanced small modular nuclear reactors." (Gas-cooled SMR LCOE estimated at $81.5/MWh.)
+- CPR News. (2025, April 1). "Nuclear is now 'clean energy' in Colorado."
+- Amazon/X-energy. (2024). $500M investment announcement. Energy Northwest partnership for 320 MW initial Xe-100 deployment.
+- Dow Chemical / X-energy. (n.d.). ARDP demonstration project at Seadrift, TX. (First Xe-100 commercial deployment.)
+- American Public Power Association. (2024). Municipal utility performance data.
+- Colorado PUC. (2025). Xcel Energy reliability performance briefing. (352 min average outage, 2024.)

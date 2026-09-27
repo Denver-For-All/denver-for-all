@@ -108,11 +108,11 @@
 
 ## المراجع
 
-- Trust for Public Land. (2025). ParkScore Index: Denver, CO. النتيجة: 75.1/100، المرتبة الوطنية: 10. 97% من السكان على بعد 10 دقائق سيرًا على الأقدام من حديقة. 229 دولارًا للفرد الواحد للإنفاق على الحدائق.
-- Sasaki / Denver Parks & Recreation. (2019). الخطة الرئيسية للمدينة الصحية. خطة رئيسية شاملة للحدائق مع تحليل حقوق الملكية وإطار عمل للاستثمار.
-- Denver Parks & Recreation. (2025). ميزانية الإدارة: 97.3 مليون دولار من الصندوق العام. يشتمل النظام على أكثر من 250 حديقة حضرية و30 مركزًا ترفيهيًا و32 مسبحًا و14000 فدان من الحدائق الجبلية.
-- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. تم توثيق التفاوتات في الوصول إلى الحدائق على طول خطوط الدخل والعرق في دنفر.
-- Denver Urban Gardens. (2024). شبكة تضم أكثر من 200 حديقة مجتمعية و24 غابة غذائية في جميع أنحاء مترو دنفر. أكبر شبكة حدائق مستقلة منتجة للأغذية في الولايات المتحدة.
-- Great Outdoors Colorado (GOCO). (2024). أكبر دورة تمويل على الإطلاق: أكثر من 117 مليون دولار على مستوى الولاية. يتضمن 7 ملايين دولار لتحسينات High Line Canal في مترو دنفر.
-- Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." تحليل استخدام الأراضي التمييزي وسياسات التمويل.
-- Colorado State Forest Service. (2024). منح استعادة الغابات وتخفيف مخاطر حرائق الغابات: تم منح 7.04 مليون دولار لـ 37 مشروعًا في 26 مقاطعة، بما في ذلك المقاطعات التي تحتوي على الحدائق الجبلية في دنفر.
+- Trust for Public Land. (2025). ParkScore Index: Denver, CO. Score: 75.1/100, national rank: 10th. 97% of residents within a 10-minute walk of a park. $229 per capita park spending.
+- Sasaki / Denver Parks & Recreation. (2019). Game Plan for a Healthy City. Comprehensive parks master plan with equity analysis and investment framework.
+- Denver Parks & Recreation. (2025). Department budget: $97.3M general fund. System includes 250+ urban parks, 30 recreation centers, 32 pools, 14,000 acres of mountain parks.
+- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. Documented park access disparities along income and racial lines in Denver.
+- Denver Urban Gardens. (2024). Network of 200+ community gardens and 24 food forests across metro Denver. Largest independent food-producing garden network in the U.S.
+- Great Outdoors Colorado (GOCO). (2024). Largest-ever funding cycle: $117M+ statewide. Includes $7M for High Line Canal improvements in Denver metro.
+- Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." Analysis of discriminatory land use and funding policies.
+- Colorado State Forest Service. (2024). Forest Restoration and Wildfire Risk Mitigation grants: $7.04M awarded to 37 projects in 26 counties, including counties containing Denver's mountain parks.

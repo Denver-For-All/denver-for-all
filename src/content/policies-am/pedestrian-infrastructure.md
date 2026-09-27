@@ -112,3 +112,19 @@
 | **ኦስሎ፣ ኖርዌይ**         | ቪዥን ዜሮን በአካላዊ መሰረተ ልማት በመጠቀም ተግባራዊ አደረገች፡ በከተማው መሃል የመኪና ማቆሚያ አስወገደች፣ መንገዶችን አጠበበች፣ ቦላርዶችን ጫነች እና መገናኛዎችን ለእግረኞች ቅድሚያ በሚሰጥ መልኩ ገነባች።                                                           | በ2019 የትኛውም እግረኛ እና የብስክሌት ነጂ አልሞተም - በ700,000 ነዋሪዎች ከተማ። ይህ የተገኘው በንድፍ እንጂ በህግ ማስከበር አይደለም።                                       |
 | **ቶኪዮ፣ ጃፓን**          | የመኖሪያ ጎዳናዎች "የመኖሪያ ዞኖች" ናቸው በሰዓት 30 ኪ.ሜ የፍጥነት ገደብ ያላቸው፣ መኪኖች በንድፍ እና በህግ ለእግረኞች ስለሚሰጡ የእግረኛ መንገድ መለያየት አያስፈልግም። የደም ቧንቧ መንገዶች ሰፋፊ፣ በደንብ የተጠበቁ የእግረኛ መንገዶች እና ለዕይታቸው የተጎዱ እግረኞች የሚዳሰስ ንጣፍ አላቸው። | ከማንኛውም ትልቅ ከተማ ዝቅተኛው የእግረኞች ሞት መጠን አንዱ ነው። በጃፓን በ1965 የተፈለሰፈው የሚዳሰስ ንጣፍ በአሁኑ ጊዜ በዓለም ዙሪያ መደበኛ ነው።                                  |
 | **ዴንቨር፣ ዩኤስኤ (የአሁኑ)** | 43% የእግረኛ መንገዶች የጠፉ ወይም ጉድለት ያለባቸው ናቸው (1,480 ማይል)። 34% በቂ ያልሆነ ስፋት ያላቸው፣ 9% የጠፉ ናቸው። 54% የሚሆኑት የትራንዚት ማቆሚያዎች በ2 ደቂቃ የእግር ጉዞ ውስጥ የጠፉ የእግረኛ መንገዶች አሏቸው። የHIN ጎዳናዎች 50% የሚሆነውን ገዳይ አደጋ           |
+
+## ማጣቀሻዎች
+
+- City and County of Denver, DOTI. (2026, January 22). Denver Sidewalk Implementation Plan: State of the System Report. (3,140 miles total; ~1,162 miles / 34% deficient width; 318 miles / 9% missing; ~1,480 miles / 43% total missing or deficient; 1,233 blocks / 5% needing repair. Equity areas: 153 mi missing, 624 mi deficient. 54% of transit stops with missing sidewalk within 2-min walk. HIN: 50% of fatal crashes on 5% of streets.)
+- Denver Streets Partnership. (2022). Denver Deserves Sidewalks campaign materials. (400+ years to complete network at prior funding levels; low-income neighborhoods 2x pedestrian fatality rate.)
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. ("Decades behind schedule and was not designed for ADA compliance.")
+- City and County of Denver. (2025). Vision Zero Dashboard. (93 traffic deaths in 2025; 35 pedestrians, 34% increase over 2024; pedestrians 30x more likely to die than motorists.)
+- CBS Colorado. (2025). "Sidewalk relief coming soon to Denver neighborhoods, set to begin with $75 million contracts." ($25M Milender White, $50M SEMA; $97.5M expected in fee revenue over 3 years.)
+- AAA Foundation for Traffic Safety. (2024). "Pedestrians in Disadvantaged Neighborhoods More Likely to Die in Car Crashes."
+- Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (Less than 5% of housing stock accessible to wheelchair users.)
+- ScienceDirect. (2024). "Complete streets meet fragmented policies: Sidewalks in 30 U.S. cities." (San Francisco, Denver, and Austin only top-30 cities with "equitable" sidewalk policies.)
+- Denver Gazette / City of Denver. (2022). Measure 307 (Ordinance 307) and Denver Deserves Sidewalks ordinance. ($150/year fee; NEST discount; income-based rebates.)
+- City and County of Denver, City Council. (2024, September). Ordinance 1076-24. (Established the sidewalk service charge and Sidewalk Enterprise Fund; fee collection began January 2025; impact fees for >230 linear feet of frontage; overrode 2007 sidewalk exemptions.)
+- City and County of Denver. (2050). Denver Moves Everyone 2050 (strategic transportation plan); Complete Streets Guidelines (2020); Denver Moves: Pedestrians and Trails (2019); Transportation Standards and Details (2017). (Guiding plans referenced in the SIP.)
+- City of Pontevedra, Spain. (n.d.). Urban pedestrianization results. (Zero pedestrian deaths since 2011.)
+- City of Oslo, Norway. (n.d.). Vision Zero implementation. (Zero pedestrian and cyclist deaths in 2019.)

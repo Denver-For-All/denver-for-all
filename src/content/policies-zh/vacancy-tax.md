@@ -81,3 +81,11 @@
 
 **“这会伤害那些正在装修的人。”**
 持有有效许可证的12个月装修豁免涵盖了合法的装修。如果您的“装修”耗时3年且没有许可证，那么这不是装修，而是投机。
+
+## 参考文献
+
+- City of Vancouver. (2023). _Empty Homes Tax annual report_. https://vancouver.ca/home-property-development/empty-homes-tax.aspx
+- Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
+- Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- U.S. Census Bureau. (2024). _Selected housing characteristics: Rental vacancy rate_ [American Community Survey estimates, Denver-Aurora-Lakewood, CO metro area]. https://data.census.gov

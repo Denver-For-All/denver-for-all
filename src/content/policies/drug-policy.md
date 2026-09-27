@@ -203,13 +203,13 @@ Studies from Vancouver's Insite (operating since 2003), Sydney's MSIC, and Europ
 ## References
 
 - Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
-- 9News. (December 2025). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
-- CDC WONDER Database. Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
 - SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
 - Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
-- Swiss Federal Office of Public Health. Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
 - Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
-- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). Annual European Drug Report. (EU comparative data.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
 - National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
 - Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
-- NIDA (National Institute on Drug Abuse). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

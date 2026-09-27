@@ -81,3 +81,11 @@
 
 **"ይህ እድሳት የሚያደርጉ ሰዎችን ይጎዳል።"**
 ትክክለኛ ፈቃዶች ያሉት የ12 ወራት የእድሳት ነፃነት ህጋዊ እድሳትን ይሸፍናል። የእርስዎ "እድሳት" ያለ ፈቃድ 3 ዓመታት ከወሰደ, እድሳት አይደለም - ግምት ነው.
+
+## ማጣቀሻዎች
+
+- City of Vancouver. (2023). _Empty Homes Tax annual report_. https://vancouver.ca/home-property-development/empty-homes-tax.aspx
+- Colo. Const. art. X, § 20 (Taxpayer's Bill of Rights).
+- Colorado General Assembly. (2026). _HB26-1036: Local taxes on vacant residential property_. https://leg.colorado.gov/bills/hb26-1036
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- U.S. Census Bureau. (2024). _Selected housing characteristics: Rental vacancy rate_ [American Community Survey estimates, Denver-Aurora-Lakewood, CO metro area]. https://data.census.gov

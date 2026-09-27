@@ -108,8 +108,11 @@
 
 ## ማጣቀሻዎች
 
-- ትረስት ፎር ፐብሊክ ላንድ (Trust for Public Land)። (2025)። የፓርክ ስኮር መረጃ ጠቋሚ፡ ዴንቨር፣ CO። ነጥብ፡ 75.1/100፣ ብሔራዊ ደረጃ፡ 10ኛ። 97% ነዋሪዎች በ10 ደቂቃ የእግር መንገድ ውስጥ መናፈሻ ይደርሳሉ። በነፍስ ወከፍ የመናፈሻ ወጪ $229 ዶላር።
-- ሳሳኪ / ዴንቨር ፓርኮች እና መዝናኛዎች (Sasaki / Denver Parks & Recreation)። (2019)። ለጤናማ ከተማ የጨዋታ እቅድ (Game Plan for a Healthy City)። የፍትሃዊነት ትንተና እና የኢንቨስትመንት ማዕቀፍ ያለው አጠቃላይ የመናፈሻ ዋና እቅድ።
-- ዴንቨር ፓርኮች እና መዝናኛዎች (Denver Parks & Recreation)። (2025)። የመምሪያ በጀት፡ $97.3M አጠቃላይ ፈንድ። ሲስተሙ ከ250 በላይ የከተማ መናፈሻዎች፣ 30 የመዝናኛ ማዕከላት፣ 32 ገንዳዎች፣ 14,000 ኤከር የተራራ መናፈሻዎችን ያካትታል።
-- ሪጎሎን፣ ኤ. እና ፍሎህር፣ ቲ. (2018)። ለወጣቶች መናፈሻዎች መዳረሻ እንደ የአካባቢ ፍትህ ጉዳይ (Access to parks for youth as an environmental justice issue)። _PLOS ONE_. በዴንቨር የገቢ እና የዘር መስመሮች ላይ የተመሰረቱ የመናፈሻ ተደራሽነት ልዩነቶችን መዝግቧል።
-- ዴንቨር የከተማ የአትክልት ስፍራዎች (Denver Urban Gardens)። (2024)። በሜትሮ ዴንቨር ከ200 በላይ የማህበረሰብ የአትክልት ስፍራዎች እና 24 የምግብ ደኖች አሉት። በአሜሪካ ውስጥ ትልቁ ገለልተኛ የምግብ አምራች የአትክልት አውታ
+- Trust for Public Land. (2025). ParkScore Index: Denver, CO. Score: 75.1/100, national rank: 10th. 97% of residents within a 10-minute walk of a park. $229 per capita park spending.
+- Sasaki / Denver Parks & Recreation. (2019). Game Plan for a Healthy City. Comprehensive parks master plan with equity analysis and investment framework.
+- Denver Parks & Recreation. (2025). Department budget: $97.3M general fund. System includes 250+ urban parks, 30 recreation centers, 32 pools, 14,000 acres of mountain parks.
+- Rigolon, A. & Flohr, T. (2018). Access to parks for youth as an environmental justice issue. _PLOS ONE_. Documented park access disparities along income and racial lines in Denver.
+- Denver Urban Gardens. (2024). Network of 200+ community gardens and 24 food forests across metro Denver. Largest independent food-producing garden network in the U.S.
+- Great Outdoors Colorado (GOCO). (2024). Largest-ever funding cycle: $117M+ statewide. Includes $7M for High Line Canal improvements in Denver metro.
+- Colorado Trust / Collective Colorado. (2019). "Unequal Access to Parks in Denver Has Roots in History." Analysis of discriminatory land use and funding policies.
+- Colorado State Forest Service. (2024). Forest Restoration and Wildfire Risk Mitigation grants: $7.04M awarded to 37 projects in 26 counties, including counties containing Denver's mountain parks.

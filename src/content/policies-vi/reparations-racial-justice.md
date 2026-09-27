@@ -112,17 +112,17 @@ Denver đã chi $1,3 tỷ đô la cho việc mở rộng đường I-70 thông q
 
 ## Tài Liệu Tham Khảo
 
-- Dự án Mapping Inequality, Đại học Richmond. (1938/2023). Bản đồ phân tuyến nhà ở HOLC cho Denver, Colorado. Chỉ định Hạng D cho Five Points, Curtis Park, Whittier và Cole.
-- Hội đồng Dự trữ Liên bang. (2022). Khảo sát Tài chính Người tiêu dùng. Tài sản hộ gia đình trung bình theo chủng tộc.
-- Bảng điểm Thịnh vượng Hiện tại. (2023). Dữ liệu về khoảng cách giàu nghèo theo chủng tộc theo khu vực đô thị.
-- Cục Điều tra Dân số Hoa Kỳ. (2020). Khảo sát Cộng đồng Hoa Kỳ, Denver. Chỉ số bất tương đồng, phân biệt đối xử và dữ liệu thu nhập.
-- Viện Y tế Colorado. (2022). Tuổi thọ theo khu dân cư ở Denver. Khoảng cách 11 năm giữa các khu dân cư cao nhất và thấp nhất.
-- Sở Y tế và Môi trường Công cộng Denver. (2023). Dữ liệu về nồng độ chì trong máu cho Globeville-Elyria-Swansea.
-- Thành phố Evanston. (2025). Dữ liệu giải ngân chương trình bồi thường. $6,2 triệu cho 132 người nhận.
-- Evanston RoundTable. (2025). "Ủy ban Bồi thường Hoàn thiện Người nhận Trợ cấp Năm 2025." 45 tổ tiên và hậu duệ, mỗi người $25.000.
-- Thành phố Asheville. (2022-2025). Các khuyến nghị của Ủy ban Bồi thường: thu nhập đảm bảo và Trung tâm Phát triển Kinh tế do người Da đen lãnh đạo.
-- Hội đồng Giám sát San Francisco. (2025). Pháp lệnh về quỹ bồi thường (bỏ phiếu 11-0).
-- Thư viện Công cộng Denver, Bộ sưu tập Lịch sử Miền Tây. Tài liệu về đô thị hóa Auraria và Dự án Đô thị hóa Skyline.
-- Cục Quản lý Đường cao tốc Liên bang. Báo cáo Đánh giá Tác động Môi trường Đường I-70 East. Tài liệu về tác động cộng đồng cho Globeville-Elyria-Swansea.
-- EPA. Hồ sơ địa điểm Superfund ASARCO cho Globeville.
-- Đạo luật Quyền được Biết về Rocky Flats. Vận động Quốc hội và các nghiên cứu ô nhiễm độc lập.
+- Mapping Inequality Project, University of Richmond. (n.d.). (1938/2023). HOLC Redlining Maps for Denver, Colorado. Grade D designations for Five Points, Curtis Park, Whittier, and Cole.
+- Federal Reserve Board. (2022). Survey of Consumer Finances. Median household wealth by race.
+- Prosperity Now Scorecard. (2023). Racial wealth gap data by metro area.
+- U.S. Census Bureau. (2020). American Community Survey, Denver. Dissimilarity index, segregation, and income data.
+- Colorado Health Institute. (2022). Life expectancy by Denver neighborhood. 11-year gap between highest and lowest neighborhoods.
+- Denver Department of Public Health and Environment. (2023). Blood lead level data for Globeville-Elyria-Swansea.
+- City of Evanston. (2025). Reparations program disbursement data. $6.2 million to 132 recipients.
+- Evanston RoundTable. (2025). "Reparations Committee Finalizes 2025 Grant Recipients." 45 ancestors and descendants, $25,000 each.
+- City of Asheville. (2022-2025). Reparations Commission recommendations: guaranteed income and Black-led Economic Development Center.
+- San Francisco Board of Supervisors. (2025). Reparations fund ordinance (11-0 vote).
+- Denver Public Library, Western History Collection. (n.d.). Auraria urban renewal and Skyline Urban Renewal Project documentation.
+- Federal Highway Administration. (n.d.). I-70 East Environmental Impact Statement. Community impact documentation for Globeville-Elyria-Swansea.
+- EPA. (n.d.). ASARCO Superfund site records for Globeville.
+- Rocky Flats Right to Know Act. (n.d.). Congressional advocacy and independent contamination studies.

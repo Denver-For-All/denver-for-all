@@ -215,9 +215,9 @@ FAMLI provides 12 weeks at 90% pay - a meaningful improvement over nothing. But 
 
 ## References
 
-- Colorado Revised Statutes, Section 8-13.3-501 et seq. (FAMLI Act)
-- Colorado FAMLI Division, _Program Implementation Report_, 2024
-- Colorado Healthy Families and Workplaces Act (HFWA), C.R.S. 8-13.3-401 et seq.
-- Swedish Social Insurance Agency (_Forsakringskassan_), _Parental Leave Statistics_, 2023
-- OECD, _Family Database: Parental Leave Systems_, 2023
-- Norway Ministry of Labour and Social Inclusion, _Parental Leave Regulations_, 2023
+- Colo. Rev. Stat. § 8-13.3-501 et seq. (Paid Family and Medical Leave Insurance Act).
+- Colorado FAMLI Division. (2024). _Program Implementation Report_.
+- Colo. Rev. Stat. § 8-13.3-401 et seq. (Healthy Families and Workplaces Act).
+- Swedish Social Insurance Agency (_Forsakringskassan_). (2023). _Parental Leave Statistics_.
+- OECD. (2023). _Family Database: Parental Leave Systems_.
+- Norway Ministry of Labour and Social Inclusion. (2023). _Parental Leave Regulations_.

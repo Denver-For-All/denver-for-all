@@ -83,11 +83,17 @@ Los ahorros son sustanciales: cada nueva unidad a precio de mercado construida s
 
 ## Referencias
 
-- Denver Community Planning and Development. _Blueprint Denver._ 2019.
-- Asamblea General de Colorado. HB23-1255, _Accessory Dwelling Units._ 2023.
-- Asamblea General de Colorado. HB24-1313, _Transit-Oriented Communities._ 2024.
-- Greenaway-McGrevy, R. y Phillips, P. _Housing Affordability in Auckland._ Universidad de Auckland, 2023.
-- Harding, R. _Why Tokyo is the model for housing affordability._ Financial Times, 2022.
-- Mast, E. _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics, 2021.
-- Universidad de Minnesota. _Minneapolis 2040 - Rent and Housing Supply Outcomes._ 2024.
-- Oficina del Censo de EE. UU., Encuesta sobre la Comunidad Estadounidense. _Denver Housing Tenure Data._ 2023.
+- Apartment Association of Metro Denver. (2026). _Vacancy and Rent Report (Q1 2026)._.
+- Denver Community Planning and Development. (2019). _Blueprint Denver._.
+- RentCafe. (2026). _Average Rent in Denver, CO_ [Yardi Matrix market-trends data].
+- Colorado General Assembly. (2023). HB23-1255, _Accessory Dwelling Units._.
+- Colorado General Assembly. (2024). HB24-1313, _Transit-Oriented Communities._.
+- Greenaway-McGrevy, R. & Phillips, P. (2023). _Housing Affordability in Auckland._ University of Auckland.
+- Harding, R. (2022). _Why Tokyo is the model for housing affordability._ Financial Times.
+- Manville, M., et al. (2023). _The Effect of California's SB 9 on Housing Supply._ UCLA Lewis Center.
+- Mast, E. (2021). _JUE Insight: The Effect of New Market-Rate Housing Construction on the Low-Income Housing Market._ Journal of Urban Economics.
+- Rosenthal, S. (2014). _Are Private Markets and Filtering a Viable Source of Low-Income Housing?_ American Economic Review.
+- Sightline Institute. (2023). _Oregon's Middle Housing Law: Year Two Update._.
+- University of Minnesota. (2024). _Minneapolis 2040 - Rent and Housing Supply Outcomes._.
+- U.S. Census Bureau, American Community Survey. (2023). _Denver Housing Tenure Data._.
+- Victoria Transport Policy Institute / Parking Reform Network. (2023). _Parking Cost and Reform Analysis._.

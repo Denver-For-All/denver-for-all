@@ -204,7 +204,7 @@ The Credential Recognition Office will use established international evaluation 
 ## References
 
 - Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
-- Colorado HB 23-1224. Credential Recognition Study Act.
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
 - Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
 - BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
 - Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)

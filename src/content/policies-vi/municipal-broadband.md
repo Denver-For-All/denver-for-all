@@ -103,10 +103,10 @@ Mạng lưới cáp quang của Longmont đã có lợi nhuận trong vòng 5 n�
 
 ## Tài Liệu Tham Khảo
 
-- Biện Pháp Trưng Cầu 2J của Denver (2018). 85,34% phiếu bầu có. (Bộ phận Bầu cử Denver.)
-- Colorado SB 05-152. (Hạn chế cấp tiểu bang trước đây đối với băng thông rộng do thành phố quản lý, yêu cầu bỏ phiếu địa phương để chọn không tham gia.)
-- NextLight (Longmont, CO). Báo cáo thường niên và báo cáo tài chính. (Có lợi nhuận trong vòng 5 năm, mức độ hài lòng trên 90%.)
-- Connexion của Fort Collins. Báo cáo hoạt động. (Chi tiêu phản đối của Comcast: Hồ sơ tài chính chiến dịch của Fort Collins.)
-- ACSI (Chỉ số Hài lòng của Khách hàng Hoa Kỳ). Báo cáo viễn thông hàng năm. (Comcast là ISP lớn được đánh giá thấp nhất.)
-- Báo cáo Triển khai Băng thông rộng của FCC. (Dữ liệu về tốc độ và tính khả dụng.)
-- Viện Tự lực Địa phương. Cơ sở dữ liệu "Mạng lưới Băng thông rộng Cộng đồng". (Hơn 900 mạng lưới băng thông rộng do thành phố quản lý trên toàn quốc.)
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

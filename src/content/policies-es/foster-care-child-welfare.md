@@ -104,11 +104,11 @@ Los ahorros son reales pero en su mayoría posteriores: cada joven que sale del 
 ## Referencias
 
 - Child and Adolescent Social Work Journal. (2022). _Racial matching in foster care placements and subsequent placement stability: A national study_. https://link.springer.com
-- Child Welfare League of America. (s.f.). _Caseload and workload standards_. https://www.cwla.org/our-work/practice-excellence-center/workforce-2/caseload-workload/
-- Colorado Department of Human Services. (s.f.). _Child welfare_ [Resumen del programa supervisado por el estado y administrado por los condados]. https://cdhs.colorado.gov/child-welfare
-- Colorado Department of Human Services. (2020). _Child welfare caseload funding ratio_ [10 casos por trabajador]. https://cdhs.colorado.gov
+- Child Welfare League of America. (n.d.). _Caseload and workload standards_. https://www.cwla.org/our-work/practice-excellence-center/workforce-2/caseload-workload/
+- Colorado Department of Human Services. (n.d.). _Child welfare_ [State-supervised, county-administered program overview]. https://cdhs.colorado.gov/child-welfare
+- Colorado Department of Human Services. (2020). _Child welfare caseload funding ratio_ [10 cases per worker]. https://cdhs.colorado.gov
 - Family First Prevention Services Act of 2018, Pub. L. No. 115-123, Div. E, Title VII. https://www.congress.gov
-- Juvenile Law Center. (s.f.). _Extended foster care in Colorado_ [Programa voluntario de transición hasta los 21 años]. https://jlc.org/issues/extended-foster-care/colorado
-- National Youth in Transition Database analysis. (2022). _Homelessness among youth aging out of foster care_ [Análisis de datos]. https://youth.gov
+- Juvenile Law Center. (n.d.). _Extended foster care in Colorado_ [Voluntary transition program to age 21]. https://jlc.org/issues/extended-foster-care/colorado
+- National Youth in Transition Database analysis. (2022). _Homelessness among youth aging out of foster care_ [Data analysis]. https://youth.gov
 - Prospective NYTD analysis. (2025). _From foster care to incarceration: A prospective analysis of the National Youth in Transition Database. Child Abuse & Neglect_. https://www.sciencedirect.com
-- Washington State Department of Children, Youth & Families. (2022). _Child outcomes in kinship care_ [Informe de investigación]. https://www.dcyf.wa.gov
+- Washington State Department of Children, Youth & Families. (2022). _Child outcomes in kinship care_ [Research brief]. https://www.dcyf.wa.gov

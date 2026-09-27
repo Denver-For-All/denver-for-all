@@ -261,6 +261,6 @@ No. This is about whether your lights stay on. Whether a family with a child on 
 - Denver7. (2025). "Colorado lawmakers bombard Xcel Energy President with questions, concerns about Public Safety Power Shutoffs."
 - American Public Power Association. (2024). Annual directory and statistical report. (2,000+ municipal utilities serving 49 million Americans.)
 - Denver City Council. (2025). File #25-0922, Xcel Energy franchise agreement proceedings.
-- City of Longmont. Longmont Power & Communications annual reports.
-- Colorado Springs Utilities. Annual performance and customer satisfaction reports.
-- Sacramento Municipal Utility District (SMUD). Rate comparison data and annual reports.
+- City of Longmont. (n.d.). Longmont Power & Communications annual reports.
+- Colorado Springs Utilities. (n.d.). Annual performance and customer satisfaction reports.
+- Sacramento Municipal Utility District (SMUD). (n.d.). Rate comparison data and annual reports.

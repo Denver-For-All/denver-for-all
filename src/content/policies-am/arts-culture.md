@@ -98,3 +98,14 @@
 
 **"ዴንቨር አስቀድሞ SCFD አላት"**
 SCFD ወሳኝ የገንዘብ ምንጭ ነው ($85 ሚሊዮን በ2024)፣ ነገር ግን በዋናነት ትልልቅ ተቋማትን ይደግፋል። የመጀመሪያ ደረጃ ድርጅቶች (መካነ እንስሳት፣ የሥነ ጥበብ ሙዚየም፣ የተፈጥሮ እና የሳይንስ ሙዚየም፣ የእጽዋት አትክልት ስፍራዎች፣ DCPA) ከጠቅላ
+
+## ማጣቀሻዎች
+
+- Colorado Business Committee for the Arts (CBCA). (2024). Economic Activity Study of Metro Denver Culture. $3.12 billion in economic activity, 14,466 jobs, $692 million in cultural tourism, 14.52 million attendance.
+- Scientific and Cultural Facilities District (SCFD). (2024). Annual Report. $85 million distributed to 300+ organizations across seven counties.
+- Denver Arts & Venues. (2024). Denver Creates Cultural Plan. Ten-year strategic plan built on 2,500+ community voices.
+- Denver Public Art Program. (2023). Program overview. 1% for art on city CIP since 1991, $40M+ generated, 400+ works, 55% by Colorado artists.
+- Colorado Office of Economic Development and International Trade (OEDIT). (2024). Colorado Creative Industries data. $19.7 billion statewide creative economy impact, 121,000+ jobs, state ranking of 39th in per capita arts funding.
+- SMU DataArts. (2024). Arts Vibrancy Index. Denver ranked 18th among large communities.
+- Bonfils-Stanton Foundation. (2020). "Ghosts of a City: How Denver's Housing Crisis is Driving Out its Artists."
+- Westword. (2024). Denver music and arts coverage, including venue closures, SCFD distribution analysis, and Denver Creates reporting.

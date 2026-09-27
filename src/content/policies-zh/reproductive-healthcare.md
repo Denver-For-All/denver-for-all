@@ -139,28 +139,28 @@
 
 ## 参考文献
 
-- Dobbs v. Jackson Women's Health Organization, 597 U.S. \_\_\_ (2022)。（推翻了 Roe v. Wade 案；将堕胎监管权归还给各州。）
-- 古特马赫研究所。(2026)。“没有 Roe 的堕胎政策。”州与州之间的交互式跟踪器。（截至 2026 年，有 21 个州颁布了禁令或实施了严格的限制。）
-- 古特马赫研究所。(2023)。“每月堕胎供应研究。”（63% 的美国堕胎是使用米非司酮的药物流产。）
-- 古特马赫研究所。(2022)。“Dobbs 案后堕胎患者旅行变化情况的州级估计。”（预计前往保护州的患者将增加 10-25%。）
-- 古特马赫研究所。(2015)。“公共资助的避孕服务：成本和成本节约。”（投资于避孕服务的每 $1 美元可节省 $7.09 美元；意外妊娠的年度费用为 $210 亿美元。）
-- 科罗拉多州州务卿。(2024)。第 79 号修正案：“堕胎权和健康保险承保。”于 2024 年 11 月获得批准，支持率为 61.6%。于 2026 年 1 月 1 日生效。
-- 科罗拉多州议会。SB 25-183 法案：“医疗补助下的生殖保健承保。”于 2025 年签署。扩大了医疗补助的承保范围，将堕胎纳入“与计划生育相关的服务”。
-- 科罗拉多州议会。SB 23-188 法案和 SB 25-129 法案：科罗拉多州保护法，保护生殖保健服务提供者免受外州法律诉讼。
-- Cobalt 倡导者。(2026)。关于第 79 号修正案实施情况的新闻发布会。引用于 KGNU Morning Magazine，2026 年 2 月 2 日。（“我们的成功将通过我们的结果来衡量，而不是我们的意图……科罗拉多州可能会创造出一种患者实际上无法使用的合法权利。”）
-- 布鲁金斯学会。(2016)。“意外妊娠的经济后果。”（与生殖保健预防和干预相比，足月分娩的意外妊娠给医疗保健、教育和社会服务部门造成的成本更高。）
-- Hassan, A. (2026)。“将人身自主权作为公共卫生要务。”公共卫生学院系列讲座。（将人身自主权作为健康公平和自决的基础。）
-- Jones, R.K., et al. (2022)。“现在，药物流产占美国所有堕胎的一半以上。”古特马赫研究所。（药物流产的安全性、有效性和普及性。）
-- Moseson, H., et al. (2020)。“寻求生殖护理的跨性别者和非二元性别者的经历。”妇产科，136(6): 1203-1211。（妊娠和生殖保健期间的性别相关歧视。）
-- Raymond, E.G. & Grimes, D.A. (2012)。“美国合法诱导堕胎与分娩的比较安全性。”妇产科，119(2): 215-219。（合法堕胎比分娩安全 14 倍。）
-- 国家科学、工程和医学院。(2018)。“美国的堕胎护理安全和质量。”（综合审查发现堕胎是安全的；限制并不能提高安全性。）
-- 世界卫生组织。(2022)。“堕胎护理指南。”（世卫组织建议消除安全堕胎的所有政策障碍；全额公共资助；远程医疗供应。）
-- 科罗拉多州公共卫生和环境部。(2023)。终止妊娠报告。（外州患者百分比；按年份统计的堕胎总数。）
-- 美国堕胎联合会。(2024)。暴力和破坏统计数据。（65% 的科罗拉多州服务提供者报告说，他们在 2023-2024 年期间发生了擅自闯入事件；53% 的服务提供者报告说，他们受到了反堕胎抗议者的骚扰。）
-- 落基山脉计划生育协会。(2024)。Dobbs 后的容量报告。（等待时间数据：妊娠早期 22 天，妊娠中期 41 天；Dobbs 之前的基线。）
-- 科罗拉多州立法委员会工作人员。(2025)。SB 25-183 法案财政说明。（$590 万美元的成本；因避免生育节省 $640 万美元；每年净节省 $55 万美元；$290 万美元的一般基金拨款。）
-- 科罗拉多州议会。HB 22-1279 法案：“生殖健康公平法案。”（禁止否认、限制或歧视堕胎的权利。州法律不承认独立的胎儿权利。）
-- 科罗拉多州议会。SB 23-189 法案：“生殖保健承保。”（商业保险必须在没有费用分摊的情况下承保堕胎和性传播感染服务。）
-- 医疗补助服务提供者费率审查咨询委员会。(2025)。建议将服务提供者费率维持在 Medicare 基准的 80-100%。
-- Axios 丹佛。(2023)。“丹佛健康中心首次在医院历史上提供堕胎服务。”（丹佛健康中心于 2023 年 11 月开始提供选择性堕胎。）
-- 美国妇产科杂志 (AJOG)。(2025)。Dobbs 案后，外州居民前往科罗拉多州的可能性高 2.14 倍；SB 8 法案后，德克萨斯州居民的可能性高 7 倍。
+- Dobbs v. Jackson Women's Health Organization, 597 U.S. \_\_\_ (2022). (Overturned Roe v. Wade; returned abortion regulation to states.)
+- Guttmacher Institute. (2026). "Abortion Policy in the Absence of Roe." Interactive state-by-state tracker. (21 states with bans or severe restrictions as of 2026.)
+- Guttmacher Institute. (2023). "Monthly Abortion Provision Study." (63% of US abortions are medication abortions using mifepristone.)
+- Guttmacher Institute. (2022). "State-level estimates of changes in abortion patient travel following Dobbs." (Projected 10-25% increase in patients traveling to protective states.)
+- Guttmacher Institute. (2015). "Publicly Funded Contraceptive Services: Costs and Cost Savings." ($7.09 saved per $1 invested in contraceptive services; $21 billion annual cost of unintended pregnancies.)
+- Colorado Secretary of State. (2024). Amendment 79: "Right to Abortion and Health Insurance Coverage." Approved November 2024 with 61.6% support. Effective January 1, 2026.
+- Colorado General Assembly. (2025). SB 25-183: "Reproductive Health Care Coverage Under Medicaid." Signed 2025. Expands Medicaid coverage to include abortion as "family-planning-related services."
+- Colorado General Assembly. (n.d.). SB 23-188 and SB 25-129: Colorado shield laws protecting reproductive healthcare providers from out-of-state legal action.
+- Cobalt Advocates. (2026). Press briefing on Amendment 79 implementation. Cited in KGNU Morning Magazine, February 2, 2026. ("Our success is going to be measured by our outcomes, not our intent... Colorado risks creating a legal right that patients cannot practically use.")
+- Brookings Institution. (2016). "The Economic Consequences of Unintended Pregnancy." (Unintended pregnancies carried to term have higher costs across healthcare, education, and social services.)
+- Hassan, A. (2026). "Bodily Autonomy as a Public Health Imperative." School of Public Health lecture series. (Bodily autonomy as foundational to health equity and self-determination.)
+- Jones, R.K., et al. (2022). "Medication Abortion Now Accounts for More Than Half of All US Abortions." Guttmacher Institute. (Safety, efficacy, and prevalence of medication abortion.)
+- Moseson, H., et al. (2020). "Experiences of transgender and nonbinary individuals seeking reproductive care." Obstetrics & Gynecology, 136(6): 1203-1211. (Gender-related discrimination during pregnancy and reproductive healthcare.)
+- Raymond, E.G. & Grimes, D.A. (2012). "The Comparative Safety of Legal Induced Abortion and Childbirth in the United States." Obstetrics & Gynecology, 119(2): 215-219. (Legal abortion is 14 times safer than childbirth.)
+- National Academies of Sciences, Engineering, and Medicine. (2018). "The Safety and Quality of Abortion Care in the United States." (Comprehensive review finding abortion is safe; restrictions do not improve safety.)
+- World Health Organization. (2022). "Abortion Care Guideline." (WHO recommends removing all policy barriers to safe abortion; full public funding; telehealth provision.)
+- Colorado Department of Public Health and Environment. (2023). Induced Termination of Pregnancy Reports. (Out-of-state patient percentages; total abortion counts by year.)
+- National Abortion Federation. (2024). Violence and Disruption Statistics. (65% of Colorado providers reported trespassing in 2023-2024; 53% reported anti-abortion protesters.)
+- Planned Parenthood of the Rocky Mountains. (2024). Post-Dobbs capacity reports. (Wait time data: first-trimester 22 days, second-trimester 41 days; pre-Dobbs baselines.)
+- Colorado Legislative Council Staff. (2025). SB 25-183 Fiscal Note. ($5.9M costs; $6.4M savings from averted births; net savings $550K/year; $2.9M general fund appropriation.)
+- Colorado General Assembly. (n.d.). HB 22-1279: "Reproductive Health Equity Act." (Prohibits denying, restricting, or discriminating against the right to have an abortion. No independent fetal rights under state law.)
+- Colorado General Assembly. (n.d.). SB 23-189: "Reproductive Health Care Coverage." (Commercial insurance must cover abortion and STI services without cost-sharing.)
+- Medicaid Provider Rate Review Advisory Committee. (2025). Recommended maintaining provider rates at 80-100% of Medicare benchmarks.
+- Axios Denver. (2023). "Denver Health is offering abortions for first time in hospital history." (Denver Health began elective abortions November 2023.)
+- American Journal of Obstetrics & Gynecology (AJOG). (2025). Out-of-state residents 2.14x more likely to travel to Colorado post-Dobbs; Texas residents 7x more likely post-SB 8.

@@ -95,11 +95,11 @@ ADA设定了法律底线，而不是宜居性标准。丹佛市审计长2020年�
 
 ## 参考文献
 
-- 美国人口普查局。(2023). 美国社区调查5年估算数据（2019-2023年）：丹佛县人口统计、年龄分布和残疾状况。
-- 科罗拉多州人口统计办公室。(2022). 人口预测：到2030年，65岁以上人口增长36%（新增317,000名老年人），65岁以上人群占全州人口增长的50%以上。
-- 丹佛市审计长办公室。(2020). 邻里 sidewalk 维修计划审计：发现该计划落后于计划数十年，并且并非为ADA合规而设计，第一个区域中有80%的 sidewalk 需要维修。
-- Genworth/CareScout。(2024). 护理费用调查：科罗拉多州长期护理费用超过全国平均水平，辅助生活平均每月$5,073，家庭保健助理每小时$33.50。
-- 科罗拉多州健康研究所。(2023). 科罗拉多州健康访问调查：丹佛县的残疾、老龄脆弱性评分和医疗保健访问数据。
-- America's Health Rankings。(2024). 老年人报告：65岁以上成年人的社会隔离风险因素，包括贫困、独居、残疾和在科罗拉多州独立生活困难。
-- RTD-Denver。(2024). Access-a-Ride和Access-on-Demand计划数据：Access-on-Demand每月乘车次数超过70,000次；APTA辅助客运同行评审报告。
-- National Low Income Housing Coalition。(2025). 科罗拉多州住房概况：住房成本负担数据、经济适用房短缺超过10万套以及住房工资计算。
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County demographics, age distribution, and disability status.
+- Colorado State Demography Office. (2022). Population Projections: 65+ population growth of 36% (317,000 additional older adults) projected by 2030, with over 50% of state population growth in the 65+ cohort.
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program: Found program decades behind schedule and not designed for ADA compliance, with 80% of sidewalks in the first region requiring repairs.
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado long-term care costs exceeding national averages, with assisted living averaging $5,073/month and home health aides at $33.50/hour.
+- Colorado Health Institute. (2023). Colorado Health Access Survey: Disability, aging vulnerability scores, and healthcare access data for Denver County.
+- America's Health Rankings. (2024). Senior Report: Social isolation risk factors among adults 65+, including poverty, living alone, disability, and independent living difficulty in Colorado.
+- RTD-Denver. (2024). Access-a-Ride and Access-on-Demand program data: Over 70,000 monthly rides on Access-on-Demand; APTA Paratransit Peer Review report.
+- National Low Income Housing Coalition. (2025). Colorado Housing Profile: Housing cost burden data, affordable housing shortage of 100,000+ units, and Housing Wage calculations.

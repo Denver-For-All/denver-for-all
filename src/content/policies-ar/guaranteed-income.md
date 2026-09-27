@@ -111,13 +111,13 @@
 
 ## المراجع
 
-- Smart Cities Dive. (2025). "150 مدينة اختبرت الدخل المضمون. إليك ما نجح - وما لم ينجح." تحليل إجمالي للبرامج التجريبية للدخل المضمون في الولايات المتحدة.
-- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "تظهر عشرون دراسة للدخل المضمون زيادة في التوظيف واستقرارًا ماليًا أفضل وفوائد رئيسية أخرى." تحليل تلوي لـ 20 تقييمًا تمت مراجعته من قبل الزملاء.
-- Stanford Basic Income Lab. (2025). لوحة معلومات البرامج التجريبية للدخل المضمون. 57 تجربة جارية؛ أكثر من 150 إجمالاً.
-- University of Kansas. (2025). تقييم برنامج Boulder التجريبي للدخل المضمون. 200 من السكان، $500 شهريًا، نتائج توظيف مختلطة، نتائج احتياجات أساسية إيجابية.
-- Baltimore Mayor's Office. (2025). "التقرير النهائي لصندوق نجاح الأسر الشابة." 200 من الآباء الشباب، $1,000 شهريًا، 24 شهرًا. استمرار الفوائد المالية بعد انتهاء المدفوعات.
-- Washington University in St. Louis. (2025). "برنامج الدخل الأساسي المضمون في St. Louis يحسن الاستقرار المالي." ارتفعت الدرجات الائتمانية بمتوسط 12 نقطة؛ انخفاض انعدام الأمن الغذائي.
-- City of Newark. (2025). "العمدة Baraka يعلن عن نتائج البرنامج التجريبي للدخل المضمون." 400 من السكان؛ تحسين القدرة على التكيف المالي والأمن السكني/الغذائي والصحة النفسية.
-- Cook County, IL. (2025). أول مقاطعة في الولايات المتحدة تؤسس تمويلًا دائمًا للدخل المضمون بعد برنامج تجريبي بقيمة 42 مليون دولار يخدم 3,250 من السكان.
-- World Bank. (2014). Evans, D.K. and Popova, A. "التحويلات النقدية وسلع الإغراء: مراجعة للأدلة العالمية." خفضت التحويلات النقدية أو لم يكن لها أي تأثير على الإنفاق على الكحول/التبغ في 19 من 19 دراسة.
-- U.S. Census Bureau. (2023). المسح المجتمعي الأمريكي، Denver-Aurora-Lakewood MSA. معدل الفقر وتوزيع الدخل وبيانات عبء التكلفة.
+- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Aggregate analysis of US guaranteed income pilots.
+- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Meta-analysis of 20 peer-reviewed evaluations.
+- Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 ongoing experiments; 150+ total.
+- University of Kansas. (2025). Boulder guaranteed income pilot evaluation. 200 residents, $500/month, mixed employment results, positive basic needs outcomes.
+- Baltimore Mayor's Office. (2025). "Young Families Success Fund Final Report." 200 young parents, $1,000/month, 24 months. Sustained financial benefits after payments ended.
+- Washington University in St. Louis. (2025). "St. Louis Guaranteed Basic Income Pilot Improved Financial Stability." Credit scores increased average 12 points; reduced food insecurity.
+- City of Newark. (2025). "Mayor Baraka Announces Guaranteed Income Pilot Results." 400 residents; improved financial resilience, housing/food security, mental health.
+- Cook County, IL. (2025). First US county to establish permanent guaranteed income funding after $42M pilot serving 3,250 residents.
+- World Bank. (2014). Evans, D.K. and Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." Cash transfers reduced or had no effect on alcohol/tobacco spending in 19 of 19 studies.
+- U.S. Census Bureau. (2023). American Community Survey, Denver-Aurora-Lakewood MSA. Poverty rate, income distribution, and cost burden data.

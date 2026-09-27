@@ -118,10 +118,11 @@
 
 ## ማጣቀሻዎች
 
-- Denver Elections Division. (2023). የማዘጋጃ ቤት ምርጫ ተሳትፎ መረጃ። (38% ተሳትፎ።)
-- City of Denver Annual Budget. (2024). ጠቅላላ በጀት እና የካፒታል በጀት አሃዞች።
-- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ የከተማ መረጃ።)
-- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (የፖርቶ አሌግሬ ውጤቶች።)
-- PBNYC (Participatory Budgeting New York City). ዓመታዊ ሪፖርቶች እና የተሳትፎ መረጃ።
-- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (የዜጎች ጉባኤ ንድፍ።)
-- Irish Citizens' Assembly. Reports on the Eighth Amendment (2017) and Marriage Equality (2014).
+- Denver Elections Division. (2023). Municipal election turnout data. (38% turnout.)
+- City of Denver Annual Budget. (2024). Total budget and capital budget figures.
+- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
+- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
+- PBNYC (Participatory Budgeting New York City). (n.d.). Annual reports and participation data.
+- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
+- Citizens' Assembly (Ireland). (2017). _First report and recommendations of the Citizens' Assembly: The Eighth Amendment of the Constitution_.
+- Convention on the Constitution (Ireland). (2014). _Report on marriage equality_.

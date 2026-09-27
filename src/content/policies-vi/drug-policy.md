@@ -117,13 +117,14 @@ Các nghiên cứu từ Insite của Vancouver (hoạt động từ năm 2003), 
 
 ## Tài Liệu Tham Khảo
 
-- Văn Phòng Giám Định Y Khoa Denver. (2024). Báo Cáo Hàng Năm: Tử Vong Do Ngộ Độc Thuốc Vô Ý Tại Thành Phố và Quận Denver, 2023.
-- Cơ Sở Dữ Liệu CDC WONDER. Số Lượng Tử Vong Do Dùng Thuốc Quá Liều Tạm Thời. (Fentanyl là nguyên nhân gây tử vong hàng đầu ở độ tuổi 18-45.)
-- SICAD (Bồ Đào Nha). (2023). Báo Cáo Hàng Năm về Sử Dụng Ma Túy và Các Vấn Đề Liên Quan Đến Ma Túy. (Kết quả giảm tội của Bồ Đào Nha.)
-- Potier, C., et al. (2014). "Các dịch vụ tiêm chích được giám sát: những gì đã được chứng minh?" Drug and Alcohol Dependence, 145, 48-68. (Không có ca tử vong nào tại các địa điểm tiêu thụ được giám sát; 75 nghiên cứu đã được xem xét.)
-- Văn Phòng Y Tế Công Cộng Liên Bang Thụy Sĩ. Các báo cáo đánh giá điều trị hỗ trợ heroin. (Kết quả HAT của Thụy Sĩ.)
-- Cơ Quan Y Tế Oregon. (2023). Báo Cáo Thực Hiện Biện Pháp 110. (Số liệu giải ngân 10% quỹ.)
-- EMCDDA (Trung Tâm Giám Sát Ma Túy và Nghiện Ma Túy Châu Âu). Báo Cáo Ma Túy Châu Âu Hàng Năm. (Dữ liệu so sánh của EU.)
-- Trung Tâm Tình Báo Ma Túy Quốc Gia. (2011). Tác Động Kinh Tế của Việc Sử Dụng Ma Túy Bất Hợp Pháp đối với Xã Hội Mỹ. (Ước tính chi phí $193 tỷ/năm; hơn $1 nghìn tỷ tích lũy.)
-- Vera Institute of Justice. (2022). Giá Của Nhà Tù: Đo Lường Chi Phí Thuế Của Việc Giam Giữ Tại Địa Phương. (Chi phí giam giữ hơn $40 nghìn/năm.)
-- NIDA (Viện Quốc Gia về Lạm Dụng Ma Túy). Dữ liệu về hiệu quả chi phí điều trị. (Chi phí điều trị $4-8 nghìn/năm.)
+- Denver Office of the Medical Examiner. (2024). Annual Report: Unintentional Drug Poisoning Deaths in the City and County of Denver, 2023.
+- 9News. (2025, December). "Overdose deaths in Denver are climbing again, topping 2024 numbers." (483 deaths in 2024; 598 in 2023.)
+- CDC WONDER Database. (n.d.). Provisional Drug Overdose Death Counts. (Fentanyl as leading cause of death ages 18-45.)
+- SICAD (Portugal). (2023). Annual Report on Drug Use and Drug-Related Problems. (Portugal decriminalization outcomes.)
+- Potier, C., et al. (2014). "Supervised injection services: what has been demonstrated?" Drug and Alcohol Dependence, 145, 48-68. (Zero deaths in supervised consumption sites; 75 studies reviewed.)
+- Swiss Federal Office of Public Health. (n.d.). Heroin-assisted treatment evaluation reports. (Switzerland HAT outcomes.)
+- Oregon Health Authority. (2023). Measure 110 Implementation Report. (10% fund disbursement figure.)
+- EMCDDA (European Monitoring Centre for Drugs and Drug Addiction). (n.d.). Annual European Drug Report. (EU comparative data.)
+- National Drug Intelligence Center. (2011). The Economic Impact of Illicit Drug Use on American Society. ($193B/year cost estimate; $1T+ cumulative.)
+- Vera Institute of Justice. (2022). The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration. ($40K+/year incarceration cost.)
+- NIDA (National Institute on Drug Abuse). (n.d.). Treatment cost-effectiveness data. ($4-8K/year treatment cost.)

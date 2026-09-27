@@ -141,17 +141,17 @@ Las víctimas merecen justicia. La justicia no se sirve con un sistema que produ
 
 ## Referencias
 
-- Colorado Public Radio. (17 de febrero de 2026). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
-- Constitución de Colorado, Artículo II, Sección 26 (modificada por la Enmienda A, 2018). "Nunca habrá en este estado ni esclavitud ni servidumbre involuntaria".
-- Secretario de Estado de Colorado. (2018). Resultados Oficiales de la Elección: Enmienda A. (65% de aprobación.)
-- ACLU. (2022). _Trabajo Cautivo: Explotación de Trabajadores Encarcelados._ (Datos nacionales sobre el trabajo penitenciario; salarios promedio de $0.13-$0.52/hora; más de 800,000 trabajadores encarcelados; más de $11 mil millones de valor anual).
-- ACLU. (2022). Datos salariales a nivel estatal: salarios de los trabajadores encarcelados de Colorado $0.33-$1.61/hora.
-- Woodruff, C. (2025). "El juicio de Colorado sobre el trabajo penitenciario forzado comienza en Denver". _Colorado Newsline_, 7 de octubre de 2025. (Cobertura del juicio _Mortis v. Polis_; citas de la presentación de CDOC; testimonio de la manifestación).
-- _Mortis v. Polis_, Tribunal de Distrito de Denver. (2022). Respuesta del Estado a la Demanda de los Demandantes. ("Los privilegios de la prisión son solo eso - privilegios").
-- Pew Charitable Trusts. (2018). _Dinero y Movilidad: Resultados Financieros para Personas Encarceladas._ (Ahorros al salir y reducción de la reincidencia).
-- Servicio Penitenciario Noruego. Estadísticas de reincidencia. (Tasa de reincidencia del 20%; modelo de trabajo penitenciario voluntario y compensado).
-- Oficina Federal de Estadística Alemana. Datos sobre la reincidencia y la compensación del trabajo penitenciario. (35-40% de reincidencia).
-- Vera Institute of Justice. (2022). _El Precio de las Cárceles: Medición del Costo para el Contribuyente del Encarcelamiento Local._ (Costo de encarcelamiento de $40-60K/año).
-- Campaña End Slavery Colorado. Materiales de campaña y promoción. (Historia de organización de la Enmienda A.)
-- Towards Justice. _Mortis v. Polis_ materiales del caso y declaraciones públicas. (David Seligman, director ejecutivo.)
-- World Prison Brief. Comparaciones internacionales de tasas de encarcelamiento.
+- Colorado Public Radio. (2026, February 17). "Judge rules Department of Corrections violated the state constitution by forcing inmates to work." https://www.cpr.org/2026/02/17/colorado-department-of-corrections-violated-state-constitution-forcing-inmates-to-work/
+- Colo. Const. art. II, § 26 (as amended by Amendment A, 2018). "There shall never be in this state either slavery or involuntary servitude."
+- Colorado Secretary of State. (2018). Official Election Results: Amendment A. (65% approval.)
+- ACLU. (2022). _Captive Labor: Exploitation of Incarcerated Workers._ (National prison labor data; $0.13-$0.52/hr average wages; 800,000+ incarcerated workers; $11B+ annual value.)
+- ACLU. (2022). State-level wage data: Colorado incarcerated worker wages $0.33-$1.61/hr.
+- Woodruff, C. (2025). "Colorado trial over coerced prison labor begins in Denver." _Colorado Newsline_, October 7, 2025. (_Mortis v. Polis_ trial coverage; CDOC filing quotes; rally testimony.)
+- _Mortis v. Polis_, Denver District Court. (2022). State's Response to Plaintiffs' Complaint. ("Prison privileges are just that - privileges.")
+- Pew Charitable Trusts. (2018). _Money and Mobility: Financial Outcomes for Incarcerated People._ (Savings at release and recidivism reduction.)
+- Norwegian Correctional Service. (n.d.). Recidivism statistics. (20% recidivism rate; voluntary compensated prison labor model.)
+- German Federal Statistical Office. (n.d.). Recidivism and prison labor compensation data. (35-40% recidivism.)
+- Vera Institute of Justice. (2022). _The Price of Jails: Measuring the Taxpayer Cost of Local Incarceration._ ($40-60K/year incarceration cost.)
+- End Slavery Colorado campaign. (n.d.). Campaign and advocacy materials. (Amendment A organizing history.)
+- Towards Justice. (n.d.). _Mortis v. Polis_ case materials and public statements. (David Seligman, executive director.)
+- World Prison Brief. (n.d.). International incarceration rate comparisons.

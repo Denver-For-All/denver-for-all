@@ -95,11 +95,11 @@ Trực tiếp. Hơn một phần ba số người cao niên Colorado thuê nhà 
 
 ## Tài Liệu Tham Khảo
 
-- Cục Thống Kê Dân Số Hoa Kỳ. (2023). American Community Survey 5-Year Estimates (2019-2023): Nhân khẩu học Quận Denver, phân bố độ tuổi và tình trạng khuyết tật.
-- Văn Phòng Thống Kê Dân Số Tiểu Bang Colorado. (2022). Population Projections: Tăng trưởng dân số từ 65 tuổi trở lên là 36% (thêm 317.000 người lớn tuổi) được dự kiến vào năm 2030, với hơn 50% tăng trưởng dân số của tiểu bang trong nhóm từ 65 tuổi trở lên.
-- Văn Phòng Kiểm Toán Viên Denver. (2020). Audit of the Neighborhood Sidewalk Repair Program: Chương trình được tìm thấy chậm tiến độ hàng thập kỷ và không được thiết kế để tuân thủ ADA, với 80% vỉa hè trong khu vực đầu tiên cần sửa chữa.
-- Genworth/CareScout. (2024). Cost of Care Survey: Chi phí chăm sóc dài hạn của Colorado vượt quá mức trung bình của quốc gia, với chi phí trung bình cho viện dưỡng lão là $5.073/tháng và người phụ tá chăm sóc sức khỏe tại nhà là $33,50/giờ.
-- Viện Y Tế Colorado. (2023). Colorado Health Access Survey: Khuyết tật, điểm dễ bị tổn thương do lão hóa và dữ liệu tiếp cận dịch vụ chăm sóc sức khỏe cho Quận Denver.
-- America's Health Rankings. (2024). Senior Report: Các yếu tố rủi ro cô lập xã hội ở người lớn từ 65 tuổi trở lên, bao gồm nghèo đói, sống một mình, khuyết tật và khó khăn trong cuộc sống độc lập ở Colorado.
-- RTD-Denver. (2024). Access-a-Ride and Access-on-Demand program data: Hơn 70.000 chuyến đi hàng tháng trên Access-on-Demand; Báo cáo APTA Paratransit Peer Review.
-- National Low Income Housing Coalition. (2025). Colorado Housing Profile: Dữ liệu gánh nặng chi phí nhà ở, tình trạng thiếu nhà ở giá cả phải chăng hơn 100.000 căn và tính toán Tiền Lương Nhà Ở.
+- U.S. Census Bureau. (2023). American Community Survey 5-Year Estimates (2019-2023): Denver County demographics, age distribution, and disability status.
+- Colorado State Demography Office. (2022). Population Projections: 65+ population growth of 36% (317,000 additional older adults) projected by 2030, with over 50% of state population growth in the 65+ cohort.
+- Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program: Found program decades behind schedule and not designed for ADA compliance, with 80% of sidewalks in the first region requiring repairs.
+- Genworth/CareScout. (2024). Cost of Care Survey: Colorado long-term care costs exceeding national averages, with assisted living averaging $5,073/month and home health aides at $33.50/hour.
+- Colorado Health Institute. (2023). Colorado Health Access Survey: Disability, aging vulnerability scores, and healthcare access data for Denver County.
+- America's Health Rankings. (2024). Senior Report: Social isolation risk factors among adults 65+, including poverty, living alone, disability, and independent living difficulty in Colorado.
+- RTD-Denver. (2024). Access-a-Ride and Access-on-Demand program data: Over 70,000 monthly rides on Access-on-Demand; APTA Paratransit Peer Review report.
+- National Low Income Housing Coalition. (2025). Colorado Housing Profile: Housing cost burden data, affordable housing shortage of 100,000+ units, and Housing Wage calculations.

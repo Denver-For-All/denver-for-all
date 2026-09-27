@@ -135,11 +135,11 @@
 
 ## المراجع
 
-- SBA Office of Advocacy. (2023). Small Business Economic Profile: Colorado. 684,726 شركة صغيرة؛ 49.6% من التوظيف الخاص.
-- Colorado Restaurant Association. (2024). Denver restaurant closure data. خسارة صافية قدرها 222 مطعمًا (يوليو 2022-يوليو 2023)؛ 183 عملية إغلاق (يوليو 2023-يوليو 2024).
-- Bisnow. (2024). RiNo retail vacancy and absorption data. معدل التوافر 8.1%؛ امتصاص سلبي 43000 قدم مربع.
-- Civic Economics & Institute for Local Self-Reliance. (2012). Local spending multiplier studies. 52.9% إعادة تدوير محلية (مستقلة) مقابل 13.6% (سلاسل).
-- CLES (Centre for Local Economic Strategies). (2019). The Preston Model: Community Wealth Building in Preston, UK. تم إعادة توجيه 74 مليون جنيه إسترليني محليًا؛ تم إنشاء 4500 وظيفة.
-- Shelterforce / Fifty by Fifty. (2021). Cleveland Evergreen Cooperatives 10-year review. 320 مالكًا عاملاً؛ نموذج مشتريات المؤسسات الأساسية.
-- SBA / Bureau of Labor Statistics. (2024). Small business failure rates: 20% in Year 1, 50% by Year 5. التدفق النقدي والوصول إلى رأس المال كمحركات أساسية للفشل.
-- W.E. Upjohn Institute for Employment Research. Bartik, T. Cost-benefit analysis of targeted local economic development. عائد استثمار بنسبة 22%+ للحوافز التي تركز على الشركات الصغيرة.
+- SBA Office of Advocacy. (2023). Small Business Economic Profile: Colorado. 684,726 small businesses; 49.6% of private employment.
+- Colorado Restaurant Association. (2024). Denver restaurant closure data. Net loss of 222 restaurants (July 2022-July 2023); 183 closures (July 2023-July 2024).
+- Bisnow. (2024). RiNo retail vacancy and absorption data. 8.1% availability rate; 43,000 SF negative absorption.
+- Civic Economics & Institute for Local Self-Reliance. (2012). Local spending multiplier studies. 52.9% local recirculation (independents) vs. 13.6% (chains).
+- CLES (Centre for Local Economic Strategies). (2019). The Preston Model: Community Wealth Building in Preston, UK. £74M redirected locally; 4,500 jobs created.
+- Shelterforce / Fifty by Fifty. (2021). Cleveland Evergreen Cooperatives 10-year review. 320 worker-owners; anchor institution procurement model.
+- SBA / Bureau of Labor Statistics. (2024). Small business failure rates: 20% in Year 1, 50% by Year 5. Cash flow and capital access as primary failure drivers.
+- W.E. Upjohn Institute for Employment Research. (n.d.). Bartik, T. Cost-benefit analysis of targeted local economic development. 22%+ ROI for small business-focused incentives.

@@ -208,10 +208,10 @@ It means disabled people lead disability policy. The Office of Disability Rights
 - Bureau of Labor Statistics. (2024). Persons with a Disability: Labor Force Characteristics. (37.2% employment rate for disabled working-age adults vs. 77.2% for non-disabled; 74 cents on the dollar wage gap.)
 - Ruderman Family Foundation. (2016). "Media Coverage of Law Enforcement Use of Force and Disability." (One-third to one-half of people killed by police are disabled.)
 - Joint Center for Housing Studies of Harvard University. (2019). "Housing America's Older Adults." (<5% of housing stock accessible to wheelchair users; <1% for vision/hearing impairments.)
-- National Association of Home Builders. Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
-- Dartmouth IPS Employment Center. Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
+- National Association of Home Builders. (n.d.). Universal design cost analysis. ($100-$600 per unit in new construction vs. $10,000-$50,000+ for retrofitting.)
+- Dartmouth IPS Employment Center. (n.d.). Individual Placement and Support evidence base. (55-65% competitive employment placement rate vs. 20-25% for traditional vocational rehabilitation.)
 - Genworth/CareScout. (2024). Cost of Care Survey: Colorado. (Nursing home $10,600+/month vs. community-based care $2,000-$4,000/month.)
 - Denver Auditor's Office. (2020). Audit of the Neighborhood Sidewalk Repair Program. (Program "not designed for ADA compliance," decades behind schedule.)
 - RTD-Denver. (2024-2025). Access-a-Ride and Access-on-Demand program data; federal ADA fare lawsuit.
-- Colorado Department of Labor and Employment. Disability employment data. (37.7% vs. 80.0% employment rate.)
-- National Council on Disability. Various reports on community-based living, institutional bias, and disability rights enforcement gaps.
+- Colorado Department of Labor and Employment. (n.d.). Disability employment data. (37.7% vs. 80.0% employment rate.)
+- National Council on Disability. (n.d.). Various reports on community-based living, institutional bias, and disability rights enforcement gaps.

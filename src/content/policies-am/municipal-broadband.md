@@ -103,10 +103,10 @@ Comcast እና CenturyLink ጥሩ እና ተመጣጣኝ አገልግሎት ለ�
 
 ## ማጣቀሻዎች
 
-- Denver የድምጽ መስጫ መለኪያ 2ጄ (2018)። 85.34% የአዎ ድምጽ። (የ Denver ምርጫ ክፍል)።
-- Colorado SB 05-152። (የማዘጋጃ ቤት ብሮድባንድ ላይ የቀድሞው የስቴት ደረጃ ገደብ፣ የአካባቢ ድምጽ መስጫ መውጣትን የሚጠይቅ።)
-- NextLight (Longmont, CO). ዓመታዊ ሪፖርቶች እና የፋይናንስ መግለጫዎች። (በ5 ዓመታት ውስጥ ትርፋማነት፣ 90%+ እርካታ።)
-- Fort Collins Connexion. የአሠራር ሪፖርቶች። (የComcast የተቃውሞ ወጪ፡ Fort Collins የዘመቻ ፋይናንስ መዝገቦች።)
-- ACSI (የአሜሪካ የደንበኞች እርካታ መረጃ ጠቋሚ)። ዓመታዊ የቴሌኮሙኒኬሽን ሪፖርት። (Comcast ዝቅተኛ ደረጃ የተሰጠው ዋና አይኤስፒ።)
-- የ FCC የብሮድባንድ ማስጀመሪያ ሪፖርት። (የፍጥነት እና የተገኝነት መረጃ።)
-- የአካባቢ ራስን መቻል ተቋም. "የማህበረሰብ ብሮድባንድ ኔትወርኮች" ዳታቤዝ። (በሀገር አቀፍ ደረጃ 900+ የማዘጋጃ ቤት ብሮድባንድ ኔትወርኮች።)
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

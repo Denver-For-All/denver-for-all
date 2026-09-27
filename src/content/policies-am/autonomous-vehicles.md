@@ -150,3 +150,23 @@ Waymo በካሊፎርኒያ ጥብቅ የቁጥጥር ማዕቀፍ ውስጥ በ
 - **ገዢው ፖሊስ** HB 25-1122 (የሰው ኦፕሬተር መስፈርት) ቪቶ አድርጓል እና ለተፈቀደው የ AV ፖሊሲ ድጋፍን አመልክቷል። የገዢው ጽ/ቤት የ AV ዝርጋታውን እንደ ኢኮኖሚያዊ እድገት ያቀርባል።
 - **የ Colorado የቴክኖሎጂ ኢንዱስትሪ ሎቢስቶች** ደንብ የ AV ኩባንያዎችን ወደ ሌሎች ግዛቶች እንደሚያሸጋግር ይከራከራሉ። ይህንን የሚቃረነው ከካሊፎርኒያ (በጣም ጥብቅ የቁጥጥር አካባቢ እና ትልቁ የ AV ገበያ) የተገኘው ማስረጃ ነው።
 - **አንዳንድ የከተማ/የቴክኖሎጂ ተሟጋቾች** AVs የመኪና ባለቤትነትን እንደሚቀንስ እና ተንቀሳቃሽነትን እንደሚያሻሽል ይከራከራሉ። ይህ የሚቻል ነው ነገር
+
+## ማጣቀሻዎች
+
+- _Colorado Sun_. (2026, September 1). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
+- Axios Denver. (2026, September 1). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
+- Colorado SB 17-213. (2017). Concerning the Operation of Autonomous Vehicles. (State AV framework; local preemption provisions.)
+- Colorado HB 25-1122. (2025). Concerning Humans Operating Certain Motor Vehicles. (Vetoed by Governor Polis.)
+- California AB 1777. (n.d.). (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)
+- Texas SB 2807. (2025). Relating to the operation of automated motor vehicles. (State authorization, recording devices, first-responder plans.)
+- NYC Taxi & Limousine Commission. (2024). Autonomous Vehicle Testing Rules. (Permitting, safety driver requirement, data reporting.)
+- National Conference of State Legislatures. (2025). Autonomous Vehicles Legislation Database. (State-by-state AV regulatory comparison.)
+- Waymo. (2023). Waymo Safety Report: Collision Comparisons. (Self-reported safety data; 57% fewer injury-causing crashes claim.)
+- San Francisco Municipal Transportation Agency. (2023-2024). AV Incident Reports. (Documented AV interference with emergency responders, traffic obstructions.)
+- Austin Transportation Department. (2025). Autonomous Vehicle Incident Dashboard. (122 documented incidents.)
+- City of Chandler, AZ. (2024). Chandler Flex Microtransit / Waymo Partnership. (Transit integration model; equity pricing.)
+- UC Davis Institute of Transportation Studies. (2020). "Disruptive Transportation: The Adoption, Utilization, and Impacts of Ride-Hailing in the United States." (VMT increase from ride-hailing.)
+- Schaller Consulting. (2018). "The New Automobility: Lyft, Uber and the Future of American Cities." (85% VMT increase estimate.)
+- ACLU of Colorado. (2025). Surveillance technology and AV data privacy concerns. (Flock camera precedent for AV surveillance risks.)
+- European Union. (2022). Regulation 2022/1426. General safety and automated driving systems type-approval framework.
+- Federal AV Accessibility Act (H.R. 7126). (2024). Proposed requirements for AV accessibility for people with disabilities.

@@ -106,11 +106,11 @@ Chính sách này là về thích ứng và chuẩn bị sẵn sàng, không ph�
 
 ## Tài Liệu Tham Khảo
 
-- Ủy ban Kiểm soát Chất lượng Không khí của Colorado DPHE. (2023). Dữ liệu giám sát chất lượng không khí hàng năm.
-- Trust for Public Land. (2023). Lập bản đồ đảo nhiệt đô thị, khu vực đô thị Denver.
-- Lực lượng Đặc nhiệm Hành động Khí hậu Denver. (2020). Các dự báo khí hậu cho khu vực đô thị Denver.
-- FEMA / Viện Khoa học Xây dựng Quốc gia. (2019). Các biện pháp giảm thiểu rủi ro thiên tai giúp tiết kiệm: Báo cáo năm 2019. (1 đô la tiết kiệm được 6 đô la.)
-- Văn phòng Quản lý Khẩn cấp Denver. (2023). Cập nhật Kế hoạch Giảm thiểu Rủi ro Thiên tai.
-- Sở Y tế Công cộng và Môi trường Colorado. (2023). Dữ liệu tử vong liên quan đến nắng nóng.
-- Quỹ Thoát nước Mưa Denver. Báo cáo ngân sách và cơ sở hạ tầng hàng năm.
-- Văn phòng Kế hoạch và Bền vững Portland. Báo cáo chương trình Trung tâm Ứng phó Cộng đồng.
+- Colorado DPHE Air Quality Control Commission. (2023). Annual air quality monitoring data.
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver Climate Action Task Force. (2020). Climate projections for Denver metro area.
+- FEMA / National Institute of Building Sciences. (2019). Natural Hazard Mitigation Saves: 2019 Report. ($1 saves $6.)
+- Denver Office of Emergency Management. (2023). Hazard Mitigation Plan Update.
+- Colorado Department of Public Health and Environment. (2023). Heat-related mortality data.
+- Denver Storm Drainage Fund. (n.d.). Annual budget and infrastructure reports.
+- Portland Bureau of Planning and Sustainability. (n.d.). Community Resilience Hub program reports.

@@ -179,10 +179,10 @@ Yes. In 2018, 85% of Denver voters approved Ballot Measure 2J authorizing munici
 
 ## References
 
-- Denver Ballot Measure 2J (2018). 85.34% yes vote. (Denver Elections Division.)
-- Colorado SB 05-152. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
-- NextLight (Longmont, CO). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
-- Fort Collins Connexion. Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
-- ACSI (American Customer Satisfaction Index). Annual telecommunications report. (Comcast lowest-rated major ISP.)
-- FCC Broadband Deployment Report. (Speed and availability data.)
-- Institute for Local Self-Reliance. "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)
+- Denver Elections Division. (2018). _Ballot Measure 2J official results_. (85.34% yes vote.)
+- Colorado General Assembly. (2005). _SB 05-152: Local government provision of telecommunications services_. (Former state-level restriction on municipal broadband, requiring local ballot opt-out.)
+- NextLight (Longmont, CO). (n.d.). Annual reports and financial statements. (Profitability within 5 years, 90%+ satisfaction.)
+- Fort Collins Connexion. (n.d.). Operational reports. (Comcast opposition spending: Fort Collins campaign finance records.)
+- ACSI (American Customer Satisfaction Index). (n.d.). Annual telecommunications report. (Comcast lowest-rated major ISP.)
+- Federal Communications Commission. (n.d.). _Broadband deployment report_. (Speed and availability data.)
+- Institute for Local Self-Reliance. (n.d.). "Community Broadband Networks" database. (900+ municipal broadband networks nationwide.)

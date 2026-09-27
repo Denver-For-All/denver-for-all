@@ -232,7 +232,7 @@ You should be. A fleet of 500 AVs with high-resolution cameras operating 12+ hou
 - Axios Denver. (2026, September 1). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
 - Colorado SB 17-213. (2017). Concerning the Operation of Autonomous Vehicles. (State AV framework; local preemption provisions.)
 - Colorado HB 25-1122. (2025). Concerning Humans Operating Certain Motor Vehicles. (Vetoed by Governor Polis.)
-- California AB 1777. (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)
+- California AB 1777. (n.d.). (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)
 - Texas SB 2807. (2025). Relating to the operation of automated motor vehicles. (State authorization, recording devices, first-responder plans.)
 - NYC Taxi & Limousine Commission. (2024). Autonomous Vehicle Testing Rules. (Permitting, safety driver requirement, data reporting.)
 - National Conference of State Legislatures. (2025). Autonomous Vehicles Legislation Database. (State-by-state AV regulatory comparison.)

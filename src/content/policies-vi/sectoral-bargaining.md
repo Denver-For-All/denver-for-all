@@ -85,8 +85,8 @@ NLRA ngăn cản các luật trực tiếp điều chỉnh quy trình thương l
 
 ## Tài Liệu Tham Khảo
 
-- Cục Thống kê Lao động, _Bản Tóm Tắt Thành Viên Công Đoàn_, Denver-Aurora-Lakewood MSA, 2023
-- Viện Chính sách Kinh tế, _Khoảng Cách Năng Suất-Trả Lương_, cập nhật năm 2024
-- California AB 1228 (Hội đồng Thức ăn Nhanh), 2023
-- OECD, _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_, 2019
-- Tổ chức Lao động Quốc tế (ILO), _Phạm Vi Bảo Vệ Thương Lượng Theo Ngành Theo Quốc Gia_, 2023
+- Bureau of Labor Statistics. (2023). _Union Members Summary_, Denver-Aurora-Lakewood MSA.
+- Economic Policy Institute. (2024). _The Productivity-Pay Gap_, updated.
+- California State Legislature. (2023). _Assembly Bill 1228: Fast food restaurant industry: Fast Food Council_.
+- OECD. (2019). _Negotiating Our Way Up: Collective Bargaining in a Changing World of Work_.
+- International Labour Organization (ILO). (2023). _Sectoral Bargaining Coverage by Country_.

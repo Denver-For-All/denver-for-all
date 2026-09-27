@@ -106,10 +106,12 @@ Lý lẽ của họ: "Điều đó sẽ gây tốn kém việc làm và gây t�
 
 ## Tài Liệu Tham Khảo
 
-- MIT Living Wage Calculator, Quận Denver, livingwage.mit.edu (truy cập năm 2024)
-- Cục Thống kê Lao động, _Thống kê Việc làm và Tiền lương Nghề nghiệp_, Denver-Aurora-Lakewood MSA, tháng 5 năm 2023
-- Arindrajit Dube, T. William Lester, Michael Reich, "Ảnh hưởng của Lương Tối Thiểu trên khắp Biên giới Tiểu bang: Ước tính Sử dụng các Quận Liền kề," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
-- Doruk Cengiz et al., "Ảnh hưởng của Lương Tối Thiểu đến Việc làm Lương Thấp," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
-- Ủy ban Lương Thấp Vương quốc Anh, _Báo cáo Thường niên về Mức Lương Tối Thiểu Quốc gia_, 2023
-- Sở Tài chính Denver, _Báo cáo Thường niên về Sắc lệnh Lương Tối Thiểu_, 2024
-- Đại học Washington, _Nghiên cứu về Lương Tối Thiểu ở Seattle_, các ấn phẩm khác nhau (2017-2023)
+- Glasmeier, A. K. (2024). _Living wage calculator: Denver County, Colorado_. Massachusetts Institute of Technology. https://livingwage.mit.edu
+- Bureau of Labor Statistics. (2023, May). _Occupational employment and wage statistics: Denver-Aurora-Lakewood, CO MSA_.
+- Dube, A., Lester, T. W., & Reich, M. (2010). Minimum wage effects across state borders: Estimates using contiguous counties. _The Review of Economics and Statistics, 92_(4), 945–964.
+- Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. _The Quarterly Journal of Economics, 134_(3), 1405–1454.
+- UK Low Pay Commission. (2023). _National Minimum Wage Annual Report_.
+- Denver Department of Finance. (2025). _Denver local minimum wage adjusts to $19.29 per hour for 2026_ [Press release].
+- Denver Labor, Office of the Auditor. (2026). _Citywide minimum wage_ [2026–2027 rate schedule].
+- Denver Department of Finance. (2024). _Minimum Wage Ordinance Annual Report_.
+- University of Washington. (2017–2023). _Seattle Minimum Wage Study_ [Various publications].

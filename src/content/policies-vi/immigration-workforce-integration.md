@@ -127,12 +127,12 @@ Văn Phòng Công Nhận Chứng Chỉ sẽ sử dụng các khuôn khổ đánh
 
 ## Tài Liệu Tham Khảo
 
-- Migration Policy Institute. (2023). "Lãng Phí Trí Tuệ: Cái Giá Của Việc Không Công Nhận Chứng Chỉ Tại Hoa Kỳ." ("Brain Waste: The Cost of Credential Non-Recognition in the United States.")
-- Colorado HB 23-1224. Đạo Luật Nghiên Cứu Công Nhận Chứng Chỉ (Credential Recognition Study Act).
-- Conference Board of Canada. (2020). "Tác Động Kinh Tế Của Việc Công Nhận Chứng Chỉ Người Nhập Cư." ("The Economic Impact of Immigrant Credential Recognition.") (Đóng góp GDP hơn $20 tỷ đô la Mỹ.)
-- BIBB (Bundesinstitut für Berufsbildung). (2021). "Kết Quả Giám Sát Đạo Luật Công Nhận." ("Results of the Recognition Act Monitoring.") (Tỷ lệ công nhận 80%, tăng lương 25%.)
-- Victorian Government. (2022). "Báo Cáo Kết Quả Việc Làm Của Người Di Cư Có Tay Nghề Cao." ("Skilled Migrant Employment Outcomes Report.") (Người di cư có tay nghề cao phù hợp với việc làm nhanh hơn 40%.)
-- TRIEC (Toronto Region Immigrant Employment Council). (2021). Báo Cáo Tác Động Hàng Năm (Annual Impact Report). (Tỷ lệ việc làm 75%, ROI 4:1.)
-- Denver Economic Development & Opportunity. (2024). Báo Cáo Thị Trường Lao Động Denver (Denver Labor Market Report). (Dữ liệu về tình trạng thiếu hụt lao động.)
+- Migration Policy Institute. (2023). "Brain Waste: The Cost of Credential Non-Recognition in the United States."
+- Colorado HB 23-1224. (n.d.). Credential Recognition Study Act.
+- Conference Board of Canada. (2020). "The Economic Impact of Immigrant Credential Recognition." ($20B+ GDP contribution.)
+- BIBB (Bundesinstitut für Berufsbildung). (2021). "Results of the Recognition Act Monitoring." (80% recognition rate, 25% wage increase.)
+- Victorian Government. (2022). "Skilled Migrant Employment Outcomes Report." (40% faster employment matching.)
+- TRIEC (Toronto Region Immigrant Employment Council). (2021). Annual Impact Report. (75% employment rate, 4:1 ROI.)
+- Denver Economic Development & Opportunity. (2024). Denver Labor Market Report. (Labor shortage data.)
 
 Denver For All

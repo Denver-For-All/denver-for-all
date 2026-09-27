@@ -168,16 +168,16 @@ Xcel根据特许经营协议为丹佛提供电力。该市可以协商特许经�
 
 ## 参考文献
 
-- 科罗拉多州公共卫生与环境部空气质量控制委员会（Colorado DPHE Air Quality Control Commission）。（2023年）。年度臭氧监测数据。（18个以上不健康日。）
-- 公共土地信托基金（Trust for Public Land）。（2023年）。丹佛都会区城市热岛图。
-- 丹佛80x50气候行动计划。（2018年）。气候行动、可持续发展和适应力办公室。
-- 丹佛公园与娱乐部（Denver Parks & Recreation）。（2023年）。城市树冠评估。（约19.7%的覆盖率。）
-- 美国国家可再生能源实验室（NREL）。科罗拉多州丹佛的太阳能资源数据。
-- 洛基弗拉茨下游居民（Rocky Flats Downwinders）。社区健康数据和独立采样结果。
-- 美国能源部遗产管理办公室（DOE Office of Legacy Management）。洛基弗拉茨（Rocky Flats）场地年度监测和维护报告。
-- 国际可再生能源机构（IRENA）。可再生能源和就业，年度回顾。（德国170万个就业岗位。）
-- EPA。丹佛都会区/北部前沿地区臭氧未达标区域的指定和分类。
-- 美国国家海洋和大气管理局地球系统研究实验室（NOAA Earth System Research Laboratories）。前沿地区甲烷和VOC排放研究。
-- 科罗拉多州立大学。DJ盆地空气质量研究和监测数据。
-- 南海岸空气质量管理局（South Coast Air Quality Management District）（洛杉矶）。历史臭氧趋势数据。（30多年来减少了75%以上。）
-- Suncor Energy。商务市（Commerce City）炼油厂合规历史和社区健康影响数据。
+- Colorado DPHE Air Quality Control Commission. (2023). Annual ozone monitoring data. (18 unhealthy+ days.)
+- Trust for Public Land. (2023). Urban heat island mapping, Denver metro area.
+- Denver 80x50 Climate Action Plan. (2018). Office of Climate Action, Sustainability, and Resiliency.
+- Denver Parks & Recreation. (2023). Urban tree canopy assessment. (~19.7% coverage.)
+- NREL (National Renewable Energy Laboratory). (n.d.). Solar resource data for Denver, CO.
+- Rocky Flats Downwinders. (n.d.). Community health data and independent sampling results.
+- DOE Office of Legacy Management. (n.d.). Rocky Flats Site annual surveillance and maintenance reports.
+- IRENA (International Renewable Energy Agency). (n.d.). Renewable Energy and Jobs, Annual Review. (Germany 1.7M jobs.)
+- EPA. (n.d.). Denver Metro/North Front Range ozone non-attainment area designation and classification.
+- NOAA Earth System Research Laboratories. (n.d.). Front Range methane and VOC emission studies.
+- Colorado State University. (n.d.). DJ Basin air quality research and monitoring data.
+- South Coast Air Quality Management District (Los Angeles). (n.d.). Historical ozone trend data. (75%+ reduction over 30 years.)
+- Suncor Energy. (n.d.). Commerce City refinery compliance history and community health impact data.

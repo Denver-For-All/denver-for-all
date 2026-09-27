@@ -141,9 +141,9 @@ FAMLI በ90% ክፍያ 12 ሳምንታት ይሰጣል - ከምንም ነገር 
 
 ## ማጣቀሻዎች
 
-- የኮሎራዶ የተሻሻሉ ሕጎች፣ ክፍል 8-13.3-501 እና ተከታዮቹ (FAMLI ሕግ)
-- የኮሎራዶ FAMLI ክፍል፣ _የፕሮግራም ትግበራ ሪፖርት_፣ 2024
-- የኮሎራዶ ጤናማ ቤተሰቦች እና የሥራ ቦታዎች ሕግ (HFWA)፣ C.R.S. 8-13.3-401 እና ተከታዮቹ
-- የስዊድን ማኅበራዊ ዋስትና ኤጀንሲ (_Forsakringskassan_)፣ _የወላጅ ፈቃድ ስታቲስቲክስ_፣ 2023
-- OECD፣ _የቤተሰብ የውሂብ ጎታ፤ የወላጅ ፈቃድ ሥርዓቶች_፣ 2023
-- የኖርዌይ የሠራተኛ እና ማኅበራዊ ማካተት ሚኒስቴር፣ _የወላጅ ፈቃድ ደንቦች_፣ 2023
+- Colo. Rev. Stat. § 8-13.3-501 et seq. (Paid Family and Medical Leave Insurance Act).
+- Colorado FAMLI Division. (2024). _Program Implementation Report_.
+- Colo. Rev. Stat. § 8-13.3-401 et seq. (Healthy Families and Workplaces Act).
+- Swedish Social Insurance Agency (_Forsakringskassan_). (2023). _Parental Leave Statistics_.
+- OECD. (2023). _Family Database: Parental Leave Systems_.
+- Norway Ministry of Labour and Social Inclusion. (2023). _Parental Leave Regulations_.

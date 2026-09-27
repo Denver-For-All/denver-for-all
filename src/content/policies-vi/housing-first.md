@@ -143,11 +143,12 @@ Việc càn quét mà không bố trí nhà ở không làm giảm tình trạng
 
 ## Tài Liệu Tham Khảo
 
-- Metro Denver Homeless Initiative (MDHI). (2024). Thống kê Điểm Thời Gian vùng đô thị Denver. (9.065 người vô gia cư.)
-- Denver Department of Housing Stability (HOST). Dữ liệu ngân sách và chương trình.
-- Y-Foundation (Phần Lan). Báo cáo thường niên. (Giảm 35% tình trạng vô gia cư; mô hình chuyển đổi khu tạm trú thành căn hộ.)
-- Coalition for the Homeless, Houston/Harris County. Dữ liệu kết quả Housing First. (Hơn 25.000 người có nhà ở kể từ năm 2012.)
-- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Bằng chứng nền tảng của Pathways to Housing.)
-- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Bằng chứng về tiết kiệm chi phí.)
-- ARA (Housing Finance and Development Centre of Finland). Thống kê vô gia cư quốc gia.
-- Medicine Hat Community Housing Society. Dữ liệu vô gia cư chức năng bằng không.
+- Metro Denver Homeless Initiative (MDHI). (2024). Metro Denver Point-in-Time Count. (9,065 people experiencing homelessness.)
+- Metro Denver Homeless Initiative (MDHI). (2026). 2026 Point-in-Time Count Data. (9,950 metro; 6,411 in Denver; 1,703 unsheltered in Denver.)
+- Denver Department of Housing Stability (HOST). (n.d.). Budget and program data.
+- Y-Foundation (Finland). (n.d.). Annual reports. (35% reduction in homelessness; shelter-to-apartment conversion model.)
+- Coalition for the Homeless, Houston/Harris County. (n.d.). Housing First outcomes data. (25,000+ housed since 2012.)
+- Tsemberis, S. (2004). "Housing First, Consumer Choice, and Harm Reduction for Homeless Individuals With a Dual Diagnosis." American Journal of Public Health. (Pathways to Housing foundational evidence.)
+- Culhane, D., Metraux, S., & Hadley, T. (2002). "Public Service Reductions Associated with Placement of Homeless Persons with Severe Mental Illness in Supportive Housing." Housing Policy Debate. (Cost savings evidence.)
+- ARA (Housing Finance and Development Centre of Finland). (n.d.). National homelessness statistics.
+- Medicine Hat Community Housing Society. (n.d.). Functional zero homelessness data.

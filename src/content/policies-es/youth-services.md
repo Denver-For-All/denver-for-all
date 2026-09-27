@@ -117,11 +117,11 @@ La intervención comunitaria contra la violencia reduce los delitos violentos de
 
 ## Referencias
 
-- Departamento de Salud Pública y Medio Ambiente de Colorado. (2023). Datos sobre el suicidio juvenil. (Principal causa de muerte entre los 10 y los 24 años; 58% por encima del promedio nacional).
-- Escuelas Públicas de Denver. (2023). Informes de rendición de cuentas y ausentismo crónico. (Tasa de ausentismo crónico del 38%).
-- Asociación Estadounidense de Consejeros Escolares. Proporción recomendada de consejeros por estudiante: 1:250.
-- Departamento de Policía de Denver. (2023). Datos sobre víctimas juveniles y delitos.
-- Measure of America. Serie Youth Disconnection. (Tasas de jóvenes desconectados por área metropolitana).
-- Oficina del Alcalde de Desarrollo de la Fuerza Laboral de Boston. Datos y evaluación del programa SuccessLink.
-- Departamento de Desarrollo Juvenil y Comunitario de la Ciudad de Nueva York. Informes del Programa de Empleo Juvenil de Verano.
-- División de Servicios para Jóvenes de Colorado. (2023). Costo por joven en detención.
+- Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
+- Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
+- Denver Police Department. (2023). Juvenile victim and crime data.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
+- Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

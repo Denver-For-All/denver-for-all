@@ -124,12 +124,12 @@ TABOR 要求选民批准新税 -  - 但它并没有阻止新税的征收。丹�
 
 ## 参考文献
 
-- 丹佛年度预算。(2024-2025)。市长办公室，预算和管理办公室。
-- 科罗拉多州税务局。销售税率表。（丹佛综合税率约为 8.81%。）
-- 丹佛评估员办公室。房产评估率和住宅评估率数据。
-- 科罗拉多州 TABOR（科罗拉多州宪法第 X 条第 20 款）。选民批准要求。
-- 税收和经济政策研究所。(2018)。“谁支付？美国所有 50 个州税收制度的分配分析。”（累退销售税影响数据。）
-- 林肯土地政策研究所。美国各城市房产税率比较。
-- 波特兰清洁能源社区福利基金。年度收入报告。（6000-9000 万美元/年。）
-- 维也纳市。住房和财政政策报告。（社会住房融资模式。）
-- 丹佛气候保护基金。（2020 年投票措施）。收入和分配报告。
+- Denver Annual Budget. (2024-2025). Office of the Mayor, Budget and Management Office.
+- Colorado Department of Revenue. (n.d.). Sales tax rate tables. (Denver combined rate ~8.81%.)
+- Denver Assessor's Office. (n.d.). Property assessment rates and residential assessment rate data.
+- Colorado TABOR (Article X, Section 20, Colorado Constitution). (n.d.). Voter approval requirements.
+- Institute on Taxation and Economic Policy. (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States." (Regressive sales tax impact data.)
+- Lincoln Institute of Land Policy. (n.d.). Property tax rate comparisons across US cities.
+- Portland Clean Energy Community Benefits Fund. (n.d.). Annual revenue reports. ($60-90M/year.)
+- City of Vienna. (n.d.). Housing and fiscal policy reports. (Social housing funding model.)
+- Denver Climate Protection Fund. (n.d.). (2020 ballot measure). Revenue and allocation reports.

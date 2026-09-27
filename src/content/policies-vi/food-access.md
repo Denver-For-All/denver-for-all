@@ -101,11 +101,11 @@ Bệnh tật liên quan đến chế độ ăn uống khiến Denver tiêu tốn
 
 ## Tài Liệu Tham Khảo
 
-- Sở Y Tế và Môi Trường Công Cộng Denver (DDPHE). (2021-2024). Dữ liệu khảo sát về tình trạng mất an ninh lương thực; Lập bản đồ khu vực thiếu lương thực theo Chỉ Số Dịch Vụ Con Người Denver (Denver Human Services Index).
-- Viện Y Tế Colorado (Colorado Health Institute). (2023). Khảo Sát Tiếp Cận Y Tế Colorado (Colorado Health Access Survey - CHAS): An Ninh Lương Thực. Tỷ lệ mất an ninh lương thực trên toàn tiểu bang là 11,2%.
-- Feeding America. (2024). Lập Bản Đồ Khoảng Cách Bữa Ăn: Dữ liệu Colorado. 474.420 người dân Colorado bị mất an ninh lương thực, trong đó có 141.570 trẻ em.
-- Thực Phẩm Lành Mạnh cho Trẻ Em Denver (HFDK). (2023). Báo Cáo Thường Niên gửi Hội Đồng Thành Phố. Đã phân phối 66,5 triệu đô la, phục vụ hơn 31 triệu bữa ăn kể từ năm 2020.
-- Dịch Vụ Nghiên Cứu Kinh Tế của USDA (USDA Economic Research Service). (2023). Bản Đồ Nghiên Cứu Tiếp Cận Lương Thực (Food Access Research Atlas). Chỉ định khu vực thiếu lương thực cấp khu điều tra dân số cho Denver.
-- Food Bank of the Rockies. (2024). Báo Cáo Thường Niên. Tăng 13% số người được phục vụ; Tăng 60% nhu cầu đối với trạm phân phối di động; Chi phí mua lương thực 1,3 triệu đô la/tháng.
-- Denver Urban Gardens (DUG). (2023). Báo Cáo Tác Động. 200 khu vườn cộng đồng, 24 khu rừng thực phẩm, 34 mẫu Anh, hơn 17.000 người làm vườn.
-- Văn Phòng Bộ Trưởng Tiểu Bang Colorado (Colorado Secretary of State). (2022, 2025). Đề Xuất FF (2022, 55% phê duyệt), kết quả bầu cử Đề Xuất LL và Đề Xuất MM (2025). Dữ liệu chương trình bữa ăn học đường miễn phí phổ cập.
+- Denver Department of Public Health and Environment (DDPHE). (2021-2024). Food insecurity survey data; Denver Human Services Index food desert mapping.
+- Colorado Health Institute. (2023). Colorado Health Access Survey (CHAS): Food Security. 11.2% food insecurity rate statewide.
+- Feeding America. (2024). Map the Meal Gap: Colorado data. 474,420 food-insecure Coloradans including 141,570 children.
+- Healthy Food for Denver's Kids (HFDK). (2023). Annual Report to City Council. $66.5M distributed, 31M+ meals served since 2020.
+- USDA Economic Research Service. (2023). Food Access Research Atlas. Census-tract level food desert designations for Denver.
+- Food Bank of the Rockies. (2024). Annual Report. 13% increase in people served; 60% increase in mobile pantry demand; $1.3M/month food purchasing costs.
+- Denver Urban Gardens (DUG). (2023). Impact Report. 200 community gardens, 24 food forests, 34 acres, 17,000+ gardeners.
+- Colorado Secretary of State. (n.d.). (2022, 2025). Proposition FF (2022, 55% approval), Proposition LL and Proposition MM (2025) election results. Universal free school meals program data.

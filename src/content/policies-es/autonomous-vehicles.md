@@ -153,20 +153,20 @@ Deberías estarlo. Una flota de 500 AV con cámaras de alta resolución que oper
 
 ## Referencias
 
-- _Colorado Sun_. (1 de septiembre de 2026). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
-- Axios Denver. (1 de septiembre de 2026). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
-- Colorado SB 17-213. (2017). Relativo al Funcionamiento de Vehículos Autónomos. (Marco estatal de AV; disposiciones de preferencia local).
-- Colorado HB 25-1122. (2025). Relativo a los Humanos que Operan Ciertos Vehículos Motorizados. (Vetada por el gobernador Polis).
-- California AB 1777. (2025, en vigor en julio de 2026). Vehículos autónomos: servicios de emergencia. (Línea directa de respuesta a emergencias, geoperimetraje, autoridad de citación, requisitos de comunicación bidireccional).
-- Texas SB 2807. (2025). Relativo al funcionamiento de vehículos motorizados automatizados. (Autorización estatal, dispositivos de grabación, planes para los servicios de emergencia).
-- Comisión de Taxis y Limusinas de la Ciudad de Nueva York. (2024). Normas de Pruebas de Vehículos Autónomos. (Permisos, requisito de conductor de seguridad, presentación de informes de datos).
-- Conferencia Nacional de Legislaturas Estatales. (2025). Base de Datos de Legislación de Vehículos Autónomos. (Comparación de la regulación de AV estado por estado).
-- Waymo. (2023). Informe de Seguridad de Waymo: Comparaciones de Colisiones. (Datos de seguridad autodeclarados; afirmación de un 57% menos de choques que causan lesiones).
-- Agencia de Transporte Municipal de San Francisco. (2023-2024). Informes de Incidentes de AV. (Interferencia documentada de los AV con los servicios de emergencia, obstrucciones de tráfico).
-- Departamento de Transporte de Austin. (2025). Panel de Control de Incidentes de Vehículos Autónomos. (122 incidentes documentados).
-- Ciudad de Chandler, AZ. (2024). Asociación de Microtránsito Chandler Flex / Waymo. (Modelo de integración del transporte público; precios de equidad).
-- Instituto de Estudios del Transporte de la UC Davis. (2020). "Transporte Disruptivo: La Adopción, Utilización e Impactos del Transporte de Pasajeros en los Estados Unidos". (Aumento del VMT debido al transporte de pasajeros).
-- Schaller Consulting. (2018). "La Nueva Automovilidad: Lyft, Uber y el Futuro de las Ciudades Estadounidenses". (Estimación del aumento del VMT del 85%).
-- ACLU de Colorado. (2025). Tecnología de vigilancia y preocupaciones sobre la privacidad de los datos de los AV. (Precedente de la cámara Flock para los riesgos de la vigilancia de los AV).
-- Unión Europea. (2022). Reglamento 2022/1426. Marco de homologación de tipo de seguridad general y sistemas de conducción automatizada.
-- Ley Federal de Accesibilidad de los AV (H.R. 7126). (2024). Requisitos propuestos para la accesibilidad de los AV para las personas con discapacidad.
+- _Colorado Sun_. (2026, September 1). "Waymo to launch driverless rides in Denver on Tuesday." https://coloradosun.com/2026/09/01/waymo-rides-begin-denver-sept-1/
+- Axios Denver. (2026, September 1). "Waymo officially launches in Denver on Tuesday." https://www.axios.com/local/denver/2026/09/01/waymo-launches-denver
+- Colorado SB 17-213. (2017). Concerning the Operation of Autonomous Vehicles. (State AV framework; local preemption provisions.)
+- Colorado HB 25-1122. (2025). Concerning Humans Operating Certain Motor Vehicles. (Vetoed by Governor Polis.)
+- California AB 1777. (n.d.). (2025, effective July 2026). Autonomous vehicles: emergency services. (Emergency response hotline, geofencing, citation authority, two-way communication requirements.)
+- Texas SB 2807. (2025). Relating to the operation of automated motor vehicles. (State authorization, recording devices, first-responder plans.)
+- NYC Taxi & Limousine Commission. (2024). Autonomous Vehicle Testing Rules. (Permitting, safety driver requirement, data reporting.)
+- National Conference of State Legislatures. (2025). Autonomous Vehicles Legislation Database. (State-by-state AV regulatory comparison.)
+- Waymo. (2023). Waymo Safety Report: Collision Comparisons. (Self-reported safety data; 57% fewer injury-causing crashes claim.)
+- San Francisco Municipal Transportation Agency. (2023-2024). AV Incident Reports. (Documented AV interference with emergency responders, traffic obstructions.)
+- Austin Transportation Department. (2025). Autonomous Vehicle Incident Dashboard. (122 documented incidents.)
+- City of Chandler, AZ. (2024). Chandler Flex Microtransit / Waymo Partnership. (Transit integration model; equity pricing.)
+- UC Davis Institute of Transportation Studies. (2020). "Disruptive Transportation: The Adoption, Utilization, and Impacts of Ride-Hailing in the United States." (VMT increase from ride-hailing.)
+- Schaller Consulting. (2018). "The New Automobility: Lyft, Uber and the Future of American Cities." (85% VMT increase estimate.)
+- ACLU of Colorado. (2025). Surveillance technology and AV data privacy concerns. (Flock camera precedent for AV surveillance risks.)
+- European Union. (2022). Regulation 2022/1426. General safety and automated driving systems type-approval framework.
+- Federal AV Accessibility Act (H.R. 7126). (2024). Proposed requirements for AV accessibility for people with disabilities.

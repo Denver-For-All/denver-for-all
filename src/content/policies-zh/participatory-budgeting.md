@@ -118,10 +118,11 @@ PB 周期与常规预算流程并行运行。公民大会是针对特定时间�
 
 ## 参考文献
 
-- Denver Elections Division（丹佛选举部门）。(2023)。市政选举投票率数据。（38% 的投票率。）
-- City of Denver Annual Budget（丹佛市年度预算）。(2024)。总预算和资本预算数据。
-- Sintomer, Y., et al. (2012)。"Participatory Budgeting Worldwide."（全球参与式预算编制。）Study for the German Federal Agency for Civic Education（德国联邦公民教育机构研究）。（7,000 多个城市的数据。）
-- Cabannes, Y. (2004)。"Participatory budgeting: a significant contribution to participatory democracy."（参与式预算编制：对参与式民主的重大贡献。）Environment and Urbanization（环境与城市化）。（阿雷格里港的成果。）
-- PBNYC (Participatory Budgeting New York City)（纽约市参与式预算编制）。年度报告和参与数据。
-- Farrell, D., et al. (2019)。"Deliberative Mini-Publics: Core Design Features."（审议性小型公众：核心设计特征。）Centre for Deliberative Democracy and Global Governance（审议民主与全球治理中心）。（公民大会设计。）
-- Irish Citizens' Assembly（爱尔兰公民大会）。Reports on the Eighth Amendment (2017) and Marriage Equality (2014)。（关于第八修正案 (2017) 和婚姻平等 (2014) 的报告。）
+- Denver Elections Division. (2023). Municipal election turnout data. (38% turnout.)
+- City of Denver Annual Budget. (2024). Total budget and capital budget figures.
+- Sintomer, Y., et al. (2012). "Participatory Budgeting Worldwide." Study for the German Federal Agency for Civic Education. (7,000+ cities data.)
+- Cabannes, Y. (2004). "Participatory budgeting: a significant contribution to participatory democracy." Environment and Urbanization. (Porto Alegre outcomes.)
+- PBNYC (Participatory Budgeting New York City). (n.d.). Annual reports and participation data.
+- Farrell, D., et al. (2019). "Deliberative Mini-Publics: Core Design Features." Centre for Deliberative Democracy and Global Governance. (Citizens' assembly design.)
+- Citizens' Assembly (Ireland). (2017). _First report and recommendations of the Citizens' Assembly: The Eighth Amendment of the Constitution_.
+- Convention on the Constitution (Ireland). (2014). _Report on marriage equality_.

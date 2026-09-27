@@ -135,3 +135,15 @@ Nếu cơ quan lập pháp thất bại một lần nữa, quy trình sáng ki�
 ---
 
 **Hành động ngay bây giờ:** [Ký vào bản kiến nghị bãi bỏ lệnh cấm kiểm soát tiền thuê nhà của Colorado](https://resist.bot/petitions/PJZTYT) hoặc nhắn tin "sign PJZTYT" đến 50409. Mỗi chữ ký gửi một lá thư được cá nhân hóa đến thống đốc và các nhà lập pháp tiểu bang của bạn. [Xem tất cả các chiến dịch →](/tools/resistbot)
+
+## Tài Liệu Tham Khảo
+
+- Apartment Association of Metro Denver. (2026). _Vacancy and rent report (Q1 2026)_. https://www.aamdhq.org/vacancy-and-rent
+- Apartment List. (2026). _Denver, CO rent report_. https://www.apartmentlist.com/rent-report/co/denver
+- Colo. Rev. Stat. § 38-12-301 (1981).
+- Colorado General Assembly. (2023). _HB23-1115: Repeal prohibition local residential rent control_. https://leg.colorado.gov/bills/hb23-1115
+- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. _American Economic Review, 109_(9), 3365-3394. https://doi.org/10.1257/aer.20181289
+- RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
+- _The Colorado Sun_. (2026, January 21). Apartments in metro Denver reach highest vacancy rate in 16 years, pushing down rents again. https://coloradosun.com/2026/01/21/apartments-in-metro-denver-reach-highest-vacancy-rate-in-16-years-pushing-down-rents-again/
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood, CO metro area_ [Data set]. https://www.zillow.com/research/data/

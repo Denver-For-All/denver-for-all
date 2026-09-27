@@ -163,9 +163,10 @@ Denver's ordinance applies to work performed within Denver city limits. For ride
 
 ## References
 
-- Colorado SB 22-161, _Transportation Network Company (TNC) Minimum Pay_, 2022
-- California Assembly Bill 5 (AB5), 2019
-- European Parliament, _Platform Work Directive_, 2024
-- UK Supreme Court, _Uber BV v. Aslam_ [2021] UKSC 5
-- Spain, _Ley Rider_ (Royal Decree-Law 9/2021)
-- McKinsey Global Institute, _Independent Work: Choice, Necessity, and the Gig Economy_, 2022 update
+- Colorado SB 22-161. (2022). _Transportation Network Company (TNC) Minimum Pay_.
+- California State Legislature. (2019). _Assembly Bill 5 (AB5): Worker status: employees and independent contractors_.
+- European Parliament. (2024). _Platform Work Directive_.
+- _Uber BV v. Aslam_, [2021] UKSC 5 (U.K. Supreme Court).
+- Spain. (n.d.). _Ley Rider_ (Royal Decree-Law 9/2021)
+- McKinsey Global Institute. (2016). _Independent work: Choice, necessity, and the gig economy_. McKinsey & Company.
+- McKinsey & Company. (2022). _Freelance, side hustles, and gigs: Many more Americans have become independent workers_ [American Opportunity Survey].

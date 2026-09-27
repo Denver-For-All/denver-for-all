@@ -273,11 +273,11 @@ Not yet - but it will be by the time Denver would deploy. The Xe-100 requires HA
 - Power Magazine. (2025). "Centrus completes 900-kg HALEU delivery to DOE." (Domestic HALEU production milestone.)
 - Nusano. (2025, June). "Breakthrough HALEU program expected to produce up to 350 metric tons annually." (Q4 2026 initial production, 2029 full-scale target.)
 - U.S. Department of Energy. (2026, January). $2.7 billion commitment for domestic uranium enrichment expansion.
-- U.S. Department of Energy. HALEU Availability Program. ($700M IRA funding for domestic HALEU supply chain.)
+- U.S. Department of Energy. (n.d.). HALEU Availability Program. ($700M IRA funding for domestic HALEU supply chain.)
 - World Nuclear Association. (2025). "Small Modular Reactors." (SMR LCOE range $50-100/MWh, capacity factor data.)
 - ScienceDirect. (2023). "Techno-economic analysis of advanced small modular nuclear reactors." (Gas-cooled SMR LCOE estimated at $81.5/MWh.)
 - CPR News. (2025, April 1). "Nuclear is now 'clean energy' in Colorado."
 - Amazon/X-energy. (2024). $500M investment announcement. Energy Northwest partnership for 320 MW initial Xe-100 deployment.
-- Dow Chemical / X-energy. ARDP demonstration project at Seadrift, TX. (First Xe-100 commercial deployment.)
+- Dow Chemical / X-energy. (n.d.). ARDP demonstration project at Seadrift, TX. (First Xe-100 commercial deployment.)
 - American Public Power Association. (2024). Municipal utility performance data.
 - Colorado PUC. (2025). Xcel Energy reliability performance briefing. (352 min average outage, 2024.)

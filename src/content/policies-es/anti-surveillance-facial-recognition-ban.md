@@ -106,10 +106,10 @@ Esta política es de bajo costo por diseño. Restringe y prohíbe el gasto más 
 
 - American Civil Liberties Union. (2021). _Williams v. City of Detroit: Face recognition false arrest_. https://www.aclu.org/cases/williams-v-city-of-detroit-face-recognition-false-arrest
 - American Civil Liberties Union. (2024). _Community control over police surveillance (CCOPS)_. https://www.aclu.org/community-control-over-police-surveillance
-- Asamblea General de Colorado. (2022). _SB22-113: Artificial intelligence facial recognition_. https://leg.colorado.gov/bills/sb22-113
-- Asamblea General de Colorado. (2026). _SB26-070: Ban government access historical location information database_. https://leg.colorado.gov/bills/sb26-070
-- Grothaus, M. (2019, 14 de mayo). _San Francisco passes city government ban on facial recognition tech_. TechCrunch. https://techcrunch.com/2019/05/14/san-francisco-facial-recognition-ban/
+- Colorado General Assembly. (2022). _SB22-113: Artificial intelligence facial recognition_. https://leg.colorado.gov/bills/sb22-113
+- Colorado General Assembly. (2026). _SB26-070: Ban government access historical location information database_. https://leg.colorado.gov/bills/sb26-070
+- Grothaus, M. (2019, May 14). _San Francisco passes city government ban on facial recognition tech_. TechCrunch. https://techcrunch.com/2019/05/14/san-francisco-facial-recognition-ban/
 - National Institute of Standards and Technology. (2019). _Face recognition vendor test (FRVT) part 3: Demographic effects_ (NISTIR 8280). https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8280.pdf
 - NBC News. (2025). _Flock police cameras scan billions per month, sparking protests_. https://www.nbcnews.com/tech/tech-news/flock-police-cameras-scan-billions-month-sparking-protests-rcna230037
-- Denverite. (2026, 24 de febrero). _Denver fires Flock, prepares to switch to new roadway surveillance system_. https://denverite.com/2026/02/24/denver-ends-flock-contract-axon-alpr/
-- WBUR News. (2020, 23 de junio). _Boston bans use of facial recognition technology. It's the 2nd-largest city to do so_. https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban
+- Denverite. (2026, February 24). _Denver fires Flock, prepares to switch to new roadway surveillance system_. https://denverite.com/2026/02/24/denver-ends-flock-contract-axon-alpr/
+- WBUR News. (2020, June 23). _Boston bans use of facial recognition technology. It's the 2nd-largest city to do so_. https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban

@@ -115,3 +115,16 @@ RTD የክልል ኤጀንሲ ነው። ዴንቨር በቀጥታ መቆጣጠ�
 | **ቶኪዮ, ጃፓን**      | በዓለም ላይ እጅግ በጣም ሰፊ የሆነ የከተማ የባቡር ኔትወርክ፡ 158 መስመሮች፣ 4,714 ኪ.ሜ ትራክ፣ የሜትሮ አካባቢን የሚያገለግሉ 2,210 ጣቢያዎች።             | 40 ሚሊዮን ዕለታዊ የባቡር ተሳፋሪዎች። 99.8% በሰዓቱ አፈጻጸም። አንድ ባቡር ከ25 ሰከንድ ቀደም ብሎ በመነሳቱ በአደባባይ ይቅርታ የጠየቀ ትክክለኛ ሲስተም።               |
 | **ካንሳስ ሲቲ, ሚዙሪ**  | በ2020 ሁሉንም የአውቶቡስ ዋጋዎችን አስወገደች፣ በአሜሪካ ውስጥ ዋጋ የሌለው ትራንዚት ያላት ትልቁ ከተማ።                                          | ተሳፋሪዎች ከእኩዮቻቸው ከተሞች 24% ይበልጣል። 17% ተሳፋሪዎች ለአገልግሎቱ አዲስ ናቸው። 92% ወደ ስራ እና አስፈላጊ ነገሮች መድረስ መሻሻሉን ይናገራሉ።                 |
 | **ቦጎታ, ኮሎምቢያ**    | ከ 550 ኪ.ሜ የብስክሌት ኔትወርክ ጋር የተዋሃደ ትራንስሚሌኒዮ BRT (55 ኪ.ሜ)። ሳምንታዊ ሲክሎቪያ በየእሑድ 121 ኪ.ሜ ጎዳናዎችን ከመኪና ነፃ ያደርጋል።        | እስከ 2 ሚሊዮን ሳምንታዊ የሲክሎቪያ ተሳታፊዎች። 900,000 ዕለታዊ የብስክሌት ጉዞዎች። የብስክሌት ፍጥነቶች (17 ኪሜ በሰዓት) የችኮላ ሰዓት ትራንዚትን (13 ኪሜ በሰዓት) ይመታ |
+
+## ማጣቀሻዎች
+
+- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. ($1.6 billion needed; 75% program completion.)
+- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." (65.2 million boardings in 2024; 38% below 2019; 6.4% decline in first half of 2025.)
+- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. (93 traffic deaths in 2025; 35 pedestrian deaths, up 34% from 2024.)
+- Texas A&M Transportation Institute. (2025). Urban Mobility Report. (Denver drivers lost 76 hours to congestion in 2024; $3.5 billion regional cost.)
+- University of Denver / Terner Center. (2025). Denver parking reform study. (Eliminating parking minimums projected to boost housing by 12.5%, or 460 units/year.)
+- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (Structured parking adds average $50,000 per unit.)
+- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (24% ridership above peer cities; 17% new riders.)
+- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 vouchers redeemed; 64% to lower/moderate income.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghai (50 km of routes connecting 4.8M residents), Sydney (George Street redesign, 8,000 riders/hour), Indianapolis ($27M bike investment catalyzed $170M private development).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." 15-minute city and climate-aligned urbanism trends.

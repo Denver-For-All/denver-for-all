@@ -204,7 +204,7 @@ This is a real challenge. The childcare industry faces massive staffing shortage
 
 - Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
 - BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
-- Colorado CCCAP program data and eligibility thresholds.
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
 - Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
 - Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
-- CU Boulder in-state tuition (2024-2025): $13,590/year. (Comparison to childcare costs.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

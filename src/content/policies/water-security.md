@@ -186,12 +186,12 @@ We're attacking the idea that a city receiving 14-17 inches of rain per year sho
 ## References
 
 - Williams, A.P., et al. (2022). "Rapid intensification of the emerging southwestern North American megadrought in 2020-2021." _Nature Climate Change_. (Worst drought in 1,200 years.)
-- U.S. Bureau of Reclamation. Colorado River Basin water supply reports and shortage declarations.
-- Denver Water. Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
-- American Water Works Association. Cost-benefit analysis of demand management vs. supply expansion.
-- Colorado Division of Water Resources. Snowpack and streamflow data; water rights administration.
-- Singapore Public Utilities Board (PUB). NEWater and Four National Taps program reports.
-- City of Melbourne. Water conservation program data and per-capita consumption trends.
-- City of Tucson Water Department. Conservation program outcomes and rainwater harvesting ordinance.
-- Israel Water Authority. National water economy reports; wastewater recycling data.
-- Western Resource Advocates. Colorado water conservation policy analysis.
+- U.S. Bureau of Reclamation. (n.d.). Colorado River Basin water supply reports and shortage declarations.
+- Denver Water. (n.d.). Annual reports, long-range planning documents, and Gross Reservoir expansion project updates.
+- American Water Works Association. (n.d.). Cost-benefit analysis of demand management vs. supply expansion.
+- Colorado Division of Water Resources. (n.d.). Snowpack and streamflow data; water rights administration.
+- Singapore Public Utilities Board (PUB). (n.d.). NEWater and Four National Taps program reports.
+- City of Melbourne. (n.d.). Water conservation program data and per-capita consumption trends.
+- City of Tucson Water Department. (n.d.). Conservation program outcomes and rainwater harvesting ordinance.
+- Israel Water Authority. (n.d.). National water economy reports; wastewater recycling data.
+- Western Resource Advocates. (n.d.). Colorado water conservation policy analysis.

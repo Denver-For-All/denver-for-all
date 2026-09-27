@@ -124,12 +124,12 @@ TABOR ለአዳዲስ ታክሶች የመራጮችን ይሁንታ ይፈልጋ�
 
 ## ማጣቀሻዎች
 
-- የDenver ዓመታዊ በጀት። (2024-2025)። የከንቲባ ጽሕፈት ቤት፣ የበጀት እና የአስተዳደር ጽሕፈት ቤት።
-- Colorado የገቢ መምሪያ። የሽያጭ ታክስ መጠን ሠንጠረዦች። (የDenver ጥምር መጠን ~8.81%።)
-- የDenver ገምጋሚ ጽሕፈት ቤት። የንብረት ምዘና ተመኖች እና የመኖሪያ ቤት ምዘና መጠን መረጃ።
-- Colorado TABOR (አንቀጽ X፣ ክፍል 20፣ Colorado ሕገ መንግሥት)። የመራጮች ይሁንታ መስፈርቶች።
-- የግብር እና ኢኮኖሚ ፖሊሲ ተቋም. (2018) "ማን ይከፍላል? በሁሉም 50 ግዛቶች ውስጥ ያሉ የታክስ ስርዓቶች ስርጭት ትንተና።" (የተቀነሰ የሽያጭ ታክስ ተጽዕኖ መረጃ።)
-- የሊንከን የመሬት ፖሊሲ ተቋም። በአሜሪካ ከተሞች ውስጥ የንብረት ታክስ መጠን ንጽጽሮች።
-- የPortland ንጹህ ኃይል ማኅበረሰብ ጥቅሞች ፈንድ። ዓመታዊ የገቢ ሪፖርቶች። (በዓመት $60-90 ሚሊዮን)
-- የቪየና ከተማ። የቤቶች እና የፊስካል ፖሊሲ ሪፖርቶች። (ማህበራዊ የቤቶች ፈንድ ሞዴል)
-- የDenver የአየር ንብረት ጥበቃ ፈንድ። (የ2020 ድምጽ መስጫ መለኪያ)። የገቢ እና የአልሎኬሽን ሪፖርቶች።
+- Denver Annual Budget. (2024-2025). Office of the Mayor, Budget and Management Office.
+- Colorado Department of Revenue. (n.d.). Sales tax rate tables. (Denver combined rate ~8.81%.)
+- Denver Assessor's Office. (n.d.). Property assessment rates and residential assessment rate data.
+- Colorado TABOR (Article X, Section 20, Colorado Constitution). (n.d.). Voter approval requirements.
+- Institute on Taxation and Economic Policy. (2018). "Who Pays? A Distributional Analysis of the Tax Systems in All 50 States." (Regressive sales tax impact data.)
+- Lincoln Institute of Land Policy. (n.d.). Property tax rate comparisons across US cities.
+- Portland Clean Energy Community Benefits Fund. (n.d.). Annual revenue reports. ($60-90M/year.)
+- City of Vienna. (n.d.). Housing and fiscal policy reports. (Social housing funding model.)
+- Denver Climate Protection Fund. (n.d.). (2020 ballot measure). Revenue and allocation reports.

@@ -181,11 +181,12 @@ Their argument: "It will cost jobs and hurt small businesses." Our response: Eve
 
 ## References
 
-- MIT Living Wage Calculator, Denver County, livingwage.mit.edu (accessed 2024)
-- Bureau of Labor Statistics, _Occupational Employment and Wage Statistics_, Denver-Aurora-Lakewood MSA, May 2023
-- Arindrajit Dube, T. William Lester, Michael Reich, "Minimum Wage Effects Across State Borders: Estimates Using Contiguous Counties," _Review of Economics and Statistics_ 92(4): 945-964 (2010)
-- Doruk Cengiz et al., "The Effect of Minimum Wages on Low-Wage Jobs," _Quarterly Journal of Economics_ 134(3): 1405-1454 (2019)
-- UK Low Pay Commission, _National Minimum Wage Annual Report_, 2023
-- Denver Department of Finance, "Denver Local Minimum Wage Adjusts to $19.29 per Hour for 2026" (2025); Denver Labor (Auditor's Office), _Citywide Minimum Wage_ schedule, 2026-2027 rates
-- Denver Department of Finance, _Minimum Wage Ordinance Annual Report_, 2024
-- University of Washington, _Seattle Minimum Wage Study_, various publications (2017-2023)
+- Glasmeier, A. K. (2024). _Living wage calculator: Denver County, Colorado_. Massachusetts Institute of Technology. https://livingwage.mit.edu
+- Bureau of Labor Statistics. (2023, May). _Occupational employment and wage statistics: Denver-Aurora-Lakewood, CO MSA_.
+- Dube, A., Lester, T. W., & Reich, M. (2010). Minimum wage effects across state borders: Estimates using contiguous counties. _The Review of Economics and Statistics, 92_(4), 945–964.
+- Cengiz, D., Dube, A., Lindner, A., & Zipperer, B. (2019). The effect of minimum wages on low-wage jobs. _The Quarterly Journal of Economics, 134_(3), 1405–1454.
+- UK Low Pay Commission. (2023). _National Minimum Wage Annual Report_.
+- Denver Department of Finance. (2025). _Denver local minimum wage adjusts to $19.29 per hour for 2026_ [Press release].
+- Denver Labor, Office of the Auditor. (2026). _Citywide minimum wage_ [2026–2027 rate schedule].
+- Denver Department of Finance. (2024). _Minimum Wage Ordinance Annual Report_.
+- University of Washington. (2017–2023). _Seattle Minimum Wage Study_ [Various publications].

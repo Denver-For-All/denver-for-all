@@ -108,3 +108,12 @@ Ahorra dinero. Cada $1 gastado en el derecho a la asistencia letrada ahorra entr
 
 **"Los arrendadores deben poder desalojar a los malos inquilinos".**
 Nada en este proyecto de ley impide el desalojo por causa legítima: falta de pago (con período de subsanación), incumplimiento del contrato de arrendamiento, actividad delictiva. Lo que impide son los desalojos basados en pretextos, los desalojos en represalia y los desalojos sin culpa sin asistencia.
+
+## Referencias
+
+- Colo. Rev. Stat. § 13-40-104.
+- Colorado General Assembly. (2026). _2026 regular session tenant-protection bills (HB26-1106, HB26-1047, HB26-1013)_. https://leg.colorado.gov
+- Colorado Judicial Branch. (2025). _Eviction filings dashboard (SB24-064)_ [Data set]. https://www.coloradojudicial.gov
+- Eviction Lab. (n.d.). _Denver, CO eviction tracking_. Princeton University. Retrieved May 2026, from https://evictionlab.org
+- National Coalition for a Civil Right to Counsel. (2022). _The right to counsel in eviction proceedings_. https://civilrighttocounsel.org
+- New York City Office of Civil Justice. (2023). _Universal access to legal services: Annual report_. https://www.nyc.gov/hra

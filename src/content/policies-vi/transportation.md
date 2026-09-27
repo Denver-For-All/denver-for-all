@@ -147,7 +147,13 @@ Denver không thể kiểm soát RTD, nhưng nó có thể gây ảnh hưởng r
 
 ## Tài Liệu Tham Khảo
 
-- RTD-Denver. (2025). Báo cáo Hoàn thành FasTracks: Chi phí vốn và vận hành cho các hành lang còn lại. (Cần 1,6 tỷ đô la; hoàn thành chương trình 75%.)
-- Denver Post. (2025). "Số lượng hành khách RTD vẫn giảm khi tiểu bang thúc đẩy phát triển giao thông công cộng." (65,2 triệu lượt lên tàu vào năm 2024; thấp hơn 38% so với năm 2019; giảm 6,4% trong nửa đầu năm 2025.)
-- Thành phố và Quận Denver. (2025). Bảng điều khiển và Thống kê Tầm nhìn Số 0. (93 người chết vì tai nạn giao thông vào năm 2025; 35 người chết đi bộ, tăng 34% so với năm 2024.)
-- Viện Giao thông Vận tải Texas A&M. (2025). Báo cáo Tính Di động Đô thị. (Tài xế Denver mất 76 giờ do tắc nghẽn vào năm 2024; chi phí khu
+- RTD-Denver. (2025). Finishing FasTracks Report: Capital and operating costs for remaining corridors. ($1.6 billion needed; 75% program completion.)
+- Denver Post. (2025). "RTD ridership still falling as state pushes transit development." (65.2 million boardings in 2024; 38% below 2019; 6.4% decline in first half of 2025.)
+- City and County of Denver. (2025). Vision Zero Dashboard and Statistics. (93 traffic deaths in 2025; 35 pedestrian deaths, up 34% from 2024.)
+- Texas A&M Transportation Institute. (2025). Urban Mobility Report. (Denver drivers lost 76 hours to congestion in 2024; $3.5 billion regional cost.)
+- University of Denver / Terner Center. (2025). Denver parking reform study. (Eliminating parking minimums projected to boost housing by 12.5%, or 460 units/year.)
+- Brookings Institution. (2024). "Parking requirements and foundations are driving up the cost of multifamily housing." (Structured parking adds average $50,000 per unit.)
+- University of Kansas. (2025). "Study finds Kansas City fare-free bus policy attracted new riders, increased overall use." (24% ridership above peer cities; 17% new riders.)
+- Denver Gazette. (2024). "Denver's $8.6M e-bike program benefits low-income residents." (8,000 vouchers redeemed; 64% to lower/moderate income.)
+- World Economic Forum. (2024). "Why it's time to put urban form on the global climate agenda." Shanghai (50 km of routes connecting 4.8M residents), Sydney (George Street redesign, 8,000 riders/hour), Indianapolis ($27M bike investment catalyzed $170M private development).
+- Giving Compass / Smart Cities Dive. (2026). "8 Trends in Urban Housing, Transportation, and Climate Resilience to Watch in 2026." 15-minute city and climate-aligned urbanism trends.

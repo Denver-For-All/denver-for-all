@@ -238,8 +238,8 @@ Not entirely, but Denver can prepare. Contingency protocols using misoprostol-on
 - Guttmacher Institute. (2022). "State-level estimates of changes in abortion patient travel following Dobbs." (Projected 10-25% increase in patients traveling to protective states.)
 - Guttmacher Institute. (2015). "Publicly Funded Contraceptive Services: Costs and Cost Savings." ($7.09 saved per $1 invested in contraceptive services; $21 billion annual cost of unintended pregnancies.)
 - Colorado Secretary of State. (2024). Amendment 79: "Right to Abortion and Health Insurance Coverage." Approved November 2024 with 61.6% support. Effective January 1, 2026.
-- Colorado General Assembly. SB 25-183: "Reproductive Health Care Coverage Under Medicaid." Signed 2025. Expands Medicaid coverage to include abortion as "family-planning-related services."
-- Colorado General Assembly. SB 23-188 and SB 25-129: Colorado shield laws protecting reproductive healthcare providers from out-of-state legal action.
+- Colorado General Assembly. (2025). SB 25-183: "Reproductive Health Care Coverage Under Medicaid." Signed 2025. Expands Medicaid coverage to include abortion as "family-planning-related services."
+- Colorado General Assembly. (n.d.). SB 23-188 and SB 25-129: Colorado shield laws protecting reproductive healthcare providers from out-of-state legal action.
 - Cobalt Advocates. (2026). Press briefing on Amendment 79 implementation. Cited in KGNU Morning Magazine, February 2, 2026. ("Our success is going to be measured by our outcomes, not our intent... Colorado risks creating a legal right that patients cannot practically use.")
 - Brookings Institution. (2016). "The Economic Consequences of Unintended Pregnancy." (Unintended pregnancies carried to term have higher costs across healthcare, education, and social services.)
 - Hassan, A. (2026). "Bodily Autonomy as a Public Health Imperative." School of Public Health lecture series. (Bodily autonomy as foundational to health equity and self-determination.)
@@ -252,8 +252,8 @@ Not entirely, but Denver can prepare. Contingency protocols using misoprostol-on
 - National Abortion Federation. (2024). Violence and Disruption Statistics. (65% of Colorado providers reported trespassing in 2023-2024; 53% reported anti-abortion protesters.)
 - Planned Parenthood of the Rocky Mountains. (2024). Post-Dobbs capacity reports. (Wait time data: first-trimester 22 days, second-trimester 41 days; pre-Dobbs baselines.)
 - Colorado Legislative Council Staff. (2025). SB 25-183 Fiscal Note. ($5.9M costs; $6.4M savings from averted births; net savings $550K/year; $2.9M general fund appropriation.)
-- Colorado General Assembly. HB 22-1279: "Reproductive Health Equity Act." (Prohibits denying, restricting, or discriminating against the right to have an abortion. No independent fetal rights under state law.)
-- Colorado General Assembly. SB 23-189: "Reproductive Health Care Coverage." (Commercial insurance must cover abortion and STI services without cost-sharing.)
+- Colorado General Assembly. (n.d.). HB 22-1279: "Reproductive Health Equity Act." (Prohibits denying, restricting, or discriminating against the right to have an abortion. No independent fetal rights under state law.)
+- Colorado General Assembly. (n.d.). SB 23-189: "Reproductive Health Care Coverage." (Commercial insurance must cover abortion and STI services without cost-sharing.)
 - Medicaid Provider Rate Review Advisory Committee. (2025). Recommended maintaining provider rates at 80-100% of Medicare benchmarks.
 - Axios Denver. (2023). "Denver Health is offering abortions for first time in hospital history." (Denver Health began elective abortions November 2023.)
 - American Journal of Obstetrics & Gynecology (AJOG). (2025). Out-of-state residents 2.14x more likely to travel to Colorado post-Dobbs; Texas residents 7x more likely post-SB 8.

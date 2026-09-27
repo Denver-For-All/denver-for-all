@@ -69,3 +69,10 @@ Champlain Housing Trust ở Burlington, VT đã hoạt động từ năm 1984 v�
 
 **"Đây có thực sự là quyền sở hữu nhà nếu bạn không thể giữ tất cả lợi nhuận?"**
 Bạn sở hữu ngôi nhà của bạn. Bạn xây dựng vốn chủ sở hữu. Bạn chỉ không thể đầu cơ trên đất bên dưới nó. Sự đánh đổi: bạn đã trả một mức giá phải chăng khi tham gia. Gia đình tiếp theo xứng đáng có cơ hội tương tự. Đây là quyền sở hữu nhà cho những người muốn có nhà, không phải cho những người muốn có phương tiện đầu tư.
+
+## Tài Liệu Tham Khảo
+
+- Champlain Housing Trust. (n.d.). _About CHT_. Retrieved May 2026, from https://www.getahome.org
+- City and County of Denver, Department of Housing Stability (HOST). (2024). _Affordable housing need estimates_. https://www.denvergov.org/host
+- _Colorado Politics_. (2026, January 22). [News article on the opening of The Irving at Mile High Vista, including remarks by Mayor Mike Johnston on Denver's affordable-housing pace]. https://www.coloradopolitics.com
+- Elevation Community Land Trust. (n.d.). _Our homes_. Retrieved May 2026, from https://www.elevationclt.org

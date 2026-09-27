@@ -135,3 +135,15 @@ Polis 的任期有限。2027 年 1 月的新州长为自 1981 年以来优先权
 ---
 
 **立即采取行动：**[签署请愿书，废除科罗拉多州的租金管制禁令](https://resist.bot/petitions/PJZTYT)，或发送短信“sign PJZTYT”至 50409。每个签名都会向您的州长和州议员发送一封个性化的信件。[查看所有活动 →](/tools/resistbot)
+
+## 参考文献
+
+- Apartment Association of Metro Denver. (2026). _Vacancy and rent report (Q1 2026)_. https://www.aamdhq.org/vacancy-and-rent
+- Apartment List. (2026). _Denver, CO rent report_. https://www.apartmentlist.com/rent-report/co/denver
+- Colo. Rev. Stat. § 38-12-301 (1981).
+- Colorado General Assembly. (2023). _HB23-1115: Repeal prohibition local residential rent control_. https://leg.colorado.gov/bills/hb23-1115
+- Diamond, R., McQuade, T., & Qian, F. (2019). The effects of rent control expansion on tenants, landlords, and inequality: Evidence from San Francisco. _American Economic Review, 109_(9), 3365-3394. https://doi.org/10.1257/aer.20181289
+- RentCafe. (2026). _Average rent in Denver, CO_ [Yardi Matrix market-trends data]. https://www.rentcafe.com/average-rent-market-trends/us/co/denver/
+- _The Colorado Sun_. (2026, January 21). Apartments in metro Denver reach highest vacancy rate in 16 years, pushing down rents again. https://coloradosun.com/2026/01/21/apartments-in-metro-denver-reach-highest-vacancy-rate-in-16-years-pushing-down-rents-again/
+- U.S. Census Bureau. (2022). _Selected housing characteristics_ [American Community Survey 1-year estimates, Denver County, CO]. https://data.census.gov
+- Zillow. (2024). _Zillow Observed Rent Index (ZORI), Denver-Aurora-Lakewood, CO metro area_ [Data set]. https://www.zillow.com/research/data/

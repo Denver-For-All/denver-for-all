@@ -117,11 +117,11 @@
 
 ## المراجع
 
-- إدارة الصحة العامة والبيئة في كولورادو. (2023). بيانات انتحار الشباب. (السبب الرئيسي للوفاة للأعمار 10-24؛ 58٪ أعلى من المتوسط ​​الوطني).
-- مدارس دنفر العامة. (2023). تقارير المساءلة والغياب المزمن. (معدل الغياب المزمن 38٪).
-- الجمعية الأمريكية لمستشاري المدارس. النسبة الموصى بها بين المستشار والطالب: 1:250.
-- قسم شرطة دنفر. (2023). بيانات ضحايا الأحداث والجريمة.
-- Measure of America. سلسلة انقطاع الشباب. (معدلات انقطاع الشباب حسب المنطقة الحضرية).
-- مكتب رئيس بلدية بوسطن لتنمية القوى العاملة. بيانات وتقييم برنامج SuccessLink.
-- إدارة تنمية الشباب والمجتمع في مدينة نيويورك. تقارير برنامج توظيف الشباب الصيفي.
-- قسم خدمات الشباب في كولورادو. (2023). تكلفة الحدث الواحد في الاحتجاز.
+- Colorado Department of Public Health and Environment. (2023). Youth suicide data. (Leading cause of death ages 10-24; 58% above national average.)
+- Denver Public Schools. (2023). Accountability and chronic absenteeism reports. (38% chronic absenteeism rate.)
+- American School Counselor Association. (n.d.). Recommended counselor-to-student ratio: 1:250.
+- Denver Police Department. (2023). Juvenile victim and crime data.
+- Measure of America. (n.d.). Youth Disconnection series. (Disconnected youth rates by metro area.)
+- Boston Mayor's Office of Workforce Development. (n.d.). SuccessLink program data and evaluation.
+- NYC Department of Youth and Community Development. (n.d.). Summer Youth Employment Program reports.
+- Colorado Division of Youth Services. (2023). Cost per juvenile in detention.

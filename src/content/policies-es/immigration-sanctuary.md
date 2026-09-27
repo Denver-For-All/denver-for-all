@@ -127,9 +127,9 @@ La administración Trump amenazó con retener los fondos federales de las ciudad
 
 ## Referencias
 
-- U.S. Census Bureau. American Community Survey (ACS), 2023. (Población latina de Denver).
-- Denver Department of Finance. (2024). Informes de Gastos en Servicios para Recién Llegados. (Gasto de más de $100 millones en migrantes).
-- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy". Center for American Progress. (Datos de seguridad de las ciudades santuario).
-- Printz v. United States, 521 U.S. 898 (1997). (Doctrina anti-apropiación).
-- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Políticas de ciudad santuario confirmadas).
-- IDNYC Annual Report. (Datos de más de 1.3 millones de identificaciones municipales emitidas).
+- U.S. Census Bureau. (2023). American Community Survey (ACS). (Denver Latino population.)
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ migrant spending.)
+- Wong, T. (2017). "The Effects of Sanctuary Policies on Crime and the Economy." Center for American Progress. (Sanctuary cities safety data.)
+- Printz v. United States, 521 U.S. 898 (1997). (Anti-commandeering doctrine.)
+- City of Chicago v. Sessions, 888 F.3d 272 (7th Cir. 2018). (Sanctuary policies upheld.)
+- NYC Human Resources Administration. (n.d.). _IDNYC annual report_. (1.3M+ municipal IDs issued.)

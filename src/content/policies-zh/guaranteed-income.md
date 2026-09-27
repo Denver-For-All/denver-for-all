@@ -111,15 +111,15 @@
 
 ## 参考文献
 
-- Smart Cities Dive。（2025 年）。 “150 个城市测试了有保障的收入。 这是有效的 -  - 以及无效的。” 对美国有保障收入试点项目的汇总分析。
-- Mayors for a Guaranteed Income / Center for Guaranteed Income Research。（2025 年）。 “20 项有保障的收入研究表明就业率提高、财务稳定性更好和其他关键益处。” 对 20 项同行评审评估的荟萃分析。
-- Stanford Basic Income Lab。（2025 年）。 有保障的收入试点项目仪表板。 57 个正在进行的实验； 总共 150 多个。
-- University of Kansas。（2025 年）。 Boulder 有保障的收入试点项目评估。 200 名居民，每月 $500 美元，就业结果不一，基本需求结果积极。
-- Baltimore Mayor's Office。（2025 年）。 “Young Families Success Fund Final Report。” 200 名年轻父母，每月 $1,000 美元，为期 24 个月。 付款结束后，财务收益持续存在。
-- Washington University in St. Louis。（2025 年）。 “St. Louis Guaranteed Basic Income Pilot Improved Financial Stability。” 信用评分平均提高了 12 分； 减少了粮食不安全。
-- City of Newark。（2025 年）。 “Mayor Baraka Announces Guaranteed Income Pilot Results。” 400 名居民； 提高了财务弹性、住房/粮食安全、心理健康。
-- Cook County, IL。（2025 年）。 在为 3,250 名居民提供服务的 $4200 万美元试点项目后，美国第一个建立永久性有保障收入资金的县。
-- World Bank。（2014 年）。 Evans, D.K. 和 Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." 在 19 项研究中的 19 项研究中，现金转移支付减少了或没有影响酒精/烟草支出。
-- U.S. Census Bureau。（2023 年）。 American Community Survey，Denver-Aurora-Lakewood MSA。 贫困率、收入分配和成本负担数据。
+- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Aggregate analysis of US guaranteed income pilots.
+- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Meta-analysis of 20 peer-reviewed evaluations.
+- Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 ongoing experiments; 150+ total.
+- University of Kansas. (2025). Boulder guaranteed income pilot evaluation. 200 residents, $500/month, mixed employment results, positive basic needs outcomes.
+- Baltimore Mayor's Office. (2025). "Young Families Success Fund Final Report." 200 young parents, $1,000/month, 24 months. Sustained financial benefits after payments ended.
+- Washington University in St. Louis. (2025). "St. Louis Guaranteed Basic Income Pilot Improved Financial Stability." Credit scores increased average 12 points; reduced food insecurity.
+- City of Newark. (2025). "Mayor Baraka Announces Guaranteed Income Pilot Results." 400 residents; improved financial resilience, housing/food security, mental health.
+- Cook County, IL. (2025). First US county to establish permanent guaranteed income funding after $42M pilot serving 3,250 residents.
+- World Bank. (2014). Evans, D.K. and Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." Cash transfers reduced or had no effect on alcohol/tobacco spending in 19 of 19 studies.
+- U.S. Census Bureau. (2023). American Community Survey, Denver-Aurora-Lakewood MSA. Poverty rate, income distribution, and cost burden data.
 
 Denver For All

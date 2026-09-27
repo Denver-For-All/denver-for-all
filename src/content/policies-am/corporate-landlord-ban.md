@@ -87,3 +87,10 @@ Denver **የመኖሪያ ንብረትን ተቋማዊ ባለቤትነት ላይ 
 
 **"የተገደደ የንብረት ማስወገድ የንብረት ዋጋን የሚያወርድ የእሳት ሽያጭ አያስከትልም?"**
 የ5-ዓመት የንብረት ማስወገጃ የጊዜ መስመር የእሳት ሽያጭን ለመከላከል ሆን ተብሎ በቂ ጊዜ ተሰጥቶታል። በ Denver አሁን ባለው የቤት ሽያጭ ፍጥነት (በሜትሮ አካባቢ በዓመት ~30,000 ግብይቶች)፣ የተቋማዊ ንብረት ማስወገድ መጠን አነስተኛውን የጠቅላላ የገበያ እንቅስቃሴን ይወክላል። በ Denver ያሉ የድርጅት አከራዮች በመቶ ሺዎች የሚቆጠሩ ሳይሆን በሺዎች የሚቆጠሩ ክፍሎችን ይይዛሉ። በተናጥል በተገመገመ ትክክለኛ የገበያ ዋጋ ለመሸጥ የሚያስፈልገው መስፈርት - በተጨነቀ ዋጋ ሳይሆን - ዋጋን ከመቀነስ ይከላከላል። ለአሁኑ ተከራዮች፣ ለማህበረሰብ የመሬት እምነት እና ለማህበራዊ መኖሪያ ቤት ባለስልጣን የመጀመርያ ግዢ መብት ክፍሎቹ ወደ ተልዕኮ-ተኮር ገዢዎች እንዲሄዱ ያረጋግጣል እንጂ በመስመር ላይ ወዳለው ቀጣዩ የድርጅት አከራይ አይደለም። በ2021 በ59% ነዋሪዎች ድምጽ የተሰጠበት የበርሊን የንብረት ወረራ ሂደት ያለገበያ መስተጓጎል በተመሳሳይ የብዙ ዓመታት የጊዜ መስመር ላይ በመካሄድ ላይ ነው።
+
+## ማጣቀሻዎች
+
+- Deutsche Welle. (2021, September 27). _Berlin referendum: Majority votes to expropriate large landlords_. https://www.dw.com
+- Organisation for Economic Co-operation and Development. (2024). _OECD Affordable Housing Database_. https://www.oecd.org/housing/data/affordable-housing-database/
+- Redfin. (2024). _Investor home purchases in 2023_ [Data analysis]. https://www.redfin.com/news/investor-home-purchases-q4-2023/
+- U.S. Department of Justice. (2024, August 23). _Justice Department sues RealPage for algorithmic pricing scheme that harms millions of American renters_ [Press release]. https://www.justice.gov

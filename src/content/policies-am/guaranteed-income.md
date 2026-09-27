@@ -109,15 +109,15 @@
 **"ይህ በቋሚነት ተደርጎ አያውቅም።"**
 ኩክ ካውንቲ፣ ኢሊኖይስ በ2025 3,250 ነዋሪዎችን ካገለገለ የ$42 ሚሊዮን የአብራሪ ፕሮግራም በኋላ ቋሚ ዋስትና ያለው የገቢ ፈንድ አቋቋመች። አላስካ ከ40 ዓመታት በላይ ቋሚ የትርፍ ክፍፍል እየከፈለች ነው። በብራዚል ያለው የቦልሳ ፋሚሊያ ፕሮግራም ከሁለት አስርት ዓመታት በላይ 36 ሚሊዮን ሰዎችን ከድህነት አውጥቷል። ቋሚ ዋስትና ያለው ገቢ አለ። ጥያቄው ዴንቨር የገንዘብ ዝውውሮችን እንደ አስፈላጊ መሠረተ ልማት ከሚገነዘቡት እያደጉ ካሉት የክልል ዝርዝር ውስጥ ትቀላቀል ወይ የሚለው ነው።
 
-## ዋቢዎች
+## ማጣቀሻዎች
 
-- Smart Cities Dive. (2025)። "150 ከተሞች ዋስትና ያለው ገቢ ፈትነዋል። ምን ሰራ - እና ምን አልሰራም።" የአሜሪካ ዋስትና ያለው የገቢ አብራሪ ፕሮግራሞች የተጠቃለለ ትንተና።
-- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025)። "ሃያ ዋስትና ያላቸው የገቢ ጥናቶች የቅጥር መጨመር፣ የተሻለ የገንዘብ መረጋጋት እና ሌሎች ቁልፍ ጥቅሞችን ያሳያሉ።" 20 በአቻ የተገመገሙ ግምገማዎች ሜታ-ትንተና።
-- Stanford Basic Income Lab. (2025)። Guaranteed Income Pilots Dashboard. 57 ቀጣይ ሙከራዎች፤ 150+ በአጠቃላይ።
-- University of Kansas. (2025)። የቦልደር ዋስትና ያለው የገቢ አብራሪ ፕሮግራም ግምገማ። 200 ነዋሪዎች፣ በወር $500፣ የተቀላቀሉ የቅጥር ውጤቶች፣ አዎንታዊ መሠረታዊ ፍላጎቶች ውጤቶች።
-- Baltimore Mayor's Office. (2025)። "Young Families Success Fund Final Report." 200 ወጣት ወላጆች፣ በወር $1,000፣ 24 ወራት። ክፍያዎች ካለቁ በኋላ ዘላቂ የገንዘብ ጥቅሞች።
-- Washington University in St. Louis. (2025)። "St. Louis Guaranteed Basic Income Pilot Improved Financial Stability." የብድር ነጥቦች በአማካይ 12 ነጥብ ጨምረዋል፤ የምግብ ዋስትና ቀንሷል።
-- City of Newark. (2025)። "Mayor Baraka Announces Guaranteed Income Pilot Results." 400 ነዋሪዎች፤ የተሻሻለ የገንዘብ የመቋቋም ችሎታ፣ የመኖሪያ ቤት/የምግብ ዋስትና፣ የአእምሮ ጤና።
-- Cook County, IL. (2025)። 3,250 ነዋሪዎችን ያገለገለ የ$42M የአብራሪ ፕሮግራም በኋላ ቋሚ ዋስትና ያለው የገቢ ፈንድ ያቋቋመ የመጀመሪያው የአሜሪካ አውራጃ።
-- World Bank. (2014)። Evans, D.K. and Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." የገንዘብ ዝውውሮች በአልኮል/ትምባሆ ላይ የሚወጣውን ወጪ በ19 ከ19 ጥናቶች ቀንሰዋል ወይም ምንም ተጽእኖ አልነበራቸውም።
-- U.S. Census Bureau. (2023)። American Community Survey, Denver-Aurora-Lakewood MSA. የድህነት መጠን፣ የገቢ ስርጭት እና የወጪ ጫና መረጃ።
+- Smart Cities Dive. (2025). "150 cities tested guaranteed income. Here's what worked - and what didn't." Aggregate analysis of US guaranteed income pilots.
+- Mayors for a Guaranteed Income / Center for Guaranteed Income Research. (2025). "Twenty Guaranteed Income Studies Show Increased Employment, Better Financial Stability and Other Key Benefits." Meta-analysis of 20 peer-reviewed evaluations.
+- Stanford Basic Income Lab. (2025). Guaranteed Income Pilots Dashboard. 57 ongoing experiments; 150+ total.
+- University of Kansas. (2025). Boulder guaranteed income pilot evaluation. 200 residents, $500/month, mixed employment results, positive basic needs outcomes.
+- Baltimore Mayor's Office. (2025). "Young Families Success Fund Final Report." 200 young parents, $1,000/month, 24 months. Sustained financial benefits after payments ended.
+- Washington University in St. Louis. (2025). "St. Louis Guaranteed Basic Income Pilot Improved Financial Stability." Credit scores increased average 12 points; reduced food insecurity.
+- City of Newark. (2025). "Mayor Baraka Announces Guaranteed Income Pilot Results." 400 residents; improved financial resilience, housing/food security, mental health.
+- Cook County, IL. (2025). First US county to establish permanent guaranteed income funding after $42M pilot serving 3,250 residents.
+- World Bank. (2014). Evans, D.K. and Popova, A. "Cash Transfers and Temptation Goods: A Review of Global Evidence." Cash transfers reduced or had no effect on alcohol/tobacco spending in 19 of 19 studies.
+- U.S. Census Bureau. (2023). American Community Survey, Denver-Aurora-Lakewood MSA. Poverty rate, income distribution, and cost burden data.

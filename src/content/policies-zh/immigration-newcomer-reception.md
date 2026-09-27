@@ -127,11 +127,11 @@
 
 ## 参考文献
 
-- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports.（超过1亿美元和8990万美元的拨款数据。）
-- Denver Human Services. (2024). Denver Newcomer Program Annual Report.（超过4万名抵达者的数据。）
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ and $89.9M allocation data.)
+- Denver Human Services. (2024). Denver Newcomer Program Annual Report. (40,000+ arrivals figure.)
 - National Alliance to End Homelessness. (2023). Emergency Shelter vs. Transitional Housing Cost Comparison.
-- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Labor Market Integration of Refugees in Germany.（2015年抵达者中的就业率。）
-- Immigration, Refugees and Citizenship Canada. (2019). Syrian Refugee Resettlement Outcomes Report.（90%的经济独立数据。）
+- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Labor Market Integration of Refugees in Germany. (Employment rates among 2015 arrivals.)
+- Immigration, Refugees and Citizenship Canada. (2019). Syrian Refugee Resettlement Outcomes Report. (90% financial independence figure.)
 - NYC Comptroller. (2024). Asylum Seeker Services: Costs and Outcomes.
 - World Bank. (2023). Venezuelan Migration in Colombia: Economic Impacts and Integration Outcomes.
-- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves." Journal of Economic Perspectives.（移民目的地选择证据。）
+- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves." Journal of Economic Perspectives. (Migration destination choice evidence.)

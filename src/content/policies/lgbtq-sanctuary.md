@@ -213,6 +213,6 @@ Because discrimination has economic consequences. LGBTQ+ people, particularly tr
 - American Psychological Association. (2009). "Report of the Task Force on Appropriate Therapeutic Responses to Sexual Orientation." Conversion therapy causes harm; no evidence of efficacy.
 - NYCLU. (2025). "No Backing Down: A Civil Rights Agenda for the 2026 New York City Council." Municipal LGBTQ+ protection framework.
 - National LGBTQ Task Force. (2026). "Creating Change 2026." Conference proposals addressing intersectional LGBTQ+ policy.
-- Colorado General Assembly. HB 19-1129. "Conversion Therapy Ban for Minors." Enacted 2019.
-- Colorado Anti-Discrimination Act (CADA). C.R.S. 24-34-301 et seq. Sexual orientation and gender identity protections.
+- Colorado General Assembly. (2019). HB 19-1129. "Conversion Therapy Ban for Minors."
+- Colo. Rev. Stat. § 24-34-301 et seq. (Colorado Anti-Discrimination Act). Sexual orientation and gender identity protections.
 - Center for American Progress. (2025). "Advancing LGBTQ Equality Through Local Executive Action." Municipal policy toolkit.

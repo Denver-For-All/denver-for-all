@@ -104,8 +104,8 @@
 
 ## ማጣቀሻዎች
 
-- የጀርመን የሥራ ሕገ መንግሥት ሕግ (_Betriebsverfassungsgesetz_)፣ 1972 (እ.ኤ.አ. በ2001 የተሻሻለው)
-- የጀርመን የጋራ ውሳኔ ሕግ (_Mitbestimmungsgesetz_)፣ 1976
-- የኢኮኖሚ ፖሊሲ ተቋም፣ "የዋና ስራ አስፈፃሚ ክፍያ ከ1978 ጀምሮ በ1,460% ጨምሯል" _ሪፖርት_፣ 2022 (የ2021 መረጃን ይሸፍናል)
-- ዓለም አቀፍ የሠራተኛ ድርጅት (ILO)፣ _በድርጅት አስተዳደር ውስጥ የሠራተኛ ተሳትፎ_፣ 2022
-- የስዊድን የጋራ ውሳኔ በሥራ ሕግ (_Medbestammandelagen_, MBL), 1976
+- Federal Republic of Germany. (1972, amended 2001). _Works Constitution Act_ (_Betriebsverfassungsgesetz_).
+- Federal Republic of Germany. (1976). _Codetermination Act_ (_Mitbestimmungsgesetz_).
+- Economic Policy Institute. (2022). "CEO Pay Has Skyrocketed 1,460% Since 1978," _Report_ (covering 2021 data)
+- International Labour Organization (ILO). (2022). _Worker Participation in Enterprise Governance_.
+- Kingdom of Sweden. (1976). _Employment (Co-determination in the Workplace) Act_ (_Medbestämmandelagen_, MBL).

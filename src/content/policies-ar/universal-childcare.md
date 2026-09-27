@@ -113,9 +113,9 @@
 
 ## المراجع
 
-- معهد السياسة الاقتصادية. (2023). تكاليف رعاية الأطفال في الولايات المتحدة. (بيانات تكلفة رعاية الأطفال في دنفر.)
-- إحصاءات التوظيف والأجور المهنية لـ BLS. (2024). العاملون في مجال رعاية الأطفال، منطقة دنفر الكبرى. (14.50 دولارًا في الساعة متوسط ​​الأجر.)
-- بيانات برنامج CCCAP في كولورادو وعتبات الأهلية.
-- بيكر، إم.، جروبر، ج.، وميليجان، ك. (2008). "رعاية الأطفال الشاملة، وعرض عمل الأمهات، ورفاهية الأسرة". مجلة الاقتصاد السياسي. (تأثير رعاية الأطفال الشاملة في كيبيك.)
-- هيكمان، ج. (2006). "تكوين المهارات واقتصاديات الاستثمار في الأطفال المحرومين". علوم. (عائد 7-13 دولارًا لكل دولار واحد يتم استثماره.)
-- الرسوم الدراسية داخل الولاية في جامعة CU Boulder (2024-2025): 13,590 دولارًا سنويًا. (مقارنة بتكاليف رعاية الأطفال.)
+- Economic Policy Institute. (2023). Child Care Costs in the United States. (Denver childcare cost data.)
+- BLS Occupational Employment and Wage Statistics. (2024). Childcare workers, Denver metro area. ($14.50/hr median.)
+- Colorado Department of Early Childhood. (n.d.). _Colorado Child Care Assistance Program (CCCAP)_ [Program data and eligibility thresholds].
+- Baker, M., Gruber, J., & Milligan, K. (2008). "Universal Child Care, Maternal Labor Supply, and Family Well-Being." Journal of Political Economy. (Quebec universal childcare impact.)
+- Heckman, J. (2006). "Skill Formation and the Economics of Investing in Disadvantaged Children." Science. ($7-13 return per $1 invested.)
+- University of Colorado Boulder. (2024). _Tuition and fees, 2024–2025_. ($13,590/year in-state; comparison to childcare costs.)

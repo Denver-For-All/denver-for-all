@@ -127,11 +127,11 @@ Sí, ese es el punto. El Fondo de Servicios para Recién Llegados incluye un des
 
 ## Referencias
 
-- Departamento de Finanzas de Denver. (2024). Informes de Gastos de Servicios para Recién Llegados. (Datos de asignación de más de $100 millones y $89.9 millones).
-- Servicios Humanos de Denver. (2024). Informe Anual del Programa para Recién Llegados de Denver. (Cifra de más de 40,000 llegadas).
-- National Alliance to End Homelessness. (2023). Comparación de Costos de Refugio de Emergencia vs. Vivienda de Transición.
-- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Integración al Mercado Laboral de Refugiados en Alemania. (Tasas de empleo entre las llegadas de 2015).
-- Inmigración, Refugiados y Ciudadanía de Canadá. (2019). Informe de Resultados del Reasentamiento de Refugiados Sirios. (Cifra del 90% de independencia financiera).
-- Contralor de la Ciudad de Nueva York. (2024). Servicios para Solicitantes de Asilo: Costos y Resultados.
-- Banco Mundial. (2023). Migración Venezolana en Colombia: Impactos Económicos y Resultados de Integración.
-- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves". Journal of Economic Perspectives. (Evidencia de la elección del destino de la migración).
+- Denver Department of Finance. (2024). Newcomer Services Expenditure Reports. ($100M+ and $89.9M allocation data.)
+- Denver Human Services. (2024). Denver Newcomer Program Annual Report. (40,000+ arrivals figure.)
+- National Alliance to End Homelessness. (2023). Emergency Shelter vs. Transitional Housing Cost Comparison.
+- IAB (Institut für Arbeitsmarkt- und Berufsforschung). (2022). Labor Market Integration of Refugees in Germany. (Employment rates among 2015 arrivals.)
+- Immigration, Refugees and Citizenship Canada. (2019). Syrian Refugee Resettlement Outcomes Report. (90% financial independence figure.)
+- NYC Comptroller. (2024). Asylum Seeker Services: Costs and Outcomes.
+- World Bank. (2023). Venezuelan Migration in Colombia: Economic Impacts and Integration Outcomes.
+- Clemens, M. & Hunt, J. (2019). "The Labor Market Effects of Refugee Waves." Journal of Economic Perspectives. (Migration destination choice evidence.)

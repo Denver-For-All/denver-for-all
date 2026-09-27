@@ -81,8 +81,11 @@ Eso es exactamente lo que la VOP evita. Si tu primera opción es eliminada, tu v
 
 ## Referencias
 
-- Coll, J. et al. _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab, 2022.
-- Asamblea General de Colorado. HB24-1190, _Ranked Choice Voting - Municipal Elections Authorization._ 2024.
-- División de Elecciones de Denver. _Datos históricos de participación y costos._ 2023.
-- FairVote. _Ranked Choice Voting in Practice._ 2025.
-- Consejo de Financiamiento de Campañas de la Ciudad de Nueva York. _Small-Dollar Matching Program Impact Report._ 2022.
+- Coll, J. et al. (2022). _Ranked Choice Voting and Representation._ MIT Election Data and Science Lab.
+- Colorado General Assembly. (2024). HB24-1190, _Ranked Choice Voting - Municipal Elections Authorization._.
+- Denver Elections Division. (2023). _Historical Turnout and Cost Data._.
+- Donovan, T. et al. (2016). _Campaign Civility Under Preferential and Plurality Voting._ Electoral Studies.
+- FairVote. (2025). _Ranked Choice Voting in Practice._.
+- FairVote. (2024). _Voter Satisfaction Evidence._.
+- New York City Campaign Finance Board. (2022). _Small-Dollar Matching Program Impact Report._.
+- Colorado Secretary of State. (2024). _Voter Registration Statistics._.

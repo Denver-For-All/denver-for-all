@@ -144,20 +144,20 @@ Denver Health هو مستشفى عام يوفر شبكة أمان، لكنه ل�
 
 ## المراجع
 
-- Himmelstein، D.، et al. (2009). "الإفلاس الطبي في الولايات المتحدة". American Journal of Medicine. (62% من حالات الإفلاس تنطوي على ديون طبية).
-- Dobkin، C.، Finkelstein، A.، Kluender، R.، and Notowidigdo، M.J. (2018). "النتائج الاقتصادية لحالات دخول المستشفى". American Economic Review، 108(2): 308-352. (تخفض حالات دخول المستشفى الأرباح بنسبة 20% وتزيد من خطر الإفلاس، مع تأثيرات أكبر على السكان غير المؤمن عليهم).
-- Undue Medical Debt (RIP Medical Debt سابقاً). بيانات البرنامج ونتائج الشراكة مع المدينة.
-- Gillespie، S.، Curran-Groome، W.، Chen، B.، & Hanson، D. (2026). "مواءمة الاستجابة للأزمات مع احتياجات المجتمع: دليل من برنامج فريق الدعم للاستجابة المساعدة (STAR) وبرامج المستجيب المشارك في Denver". Urban Institute.
-- OECD Health Statistics. (2024). مقارنات الإنفاق الصحي للفرد.
-- Commonwealth Fund. (2023). "مرآة، مرآة: تعكس بشكل سيئ". (مقارنة النظام الصحي بين الولايات المتحدة والدول النظيرة).
-- HRSA Data Warehouse. مواقع FQHC ومناطق الخدمة في Denver.
-- Colorado Division of Insurance. بيانات معدل غير المؤمن عليهم.
-- CDC. (2024). تقرير مراقبة صحة الفم. (تسوس الأسنان هو المرض المزمن رقم 1 بين الأطفال؛ انتشار التسوس غير المعالج حسب الدخل).
-- CDC Community Preventive Services Task Force. (2016). تسوس الأسنان: برامج توصيل مواد مانعة للتسرب للأسنان في المدارس. (تقلل المواد المانعة للتسرب من التسوس بنسبة 80% في الأسنان المعالجة؛ عائد 2 دولار لكل دولار واحد يتم استثماره).
-- Colorado Dental Association Health Policy Institute. (2023). بيانات صحة الفم في Colorado. (تغيب 35% من البالغين عن رعاية الأسنان بسبب التكلفة؛ بيانات نقص مقدمي خدمات طب الأسنان).
-- Mental Health America. (2024). حالة الصحة النفسية في أمريكا. (تحتل Colorado المرتبة 48 في الوصول إلى الرعاية الصحية النفسية).
-- American School Counselor Association. توصيات بشأن نسبة الطلاب إلى المستشارين (1:250؛ DPS الفعلي ~1:450).
-- Colorado Health Institute. (2023). الصحة السلوكية في Colorado: تكلفة الحاجة التي لم تتم تلبيتها. (تقدير التكلفة السنوية للأمراض النفسية غير المعالجة بمبلغ 2.3 مليار دولار).
-- Archer، J.، et al. (2012). "الرعاية التعاونية لمشاكل الاكتئاب والقلق". Cochrane Database of Systematic Reviews. (تحسين الرعاية الصحية السلوكية المتكاملة النتائج وتقليل التكلفة الإجمالية).
-- WHO. (2022). تقرير الصحة النفسية العالمي. (عائد 4-7 دولارات لكل دولار يتم استثماره في التدخل المبكر في الصحة النفسية).
-- Sanz، M.، et al. (2020). "علاج التهاب دواعم السن من المرحلة الأولى إلى الثالثة". Journal of Clinical Periodontology. (روابط بين مرض اللثة والحالات الصحية الجهازية).
+- Himmelstein, D., et al. (2009). "Medical Bankruptcy in the United States." American Journal of Medicine. (62% of bankruptcies involve medical debt.)
+- Dobkin, C., Finkelstein, A., Kluender, R., and Notowidigdo, M.J. (2018). "The Economic Consequences of Hospital Admissions." American Economic Review, 108(2): 308-352. (Hospital admissions reduce earnings by 20% and increase bankruptcy risk, with larger effects for uninsured populations.)
+- Undue Medical Debt (formerly RIP Medical Debt). (n.d.). Program data and city partnership outcomes.
+- Gillespie, S., Curran-Groome, W., Chen, B., & Hanson, D. (2026). "Aligning Crisis Response with Community Needs: Evidence from Denver's Support Team Assisted Response (STAR) and Co-Responder Programs." Urban Institute.
+- OECD Health Statistics. (2024). Health spending per capita comparisons.
+- Commonwealth Fund. (2023). "Mirror, Mirror: Reflecting Poorly." (US vs. peer nation health system comparison.)
+- HRSA Data Warehouse. (n.d.). FQHC locations and service areas in Denver.
+- Colorado Division of Insurance. (n.d.). Uninsured rate data.
+- CDC. (2024). Oral Health Surveillance Report. (Dental caries as #1 chronic childhood disease; untreated decay prevalence by income.)
+- CDC Community Preventive Services Task Force. (2016). Dental Caries: School-Based Dental Sealant Delivery Programs. (Sealants reduce cavities by 80% in treated teeth; $2 return per $1 invested.)
+- Colorado Dental Association Health Policy Institute. (2023). Colorado Oral Health Data. (35% of adults skipped dental care due to cost; dental provider shortage data.)
+- Mental Health America. (2024). The State of Mental Health in America. (Colorado ranks 48th in access to mental health care.)
+- American School Counselor Association. (n.d.). Student-to-counselor ratio recommendations. (1:250; DPS actual ~1:450).
+- Colorado Health Institute. (2023). Behavioral Health in Colorado: Cost of Unmet Need. ($2.3B annual cost estimate for untreated mental illness.)
+- Archer, J., et al. (2012). "Collaborative care for depression and anxiety problems." Cochrane Database of Systematic Reviews. (Integrated behavioral health improves outcomes and reduces total cost.)
+- WHO. (2022). World Mental Health Report. ($4-7 return per $1 invested in early mental health intervention.)
+- Sanz, M., et al. (2020). "Treatment of Stage I-III Periodontitis." Journal of Clinical Periodontology. (Links between periodontal disease and systemic health conditions.)

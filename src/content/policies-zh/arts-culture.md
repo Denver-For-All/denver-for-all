@@ -101,11 +101,11 @@ SCFD是一项重要的资金来源（2024年为8500万美元），但它主要�
 
 ## 参考文献
 
-- Colorado Business Committee for the Arts (CBCA). (2024). 丹佛都市区文化经济活动研究。31.2亿美元的经济活动，14,466个工作岗位，6.92亿美元的文化旅游，1452万人次的参与。
-- Scientific and Cultural Facilities District (SCFD). (2024). 年度报告。向七个县的300多个组织分配了8500万美元。
-- Denver Arts & Venues. (2024). Denver Creates文化计划。建立在2500多个社区声音之上的十年战略计划。
-- Denver Public Art Program. (2023). 计划概述。自1991年以来，城市CIP的艺术百分比为1%，产生了超过4000万美元，400多件作品，其中55%由科罗拉多州的艺术家创作。
-- Colorado Office of Economic Development and International Trade (OEDIT). (2024). 科罗拉多州创意产业数据。全州创意经济影响为197亿美元，超过121,000个工作岗位，人均艺术资金在各州中排名第39位。
-- SMU DataArts. (2024). 艺术活力指数。丹佛在大型社区中排名第18位。
-- Bonfils-Stanton Foundation. (2020). "城市的幽灵：丹佛的住房危机如何驱逐其艺术家。"
-- Westword. (2024). 丹佛音乐和艺术报道，包括场地关闭、SCFD分配分析和Denver Creates报告。
+- Colorado Business Committee for the Arts (CBCA). (2024). Economic Activity Study of Metro Denver Culture. $3.12 billion in economic activity, 14,466 jobs, $692 million in cultural tourism, 14.52 million attendance.
+- Scientific and Cultural Facilities District (SCFD). (2024). Annual Report. $85 million distributed to 300+ organizations across seven counties.
+- Denver Arts & Venues. (2024). Denver Creates Cultural Plan. Ten-year strategic plan built on 2,500+ community voices.
+- Denver Public Art Program. (2023). Program overview. 1% for art on city CIP since 1991, $40M+ generated, 400+ works, 55% by Colorado artists.
+- Colorado Office of Economic Development and International Trade (OEDIT). (2024). Colorado Creative Industries data. $19.7 billion statewide creative economy impact, 121,000+ jobs, state ranking of 39th in per capita arts funding.
+- SMU DataArts. (2024). Arts Vibrancy Index. Denver ranked 18th among large communities.
+- Bonfils-Stanton Foundation. (2020). "Ghosts of a City: How Denver's Housing Crisis is Driving Out its Artists."
+- Westword. (2024). Denver music and arts coverage, including venue closures, SCFD distribution analysis, and Denver Creates reporting.

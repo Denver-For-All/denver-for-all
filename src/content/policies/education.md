@@ -172,10 +172,10 @@ Yes. Colorado's CDEC provides 15 hours/week of Pre-K for 4-year-olds, which is a
 
 ## References
 
-- Colorado Department of Early Childhood (CDEC). Universal Pre-K enrollment and program data.
+- Colorado Department of Early Childhood (CDEC). (n.d.). Universal Pre-K enrollment and program data.
 - DPS Annual Report. (2024). Enrollment, charter school count, per-pupil funding.
 - Denver Classroom Teachers Association. (2023). Teacher retention and housing survey.
 - Hunger Free Colorado. (2023). Child food insecurity estimates for Denver.
-- National Center for Education Statistics. DPS salary and staffing data.
-- OECD PISA Rankings. International education comparison data.
-- Sahlberg, P. "Finnish Lessons." (Finland education reform evidence.)
+- National Center for Education Statistics. (n.d.). DPS salary and staffing data.
+- OECD PISA Rankings. (n.d.). International education comparison data.
+- Sahlberg, P. (2011). _Finnish lessons: What can the world learn from educational change in Finland?_ Teachers College Press. (Finland education reform evidence.)
